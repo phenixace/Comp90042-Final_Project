@@ -1,4 +1,5 @@
 from torch.utils.data import Dataset
+import json
 
 class MyDataset(Dataset):
     def __init__(self, mode):
@@ -25,11 +26,17 @@ class MyDataset(Dataset):
 
 if __name__ == '__main__':
 
-    test_set = MyDataset(mode = 'dev')
+    test_set = MyDataset(mode = 'train')
 
-    files, label = test_set[0]
+    files, label = test_set[5]
 
     temp = files.strip('\n').split(',')
 
     for item in temp:
-        f = open('./project-data/tweet-objects' + temp + '.json')
+        try:
+            f = open('./project-data/tweet-objects/' + item + '.json')
+            lines = f.readlines()
+            f.close()
+            print(lines)
+        except:
+            print(item +' not found!')
