@@ -1,42 +1,54 @@
 from torch.utils.data import Dataset
 import json
+from utils import clean_text
 
 class MyDataset(Dataset):
     def __init__(self, mode):
         super().__init__()
-        instance_file = './project-data/' + mode + '.data.txt'
-        label_file = './project-data/' + mode + '.label.txt'
+        self.mode = mode
+        self.sep = ' </s> '
+        instance_file = './project-data/' + mode + '.data.txt'      
 
         f = open(instance_file)
         self.instance_lines = f.readlines()
         f.close()
 
-        f = open(label_file)
-        self.label_lines = f.readlines()
-        f.close()
+        if self.mode != 'test':
+            label_file = './project-data/' + mode + '.label.txt'
+            f = open(label_file)
+            self.label_lines = f.readlines()
+            f.close()
 
-        assert len(self.instance_lines) == len(self.label_lines), "Inconsistant instances and labels"
+            assert len(self.instance_lines) == len(self.label_lines), "Inconsistant number between instances and labels"
 
     def __getitem__(self, index):
-        return self.instance_lines[index], self.label_lines[index]
+        temp = self.instance_lines[index].strip('\n').split(',')
+        text = ""
+        for item in temp:
+            f = open('./project-data/tweet-objects/' + item + '.json')
+            content = json.load(f)
+            text += clean_text(content['text']).strip() + self.sep
+        text = text.strip()
+        if self.mode != 'test':        
+            return text, self.label_lines[index]
+        else:
+            return text
 
     def __len__(self):
         return len(self.instance_lines)
 
 
+class Collator(object):
+    def __init__(self):
+        pass
+
+    def __call__(self):
+        pass
+
 if __name__ == '__main__':
 
-    test_set = MyDataset(mode = 'train')
+    test_set = MyDataset(mode = 'test')
 
-    files, label = test_set[5]
+    text = test_set[1]
 
-    temp = files.strip('\n').split(',')
-
-    for item in temp:
-        try:
-            f = open('./project-data/tweet-objects/' + item + '.json')
-            lines = f.readlines()
-            f.close()
-            print(lines)
-        except:
-            print(item +' not found!')
+    print(text)
