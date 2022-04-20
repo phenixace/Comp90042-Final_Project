@@ -34,9 +34,14 @@ class MyDataset(Dataset):
                 label = 1
             else:
                 label = 0
-            return text, label
+            return {
+                'text': text, 
+                'label': label
+            }
         else:
-            return text
+            return {
+                'text': text
+            }
 
     def __len__(self):
         return len(self.instance_lines)
@@ -52,8 +57,14 @@ class Collator(object):
 
 if __name__ == '__main__':
 
-    test_set = MyDataset(mode = 'test')
+    instance_file = './project-data/' + 'train' + '.data.txt'      
 
-    text = test_set[1]
+    f = open(instance_file)
+    instance_lines = f.readlines()
+    f.close()
 
-    print(text)
+    num = 0
+    for line in instance_lines:
+        num += len(line.split(','))
+
+    print(num)
