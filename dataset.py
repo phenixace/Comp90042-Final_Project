@@ -1,5 +1,6 @@
 from torch.utils.data import Dataset
 import json
+import torch
 from utils import clean_text
 
 class MyDataset(Dataset):
@@ -48,12 +49,26 @@ class MyDataset(Dataset):
 
 
 class Collator(object):
-    def __init__(self, tokenizer, max_length):
+    def __init__(self, tokenizer, max_length=512):
         self.tokenizer = tokenizer
         self.max_length = max_length
 
     def __call__(self, batch):
-        pass
+        text = [item['text'] for item in batch]
+        text = self.tokenizer.batch_encode_plus(
+            text,
+            max_length=self.max_length if self.max_length > 0 else None,
+            pad_to_max_length=True,
+            return_tensors='pt',
+            truncation=True if self.max_length > 0 else False,
+        )
+
+        if 'label' in batch[0]:
+            label = torch.tensor([item['label'] for item in batch])
+            return (text, label)
+        else:
+            return text
+
 
 if __name__ == '__main__':
 

@@ -14,6 +14,9 @@ def clean_text(text):
     text = re.sub('  ', ' ', text)
     return text.lower()
 
+def save(model):
+    pass
+
 class FixedScheduler(torch.optim.lr_scheduler.LambdaLR):
     def __init__(self, optimizer, last_epoch=-1):
         super(FixedScheduler, self).__init__(optimizer, self.lr_lambda, last_epoch=last_epoch)
