@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-20 10:11:16+00:00",
+    "id": 502035126801678336,
+    "text": "@zaidbenjamin WARNING, VIOLENCE http://t.co/aCalBAhCJN",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "urls": [
+            {
+                "start": 32,
+                "end": 54,
+                "url": "http://t.co/aCalBAhCJN",
+                "expanded_url": "http://www.liveleak.com/view?i=bc1_1408481278",
+                "display_url": "liveleak.com/view?i=bc1_140\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

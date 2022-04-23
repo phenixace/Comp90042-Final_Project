@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-23 22:30:36+00:00",
+    "id": 525414012528627713,
+    "text": "@Breaking911 - Fuuuuuuuck. :( I just squeezed my dog until his eyes popped out like a cartoon. Can't handle this. #RIPNathanCirillo",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Breaking911",
+                "id": "375721095"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 114,
+                "end": 131,
+                "tag": "RIPNathanCirillo"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 375721095
+}

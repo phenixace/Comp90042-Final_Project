@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 23:41:25+00:00",
+    "id": 674373246096142337,
+    "text": "@RollingStone @andreapetkovic No weapons that kill, it is the man that kills! Especially those who speak of peace, equality among people.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "andreapetkovic",
+                "id": "63692643"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

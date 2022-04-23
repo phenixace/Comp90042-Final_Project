@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-12 19:42:15+00:00",
+    "id": 554725060423196672,
+    "text": "@RT_com You are ok to build a snow figure of anything without a soul - a house, a car, an animal, Henry Kissinger etc etc",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 98,
+                "end": 112,
+                "probability": 0.9635,
+                "type": "Person",
+                "normalized_text": "Henry Kissinger"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 64643056
+}

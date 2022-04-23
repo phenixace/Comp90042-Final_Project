@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-13 05:01:51+00:00",
+    "id": 521526203329830912,
+    "text": "@AmyMek Article quotes her out of context. Read the original. KS on her character in the movie: \"Simple, but good. Detainees are ppl too\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-09-09 14:16:33+00:00",
+    "id": 377073042310311937,
+    "text": "@EmilyWaldvogel @JansenPaige WHAT THE FREAKING FREAKIN FREAK!!!! \ud83d\ude33\ud83d\ude0d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "EmilyWaldvogel",
+                "id": "1041178470"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "JansenPaige",
+                "id": "601850555"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1041178470
+}

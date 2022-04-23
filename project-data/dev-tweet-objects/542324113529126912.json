@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-12-09 14:25:19+00:00",
+    "id": 542324113529126912,
+    "text": "@CronkiteSays karma is a b!#ch! he is committing arson but fire department racist bc they are overwhelmed putting out his other fires. WTF",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CronkiteSays",
+                "id": "2546562188"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 27,
+                "end": 30,
+                "tag": "ch"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2546562188
+}

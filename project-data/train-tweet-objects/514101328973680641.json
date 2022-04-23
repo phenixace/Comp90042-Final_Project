@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-22 17:18:03+00:00",
+    "id": 514101328973680641,
+    "text": "@SNE_ALERTS @BreakingNews @WCVB will be intresting to see why they tool off",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "SNE_ALERTS",
+                "id": "753001742"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "username": "WCVB",
+                "id": "21419504"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 753001742
+}

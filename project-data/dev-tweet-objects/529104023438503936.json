@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-03 02:53:24+00:00",
+    "id": 529104023438503936,
+    "text": "@fluffyguy thank God you responded... I was losing my mind... Keep on being you Gabriel... You're super funny",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 19,
+                "probability": 0.9187,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "probability": 0.962,
+                "type": "Person",
+                "normalized_text": "Gabriel"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28245852
+}

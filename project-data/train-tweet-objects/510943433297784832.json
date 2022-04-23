@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-09-14 00:09:42+00:00",
+    "id": 510943433297784832,
+    "text": "@FoxNews @itvnews The voiceless majority outside of these radicals that is Islam are now complicit in their brothers crimes against man.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 79,
+                "probability": 0.5485,
+                "type": "Person",
+                "normalized_text": "Islam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "itvnews",
+                "id": "21866939"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

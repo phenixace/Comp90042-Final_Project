@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 01:51:45+00:00",
+    "id": 387032467972296704,
+    "text": "@th3j35t3r or why Michelle Obamas \"let's move\" food nanny website is still up?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 32,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Michelle Obamas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "th3j35t3r",
+                "id": "97994396"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 97994396
+}

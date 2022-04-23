@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-12 16:36:28+00:00",
+    "id": 543444281248464896,
+    "text": "@nytimes I guess Frank Cassara was right. Our animals do have souls.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 29,
+                "probability": 0.9744,
+                "type": "Person",
+                "normalized_text": "Frank Cassara"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 807095
+}

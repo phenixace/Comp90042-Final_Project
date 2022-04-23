@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-06-23 12:45:02+00:00",
+    "id": 1275409530558599169,
+    "text": "@TimestepJess @brigidbergin @Troymajian @BOENYC @boenyc I DM'd you without ANY response.  I do not have my absentee ballot nor does my partner.  \n\nHow can you expect to know legitimate results in a primary election when 10,000s of ballots may very well be simply missing and your fault?  \n\nCan we please get some extra time?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TimestepJess",
+                "id": "281689801"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "brigidbergin",
+                "id": "11915822"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "username": "Troymajian",
+                "id": "548768519"
+            },
+            {
+                "start": 40,
+                "end": 47,
+                "username": "BOENYC",
+                "id": "210927444"
+            },
+            {
+                "start": 48,
+                "end": 55,
+                "username": "BOENYC",
+                "id": "210927444"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 281689801
+}

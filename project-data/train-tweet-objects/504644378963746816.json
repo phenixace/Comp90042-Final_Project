@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-08-27 14:59:30+00:00",
+    "id": 504644378963746816,
+    "text": "@SportsBizNews three out of those four I can see happening but Toronto already has the Leafs, Milwaukee would be a better choice",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 69,
+                "probability": 0.6748,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            },
+            {
+                "start": 87,
+                "end": 91,
+                "probability": 0.7657,
+                "type": "Organization",
+                "normalized_text": "Leafs"
+            },
+            {
+                "start": 94,
+                "end": 102,
+                "probability": 0.586,
+                "type": "Place",
+                "normalized_text": "Milwaukee"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29849267
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-01 11:10:06+00:00",
+    "id": 517270223393533952,
+    "text": "@DavidJo52951945 This is stupid though. Muslims just can't consume alcohol, there's nothing wrong with hand wipes containing alcohol!?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1125937411
+}

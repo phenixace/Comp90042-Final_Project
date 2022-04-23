@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-11-11 15:49:28+00:00",
+    "id": 532198430945579008,
+    "text": "@TMZ  New music -  @Hitchins_Tsar Directed by MookDookVision http://t.co/JfYDnF8PKh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            },
+            {
+                "start": 19,
+                "end": 33,
+                "username": "Hitchins_Tsar",
+                "id": "978895537"
+            }
+        ],
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/JfYDnF8PKh",
+                "expanded_url": "http://blacmodel.com/index.php/new-music-chandelier-sia-cover-by-hitchins-t-s-a-r-hitchins_tsar-directed-by-mookdookvision/",
+                "display_url": "blacmodel.com/index.php/new-\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 59,
+                "probability": 0.6358,
+                "type": "Person",
+                "normalized_text": "MookDookVision"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16331010
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-07 14:13:47+00:00",
+    "id": 1247527997726310410,
+    "text": "@ClarkeMicah @Juliajoy How about figures on how many front line staff become seriously ill or die treating patients with seasonal flu,you don\u2019t seem to care",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ClarkeMicah",
+                "id": "405605548"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "Juliajoy",
+                "id": "25081497"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 405605548
+}

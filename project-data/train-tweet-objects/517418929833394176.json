@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-01 21:01:00+00:00",
+    "id": 517418929833394176,
+    "text": "@FoxNews well he should be held with out bon. He could behead someone eals",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

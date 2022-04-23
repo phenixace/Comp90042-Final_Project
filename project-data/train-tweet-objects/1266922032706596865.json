@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-05-31 02:38:45+00:00",
+    "id": 1266922032706596865,
+    "text": "\u201cThis generation is here to stay,\u201d Minneapolis protester says on cnn, \u201cand we will get our fucking change\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 45,
+                "probability": 0.7844,
+                "type": "Place",
+                "normalized_text": "Minneapolis"
+            },
+            {
+                "start": 65,
+                "end": 67,
+                "probability": 0.9131,
+                "type": "Organization",
+                "normalized_text": "cnn"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

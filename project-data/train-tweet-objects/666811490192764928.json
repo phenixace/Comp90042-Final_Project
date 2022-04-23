@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-18 02:53:42+00:00",
+    "id": 666811490192764928,
+    "text": "@DLoesch Have you ever seen a 3 yr old shoot a gun? They might be on to something!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "DLoesch",
+                "id": "7702542"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 7702542
+}

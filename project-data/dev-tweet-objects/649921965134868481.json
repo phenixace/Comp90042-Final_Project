@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 12:20:46+00:00",
+    "id": 649921965134868481,
+    "text": "@CNN her supporters had the contacts with papal hierarchy to get this set up - those supporters keeping it in the news",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

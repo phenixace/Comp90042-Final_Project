@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-31 08:55:03+00:00",
+    "id": 1244911073859420160,
+    "text": "How do you know that the information you are getting about the #Coronavirus is genuine?\n\nAlways refer to reliable sources like the Ministry of Health (MOH), World Health Organisation (WHO) or Centre For Disease Control CDC.\n\nHere is a thread on the myths about #COVID19 https://t.co/w0BmiQ0jV6",
+    "entities": {
+        "urls": [
+            {
+                "start": 270,
+                "end": 293,
+                "url": "https://t.co/w0BmiQ0jV6",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244911073859420160/video/1",
+                "display_url": "pic.twitter.com/w0BmiQ0jV6"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 75,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 261,
+                "end": 269,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 06:06:57+00:00",
+    "id": 614676269087739904,
+    "text": "@pblu22 @politico If you mean Russia and som Islamic States...Yes.\nThe rest of the world is happy for you..",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 35,
+                "probability": 0.9892,
+                "type": "Place",
+                "normalized_text": "Russia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "pblu22",
+                "id": "160266632"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 160266632
+}

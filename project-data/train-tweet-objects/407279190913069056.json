@@ -1,0 +1,34 @@
+{
+    "created_at": "2013-12-01 22:45:00+00:00",
+    "id": 407279190913069056,
+    "text": "Fast &amp; Furious franchise responds to Paul Walker's death: http://t.co/fIRAEBHM7w http://t.co/ta9bu2LLlS",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 47,
+                "probability": 0.9834,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/fIRAEBHM7w",
+                "expanded_url": "http://cosm.ag/6014jtjO",
+                "display_url": "cosm.ag/6014jtjO"
+            },
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/ta9bu2LLlS",
+                "expanded_url": "https://twitter.com/Cosmopolitan/status/407279190913069056/photo/1",
+                "display_url": "pic.twitter.com/ta9bu2LLlS"
+            }
+        ]
+    },
+    "source": "Sprinklr",
+    "in_reply_to_user_id": null
+}

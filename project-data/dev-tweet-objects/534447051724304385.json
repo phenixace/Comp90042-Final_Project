@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-17 20:44:41+00:00",
+    "id": 534447051724304385,
+    "text": "@Reuters Ppl don't care about the process they just want the jury 2 vote the way they believe &amp; based on their \"truth\". #dontcareaboutfacts",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 124,
+                "end": 143,
+                "tag": "dontcareaboutfacts"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1652541
+}

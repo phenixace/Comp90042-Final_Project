@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-16 02:12:14+00:00",
+    "id": 666076277007187968,
+    "text": "@DRUDGE_REPORT he should have listened to @realDonaldTrump from the get go",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 42,
+                "end": 58,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 14669951
+}

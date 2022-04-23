@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 17:22:15+00:00",
+    "id": 613034274510516224,
+    "text": "@blorenzo @CNNPolitics @RepMiaLove so scary but true!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "blorenzo",
+                "id": "15487846"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15487846
+}

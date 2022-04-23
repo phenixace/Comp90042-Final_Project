@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-08-29 03:17:20+00:00",
+    "id": 372920876007960576,
+    "text": "@YourAnonNews talk about big in japan",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.8796,
+                "type": "Place",
+                "normalized_text": "japan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279390084
+}

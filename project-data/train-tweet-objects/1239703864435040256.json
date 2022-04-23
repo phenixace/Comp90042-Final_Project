@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-17 00:03:28+00:00",
+    "id": 1239703864435040256,
+    "text": "@WHOWPRO Rubber gloves in summer in Australia... no thank you. #slipperymess",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 76,
+                "tag": "slipperymess"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 44,
+                "probability": 0.998,
+                "type": "Place",
+                "normalized_text": "Australia"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3794682452
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-10-03 04:26:53+00:00",
+    "id": 650165096757510144,
+    "text": "@iShakeTheThrone @Pontifex @CNN he met with a gay couple the day before Kim Davis",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ishakethethrone",
+                "id": "108287793"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "Pontifex",
+                "id": "500704345"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 72,
+                "end": 80,
+                "probability": 0.9945,
+                "type": "Person",
+                "normalized_text": "Kim Davis"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 108287793
+}

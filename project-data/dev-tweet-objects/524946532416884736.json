@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 15:33:01+00:00",
+    "id": 524946532416884736,
+    "text": "@CBCAlerts Hunt them down like the animals that they are!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 19038934
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 21:40:07+00:00",
+    "id": 1251988974991749120,
+    "text": "@MrMontagoose @_KJKelly Final orders of magnitude won't be known for a LONG time. So much under counting of cases/deaths it's hard to tell and without testing everyone it's impossible to know for sure. It could still end up 5x or 10x worse than seasonal flu at the end of the day.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MrMontagoose",
+                "id": "118856965"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "_KJKelly",
+                "id": "1692588589"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 118856965
+}

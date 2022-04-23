@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-08 08:19:50+00:00",
+    "id": 553103772852191233,
+    "text": "The Image That Everyone Is Sharing isn't By Banksy \u2014 But It's Awesome. #CharlieHebdo http://t.co/YF1d7tvNwE http://t.co/UfBtgLRRYc",
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/YF1d7tvNwE",
+                "expanded_url": "http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1?r=US",
+                "display_url": "uk.businessinsider.com/fake-banksy-ch\u2026"
+            },
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/UfBtgLRRYc",
+                "expanded_url": "https://twitter.com/dandemoustier/status/553103772852191233/photo/1",
+                "display_url": "pic.twitter.com/UfBtgLRRYc"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 84,
+                "tag": "CharlieHebdo"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

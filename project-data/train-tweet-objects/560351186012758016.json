@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-01-28 08:18:28+00:00",
+    "id": 560351186012758016,
+    "text": "@act4america @BreitbartNews @jjauthor \n\nConfirm them on a flight back to Yemin. \n\n#Seriously.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "username": "jjauthor",
+                "id": "177584156"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 82,
+                "end": 92,
+                "tag": "Seriously"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 77,
+                "probability": 0.543,
+                "type": "Place",
+                "normalized_text": "Yemin"
+            }
+        ]
+    },
+    "source": "Tweetbot for i\u039fS",
+    "in_reply_to_user_id": 168541923
+}

@@ -1,0 +1,21 @@
+{
+    "created_at": "2020-03-26 09:20:27+00:00",
+    "id": 1243105523261718533,
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\nNo. Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, do not provide protection against the new #coronavirus #OpenParlyZW",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 222,
+                "end": 234,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 235,
+                "end": 247,
+                "tag": "OpenParlyZW"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4156551377
+}

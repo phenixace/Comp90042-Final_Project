@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-09-10 20:10:54+00:00",
+    "id": 642067746776219648,
+    "text": "@CNNPolitics @BernieSanders @realDonaldTrump We have to accept a takeover by third world countries or we're racists? Bernie, you're a chump.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 117,
+                "end": 122,
+                "probability": 0.9499,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 28,
+                "end": 44,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13850422
+}

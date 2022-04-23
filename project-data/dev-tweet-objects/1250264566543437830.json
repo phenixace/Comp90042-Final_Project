@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-15 03:27:56+00:00",
+    "id": 1250264566543437830,
+    "text": "@TIME @BrendaLWood1970 I went to read this but all that was rhere was the picture and an introductory paragraph.....I can\u2019t see properly so maybe I\u2019m missing something?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            },
+            {
+                "start": 6,
+                "end": 22,
+                "username": "BrendaLWood1970",
+                "id": "1060016923272916992"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14293310
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-06 03:20:03+00:00",
+    "id": 1225257821047885824,
+    "text": "@KKMPutrajaya Yes. Read the German business woman's case on how she infected a coworker. A week or so before she fell ill",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KKMPutrajaya",
+                "id": "531041640"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 531041640
+}

@@ -1,0 +1,57 @@
+{
+    "created_at": "2014-07-18 03:33:15+00:00",
+    "id": 489976165600202752,
+    "text": "@msnbc Putin thinks he was the target, and the Ukies shot down the wrong plane. #MSNBC @GEpublicaffairs @GE #GE $GE",
+    "entities": {
+        "cashtags": [
+            {
+                "start": 112,
+                "end": 115,
+                "tag": "GE"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 80,
+                "end": 86,
+                "tag": "MSNBC"
+            },
+            {
+                "start": 108,
+                "end": 111,
+                "tag": "GE"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 11,
+                "probability": 0.9939,
+                "type": "Person",
+                "normalized_text": "Putin"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MSNBC",
+                "id": "2836421"
+            },
+            {
+                "start": 87,
+                "end": 103,
+                "username": "GEpublicaffairs",
+                "id": "196706473"
+            },
+            {
+                "start": 104,
+                "end": 107,
+                "username": "ge",
+                "id": "6450432"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2836421
+}

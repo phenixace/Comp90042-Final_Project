@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-12-15 21:05:34+00:00",
+    "id": 676870737932742656,
+    "text": "Plumber suing car dealership for $1M after truck he traded in ends up in hands of ISIS: https://t.co/4y3jhm9RyU https://t.co/TH756nbenN",
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/4y3jhm9RyU",
+                "expanded_url": "http://abcn.ws/1Uva2nU",
+                "display_url": "abcn.ws/1Uva2nU"
+            },
+            {
+                "start": 112,
+                "end": 135,
+                "url": "https://t.co/TH756nbenN",
+                "expanded_url": "https://twitter.com/ABC/status/676870737932742656/photo/1",
+                "display_url": "pic.twitter.com/TH756nbenN"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 82,
+                "end": 85,
+                "probability": 0.7232,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

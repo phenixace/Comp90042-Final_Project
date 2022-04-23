@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-25 16:41:21+00:00",
+    "id": 1242854094706008064,
+    "text": "@marquis1757 @Golden_Dow @ianbremmer what are the symptoms of covid-19? Do you feel hard to breathe?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "marquis1757",
+                "id": "1201990563106611200"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "ianbremmer",
+                "id": "60783724"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1201990563106611200
+}

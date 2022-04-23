@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-10-28 22:32:41+00:00",
+    "id": 659498045525139456,
+    "text": "@FiNeSSeHaVeN @NatalieVallina @JohnnTheDon LMFAO NAT YOU WERE RIGHT IM DYING OF LAUGHTER",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "NatalieVallina",
+                "id": "250654920"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "username": "johnnthedon",
+                "id": "1261229083"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 51,
+                "probability": 0.5972,
+                "type": "Person",
+                "normalized_text": "NAT"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

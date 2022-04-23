@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-06 16:09:16+00:00",
+    "id": 1235960648879820800,
+    "text": "My ma\u2019s tweaking saying I should absolutely not go but she also said that about Pride in June and I kno damn well that\u2019s not happening \ud83d\ude2c https://t.co/URaHECkE1W",
+    "entities": {
+        "urls": [
+            {
+                "start": 137,
+                "end": 160,
+                "url": "https://t.co/URaHECkE1W",
+                "expanded_url": "https://twitter.com/jillrose77/status/1235960648879820800/photo/1",
+                "display_url": "pic.twitter.com/URaHECkE1W"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1190741748118675457
+}

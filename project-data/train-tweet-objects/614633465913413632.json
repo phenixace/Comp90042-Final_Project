@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-06-27 03:16:52+00:00",
+    "id": 614633465913413632,
+    "text": "@NickKristof @nytimes whitehouse has hit an all time low . Another reason other countries don't respect America any more . Is Obama a homo ?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 104,
+                "end": 110,
+                "probability": 0.9897,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 126,
+                "end": 130,
+                "probability": 0.9956,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17004618
+}

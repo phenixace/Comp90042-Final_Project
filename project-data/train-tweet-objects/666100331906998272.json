@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-16 03:47:49+00:00",
+    "id": 666100331906998272,
+    "text": "@DRUDGE_REPORT why doesn't he stop them?he has the power.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 14669951
+}

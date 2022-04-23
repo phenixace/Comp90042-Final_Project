@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-02-19 15:43:37+00:00",
+    "id": 436164174838636544,
+    "text": "@CNN End of Days?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

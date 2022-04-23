@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-08 14:17:22+00:00",
+    "id": 531088091290034176,
+    "text": "@BuzzFeed @injuryexpert Big Dew fan we have 3 different flavors in the fridge right now, not a chance I am trying that? GROSS!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "injuryexpert",
+                "id": "645043"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 5695632
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-13 07:16:21+00:00",
+    "id": 554899738575642624,
+    "text": "@Telegraph @farahdeez They killed him how can he kill himself? was shot in the forehead! so taht he doesnt get who's behind it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "Farahdeez",
+                "id": "226909682"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16343974
+}

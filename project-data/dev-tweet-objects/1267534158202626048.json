@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-01 19:11:07+00:00",
+    "id": 1267534158202626048,
+    "text": "@rankinghotels See https://t.co/P90jzIXRCX",
+    "entities": {
+        "urls": [
+            {
+                "start": 19,
+                "end": 42,
+                "url": "https://t.co/P90jzIXRCX",
+                "expanded_url": "https://twitter.com/windscribecom/status/1267533720438878210",
+                "display_url": "twitter.com/windscribecom/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1263068275828756480
+}

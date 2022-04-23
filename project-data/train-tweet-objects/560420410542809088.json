@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-01-28 12:53:32+00:00",
+    "id": 560420410542809088,
+    "text": "@act4america @peddoc63 @BreitbartNews Next up is NO GO ZONES. If this can happen in TX it can happen anywhere in the US.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 84,
+                "end": 85,
+                "probability": 0.9909,
+                "type": "Place",
+                "normalized_text": "TX"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "probability": 0.9611,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 168541923
+}

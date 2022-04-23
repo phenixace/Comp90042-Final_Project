@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-11 17:19:07+00:00",
+    "id": 532220993570619392,
+    "text": "@TMZ @LacedupCavsfan Awww, that makes me sad\ud83d\ude22Im so glad we got to see them back in '97. May he RIP &amp; condolences to his family &amp; friends. \ud83d\ude4f",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "LacedupCavsfan",
+                "id": "85630355"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16331010
+}

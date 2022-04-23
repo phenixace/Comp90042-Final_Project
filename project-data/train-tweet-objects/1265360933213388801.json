@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-05-26 19:15:30+00:00",
+    "id": 1265360933213388801,
+    "text": "@PeterHorby @LanceTurtle When can we expect some results from #recoverytrial ? Sounds like there should be enough patients recruited by now...Looking forward to the results with great interest",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 76,
+                "tag": "recoverytrial"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PeterHorby",
+                "id": "2322345709"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "LanceTurtle",
+                "id": "306940949"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 2322345709
+}

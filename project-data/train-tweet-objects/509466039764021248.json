@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-09 22:19:03+00:00",
+    "id": 509466039764021248,
+    "text": "@Kotaku Has someone told @notch about that, lol. I don't think this will ever happen",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kotaku",
+                "id": "11928542"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "username": "notch",
+                "id": "63485337"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 11928542
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 03:33:42+00:00",
+    "id": 674069312441868288,
+    "text": "@BlissTabitha @instapundit graph those numbers and you'll have a real \"hockey stick\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "instapundit",
+                "id": "1096049238671273984"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 999453985
+}

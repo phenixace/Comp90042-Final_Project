@@ -1,0 +1,59 @@
+{
+    "created_at": "2020-04-19 18:15:31+00:00",
+    "id": 1251937488211501057,
+    "text": "@RichJimenez73 @BreitbartNews @EmeraldRobinson @RealJamesWoods @ksorbs @atensnut @dbongino @realDonaldTrump What if it\u2019s a comedy?  Do you think people will figure out that a Broadway musical is not intended to teach history?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RichJimenez73",
+                "id": "1116487517786836993"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            },
+            {
+                "start": 30,
+                "end": 46,
+                "username": "EmeraldRobinson",
+                "id": "3932768472"
+            },
+            {
+                "start": 47,
+                "end": 62,
+                "username": "RealJamesWoods",
+                "id": "78523300"
+            },
+            {
+                "start": 63,
+                "end": 70,
+                "username": "ksorbs",
+                "id": "33608041"
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "username": "atensnut",
+                "id": "22677397"
+            },
+            {
+                "start": 81,
+                "end": 90,
+                "username": "dbongino",
+                "id": "232901331"
+            },
+            {
+                "start": 91,
+                "end": 107,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1116487517786836993
+}

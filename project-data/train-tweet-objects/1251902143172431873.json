@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 15:55:04+00:00",
+    "id": 1251902143172431873,
+    "text": "@DrZweliMkhize @Makashule Seems like you been speaking to the affording minority, when are you starting to speak to the downtrodden masses",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "Makashule",
+                "id": "37974383"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

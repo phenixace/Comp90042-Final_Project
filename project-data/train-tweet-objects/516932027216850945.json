@@ -1,0 +1,47 @@
+{
+    "created_at": "2014-09-30 12:46:14+00:00",
+    "id": 516932027216850945,
+    "text": "@AmyMek @gentlemanirish @kfc They say Islam is a religion of peace? Ask these people; http://t.co/LsNfOg7K3U",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 8,
+                "end": 23,
+                "username": "gentlemanirish",
+                "id": "159447476"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ],
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/LsNfOg7K3U",
+                "expanded_url": "https://twitter.com/navstadt/status/516932027216850945/photo/1",
+                "display_url": "pic.twitter.com/LsNfOg7K3U"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 42,
+                "probability": 0.4628,
+                "type": "Other",
+                "normalized_text": "Islam"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

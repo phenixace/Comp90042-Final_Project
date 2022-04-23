@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-06-21 02:10:43+00:00",
+    "id": 612442491950923776,
+    "text": "@tchopStL ......... http://t.co/NQUoju3bCb",
+    "entities": {
+        "urls": [
+            {
+                "start": 20,
+                "end": 42,
+                "url": "http://t.co/NQUoju3bCb",
+                "expanded_url": "https://twitter.com/Quis_Da_Realist/status/612442491950923776/photo/1",
+                "display_url": "pic.twitter.com/NQUoju3bCb"
+            },
+            {
+                "start": 20,
+                "end": 42,
+                "url": "http://t.co/NQUoju3bCb",
+                "expanded_url": "https://twitter.com/Quis_Da_Realist/status/612442491950923776/photo/1",
+                "display_url": "pic.twitter.com/NQUoju3bCb"
+            },
+            {
+                "start": 20,
+                "end": 42,
+                "url": "http://t.co/NQUoju3bCb",
+                "expanded_url": "https://twitter.com/Quis_Da_Realist/status/612442491950923776/photo/1",
+                "display_url": "pic.twitter.com/NQUoju3bCb"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 9112032
+}

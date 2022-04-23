@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 12:22:54+00:00",
+    "id": 534320774669418496,
+    "text": "@Independent Might help with the obesity crisis though.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16973333
+}

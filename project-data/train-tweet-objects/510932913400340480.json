@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-13 23:27:53+00:00",
+    "id": 510932913400340480,
+    "text": "@FoxNews Please stop using the term execution for these beheadings. This is purely murder. Execution denotes an action carried out by law.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 1367531
+}

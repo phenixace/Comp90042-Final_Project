@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-09-13 19:59:53+00:00",
+    "id": 643152136826671104,
+    "text": "@BorucJan @Nigeldoane Same person used news story saying photo was from Netherlands in 2014. Which is it? http://t.co/8KPXwIbWRR",
+    "entities": {
+        "urls": [
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/8KPXwIbWRR",
+                "expanded_url": "https://twitter.com/RattlyNoise/status/643152136826671104/photo/1",
+                "display_url": "pic.twitter.com/8KPXwIbWRR"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 72,
+                "end": 82,
+                "probability": 0.9821,
+                "type": "Place",
+                "normalized_text": "Netherlands"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "Nigeldoane",
+                "id": "70186662"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1165253690
+}

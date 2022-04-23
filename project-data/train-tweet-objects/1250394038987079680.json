@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15 12:02:24+00:00",
+    "id": 1250394038987079680,
+    "text": "@WHOAFRO Looting of Bottle stores can also be dangerous.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 544389588
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-29 19:04:44+00:00",
+    "id": 1244339728213839873,
+    "text": "@iefamharris @I_am_niyi I\u2019m here bro...warris going on?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "iefamharris",
+                "id": "282383532"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "I_am_niyi",
+                "id": "324238619"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 282383532
+}

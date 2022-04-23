@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-27 02:17:45+00:00",
+    "id": 1232852286445150210,
+    "text": "@TDPattillo I was saying that frequently to liberals about a week ago because it was a popular anti-anti-vaxer taking point.\nI really dislike hyper partisan people.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TDPattillo",
+                "id": "3058713120"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3058713120
+}

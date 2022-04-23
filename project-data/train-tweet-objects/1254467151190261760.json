@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 17:47:30+00:00",
+    "id": 1254467151190261760,
+    "text": "Q4. @PublicHealthRx How do i know if am infected with COVID-19? #JCIAUKickoutCovid19 https://t.co/drJo6OpzaR",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 84,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/drJo6OpzaR",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254467151190261760/photo/1",
+                "display_url": "pic.twitter.com/drJo6OpzaR"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

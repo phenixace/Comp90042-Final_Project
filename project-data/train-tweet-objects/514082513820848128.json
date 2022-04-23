@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-09-22 16:03:17+00:00",
+    "id": 514082513820848128,
+    "text": "\ud83d\ude15 RT @ComplexMag: A Florida woman had surgery to give herself a third boob: http://t.co/ET1xrxzONl http://t.co/RplMFsNGOr",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 27,
+                "probability": 0.9001,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 5,
+                "end": 16,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "urls": [
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/ET1xrxzONl",
+                "expanded_url": "http://trib.al/fpdTvki",
+                "display_url": "trib.al/fpdTvki"
+            },
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/RplMFsNGOr",
+                "expanded_url": "https://twitter.com/ComplexMag/status/514081464171102208/photo/1",
+                "display_url": "pic.twitter.com/RplMFsNGOr"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

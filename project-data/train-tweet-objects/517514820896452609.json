@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-02 03:22:02+00:00",
+    "id": 517514820896452609,
+    "text": "@DavidJo52951945 http://t.co/sU8lcVAVWk",
+    "entities": {
+        "urls": [
+            {
+                "start": 17,
+                "end": 39,
+                "url": "http://t.co/sU8lcVAVWk",
+                "expanded_url": "https://twitter.com/pohl1/status/517514820896452609/photo/1",
+                "display_url": "pic.twitter.com/sU8lcVAVWk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 1125937411
+}

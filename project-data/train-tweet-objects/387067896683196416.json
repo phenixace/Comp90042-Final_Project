@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-10-07 04:12:32+00:00",
+    "id": 387067896683196416,
+    "text": "@th3j35t3r I suppose we should simply let YOU decide what's essential and what's not? Fuck you, dude.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "th3j35t3r",
+                "id": "97994396"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 97994396
+}

@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-10-02 11:12:59+00:00",
+    "id": 649904910373294080,
+    "text": "@Lindzsy @CNN she got elected in local election when her mom retired from the position. its a small town so go figure #KanyeShrug",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Lindzsy",
+                "id": "3007767023"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 118,
+                "end": 129,
+                "tag": "KanyeShrug"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3007767023
+}

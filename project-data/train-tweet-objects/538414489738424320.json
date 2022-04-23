@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-28 19:29:52+00:00",
+    "id": 538414489738424320,
+    "text": "@THESOURCE @ThyNikkuhBraelo   That's dumb, it's like you're pregnant. Wtf are you doing out and about while riots are going on lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            },
+            {
+                "start": 11,
+                "end": 27,
+                "username": "ThyNikkuhBraelo",
+                "id": "1621763514"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16630362
+}

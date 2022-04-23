@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-08 16:23:26+00:00",
+    "id": 531119817445888001,
+    "text": "@BuzzFeed a free 80oz variety comes with each new purchase of #CallOfDutyAdvancedWarfare",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 88,
+                "tag": "CallOfDutyAdvancedWarfare"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 20,
+                "probability": 0.4045,
+                "type": "Organization",
+                "normalized_text": "80oz"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

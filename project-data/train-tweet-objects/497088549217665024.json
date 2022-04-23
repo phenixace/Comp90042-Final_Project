@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-06 18:35:20+00:00",
+    "id": 497088549217665024,
+    "text": "@TMZ even the bears don't like him",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16331010
+}

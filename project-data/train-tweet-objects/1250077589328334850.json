@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-14 15:04:57+00:00",
+    "id": 1250077589328334850,
+    "text": "@citizentvkenya @J03_Blvck your guy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "J03_Blvck",
+                "id": "47762686"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 70394965
+}

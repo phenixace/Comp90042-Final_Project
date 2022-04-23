@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-09-10 17:44:20+00:00",
+    "id": 642030861727100928,
+    "text": "@cnnbrk @CNNPolitics @BernieSanders @realDonaldTrump finally someone has noticed what the super idiot of this decade is doing.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 8,
+                "end": 20,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

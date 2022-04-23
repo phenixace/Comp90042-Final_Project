@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-02-19 15:35:43+00:00",
+    "id": 436162187782938624,
+    "text": "@CNN @JimGaffigan this should give you plenty of jokes",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 17,
+                "username": "JimGaffigan",
+                "id": "6539592"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

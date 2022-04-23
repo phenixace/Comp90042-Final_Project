@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-10 08:13:49+00:00",
+    "id": 1248524574217490432,
+    "text": "Do vaccines against pneumonia protect you against the new #coronavirus? https://t.co/5iHj6iMlsn",
+    "entities": {
+        "urls": [
+            {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/5iHj6iMlsn",
+                "expanded_url": "https://twitter.com/RoySparringa/status/1248524574217490432/photo/1",
+                "display_url": "pic.twitter.com/5iHj6iMlsn"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 70,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 341567204
+}

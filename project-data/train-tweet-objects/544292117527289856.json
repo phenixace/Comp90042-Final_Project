@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-15 00:45:27+00:00",
+    "id": 544292117527289856,
+    "text": "@SharriMarkson  looks like a bikie",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SharriMarkson",
+                "id": "52327900"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 52327900
+}

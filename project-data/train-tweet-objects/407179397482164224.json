@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-12-01 16:08:28+00:00",
+    "id": 407179397482164224,
+    "text": "@peoplemag  You serious? http://t.co/Ceq0ltVUaf",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "peoplemag",
+                "id": "3064617094"
+            }
+        ],
+        "urls": [
+            {
+                "start": 25,
+                "end": 47,
+                "url": "http://t.co/Ceq0ltVUaf",
+                "expanded_url": "https://twitter.com/hughknowit/status/407179397482164224/photo/1",
+                "display_url": "pic.twitter.com/Ceq0ltVUaf"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 25589776
+}

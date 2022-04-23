@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-23 15:10:32+00:00",
+    "id": 525303264082788353,
+    "text": "@PzFeed Excellent job and constant communication by authorities and civilians.  A coordinated effort and center mass by Mr. Vickers.  Nice",
+    "entities": {
+        "annotations": [
+            {
+                "start": 120,
+                "end": 130,
+                "probability": 0.9868,
+                "type": "Person",
+                "normalized_text": "Mr. Vickers"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 292777349
+}

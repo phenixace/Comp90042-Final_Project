@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-04-09 12:31:26+00:00",
+    "id": 1248227018002464775,
+    "text": "@Shantanu_katre @raghuynt @SaketGokhale @MamataOfficial You believe every one like you or your boss there? Absolutely shameless assertions. what a logic !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Shantanu_katre",
+                "id": "99157172"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "raghuynt",
+                "id": "220437944"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "username": "SaketGokhale",
+                "id": "24857905"
+            },
+            {
+                "start": 40,
+                "end": 55,
+                "username": "MamataOfficial",
+                "id": "2526794479"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 99157172
+}

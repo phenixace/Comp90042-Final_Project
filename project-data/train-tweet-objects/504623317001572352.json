@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27 13:35:48+00:00",
+    "id": 504623317001572352,
+    "text": "@SportsBizNews  BY 2017? Are you gonna change your mind or telling that its not what your really said in few days?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ]
+    },
+    "source": "Twitter for Websites",
+    "in_reply_to_user_id": 29849267
+}

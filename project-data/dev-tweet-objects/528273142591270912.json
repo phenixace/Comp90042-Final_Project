@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-10-31 19:51:46+00:00",
+    "id": 528273142591270912,
+    "text": "@conncarroll @stephenfhayes That's strange as most stay at home women vote for the Dems...working women tend to lean GOP.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "conncarroll",
+                "id": "15739391"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "stephenfhayes",
+                "id": "69773058"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 83,
+                "end": 86,
+                "probability": 0.874,
+                "type": "Organization",
+                "normalized_text": "Dems"
+            },
+            {
+                "start": 117,
+                "end": 119,
+                "probability": 0.8215,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15739391
+}

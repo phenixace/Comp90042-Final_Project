@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-20 01:56:33+00:00",
+    "id": 568589997374382080,
+    "text": "@lawblob he didn't want people to know he shopped at the thriftstore",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "lawblob",
+                "id": "41875694"
+            }
+        ]
+    },
+    "source": "Janetter",
+    "in_reply_to_user_id": 41875694
+}

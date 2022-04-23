@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 03:12:49+00:00",
+    "id": 614632447133786112,
+    "text": "@NickKristof @nytimes     I hate seeing the White House lit up like a carnival!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 54,
+                "probability": 0.8816,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 17004618
+}

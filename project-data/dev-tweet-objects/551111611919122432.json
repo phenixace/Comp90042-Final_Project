@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-01-02 20:23:42+00:00",
+    "id": 551111611919122432,
+    "text": "@FoxNews The Palin family remind me so much of the Beverly  Hillbillies.  Of course the cast was pretending.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 17,
+                "probability": 0.727,
+                "type": "Person",
+                "normalized_text": "Palin"
+            },
+            {
+                "start": 51,
+                "end": 70,
+                "probability": 0.4799,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1367531
+}

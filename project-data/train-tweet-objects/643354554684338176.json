@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-09-14 09:24:13+00:00",
+    "id": 643354554684338176,
+    "text": "@LibertyUSA1776 @EricJWest  various video's showed already in Hungary they do not want FOOD and WATER they want GERMANY",
+    "entities": {
+        "annotations": [
+            {
+                "start": 62,
+                "end": 68,
+                "probability": 0.9983,
+                "type": "Place",
+                "normalized_text": "Hungary"
+            },
+            {
+                "start": 112,
+                "end": 118,
+                "probability": 0.9602,
+                "type": "Place",
+                "normalized_text": "GERMANY"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "EricJWest",
+                "id": "238873872"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

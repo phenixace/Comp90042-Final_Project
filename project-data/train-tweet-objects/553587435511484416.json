@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-01-09 16:21:44+00:00",
+    "id": 553587435511484416,
+    "text": "Atenci\u00f3n de nuevo. \u201c@AFP: #BREAKING Charlie Hebdo gunmen's hostage freed and safe after police assault\u201d",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 26,
+                "end": 35,
+                "tag": "BREAKING"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 24,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 380648579
+}

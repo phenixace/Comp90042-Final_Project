@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-10 05:17:21+00:00",
+    "id": 531676966647119874,
+    "text": "@Boogie2988 is it supposed to be 360p?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 36,
+                "probability": 0.3475,
+                "type": "Organization",
+                "normalized_text": "360p"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

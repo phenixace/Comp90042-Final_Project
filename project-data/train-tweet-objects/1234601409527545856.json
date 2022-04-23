@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-02 22:08:08+00:00",
+    "id": 1234601409527545856,
+    "text": "@XraypadOfficial Can I have a 20% coupon discount?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "XraypadOfficial",
+                "id": "888684012"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 888684012
+}

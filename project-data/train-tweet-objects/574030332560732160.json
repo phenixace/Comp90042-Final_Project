@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 02:14:30+00:00",
+    "id": 574030332560732160,
+    "text": "@ABC what the hell is this....?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28785486
+}

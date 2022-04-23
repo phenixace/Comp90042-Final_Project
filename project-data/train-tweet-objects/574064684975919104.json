@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:31:01+00:00",
+    "id": 574064684975919104,
+    "text": "@ABC disgusting...just disgusting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

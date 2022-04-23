@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-19 19:22:49+00:00",
+    "id": 501811542388535296,
+    "text": "@_esaliba Anyone else surprised? SMH.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "_esaliba",
+                "id": "156743986"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 156743986
+}

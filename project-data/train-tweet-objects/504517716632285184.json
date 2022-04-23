@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-27 06:36:11+00:00",
+    "id": 504517716632285184,
+    "text": "@SportsBizNews @jseattle DON'T PLAY WITH MY HEART",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "jseattle",
+                "id": "8248752"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29849267
+}

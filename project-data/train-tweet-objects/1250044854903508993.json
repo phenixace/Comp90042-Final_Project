@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-14 12:54:52+00:00",
+    "id": 1250044854903508993,
+    "text": "Puppet Dummy Alert Patriot Pole \u201cKnow Your Truth\u201d Are you informed of the times we live in or is your head still buried in the sand? Don\u2019t be a Puppet or a Dummy. Question: How did Senator John McCain die?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 181,
+                "end": 199,
+                "probability": 0.6966,
+                "type": "Person",
+                "normalized_text": "Senator John McCain"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3681067034
+}

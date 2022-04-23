@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-14 23:52:53+00:00",
+    "id": 544278886927056898,
+    "text": "@mborzunova @AFP \u0434\u043e\u0432\u044b\u0435\u0431\u044b\u0432\u0430\u043b\u0438\u0441\u044c",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mborzunova",
+                "id": "309865110"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 309865110
+}

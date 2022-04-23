@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-10-14 01:36:01+00:00",
+    "id": 521836793986306048,
+    "text": "#TrustworthySource RT @CNNSitRoom North Korea media says Kim Jong Un has made appearance after 40+ days missing: http://t.co/UrDkv0jBg9",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 18,
+                "tag": "TrustworthySource"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 44,
+                "probability": 0.6261,
+                "type": "Place",
+                "normalized_text": "North Korea"
+            },
+            {
+                "start": 57,
+                "end": 67,
+                "probability": 0.9767,
+                "type": "Person",
+                "normalized_text": "Kim Jong Un"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 33,
+                "username": "CNNSitRoom",
+                "id": "34310801"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/UrDkv0jBg9",
+                "expanded_url": "http://cnn.it/1o8fxNH",
+                "display_url": "cnn.it/1o8fxNH"
+            }
+        ]
+    },
+    "source": "Janetter for Mac",
+    "in_reply_to_user_id": 34310801
+}

@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-09-15 17:32:13+00:00",
+    "id": 511568181358780416,
+    "text": "@SCClemons @ACTED Please #RT our campaign to show that #ISIS do not represent British Muslims #NotInMyName  http://t.co/J0sXl5dz4E",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 28,
+                "tag": "RT"
+            },
+            {
+                "start": 55,
+                "end": 60,
+                "tag": "ISIS"
+            },
+            {
+                "start": 94,
+                "end": 106,
+                "tag": "NotInMyName"
+            }
+        ],
+        "urls": [
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/J0sXl5dz4E",
+                "expanded_url": "http://youtu.be/wfYanI-zJes",
+                "display_url": "youtu.be/wfYanI-zJes"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "SCClemons",
+                "id": "16172991"
+            },
+            {
+                "start": 11,
+                "end": 17,
+                "username": "ACTED",
+                "id": "94539935"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16172991
+}

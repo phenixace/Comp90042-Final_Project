@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-21 18:08:15+00:00",
+    "id": 1241426409228288007,
+    "text": "@Sameen2246 Haha",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Sameen2246",
+                "id": "1209494325119336448"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1209494325119336448
+}

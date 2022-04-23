@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-21 15:49:10+00:00",
+    "id": 1241391409594130433,
+    "text": "@Umer_hun \ud83d\ude02\ud83d\ude02\ud83d\ude02stop plz",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "umer_hun",
+                "id": "1345986877795545088"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 753179907736399872
+}

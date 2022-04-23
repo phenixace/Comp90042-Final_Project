@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-06-16 20:39:03+00:00",
+    "id": 1272992102989926400,
+    "text": "Dear Lagos,\n\nDue to the continuous increase of #COVID19 cases in our state, we have rescinded till further notice our earlier decision to open churches and mosques for worship.\n\nWe are now fully in the phase of personal responsibility regarding this pandemic. https://t.co/zDJcTlezcG",
+    "entities": {
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/zDJcTlezcG",
+                "expanded_url": "https://twitter.com/jidesanwoolu/status/1272992102989926400/photo/1",
+                "display_url": "pic.twitter.com/zDJcTlezcG"
+            },
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/zDJcTlezcG",
+                "expanded_url": "https://twitter.com/jidesanwoolu/status/1272992102989926400/photo/1",
+                "display_url": "pic.twitter.com/zDJcTlezcG"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.7082,
+                "type": "Place",
+                "normalized_text": "Lagos"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 55,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

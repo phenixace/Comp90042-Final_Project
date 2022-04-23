@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-10 11:44:07+00:00",
+    "id": 664045869398892544,
+    "text": "@BuzzFeed  Couldn't agree morer, PEOPLE TRUELY LOST HAVE LOST THE MEANING",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 5695632
+}

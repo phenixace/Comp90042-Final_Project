@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-14 03:40:03+00:00",
+    "id": 643267940473679872,
+    "text": "@LibertyUSA1776 @Chairmnoomowmow  A very real reason we need to keep them out of our country. ..give aide ...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "Chairmnoomowmow",
+                "id": "1075460258"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300205033
+}

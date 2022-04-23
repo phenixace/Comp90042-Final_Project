@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 12:09:37+00:00",
+    "id": 649919161984905216,
+    "text": "@CNN but what I heard on news..it seems it was a form of support..it was said that the pope told her she had rights like that which is b.s",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

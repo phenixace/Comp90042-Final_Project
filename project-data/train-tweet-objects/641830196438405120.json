@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-10 04:26:58+00:00",
+    "id": 641830196438405120,
+    "text": "@TheValleyReport @DaveWeasel\n\nYou sure this isn't \"The Onion?\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "DaveWeasel",
+                "id": "574023889"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

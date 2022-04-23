@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-06 19:54:01+00:00",
+    "id": 1247251234165108737,
+    "text": "@attachedstring @Christi72002967 @Passion_Comp3 @RepGalonski @realDonaldTrump Can you link the data for 100% effective for COVID19, I would like to read it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "attachedstring",
+                "id": "1182489383590645761"
+            },
+            {
+                "start": 48,
+                "end": 60,
+                "username": "RepGalonski",
+                "id": "875722748206751744"
+            },
+            {
+                "start": 61,
+                "end": 77,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1182489383590645761
+}

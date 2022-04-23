@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-08 18:41:01+00:00",
+    "id": 509048781049184256,
+    "text": "\u201c@BuzzFeed: BREAKING NEWS:\n\nDurex has NOT come out with a pumpkin spice condom\nhttp://t.co/cm4Mb4QBkF http://t.co/JNlhZRGWD4\u201d well, damn.",
+    "entities": {
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/cm4Mb4QBkF",
+                "expanded_url": "http://bzfd.it/1tmSvA3",
+                "display_url": "bzfd.it/1tmSvA3"
+            },
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/JNlhZRGWD4",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/509031495101874176/photo/1",
+                "display_url": "pic.twitter.com/JNlhZRGWD4"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

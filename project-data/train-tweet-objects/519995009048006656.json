@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-08 23:37:25+00:00",
+    "id": 519995009048006656,
+    "text": "@digg @RaUL_AMDERLAINE Engra\u00e7ado e ironico, se fosse no Brasil, esse carro nem estava na foto, em outro pais pintam um pinto no cap\u00f4 :D",
+    "entities": {
+        "annotations": [
+            {
+                "start": 56,
+                "end": 61,
+                "probability": 0.9912,
+                "type": "Place",
+                "normalized_text": "Brasil"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "digg",
+                "id": "15163466"
+            },
+            {
+                "start": 6,
+                "end": 22,
+                "username": "RaUL_AMDERLAINE",
+                "id": "52806800"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15163466
+}

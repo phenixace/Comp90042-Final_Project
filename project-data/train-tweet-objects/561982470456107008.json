@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-02-01 20:20:36+00:00",
+    "id": 561982470456107008,
+    "text": "@Squarespace Jeez, someone get @TheJeffBridges a @LincolnMotorCo AND a website. https://t.co/pGMLcXXPEZ // #DontMakeMeCommuteWithThese2",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 107,
+                "end": 135,
+                "tag": "DontMakeMeCommuteWithThese2"
+            }
+        ],
+        "urls": [
+            {
+                "start": 80,
+                "end": 103,
+                "url": "https://t.co/pGMLcXXPEZ",
+                "expanded_url": "https://www.youtube.com/watch?v=UoSLA9sReD0",
+                "display_url": "youtube.com/watch?v=UoSLA9\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            },
+            {
+                "start": 49,
+                "end": 64,
+                "username": "LincolnMotorCo",
+                "id": "707830526"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14319981
+}

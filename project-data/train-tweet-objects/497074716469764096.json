@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-06 17:40:22+00:00",
+    "id": 497074716469764096,
+    "text": "@TMZ Finally his music makes sense...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16331010
+}

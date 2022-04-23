@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-24 01:02:44+00:00",
+    "id": 1275595177025912837,
+    "text": "The conclusion in the abstract is appropriately worded in making it clear that the paper is simply an illustration of a concept, not an actual estimate of the most likely value. https://t.co/yYGDmGEdL5",
+    "entities": {
+        "urls": [
+            {
+                "start": 178,
+                "end": 201,
+                "url": "https://t.co/yYGDmGEdL5",
+                "expanded_url": "https://twitter.com/DiseaseEcology/status/1275595177025912837/photo/1",
+                "display_url": "pic.twitter.com/yYGDmGEdL5"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

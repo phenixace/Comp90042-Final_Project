@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-10-11 19:24:00+00:00",
+    "id": 653289968132050944,
+    "text": "@CNN Hillary Clinton for president. First woman president. Go Hillary",
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 19,
+                "probability": 0.9858,
+                "type": "Person",
+                "normalized_text": "Hillary Clinton"
+            },
+            {
+                "start": 62,
+                "end": 68,
+                "probability": 0.9951,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-10-13 19:32:02+00:00",
+    "id": 521745193918545920,
+    "text": "@JacobBotzman @AmyMek You read a misquoted version here is the real interview. http://t.co/JWn4K1SR2A\nhttps://t.co/MCYyiFclog",
+    "entities": {
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/JWn4K1SR2A",
+                "expanded_url": "http://www.thedailybeast.com/articles/2014/10/11/the-resurrection-of-kristen-stewart.html",
+                "display_url": "thedailybeast.com/articles/2014/\u2026"
+            },
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/MCYyiFclog",
+                "expanded_url": "https://twitter.com/MarlowNYC/status/521702538132078592",
+                "display_url": "twitter.com/MarlowNYC/stat\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JacobBotzman",
+                "id": "885480031"
+            },
+            {
+                "start": 14,
+                "end": 21,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 885480031
+}

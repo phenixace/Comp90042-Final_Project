@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27 16:55:12+00:00",
+    "id": 614839407955152896,
+    "text": "rt @NickKristof: White House tonight illuminated in rainbow colors to honor and celebrate marriage equality. Bravo! http://t.co/Iiq8D0eRmj",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 15,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/Iiq8D0eRmj",
+                "expanded_url": "https://twitter.com/NickKristof/status/614617234942656512/photo/1",
+                "display_url": "pic.twitter.com/Iiq8D0eRmj"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17004618
+}

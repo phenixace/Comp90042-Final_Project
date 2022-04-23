@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 16:36:23+00:00",
+    "id": 674266281487503360,
+    "text": "@RollingStone @andreapetkovic\nWay to go terrorists...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "andreapetkovic",
+                "id": "63692643"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

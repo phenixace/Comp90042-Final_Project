@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-09-13 21:11:17+00:00",
+    "id": 643170106856636420,
+    "text": "@BorucJan Old picture, fake news \ud83d\ude34",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1165253690
+}

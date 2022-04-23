@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-12 11:08:39+00:00",
+    "id": 532490148244901889,
+    "text": "@MetroUK this is the funniest thing I have ever read \ud83d\ude02\ud83d\ude2d I love Twitter so much \ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MetroUK",
+                "id": "138749160"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 71,
+                "probability": 0.7806,
+                "type": "Product",
+                "normalized_text": "Twitter"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 138749160
+}

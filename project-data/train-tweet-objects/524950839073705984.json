@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-22 15:50:07+00:00",
+    "id": 524950839073705984,
+    "text": "\u201c@FoxNews: UPDATE: One shooter possibly on the loose in #Ottawa amid reports of shootings in the city: http://t.co/C8HeEWRyCf\u201d",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 63,
+                "tag": "Ottawa"
+            }
+        ],
+        "urls": [
+            {
+                "start": 103,
+                "end": 125,
+                "url": "http://t.co/C8HeEWRyCf",
+                "expanded_url": "http://fxn.ws/1ykwDbB",
+                "display_url": "fxn.ws/1ykwDbB"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-02-19 15:37:40+00:00",
+    "id": 436162679061766144,
+    "text": "@CNN I do not buy these processed craps anyway.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

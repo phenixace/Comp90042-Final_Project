@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-06-23 00:15:10+00:00",
+    "id": 613138190451347456,
+    "text": "\u201c@AP: GOP candidates, lawmakers return donations made by leader of racist group cited in Dylann Roof's manifesto: http://t.co/5c2d6or1PM\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/5c2d6or1PM",
+                "expanded_url": "http://apne.ws/1J0TmiM",
+                "display_url": "apne.ws/1J0TmiM"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 8,
+                "probability": 0.8399,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            },
+            {
+                "start": 89,
+                "end": 99,
+                "probability": 0.7149,
+                "type": "Place",
+                "normalized_text": "Dylann Roof"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 51241574
+}

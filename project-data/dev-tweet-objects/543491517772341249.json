@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-12 19:44:10+00:00",
+    "id": 543491517772341249,
+    "text": "@nytimes I am counting on it!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 807095
+}

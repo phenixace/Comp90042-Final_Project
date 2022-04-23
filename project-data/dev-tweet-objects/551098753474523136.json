@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-02 19:32:36+00:00",
+    "id": 551098753474523136,
+    "text": "@Variety RIP Donna Douglas..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Variety",
+                "id": "17525171"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 25,
+                "probability": 0.9948,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17525171
+}

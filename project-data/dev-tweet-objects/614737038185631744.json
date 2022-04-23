@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-06-27 10:08:25+00:00",
+    "id": 614737038185631744,
+    "text": "@politico may God have mercy on us, sad day for America",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 16,
+                "probability": 0.9756,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 48,
+                "end": 54,
+                "probability": 0.9792,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9300262
+}

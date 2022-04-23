@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-09-22 16:10:55+00:00",
+    "id": 514084434585587712,
+    "text": "\u201c@ComplexMag: A Florida woman had surgery to give herself a third boob: http://t.co/7OHVbNmZRm http://t.co/DEllME27ll\u201d STOP WHITE PEOPLE.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "probability": 0.9071,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/7OHVbNmZRm",
+                "expanded_url": "http://trib.al/fpdTvki",
+                "display_url": "trib.al/fpdTvki"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/DEllME27ll",
+                "expanded_url": "https://twitter.com/ComplexMag/status/514081464171102208/photo/1",
+                "display_url": "pic.twitter.com/DEllME27ll"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

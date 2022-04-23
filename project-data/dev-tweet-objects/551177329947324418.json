@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-01-03 00:44:50+00:00",
+    "id": 551177329947324418,
+    "text": "\u201c@FoxNews: Goodbye Elly May: 'Beverly Hillbillies' star Donna Douglas dead at 81http://fxn.ws/1xBph7e http://t.co/DHumMyPylm\u201d im gettin old!",
+    "entities": {
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/DHumMyPylm",
+                "expanded_url": "https://twitter.com/FoxNews/status/551106923601219585/photo/1",
+                "display_url": "pic.twitter.com/DHumMyPylm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 48,
+                "probability": 0.6036,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            },
+            {
+                "start": 56,
+                "end": 68,
+                "probability": 0.9709,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

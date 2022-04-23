@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-17 21:20:43+00:00",
+    "id": 489882414228189185,
+    "text": "@Independent *six british and 0 US Citizens and no known children yet...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16973333
+}

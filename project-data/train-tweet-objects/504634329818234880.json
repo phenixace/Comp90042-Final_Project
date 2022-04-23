@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27 14:19:34+00:00",
+    "id": 504634329818234880,
+    "text": "@SportsBizNews How do you get 1.4 B out of 80mil X 4?. It's \"0nly\" 320 mil.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29849267
+}

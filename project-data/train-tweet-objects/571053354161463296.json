@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-02-26 21:05:03+00:00",
+    "id": 571053354161463296,
+    "text": "@Callisto1947 @CarmineZozzora MUZLUM sign for \"one Allah\". Really means \"One shit sandwich, please\".#tcot",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Callisto1947",
+                "id": "208083510"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "CarmineZozzora",
+                "id": "2167674121"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 100,
+                "end": 105,
+                "tag": "tcot"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.7834,
+                "type": "Other",
+                "normalized_text": "Allah"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 208083510
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 04:26:17+00:00",
+    "id": 674082548058755072,
+    "text": "@13spencer literally",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 292816822
+}

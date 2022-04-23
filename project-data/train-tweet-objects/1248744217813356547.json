@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-10 22:46:36+00:00",
+    "id": 1248744217813356547,
+    "text": "@KCStar Are they going to start making gay people wear pink triangle patches and Jewish people wear yellow Star of David patches, too?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 115,
+                "end": 119,
+                "probability": 0.3762,
+                "type": "Person",
+                "normalized_text": "David"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "KCStar",
+                "id": "14955722"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14955722
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 16:46:51+00:00",
+    "id": 613025366316220416,
+    "text": "@CNNPolitics @cnnbrk @RepMiaLove  Whatever \ud83d\udd1a",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 13850422
+}

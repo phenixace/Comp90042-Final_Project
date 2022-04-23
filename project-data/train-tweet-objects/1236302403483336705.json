@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-07 14:47:17+00:00",
+    "id": 1236302403483336705,
+    "text": "Coronavirus disease (COVID-19) advice for the public: Myth buster.\n\nCold weather and snow CANNOT kill the new coronavirus. #Coronavirus #COVID19 https://t.co/F4SaY53rVi",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 123,
+                "end": 135,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 136,
+                "end": 144,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 145,
+                "end": 168,
+                "url": "https://t.co/F4SaY53rVi",
+                "expanded_url": "https://twitter.com/judasil/status/1236302403483336705/photo/1",
+                "display_url": "pic.twitter.com/F4SaY53rVi"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

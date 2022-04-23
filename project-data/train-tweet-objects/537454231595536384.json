@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-11-26 03:54:08+00:00",
+    "id": 537454231595536384,
+    "text": "@deray #BDS @ABC Good time to Boycott, Divest &amp; Sanction. Never let #DarrenWilson rest. Never.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 7,
+                "end": 11,
+                "tag": "BDS"
+            },
+            {
+                "start": 72,
+                "end": 85,
+                "tag": "DarrenWilson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29417304
+}

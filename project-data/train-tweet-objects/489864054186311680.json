@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-17 20:07:46+00:00",
+    "id": 489864054186311680,
+    "text": "@Independent  It is so very tragic and saddening that so many lives were lost, no matter whether they were American or Briton or neither.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16973333
+}

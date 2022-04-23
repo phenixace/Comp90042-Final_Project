@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23 19:27:05+00:00",
+    "id": 514496191854571520,
+    "text": "@TIME All types of \"wrongs\" in this article",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 14293310
+}

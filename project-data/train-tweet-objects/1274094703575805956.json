@@ -1,0 +1,37 @@
+{
+    "created_at": "2020-06-19 21:40:23+00:00",
+    "id": 1274094703575805956,
+    "text": "News at Clemson: School announces that 28 athletes have tested positive for COVID-19. They didn't not break it down by sport, but a significant number of the 28 positive tests are football players. More at @YahooSports:  https://t.co/euLeyDIKUe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 206,
+                "end": 218,
+                "username": "YahooSports",
+                "id": "7302282"
+            }
+        ],
+        "urls": [
+            {
+                "start": 221,
+                "end": 244,
+                "url": "https://t.co/euLeyDIKUe",
+                "expanded_url": "https://sports.yahoo.com/clemson-athletics-28-positive-covid-19-tests-include-many-football-players-213852485.html",
+                "display_url": "sports.yahoo.com/clemson-athlet\u2026",
+                "status": 200,
+                "unwound_url": "https://sports.yahoo.com/clemson-athletics-28-positive-covid-19-tests-include-many-football-players-213852485.html"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 8,
+                "end": 14,
+                "probability": 0.9299,
+                "type": "Organization",
+                "normalized_text": "Clemson"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

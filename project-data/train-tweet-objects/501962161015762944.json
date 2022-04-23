@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-20 05:21:19+00:00",
+    "id": 501962161015762944,
+    "text": "@CPism @zaidbenjamin Are you? Really? Youre Sure? Because no Christian, Jew, or even Buddhist has ever done anything like that? Idiot...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "CPism",
+                "id": "144150729"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 144150729
+}

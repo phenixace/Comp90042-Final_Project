@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:56+00:00",
+    "id": 1244705184300883969,
+    "text": "January 27:  \u201cQ: Are antibiotics effective in preventing and treating the new #coronavirus (2019-nCoV)? A:  No, antibiotics do not work against viruses, only bacteria.  The 2019-nCoV is a virus and, therefore, antibiotics should not be used as a means of prevention or treatment. https://t.co/iuioaWoR8j",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 90,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/iuioaWoR8j",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705184300883969/photo/1",
+                "display_url": "pic.twitter.com/iuioaWoR8j"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

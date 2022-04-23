@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-01 09:42:17+00:00",
+    "id": 1234051320493068289,
+    "text": "However, if you are hospitalized for the 2019-nCoV, you may receive antibiotics because bacterial co-infection is possible. https://t.co/5hBww654bN",
+    "entities": {
+        "urls": [
+            {
+                "start": 124,
+                "end": 147,
+                "url": "https://t.co/5hBww654bN",
+                "expanded_url": "https://twitter.com/Ausbones/status/1234051320493068289/photo/1",
+                "display_url": "pic.twitter.com/5hBww654bN"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 94534234
+}

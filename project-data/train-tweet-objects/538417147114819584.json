@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-28 19:40:25+00:00",
+    "id": 538417147114819584,
+    "text": "\u201c@YourAnonNews: Mike Brown murder trial witness, #DeAndreJoshua fatally shot &amp; set on fire after verdict\" Very ugly if true. Looks bad.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 63,
+                "tag": "DeAndreJoshua"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 25,
+                "probability": 0.9937,
+                "type": "Person",
+                "normalized_text": "Mike Brown"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 279390084
+}

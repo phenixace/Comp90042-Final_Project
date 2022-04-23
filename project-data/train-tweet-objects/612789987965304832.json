@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-22 01:11:32+00:00",
+    "id": 612789987965304832,
+    "text": "@clickhole  Interesting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ClickHole",
+                "id": "2377815434"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 2377815434
+}

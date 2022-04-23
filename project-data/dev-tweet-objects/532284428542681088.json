@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-11-11 21:31:11+00:00",
+    "id": 532284428542681088,
+    "text": "No, Vladimir Putin did not travel in a phallic motorcade formation http://t.co/cDmqwH3fvD http://t.co/lGo7otenPr",
+    "entities": {
+        "annotations": [
+            {
+                "start": 4,
+                "end": 17,
+                "probability": 0.9939,
+                "type": "Person",
+                "normalized_text": "Vladimir Putin"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/cDmqwH3fvD",
+                "expanded_url": "http://i100.io/Gv0q3OP",
+                "display_url": "i100.io/Gv0q3OP"
+            },
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/lGo7otenPr",
+                "expanded_url": "https://twitter.com/Independent/status/532284428542681088/photo/1",
+                "display_url": "pic.twitter.com/lGo7otenPr"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

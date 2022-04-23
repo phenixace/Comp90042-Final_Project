@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-16 02:21:53+00:00",
+    "id": 666078707258400768,
+    "text": "@DRUDGE_REPORT Zero chance Obama responds.\rNo one can put demands on a king",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 31,
+                "probability": 0.9908,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 14669951
+}

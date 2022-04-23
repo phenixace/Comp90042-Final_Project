@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 18:10:09+00:00",
+    "id": 524986077384548353,
+    "text": "@gelosoil They haven't realeased his name because they want to ensure his next of kin are notified first. @CNN",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "gelosoil",
+                "id": "77957493"
+            },
+            {
+                "start": 106,
+                "end": 110,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 77957493
+}

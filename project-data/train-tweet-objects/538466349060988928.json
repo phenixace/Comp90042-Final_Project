@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-28 22:55:56+00:00",
+    "id": 538466349060988928,
+    "text": "@THESOURCE @onekade im betting that she regrets being amidst the chaos. bad choices....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "onekade",
+                "id": "15982292"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16630362
+}

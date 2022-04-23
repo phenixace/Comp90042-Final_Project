@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-24 21:38:19+00:00",
+    "id": 1242566440844169218,
+    "text": "@abenaayeboaa Our governor just mentioned it now in his daily talk. I guess it\u2019s a large get together where people can act carelessly like they are invincible  https://t.co/x2xQv2jzFp",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "abenaayeboaa",
+                "id": "22299768"
+            }
+        ],
+        "urls": [
+            {
+                "start": 160,
+                "end": 183,
+                "url": "https://t.co/x2xQv2jzFp",
+                "expanded_url": "https://www.google.com/amp/s/amp.courier-journal.com/amp/2911870001",
+                "display_url": "google.com/amp/s/amp.cour\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 22299768
+}

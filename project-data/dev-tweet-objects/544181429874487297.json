@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-14 17:25:37+00:00",
+    "id": 544181429874487297,
+    "text": "Fucking Stuyvesant \"@nypost Today's Cover: Meet the teen who's made $72 million trading stocks on his lunch breaks http://t.co/wlx8nrQOGI\"",
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/wlx8nrQOGI",
+                "expanded_url": "http://nyp.st/1sqI5nT",
+                "display_url": "nyp.st/1sqI5nT"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 27,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17469289
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-04 21:21:56+00:00",
+    "id": 507639725159895040,
+    "text": "@billyeichner @AndyHerren Disgusting by this tweet. SMH",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "billyeichner",
+                "id": "74669397"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "AndyHerren",
+                "id": "29391021"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 74669397
+}

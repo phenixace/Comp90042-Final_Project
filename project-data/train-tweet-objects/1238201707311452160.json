@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-12 20:34:26+00:00",
+    "id": 1238201707311452160,
+    "text": "@chiburahakkai Exactly that! It's about protecting those who are most endangered by the virus. And protecting the doctors and nurses that have to try everything to help those worst cases.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chiburahakkai",
+                "id": "2998018856"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2998018856
+}

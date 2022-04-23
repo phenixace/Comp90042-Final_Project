@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-01 20:32:19+00:00",
+    "id": 517411710869979136,
+    "text": "@DavidJo52951945 Wipes are not required to be used, are they? Smile, tell the fussies where the dry napkins are, and Who can I help next?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1125937411
+}

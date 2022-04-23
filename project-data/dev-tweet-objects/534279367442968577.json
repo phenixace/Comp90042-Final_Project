@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 09:38:22+00:00",
+    "id": 534279367442968577,
+    "text": "@Independent We are running out of drinking water too. Of two, which is the most serious issue?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16973333
+}

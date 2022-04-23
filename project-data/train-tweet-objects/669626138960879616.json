@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-25 21:18:07+00:00",
+    "id": 669626138960879616,
+    "text": "@snopes the people who need to read this probably won't.\n*poot*",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "snopes",
+                "id": "14294848"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14294848
+}

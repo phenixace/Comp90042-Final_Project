@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-16 09:57:50+00:00",
+    "id": 1239491054170247168,
+    "text": "Can CoVID-19 be caught from a person who has no symptoms?\n#LetsFightCorona @MenPk1\n@TeamForPakistan",
+    "entities": {
+        "mentions": [
+            {
+                "start": 75,
+                "end": 82,
+                "username": "MenPk1",
+                "id": "1199282153852407810"
+            },
+            {
+                "start": 83,
+                "end": 99,
+                "username": "TeamForPakistan",
+                "id": "1216367880209666048"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 74,
+                "tag": "LetsFightCorona"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1199282153852407810
+}

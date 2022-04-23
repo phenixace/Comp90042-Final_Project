@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-02 00:13:52+00:00",
+    "id": 407301553771393024,
+    "text": "@mashable",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 972651
+}

@@ -1,0 +1,56 @@
+{
+    "created_at": "2020-06-15 14:48:10+00:00",
+    "id": 1272541413939408897,
+    "text": "@Kevin_McKernan @jakobsheim @12FreeBeer @aginnt @FatEmperor @nataliexdean Agreed Kevin, I don\u2019t understand this either.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Kevin_McKernan",
+                "id": "33177553"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "jakobsheim",
+                "id": "2963404739"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "username": "12FreeBeer",
+                "id": "1255091020938739712"
+            },
+            {
+                "start": 40,
+                "end": 47,
+                "username": "aginnt",
+                "id": "184789840"
+            },
+            {
+                "start": 48,
+                "end": 59,
+                "username": "FatEmperor",
+                "id": "2383882980"
+            },
+            {
+                "start": 60,
+                "end": 73,
+                "username": "nataliexdean",
+                "id": "1005085697018138624"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 81,
+                "end": 85,
+                "probability": 0.9842,
+                "type": "Person",
+                "normalized_text": "Kevin"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 33177553
+}

@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-11-16 03:25:18+00:00",
+    "id": 666094666484457472,
+    "text": ".@DRUDGE_REPORT @Tea4Freedom Now he wants this?  We want leaders who think about this BEFORE an attack!!  #Trump2016",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 116,
+                "tag": "Trump2016"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "Tea4Freedom",
+                "id": "63843485"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14669951
+}

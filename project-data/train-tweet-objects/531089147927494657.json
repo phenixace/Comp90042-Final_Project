@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-08 14:21:34+00:00",
+    "id": 531089147927494657,
+    "text": "I'm pregnant so YES PLS @BuzzFeed: Good Sweet Lord, Pepsi Is Actually Testing A Doritos-Flavored Mountain Dew\nhttp://t.co/fwLqozIv4B",
+    "entities": {
+        "mentions": [
+            {
+                "start": 24,
+                "end": 33,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/fwLqozIv4B",
+                "expanded_url": "http://bzfd.it/1xiSdyk",
+                "display_url": "bzfd.it/1xiSdyk"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

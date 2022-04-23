@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-04 21:02:08+00:00",
+    "id": 507634741432963072,
+    "text": "@billyeichner Betty White has been a robot since she was on Mary Tyler Moore",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "billyeichner",
+                "id": "74669397"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 24,
+                "probability": 0.9685,
+                "type": "Person",
+                "normalized_text": "Betty White"
+            },
+            {
+                "start": 60,
+                "end": 75,
+                "probability": 0.937,
+                "type": "Person",
+                "normalized_text": "Mary Tyler Moore"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 74669397
+}

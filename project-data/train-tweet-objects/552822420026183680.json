@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-01-07 13:41:50+00:00",
+    "id": 552822420026183680,
+    "text": "\u201c@WSJ: At least 12 dead in the Paris shooting. http://t.co/Nr8NlredLo #CharlieHebdo http://t.co/crcy5tUpT8\u201d\n\n\u4e16\u306e\u4e2d\u6016\u3044\u3059\u304e\u308b\u3002",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 70,
+                "end": 83,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ],
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/Nr8NlredLo",
+                "expanded_url": "http://on.wsj.com/1ByEfdQ",
+                "display_url": "on.wsj.com/1ByEfdQ"
+            },
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/crcy5tUpT8",
+                "expanded_url": "https://twitter.com/WSJ/status/552811386259386370/photo/1",
+                "display_url": "pic.twitter.com/crcy5tUpT8"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

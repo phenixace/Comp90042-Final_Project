@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-13 06:25:15+00:00",
+    "id": 554886875303780352,
+    "text": "French police chief killed himself after #CharlieHebdo attack http://t.co/KC8nCzimBl http://t.co/EnZQarIezF",
+    "entities": {
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/KC8nCzimBl",
+                "expanded_url": "http://www.telegraph.co.uk/news/worldnews/europe/france/11341295/French-police-chief-committed-suicide-after-Charlie-Hebdo-attack.html",
+                "display_url": "telegraph.co.uk/news/worldnews\u2026"
+            },
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/EnZQarIezF",
+                "expanded_url": "https://twitter.com/Telegraph/status/554886875303780352/photo/1",
+                "display_url": "pic.twitter.com/EnZQarIezF"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 41,
+                "end": 54,
+                "tag": "CharlieHebdo"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

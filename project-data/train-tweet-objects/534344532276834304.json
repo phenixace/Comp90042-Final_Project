@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 13:57:18+00:00",
+    "id": 534344532276834304,
+    "text": "@Independent Peak Oil no longer a concern. We've hit Peak Chocolate; it's officially time to panic.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16973333
+}

@@ -1,0 +1,25 @@
+{
+    "created_at": "2011-06-13 01:30:20+00:00",
+    "id": 80084555733803009,
+    "text": "HOAX: McDonald's Issues Official Statement On Racist Sign [UPDATED] http://on.mash.to/jm5MyY  #seriouslymcdonalds",
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 13,
+                "probability": 0.7374,
+                "type": "Person",
+                "normalized_text": "McDonald"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 94,
+                "end": 113,
+                "tag": "seriouslymcdonalds"
+            }
+        ]
+    },
+    "source": "Hootsuite",
+    "in_reply_to_user_id": null
+}

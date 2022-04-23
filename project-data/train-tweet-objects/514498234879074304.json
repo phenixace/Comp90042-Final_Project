@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-09-23 19:35:12+00:00",
+    "id": 514498234879074304,
+    "text": "Tight ass pants. RT @TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/JtOOGbMGZs",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 34,
+                "probability": 0.8051,
+                "type": "Product",
+                "normalized_text": "iPhone 6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 25,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/JtOOGbMGZs",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "display_url": "ti.me/1uiLm7T"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14293310
+}

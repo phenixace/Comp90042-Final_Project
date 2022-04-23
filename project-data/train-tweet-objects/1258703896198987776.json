@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-05-08 10:22:49+00:00",
+    "id": 1258703896198987776,
+    "text": "@StevieTheFixer @carol_hulme @BBCNews Exactly that. It would only tell you if you have it or not at the time of testing. You can catch it within minutes of being tested. It\u2019s the antibodies test we need",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "StevieTheFixer",
+                "id": "791648119012331520"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "carol_hulme",
+                "id": "1169110058"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "BBCNews",
+                "id": "612473"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 791648119012331520
+}

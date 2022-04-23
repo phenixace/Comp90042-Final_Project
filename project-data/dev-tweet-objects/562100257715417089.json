@@ -1,0 +1,56 @@
+{
+    "created_at": "2015-02-02 04:08:39+00:00",
+    "id": 562100257715417089,
+    "text": "\u201c@gamespot: Madden NFL 15 simulation correctly predicted the Super Bowl's final score http://t.co/tyBVUnYHWW http://t.co/Z9v4kxhGLD\u201d #rigged",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/tyBVUnYHWW",
+                "expanded_url": "http://l.gamespot.com/1zLSm10",
+                "display_url": "l.gamespot.com/1zLSm10"
+            },
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/Z9v4kxhGLD",
+                "expanded_url": "https://twitter.com/gamespot/status/562093717201616896/photo/1",
+                "display_url": "pic.twitter.com/Z9v4kxhGLD"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "GameSpot",
+                "id": "7157132"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 24,
+                "probability": 0.6796,
+                "type": "Product",
+                "normalized_text": "Madden NFL 15"
+            },
+            {
+                "start": 61,
+                "end": 70,
+                "probability": 0.5192,
+                "type": "Other",
+                "normalized_text": "Super Bowl"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 133,
+                "end": 140,
+                "tag": "rigged"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 7157132
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-07 13:43:04+00:00",
+    "id": 1236286246118457344,
+    "text": "Can spraying alcohol or chlorine all over your body kill the new coronavirus?\n\n@WHO \n\n#COVID19 https://t.co/B7B2IDT7yR",
+    "entities": {
+        "mentions": [
+            {
+                "start": 79,
+                "end": 83,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 118,
+                "url": "https://t.co/B7B2IDT7yR",
+                "expanded_url": "https://twitter.com/CianSOBrien/status/1236286246118457344/photo/1",
+                "display_url": "pic.twitter.com/B7B2IDT7yR"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 86,
+                "end": 94,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 46109122
+}

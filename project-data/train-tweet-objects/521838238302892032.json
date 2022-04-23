@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-14 01:41:45+00:00",
+    "id": 521838238302892032,
+    "text": "@CNNSitRoom oh heck, why was everyone looking for him, I was hoping he was lost, and would never be found.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "CNNSitRoom",
+                "id": "34310801"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 34310801
+}

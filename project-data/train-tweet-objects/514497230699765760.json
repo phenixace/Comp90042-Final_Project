@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23 19:31:13+00:00",
+    "id": 514497230699765760,
+    "text": "@TIME is it made from caramel?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14293310
+}

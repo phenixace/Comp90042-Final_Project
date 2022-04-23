@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 22:13:18+00:00",
+    "id": 525047268316303360,
+    "text": "@CBCNews rest in peace brother",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 6433472
+}

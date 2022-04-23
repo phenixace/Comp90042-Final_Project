@@ -1,0 +1,47 @@
+{
+    "created_at": "2015-01-02 22:14:57+00:00",
+    "id": 551139609326125056,
+    "text": "\u201c@GMA: Donna Douglas, known for role as Elly May Clampett on \"The Beverly Hillbillies,\" dies. #beverly hills that is",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "GMA",
+                "id": "22650211"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 19,
+                "probability": 0.9964,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            },
+            {
+                "start": 40,
+                "end": 56,
+                "probability": 0.8574,
+                "type": "Person",
+                "normalized_text": "Elly May Clampett"
+            },
+            {
+                "start": 62,
+                "end": 84,
+                "probability": 0.8426,
+                "type": "Other",
+                "normalized_text": "The Beverly Hillbillies"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 94,
+                "end": 102,
+                "tag": "beverly"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 22650211
+}

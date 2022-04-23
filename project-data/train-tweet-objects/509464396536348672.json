@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-09-09 22:12:32+00:00",
+    "id": 509464396536348672,
+    "text": "@Kotaku Whoa ... what?!?! #runsteverun",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kotaku",
+                "id": "11928542"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 26,
+                "end": 38,
+                "tag": "runsteverun"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 11928542
+}

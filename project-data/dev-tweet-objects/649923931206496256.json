@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 12:28:34+00:00",
+    "id": 649923931206496256,
+    "text": "@CNN so if all the military and police who protected him on his US  visit refused to do their job  based on religious beliefs is that ok?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 64,
+                "end": 65,
+                "probability": 0.6757,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-23 16:19:37+00:00",
+    "id": 1275463533384384512,
+    "text": "@publicradionerd They went downhill after they lost Keith Moon....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "publicradionerd",
+                "id": "187330176"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 61,
+                "probability": 0.8379,
+                "type": "Person",
+                "normalized_text": "Keith Moon"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 187330176
+}

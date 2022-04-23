@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-23 01:47:02+00:00",
+    "id": 1253138279521832960,
+    "text": "@kaykumaroct @davequigon @JoeySalads I\u2019m from NY and I say it too. So your tweet is pointless. Imma say it here too.  Covid-19 is just like as the flu",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "kaykumaroct",
+                "id": "1240752506541670400"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "JoeySalads",
+                "id": "488998711"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 47,
+                "probability": 0.8333,
+                "type": "Place",
+                "normalized_text": "NY"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1240752506541670400
+}

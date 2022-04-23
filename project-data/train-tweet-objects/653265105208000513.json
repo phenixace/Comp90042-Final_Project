@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-10-11 17:45:12+00:00",
+    "id": 653265105208000513,
+    "text": "@CNN @HillaryClinton @BernieSanders 19? That's nothing! Come on, Bernie!!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 70,
+                "probability": 0.9363,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 759251
+}

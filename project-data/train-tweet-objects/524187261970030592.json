@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-20 13:15:56+00:00",
+    "id": 524187261970030592,
+    "text": "@piersmorgan BREAKING NEWS: Piers tops the scales",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "piersmorgan",
+                "id": "216299334"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 32,
+                "probability": 0.6161,
+                "type": "Person",
+                "normalized_text": "Piers"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 216299334
+}

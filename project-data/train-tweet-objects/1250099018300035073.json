@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 16:30:06+00:00",
+    "id": 1250099018300035073,
+    "text": "@citizentvkenya Hennessy moja ni konyagi kumi...who else is thinking what I'm thinking",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

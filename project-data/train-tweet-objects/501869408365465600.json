@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-19 23:12:45+00:00",
+    "id": 501869408365465600,
+    "text": "@zaidbenjamin The evil of Isis (islam) leaves me speechless and gripped with horror. That video . OMG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 29,
+                "probability": 0.3004,
+                "type": "Organization",
+                "normalized_text": "Isis"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

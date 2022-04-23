@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-17 05:24:27+00:00",
+    "id": 611041694834802688,
+    "text": "@cnni gunna vom",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2097571
+}

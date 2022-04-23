@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 10:06:33+00:00",
+    "id": 1251814434273624065,
+    "text": "@DrZweliMkhize Just tell people to disinfect everything dude! Even groceries",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

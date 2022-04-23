@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-05 13:30:24+00:00",
+    "id": 673132312398307328,
+    "text": "@BobbyR05435514 @PatVPeters @peddoc63. It's probably not even her,  there is a lot of questionable CRAP on this shooting",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 27,
+                "username": "PatVPeters",
+                "id": "33611715"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3303440338
+}

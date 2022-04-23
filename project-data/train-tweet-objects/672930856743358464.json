@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-05 00:09:53+00:00",
+    "id": 672930856743358464,
+    "text": "@peddoc63 Diabolical Propaganda&gt;@peddoc63",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 35,
+                "end": 44,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1379288282
+}

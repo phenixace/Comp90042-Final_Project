@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-10 09:46:28+00:00",
+    "id": 1237313864372498437,
+    "text": "What is COVID-19?\nCOVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019",
+    "entities": {
+        "annotations": [
+            {
+                "start": 174,
+                "end": 178,
+                "probability": 0.8028,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 181,
+                "end": 185,
+                "probability": 0.8026,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1042504202847748097
+}

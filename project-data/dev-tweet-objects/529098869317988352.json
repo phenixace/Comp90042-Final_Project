@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 02:32:55+00:00",
+    "id": 529098869317988352,
+    "text": "@fluffyguy Gotta love #sourcelessreporting. Journalism truly is dead.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 22,
+                "end": 42,
+                "tag": "sourcelessreporting"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28245852
+}

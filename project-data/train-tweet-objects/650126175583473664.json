@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-10-03 01:52:13+00:00",
+    "id": 650126175583473664,
+    "text": "@nytimes And there's no way the Pope could bless them and say he's a man of God.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 35,
+                "probability": 0.7814,
+                "type": "Person",
+                "normalized_text": "Pope"
+            },
+            {
+                "start": 76,
+                "end": 78,
+                "probability": 0.9781,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 807095
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-02 08:52:42+00:00",
+    "id": 1245635257316954112,
+    "text": "@catlady_chelsea I made a post on FB about the different ways our body\u2019s react to pathogens. I\u2019ll tag you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "catlady_chelsea",
+                "id": "746149456664530944"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 35,
+                "probability": 0.4454,
+                "type": "Organization",
+                "normalized_text": "FB"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 746149456664530944
+}

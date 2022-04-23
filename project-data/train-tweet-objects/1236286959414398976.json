@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-07 13:45:54+00:00",
+    "id": 1236286959414398976,
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\n\n@WHO \n\n#COVID19 https://t.co/SsqshnQrB8",
+    "entities": {
+        "mentions": [
+            {
+                "start": 72,
+                "end": 76,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 87,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/SsqshnQrB8",
+                "expanded_url": "https://twitter.com/CianSOBrien/status/1236286959414398976/photo/1",
+                "display_url": "pic.twitter.com/SsqshnQrB8"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 46109122
+}

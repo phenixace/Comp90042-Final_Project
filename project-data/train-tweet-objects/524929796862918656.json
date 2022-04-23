@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-10-22 14:26:30+00:00",
+    "id": 524929796862918656,
+    "text": "Soldier shot at National War Memorial in Ottawa http://t.co/9jLwNdsKp2 http://t.co/0a3tmPyUw9",
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 70,
+                "url": "http://t.co/9jLwNdsKp2",
+                "expanded_url": "http://www.cp24.com/news/soldier-shot-at-national-war-memorial-in-ottawa-1.2065446#ixzz3GsrmvuDY",
+                "display_url": "cp24.com/news/soldier-s\u2026"
+            },
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/0a3tmPyUw9",
+                "expanded_url": "https://twitter.com/CP24/status/524929796862918656/photo/1",
+                "display_url": "pic.twitter.com/0a3tmPyUw9"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 36,
+                "probability": 0.4052,
+                "type": "Place",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "probability": 0.9971,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

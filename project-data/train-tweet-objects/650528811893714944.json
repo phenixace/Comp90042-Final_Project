@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-04 04:32:09+00:00",
+    "id": 650528811893714944,
+    "text": "@TheValleyReport makes sense",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

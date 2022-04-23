@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 20:45:15+00:00",
+    "id": 534447196205502464,
+    "text": "@m_rc8dez_7 Those a-holes will not do it. Mega-corrupt police department.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "m_rc8dez_7",
+                "id": "204949773"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 204949773
+}

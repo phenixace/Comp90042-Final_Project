@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 15:43:08+00:00",
+    "id": 524949079382847488,
+    "text": "@CP24 why would people tweet where they are during a time like that? Sometimes to kill someone you just need to follow them on twitter smh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 127,
+                "end": 133,
+                "probability": 0.8164,
+                "type": "Product",
+                "normalized_text": "twitter"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 19636948
+}

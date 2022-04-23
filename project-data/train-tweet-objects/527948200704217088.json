@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-30 22:20:34+00:00",
+    "id": 527948200704217088,
+    "text": "@IGN how many Steve Jobs movies are they gonna make?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 23,
+                "probability": 0.5379,
+                "type": "Person",
+                "normalized_text": "Steve Jobs"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 18927441
+}

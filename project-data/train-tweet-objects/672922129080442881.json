@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-12-04 23:35:12+00:00",
+    "id": 672922129080442881,
+    "text": "@ABC\n\n#Malik is evidence U.S. is not prepared to adequately vet Islamic migrants. Let's hit the pause button until we're ready.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 28,
+                "probability": 0.9806,
+                "type": "Place",
+                "normalized_text": "U.S."
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 6,
+                "end": 12,
+                "tag": "Malik"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28785486
+}

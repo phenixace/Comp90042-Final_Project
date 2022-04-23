@@ -1,0 +1,37 @@
+{
+    "created_at": "2020-03-10 07:33:55+00:00",
+    "id": 1237280509547270144,
+    "text": "Q &amp; A: #COVID19 \n\n1\u20e3 Who can catch the 2019-nCoV virus?\n\n\ud83d\udc49People living or travelling in an area where the 2019-nCoV is circulating may be at risk of infection.\n\n\ud83d\udc49https://t.co/3AT7xTxtQE\n\n#coronavirus https://t.co/nkMqgBaSmF",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 11,
+                "end": 19,
+                "tag": "COVID19"
+            },
+            {
+                "start": 192,
+                "end": 204,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 167,
+                "end": 190,
+                "url": "https://t.co/3AT7xTxtQE",
+                "expanded_url": "https://bit.ly/2IwyZkj",
+                "display_url": "bit.ly/2IwyZkj"
+            },
+            {
+                "start": 205,
+                "end": 228,
+                "url": "https://t.co/nkMqgBaSmF",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1237280509547270144/photo/1",
+                "display_url": "pic.twitter.com/nkMqgBaSmF"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1545915336
+}

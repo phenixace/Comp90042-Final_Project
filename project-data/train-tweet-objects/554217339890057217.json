@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-01-11 10:04:45+00:00",
+    "id": 554217339890057217,
+    "text": "@vtchakarova do you remember David Kelly WMD expert who committee suicide 2003 pre Iraq war !! http://t.co/AVXe3YXiqy",
+    "entities": {
+        "annotations": [
+            {
+                "start": 29,
+                "end": 39,
+                "probability": 0.9933,
+                "type": "Person",
+                "normalized_text": "David Kelly"
+            },
+            {
+                "start": 83,
+                "end": 86,
+                "probability": 0.6166,
+                "type": "Place",
+                "normalized_text": "Iraq"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "vtchakarova",
+                "id": "424083365"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/AVXe3YXiqy",
+                "expanded_url": "http://en.wikipedia.org/wiki/David_Kelly_(weapons_expert)",
+                "display_url": "en.wikipedia.org/wiki/David_Kel\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 424083365
+}

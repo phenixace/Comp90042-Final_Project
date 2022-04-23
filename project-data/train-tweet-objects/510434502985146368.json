@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-12 14:27:23+00:00",
+    "id": 510434502985146368,
+    "text": "@bayolson WE KNEW IT. I can't believe it's all happening so fast \ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "bayolson",
+                "id": "76133800"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 76133800
+}

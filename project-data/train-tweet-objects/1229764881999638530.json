@@ -1,0 +1,96 @@
+{
+    "created_at": "2020-02-18 13:49:30+00:00",
+    "id": 1229764881999638530,
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @WHOEMRO @WHOAFRO @pahowho FACT: The risk of being infected with the new #coronavirus by touching coins, banknotes, credit cards and other objects, is very low https://t.co/TdKoGmWrIr\n\n#COVID19 #KnowtheFacts https://t.co/tYZ6UyQxjT",
+    "entities": {
+        "urls": [
+            {
+                "start": 191,
+                "end": 214,
+                "url": "https://t.co/TdKoGmWrIr",
+                "expanded_url": "http://bit.ly/COVID19Mythbusters",
+                "display_url": "bit.ly/COVID19Mythbus\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 738
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "COVID-19 Mythbusters \u2013 World Health Organization",
+                "description": "Highlighting some of the misinformation circulating on COVID-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+            },
+            {
+                "start": 239,
+                "end": 262,
+                "url": "https://t.co/tYZ6UyQxjT",
+                "expanded_url": "https://twitter.com/WHO/status/1229764881999638530/photo/1",
+                "display_url": "pic.twitter.com/tYZ6UyQxjT"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 104,
+                "end": 116,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 216,
+                "end": 224,
+                "tag": "COVID19"
+            },
+            {
+                "start": 225,
+                "end": 238,
+                "tag": "KnowtheFacts"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "pahowho",
+                "id": "20629893"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

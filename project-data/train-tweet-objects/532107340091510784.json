@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-11 09:47:30+00:00",
+    "id": 532107340091510784,
+    "text": "@ThePoke proof he likes to ride dick",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ThePoke",
+                "id": "143145579"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 143145579
+}

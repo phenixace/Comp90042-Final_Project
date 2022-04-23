@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-05 01:23:08+00:00",
+    "id": 672949289501364224,
+    "text": "@peddoc63 @JaredWyand HANDS UP! \ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffbNO REFUGEES!!!!!!\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "JaredWyand",
+                "id": "328878936"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1379288282
+}

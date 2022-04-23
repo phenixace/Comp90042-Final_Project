@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-12 16:39:50+00:00",
+    "id": 543445131962380289,
+    "text": "@nytimes This warms my heart.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 807095
+}

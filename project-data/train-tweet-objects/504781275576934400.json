@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-28 00:03:29+00:00",
+    "id": 504781275576934400,
+    "text": "@SportsBizNews @jeremiepoplin A 2nd team in T'ronto?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "jeremiepoplin",
+                "id": "185755178"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29849267
+}

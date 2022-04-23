@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-15 00:50:39+00:00",
+    "id": 544293426259189761,
+    "text": "@SharriMarkson who do you think you\u2019re \u201cinforming\u201d?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SharriMarkson",
+                "id": "52327900"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 52327900
+}

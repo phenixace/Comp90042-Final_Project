@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-10-06 23:43:32+00:00",
+    "id": 651543342417887232,
+    "text": "@Magilla7 @ThinkAtheist @RichardDawkins  lmfao, what? Who the fuck cares? Straight people do it too numbnutz",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Magilla7",
+                "id": "2180547666"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "ThinkAtheist",
+                "id": "17697300"
+            },
+            {
+                "start": 24,
+                "end": 39,
+                "username": "RichardDawkins",
+                "id": "15143478"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 2180547666
+}

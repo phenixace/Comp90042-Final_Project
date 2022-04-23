@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-03-25 07:36:26+00:00",
+    "id": 1242716958639845378,
+    "text": "1\u20e3 It starts with your hands\ud83e\udd32\n\nPlease wash your hands frequently with soap and water \ud83e\uddfc\ud83d\udebf\ud83d\ude4c or an alcohol-based solution \ud83e\uddf4\n\nBe READY to fight #COVID\u30fc19 \n#coronavirus \n#CombatCovid19 https://t.co/nR7wMMWr7t",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 139,
+                "end": 148,
+                "tag": "COVID\u30fc19"
+            },
+            {
+                "start": 150,
+                "end": 162,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 164,
+                "end": 178,
+                "tag": "CombatCovid19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 179,
+                "end": 202,
+                "url": "https://t.co/nR7wMMWr7t",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1242716958639845378/photo/1",
+                "display_url": "pic.twitter.com/nR7wMMWr7t"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1545915336
+}

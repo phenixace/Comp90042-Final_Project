@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 01:55:37+00:00",
+    "id": 529089484554768384,
+    "text": "@fluffyguy Dead and Your tweeting from beyond the grave!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

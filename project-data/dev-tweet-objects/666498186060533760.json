@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-17 06:08:45+00:00",
+    "id": 666498186060533760,
+    "text": "@USATODAY USA like many nations land of immigrants How u live grow and utilize ur life in any country decide ur success in life or its doom",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 12,
+                "probability": 0.962,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15754281
+}

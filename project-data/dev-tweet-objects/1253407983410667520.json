@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-23 19:38:45+00:00",
+    "id": 1253407983410667520,
+    "text": "Analysis: Misunderstanding the math, Trump embraced a coronavirus death toll we\u2019ll soon surpass https://t.co/Fwl3dso9Ia",
+    "entities": {
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/Fwl3dso9Ia",
+                "expanded_url": "https://wapo.st/2VRdeCe",
+                "display_url": "wapo.st/2VRdeCe",
+                "status": 200,
+                "unwound_url": "https://www.washingtonpost.com/politics/2020/04/23/misunderstanding-math-trump-embraced-coronavirus-death-toll-well-soon-surpass/?utm_source=twitter&utm_campaign=wp_main&utm_medium=social"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.9979,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

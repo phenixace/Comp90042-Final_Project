@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-08-14 00:49:13+00:00",
+    "id": 499719358009335808,
+    "text": "@nealcarter @ShinobiAFC @ksdknews didn't know they could do those on the fly and get results in 2 seconds",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nealcarter",
+                "id": "15249499"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "ShinobiAFC",
+                "id": "193594626"
+            },
+            {
+                "start": 24,
+                "end": 33,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15249499
+}

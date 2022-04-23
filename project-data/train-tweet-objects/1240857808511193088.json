@@ -1,0 +1,42 @@
+{
+    "created_at": "2020-03-20 04:28:50+00:00",
+    "id": 1240857808511193088,
+    "text": "#KnowTheFacts on #COVID19. Taking a hot bath does not prevent the new #coronavirus disease.\n\nThe best way to protect yourself against COVID-19 is by frequently cleaning your hands.\n\n\u27a1\ufe0fhttps://t.co/kj30PPK8la https://t.co/nXYl3w8gu4",
+    "entities": {
+        "urls": [
+            {
+                "start": 184,
+                "end": 207,
+                "url": "https://t.co/kj30PPK8la",
+                "expanded_url": "http://bit.ly/2UdoSYV",
+                "display_url": "bit.ly/2UdoSYV"
+            },
+            {
+                "start": 208,
+                "end": 231,
+                "url": "https://t.co/nXYl3w8gu4",
+                "expanded_url": "https://twitter.com/WHOWPRO/status/1240857808511193088/photo/1",
+                "display_url": "pic.twitter.com/nXYl3w8gu4"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 13,
+                "tag": "KnowTheFacts"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "tag": "COVID19"
+            },
+            {
+                "start": 70,
+                "end": 82,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 3794682452
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-22 14:55:05+00:00",
+    "id": 524936987070189568,
+    "text": "De nouveaux coups de feu \u00e0 #Ottawa  \u201c@CBCAlerts: More shots fired just off Parliament Hill. Police telling everyone to take cover.\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 37,
+                "end": 47,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 27,
+                "end": 34,
+                "tag": "Ottawa"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 19038934
+}

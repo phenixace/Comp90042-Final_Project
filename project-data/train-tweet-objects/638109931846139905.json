@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-30 22:03:57+00:00",
+    "id": 638109931846139905,
+    "text": "@_SarahSplash @TheValleyReport Cold blooded",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 30,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 63582982
+}

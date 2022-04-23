@@ -1,0 +1,36 @@
+{
+    "created_at": "2015-09-10 18:26:17+00:00",
+    "id": 642041418580529152,
+    "text": "@CNNPolitics @realDonaldTrump : Says the candidate @BernieSanders who panders to #blackliesmatter racist thugs.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 51,
+                "end": 65,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 97,
+                "tag": "blackliesmatter"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

@@ -1,0 +1,47 @@
+{
+    "created_at": "2014-09-04 16:22:59+00:00",
+    "id": 507564489508941824,
+    "text": "@CNBC Here's transcript of @bbcworldservice discussion re @TeslaMotors #gigafactory &amp; why so urgent for @elonmusk http://t.co/Q6vJlwpsyE",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 83,
+                "tag": "gigafactory"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CNBC",
+                "id": "20402945"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "username": "bbcworldservice",
+                "id": "786764"
+            },
+            {
+                "start": 108,
+                "end": 117,
+                "username": "elonmusk",
+                "id": "44196397"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/Q6vJlwpsyE",
+                "expanded_url": "http://www.freshdialogues.com/2014/08/27/bbc-conversation-tesla-gigafactory-a-global-viewpoint/",
+                "display_url": "freshdialogues.com/2014/08/27/bbc\u2026",
+                "status": 200,
+                "unwound_url": "https://www.freshdialogues.com/2014/08/27/bbc-conversation-tesla-gigafactory-a-global-viewpoint/"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 20402945
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-08-27 16:22:57+00:00",
+    "id": 504665381395783680,
+    "text": "@Mr_Bibbs @TomMLemon @SportsBizNews Toronto is the biggest market in NHL. Could have 4 hockey teams there.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mr_bibbs",
+                "id": "902413521480232960"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.6803,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            },
+            {
+                "start": 69,
+                "end": 71,
+                "probability": 0.743,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 587768114
+}

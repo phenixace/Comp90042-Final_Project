@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-07 06:18:35+00:00",
+    "id": 1269514072279650304,
+    "text": "@88549439 Paper not out but last weekend owing to the WHO recommended pause, a safety analysis was reported to show no toxicity signal. Note, patient screening for RECOVERY took into account QTc so higher risk people excluded.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "88549439",
+                "id": "2225226474"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2225226474
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-19 02:43:21+00:00",
+    "id": 1240468876535697409,
+    "text": "@dbsss777 @lipnshitz @Iamsock @dpakman $1,000-3,000 is very likely.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 10,
+                "end": 20,
+                "username": "lipnshitz",
+                "id": "1139535600166612995"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "username": "Iamsock",
+                "id": "15714216"
+            },
+            {
+                "start": 30,
+                "end": 38,
+                "username": "dpakman",
+                "id": "21514744"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 941062471061835781
+}

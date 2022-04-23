@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-04 02:38:25+00:00",
+    "id": 672605851119566848,
+    "text": "@Coloradogun amount of lives lost under W 9/11 attack?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Coloradogun",
+                "id": "24486612"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 24486612
+}

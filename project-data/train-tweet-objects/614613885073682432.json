@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27 01:59:03+00:00",
+    "id": 614613885073682432,
+    "text": "@CNNWire Sharp left, so fly! You are awesome, you did it! I have added your tweet to my @Nairobi411News http://t.co/Gbg2hCiMKt",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "cnnwire",
+                "id": "783001052434067457"
+            }
+        ],
+        "urls": [
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/Gbg2hCiMKt",
+                "expanded_url": "http://rbl.ms/15ML6Vp",
+                "display_url": "rbl.ms/15ML6Vp"
+            }
+        ]
+    },
+    "source": "RebelMouse Application",
+    "in_reply_to_user_id": 844364659
+}

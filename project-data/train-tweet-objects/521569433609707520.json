@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-10-13 07:53:37+00:00",
+    "id": 521569433609707520,
+    "text": "@AmyMek I will be sure to miss all of your films  #Kristen...also ##BenAfflecks &amp; #GwynethPaltrows if she ever makes another film. .",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 58,
+                "tag": "Kristen"
+            },
+            {
+                "start": 67,
+                "end": 79,
+                "tag": "BenAfflecks"
+            },
+            {
+                "start": 86,
+                "end": 102,
+                "tag": "GwynethPaltrows"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

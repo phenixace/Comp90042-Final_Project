@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-02-03 01:54:11+00:00",
+    "id": 562428804824854528,
+    "text": "@ABC @EAMaddenNFL @AaronMLott this is what I was talking about! Their prediction was perfect",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 17,
+                "username": "EAMaddenNFL",
+                "id": "50096544"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28785486
+}

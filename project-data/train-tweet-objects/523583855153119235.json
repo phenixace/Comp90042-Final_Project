@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-18 21:18:13+00:00",
+    "id": 523583855153119235,
+    "text": "@DGarrigan9 you're bouta get blocked for putting that monster on my TL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DGarrigan9",
+                "id": "34881738"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 34881738
+}

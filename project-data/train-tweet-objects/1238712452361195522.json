@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-14 06:23:57+00:00",
+    "id": 1238712452361195522,
+    "text": "@XraypadOfficial u guys still delving to the uk?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 46,
+                "probability": 0.7011,
+                "type": "Place",
+                "normalized_text": "uk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "XraypadOfficial",
+                "id": "888684012"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 888684012
+}

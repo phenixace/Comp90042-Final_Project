@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 19:02:12+00:00",
+    "id": 638064189534269440,
+    "text": "@TheValleyReport @maryclairemeyer u",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "maryclairemeyer",
+                "id": "2784244931"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3369234799
+}

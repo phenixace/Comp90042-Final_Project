@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23 03:55:27+00:00",
+    "id": 1241936570929811459,
+    "text": "@errantThinker @ortegaalfredo Yes, that's true, but you have to be able to neutralize the virus within the droplets or to settle down them to avoid problems when breathing.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 29,
+                "username": "ortegaalfredo",
+                "id": "23276463"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 33442499
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20 13:20:50+00:00",
+    "id": 524188493933981696,
+    "text": "@piersmorgan @s6floozy The question you should be asking is why are the government wasting money and time on things that are not dangerous..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "s6floozy",
+                "id": "88416538"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 216299334
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-25 22:54:54+00:00",
+    "id": 537378923458220032,
+    "text": "@deray I cant wait for another crowd fund to go up for him.  I have some cash I want to send his way.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29417304
+}

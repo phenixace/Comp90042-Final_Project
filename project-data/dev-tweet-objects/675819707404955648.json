@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-12 23:29:09+00:00",
+    "id": 675819707404955648,
+    "text": "@RollingStone @MayfieldJoy can you imagine how many were killed before his death",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "MayfieldJoy",
+                "id": "2548954273"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-01-05 03:50:23+00:00",
+    "id": 551948802383691776,
+    "text": "Ayeeee! \u201c@KarenCivil: President's Daughter Malia Obama Spotted Wearing A Pro Era T-Shirt http://t.co/s2dhXcxdEH http://t.co/LXn9AIG0Ta\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/s2dhXcxdEH",
+                "expanded_url": "http://bit.ly/1zNhyhD",
+                "display_url": "bit.ly/1zNhyhD"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/LXn9AIG0Ta",
+                "expanded_url": "https://twitter.com/KarenCivil/status/551942365901250560/photo/1",
+                "display_url": "pic.twitter.com/LXn9AIG0Ta"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 9,
+                "end": 20,
+                "username": "KarenCivil",
+                "id": "16490974"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 53,
+                "probability": 0.9473,
+                "type": "Person",
+                "normalized_text": "Malia Obama"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16490974
+}

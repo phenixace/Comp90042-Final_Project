@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 09:59:20+00:00",
+    "id": 1251812618215534592,
+    "text": "@DrZweliMkhize And the most important thing is to wear a mask. Because any customer or cashier could be an asymptomatic carrier. You've got to wear a mask, because when you speak, there are always droplets coming out of your mouth. \n\nhttps://t.co/WRL0iB6e4f",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ],
+        "urls": [
+            {
+                "start": 234,
+                "end": 257,
+                "url": "https://t.co/WRL0iB6e4f",
+                "expanded_url": "https://twitter.com/drzwelimkhize/status/1248613456934129667?s=21",
+                "display_url": "twitter.com/drzwelimkhize/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 844486678324658176
+}

@@ -1,0 +1,51 @@
+{
+    "created_at": "2015-09-10 17:42:39+00:00",
+    "id": 642030438157012992,
+    "text": "@cnnpolitics @berniesanders @realdonaldtrump @cnnbrk \u2026and it seems to be working. God Bless America?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 28,
+                "end": 44,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 82,
+                "end": 84,
+                "probability": 0.8009,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 92,
+                "end": 98,
+                "probability": 0.9892,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 13850422
+}

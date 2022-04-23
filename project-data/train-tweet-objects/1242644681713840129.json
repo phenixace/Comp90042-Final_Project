@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-25 02:49:13+00:00",
+    "id": 1242644681713840129,
+    "text": "@NoelleMStout ugh!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "NoelleMStout",
+                "id": "1145200777318682629"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1145200777318682629
+}

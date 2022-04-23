@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-10-07 01:51:40+00:00",
+    "id": 387032445779849216,
+    "text": "@th3j35t3r @durtgeek probably fuel economy site has a different funding source. Car companies, perhaps?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "th3j35t3r",
+                "id": "97994396"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "durtgeek",
+                "id": "3530959460"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 97994396
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-05-19 12:43:54+00:00",
+    "id": 1262725668913197059,
+    "text": "@DavidShanahan42 @ramzpaul Their retort to that would be,  \"Well then we need even more testing.  Serology testing.  No reopening until we have a vaccine.  Two more weeks until the healthcare system collapses!\"  There's just no reasoning with them, which makes this all the more frustrating.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidShanahan42",
+                "id": "459032398"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "ramzpaul",
+                "id": "53979469"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 459032398
+}

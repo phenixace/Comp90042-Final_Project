@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14 17:41:18+00:00",
+    "id": 1250116935343357952,
+    "text": "@citizentvkenya Boy oh boy! \nWhere did you get Hennessy Covid 19 medicine from?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 60,
+                "probability": 0.3005,
+                "type": "Person",
+                "normalized_text": "Hennessy Covid"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

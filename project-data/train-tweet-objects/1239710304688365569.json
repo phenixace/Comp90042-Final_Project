@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17 00:29:03+00:00",
+    "id": 1239710304688365569,
+    "text": "@WHOWPRO I'm wearing rubber gloves. I'm less likely to touch my face with them on. I always wash my hands as soon as I remove them.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3794682452
+}

@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-10-03 21:27:06+00:00",
+    "id": 518150271378391040,
+    "text": "@navstadt @Foxiemama82 @AmyMek @gentlemanirish @kfc their #BARBARISM surpases none",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "navstadt",
+                "id": "2422329920"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "Foxiemama82",
+                "id": "21938597"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "username": "gentlemanirish",
+                "id": "159447476"
+            },
+            {
+                "start": 47,
+                "end": 51,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 68,
+                "tag": "BARBARISM"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2422329920
+}

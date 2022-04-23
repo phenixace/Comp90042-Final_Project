@@ -1,0 +1,58 @@
+{
+    "created_at": "2014-10-22 14:34:39+00:00",
+    "id": 524931844383735808,
+    "text": "\u201c@CP24: Soldier shot at National War Memorial in Ottawa http://t.co/helCn5c68a http://t.co/1cPM1hPoOV\u201d OH CANADA! Get your guard up!",
+    "entities": {
+        "urls": [
+            {
+                "start": 56,
+                "end": 78,
+                "url": "http://t.co/helCn5c68a",
+                "expanded_url": "http://www.cp24.com/news/soldier-shot-at-national-war-memorial-in-ottawa-1.2065446#ixzz3GsrmvuDY",
+                "display_url": "cp24.com/news/soldier-s\u2026",
+                "status": 200,
+                "unwound_url": "https://www.cp24.com/news/federal-sources-confirm-identity-of-slain-ottawa-gunman-1.2065446"
+            },
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/1cPM1hPoOV",
+                "expanded_url": "https://twitter.com/CP24/status/524929796862918656/photo/1",
+                "display_url": "pic.twitter.com/1cPM1hPoOV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 44,
+                "probability": 0.4006,
+                "type": "Place",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "probability": 0.9968,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 106,
+                "end": 111,
+                "probability": 0.9315,
+                "type": "Place",
+                "normalized_text": "CANADA"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19636948
+}

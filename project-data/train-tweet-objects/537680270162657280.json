@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-26 18:52:20+00:00",
+    "id": 537680270162657280,
+    "text": "@deray omg shut up",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29417304
+}

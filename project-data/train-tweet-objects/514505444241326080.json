@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23 20:03:51+00:00",
+    "id": 514505444241326080,
+    "text": "@TIME oh shit, a flexible screen... ahead of the curve! Lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14293310
+}

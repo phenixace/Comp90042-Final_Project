@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-21 02:38:46+00:00",
+    "id": 612449551157325825,
+    "text": "@tchopStL Since when do we have the right to not go hungry as part of our Miranda rights?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 80,
+                "probability": 0.7565,
+                "type": "Person",
+                "normalized_text": "Miranda"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 9112032
+}

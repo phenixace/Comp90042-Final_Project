@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-23 04:16:30+00:00",
+    "id": 1241941871171174402,
+    "text": "@errantThinker @ortegaalfredo Title: \"Is COVID-19 airborne?\"\n\nhttps://t.co/rG4Gf4CVyd",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 29,
+                "username": "ortegaalfredo",
+                "id": "23276463"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 85,
+                "url": "https://t.co/rG4Gf4CVyd",
+                "expanded_url": "https://www.uchicagomedicine.org/forefront/prevention-and-screening-articles/wuhan-coronavirus",
+                "display_url": "uchicagomedicine.org/forefront/prev\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 980576984605569025
+}

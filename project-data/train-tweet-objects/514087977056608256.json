@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-09-22 16:24:59+00:00",
+    "id": 514087977056608256,
+    "text": "\u201c@ComplexMag: A Florida woman had surgery to give herself a third boob: http://t.co/cchsuA2amF http://t.co/Of3eNAyhFp\u201d still got a lazy eye",
+    "entities": {
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/cchsuA2amF",
+                "expanded_url": "http://trib.al/fpdTvki",
+                "display_url": "trib.al/fpdTvki"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/Of3eNAyhFp",
+                "expanded_url": "https://twitter.com/ComplexMag/status/514081464171102208/photo/1",
+                "display_url": "pic.twitter.com/Of3eNAyhFp"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "probability": 0.9066,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-06-01 16:19:53+00:00",
+    "id": 1267491065428393984,
+    "text": "@RealAbelKekana That may take some time to collate but we will be talking to traders tonight on #POWERBusiness on @Powerfm987 so stay tuned",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "RealAbelKekana",
+                "id": "1032679130234544129"
+            },
+            {
+                "start": 114,
+                "end": 125,
+                "username": "Powerfm987",
+                "id": "1259161105"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 110,
+                "tag": "POWERBusiness"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1032679130234544129
+}

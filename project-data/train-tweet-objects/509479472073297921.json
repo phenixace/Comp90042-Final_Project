@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09 23:12:26+00:00",
+    "id": 509479472073297921,
+    "text": "@GIBiz Two billion? No wonder he is grinning? lol. They will make a great team though.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "GIBiz",
+                "id": "46146200"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 46146200
+}

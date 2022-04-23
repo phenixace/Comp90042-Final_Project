@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:27:09+00:00",
+    "id": 531649232688918529,
+    "text": "@Boogie2988 I love you in the best possible way &lt;3",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-28 02:36:01+00:00",
+    "id": 560265007296806912,
+    "text": "@act4america @AssOnRight @BreitbartNews Thank you for posting. Very informative. I had no idea about this.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "AssOnRight",
+                "id": "2792409146"
+            },
+            {
+                "start": 25,
+                "end": 39,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 168541923
+}

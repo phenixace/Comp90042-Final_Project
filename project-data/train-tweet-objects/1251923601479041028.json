@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 17:20:20+00:00",
+    "id": 1251923601479041028,
+    "text": "@DrZweliMkhize Baba Mkhize siya bona you doing a good job with other comrades weldone but ngine problem because la e gauteng from freedom park, lehae, soweto, going straight to orange farm ngisho I lawley anse finetown people basa phila the same way and to be honest we not safe , why ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 25,
+                "probability": 0.939,
+                "type": "Person",
+                "normalized_text": "Baba Mkhize"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-08-15 18:54:53+00:00",
+    "id": 632626533790818304,
+    "text": "@DjCyFi @girlwithmojo @KhaledBeydoun @jazzzhand a child vs. an adult who had no business having a gun on a civilian. GO HOME ROGER",
+    "entities": {
+        "annotations": [
+            {
+                "start": 125,
+                "end": 129,
+                "probability": 0.7447,
+                "type": "Person",
+                "normalized_text": "ROGER"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "DjCyFi",
+                "id": "29773705"
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "username": "KhaledBeydoun",
+                "id": "2163076560"
+            },
+            {
+                "start": 37,
+                "end": 47,
+                "username": "jazzzhand",
+                "id": "56518446"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29773705
+}

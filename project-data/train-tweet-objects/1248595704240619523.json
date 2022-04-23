@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-10 12:56:28+00:00",
+    "id": 1248595704240619523,
+    "text": "5G mobile networks do not spread COVID-19 \u2013 WHO https://t.co/vVlIaHf6CP https://t.co/0W2YfhGflc",
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/vVlIaHf6CP",
+                "expanded_url": "https://www.dailytrust.com.ng/5g-mobile-networks-do-not-spread-covid-19-who.html",
+                "display_url": "dailytrust.com.ng/5g-mobile-netw\u2026"
+            },
+            {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/0W2YfhGflc",
+                "expanded_url": "https://twitter.com/daily_trust/status/1248595704240619523/photo/1",
+                "display_url": "pic.twitter.com/0W2YfhGflc"
+            }
+        ]
+    },
+    "source": "WordPress.com",
+    "in_reply_to_user_id": null
+}

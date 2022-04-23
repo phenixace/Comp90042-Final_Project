@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 14:23:57+00:00",
+    "id": 612989404316106752,
+    "text": "@tchopStL @cheezwitham bullshit. Should have given him standard food like all suspects.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "cheezwitham",
+                "id": "1049560369"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9112032
+}

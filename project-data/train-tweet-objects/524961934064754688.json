@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 16:34:13+00:00",
+    "id": 524961934064754688,
+    "text": "@WSJ @HeyTammyBruce I hope this isn't just a prelude to a bigger attack.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "HeyTammyBruce",
+                "id": "22956220"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3108351
+}

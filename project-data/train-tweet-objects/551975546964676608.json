@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-05 05:36:40+00:00",
+    "id": 551975546964676608,
+    "text": "@KarenCivil I thought the oldest was sasha \ud83d\ude11\ud83d\udc40",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KarenCivil",
+                "id": "16490974"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.9765,
+                "type": "Person",
+                "normalized_text": "sasha"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16490974
+}

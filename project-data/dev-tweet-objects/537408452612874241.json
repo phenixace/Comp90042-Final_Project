@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-26 00:52:14+00:00",
+    "id": 537408452612874241,
+    "text": "@Boogie2988 @IvyTwisted the results of marijuana legalization.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "IvyTwisted",
+                "id": "246467722"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 42345999
+}

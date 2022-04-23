@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-17 09:42:18+00:00",
+    "id": 534280359572434946,
+    "text": "\"@Independent: We are running out of chocolate, warns chocolate manufacturer\nhttp://t.co/5y5mhjojIZ http://t.co/rJndRlaus5\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/5y5mhjojIZ",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/rJndRlaus5",
+                "expanded_url": "https://twitter.com/Independent/status/534278078105944064/photo/1",
+                "display_url": "pic.twitter.com/rJndRlaus5"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 16973333
+}

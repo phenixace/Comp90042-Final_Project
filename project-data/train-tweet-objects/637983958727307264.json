@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 13:43:23+00:00",
+    "id": 637983958727307264,
+    "text": "@TheValleyReport @MikeyBalogun \ud83d\ude1f\ud83d\ude1f",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "MikeyBalogun",
+                "id": "1099413757"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3369234799
+}

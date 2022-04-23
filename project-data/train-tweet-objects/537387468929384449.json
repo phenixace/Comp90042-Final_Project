@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-25 23:28:51+00:00",
+    "id": 537387468929384449,
+    "text": "@deray @TheObamaDiary If they paid him $1 it was too much. I didn't watch it. #BOYCOTTABCNEWS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 93,
+                "tag": "BOYCOTTABCNEWS"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29417304
+}

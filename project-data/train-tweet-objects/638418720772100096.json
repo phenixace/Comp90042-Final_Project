@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-31 18:30:58+00:00",
+    "id": 638418720772100096,
+    "text": "@TheValleyReport @MaggieWall_",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26 14:43:26+00:00",
+    "id": 1254420829426810881,
+    "text": "@mattysino No, some are back to saying that \ud83d\ude02\ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "mattysino",
+                "id": "14206218"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14206218
+}

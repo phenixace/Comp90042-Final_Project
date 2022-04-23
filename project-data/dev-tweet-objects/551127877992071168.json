@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-02 21:28:20+00:00",
+    "id": 551127877992071168,
+    "text": "@FoxNews I'm I the only one who looks at the news they said she was dead years ago liar liar#dta",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 1367531
+}

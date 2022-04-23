@@ -1,0 +1,48 @@
+{
+    "created_at": "2020-03-17 22:56:26+00:00",
+    "id": 1240049384055648256,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n12) Xi Jinping \ud83c\udde8\ud83c\uddf3 knew January 7 \ud83d\udcaf\n\nTRANSLATION: \u201cAN URGENT\ud83d\udea8 CALL REGARDING THE EPIDEMIC\u201d\nMar 16, 2020\n\nZhao Shilin  issued two\ud83d\udca5 public letters to Xi Jinping concerning the government\u2019s response to the outbreak\n\nRead them here \u2b07\ufe0f\nhttps://t.co/waAu8O4rUH https://t.co/5U40PWkaI5",
+    "entities": {
+        "annotations": [
+            {
+                "start": 171,
+                "end": 180,
+                "probability": 0.3712,
+                "type": "Organization",
+                "normalized_text": "Xi Jinping"
+            }
+        ],
+        "urls": [
+            {
+                "start": 248,
+                "end": 271,
+                "url": "https://t.co/waAu8O4rUH",
+                "expanded_url": "https://chinadigitaltimes.net/2020/03/translation-an-urgent-call-regarding-the-epidemic/",
+                "display_url": "chinadigitaltimes.net/2020/03/transl\u2026"
+            },
+            {
+                "start": 272,
+                "end": 295,
+                "url": "https://t.co/5U40PWkaI5",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240049384055648256/photo/1",
+                "display_url": "pic.twitter.com/5U40PWkaI5"
+            },
+            {
+                "start": 272,
+                "end": 295,
+                "url": "https://t.co/5U40PWkaI5",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240049384055648256/photo/1",
+                "display_url": "pic.twitter.com/5U40PWkaI5"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

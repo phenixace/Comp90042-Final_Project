@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-02-01 03:42:24+00:00",
+    "id": 561731263493849089,
+    "text": "@Squarespace @TheJeffBridges &amp; have nightmares about Tron?  No thank you!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 56,
+                "probability": 0.396,
+                "type": "Person",
+                "normalized_text": "Tron"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14319981
+}

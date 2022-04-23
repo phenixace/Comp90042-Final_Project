@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-09-22 17:15:49+00:00",
+    "id": 514100769805434880,
+    "text": "Hockey season does that @BreakingNews @WCVB @7News @NBCNews",
+    "entities": {
+        "mentions": [
+            {
+                "start": 24,
+                "end": 37,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "username": "WCVB",
+                "id": "21419504"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "username": "7News",
+                "id": "16558796"
+            },
+            {
+                "start": 51,
+                "end": 59,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 6017542
+}

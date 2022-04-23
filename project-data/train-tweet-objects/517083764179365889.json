@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-30 22:49:10+00:00",
+    "id": 517083764179365889,
+    "text": "@MonicaCrowley @nypost Why is it that the msm is not lifting a finger to report that a Muslim convert terrorist chopped a woman's head off.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "MonicaCrowley",
+                "id": "166990746"
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 166990746
+}

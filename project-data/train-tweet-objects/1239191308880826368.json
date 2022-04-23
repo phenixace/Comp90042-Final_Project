@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-15 14:06:45+00:00",
+    "id": 1239191308880826368,
+    "text": "@i_cirkovic Thank you!\nI think I might have just eaten too much.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "i_cirkovic",
+                "id": "25802369"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 25802369
+}

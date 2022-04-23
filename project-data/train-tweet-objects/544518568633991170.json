@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-12-15 15:45:18+00:00",
+    "id": 544518568633991170,
+    "text": "\u201c@AusNewsNetwork: #BREAKING: At least two people have died following the #SydneySiege. 5 people are being treated by paramedics.\u201d nooooo",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "AusNewsNetwork",
+                "id": "491960101"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 27,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 73,
+                "end": 85,
+                "tag": "SydneySiege"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 491960101
+}

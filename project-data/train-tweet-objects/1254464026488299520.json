@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 17:35:05+00:00",
+    "id": 1254464026488299520,
+    "text": "Q2. @PublicHealthRx How does COVID-19 spread? #JCIAUKickoutCovid19 https://t.co/euQekyE0oN",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 66,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/euQekyE0oN",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254464026488299520/photo/1",
+                "display_url": "pic.twitter.com/euQekyE0oN"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

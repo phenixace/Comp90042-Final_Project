@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-17 05:22:31+00:00",
+    "id": 1239784154201391108,
+    "text": "FACT:\n\n\ud83d\udc49COVID-19 virus can be transmitted in areas with hot &amp; humid climates.\n\nFrom the evidence so far, the #coronavirus can be transmitted in ALL AREAS, including areas with hot\u2600\ufe0f&amp; humid weather.\nAdopt protective measures if you live in or travel to an area reporting #COVID19 https://t.co/ckWHnlpJzv",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 113,
+                "end": 125,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 278,
+                "end": 286,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 287,
+                "end": 310,
+                "url": "https://t.co/ckWHnlpJzv",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1239784154201391108/photo/1",
+                "display_url": "pic.twitter.com/ckWHnlpJzv"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1545915336
+}

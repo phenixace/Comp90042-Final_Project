@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18 03:47:41+00:00",
+    "id": 489979794834984960,
+    "text": "@msnbc RIP",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MSNBC",
+                "id": "2836421"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2836421
+}

@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-12-15 00:38:27+00:00",
+    "id": 544290355068166146,
+    "text": "\u201c@WSJ: Central Sydney shut down by police amid ongoing hostage situation: http://t.co/wlogoSgFol\u201d @antgoldbloom",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WSJ",
+                "id": "3108351"
+            },
+            {
+                "start": 98,
+                "end": 111,
+                "username": "antgoldbloom",
+                "id": "167960058"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 20,
+                "probability": 0.5389,
+                "type": "Place",
+                "normalized_text": "Central Sydney"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/wlogoSgFol",
+                "expanded_url": "http://on.wsj.com/16mVQts",
+                "display_url": "on.wsj.com/16mVQts"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

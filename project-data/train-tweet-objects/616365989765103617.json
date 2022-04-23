@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-07-01 22:01:18+00:00",
+    "id": 616365989765103617,
+    "text": "@NBCNightlyNews Morality made relevant ?  #theoryofrelativity\n http://t.co/vdAPB5DmKa",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NBCNightlyNews",
+                "id": "8839632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 63,
+                "end": 85,
+                "url": "http://t.co/vdAPB5DmKa",
+                "expanded_url": "http://comunistmanifesto101.blogspot.com/2015/06/objective-truth-deniedmoral-relativity.html",
+                "display_url": "comunistmanifesto101.blogspot.com/2015/06/object\u2026",
+                "status": 200,
+                "unwound_url": "https://comunistmanifesto101.blogspot.com/2015/06/objective-truth-deniedmoral-relativity.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 42,
+                "end": 61,
+                "tag": "theoryofrelativity"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 8839632
+}

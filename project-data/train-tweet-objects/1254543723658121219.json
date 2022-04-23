@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-04-26 22:51:46+00:00",
+    "id": 1254543723658121219,
+    "text": "@jrharrison1 @NolteNC @jkc_jaycee Just wanting you stop being scared.  We know it's nothing to be afraid of unless you choose to be.  Recent antibody tests show that it has a very low fatality rate and has likely been here since late 2019. You may choose fear if you wish. \nhttps://t.co/JUMrLmfK4e",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JrHarrison1",
+                "id": "1276874998637047809"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "NolteNC",
+                "id": "16163639"
+            }
+        ],
+        "urls": [
+            {
+                "start": 274,
+                "end": 297,
+                "url": "https://t.co/JUMrLmfK4e",
+                "expanded_url": "https://www.wsj.com/articles/the-new-antibody-evidence-11587769490?redirect=amp#click=https://t.co/wVM2D9jjye",
+                "display_url": "wsj.com/articles/the-n\u2026",
+                "status": 200,
+                "unwound_url": "https://www.wsj.com/articles/the-new-antibody-evidence-11587769490?redirect=amp#click=https://t.co/wVM2D9jjye"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 399941839
+}

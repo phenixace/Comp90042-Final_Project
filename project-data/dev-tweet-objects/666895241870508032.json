@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-18 08:26:30+00:00",
+    "id": 666895241870508032,
+    "text": "@USATODAY @Backstorymom1 Sharp and Stupid in the same mind to the extreme",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "Backstorymom1",
+                "id": "1422241538"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15754281
+}

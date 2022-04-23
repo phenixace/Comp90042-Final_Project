@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-01-27 04:44:18+00:00",
+    "id": 427663329859891200,
+    "text": "@YahooNews He lived to 72!  Is that really an argument against smoking?!--Not that I'm advocating it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "YahooNews",
+                "id": "7309052"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 7309052
+}

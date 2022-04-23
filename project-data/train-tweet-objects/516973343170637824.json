@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-09-30 15:30:24+00:00",
+    "id": 516973343170637824,
+    "text": "@AmyMek @AngryCBrown @kfc KFC only serve halal meat in most places now .. easy to see what market they want .. won't be getting my money",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 8,
+                "end": 20,
+                "username": "AngryCBrown",
+                "id": "4748592470"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 28,
+                "probability": 0.624,
+                "type": "Organization",
+                "normalized_text": "KFC"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

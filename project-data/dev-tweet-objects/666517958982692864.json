@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-17 07:27:19+00:00",
+    "id": 666517958982692864,
+    "text": "@USATODAY @MichaelMcGuire_ its not the immigrants that are the problem...its the radicals that are mixed in that we cant discern",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "MichaelMcGuire_",
+                "id": "1330630463447330821"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15754281
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-08-06 18:45:48+00:00",
+    "id": 497091183760666625,
+    "text": "Come on bear, you were so close.  Try harder.  RT @TMZ #Breaking: Justin Bieber thwarts bear attack!! http://t.co/2dbAEeVXTh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 50,
+                "end": 54,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 64,
+                "tag": "Breaking"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/2dbAEeVXTh",
+                "expanded_url": "http://tmz.me/FZo9BGc",
+                "display_url": "tmz.me/FZo9BGc"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 66,
+                "end": 78,
+                "probability": 0.9939,
+                "type": "Person",
+                "normalized_text": "Justin Bieber"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16331010
+}

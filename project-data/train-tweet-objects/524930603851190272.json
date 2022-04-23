@@ -1,0 +1,58 @@
+{
+    "created_at": "2014-10-22 14:29:43+00:00",
+    "id": 524930603851190272,
+    "text": "Scary scene unfolding in Ottawa \u201c@CP24: Soldier shot at National War Memorial in Ottawa http://t.co/jip22VuGbA http://t.co/WrxI0DV8ym\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 30,
+                "probability": 0.9915,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 56,
+                "end": 76,
+                "probability": 0.4635,
+                "type": "Place",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 81,
+                "end": 86,
+                "probability": 0.9969,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 33,
+                "end": 38,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/jip22VuGbA",
+                "expanded_url": "http://www.cp24.com/news/soldier-shot-at-national-war-memorial-in-ottawa-1.2065446#ixzz3GsrmvuDY",
+                "display_url": "cp24.com/news/soldier-s\u2026",
+                "status": 200,
+                "unwound_url": "https://www.cp24.com/news/federal-sources-confirm-identity-of-slain-ottawa-gunman-1.2065446"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/WrxI0DV8ym",
+                "expanded_url": "https://twitter.com/CP24/status/524929796862918656/photo/1",
+                "display_url": "pic.twitter.com/WrxI0DV8ym"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19636948
+}

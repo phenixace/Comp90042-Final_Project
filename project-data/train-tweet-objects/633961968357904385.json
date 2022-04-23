@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-19 11:21:26+00:00",
+    "id": 633961968357904385,
+    "text": "@CNNPolitics i find it difficult to believe she's ahead of anyone anywhere in any race",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13850422
+}

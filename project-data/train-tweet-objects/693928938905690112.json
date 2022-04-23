@@ -1,0 +1,23 @@
+{
+    "created_at": "2016-01-31 22:48:46+00:00",
+    "id": 693928938905690112,
+    "text": "@david_kida @TheValleyReport You never like mine, so ya lucky I'm not her \ud83d\udc40",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "david_kida",
+                "id": "1496969058939547653"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 440683125
+}

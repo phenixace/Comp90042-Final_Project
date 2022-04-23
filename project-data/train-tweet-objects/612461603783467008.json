@@ -1,0 +1,18 @@
+{
+    "created_at": "2015-06-21 03:26:39+00:00",
+    "id": 612461603783467008,
+    "text": "@RealLeonardWA's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.",
+    "entities": {
+        "urls": [
+            {
+                "start": 98,
+                "end": 108,
+                "url": "https://support.twitter.com/articles/20169199",
+                "expanded_url": "https://support.twitter.com/articles/20169199",
+                "display_url": "Learn more"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9112032
+}

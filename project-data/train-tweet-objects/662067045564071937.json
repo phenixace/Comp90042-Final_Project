@@ -1,0 +1,49 @@
+{
+    "created_at": "2015-11-05 00:40:58+00:00",
+    "id": 662067045564071937,
+    "text": "RIP National Geographic MT \"@Mullane45: Rupert Murdoch just killed National Geographic. https://t.co/Acy627wXbc\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 28,
+                "end": 38,
+                "username": "Mullane45",
+                "id": "20250241"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 4,
+                "end": 22,
+                "probability": 0.3075,
+                "type": "Organization",
+                "normalized_text": "National Geographic"
+            },
+            {
+                "start": 40,
+                "end": 53,
+                "probability": 0.9924,
+                "type": "Person",
+                "normalized_text": "Rupert Murdoch"
+            },
+            {
+                "start": 67,
+                "end": 85,
+                "probability": 0.7099,
+                "type": "Organization",
+                "normalized_text": "National Geographic"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/Acy627wXbc",
+                "expanded_url": "http://reverbpress.com/business/rupert-murdoch-national-geographic-layoffs/",
+                "display_url": "reverbpress.com/business/ruper\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20250241
+}

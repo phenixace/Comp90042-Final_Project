@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-04 00:25:46+00:00",
+    "id": 518195234321489921,
+    "text": "\u201c@JarridWilson: Atheists Are Mad At @carrieunderwood. I Applaud Her. http://t.co/97SKcB0XBD\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "JarridWilson",
+                "id": "17076385"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "carrieunderwood",
+                "id": "386244525"
+            }
+        ],
+        "urls": [
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/97SKcB0XBD",
+                "expanded_url": "http://jarridwilson.com/atheists-carrie-song/",
+                "display_url": "jarridwilson.com/atheists-carri\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17076385
+}

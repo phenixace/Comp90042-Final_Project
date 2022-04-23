@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-06-24 01:02:44+00:00",
+    "id": 1275595178871418886,
+    "text": "@mgmgomes1 paper is much better in providing empirical estimates of heterogeneity &amp; impacts on HIT, f based on data (colored lines in figure). https://t.co/OuxCx8yw5Q",
+    "entities": {
+        "urls": [
+            {
+                "start": 147,
+                "end": 170,
+                "url": "https://t.co/OuxCx8yw5Q",
+                "expanded_url": "https://twitter.com/DiseaseEcology/status/1275595178871418886/photo/1",
+                "display_url": "pic.twitter.com/OuxCx8yw5Q"
+            },
+            {
+                "start": 147,
+                "end": 170,
+                "url": "https://t.co/OuxCx8yw5Q",
+                "expanded_url": "https://twitter.com/DiseaseEcology/status/1275595178871418886/photo/1",
+                "display_url": "pic.twitter.com/OuxCx8yw5Q"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "mgmgomes1",
+                "id": "1136572745767096320"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

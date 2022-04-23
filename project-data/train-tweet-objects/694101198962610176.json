@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-02-01 10:13:16+00:00",
+    "id": 694101198962610176,
+    "text": "@TheValleyReport how crazy can women be \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

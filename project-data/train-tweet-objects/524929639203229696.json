@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-10-22 14:25:53+00:00",
+    "id": 524929639203229696,
+    "text": "Was a witness. So scary \u201c@OttawaCitizen: BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown http://t.co/QHw13UgbYl #ottnews\u201d",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 131,
+                "end": 139,
+                "tag": "ottnews"
+            }
+        ],
+        "urls": [
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/QHw13UgbYl",
+                "expanded_url": "http://ottawacitizen.com/news/national/soldier-shot-at-war-memorial-in-ottawa/",
+                "display_url": "ottawacitizen.com/news/national/\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 25,
+                "end": 39,
+                "username": "OttawaCitizen",
+                "id": "23655688"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 67,
+                "end": 78,
+                "probability": 0.7557,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            },
+            {
+                "start": 83,
+                "end": 88,
+                "probability": 0.9989,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 91,
+                "end": 94,
+                "probability": 0.6126,
+                "type": "Place",
+                "normalized_text": "Hill"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 23655688
+}

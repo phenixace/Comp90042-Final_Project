@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-28 21:43:28+00:00",
+    "id": 538448110553292800,
+    "text": "@THESOURCE http://t.co/XyWfGsiNXG",
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 33,
+                "url": "http://t.co/XyWfGsiNXG",
+                "expanded_url": "http://peacefulstreets.com/",
+                "display_url": "peacefulstreets.com"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16630362
+}

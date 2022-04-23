@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-10-14 09:41:17+00:00",
+    "id": 521958916193017856,
+    "text": "@tryitmelvin @yrwol7 @AmyMek an emotionless \"actress\" with no education speaking about social skills and intelligence #PotMeetKettle",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 118,
+                "end": 132,
+                "tag": "PotMeetKettle"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 20,
+                "username": "yrwol7",
+                "id": "412776430"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1699623224
+}

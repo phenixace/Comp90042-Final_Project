@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-22 18:42:23+00:00",
+    "id": 524994192058355712,
+    "text": "@CNN #PRS320 bring the violence to an end. Guy violence not just US issue",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 5,
+                "end": 12,
+                "tag": "PRS320"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 66,
+                "probability": 0.8027,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

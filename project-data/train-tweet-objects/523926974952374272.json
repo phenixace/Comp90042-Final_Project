@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-19 20:01:39+00:00",
+    "id": 523926974952374272,
+    "text": "@MarkZinno So what's the argument (excuse) for Matt Ryan today?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "MarkZinno",
+                "id": "522392908"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 55,
+                "probability": 0.9976,
+                "type": "Person",
+                "normalized_text": "Matt Ryan"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 522392908
+}

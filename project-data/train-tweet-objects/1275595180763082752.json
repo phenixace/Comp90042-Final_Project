@@ -1,0 +1,57 @@
+{
+    "created_at": "2020-06-24 01:02:45+00:00",
+    "id": 1275595180763082752,
+    "text": "Serological data from NYC suggest that either heterogeneity estimate is too large or R0 is much larger, or lockdown did nothing to stop outbreak as seroprevalence is already at overhsoot epidemic size f (~20% - I added horiz dashed line).\nhttps://t.co/Mwn4USQ6nk https://t.co/78ozBGuYPo",
+    "entities": {
+        "urls": [
+            {
+                "start": 239,
+                "end": 262,
+                "url": "https://t.co/Mwn4USQ6nk",
+                "expanded_url": "https://www.sciencedirect.com/science/article/pii/S1047279720302015",
+                "display_url": "sciencedirect.com/science/articl\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1516045156629286913/wszd4OkO?format=jpg&name=orig",
+                        "width": 113,
+                        "height": 150
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1516045156629286913/wszd4OkO?format=jpg&name=150x150",
+                        "width": 113,
+                        "height": 113
+                    }
+                ],
+                "status": 200,
+                "title": "Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York",
+                "description": "New York State (NYS) is an epicenter of the SARS-CoV-2 pandemic in the United States. Reliable estimates of cumulative incidence in the population are\u2026",
+                "unwound_url": "https://www.sciencedirect.com/science/article/pii/S1047279720302015"
+            },
+            {
+                "start": 263,
+                "end": 286,
+                "url": "https://t.co/78ozBGuYPo",
+                "expanded_url": "https://twitter.com/DiseaseEcology/status/1275595180763082752/photo/1",
+                "display_url": "pic.twitter.com/78ozBGuYPo"
+            },
+            {
+                "start": 263,
+                "end": 286,
+                "url": "https://t.co/78ozBGuYPo",
+                "expanded_url": "https://twitter.com/DiseaseEcology/status/1275595180763082752/photo/1",
+                "display_url": "pic.twitter.com/78ozBGuYPo"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 24,
+                "probability": 0.9773,
+                "type": "Place",
+                "normalized_text": "NYC"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-02-01 18:56:23+00:00",
+    "id": 561961275954298884,
+    "text": "@peddoc63 @LodiSilverado @AmyMek \nWTF?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1379288282
+}

@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-02-03 04:44:22+00:00",
+    "id": 562471634016428032,
+    "text": "@Marianneshope @Obsessedabroad @peddoc63 @LodiSilverado @AmyMek I find it offensive that anyone would tolerate this.That's not assimilation.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Marianneshope",
+                "id": "28279013"
+            },
+            {
+                "start": 15,
+                "end": 30,
+                "username": "Obsessedabroad",
+                "id": "2162983369"
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 41,
+                "end": 55,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 56,
+                "end": 63,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28279013
+}

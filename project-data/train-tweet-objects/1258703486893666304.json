@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-05-08 10:21:11+00:00",
+    "id": 1258703486893666304,
+    "text": "@ATorygirl @carol_hulme @BBCNews I still haven't heard one definite answer to these questions.\nAre results reliable?\nWhat use is a negative result beyond the time of testing?\nIf tests show that we have had it (so too mild to know it was that) does that mean we are immune forever?\nWhat exactly do they prove?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 23,
+                "username": "carol_hulme",
+                "id": "1169110058"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "username": "BBCNews",
+                "id": "612473"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 603378391
+}

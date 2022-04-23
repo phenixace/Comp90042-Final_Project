@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:35:55+00:00",
+    "id": 574065919976046593,
+    "text": "@ABC in college they are always late they don't always pay attention in class and they are not punished. what's the point doing it to kids??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28785486
+}

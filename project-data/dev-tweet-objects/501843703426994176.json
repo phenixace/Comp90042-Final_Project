@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 21:30:37+00:00",
+    "id": 501843703426994176,
+    "text": "@_esaliba you are blowing this out of proportion ! Where are your freedoms and Democratic values now @FLOTUS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "_esaliba",
+                "id": "156743986"
+            },
+            {
+                "start": 101,
+                "end": 108,
+                "username": "FLOTUS",
+                "id": "1349154719386775552"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 156743986
+}

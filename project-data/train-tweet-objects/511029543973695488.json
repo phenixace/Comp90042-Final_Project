@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-14 05:51:52+00:00",
+    "id": 511029543973695488,
+    "text": "@FoxNews ok, did you not say same about Germany? you stood up against them! why not now?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 46,
+                "probability": 0.9784,
+                "type": "Place",
+                "normalized_text": "Germany"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

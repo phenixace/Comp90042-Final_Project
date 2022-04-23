@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 02:13:46+00:00",
+    "id": 529094049974988800,
+    "text": "@fluffyguy Seriously, the media needs to get there stuff together. I thought these things only happened in the fake papers. -__-",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 28245852
+}

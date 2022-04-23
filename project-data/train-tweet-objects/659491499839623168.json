@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-10-28 22:06:40+00:00",
+    "id": 659491499839623168,
+    "text": "@FiNeSSeHaVeN @kfc  Fake news.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2304239234
+}

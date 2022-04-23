@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01 18:04:27+00:00",
+    "id": 528608524293914624,
+    "text": "@Discovery that's very interesting indeed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Discovery",
+                "id": "17842366"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 17842366
+}

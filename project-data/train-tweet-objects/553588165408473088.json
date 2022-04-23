@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-09 16:24:38+00:00",
+    "id": 553588165408473088,
+    "text": "@France24_en @Sonia_Dridi For the record this pic. is the other hostage site, the CharlieHebdo murderers were taken outside Paris: Dammartin",
+    "entities": {
+        "annotations": [
+            {
+                "start": 124,
+                "end": 128,
+                "probability": 0.9495,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "France24_en",
+                "id": "25049056"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "Sonia_Dridi",
+                "id": "294044740"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 25049056
+}

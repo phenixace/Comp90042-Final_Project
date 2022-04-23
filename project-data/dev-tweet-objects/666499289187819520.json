@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-17 06:13:08+00:00",
+    "id": 666499289187819520,
+    "text": "@USATODAY lol. Thanks. Let them all in now. Ask if they can fix your shitty app @RLWthe4th",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            },
+            {
+                "start": 80,
+                "end": 90,
+                "username": "RLWthe4th",
+                "id": "2380414983"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15754281
+}

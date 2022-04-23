@@ -1,0 +1,33 @@
+{
+    "created_at": "2013-12-01 19:03:10+00:00",
+    "id": 407223365649190912,
+    "text": "@ELLEmagazine The Fast and The Furious will never be the same #RIPPaulWalker",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ELLEmagazine",
+                "id": "20177423"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 76,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 37,
+                "probability": 0.8246,
+                "type": "Other",
+                "normalized_text": "The Fast and The Furious"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20177423
+}

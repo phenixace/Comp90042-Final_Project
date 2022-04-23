@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-03-15 02:51:22+00:00",
+    "id": 1239021343942868993,
+    "text": "w/coronavirus, about 20% of infected ppl end up needing hospital care. MI population is 9M. if 1% of the pop gets infected, as many as 18k could need hospital care.\n\nas of march 2 there were 6431 free hospital beds in MI. someone pls tell me my math is wrong\ud83d\ude33 #flatteningthecurve https://t.co/8Gu566s8wX",
+    "entities": {
+        "annotations": [
+            {
+                "start": 218,
+                "end": 219,
+                "probability": 0.8968,
+                "type": "Place",
+                "normalized_text": "MI"
+            }
+        ],
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/8Gu566s8wX",
+                "expanded_url": "https://twitter.com/tundeolaniran/status/1239021343942868993/video/1",
+                "display_url": "pic.twitter.com/8Gu566s8wX"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 260,
+                "end": 279,
+                "tag": "flatteningthecurve"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

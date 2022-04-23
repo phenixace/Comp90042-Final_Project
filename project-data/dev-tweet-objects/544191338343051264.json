@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-14 18:05:00+00:00",
+    "id": 544191338343051264,
+    "text": "@nypost So thousands of people held a civil rights protest yesterday and you ignored it to put bullshit as headline",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17469289
+}

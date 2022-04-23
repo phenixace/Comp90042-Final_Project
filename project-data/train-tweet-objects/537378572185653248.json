@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-25 22:53:30+00:00",
+    "id": 537378572185653248,
+    "text": "@deray Yea and some jerk wants to invite him to the WH to let him know we appreciate him.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 53,
+                "probability": 0.4097,
+                "type": "Organization",
+                "normalized_text": "WH"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29417304
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-02 10:53:34+00:00",
+    "id": 1245665674564759554,
+    "text": "@MrChelseaDagger It\u2019s beyond that now ! They need locking up !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "MrChelseaDagger",
+                "id": "1170337936140853248"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1170337936140853248
+}

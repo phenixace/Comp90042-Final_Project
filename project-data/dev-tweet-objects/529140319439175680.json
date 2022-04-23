@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 05:17:37+00:00",
+    "id": 529140319439175680,
+    "text": "@fluffyguy and you're still tweeting? There's only one logical answer. FREE WIFI IN HEAVEN",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

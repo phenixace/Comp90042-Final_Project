@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-07-24 02:29:52+00:00",
+    "id": 624406112197021696,
+    "text": "@NewsWatch33 @ThelIluminati What crackhead thought of this shit?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 27,
+                "username": "ThelIluminati",
+                "id": "143257853"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 343051698
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-23 19:29:23+00:00",
+    "id": 514496769871601665,
+    "text": "@TIME can't be - I heard Apple is perfect - just ask their passionate followers",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 29,
+                "probability": 0.6816,
+                "type": "Organization",
+                "normalized_text": "Apple"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14293310
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-09-09 00:15:57+00:00",
+    "id": 509133070700904448,
+    "text": "Well Fuck!! Or NOT? \n\u201c@eonline: Sorry, everyone\u2014Durex is NOT making Pumpkin Spice condoms this fall: http://t.co/K21Cr1WKqz\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 68,
+                "end": 80,
+                "probability": 0.6486,
+                "type": "Product",
+                "normalized_text": "Pumpkin Spice"
+            }
+        ],
+        "urls": [
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/K21Cr1WKqz",
+                "expanded_url": "https://twitter.com/eonline/status/509114008587100160/photo/1",
+                "display_url": "pic.twitter.com/K21Cr1WKqz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 30,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2883841
+}

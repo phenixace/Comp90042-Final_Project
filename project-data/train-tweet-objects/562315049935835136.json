@@ -1,0 +1,43 @@
+{
+    "created_at": "2015-02-02 18:22:09+00:00",
+    "id": 562315049935835136,
+    "text": "@ABC Trying to win $40,000 worth of furniture for Kingsborough Elem. Gloversville, NY DAILY votes,until Feb 27 http://t.co/fk6CHhjO59",
+    "entities": {
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/fk6CHhjO59",
+                "expanded_url": "http://bit.ly/1pu9Fcx",
+                "display_url": "bit.ly/1pu9Fcx",
+                "unwound_url": "http://platform.votigo.com/fbcontests/profiletab/Diversified-Woodcrafts-Create-Explore-40K-Giveaway"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 66,
+                "probability": 0.7306,
+                "type": "Organization",
+                "normalized_text": "Kingsborough Elem"
+            },
+            {
+                "start": 69,
+                "end": 84,
+                "probability": 0.1742,
+                "type": "Place",
+                "normalized_text": "Gloversville, NY"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

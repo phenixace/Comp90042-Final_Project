@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-01 12:47:28+00:00",
+    "id": 517294728631816192,
+    "text": "@Jarjarbug @Snitfit Only after Ouseless reads the polls again will he come out and speak on the subject!A coward puppet he is!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 38,
+                "probability": 0.7718,
+                "type": "Person",
+                "normalized_text": "Ouseless"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "Snitfit",
+                "id": "794401550"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 43182702
+}

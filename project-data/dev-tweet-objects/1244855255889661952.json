@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-03-31 05:13:15+00:00",
+    "id": 1244855255889661952,
+    "text": "Almost as if it were a conspiracy... #BioWeapon  https://t.co/f9S1pJSCjC",
+    "entities": {
+        "urls": [
+            {
+                "start": 49,
+                "end": 72,
+                "url": "https://t.co/f9S1pJSCjC",
+                "expanded_url": "https://news.yahoo.com/suspected-sars-virus-and-flu-found-in-luggage-fbi-report-describes-chinas-biosecurity-risk-144526820.html",
+                "display_url": "news.yahoo.com/suspected-sars\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509907865527537675/vO1Zqe32?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 675
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509907865527537675/vO1Zqe32?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Suspected SARS virus and flu samples found in luggage: FBI report describes China's 'biosecurity risk'",
+                "description": "An FBI report about China\u2019s involvement with scientific research in the U.S. has raised alarms. While the report refers broadly to foreign researchers, all three cases cited involve Chinese nationals.",
+                "unwound_url": "https://news.yahoo.com/suspected-sars-virus-and-flu-found-in-luggage-fbi-report-describes-chinas-biosecurity-risk-144526820.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 47,
+                "tag": "BioWeapon"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

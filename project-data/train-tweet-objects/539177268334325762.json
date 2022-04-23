@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-11-30 22:00:52+00:00",
+    "id": 539177268334325762,
+    "text": "@deray @ABC @jjconceptsinc Folks the \"so what\" here is the ethics of journalism.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "jjconceptsinc",
+                "id": "2503165899"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 29417304
+}

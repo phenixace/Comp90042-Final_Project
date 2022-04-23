@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-27 05:44:33+00:00",
+    "id": 504504722733019138,
+    "text": "@Softykjr \"The Great One's agent, Darren Blake, later denied these rumors of his client's role in helping the PNW corner a new team\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Softykjr",
+                "id": "63653875"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 45,
+                "probability": 0.9963,
+                "type": "Person",
+                "normalized_text": "Darren Blake"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 63653875
+}

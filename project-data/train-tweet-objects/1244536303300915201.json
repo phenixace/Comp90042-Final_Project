@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-30 08:05:51+00:00",
+    "id": 1244536303300915201,
+    "text": "@AJ84_ot7 Okay, okay. Thank you so much fir this Terri",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.8849,
+                "type": "Person",
+                "normalized_text": "Terri"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1170981658184617985
+}

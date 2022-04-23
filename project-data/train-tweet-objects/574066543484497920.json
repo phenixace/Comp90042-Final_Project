@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:38:24+00:00",
+    "id": 574066543484497920,
+    "text": "@ABC Isolation and humiliation is NOT a way to educate children. Shame on the school but kudos to the community for helping to right a wrong",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28785486
+}

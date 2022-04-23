@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-05 09:09:22+00:00",
+    "id": 1268832272695861248,
+    "text": "@PHE_uk Two questions about the blood donor serology surveillance:\n\n1)  Have any of the donors been symptomatic at any point?  i.e. is this an estimate of total prevalence, or of asymptomatic prevalence?\n\n2)  What is the blood group distribution of positive and negative donors? https://t.co/Fyc3yifQlX",
+    "entities": {
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/Fyc3yifQlX",
+                "expanded_url": "https://twitter.com/OutbreakJake/status/1268828803364794368",
+                "display_url": "twitter.com/OutbreakJake/s\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 41822696
+}

@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-03-27 05:17:55+00:00",
+    "id": 1243406876307361792,
+    "text": "Awareness about #COVID19:\n\n8\ufe0f\u20e3. Can spraying alcohol or chlorine all over your body kill the #coronavirus (COVID-19)?\n\n#StaAwareStaySafe\n#Lockdown21  \n#IndiaFightsCOVID19 \n#CoronavirusOutbreak",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 16,
+                "end": 24,
+                "tag": "COVID19"
+            },
+            {
+                "start": 93,
+                "end": 105,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 119,
+                "end": 136,
+                "tag": "StaAwareStaySafe"
+            },
+            {
+                "start": 137,
+                "end": 148,
+                "tag": "Lockdown21"
+            },
+            {
+                "start": 151,
+                "end": 170,
+                "tag": "IndiaFightsCOVID19"
+            },
+            {
+                "start": 172,
+                "end": 192,
+                "tag": "CoronavirusOutbreak"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 198612228
+}

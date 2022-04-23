@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-26 00:21:25+00:00",
+    "id": 537400697592229888,
+    "text": "\u201c@deray: Y'all, I just read that ABC paid Darren Wilson $500K for the interview.\"  shame on you @ABC!!!!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 35,
+                "probability": 0.826,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            },
+            {
+                "start": 42,
+                "end": 54,
+                "probability": 0.9941,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 7,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 96,
+                "end": 100,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29417304
+}

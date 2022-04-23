@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-11-06 07:05:39+00:00",
+    "id": 530254670703239168,
+    "text": "\u201c@BlackPplTweet: Detroit niggas are savages they stole the batmobile. http://t.co/VIE7r6RFjS\u201d don't know how I survived @forevfest \ud83d\ude31",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "probability": 0.9393,
+                "type": "Place",
+                "normalized_text": "Detroit"
+            }
+        ],
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/VIE7r6RFjS",
+                "expanded_url": "https://twitter.com/BlackPplTweet/status/510286132568150016/photo/1",
+                "display_url": "pic.twitter.com/VIE7r6RFjS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "BlackPplTweet",
+                "id": "1138569926"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1138569926
+}

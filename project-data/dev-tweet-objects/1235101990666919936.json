@@ -1,0 +1,21 @@
+{
+    "created_at": "2020-03-04 07:17:16+00:00",
+    "id": 1235101990666919936,
+    "text": "Q. What is a CoronaVirus?\nA: Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases. \n#coronavirus #coronavirusindia",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 249,
+                "end": 261,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 262,
+                "end": 279,
+                "tag": "coronavirusindia"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

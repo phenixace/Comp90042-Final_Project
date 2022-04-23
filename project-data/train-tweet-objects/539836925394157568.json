@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-02 17:42:07+00:00",
+    "id": 539836925394157568,
+    "text": "@WesleyLowery You just ruined 3 weeks of programming on @FoxNews",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 56,
+                "end": 64,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14849562
+}

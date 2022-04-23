@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-02 14:50:59+00:00",
+    "id": 1245725421452161024,
+    "text": "@social_rural Be careful &amp; healthy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "social_rural",
+                "id": "1186955065216520192"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1186955065216520192
+}

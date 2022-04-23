@@ -1,0 +1,65 @@
+{
+    "created_at": "2020-03-28 06:06:06+00:00",
+    "id": 1243781391499669504,
+    "text": "Our BOING is live on Google Home &amp; Alexa with details on #COVID19. Now, by just saying \"Hey Google, launch Bajaj Allianz BOING\" or \"Ask BOING\", you can acquire information about Covid-19.\n#CareAtHome #CaringlyYours https://t.co/bAmAxfWy32",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 31,
+                "probability": 0.8503,
+                "type": "Product",
+                "normalized_text": "Google Home"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "probability": 0.2894,
+                "type": "Product",
+                "normalized_text": "Alexa"
+            },
+            {
+                "start": 92,
+                "end": 97,
+                "probability": 0.4972,
+                "type": "Organization",
+                "normalized_text": "Google"
+            },
+            {
+                "start": 107,
+                "end": 125,
+                "probability": 0.4845,
+                "type": "Product",
+                "normalized_text": "Bajaj Allianz BOING"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 69,
+                "tag": "COVID19"
+            },
+            {
+                "start": 192,
+                "end": 203,
+                "tag": "CareAtHome"
+            },
+            {
+                "start": 204,
+                "end": 218,
+                "tag": "CaringlyYours"
+            }
+        ],
+        "urls": [
+            {
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/bAmAxfWy32",
+                "expanded_url": "https://twitter.com/BajajAllianz/status/1243781391499669504/photo/1",
+                "display_url": "pic.twitter.com/bAmAxfWy32"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

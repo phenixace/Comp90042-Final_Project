@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-11-09 20:35:37+00:00",
+    "id": 663817239896821760,
+    "text": "For everyone who thinks Starbucks red cups are ruining Christmas https://t.co/NFqWZXpV5n https://t.co/lFBeiLhF17",
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 32,
+                "probability": 0.4891,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            },
+            {
+                "start": 55,
+                "end": 63,
+                "probability": 0.984,
+                "type": "Other",
+                "normalized_text": "Christmas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 65,
+                "end": 88,
+                "url": "https://t.co/NFqWZXpV5n",
+                "expanded_url": "http://bzfd.it/1MHAdRW",
+                "display_url": "bzfd.it/1MHAdRW"
+            },
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/lFBeiLhF17",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/663817239896821760/photo/1",
+                "display_url": "pic.twitter.com/lFBeiLhF17"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

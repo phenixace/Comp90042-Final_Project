@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-09-13 23:23:29+00:00",
+    "id": 510931804556374016,
+    "text": "@FoxNews UK PM Cameron: \"Rescue of #AshyaKing is an act of pure evil\u2026Socialists will do everything in our power to hunt down these parents!\"",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 45,
+                "tag": "AshyaKing"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 10,
+                "probability": 0.8394,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 15,
+                "end": 21,
+                "probability": 0.7863,
+                "type": "Person",
+                "normalized_text": "Cameron"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

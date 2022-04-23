@@ -1,0 +1,47 @@
+{
+    "created_at": "2015-10-03 12:49:07+00:00",
+    "id": 650291490405658624,
+    "text": "@nytvideo Did Pop hear about Nuba Mountains People's problems then why he keep silent http://t.co/1rTzzPO3Jc",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/1rTzzPO3Jc",
+                "expanded_url": "https://twitter.com/kallougi/status/650291490405658624/photo/1",
+                "display_url": "pic.twitter.com/1rTzzPO3Jc"
+            },
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/1rTzzPO3Jc",
+                "expanded_url": "https://twitter.com/kallougi/status/650291490405658624/photo/1",
+                "display_url": "pic.twitter.com/1rTzzPO3Jc"
+            },
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/1rTzzPO3Jc",
+                "expanded_url": "https://twitter.com/kallougi/status/650291490405658624/photo/1",
+                "display_url": "pic.twitter.com/1rTzzPO3Jc"
+            },
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/1rTzzPO3Jc",
+                "expanded_url": "https://twitter.com/kallougi/status/650291490405658624/photo/1",
+                "display_url": "pic.twitter.com/1rTzzPO3Jc"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "nytvideo",
+                "id": "16929520"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16929520
+}

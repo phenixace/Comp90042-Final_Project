@@ -1,0 +1,63 @@
+{
+    "created_at": "2015-12-12 13:24:14+00:00",
+    "id": 675667475485335553,
+    "text": "BCUZ OBAMA IS A MUSLIM -- MEDIA U CAN STOP HIDING HIS DIRTY UNDERWEAR- DO UR JOB. ELECT SAMM TITTLE @BlissTabitha https://t.co/rvHPtrJCQK",
+    "entities": {
+        "mentions": [
+            {
+                "start": 100,
+                "end": 113,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.9981,
+                "type": "Person",
+                "normalized_text": "OBAMA"
+            },
+            {
+                "start": 88,
+                "end": 98,
+                "probability": 0.7976,
+                "type": "Person",
+                "normalized_text": "SAMM TITTLE"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/rvHPtrJCQK",
+                "expanded_url": "https://twitter.com/SAMMTittle2016/status/675667475485335553/photo/1",
+                "display_url": "pic.twitter.com/rvHPtrJCQK"
+            },
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/rvHPtrJCQK",
+                "expanded_url": "https://twitter.com/SAMMTittle2016/status/675667475485335553/photo/1",
+                "display_url": "pic.twitter.com/rvHPtrJCQK"
+            },
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/rvHPtrJCQK",
+                "expanded_url": "https://twitter.com/SAMMTittle2016/status/675667475485335553/photo/1",
+                "display_url": "pic.twitter.com/rvHPtrJCQK"
+            },
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/rvHPtrJCQK",
+                "expanded_url": "https://twitter.com/SAMMTittle2016/status/675667475485335553/photo/1",
+                "display_url": "pic.twitter.com/rvHPtrJCQK"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 999453985
+}

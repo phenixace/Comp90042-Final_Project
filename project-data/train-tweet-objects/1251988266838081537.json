@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 21:37:18+00:00",
+    "id": 1251988266838081537,
+    "text": "@_KJKelly @THEshabbs I'm not at all suggesting that Covid-19 is just like the flu. It is clearly worse both in terms of transmission rates (R0) and mortality rates. But these charts are trying to show how it's an order of magnitude worse. Even with seasonal flu vaccine widely administered.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "_KJKelly",
+                "id": "1692588589"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "THEshabbs",
+                "id": "280012239"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 118856965
+}

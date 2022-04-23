@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-08-19 17:10:15+00:00",
+    "id": 501778181633101824,
+    "text": "@YourAnonNews @FergusonUnity @PattyArquette Land of the free I tell you....Well it is if you are the police, investment banks &amp; corporates!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "FergusonUnity",
+                "id": "1376334719281991682"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "PattyArquette",
+                "id": "122533830"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 279390084
+}

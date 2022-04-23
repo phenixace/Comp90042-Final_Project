@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-11 05:55:08+00:00",
+    "id": 1237618035495596032,
+    "text": "Concerned about the new #coronavirus? Stay healthy while travelling!\n\u2757\ufe0fAvoid close contact with people suffering from fever &amp; cough\ud83e\udd12\ud83e\udd27\n\u2757\ufe0fFrequently clean your hands \ud83e\uddfc\ud83e\udd32\n\u2757\ufe0fAvoid touching eyes\ud83d\udc41\ufe0fnose\ud83d\udc43 or mouth\ud83d\udc44 \n\n#COVID19 https://t.co/0z2ef2u8wb",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 24,
+                "end": 36,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 212,
+                "end": 220,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 221,
+                "end": 244,
+                "url": "https://t.co/0z2ef2u8wb",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1237618035495596032/photo/1",
+                "display_url": "pic.twitter.com/0z2ef2u8wb"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1545915336
+}

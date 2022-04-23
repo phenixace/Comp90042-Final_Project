@@ -1,0 +1,90 @@
+{
+    "created_at": "2020-04-01 10:49:49+00:00",
+    "id": 1245302342573887488,
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\n#CoronavirusLockdown #StayAtHomeSaveLives #SocialDistancing #CoronaVirus #Vaccines #Pneumonia #2019nCoV #WednesdayWisdom #WednesdayMotivation #healthcare #healthcareIndia #WeKnowYourValue #1TabShipMed #1Tab https://t.co/N3f7MCnEhL",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 91,
+                "tag": "CoronavirusLockdown"
+            },
+            {
+                "start": 92,
+                "end": 112,
+                "tag": "StayAtHomeSaveLives"
+            },
+            {
+                "start": 113,
+                "end": 130,
+                "tag": "SocialDistancing"
+            },
+            {
+                "start": 131,
+                "end": 143,
+                "tag": "CoronaVirus"
+            },
+            {
+                "start": 144,
+                "end": 153,
+                "tag": "Vaccines"
+            },
+            {
+                "start": 154,
+                "end": 164,
+                "tag": "Pneumonia"
+            },
+            {
+                "start": 165,
+                "end": 174,
+                "tag": "2019nCoV"
+            },
+            {
+                "start": 175,
+                "end": 191,
+                "tag": "WednesdayWisdom"
+            },
+            {
+                "start": 192,
+                "end": 212,
+                "tag": "WednesdayMotivation"
+            },
+            {
+                "start": 213,
+                "end": 224,
+                "tag": "healthcare"
+            },
+            {
+                "start": 225,
+                "end": 241,
+                "tag": "healthcareIndia"
+            },
+            {
+                "start": 242,
+                "end": 258,
+                "tag": "WeKnowYourValue"
+            },
+            {
+                "start": 259,
+                "end": 271,
+                "tag": "1TabShipMed"
+            },
+            {
+                "start": 272,
+                "end": 277,
+                "tag": "1Tab"
+            }
+        ],
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/N3f7MCnEhL",
+                "expanded_url": "https://twitter.com/1TabOfficial/status/1245302342573887488/photo/1",
+                "display_url": "pic.twitter.com/N3f7MCnEhL"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-09 19:08:28+00:00",
+    "id": 520289711307644929,
+    "text": "@mashable so to follow this direction: will Mashable start printing a newspaper now??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 51,
+                "probability": 0.8616,
+                "type": "Organization",
+                "normalized_text": "Mashable"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 972651
+}

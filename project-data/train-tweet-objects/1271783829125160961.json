@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-13 12:37:48+00:00",
+    "id": 1271783829125160961,
+    "text": "In Italy, fatalities have been under 100 every day in June. Still far too many, but down from 900 at the peak.\n\nJust 163 new infections were reported yesterday.\n\nThey first eased their lockdown at the start of May. The progress is encouraging for one of my favourite countries.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 3,
+                "end": 7,
+                "probability": 0.9869,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

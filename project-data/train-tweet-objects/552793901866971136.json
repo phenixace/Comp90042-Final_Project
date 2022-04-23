@@ -1,0 +1,49 @@
+{
+    "created_at": "2015-01-07 11:48:31+00:00",
+    "id": 552793901866971136,
+    "text": "Oh my God !!! RT @AFPphoto  #CharlieHebdo - 11 dead including 2 police in Paris shooting. http://t.co/tzgCctKshB",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 41,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/tzgCctKshB",
+                "expanded_url": "https://twitter.com/AFPphoto/status/552792802309181440/photo/1",
+                "display_url": "pic.twitter.com/tzgCctKshB"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 17,
+                "end": 26,
+                "username": "AFPphoto",
+                "id": "868112707"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 8,
+                "probability": 0.6653,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 74,
+                "end": 78,
+                "probability": 0.9934,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 868112707
+}

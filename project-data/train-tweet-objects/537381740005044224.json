@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-25 23:06:05+00:00",
+    "id": 537381740005044224,
+    "text": "@deray @a_standal That action also shows how corrupt the major news organizations are. Paying for a murderer's version of his crime.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 17,
+                "username": "a_standal",
+                "id": "1287526376"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29417304
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-12-05 12:53:52+00:00",
+    "id": 673123119150796800,
+    "text": "@FiNeSSeHaVeN @kfc @mayasagb I love KFC omf",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "kfc",
+                "id": "15392391"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "username": "mayasagb",
+                "id": "2956558389"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 38,
+                "probability": 0.8231,
+                "type": "Organization",
+                "normalized_text": "KFC"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

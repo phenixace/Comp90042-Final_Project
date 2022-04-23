@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-28 21:56:32+00:00",
+    "id": 538451400225992704,
+    "text": "@THESOURCE Shouldn't of been rioting/looting",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16630362
+}

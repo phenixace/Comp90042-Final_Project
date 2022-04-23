@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 16:30:31+00:00",
+    "id": 638026019820048384,
+    "text": "@TheValleyReport @KevinKleinLIVE she cray",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "KevinKleinLIVE",
+                "id": "2660934139"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3369234799
+}

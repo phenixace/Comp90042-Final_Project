@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-16 03:10:15+00:00",
+    "id": 533819308720132096,
+    "text": "@ZHidayatullah @Independent",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ZHidayatullah",
+                "id": "39111809"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 39111809
+}

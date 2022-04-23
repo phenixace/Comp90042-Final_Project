@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 04:26:27+00:00",
+    "id": 674082587384659968,
+    "text": "@13spencer I see you get your opinions from biased media \ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 292816822
+}

@@ -1,0 +1,53 @@
+{
+    "created_at": "2015-12-08 04:09:36+00:00",
+    "id": 674078348008513536,
+    "text": "@BlissTabitha @HeyTammyBruce Pick one: Bush's fault, NRA, white privilege, cops, hurt feelings, Fox News, intolerance, Christianity, the GOP",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "HeyTammyBruce",
+                "id": "22956220"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 39,
+                "end": 42,
+                "probability": 0.9539,
+                "type": "Person",
+                "normalized_text": "Bush"
+            },
+            {
+                "start": 53,
+                "end": 55,
+                "probability": 0.6605,
+                "type": "Organization",
+                "normalized_text": "NRA"
+            },
+            {
+                "start": 96,
+                "end": 103,
+                "probability": 0.8185,
+                "type": "Organization",
+                "normalized_text": "Fox News"
+            },
+            {
+                "start": 137,
+                "end": 139,
+                "probability": 0.6165,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 999453985
+}

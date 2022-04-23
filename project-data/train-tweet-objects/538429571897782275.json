@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-28 20:29:48+00:00",
+    "id": 538429571897782275,
+    "text": "@gay22650 @YourAnonNews don't be racist bro",
+    "entities": {
+        "mentions": [
+            {
+                "start": 10,
+                "end": 23,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 355168524
+}

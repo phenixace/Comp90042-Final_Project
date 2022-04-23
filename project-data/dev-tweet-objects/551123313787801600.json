@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-01-02 21:10:12+00:00",
+    "id": 551123313787801600,
+    "text": "@FoxNews I watched Elly all my childhood life..Good bye Elly May Clamet..",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 22,
+                "probability": 0.7781,
+                "type": "Person",
+                "normalized_text": "Elly"
+            },
+            {
+                "start": 56,
+                "end": 70,
+                "probability": 0.3027,
+                "type": "Person",
+                "normalized_text": "Elly May Clamet"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

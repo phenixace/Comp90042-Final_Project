@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-05-17 11:36:31+00:00",
+    "id": 1261983934658863104,
+    "text": "@soli_jazz @riccardofrizza Per avere una protezione in pi\u00f9 oltre al lavarsi le mani?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 26,
+                "username": "riccardofrizza",
+                "id": "4720675762"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 487579110
+}

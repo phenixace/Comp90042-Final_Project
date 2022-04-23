@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-22 21:24:23+00:00",
+    "id": 525034956691869696,
+    "text": "@inky_mark @CP24 as part of a co-op criminal investigation one would http://t.co/oEZ9w7goVi doesn't need facts to write stories it appears.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "inky_mark",
+                "id": "2263235551"
+            },
+            {
+                "start": 11,
+                "end": 16,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ],
+        "urls": [
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/oEZ9w7goVi",
+                "expanded_url": "http://assume.Media",
+                "display_url": "assume.Media"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 2263235551
+}

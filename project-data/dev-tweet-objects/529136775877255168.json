@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 05:03:32+00:00",
+    "id": 529136775877255168,
+    "text": "@fluffyguy my hubby would be devastated if you had died. He LOVES your comedy.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 28245852
+}

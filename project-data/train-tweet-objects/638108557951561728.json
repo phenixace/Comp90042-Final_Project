@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 21:58:30+00:00",
+    "id": 638108557951561728,
+    "text": "@TheValleyReport @julie___xo future you",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "julie___xo",
+                "id": "1462723820"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3369234799
+}

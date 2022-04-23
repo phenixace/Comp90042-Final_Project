@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-29 19:39:27+00:00",
+    "id": 538779291257827329,
+    "text": "@THESOURCE You guys are known for making people sad &amp; angry!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16630362
+}

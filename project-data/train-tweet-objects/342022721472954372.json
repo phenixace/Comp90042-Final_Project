@@ -1,0 +1,35 @@
+{
+    "created_at": "2013-06-04 20:59:05+00:00",
+    "id": 342022721472954372,
+    "text": "Holy crap... \u201c@WildestFacts: A photo of black nurses saving the life of a KKK member. http://t.co/zXbqovMUvE\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 27,
+                "username": "WildestFacts",
+                "id": "287168172"
+            }
+        ],
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/zXbqovMUvE",
+                "expanded_url": "https://twitter.com/WildestFacts/status/326137285450018817/photo/1",
+                "display_url": "pic.twitter.com/zXbqovMUvE"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 76,
+                "probability": 0.8189,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 287168172
+}

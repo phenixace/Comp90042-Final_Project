@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-16 04:00:24+00:00",
+    "id": 666103499034374144,
+    "text": "@DRUDGE_REPORT Refuse to let them into your State.  All governors should do the same.  Keep America safe.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 92,
+                "end": 98,
+                "probability": 0.994,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14669951
+}

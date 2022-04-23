@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-17 14:50:55+00:00",
+    "id": 534358022605127681,
+    "text": "@meemainseen @Independent this is  distressing",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "meemainseen",
+                "id": "1667331984"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1667331984
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-18 22:01:15+00:00",
+    "id": 523594684091084800,
+    "text": "@PatrickWeekes @pourmecoffee it's the old God baby taking after his momma",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 44,
+                "probability": 0.8568,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "PatrickWeekes",
+                "id": "369586333"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 369586333
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-12-02 01:31:13+00:00",
+    "id": 407321021125894144,
+    "text": "It's his fault!!!  RT @teenagernotes: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 22,
+                "end": 36,
+                "username": "teenagernotes",
+                "id": "148779151"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 83,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "twicca",
+    "in_reply_to_user_id": 148779151
+}

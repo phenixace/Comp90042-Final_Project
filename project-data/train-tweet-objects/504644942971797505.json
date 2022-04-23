@@ -1,0 +1,45 @@
+{
+    "created_at": "2014-08-27 15:01:44+00:00",
+    "id": 504644942971797505,
+    "text": "@SportsBizNews .....what about Cleveland....Lake Erie monsters bringing in 12-14,000.....we could sell out Q with @NHL team....@NHLinCLE",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 39,
+                "probability": 0.7688,
+                "type": "Organization",
+                "normalized_text": "Cleveland"
+            },
+            {
+                "start": 44,
+                "end": 52,
+                "probability": 0.8721,
+                "type": "Organization",
+                "normalized_text": "Lake Erie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 114,
+                "end": 118,
+                "username": "NHL",
+                "id": "50004938"
+            },
+            {
+                "start": 127,
+                "end": 136,
+                "username": "NHLinCLE",
+                "id": "843794412"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29849267
+}

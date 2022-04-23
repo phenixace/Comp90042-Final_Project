@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-11-19 02:00:51+00:00",
+    "id": 534889007189348352,
+    "text": "\u201c@NBCNews: Vampire Bambi? Rare fanged deer confirmed in Afghanistan after 60 years http://t.co/5B0cANE3lC http://t.co/rmpoqoeT9k\u201d#WOW",
+    "entities": {
+        "annotations": [
+            {
+                "start": 11,
+                "end": 23,
+                "probability": 0.511,
+                "type": "Person",
+                "normalized_text": "Vampire Bambi"
+            },
+            {
+                "start": 56,
+                "end": 66,
+                "probability": 0.97,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/5B0cANE3lC",
+                "expanded_url": "http://nbcnews.to/1ocPfcL",
+                "display_url": "nbcnews.to/1ocPfcL"
+            },
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/rmpoqoeT9k",
+                "expanded_url": "https://twitter.com/NBCNews/status/529434230938284032/photo/1",
+                "display_url": "pic.twitter.com/rmpoqoeT9k"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 129,
+                "end": 133,
+                "tag": "WOW"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14173315
+}

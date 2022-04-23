@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-22 18:15:10+00:00",
+    "id": 1241790537784422401,
+    "text": "an infected person coughs, sneezes, or speaks. To protect yourself, clean your hands frequently and thoroughly. \n\nWHO continues to monitor the latest research on this and other COVID-19 topics and will update as new findings are available. 2/2\n\nhttps://t.co/73YghPDQzV",
+    "entities": {
+        "urls": [
+            {
+                "start": 245,
+                "end": 268,
+                "url": "https://t.co/73YghPDQzV",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2843244018
+}

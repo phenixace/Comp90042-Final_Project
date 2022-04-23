@@ -1,0 +1,46 @@
+{
+    "created_at": "2015-09-12 10:08:19+00:00",
+    "id": 642640875886129153,
+    "text": "@Lrihendry @CathyTo47590555 If its happening in the  USA you can bet CAMMY will allow it in UK",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 55,
+                "probability": 0.9726,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 69,
+                "end": 73,
+                "probability": 0.5512,
+                "type": "Person",
+                "normalized_text": "CAMMY"
+            },
+            {
+                "start": 92,
+                "end": 93,
+                "probability": 0.9787,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            },
+            {
+                "start": 11,
+                "end": 27,
+                "username": "CathyTo47590555",
+                "id": "2980186012"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 129235890
+}

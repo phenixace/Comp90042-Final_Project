@@ -1,0 +1,62 @@
+{
+    "created_at": "2020-02-21 01:42:47+00:00",
+    "id": 1230669160520306688,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @WHOEMRO @WHOAFRO @pahowho We though that you would says that it would take around 18 months to create the vaccine until people in the Huston lab created a possible vaccine. Look like we got lucky!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 171,
+                "end": 180,
+                "probability": 0.2425,
+                "type": "Other",
+                "normalized_text": "Huston lab"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "pahowho",
+                "id": "20629893"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

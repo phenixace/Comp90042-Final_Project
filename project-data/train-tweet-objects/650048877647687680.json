@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 20:45:04+00:00",
+    "id": 650048877647687680,
+    "text": "@nytimes The big news is that they met in a gay bar.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 807095
+}

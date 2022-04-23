@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-18 21:48:27+00:00",
+    "id": 523591462722617345,
+    "text": "@PatrickWeekes DDDDDDDDDDDDDDDDDDDDDDDDDDDDD:",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "PatrickWeekes",
+                "id": "369586333"
+            }
+        ]
+    },
+    "source": "Tweetbot for Mac",
+    "in_reply_to_user_id": 369586333
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-10 02:20:50+00:00",
+    "id": 542504179638337536,
+    "text": "@CronkiteSays @beny_benson ah the old murder parents, mercy because I'm an orphan routine.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CronkiteSays",
+                "id": "2546562188"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "beny_benson",
+                "id": "202729390"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2546562188
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 05:33:07+00:00",
+    "id": 531680933854707712,
+    "text": "@Boogie2988 Honestly, how did that taste?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-18 06:33:33+00:00",
+    "id": 1273504102346100736,
+    "text": "@jidesanwoolu 3. Anyone taking care of a person at home who is sick with COVID-19",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "jidesanwoolu",
+                "id": "198084264"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 188454385
+}

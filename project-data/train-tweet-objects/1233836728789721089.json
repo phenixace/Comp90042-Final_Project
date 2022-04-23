@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-02-29 19:29:34+00:00",
+    "id": 1233836728789721089,
+    "text": "Till date, there is no known case of COVID-19 in Nigeria associated with imported goods.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 55,
+                "probability": 0.9828,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 433426660
+}

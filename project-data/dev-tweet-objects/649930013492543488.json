@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 12:52:44+00:00",
+    "id": 649930013492543488,
+    "text": "@CNN all of a sudden the memorable visit left a bad taste in my mouth",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

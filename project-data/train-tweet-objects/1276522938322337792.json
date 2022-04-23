@@ -1,0 +1,51 @@
+{
+    "created_at": "2020-06-26 14:29:19+00:00",
+    "id": 1276522938322337792,
+    "text": "@jeffayc @CambMA @CambHealth Residents tested at a #CambMA mobile site or CHA's East Cambridge site receive results from @CambHealth. These sites are not designed to help residents make real-time decisions about visits or vacations; they are mainly intended for those w/symptoms or who think they were exposed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "jeffayc",
+                "id": "374553211"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "username": "CambMA",
+                "id": "1251981278"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "CambHealth",
+                "id": "3341544519"
+            },
+            {
+                "start": 121,
+                "end": 132,
+                "username": "CambHealth",
+                "id": "3341544519"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 93,
+                "probability": 0.4471,
+                "type": "Organization",
+                "normalized_text": "CHA's East Cambridge"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 58,
+                "tag": "CambMA"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 374553211
+}

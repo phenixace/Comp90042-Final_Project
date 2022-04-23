@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-09-10 18:13:57+00:00",
+    "id": 642038316192387072,
+    "text": "\u201c@CNNPolitics: .@BernieSanders says @realDonaldTrump is \"using racism as a way to attract votes\" true!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 13850422
+}

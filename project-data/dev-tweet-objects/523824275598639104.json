@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-19 13:13:34+00:00",
+    "id": 523824275598639104,
+    "text": "@Harvard @HuffPostUKPics @naskrecki I'm not scared of spiders but this one might make me run away! :O",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Harvard",
+                "id": "39585367"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "HuffPostUKPics",
+                "id": "1131229805289062400"
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "username": "naskrecki",
+                "id": "1049644164"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 39585367
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-07 09:23:55+00:00",
+    "id": 1247455050395459584,
+    "text": "@ClarkeMicah @Juliajoy They also said: \"\u201cInfluenza and Pneumonia\u201d has been included for comparison, as a well-understood cause of death involving respiratory infection that is likely to have somewhat similar risk factors to COVID-19.\"   Key words - similar risk factors.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 63,
+                "probability": 0.1978,
+                "type": "Other",
+                "normalized_text": "Influenza and Pneumonia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ClarkeMicah",
+                "id": "405605548"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "Juliajoy",
+                "id": "25081497"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 405605548
+}

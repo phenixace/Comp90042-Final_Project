@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-04 22:51:17+00:00",
+    "id": 672911078356066304,
+    "text": "@ABC That's Bullshit, wrapped in Taqyyia and served with \"CAIR\" \ud83d\ude20",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 39,
+                "probability": 0.4763,
+                "type": "Place",
+                "normalized_text": "Taqyyia"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28785486
+}

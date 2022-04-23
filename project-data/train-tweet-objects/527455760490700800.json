@@ -1,0 +1,53 @@
+{
+    "created_at": "2014-10-29 13:43:47+00:00",
+    "id": 527455760490700800,
+    "text": "\u201c@Independent:cartoon is perfect tribute to#NathanCirillo #OttawaShooting \nhttp://t.co/hrUptLBqGY http://t.co/2Y4xe5INWI\u201d @lg4lg #Ontario RT",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "Independent",
+                "id": "16973333"
+            },
+            {
+                "start": 122,
+                "end": 128,
+                "username": "LG4LG",
+                "id": "905374200"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 73,
+                "tag": "OttawaShooting"
+            },
+            {
+                "start": 129,
+                "end": 137,
+                "tag": "Ontario"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/hrUptLBqGY",
+                "expanded_url": "http://ind.pn/1D1hbSq",
+                "display_url": "ind.pn/1D1hbSq",
+                "status": 200,
+                "unwound_url": "https://www.independent.co.uk/news/world/americas/ottawa-shootings-bruce-mackinnon-s-cartoon-is-the-perfect-tribute-to-soldier-nathan-cirillo-shot-dead-at-war-memorial-9813993.html"
+            },
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/2Y4xe5INWI",
+                "expanded_url": "https://twitter.com/Independent/status/525291306000846848/photo/1",
+                "display_url": "pic.twitter.com/2Y4xe5INWI"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16973333
+}

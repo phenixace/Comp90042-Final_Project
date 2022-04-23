@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-10-08 15:09:09+00:00",
+    "id": 519867098945044480,
+    "text": "Someone spray painted a penis on a $2.4 million Bugatti Veyron: http://t.co/xUiM1ODg7m http://t.co/WZtwXUPsYM",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 61,
+                "probability": 0.9193,
+                "type": "Product",
+                "normalized_text": "Bugatti Veyron"
+            }
+        ],
+        "urls": [
+            {
+                "start": 64,
+                "end": 86,
+                "url": "http://t.co/xUiM1ODg7m",
+                "expanded_url": "http://trib.al/LCfbZqy",
+                "display_url": "trib.al/LCfbZqy"
+            },
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/WZtwXUPsYM",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "display_url": "pic.twitter.com/WZtwXUPsYM"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

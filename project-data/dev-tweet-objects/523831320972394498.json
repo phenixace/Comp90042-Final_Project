@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-19 13:41:33+00:00",
+    "id": 523831320972394498,
+    "text": "@Harvard @PortfolioWoman @naskrecki Never mind the spider-how big is the chap who owns the bath?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Harvard",
+                "id": "39585367"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "PortfolioWoman",
+                "id": "143746715"
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "username": "naskrecki",
+                "id": "1049644164"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 39585367
+}

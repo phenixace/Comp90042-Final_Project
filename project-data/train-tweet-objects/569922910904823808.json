@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-23 18:13:05+00:00",
+    "id": 569922910904823808,
+    "text": "@JamieDornan_org all reports beginning 'according to sources' are generally rubbish idk how they get away with it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 279575920
+}

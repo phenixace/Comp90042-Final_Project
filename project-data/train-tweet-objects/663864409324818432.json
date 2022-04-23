@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-09 23:43:03+00:00",
+    "id": 663864409324818432,
+    "text": "@BuzzFeed I'm glad people are going to stop buying coffee at Starbucks.  It'll make getting my coffee that much faster.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 69,
+                "probability": 0.8043,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

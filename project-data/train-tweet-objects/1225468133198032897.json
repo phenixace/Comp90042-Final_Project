@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-06 17:15:45+00:00",
+    "id": 1225468133198032897,
+    "text": "@PIADesk Previous analysis? How about *current* analysis on *this* disease? Five days is actually a long time for a virus to survive on a surface.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "PIADesk",
+                "id": "525171812"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 525171812
+}

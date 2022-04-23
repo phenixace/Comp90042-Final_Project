@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21 10:13:54+00:00",
+    "id": 612564088158158848,
+    "text": "@tchopStL @blakehounshell how newsworthy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "blakehounshell",
+                "id": "17243582"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9112032
+}

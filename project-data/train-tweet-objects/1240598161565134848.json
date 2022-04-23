@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-19 11:17:05+00:00",
+    "id": 1240598161565134848,
+    "text": "#CoronaInPakistan #RIFAOagainstcorona https://t.co/541BApgiDX",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 17,
+                "tag": "CoronaInPakistan"
+            },
+            {
+                "start": 18,
+                "end": 37,
+                "tag": "RIFAOagainstcorona"
+            }
+        ],
+        "urls": [
+            {
+                "start": 38,
+                "end": 61,
+                "url": "https://t.co/541BApgiDX",
+                "expanded_url": "https://twitter.com/RifaoRmu/status/1240598161565134848/photo/1",
+                "display_url": "pic.twitter.com/541BApgiDX"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 955466356543180800
+}

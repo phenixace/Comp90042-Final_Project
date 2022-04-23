@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-08-26 19:20:02+00:00",
+    "id": 504347557691408384,
+    "text": "@CNN You cite 'a friend of Wilson' - is this the unverified 'Josie' sharing the account your own reporter disproved? https://t.co/u4sKi1306X",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 32,
+                "probability": 0.9559,
+                "type": "Person",
+                "normalized_text": "Wilson"
+            },
+            {
+                "start": 61,
+                "end": 65,
+                "probability": 0.8956,
+                "type": "Person",
+                "normalized_text": "Josie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/u4sKi1306X",
+                "expanded_url": "https://twitter.com/RyanSloaneCNN/statuses/501075341256179714",
+                "display_url": "twitter.com/RyanSloaneCNN/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

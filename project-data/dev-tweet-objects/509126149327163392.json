@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-08 23:48:27+00:00",
+    "id": 509126149327163392,
+    "text": "@jensan1332 @BruhnRose Lock him up, throw away the key.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "BruhnRose",
+                "id": "2194470846"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 342737639
+}

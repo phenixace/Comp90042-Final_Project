@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-02-19 15:56:05+00:00",
+    "id": 436167312006070272,
+    "text": "@CNN Stop eating processed food America",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 38,
+                "probability": 0.9687,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

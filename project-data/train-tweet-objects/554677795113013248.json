@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-12 16:34:26+00:00",
+    "id": 554677795113013248,
+    "text": "@genesiaalves @BDUTT Is this true @NoopurTiwari ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "genesiaalves",
+                "id": "127121446"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "BDUTT",
+                "id": "19929890"
+            },
+            {
+                "start": 34,
+                "end": 47,
+                "username": "NoopurTiwari",
+                "id": "94532626"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 127121446
+}

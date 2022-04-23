@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-11 17:22:35+00:00",
+    "id": 532221866833104896,
+    "text": "@NifMuhammad @mashable Actually gagged.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NifMuhammad",
+                "id": "227452515"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 227452515
+}

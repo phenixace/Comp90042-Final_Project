@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-22 22:50:51+00:00",
+    "id": 613116970938994688,
+    "text": "@AP the GOP doesn't check the source of donations until after its discovered the person or group is racist? IJS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 8,
+                "end": 10,
+                "probability": 0.9338,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 51241574
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-15 11:14:22+00:00",
+    "id": 643744664760115200,
+    "text": "@LibertyUSA1776 @drscott_atlanta Round 'em up and ship the bastards out!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "drscott_atlanta",
+                "id": "61015562"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3300205033
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 02:30:04+00:00",
+    "id": 614621688882417665,
+    "text": "@NickKristof @PANCHOSAAVEDRA .",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "PANCHOSAAVEDRA",
+                "id": "55726439"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 17004618
+}

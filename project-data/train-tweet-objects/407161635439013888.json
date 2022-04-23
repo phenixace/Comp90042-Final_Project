@@ -1,0 +1,18 @@
+{
+    "created_at": "2013-12-01 14:57:53+00:00",
+    "id": 407161635439013888,
+    "text": "Paul walker dies, millions cried.\n\nMillions died of human hunger, no one simply gives a fk.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "probability": 0.9601,
+                "type": "Person",
+                "normalized_text": "Paul walker"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

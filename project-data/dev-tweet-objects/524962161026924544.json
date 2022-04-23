@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 16:35:07+00:00",
+    "id": 524962161026924544,
+    "text": "@CBCAlerts @ArponBasu Is he ok? American news sources say he was killed but I have not seen any Canadian reports indicating his condition.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "ArponBasu",
+                "id": "14207711"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 19038934
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-10-15 17:50:55+00:00",
+    "id": 390172952068915200,
+    "text": "Hha hha hha hha Utsi stawukhona ye J.K??awume tsine...\u201c@UnrevealedFacts: J.K. Rowling is working on an 8th Harry Potter book.\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 55,
+                "end": 71,
+                "username": "unrevealedfacts",
+                "id": "377385959"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 149760844
+}

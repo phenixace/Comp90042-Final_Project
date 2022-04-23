@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-12-15 00:36:49+00:00",
+    "id": 544289941996326912,
+    "text": "Prime Minister Tony Abbott's statement on the #SydneySiege. Updates: http://t.co/EgWHAnjO35 http://t.co/AGhyN5Qkei",
+    "entities": {
+        "urls": [
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/EgWHAnjO35",
+                "expanded_url": "http://bit.ly/13ojWTI",
+                "display_url": "bit.ly/13ojWTI"
+            },
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/AGhyN5Qkei",
+                "expanded_url": "https://twitter.com/australian/status/544289941996326912/photo/1",
+                "display_url": "pic.twitter.com/AGhyN5Qkei"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 58,
+                "tag": "SydneySiege"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 25,
+                "probability": 0.4794,
+                "type": "Person",
+                "normalized_text": "Prime Minister Tony Abbott"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-08-13 22:52:44+00:00",
+    "id": 499690043594665985,
+    "text": "@nealcarter @ksdknews @GrooveSDC Still news, though, guys.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nealcarter",
+                "id": "15249499"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "ksdknews",
+                "id": "42921216"
+            },
+            {
+                "start": 22,
+                "end": 32,
+                "username": "GrooveSDC",
+                "id": "12004852"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 15249499
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-12-08 23:18:19+00:00",
+    "id": 674367431020802049,
+    "text": "@RollingStone have you heard about our new Christmas charity single #500miles Released for download today. https://t.co/zyiCB8gtXD",
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 51,
+                "probability": 0.9857,
+                "type": "Other",
+                "normalized_text": "Christmas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 130,
+                "url": "https://t.co/zyiCB8gtXD",
+                "expanded_url": "http://itun.es/gb/7gTG_",
+                "display_url": "itun.es/gb/7gTG_"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 77,
+                "tag": "500miles"
+            }
+        ]
+    },
+    "source": "Echofon  Android",
+    "in_reply_to_user_id": 14780915
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-02 10:52:52+00:00",
+    "id": 1245665495270985728,
+    "text": "@Codeye67 unbelievable isn't it ,we're getting it 24/7",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Codeye67",
+                "id": "789361285620260864"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 789361285620260864
+}

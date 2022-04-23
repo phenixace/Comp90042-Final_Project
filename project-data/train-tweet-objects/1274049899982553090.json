@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-19 18:42:21+00:00",
+    "id": 1274049899982553090,
+    "text": "@EauxSnap @EarI0fLemongrab @charlescwcooke Data is showing that the best way to avoid infecting the at-risk 60+ population is don\u2019t put COVID patients in nursing homes. The median age infected in the counties listed were all below 35. That\u2019s exactly where you want the immunity to build.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "EauxSnap",
+                "id": "1363785974"
+            },
+            {
+                "start": 27,
+                "end": 42,
+                "username": "charlescwcooke",
+                "id": "233484761"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1363785974
+}

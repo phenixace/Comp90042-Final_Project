@@ -1,0 +1,43 @@
+{
+    "created_at": "2020-06-24 05:56:23+00:00",
+    "id": 1275669075633541121,
+    "text": "@bulawayo200 @couriermail If herd immunity was a good idea, the federal government wouldn\u2019t have implemented lock down measures, closed off international boarders and promoted social distancing. Herd immunity results in death, it also isn\u2019t doing great things in Sweden. \n\nhttps://t.co/dDNuW86MlQ",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "bulawayo200",
+                "id": "1267949942993113088"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "couriermail",
+                "id": "9609372"
+            }
+        ],
+        "urls": [
+            {
+                "start": 273,
+                "end": 296,
+                "url": "https://t.co/dDNuW86MlQ",
+                "expanded_url": "https://amp.news.com.au/lifestyle/health/health-problems/coronavirus-swedens-herd-immunity-approach-backfires-with-low-antibody-rate/news-story/5417a20f4f3298d981968d897965c403",
+                "display_url": "amp.news.com.au/lifestyle/heal\u2026",
+                "status": 200,
+                "unwound_url": "https://www.news.com.au/lifestyle/health/health-problems/coronavirus-swedens-herd-immunity-approach-backfires-with-low-antibody-rate/news-story/5417a20f4f3298d981968d897965c403?amp"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 263,
+                "end": 268,
+                "probability": 0.9945,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1267949942993113088
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-11-10 06:28:18+00:00",
+    "id": 531694820545560578,
+    "text": "NO \u201c@IGN: Pepsi is currently taste-testing Doritos flavored Mountrain Dew. Would you try it? http://t.co/X4p3tK8h4Y http://t.co/TdpVxm1XBU\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 8,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/X4p3tK8h4Y",
+                "expanded_url": "http://trib.al/UP3LYvC",
+                "display_url": "trib.al/UP3LYvC"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/TdpVxm1XBU",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "display_url": "pic.twitter.com/TdpVxm1XBU"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 72,
+                "probability": 0.8314,
+                "type": "Product",
+                "normalized_text": "Doritos flavored Mountrain Dew"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 18927441
+}

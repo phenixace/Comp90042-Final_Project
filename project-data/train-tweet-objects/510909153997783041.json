@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-13 21:53:29+00:00",
+    "id": 510909153997783041,
+    "text": "@IsraelHatzolah @SandraAlabama Bastards you will eat pork...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "SandraAlabama",
+                "id": "1336038645078355968"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 322572436
+}

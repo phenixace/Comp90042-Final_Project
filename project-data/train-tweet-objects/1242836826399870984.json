@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-25 15:32:44+00:00",
+    "id": 1242836826399870984,
+    "text": "What is a coronav\u00edrus?? A miserable pile of gripezinha!! https://t.co/oy0R2k3jXE",
+    "entities": {
+        "urls": [
+            {
+                "start": 57,
+                "end": 80,
+                "url": "https://t.co/oy0R2k3jXE",
+                "expanded_url": "https://twitter.com/Momentanius/status/1242785716800835585",
+                "display_url": "twitter.com/Momentanius/st\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

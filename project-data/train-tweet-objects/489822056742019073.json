@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-07-17 17:20:53+00:00",
+    "id": 489822056742019073,
+    "text": "@CBSNews Another feather in @BarackObama foreign policy cap. Where is @HillaryClinton and the RESET BUTTON when you need it most?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBSNews",
+                "id": "15012486"
+            },
+            {
+                "start": 28,
+                "end": 40,
+                "username": "BarackObama",
+                "id": "813286"
+            },
+            {
+                "start": 70,
+                "end": 85,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15012486
+}

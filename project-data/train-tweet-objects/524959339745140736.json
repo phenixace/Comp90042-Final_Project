@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 16:23:54+00:00",
+    "id": 524959339745140736,
+    "text": "@45_nabeel hahaha, you said far more than you think",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "45_nabeel",
+                "id": "1477533381592244224"
+            }
+        ]
+    },
+    "source": "Hootsuite",
+    "in_reply_to_user_id": 2863535713
+}

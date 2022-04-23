@@ -1,0 +1,43 @@
+{
+    "created_at": "2014-10-22 18:06:35+00:00",
+    "id": 524985179333730305,
+    "text": "FYI #ottcity! @CBCAlerts: #RCMP news conference on #Ottawa shootings expected to begin momentarily. Watch live @ http://t.co/chEpjRW069\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 24,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/chEpjRW069",
+                "expanded_url": "http://cbc.ca/1.2808710",
+                "display_url": "cbc.ca/1.2808710"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 12,
+                "tag": "ottcity"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag": "RCMP"
+            },
+            {
+                "start": 51,
+                "end": 58,
+                "tag": "Ottawa"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19038934
+}

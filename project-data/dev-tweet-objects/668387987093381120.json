@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-22 11:18:08+00:00",
+    "id": 668387987093381120,
+    "text": "@Surfermom77 @DrMartyFox meanwhile Groper Biden says it will take 2yrs before they get here.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 46,
+                "probability": 0.7441,
+                "type": "Person",
+                "normalized_text": "Groper Biden"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 24,
+                "username": "DrMartyFox",
+                "id": "26900055"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1564676498
+}

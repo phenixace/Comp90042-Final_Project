@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 08:50:42+00:00",
+    "id": 674149086698717184,
+    "text": "@13spencer then call me a nazi I guess...even though I'm Jewish.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 292816822
+}

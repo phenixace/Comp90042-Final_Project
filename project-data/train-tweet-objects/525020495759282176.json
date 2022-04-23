@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-10-22 20:26:55+00:00",
+    "id": 525020495759282176,
+    "text": "@DriesBrent @tdgecas @Henderburn You have a phone! Did you call for help? Nope. I took pics to sell and tweeted that I'm on CNN and ABC.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 124,
+                "end": 126,
+                "probability": 0.9848,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 132,
+                "end": 134,
+                "probability": 0.6137,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DriesBrent",
+                "id": "894946220"
+            },
+            {
+                "start": 21,
+                "end": 32,
+                "username": "Henderburn",
+                "id": "44685373"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 894946220
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-20 05:20:31+00:00",
+    "id": 1252104839531843584,
+    "text": "@DrZweliMkhize Dr, according to you, the inevitable outcome for us all is testing positive for COVID-19, this means even if I test negative today I can still get it tomorrow, so how do we trust your fellow colleagues who will apparently be testing us?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 844486678324658176
+}

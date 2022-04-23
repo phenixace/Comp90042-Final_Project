@@ -1,0 +1,48 @@
+{
+    "created_at": "2015-09-10 17:30:43+00:00",
+    "id": 642027433693171712,
+    "text": ".@BernieSanders says @realDonaldTrump is \"using racism as a way to attract votes\" #BernieOnCNN http://t.co/kccDGBHe4q http://t.co/CfkusjZiiB",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 21,
+                "end": 37,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 82,
+                "end": 94,
+                "tag": "BernieOnCNN"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/kccDGBHe4q",
+                "expanded_url": "http://cnn.it/1EYLS1w",
+                "display_url": "cnn.it/1EYLS1w",
+                "status": 403,
+                "unwound_url": "http://cnn.it/1EYLS1w"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/CfkusjZiiB",
+                "expanded_url": "http://cnn.it/1Q4ccrD",
+                "display_url": "cnn.it/1Q4ccrD"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

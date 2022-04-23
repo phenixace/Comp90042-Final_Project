@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:29:35+00:00",
+    "id": 574064326090170369,
+    "text": "@ABC  I hope ALL school districts that have had a similar policy will amend it as well. How awful for that boy. Thank you to the community!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 03:45:57+00:00",
+    "id": 1244108508678643713,
+    "text": "@priyapyadav18 New ways to steal and swindle public money.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-08-30 22:23:52+00:00",
+    "id": 638114941392846850,
+    "text": "\u201cRT @TheValleyReport: Woman stabs boyfriend for not liking Instagram selfie fast\u00a0enough https://t.co/UUgAJvuqZ9\u201c\n\nStraight SAVAGE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 20,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/UUgAJvuqZ9",
+                "expanded_url": "https://daveweasel.wordpress.com/2015/08/30/woman-stabs-boyfriend-for-not-liking-instagram-selfie-fast-enough",
+                "display_url": "daveweasel.wordpress.com/2015/08/30/wom\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 67,
+                "probability": 0.8575,
+                "type": "Product",
+                "normalized_text": "Instagram"
+            }
+        ]
+    },
+    "source": "Tweetbot for i\u039fS",
+    "in_reply_to_user_id": 3369234799
+}

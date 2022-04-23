@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-30 20:58:31+00:00",
+    "id": 517055917335277569,
+    "text": "@Jarjarbug ||| KEEPING THIS FAM IN PRAYER &amp; w/CONDOLENCES.\nTELL #OBAMA ITS NOT A CIVIL MATTER. ITS TERRORISM.-me \n#freedomfever",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 74,
+                "tag": "OBAMA"
+            },
+            {
+                "start": 118,
+                "end": 131,
+                "tag": "freedomfever"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 43182702
+}

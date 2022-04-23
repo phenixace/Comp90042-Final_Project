@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-08-19 18:34:32+00:00",
+    "id": 369527818926821377,
+    "text": "@MikkoAlanne @GreatDismal And what's the problem with nuclear?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MikkoAlanne",
+                "id": "437874669"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "GreatDismal",
+                "id": "28049003"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 437874669
+}

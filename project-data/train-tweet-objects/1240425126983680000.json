@@ -1,0 +1,48 @@
+{
+    "created_at": "2020-03-18 23:49:30+00:00",
+    "id": 1240425126983680000,
+    "text": "27) #NewCrownVirus \ud83d\udc51 IT'S ECONOMIC WAR \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\n\nAs the US economy is likely to enter a recession as a result of the virus, adding uncertainties to the presidential election, the White House desperately needs a scapegoat. China seems to fit the bill.\nhttps://t.co/9hvh6AIPLe",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 56,
+                "probability": 0.8421,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 178,
+                "end": 188,
+                "probability": 0.8685,
+                "type": "Place",
+                "normalized_text": "White House"
+            },
+            {
+                "start": 221,
+                "end": 225,
+                "probability": 0.9805,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 246,
+                "end": 269,
+                "url": "https://t.co/9hvh6AIPLe",
+                "expanded_url": "https://twitter.com/XHNews/status/1240309053575671808",
+                "display_url": "twitter.com/XHNews/status/\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

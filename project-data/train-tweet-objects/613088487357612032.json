@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-06-22 20:57:40+00:00",
+    "id": 613088487357612032,
+    "text": "@bestlemming @CNNPolitics @cnnbrk @RepMiaLove   I think it is a diversion tactic, meant to muddle up the waters. I am not fooled.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BestLemming",
+                "id": "883335212427612160"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 104520301
+}

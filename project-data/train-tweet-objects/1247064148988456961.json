@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-04-06 07:30:37+00:00",
+    "id": 1247064148988456961,
+    "text": "@Christi72002967 @Passion_Comp3 @RepGalonski @realDonaldTrump There was no data in the article on the percent of severe patients given this drug that survived, or experienced side effects.   #COVIDIOT",
+    "entities": {
+        "mentions": [
+            {
+                "start": 32,
+                "end": 44,
+                "username": "RepGalonski",
+                "id": "875722748206751744"
+            },
+            {
+                "start": 45,
+                "end": 61,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 191,
+                "end": 200,
+                "tag": "COVIDIOT"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1227094617566281728
+}

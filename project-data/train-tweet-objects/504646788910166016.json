@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-27 15:09:05+00:00",
+    "id": 504646788910166016,
+    "text": "@SportsBizNews @TonyMarinaro I don't know why they'd send another team to Toronto. The broke the first one. Awful organization.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "TonyMarinaro",
+                "id": "145500496"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 80,
+                "probability": 0.9631,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29849267
+}

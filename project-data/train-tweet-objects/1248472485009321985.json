@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-04-10 04:46:50+00:00",
+    "id": 1248472485009321985,
+    "text": "is under MY feet, not anybody elses.\n\nTIME IS MEASURED BY THE NUMBER OF ROTATIONS OF THE MOON.\n\nI am insyallah the one who constraints the Sun and The Moon https://t.co/qBT3z3G2JA",
+    "entities": {
+        "annotations": [
+            {
+                "start": 139,
+                "end": 154,
+                "probability": 0.5029,
+                "type": "Other",
+                "normalized_text": "Sun and The Moon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 156,
+                "end": 179,
+                "url": "https://t.co/qBT3z3G2JA",
+                "expanded_url": "https://twitter.com/NusratHMoore/status/1248472485009321985/photo/1",
+                "display_url": "pic.twitter.com/qBT3z3G2JA"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 335858588
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-01 14:52:13+00:00",
+    "id": 407160209157537792,
+    "text": "@MTVNews That's awful. OMG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 40076725
+}

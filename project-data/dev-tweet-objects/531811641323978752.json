@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 14:12:30+00:00",
+    "id": 531811641323978752,
+    "text": "@meghanmongillo @ABC22FOX45 I would try it. Do you have any for me to sample?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "meghanmongillo",
+                "id": "22049027"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 22049027
+}

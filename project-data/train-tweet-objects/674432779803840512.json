@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-09 03:37:59+00:00",
+    "id": 674432779803840512,
+    "text": "@RollingStone break down the numbers: 2013 - 21,175 by suicide with a firearm / 11,208 deaths by homicide - paints a different picture.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

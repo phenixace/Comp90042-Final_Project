@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-30 22:20:37+00:00",
+    "id": 527948212850921472,
+    "text": "@TheAmitie lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheAmitie",
+                "id": "65756042"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 65756042
+}

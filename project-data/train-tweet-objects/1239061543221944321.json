@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-15 05:31:07+00:00",
+    "id": 1239061543221944321,
+    "text": "Day 10 of social distancing.\n\nFeels like it's been weeks since I've talked to another person. I cringe when I hear my upstairs neighbors. I find myself wishing my cat could speak.\n\nRemember when we used to go to coffee shops and play board games? Pepperidge Farm remembers.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 247,
+                "end": 261,
+                "probability": 0.3119,
+                "type": "Organization",
+                "normalized_text": "Pepperidge Farm"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

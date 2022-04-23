@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-03 00:35:05+00:00",
+    "id": 650106764348792832,
+    "text": "@CNN https://t.co/Q5tM17kho6 buy this album if you love the pope",
+    "entities": {
+        "urls": [
+            {
+                "start": 5,
+                "end": 28,
+                "url": "https://t.co/Q5tM17kho6",
+                "expanded_url": "https://itunes.apple.com/album/id1042454507?ls=1&app=itunes",
+                "display_url": "itunes.apple.com/album/id104245\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

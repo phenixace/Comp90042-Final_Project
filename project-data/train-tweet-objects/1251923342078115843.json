@@ -1,0 +1,36 @@
+{
+    "created_at": "2020-04-19 17:19:19+00:00",
+    "id": 1251923342078115843,
+    "text": "A theater director at Harvard University announced this week that she will produce an all-female and LGBT version of the classic musical, 1776. The production is scheduled to debut on Broadway in the spring of 2021. https://t.co/bm5iEiPX6s",
+    "entities": {
+        "urls": [
+            {
+                "start": 216,
+                "end": 239,
+                "url": "https://t.co/bm5iEiPX6s",
+                "expanded_url": "https://trib.al/5tLGtsm",
+                "display_url": "trib.al/5tLGtsm",
+                "status": 200,
+                "unwound_url": "https://www.breitbart.com/tech/2020/04/18/harvard-director-to-lead-female-and-lgbt-version-of-1776-musical/"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 39,
+                "probability": 0.9401,
+                "type": "Organization",
+                "normalized_text": "Harvard University"
+            },
+            {
+                "start": 184,
+                "end": 191,
+                "probability": 0.5916,
+                "type": "Place",
+                "normalized_text": "Broadway"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

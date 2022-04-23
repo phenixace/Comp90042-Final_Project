@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-29 06:45:34+00:00",
+    "id": 1244153709065428992,
+    "text": "Here are a few stories we did this week that may help answer your questions.\n\nExplained: What are the symptoms of COVID-19? When can I get tested in India? https://t.co/nZvcmKBMAi",
+    "entities": {
+        "urls": [
+            {
+                "start": 156,
+                "end": 179,
+                "url": "https://t.co/nZvcmKBMAi",
+                "expanded_url": "https://www.thenewsminute.com/article/explained-what-are-symptoms-covid-19-when-can-i-get-tested-india-121350",
+                "display_url": "thenewsminute.com/article/explai\u2026",
+                "status": 200,
+                "unwound_url": "https://www.thenewsminute.com/article/explained-what-are-symptoms-covid-19-when-can-i-get-tested-india-121350"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 149,
+                "end": 153,
+                "probability": 0.9974,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 23:05:27+00:00",
+    "id": 525060391525576704,
+    "text": "@CBCNews I don't think it's crime tape, I think it's caution tape because they were working on the memorial for Remembrance Day!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 112,
+                "end": 126,
+                "probability": 0.7915,
+                "type": "Other",
+                "normalized_text": "Remembrance Day"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 6433472
+}

@@ -1,0 +1,53 @@
+{
+    "created_at": "2015-02-02 04:01:51+00:00",
+    "id": 562098545801854976,
+    "text": "@Squarespace @TheJeffBridges Check out this funny vine!! #pats #Seahawks https://t.co/q5GxmWYjwN",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 53,
+                "probability": 0.6034,
+                "type": "Product",
+                "normalized_text": "vine"
+            }
+        ],
+        "urls": [
+            {
+                "start": 73,
+                "end": 96,
+                "url": "https://t.co/q5GxmWYjwN",
+                "expanded_url": "https://vine.co/v/OtEFZjOiYut",
+                "display_url": "vine.co/v/OtEFZjOiYut"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 62,
+                "tag": "pats"
+            },
+            {
+                "start": 63,
+                "end": 72,
+                "tag": "Seahawks"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14319981
+}

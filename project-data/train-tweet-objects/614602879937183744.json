@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27 01:15:20+00:00",
+    "id": 614602879937183744,
+    "text": "@NBCNightlyNews that the rainbow colors from God.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 47,
+                "probability": 0.9823,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NBCNightlyNews",
+                "id": "8839632"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 8839632
+}

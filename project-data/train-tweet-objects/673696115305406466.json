@@ -1,0 +1,18 @@
+{
+    "created_at": "2015-12-07 02:50:45+00:00",
+    "id": 673696115305406466,
+    "text": "72 DHS Employees on Terrorist Watch List https://t.co/dLS0p8FihV",
+    "entities": {
+        "urls": [
+            {
+                "start": 41,
+                "end": 64,
+                "url": "https://t.co/dLS0p8FihV",
+                "expanded_url": "http://freebeacon.com/national-security/72-dhs-employees-on-terrorist-watch-list/",
+                "display_url": "freebeacon.com/national-secur\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

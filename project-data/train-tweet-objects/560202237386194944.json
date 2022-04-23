@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-27 22:26:36+00:00",
+    "id": 560202237386194944,
+    "text": "@act4america @BreitbartNews This has to stop....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

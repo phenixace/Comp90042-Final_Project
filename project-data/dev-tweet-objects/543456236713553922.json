@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-12-12 17:23:58+00:00",
+    "id": 543456236713553922,
+    "text": "Jesus loves...dogs \u201c@nytimes: \"One day, we will see our animals again in the eternity of Christ,\" Pope Francis http://t.co/vYo4iNVF5n\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/vYo4iNVF5n",
+                "expanded_url": "http://nyti.ms/1qErSu7",
+                "display_url": "nyti.ms/1qErSu7"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.9041,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            },
+            {
+                "start": 89,
+                "end": 94,
+                "probability": 0.5616,
+                "type": "Person",
+                "normalized_text": "Christ"
+            },
+            {
+                "start": 98,
+                "end": 109,
+                "probability": 0.934,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 28,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 807095
+}

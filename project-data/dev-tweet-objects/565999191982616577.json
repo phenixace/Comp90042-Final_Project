@@ -1,0 +1,36 @@
+{
+    "created_at": "2015-02-12 22:21:37+00:00",
+    "id": 565999191982616577,
+    "text": "Let's let our friends know that a State Senator in South Carolina stated \"Women are a Lesser Cut of meat\" #ChewOnThis http://t.co/28UWohlri2",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 64,
+                "probability": 0.9913,
+                "type": "Place",
+                "normalized_text": "South Carolina"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 117,
+                "tag": "ChewOnThis"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/28UWohlri2",
+                "expanded_url": "http://bit.ly/1DmhGK8",
+                "display_url": "bit.ly/1DmhGK8",
+                "status": 200,
+                "unwound_url": "http://www.fitsnews.com/2015/02/11/sc-senator-women-lesser-cut-meat/#PosVXTrcY72jFYo8.01"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

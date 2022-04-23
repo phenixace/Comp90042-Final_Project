@@ -1,0 +1,50 @@
+{
+    "created_at": "2015-02-01 18:48:12+00:00",
+    "id": 561959217804759042,
+    "text": "@peddoc63 @MaxDevlin @LodiSilverado @AmyMek @Callisto1947 Sharia Law WILL NOT be upheld in US COurtrooms. They will be separated in mosques",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "MaxDevlin",
+                "id": "1361280674435637248"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 36,
+                "end": 43,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 44,
+                "end": 57,
+                "username": "Callisto1947",
+                "id": "208083510"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 91,
+                "end": 92,
+                "probability": 0.8381,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 1379288282
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-08-27 16:13:43+00:00",
+    "id": 504663054924402688,
+    "text": "@SportsBizNews @SarahSpain what? No Atlanta? I'm shocked! Shocked! Atlanta, where hockey goes to die.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "SarahSpain",
+                "id": "18494981"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.6554,
+                "type": "Place",
+                "normalized_text": "Atlanta"
+            },
+            {
+                "start": 67,
+                "end": 73,
+                "probability": 0.884,
+                "type": "Place",
+                "normalized_text": "Atlanta"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 29849267
+}

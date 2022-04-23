@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 21:31:26+00:00",
+    "id": 650060546784432128,
+    "text": "@nytimes what do you want a cookie? Who cares who was first? Did Pope give the gay couple his blessing? and tell em to keep up the fight!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 68,
+                "probability": 0.9525,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 807095
+}

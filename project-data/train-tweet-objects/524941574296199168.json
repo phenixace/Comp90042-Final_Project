@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 15:13:18+00:00",
+    "id": 524941574296199168,
+    "text": "@nationalpost @MsMelanie That photo deserves the front page!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "nationalpost",
+                "id": "14216661"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "msmelanie",
+                "id": "1384710761889554432"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14216661
+}

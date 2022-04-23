@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-14 01:17:03+00:00",
+    "id": 510960386338603008,
+    "text": "@JordanSekulow @FoxNews And he still hasn't gone to play golf? Why can't we have a leader like that?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "JordanSekulow",
+                "id": "20686232"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 20686232
+}

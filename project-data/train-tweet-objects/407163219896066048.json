@@ -1,0 +1,24 @@
+{
+    "created_at": "2013-12-01 15:04:11+00:00",
+    "id": 407163219896066048,
+    "text": "@MTVNews He didn't die from drugs.\n   He didn't die from drinking.  He died on his way to a charity event.   He died as hero. #PaulWalker",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 126,
+                "end": 137,
+                "tag": "PaulWalker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 40076725
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-07-06 05:44:35+00:00",
+    "id": 617932132854296576,
+    "text": "@nickkristof have you heard of new genre called #clifi see http://t.co/tntilwQ4Pl RSVP i am USA",
+    "entities": {
+        "annotations": [
+            {
+                "start": 92,
+                "end": 94,
+                "probability": 0.7522,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 54,
+                "tag": "clifi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ],
+        "urls": [
+            {
+                "start": 59,
+                "end": 81,
+                "url": "http://t.co/tntilwQ4Pl",
+                "expanded_url": "http://cli-fi.net",
+                "display_url": "cli-fi.net"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 17004618
+}

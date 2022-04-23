@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-12 23:35:01+00:00",
+    "id": 1238247155137228800,
+    "text": "@White16rhino @Mkhusa_Junior Perhaps educate yourself. https://t.co/Y3pFh8ep6e\n\nWash your hands.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "White16rhino",
+                "id": "1021885826534461441"
+            }
+        ],
+        "urls": [
+            {
+                "start": 55,
+                "end": 78,
+                "url": "https://t.co/Y3pFh8ep6e",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1021885826534461441
+}

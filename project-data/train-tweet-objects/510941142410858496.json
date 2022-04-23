@@ -1,0 +1,53 @@
+{
+    "created_at": "2014-09-14 00:00:35+00:00",
+    "id": 510941142410858496,
+    "text": "@FoxNews #ISIS #IslamicState #ISIL #Cavemen #Savages http://t.co/ygwJNptHd9",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag": "ISIS"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "tag": "IslamicState"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag": "ISIL"
+            },
+            {
+                "start": 35,
+                "end": 43,
+                "tag": "Cavemen"
+            },
+            {
+                "start": 44,
+                "end": 52,
+                "tag": "Savages"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 53,
+                "end": 75,
+                "url": "http://t.co/ygwJNptHd9",
+                "expanded_url": "https://twitter.com/82NDABNINFANTRY/status/510941142410858496/photo/1",
+                "display_url": "pic.twitter.com/ygwJNptHd9"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

@@ -1,0 +1,46 @@
+{
+    "created_at": "2014-11-17 11:05:20+00:00",
+    "id": 534301252633382912,
+    "text": "MT @MilandaRout: OMG @Independent: We're running out of #chocolate warns largest manufacturer\nhttp://t.co/VTi57MP6pW http://t.co/qn9QGCGJBL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 15,
+                "username": "MilandaRout",
+                "id": "177842966"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/VTi57MP6pW",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/qn9QGCGJBL",
+                "expanded_url": "https://twitter.com/Independent/status/534278078105944064/photo/1",
+                "display_url": "pic.twitter.com/qn9QGCGJBL"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 66,
+                "tag": "chocolate"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 177842966
+}

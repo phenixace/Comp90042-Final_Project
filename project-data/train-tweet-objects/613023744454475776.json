@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-06-22 16:40:24+00:00",
+    "id": 613023744454475776,
+    "text": "First black female GOP @RepMiaLove returning donations from alleged white supremacist http://t.co/M3INLqOzLf http://t.co/iBpbbMLuMQ",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/M3INLqOzLf",
+                "expanded_url": "http://cnn.it/1TIbOmt",
+                "display_url": "cnn.it/1TIbOmt"
+            },
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/iBpbbMLuMQ",
+                "expanded_url": "https://twitter.com/CNNPolitics/status/613023744454475776/photo/1",
+                "display_url": "pic.twitter.com/iBpbbMLuMQ"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.8354,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

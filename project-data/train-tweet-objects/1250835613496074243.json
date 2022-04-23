@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-16 17:17:04+00:00",
+    "id": 1250835613496074243,
+    "text": "@dclarke1984 @Niall_Boylan Can you back that up",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "dclarke1984",
+                "id": "2966133154"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "Niall_Boylan",
+                "id": "298225776"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2966133154
+}

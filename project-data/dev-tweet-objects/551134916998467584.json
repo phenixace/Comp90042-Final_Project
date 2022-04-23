@@ -1,0 +1,46 @@
+{
+    "created_at": "2015-01-02 21:56:18+00:00",
+    "id": 551134916998467584,
+    "text": "@johnthomasfore @FoxNews HA good one, just like Clintons reminded me of Debbie Does Dallas",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 55,
+                "probability": 0.9804,
+                "type": "Person",
+                "normalized_text": "Clintons"
+            },
+            {
+                "start": 72,
+                "end": 77,
+                "probability": 0.954,
+                "type": "Person",
+                "normalized_text": "Debbie"
+            },
+            {
+                "start": 84,
+                "end": 89,
+                "probability": 0.446,
+                "type": "Place",
+                "normalized_text": "Dallas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "johnthomasfore",
+                "id": "491523276"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 491523276
+}

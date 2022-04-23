@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-24 09:46:02+00:00",
+    "id": 646983923306729472,
+    "text": "@BorucJan @jan_piper This photo taken May 2012, when German police faced radical Islamists during a demonstration in Solingen, nr D\u00fcsseldorf",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "jan_piper",
+                "id": "734264036590784512"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1165253690
+}

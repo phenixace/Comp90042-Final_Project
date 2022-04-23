@@ -1,0 +1,53 @@
+{
+    "created_at": "2020-03-20 17:38:18+00:00",
+    "id": 1241056484806582272,
+    "text": "@UNICEFJamaica @JamLibService @AndrewHolnessJM scanners required for libraries which are still open to the public @liajaprjm @JamLibService @Nationwideradio @natlibja",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "UNICEFJamaica",
+                "id": "586462114"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "JamLibService",
+                "id": "2853553786"
+            },
+            {
+                "start": 30,
+                "end": 46,
+                "username": "AndrewHolnessJM",
+                "id": "382671909"
+            },
+            {
+                "start": 114,
+                "end": 124,
+                "username": "liajaprjm",
+                "id": "789110002610950144"
+            },
+            {
+                "start": 125,
+                "end": 139,
+                "username": "JamLibService",
+                "id": "2853553786"
+            },
+            {
+                "start": 140,
+                "end": 156,
+                "username": "NationwideRadio",
+                "id": "112514799"
+            },
+            {
+                "start": 157,
+                "end": 166,
+                "username": "natlibja",
+                "id": "583107908"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 586462114
+}

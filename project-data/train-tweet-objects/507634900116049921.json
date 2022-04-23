@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-04 21:02:46+00:00",
+    "id": 507634900116049921,
+    "text": "@billyeichner OMG I googled to make sure she was still around..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "billyeichner",
+                "id": "74669397"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 74669397
+}

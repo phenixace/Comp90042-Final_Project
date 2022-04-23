@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-02-19 16:00:47+00:00",
+    "id": 436168496687636480,
+    "text": "@lstoll713 @CNN never bought those ones!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "LStoll713",
+                "id": "246328403"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 246328403
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-13 06:27:08+00:00",
+    "id": 554887349180833793,
+    "text": "@Telegraph How very sad.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16343974
+}

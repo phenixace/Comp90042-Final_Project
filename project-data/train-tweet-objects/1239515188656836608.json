@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-16 11:33:44+00:00",
+    "id": 1239515188656836608,
+    "text": "As of today,\u00a0169,906\u00a0Covid-19 cases have been confirmed, resulting in\u00a06,644\u00a0fatalities worldwide. After its discovery last December, in Wuhan, China, the virus started to spread around the world, causing panic.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 136,
+                "end": 140,
+                "probability": 0.8316,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 143,
+                "end": 147,
+                "probability": 0.7222,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

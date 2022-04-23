@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-12-12 16:42:53+00:00",
+    "id": 543445898748260355,
+    "text": "@nytimes @SPAPmadrid @EugenioDerbez aleluya!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "SPAPmadrid",
+                "id": "421228498"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "EugenioDerbez",
+                "id": "46527223"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 807095
+}

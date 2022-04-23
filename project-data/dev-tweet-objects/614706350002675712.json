@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-06-27 08:06:29+00:00",
+    "id": 614706350002675712,
+    "text": "@politico #WakeUpAmerica  IN THE DAY SODOM &amp; GOMORRAH WAS PAINTED RED JUST HOW FAR WILL #USA GO TO SHUN THE LAWS OF NATURE &amp; OUR CREATOR TOO",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 24,
+                "tag": "WakeUpAmerica"
+            },
+            {
+                "start": 92,
+                "end": 96,
+                "tag": "USA"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 9300262
+}

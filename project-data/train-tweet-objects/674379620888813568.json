@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-12-09 00:06:45+00:00",
+    "id": 674379620888813568,
+    "text": "@DSzarowski @RollingStone John Lennon is hardly some random famous person. 1.15 million deaths in 35 years by one cause is a lot.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DSzarowski",
+                "id": "1183287198"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 36,
+                "probability": 0.9975,
+                "type": "Person",
+                "normalized_text": "John Lennon"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1183287198
+}

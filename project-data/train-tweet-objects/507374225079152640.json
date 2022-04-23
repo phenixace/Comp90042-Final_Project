@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-09-04 03:46:56+00:00",
+    "id": 507374225079152640,
+    "text": "\u201c@UrbanCraziness: cant believe tupac is still alive http://t.co/K4aoVVM3to\u201d @TheChomason",
+    "entities": {
+        "urls": [
+            {
+                "start": 52,
+                "end": 74,
+                "url": "http://t.co/K4aoVVM3to",
+                "expanded_url": "https://twitter.com/UrbanCraziness/status/506656271517622272/photo/1",
+                "display_url": "pic.twitter.com/K4aoVVM3to"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "urbancraziness",
+                "id": "759954668285988865"
+            },
+            {
+                "start": 76,
+                "end": 88,
+                "username": "TheChomason",
+                "id": "484010635"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 31,
+                "end": 35,
+                "probability": 0.973,
+                "type": "Person",
+                "normalized_text": "tupac"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 2565473791
+}

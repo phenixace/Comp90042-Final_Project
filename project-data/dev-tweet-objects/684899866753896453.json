@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-01-07 00:50:27+00:00",
+    "id": 684899866753896453,
+    "text": "@FoxNews plozano829@gmail.com",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Mobile Web",
+    "in_reply_to_user_id": 1367531
+}

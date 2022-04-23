@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-17 07:45:57+00:00",
+    "id": 666522648202117120,
+    "text": "@USATODAY What do you mean \"remember\"?? Last I checked, you're supposed to be the MEDIA, not the morality of a nation. REPORT the news.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15754281
+}

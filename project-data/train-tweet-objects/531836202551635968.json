@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 15:50:06+00:00",
+    "id": 531836202551635968,
+    "text": "@mashable But why? Pretty sure I could Dew without this!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 972651
+}

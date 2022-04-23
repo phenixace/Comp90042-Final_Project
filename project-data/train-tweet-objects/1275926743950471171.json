@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-24 23:00:15+00:00",
+    "id": 1275926743950471171,
+    "text": "@percyhoward_ @MarshallCohen Yeah you have no idea what you\u2019re talking about",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "percyhoward_",
+                "id": "1626442392"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "MarshallCohen",
+                "id": "49031364"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1626442392
+}

@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-04-10 13:38:09+00:00",
+    "id": 1248606193335119877,
+    "text": "The more conservative news you watch, the more likely you are to be misinformed about basic information when it comes to coronavirus, this poll found...\n\n\"Nearly 3-In-5 Right-Wing News Viewers Still Believe COVID-19 Is Just Like The Flu\"\nhttps://t.co/whANecipVd",
+    "entities": {
+        "urls": [
+            {
+                "start": 238,
+                "end": 261,
+                "url": "https://t.co/whANecipVd",
+                "expanded_url": "https://hillreporter.com/nearly-3-in-5-right-wing-news-viewers-still-believe-covid-19-is-just-like-the-flu-63944",
+                "display_url": "hillreporter.com/nearly-3-in-5-\u2026",
+                "status": 200,
+                "unwound_url": "https://hillreporter.com/nearly-3-in-5-right-wing-news-viewers-still-believe-covid-19-is-just-like-the-flu-63944"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

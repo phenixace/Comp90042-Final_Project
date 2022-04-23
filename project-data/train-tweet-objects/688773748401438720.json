@@ -1,0 +1,41 @@
+{
+    "created_at": "2016-01-17 17:23:53+00:00",
+    "id": 688773748401438720,
+    "text": "@Lil_Eazy_Ana_42 @CU_Slam I don't drink Pepsi cause it sucks. War @CocaCola #cocacola4life #CocaColaCountry",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 76,
+                "end": 90,
+                "tag": "cocacola4life"
+            },
+            {
+                "start": 91,
+                "end": 107,
+                "tag": "CocaColaCountry"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Lil_Eazy_Ana_42",
+                "id": "170886667"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "CU_Slam",
+                "id": "900387962"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "username": "CocaCola",
+                "id": "26787673"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 170886667
+}

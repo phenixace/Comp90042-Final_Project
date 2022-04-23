@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-07-03 09:27:46+00:00",
+    "id": 352357992177471489,
+    "text": "@RealAlexJones Why do you distort? You appear to be an agent for whom? To have your followers followed by gov't. ? Your conclusions,factless",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 109065990
+}

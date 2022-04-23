@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-09-22 16:18:24+00:00",
+    "id": 514086320864759809,
+    "text": "#StopWhitePeople2014 \u201c@ComplexMag: A Florida woman had surgery to give herself a third boob: http://t.co/Vy51EsRMmb http://t.co/9Fh1K5w0Oe\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 43,
+                "probability": 0.8761,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 33,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/Vy51EsRMmb",
+                "expanded_url": "http://trib.al/fpdTvki",
+                "display_url": "trib.al/fpdTvki"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/9Fh1K5w0Oe",
+                "expanded_url": "https://twitter.com/ComplexMag/status/514081464171102208/photo/1",
+                "display_url": "pic.twitter.com/9Fh1K5w0Oe"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 20,
+                "tag": "StopWhitePeople2014"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

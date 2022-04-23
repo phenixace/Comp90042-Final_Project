@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-08 15:58:38+00:00",
+    "id": 531113576464154624,
+    "text": "@BuzzFeed @NeilWit716 looks so gross yet so good at the same time",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "NeilWit716",
+                "id": "22016925"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

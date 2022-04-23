@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 17:43:22+00:00",
+    "id": 534401421584904192,
+    "text": "*Panicked screaming* @Independent",
+    "entities": {
+        "mentions": [
+            {
+                "start": 21,
+                "end": 33,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16973333
+}

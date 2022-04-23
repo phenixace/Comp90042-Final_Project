@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-27 11:05:06+00:00",
+    "id": 504585388480929793,
+    "text": "@Softykjr @SportsBizNews So Toronto will have two teams?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Softykjr",
+                "id": "63653875"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.8225,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 63653875
+}

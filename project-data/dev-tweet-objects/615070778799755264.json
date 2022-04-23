@@ -1,0 +1,36 @@
+{
+    "created_at": "2015-06-28 08:14:35+00:00",
+    "id": 615070778799755264,
+    "text": "@petesouza @nprnews Remember when @POTUS honored military and police officers by bathing White House in red, white and blue? #MeNeither",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "PeteSouza",
+                "id": "1257689418888089600"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "nprnews",
+                "id": "3386439610"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "username": "POTUS",
+                "id": "1349149096909668363"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 125,
+                "end": 135,
+                "tag": "MeNeither"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 18215973
+}

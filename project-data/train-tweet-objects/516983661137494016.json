@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-30 16:11:24+00:00",
+    "id": 516983661137494016,
+    "text": "@DavidJo52951945 poor ole colonel is no doubt rolling in his grave",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1125937411
+}

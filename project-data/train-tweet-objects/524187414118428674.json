@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20 13:16:33+00:00",
+    "id": 524187414118428674,
+    "text": "@piersmorgan  Apocalypse Averted!!! @BanksyOfficiaI",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 36,
+                "end": 51,
+                "username": "BanksyOfficiaI",
+                "id": "2744061947"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 216299334
+}

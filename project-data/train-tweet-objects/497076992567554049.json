@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-06 17:49:24+00:00",
+    "id": 497076992567554049,
+    "text": "@solwalker66 @TMZ Lmao!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "solwalker66",
+                "id": "479807453"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 479807453
+}

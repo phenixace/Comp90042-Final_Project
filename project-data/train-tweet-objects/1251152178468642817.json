@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-17 14:14:59+00:00",
+    "id": 1251152178468642817,
+    "text": "@dclarke1984 @Niall_Boylan Well then why do we need it.. Doesn't the average router in everyone's house carry a frequency of 2.5 and 5ghz.? Say it did increase to 60ghz or even 300ghz, what would be the effects of it on people and animals?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "dclarke1984",
+                "id": "2966133154"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "Niall_Boylan",
+                "id": "298225776"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2966133154
+}

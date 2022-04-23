@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-02-19 17:26:02+00:00",
+    "id": 436189948761210880,
+    "text": ".@wsfa12news Your comments, @JimGaffigan ? #DiseasedHotPockets",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 43,
+                "end": 62,
+                "tag": "DiseasedHotPockets"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "wsfa12news",
+                "id": "21845346"
+            },
+            {
+                "start": 28,
+                "end": 40,
+                "username": "JimGaffigan",
+                "id": "6539592"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 21845346
+}

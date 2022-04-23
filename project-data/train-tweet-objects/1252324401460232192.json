@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-20 19:52:59+00:00",
+    "id": 1252324401460232192,
+    "text": "@DrZweliMkhize Good information hope people will comply...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

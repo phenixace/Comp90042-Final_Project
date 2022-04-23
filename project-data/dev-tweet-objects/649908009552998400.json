@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 11:25:18+00:00",
+    "id": 649908009552998400,
+    "text": "@CNN A church desperate to look cool is a sad thing",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

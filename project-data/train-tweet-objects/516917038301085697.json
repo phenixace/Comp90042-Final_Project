@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-09-30 11:46:40+00:00",
+    "id": 516917038301085697,
+    "text": "@julieNix46 @DavidJo52951945 \nThat's already happening in Australia",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "julieNix46",
+                "id": "385066530"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 66,
+                "probability": 0.9974,
+                "type": "Place",
+                "normalized_text": "Australia"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 385066530
+}

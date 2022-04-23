@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-04 09:50:51+00:00",
+    "id": 496231783764328448,
+    "text": "@StateOfUkraine it's fake. You are officially yellow press, congratulations. http://t.co/oBxLIQR8F9",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "StateOfUkraine",
+                "id": "2371458720"
+            }
+        ],
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/oBxLIQR8F9",
+                "expanded_url": "http://Youtube.com/watch?v=u8XYSv6YIEo",
+                "display_url": "Youtube.com/watch?v=u8XYSv\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 2371458720
+}

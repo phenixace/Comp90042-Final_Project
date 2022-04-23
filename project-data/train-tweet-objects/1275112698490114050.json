@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-22 17:05:32+00:00",
+    "id": 1275112698490114050,
+    "text": "@Troymajian You can tweet @BOENYC to check your status. If you are worried about waiting, you could try voting in person at your poll site if you are willing to go there tomorrow.\n\nI'm sorry there aren't better answers.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Troymajian",
+                "id": "548768519"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "username": "BOENYC",
+                "id": "210927444"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 548768519
+}

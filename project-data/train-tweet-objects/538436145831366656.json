@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-11-28 20:55:55+00:00",
+    "id": 538436145831366656,
+    "text": "@THESOURCE @onekade Fred Sanford \"YOU BIG DUMMY \"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "onekade",
+                "id": "15982292"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 31,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Fred Sanford"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16630362
+}

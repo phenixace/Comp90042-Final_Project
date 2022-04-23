@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-05 04:28:01+00:00",
+    "id": 518618588392218625,
+    "text": "@veritaz what if it had been Michelle's head? He hasn't even said a word about the beheading here in public! Shame in him",
+    "entities": {
+        "annotations": [
+            {
+                "start": 29,
+                "end": 36,
+                "probability": 0.9941,
+                "type": "Person",
+                "normalized_text": "Michelle"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "veritaz",
+                "id": "17494767"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17494767
+}

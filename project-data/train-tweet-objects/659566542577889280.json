@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-10-29 03:04:52+00:00",
+    "id": 659566542577889280,
+    "text": "@FiNeSSeHaVeN @young__scar @Je_tamieXo  i bet prince fried chicken doesnt have this problem \ud83c\udf1a",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "young__scar",
+                "id": "373157681"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

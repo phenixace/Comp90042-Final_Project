@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-05 00:40:34+00:00",
+    "id": 672938577253294081,
+    "text": "@peddoc63 @JaredWyand she looks better with her eye makeup. I already saw her.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "JaredWyand",
+                "id": "328878936"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1379288282
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-01 02:05:21+00:00",
+    "id": 1267276016377982977,
+    "text": "@DarterBaby @JStein_WaPo I mean, that\u2019s not happening. There are lots of great politicians, journalists etc in this country. We definitely need tangible change re: policing &amp; CJR to come out of this.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DarterBaby",
+                "id": "1139257779053637632"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "JStein_WaPo",
+                "id": "334385278"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1139257779053637632
+}

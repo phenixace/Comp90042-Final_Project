@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-28 22:30:22+00:00",
+    "id": 659497464148398080,
+    "text": "@FiNeSSeHaVeN Colonel Sanders' trying making make super chickens?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 28,
+                "probability": 0.9238,
+                "type": "Person",
+                "normalized_text": "Colonel Sanders"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2304239234
+}

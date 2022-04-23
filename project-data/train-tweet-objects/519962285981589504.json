@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08 21:27:24+00:00",
+    "id": 519962285981589504,
+    "text": "@realDonaldTrump cough @GovernorPerry cough =)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "GovernorPerry",
+                "id": "18906561"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 25073877
+}

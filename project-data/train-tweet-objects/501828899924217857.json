@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-08-19 20:31:47+00:00",
+    "id": 501828899924217857,
+    "text": "@kristina_wong #IS video https://t.co/3dmBzJIgvn",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "kristina_wong",
+                "id": "18482836"
+            }
+        ],
+        "urls": [
+            {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/3dmBzJIgvn",
+                "expanded_url": "https://ia902304.us.archive.org/25/items/a100_mta/mta.mp4",
+                "display_url": "ia902304.us.archive.org/25/items/a100_\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 15,
+                "end": 18,
+                "tag": "IS"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 18482836
+}

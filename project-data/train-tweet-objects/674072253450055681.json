@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 03:45:23+00:00",
+    "id": 674072253450055681,
+    "text": "@BlissTabitha @HeyTammyBruce more than all previous presidents combined.  Obviously that is what surrendering to terrorism leads to.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "HeyTammyBruce",
+                "id": "22956220"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 999453985
+}

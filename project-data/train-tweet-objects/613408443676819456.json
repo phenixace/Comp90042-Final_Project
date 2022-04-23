@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-23 18:09:04+00:00",
+    "id": 613408443676819456,
+    "text": "@FAIRx818x @ABC7 he hadn't eaten in days.  I guess he had it his way lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "FAIRx818x",
+                "id": "588627319"
+            },
+            {
+                "start": 11,
+                "end": 16,
+                "username": "ABC7",
+                "id": "16374678"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 588627319
+}

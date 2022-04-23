@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-22 05:50:28+00:00",
+    "id": 1241603130954878976,
+    "text": "@Tgo4Amercia @darinp2 @charliekirk11 1. Its about not overwhelming the health care infrastructure we have and the effects on others when encountering an overwhelmed system and provider shortage. You are already starting to see cancelled appts etc.\n\n2. Everyone dies but even the sick and elderly should have dignity.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Tgo4Amercia",
+                "id": "1240546233682472961"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "darinp2",
+                "id": "56878214"
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "username": "charliekirk11",
+                "id": "292929271"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1240546233682472961
+}

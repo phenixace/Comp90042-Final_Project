@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-14 18:17:03+00:00",
+    "id": 511217075529216001,
+    "text": "@FoxNews it is an oxymoron to use pure and evil in same sentence. May I suggest sheer evil.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

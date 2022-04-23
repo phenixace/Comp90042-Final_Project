@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08 15:16:56+00:00",
+    "id": 519869056996741120,
+    "text": "@edsbs @ComplexMag maybe the owner did that.   Likes cocks.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "edsbs",
+                "id": "7452872"
+            },
+            {
+                "start": 7,
+                "end": 18,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 7452872
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-30 02:38:51+00:00",
+    "id": 516779175173447680,
+    "text": "@DavidJo52951945 Ban chicken next?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1125937411
+}

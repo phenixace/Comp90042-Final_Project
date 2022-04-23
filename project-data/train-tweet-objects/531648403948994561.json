@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-10 03:23:51+00:00",
+    "id": 531648403948994561,
+    "text": "@Boogie2988 What have you done?\nhttps://t.co/FMmNGgCCuh",
+    "entities": {
+        "urls": [
+            {
+                "start": 32,
+                "end": 55,
+                "url": "https://t.co/FMmNGgCCuh",
+                "expanded_url": "https://www.youtube.com/watch?v=CpFdP5yATw0",
+                "display_url": "youtube.com/watch?v=CpFdP5\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

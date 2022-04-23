@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-26 05:29:55+00:00",
+    "id": 537478334624460800,
+    "text": "@supertascha @thebrinos sorta boxed self in too, not the brightest bulb just thinks he is, 'hoist on his own petard' :-)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 23,
+                "username": "thebrinos",
+                "id": "36570365"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 36570365
+}

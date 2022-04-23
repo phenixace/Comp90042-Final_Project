@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-08 17:12:28+00:00",
+    "id": 1270041014812602370,
+    "text": "@tabitha_mueller Tabitha, when do you think we can realistically expect reliable election results?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "tabitha_mueller",
+                "id": "735416119"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "probability": 0.811,
+                "type": "Person",
+                "normalized_text": "Tabitha"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 735416119
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 15:50:18+00:00",
+    "id": 524950885433356289,
+    "text": "@FoxNews See they made Public to target American Military and then thy Hit the Canadian Military! Code Talking Maybe!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

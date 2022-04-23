@@ -1,0 +1,43 @@
+{
+    "created_at": "2020-03-12 00:40:46+00:00",
+    "id": 1237901311439450112,
+    "text": "Infection control for suspected or confirmed COVID-19 cases \n\n\u2733\ufe0f WHO recommendations:\n\nhttps://t.co/ScAizY5HOZ\n\n\u2733\ufe0f CDC recommendations\n\nhttps://t.co/2xnkweKw2q",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 110,
+                "url": "https://t.co/ScAizY5HOZ",
+                "expanded_url": "https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125",
+                "display_url": "who.int/publications-d\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1459172781824753665/YDSLzMgI?format=jpg&name=orig",
+                        "width": 180,
+                        "height": 233
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1459172781824753665/YDSLzMgI?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected",
+                "description": "Interim guidance",
+                "unwound_url": "https://www.who.int/publications/i/item/10665-331495"
+            },
+            {
+                "start": 136,
+                "end": 159,
+                "url": "https://t.co/2xnkweKw2q",
+                "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Finfection-control.html",
+                "display_url": "cdc.gov/coronavirus/20\u2026",
+                "status": 200,
+                "unwound_url": "https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Finfection-control.html"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 285048274
+}

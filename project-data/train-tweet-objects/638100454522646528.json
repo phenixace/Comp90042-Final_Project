@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-08-30 21:26:18+00:00",
+    "id": 638100454522646528,
+    "text": "@RubyRose i really like you I'm so in love with your caracter,you're my idol. Thanks for everything\ni'm from germany,you 're too,aren't you?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "rubyrose",
+                "id": "761981742202884097"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 109,
+                "end": 115,
+                "probability": 0.9315,
+                "type": "Place",
+                "normalized_text": "germany"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 23741531
+}

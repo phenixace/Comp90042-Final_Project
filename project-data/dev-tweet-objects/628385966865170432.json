@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-04 02:04:24+00:00",
+    "id": 628385966865170432,
+    "text": "@michaeltheg I would not react well if I saw that in real life.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "michaeltheg",
+                "id": "34144677"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 34144677
+}

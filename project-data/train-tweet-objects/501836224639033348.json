@@ -1,0 +1,45 @@
+{
+    "created_at": "2014-08-19 21:00:54+00:00",
+    "id": 501836224639033348,
+    "text": "@DavidClinchNews @zaidbenjamin @Brown_Moses The black clad man with the knife, to my ear, has a British South East / London accent.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidClinchNews",
+                "id": "17316885"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "username": "brown_moses",
+                "id": "2899006647"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 96,
+                "end": 113,
+                "probability": 0.3809,
+                "type": "Organization",
+                "normalized_text": "British South East"
+            },
+            {
+                "start": 117,
+                "end": 122,
+                "probability": 0.8123,
+                "type": "Place",
+                "normalized_text": "London"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17316885
+}

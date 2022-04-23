@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-26 20:54:50+00:00",
+    "id": 1254514294881947649,
+    "text": "@jrharrison1 @NolteNC @jkc_jaycee Contaminated. But with what?  A cold?  A flu?  Some new thing that 99.5 percent of humans can and do fight off with white blood cells alone, not even needing otc meds.   Get real.   Let's get back to work and life.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JrHarrison1",
+                "id": "1276874998637047809"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "NolteNC",
+                "id": "16163639"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 399941839
+}

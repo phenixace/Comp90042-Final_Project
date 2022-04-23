@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 14:32:27+00:00",
+    "id": 674235092974346241,
+    "text": "@Telegraph one and the same",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16343974
+}

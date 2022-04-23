@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:32+00:00",
+    "id": 1234884625735897088,
+    "text": "How likely am I to catch COVID-19? https://t.co/3eJK2jHzVs",
+    "entities": {
+        "urls": [
+            {
+                "start": 35,
+                "end": 58,
+                "url": "https://t.co/3eJK2jHzVs",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884625735897088/photo/1",
+                "display_url": "pic.twitter.com/3eJK2jHzVs"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

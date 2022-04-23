@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-09 23:49:45+00:00",
+    "id": 509488863526805507,
+    "text": "@GIBiz Minecraft as we know it will forever be gone be M$ buys it",
+    "entities": {
+        "annotations": [
+            {
+                "start": 7,
+                "end": 15,
+                "probability": 0.4009,
+                "type": "Product",
+                "normalized_text": "Minecraft"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "GIBiz",
+                "id": "46146200"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 46146200
+}

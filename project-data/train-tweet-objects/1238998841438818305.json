@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-15 01:21:57+00:00",
+    "id": 1238998841438818305,
+    "text": "@US_FDA Actually the questions that many would like to know the answer to is who is responsible for the delays in the testing kits? Where does the buck stops?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "US_FDA",
+                "id": "208120290"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 208120290
+}

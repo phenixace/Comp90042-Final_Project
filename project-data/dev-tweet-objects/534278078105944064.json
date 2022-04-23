@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-11-17 09:33:14+00:00",
+    "id": 534278078105944064,
+    "text": "We are running out of chocolate, warns world's largest chocolate manufacturer\nhttp://t.co/8zL3r8VdOh http://t.co/GcVfLTSPTI",
+    "entities": {
+        "urls": [
+            {
+                "start": 78,
+                "end": 100,
+                "url": "http://t.co/8zL3r8VdOh",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/GcVfLTSPTI",
+                "expanded_url": "https://twitter.com/Independent/status/534278078105944064/photo/1",
+                "display_url": "pic.twitter.com/GcVfLTSPTI"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

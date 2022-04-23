@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-04-14 20:31:51+00:00",
+    "id": 1250159859271598081,
+    "text": "What are the symptoms of COVID-19? Is COVID-19 airborne? Here are the answers to your biggest questions about the coronavirus pandemic https://t.co/7m246qoDix",
+    "entities": {
+        "urls": [
+            {
+                "start": 135,
+                "end": 158,
+                "url": "https://t.co/7m246qoDix",
+                "expanded_url": "https://ti.me/2VcqCBX",
+                "display_url": "ti.me/2VcqCBX",
+                "status": 403,
+                "unwound_url": "https://ti.me/2VcqCBX"
+            }
+        ]
+    },
+    "source": "Sprinklr",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-13 12:13:25+00:00",
+    "id": 411468900124327936,
+    "text": "@MUnitedGirl I am a mufu fans we de best 4k bitches",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MUnitedGirl",
+                "id": "275796851"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry\u00ae",
+    "in_reply_to_user_id": 275796851
+}

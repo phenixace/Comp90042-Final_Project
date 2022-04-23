@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-14 16:17:23+00:00",
+    "id": 1250095818746425344,
+    "text": "@meljmcguire @TIME Wish we know.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "meljmcguire",
+                "id": "587935398"
+            },
+            {
+                "start": 13,
+                "end": 18,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 587935398
+}

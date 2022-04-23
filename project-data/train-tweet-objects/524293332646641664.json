@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 20:17:26+00:00",
+    "id": 524293332646641664,
+    "text": "@MythBusters piotr naskrecki,hmm poland",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MythBusters",
+                "id": "52146755"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 52146755
+}

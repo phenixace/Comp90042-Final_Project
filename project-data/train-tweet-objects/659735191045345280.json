@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-10-29 14:15:01+00:00",
+    "id": 659735191045345280,
+    "text": "@AskAuntieEm1 @FiNeSSeHaVeN Your link is irrelevant, but cool avatar.  #JanInaPanIsVegan",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 88,
+                "tag": "JanInaPanIsVegan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AskAuntieEm1",
+                "id": "552310370"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 552310370
+}

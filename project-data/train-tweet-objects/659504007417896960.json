@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-10-28 22:56:23+00:00",
+    "id": 659504007417896960,
+    "text": "@FiNeSSeHaVeN @itsdanidarlingg @kfc thats why i dont fuck with kfc",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "itsdanidarlingg",
+                "id": "339939397"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

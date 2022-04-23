@@ -1,0 +1,70 @@
+{
+    "created_at": "2014-08-19 23:29:10+00:00",
+    "id": 501873536768937984,
+    "text": "@zaidbenjamin \nWho Then is Senator McCain? Read more at http://t.co/6dQKI7c7Gd  New Endrun Project Post by Thierry Meyssan #ISIS #Syria",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 40,
+                "probability": 0.882,
+                "type": "Person",
+                "normalized_text": "Senator McCain"
+            },
+            {
+                "start": 107,
+                "end": 121,
+                "probability": 0.9223,
+                "type": "Person",
+                "normalized_text": "Thierry Meyssan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 56,
+                "end": 78,
+                "url": "http://t.co/6dQKI7c7Gd",
+                "expanded_url": "http://ln.is/bit.ly/gpwfI",
+                "display_url": "ln.is/bit.ly/gpwfI",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509080747952545792/7DuTD3R3?format=jpg&name=orig",
+                        "width": 220,
+                        "height": 293
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509080747952545792/7DuTD3R3?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "John McCain, Conductor of the",
+                "description": "Everyone has noticed the contradiction of those who recently characterized the Islamic Emirate as \"freedom fighters\" in Syria and who are indignant today faced with its abuses in Iraq. But if that speech is incoherent in itself, it makes perfect sense in the strategic plan: the same individuals were to be presented as allies yesterday and must be as enemies today, even if they are still on orders from Washington. Thierry Meyssan reveals below US policy through the particular case of Senator (...)",
+                "unwound_url": "https://www.voltairenet.org/article185085.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 123,
+                "end": 128,
+                "tag": "ISIS"
+            },
+            {
+                "start": 129,
+                "end": 135,
+                "tag": "Syria"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-19 18:54:19+00:00",
+    "id": 501804370179407872,
+    "text": "@_esaliba I don't follow you. I don't care and you're certainly not helping anything. Why am I seeing that \ud83d\ude1e",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "_esaliba",
+                "id": "156743986"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 156743986
+}

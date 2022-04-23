@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-14 11:19:33+00:00",
+    "id": 1250020867385499648,
+    "text": "@DmytroGladkyi @markdalgleish @ridbay Dart algebraic data type syntax also is\u2026Oh wait, no, the langage doesn't even support them.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DmytroGladkyi",
+                "id": "2494196617"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "markdalgleish",
+                "id": "257765996"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "username": "ridbay",
+                "id": "83565055"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15810479
+}

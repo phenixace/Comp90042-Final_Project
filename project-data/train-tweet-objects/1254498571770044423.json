@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-26 19:52:21+00:00",
+    "id": 1254498571770044423,
+    "text": "@TheCuckTamer \"COVID-19 virus can be transmitted in areas with hot and humid climates\nFrom the evidence so far, the COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather.\" https://t.co/kS6imAn3Rt",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheCuckTamer",
+                "id": "1325931190935822336"
+            }
+        ],
+        "urls": [
+            {
+                "start": 209,
+                "end": 232,
+                "url": "https://t.co/kS6imAn3Rt",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1141390742641872896
+}

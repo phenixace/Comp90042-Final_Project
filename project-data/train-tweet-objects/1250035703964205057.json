@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-04-14 12:18:31+00:00",
+    "id": 1250035703964205057,
+    "text": "@EyeRadioJuba Thanks @eyeRadioJuba for clearing this myth. it is more dangerous to claim that areas with hot and humid climates cannot be affected by diseases like #COVID19 as people tend to be less careful about certain rules with regards to #COVID19. Ignorance should NOT be an excuse!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "EyeRadioJuba",
+                "id": "1597763490"
+            },
+            {
+                "start": 21,
+                "end": 34,
+                "username": "EyeRadioJuba",
+                "id": "1597763490"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 164,
+                "end": 172,
+                "tag": "COVID19"
+            },
+            {
+                "start": 243,
+                "end": 251,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1597763490
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-09-08 20:22:43+00:00",
+    "id": 509074372460814336,
+    "text": "@quartkneee @BuzzFeed Don't worry, they will. The idea has been planted.  It will be celebrated across white America.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "quartkneee",
+                "id": "266402123"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 109,
+                "end": 115,
+                "probability": 0.9663,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 266402123
+}

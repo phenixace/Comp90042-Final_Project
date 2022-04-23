@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-11 16:21:15+00:00",
+    "id": 532206428606697473,
+    "text": "@TMZ Heartbreaking...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16331010
+}

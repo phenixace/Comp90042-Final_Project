@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-26 09:12:51+00:00",
+    "id": 1243103610470371328,
+    "text": "Hand dryers are not effective in killing #COVID19 . To protect yourself against the new #coronavirus, you should frequently clean your hands with an alcohol-based hand rub or wash them with soap and water. #OpenParlyZW",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 41,
+                "end": 49,
+                "tag": "COVID19"
+            },
+            {
+                "start": 88,
+                "end": 100,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 206,
+                "end": 218,
+                "tag": "OpenParlyZW"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4156551377
+}

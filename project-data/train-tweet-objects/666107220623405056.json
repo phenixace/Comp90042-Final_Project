@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-11-16 04:15:11+00:00",
+    "id": 666107220623405056,
+    "text": "@DRUDGE_REPORT Really Jindal?  Tell Obama No. You're going to trust this Administration?  God help us!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.9915,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 90,
+                "end": 92,
+                "probability": 0.6641,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14669951
+}

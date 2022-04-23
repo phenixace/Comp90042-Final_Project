@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-03 11:40:23+00:00",
+    "id": 650274191896395776,
+    "text": "@nytvideo then condemn her and her intolerance for God's children. Gay or not isn't it the Christians duty to be kind, even to \"sinners'?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "nytvideo",
+                "id": "16929520"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 51,
+                "end": 53,
+                "probability": 0.9897,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 16929520
+}

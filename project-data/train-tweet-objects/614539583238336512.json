@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-26 21:03:48+00:00",
+    "id": 614539583238336512,
+    "text": "@daddylouist @miniaturelwt wow that's beautiful",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "daddylouist",
+                "id": "3402831455"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 605822673
+}

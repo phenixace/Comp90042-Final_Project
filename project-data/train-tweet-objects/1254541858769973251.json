@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-26 22:44:22+00:00",
+    "id": 1254541858769973251,
+    "text": "@MadSquire @NolteNC @jkc_jaycee Contaminated with what?\nAgain, what is covid-19?\nI'm sure you had to dig deep to think of what to say while trying to be a smart-ass.\n I don't know whether you realize this or not I didn't ask for any comments,I made a statement and nothing of it concerns you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "MadSquire",
+                "id": "104609951"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "NolteNC",
+                "id": "16163639"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 104609951
+}

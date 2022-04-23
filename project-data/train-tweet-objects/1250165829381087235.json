@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 20:55:35+00:00",
+    "id": 1250165829381087235,
+    "text": "@TIME CORONO ATTACK IMMUNITY!\n\nSINCE LONG TIME \nPEOPLE ALL AROUND THE WORLD\nHAS BEEN EATING\n\nGenetically modified organism (GMO)\nAND \nFASTFOOD\nSTOP EAT!\nCANT U UNDERSTAND WHY PEOPLE IMMUNUTY  WEAK!\n\nTO MAKE STRONG\n\nIMMUNITY!\n\nKEEP AWAY FROM GMO AND FASTFOOD",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14293310
+}

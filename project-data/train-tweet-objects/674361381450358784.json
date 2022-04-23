@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 22:54:17+00:00",
+    "id": 674361381450358784,
+    "text": "@KaylaMmingie &lt;--- What she said @RollingStone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KaylaMmingie",
+                "id": "4323779123"
+            },
+            {
+                "start": 36,
+                "end": 49,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 4323779123
+}

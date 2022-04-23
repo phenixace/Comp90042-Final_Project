@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27 03:45:53+00:00",
+    "id": 504474857586036737,
+    "text": "@SportsBizNews  do you have some sort of inside knowledge that this could be possible?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29849267
+}

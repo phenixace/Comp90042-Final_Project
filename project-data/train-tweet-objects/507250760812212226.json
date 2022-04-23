@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-03 19:36:20+00:00",
+    "id": 507250760812212226,
+    "text": "@CNBC a big loss for CA",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CNBC",
+                "id": "20402945"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 22,
+                "probability": 0.5194,
+                "type": "Place",
+                "normalized_text": "CA"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 20402945
+}

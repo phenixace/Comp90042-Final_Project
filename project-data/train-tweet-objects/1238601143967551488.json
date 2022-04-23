@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-13 23:01:39+00:00",
+    "id": 1238601143967551488,
+    "text": "THREAD on #COVID19 spread &amp; testing.\n\nHow does COVID-19 spread?\n\nIt spreads through respiratory droplets from coughs and sneezes. Close contact, which is being closer than 6 feet for more than 10 minutes w/a sick individual, increases your risk of catching it. (1/12) \n\n#COVID19US https://t.co/phLi8f97Dw",
+    "entities": {
+        "urls": [
+            {
+                "start": 285,
+                "end": 308,
+                "url": "https://t.co/phLi8f97Dw",
+                "expanded_url": "https://twitter.com/Maricopahealth/status/1238601143967551488/photo/1",
+                "display_url": "pic.twitter.com/phLi8f97Dw"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 18,
+                "tag": "COVID19"
+            },
+            {
+                "start": 274,
+                "end": 284,
+                "tag": "COVID19US"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

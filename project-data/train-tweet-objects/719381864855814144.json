@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-04-11 04:29:36+00:00",
+    "id": 719381864855814144,
+    "text": "Ahhh ...(sings*)\n\ud83c\udfb5 'Memories ...\nLike the corners of my mind,\nSticky, bloody~colored\nMemories ...'\ud83c\udfb5 \ud83d\ude12\ud83d\udd2a\n@TheValleyReport @ThunderThighGap",
+    "entities": {
+        "mentions": [
+            {
+                "start": 103,
+                "end": 119,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-14 22:01:31+00:00",
+    "id": 1250182423465336833,
+    "text": "@citizentvkenya @ashleeaitken \ud83d\ude44\ud83d\ude21",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "ashleeaitken",
+                "id": "37865539"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 70394965
+}

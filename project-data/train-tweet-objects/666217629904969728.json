@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-16 11:33:55+00:00",
+    "id": 666217629904969728,
+    "text": "@DRUDGE_REPORT @robertew2945 What I don't understand is why he was totally unaware-suspicious or incompetent\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "robertew2945",
+                "id": "3310800271"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14669951
+}

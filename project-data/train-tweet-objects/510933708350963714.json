@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-13 23:31:03+00:00",
+    "id": 510933708350963714,
+    "text": "@FoxNews Call it evil and have another round of meetings and speeches instead of actually doing something about it. Start dropping nukes.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

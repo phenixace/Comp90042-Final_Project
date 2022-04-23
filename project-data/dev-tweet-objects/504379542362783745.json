@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-26 21:27:08+00:00",
+    "id": 504379542362783745,
+    "text": "@WesleyLowery @mtseilback As \"responsible\" journalists, alleged should be added to all the headlines!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "mtseilback",
+                "id": "61020592"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14849562
+}

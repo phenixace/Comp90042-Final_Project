@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14 16:39:49+00:00",
+    "id": 1250101465223331842,
+    "text": "@citizentvkenya And it even depletes your body of Vitamin  C,  which is required  to boost the immunity",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 59,
+                "probability": 0.2989,
+                "type": "Other",
+                "normalized_text": "Vitamin C"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

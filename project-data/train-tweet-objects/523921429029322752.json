@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19 19:39:37+00:00",
+    "id": 523921429029322752,
+    "text": "@pourmecoffee @brundle_fly \"Surprised\" doesn't seem like the right word.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "brundle_fly",
+                "id": "6214082"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 16906137
+}

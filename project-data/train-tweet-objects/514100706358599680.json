@@ -1,0 +1,44 @@
+{
+    "created_at": "2014-09-22 17:15:34+00:00",
+    "id": 514100706358599680,
+    "text": "@BreakingNews @WCVB @7News @NBCNews http://t.co/2cWf1DRYn9 If you see something, say something too!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 14,
+                "end": 19,
+                "username": "WCVB",
+                "id": "21419504"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "username": "7News",
+                "id": "16558796"
+            },
+            {
+                "start": 27,
+                "end": 35,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/2cWf1DRYn9",
+                "expanded_url": "http://Ready.gov",
+                "display_url": "Ready.gov"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 6017542
+}

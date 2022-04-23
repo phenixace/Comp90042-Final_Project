@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-01-09 16:19:36+00:00",
+    "id": 553586897168392192,
+    "text": "#BREAKING : Both Charlie Hebdo suspects killed as police storm building (police sources) http://t.co/OYSXRQ9xuv http://t.co/8ICThapo7z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "BREAKING"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/OYSXRQ9xuv",
+                "expanded_url": "http://f24.my/YTliveEN",
+                "display_url": "f24.my/YTliveEN"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/8ICThapo7z",
+                "expanded_url": "https://twitter.com/France24_en/status/553586897168392192/photo/1",
+                "display_url": "pic.twitter.com/8ICThapo7z"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 29,
+                "probability": 0.9632,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

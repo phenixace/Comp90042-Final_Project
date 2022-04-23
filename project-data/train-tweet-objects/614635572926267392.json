@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-06-27 03:25:14+00:00",
+    "id": 614635572926267392,
+    "text": "@Meg_Lovex @CNNWire @CNN well meg ppl don't like them because of reasons idk and idc about this stupid society crap!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Meg_Lovex",
+                "id": "1426570058"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "cnnwire",
+                "id": "783001052434067457"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1426570058
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-13 23:51:03+00:00",
+    "id": 510938743789060096,
+    "text": "@FoxNews Notice how the Priminister of England didn't run off to play golf or fundraising opportunities when one of their people gets killed",
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 45,
+                "probability": 0.5772,
+                "type": "Organization",
+                "normalized_text": "Priminister of England"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

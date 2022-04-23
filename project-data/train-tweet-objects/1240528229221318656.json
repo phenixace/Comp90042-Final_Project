@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-19 06:39:12+00:00",
+    "id": 1240528229221318656,
+    "text": "@JaweriaNoor0 We will not get evidence, but things which increases immunity are a good diet",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JaweriaNoor0",
+                "id": "853898419361820672"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 853898419361820672
+}

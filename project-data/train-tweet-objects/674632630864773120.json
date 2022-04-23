@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-09 16:52:07+00:00",
+    "id": 674632630864773120,
+    "text": "@13spencer https://t.co/9gf49lh7N3 have you played this game yet?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ],
+        "urls": [
+            {
+                "start": 11,
+                "end": 34,
+                "url": "https://t.co/9gf49lh7N3",
+                "expanded_url": "http://m.sporcle.com/games/zachHu1/donald-trump-or-adolf-hitler",
+                "display_url": "m.sporcle.com/games/zachHu1/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 292816822
+}

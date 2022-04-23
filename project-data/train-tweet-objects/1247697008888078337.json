@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-08 01:25:22+00:00",
+    "id": 1247697008888078337,
+    "text": "@STrimel @WHO Trump has repeatedly claimed he knew the pandemic was going to be serious before anyone...and he has also claimed he was never told...and he has claimed COVID-19 is just like the flu....and that it is not at all like the flu....\nAll he is doing now is deflecting responsibility.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 18,
+                "probability": 0.9991,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "STrimel",
+                "id": "22336731"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 22336731
+}

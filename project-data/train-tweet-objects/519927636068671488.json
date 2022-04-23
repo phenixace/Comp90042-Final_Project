@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-08 19:09:42+00:00",
+    "id": 519927636068671488,
+    "text": "@TMZ   ..if his wife knew long ago and didn't report it -she put additional kids at risk - she put money in front of kids....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16331010
+}

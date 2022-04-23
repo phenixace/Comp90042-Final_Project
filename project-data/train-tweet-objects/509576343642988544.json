@@ -1,0 +1,53 @@
+{
+    "created_at": "2014-09-10 05:37:22+00:00",
+    "id": 509576343642988544,
+    "text": "@almostsane1 @GIBiz \"Microsoft and Mojang present to you,the Minetablet, the tablet that allows you to play minecraft cause we love tablets\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "almostsane1",
+                "id": "21751363"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "username": "GIBiz",
+                "id": "46146200"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 29,
+                "probability": 0.6463,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "probability": 0.4318,
+                "type": "Product",
+                "normalized_text": "Mojang"
+            },
+            {
+                "start": 61,
+                "end": 70,
+                "probability": 0.3111,
+                "type": "Product",
+                "normalized_text": "Minetablet"
+            },
+            {
+                "start": 108,
+                "end": 116,
+                "probability": 0.5519,
+                "type": "Product",
+                "normalized_text": "minecraft"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 21751363
+}

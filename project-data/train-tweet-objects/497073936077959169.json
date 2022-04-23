@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-08-06 17:37:16+00:00",
+    "id": 497073936077959169,
+    "text": "#Breaking: Justin Bieber thwarts bear attack!! http://t.co/UvxCiXZ346 http://t.co/6dkULDwsjX",
+    "entities": {
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/UvxCiXZ346",
+                "expanded_url": "http://tmz.me/FZo9BGc",
+                "display_url": "tmz.me/FZo9BGc"
+            },
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/6dkULDwsjX",
+                "expanded_url": "https://twitter.com/TMZ/status/497073936077959169/photo/1",
+                "display_url": "pic.twitter.com/6dkULDwsjX"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "Breaking"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 23,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Justin Bieber"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

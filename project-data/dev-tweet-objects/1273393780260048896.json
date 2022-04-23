@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-06-17 23:15:10+00:00",
+    "id": 1273393780260048896,
+    "text": "Crafting good key results answers the questions: \n\n1. How do you measure success on the objective you set?\n2. What are the ways that you can actually measure it? \n3. If you accomplish all these things, does it mean you hit the objective?\n\n#OKRs #KPI #KeyResults #SuccessMetrics https://t.co/MOTSp8vUGV",
+    "entities": {
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/MOTSp8vUGV",
+                "expanded_url": "https://twitter.com/WhatMattersOKRs/status/1273393780260048896/photo/1",
+                "display_url": "pic.twitter.com/MOTSp8vUGV"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 239,
+                "end": 244,
+                "tag": "OKRs"
+            },
+            {
+                "start": 245,
+                "end": 249,
+                "tag": "KPI"
+            },
+            {
+                "start": 250,
+                "end": 261,
+                "tag": "KeyResults"
+            },
+            {
+                "start": 262,
+                "end": 277,
+                "tag": "SuccessMetrics"
+            }
+        ]
+    },
+    "source": "Hootsuite Inc.",
+    "in_reply_to_user_id": null
+}

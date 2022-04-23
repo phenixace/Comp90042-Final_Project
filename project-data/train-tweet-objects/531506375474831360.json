@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-09 17:59:29+00:00",
+    "id": 531506375474831360,
+    "text": "@HeyLook_its_Liz haha.. This has to be delicious right",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "HeyLook_its_Liz",
+                "id": "39102979"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 39102979
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-12 02:17:23+00:00",
+    "id": 642522363284819968,
+    "text": "@Lrihendry @R_MooreW4, If Christianity is not allowed,  neither should Islam be.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "R_MooreW4",
+                "id": "2730717271"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 129235890
+}

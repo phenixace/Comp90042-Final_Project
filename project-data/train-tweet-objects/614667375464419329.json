@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 05:31:36+00:00",
+    "id": 614667375464419329,
+    "text": "@NickKristof @nytimes Now lets get busy and outlaw poverty and its sad, sad affect on people's lives.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17004618
+}

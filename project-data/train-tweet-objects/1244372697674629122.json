@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-29 21:15:45+00:00",
+    "id": 1244372697674629122,
+    "text": "Myths about the Corona Virus\n\n1. Taking ice cream and other cold foods do not facilitate or aid the onset of the disease.\n2. Taking a hot bath does not prevent the new coronavirus disease.\n3. The new coronavirus CANNOT be transmitted via mosquito bites. https://t.co/RBZy4aA12F",
+    "entities": {
+        "urls": [
+            {
+                "start": 254,
+                "end": 277,
+                "url": "https://t.co/RBZy4aA12F",
+                "expanded_url": "https://twitter.com/HygeeI/status/1244372697674629122/photo/1",
+                "display_url": "pic.twitter.com/RBZy4aA12F"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

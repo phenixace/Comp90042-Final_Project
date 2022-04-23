@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-26 14:29:49+00:00",
+    "id": 1276523063643901958,
+    "text": "@jeffayc @CambMA @CambHealth .@CambHealth calls residents within 1-2 days of receiving the test result. If people do not answer the phone or return the call that day, it takes longer to reach them. To find out the status of test results, leave a message at 617-665-3848 &amp; you will receive a callback.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "jeffayc",
+                "id": "374553211"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "username": "CambMA",
+                "id": "1251981278"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "CambHealth",
+                "id": "3341544519"
+            },
+            {
+                "start": 30,
+                "end": 41,
+                "username": "CambHealth",
+                "id": "3341544519"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 24168698
+}

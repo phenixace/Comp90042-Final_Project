@@ -1,0 +1,28 @@
+{
+    "created_at": "2014-11-13 07:04:51+00:00",
+    "id": 532791181566951424,
+    "text": "@Boogie2988 https://t.co/x9eRPKd5OZ",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ],
+        "urls": [
+            {
+                "start": 12,
+                "end": 35,
+                "url": "https://t.co/x9eRPKd5OZ",
+                "expanded_url": "https://www.youtube.com/watch?v=V0AZQ3wm4IE",
+                "display_url": "youtube.com/watch?v=V0AZQ3\u2026",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=V0AZQ3wm4IE"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

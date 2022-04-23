@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-22 17:37:06+00:00",
+    "id": 524977763057295361,
+    "text": "\u201c@AP: Man who saw gunman shoot Canadian soldier at war memorial says shooter \"raised his arms in triumph\" MAKES ME SICK!!!! #StaySafeOttawa",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 124,
+                "end": 139,
+                "tag": "StaySafeOttawa"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 51241574
+}

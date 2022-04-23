@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-02 23:41:55+00:00",
+    "id": 551161498467590145,
+    "text": "@AP ... Rest in peace Elly May ..... \ud83d\udc94",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 30,
+                "probability": 0.903,
+                "type": "Person",
+                "normalized_text": "Elly May"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 51241574
+}

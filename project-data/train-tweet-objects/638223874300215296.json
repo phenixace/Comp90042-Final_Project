@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-31 05:36:43+00:00",
+    "id": 638223874300215296,
+    "text": "@battytamara @TheValleyReport i THINK it's an Onion king of article :P",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "battytamara",
+                "id": "19571906"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 19571906
+}

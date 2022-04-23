@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-06-26 13:54:31+00:00",
+    "id": 1276514180934389765,
+    "text": "@ReubenR80027912 @gummibear737 don't put words in my mouth\n\nI m concerned about the public health aspects first, economy second (like 70% of America, btw, data available by request). here in CT we shut down, got control, and like most in the northeast are opening slowly and with cautions like masks built in",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ReubenR80027912",
+                "id": "1093221897125482497"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "gummibear737",
+                "id": "36638077"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 141,
+                "end": 147,
+                "probability": 0.9893,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 191,
+                "end": 192,
+                "probability": 0.6875,
+                "type": "Place",
+                "normalized_text": "CT"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1093221897125482497
+}

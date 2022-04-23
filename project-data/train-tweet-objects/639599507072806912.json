@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-09-04 00:43:00+00:00",
+    "id": 639599507072806912,
+    "text": "This for #likes on pics? \ud83d\ude33 \"@TheValleyReport Woman stabs boyfriend for not liking Instagram selfie fast enough.. http://t.co/2uR0AEcVRh",
+    "entities": {
+        "annotations": [
+            {
+                "start": 83,
+                "end": 91,
+                "probability": 0.8341,
+                "type": "Product",
+                "normalized_text": "Instagram"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 28,
+                "end": 44,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag": "likes"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/2uR0AEcVRh",
+                "expanded_url": "https://twitter.com/TheValleyReport/status/637868242560638980/photo/1",
+                "display_url": "pic.twitter.com/2uR0AEcVRh"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3369234799
+}

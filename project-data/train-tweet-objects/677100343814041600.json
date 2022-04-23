@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-12-16 12:17:56+00:00",
+    "id": 677100343814041600,
+    "text": "@ABC lmfao guess ppl really don't understand #capitalism",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 45,
+                "end": 56,
+                "tag": "capitalism"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28785486
+}

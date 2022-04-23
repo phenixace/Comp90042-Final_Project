@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-05-29 02:31:10+00:00",
+    "id": 1266195349934239744,
+    "text": "@karliwithakay @ColinAitchison There is a wealth of research evidence that shows, for example, the devastating effects of summer learning loss on children from lower socioeconomic backgrounds. Having publicly-funded charter schools able to innovate and respond to these issues is making things better for kids.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 30,
+                "username": "ColinAitchison",
+                "id": "112869149"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1123274196098920453
+}

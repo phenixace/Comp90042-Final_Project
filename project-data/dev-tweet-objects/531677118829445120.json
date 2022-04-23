@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 05:17:57+00:00",
+    "id": 531677118829445120,
+    "text": "@Boogie2988 I'MA SHARE, THEN WATCH\n\nYOU CAN'T TELL ME WHAT TO DO",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 42345999
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-12 23:57:19+00:00",
+    "id": 1249486790945357826,
+    "text": "@bangtanbopper that sounds very much like it to me :(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "bangtanbopper",
+                "id": "929384249567928320"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 929384249567928320
+}

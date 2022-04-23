@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-12 23:26:26+00:00",
+    "id": 1249479017226436609,
+    "text": "@vendyfi_ well recently at work this guy came in and his wife has it! she\u2019s been at the hospital for a month and he had no business out in public so we sanitized everything and it sucks i have to work still bc my job is essential:(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "vendyfi_",
+                "id": "865513347600404482"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 865513347600404482
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-08 14:40:16+00:00",
+    "id": 531093852099059713,
+    "text": "@americocap no. just no",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "americocap",
+                "id": "37233307"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 37233307
+}

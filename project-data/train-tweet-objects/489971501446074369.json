@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18 03:14:43+00:00",
+    "id": 489971501446074369,
+    "text": "@Independent - they are no greater humans than other people on board that flight",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16973333
+}

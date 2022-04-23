@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 12:35:38+00:00",
+    "id": 531787265807499264,
+    "text": "@IGN Idiots Gaming News - You did it again.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 18927441
+}

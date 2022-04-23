@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-29 12:16:52+00:00",
+    "id": 1244237085898227713,
+    "text": "FAQ: Who should undergo testing for COVID-19? https://t.co/Tl4nTuyD69",
+    "entities": {
+        "urls": [
+            {
+                "start": 46,
+                "end": 69,
+                "url": "https://t.co/Tl4nTuyD69",
+                "expanded_url": "https://twitter.com/kmrvmd/status/1244237085898227713/photo/1",
+                "display_url": "pic.twitter.com/Tl4nTuyD69"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 27269222
+}

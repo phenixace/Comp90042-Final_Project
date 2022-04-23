@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-10-22 17:47:47+00:00",
+    "id": 524980450054668288,
+    "text": "WOW ! @CNN The Canadian soldier shot at the War Memorial has died. http://t.co/5vuliRtrov #OttawaShooting http://t.co/A7CWVpoSHO",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/5vuliRtrov",
+                "expanded_url": "http://cnn.it/1tcf9PE",
+                "display_url": "cnn.it/1tcf9PE"
+            },
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/A7CWVpoSHO",
+                "expanded_url": "https://twitter.com/CNN/status/524976963862429697/photo/1",
+                "display_url": "pic.twitter.com/A7CWVpoSHO"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 6,
+                "end": 10,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 105,
+                "tag": "OttawaShooting"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 55,
+                "probability": 0.5852,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 759251
+}

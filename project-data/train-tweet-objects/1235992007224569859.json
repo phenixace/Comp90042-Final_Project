@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-06 18:13:52+00:00",
+    "id": 1235992007224569859,
+    "text": "@PAHealthDept @PaSenateDems If you want ppl to stay home when they're sick, you need to mandate paid sick time to all part and full time workers in the state. When most of us live paycheck to paycheck staying home isn't an option.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "PAHealthDept",
+                "id": "3218464527"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "PaSenateDems",
+                "id": "23430917"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3218464527
+}

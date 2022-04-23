@@ -1,0 +1,27 @@
+{
+    "created_at": "2014-12-15 00:38:04+00:00",
+    "id": 544290258951892992,
+    "text": "Central Sydney shut down by police amid ongoing hostage situation: http://t.co/TvAlMmqFxP",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 13,
+                "probability": 0.5219,
+                "type": "Place",
+                "normalized_text": "Central Sydney"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/TvAlMmqFxP",
+                "expanded_url": "http://on.wsj.com/16mVQts",
+                "display_url": "on.wsj.com/16mVQts"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

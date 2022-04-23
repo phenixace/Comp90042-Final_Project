@@ -1,0 +1,38 @@
+{
+    "created_at": "2013-09-24 03:35:56+00:00",
+    "id": 382347641801420800,
+    "text": "@BrookeZoss that's weird cuz I'm watching Harry Potter right now!! #nerdstatus #potterhead",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 53,
+                "probability": 0.8754,
+                "type": "Person",
+                "normalized_text": "Harry Potter"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 67,
+                "end": 78,
+                "tag": "nerdstatus"
+            },
+            {
+                "start": 79,
+                "end": 90,
+                "tag": "potterhead"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BrookeZoss",
+                "id": "1255853894"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1255853894
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-14 01:45:01+00:00",
+    "id": 643238993711116288,
+    "text": "@LibertyUSA1776 expected. If you rear a snake, it is going to bite u. @MaverickLG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 70,
+                "end": 81,
+                "username": "MaverickLG",
+                "id": "75943020"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3300205033
+}

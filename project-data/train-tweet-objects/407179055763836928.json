@@ -1,0 +1,27 @@
+{
+    "created_at": "2013-12-01 16:07:06+00:00",
+    "id": 407179055763836928,
+    "text": "Did speed play a part in Paul Walker's death? http://t.co/5AghdlaJE3",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 35,
+                "probability": 0.9253,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 46,
+                "end": 68,
+                "url": "http://t.co/5AghdlaJE3",
+                "expanded_url": "http://peoplem.ag/rkNWR",
+                "display_url": "peoplem.ag/rkNWR"
+            }
+        ]
+    },
+    "source": "Hootsuite",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-07-17 18:32:02+00:00",
+    "id": 489839961336995842,
+    "text": "@CBSNews \n\nLooting a tragedy and where are responsible govt troops.... \n\n#Uncivilization...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 73,
+                "end": 88,
+                "tag": "Uncivilization"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 15012486
+}

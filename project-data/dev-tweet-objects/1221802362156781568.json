@@ -1,0 +1,63 @@
+{
+    "created_at": "2020-01-27 14:29:17+00:00",
+    "id": 1221802362156781568,
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Does the new #coronavirus (2019-nC0V) affect older people, or are younger people also susceptible?\nA: People of all ages can be infected by the virus.\nOlder people &amp; those with pre-existing medical conditions appear to be more vulnerable to becoming severely ill with the virus https://t.co/6C5QFuiI13",
+    "entities": {
+        "urls": [
+            {
+                "start": 343,
+                "end": 366,
+                "url": "https://t.co/6C5QFuiI13",
+                "expanded_url": "https://twitter.com/WHO/status/1221802362156781568/photo/1",
+                "display_url": "pic.twitter.com/6C5QFuiI13"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 86,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

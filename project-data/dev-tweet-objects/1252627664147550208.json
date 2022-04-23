@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-21 15:58:02+00:00",
+    "id": 1252627664147550208,
+    "text": "5G mobile networks DO NOT spread COVID-19. COVID-19 is spread through respiratory droplets when an infected person coughs, sneezes or speaks. People can also be infected by touching a contaminated surface and then their eyes, mouth or nose. #knowthefacts https://t.co/JHzPFygO7H",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 241,
+                "end": 254,
+                "tag": "knowthefacts"
+            }
+        ],
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/JHzPFygO7H",
+                "expanded_url": "https://twitter.com/PHLPublicHealth/status/1252627664147550208/photo/1",
+                "display_url": "pic.twitter.com/JHzPFygO7H"
+            }
+        ]
+    },
+    "source": "Buffer",
+    "in_reply_to_user_id": null
+}

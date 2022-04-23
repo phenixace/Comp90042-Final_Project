@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 11:15:58+00:00",
+    "id": 649905657315991552,
+    "text": "@CNN don't tell me that the Vatican us telling a lie",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

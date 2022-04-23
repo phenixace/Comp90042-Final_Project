@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27 22:21:52+00:00",
+    "id": 614921617005613057,
+    "text": "@NickKristof bravoo, when they are going to do pregnancy test??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17004618
+}

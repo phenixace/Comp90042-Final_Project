@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-15 06:09:59+00:00",
+    "id": 643668060826550272,
+    "text": "@LibertyUSA1776 @kailashwg Normal civil rules do not apply to followers of Islam. Germans were suckers for welcoming them.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "kailashwg",
+                "id": "1602756109"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

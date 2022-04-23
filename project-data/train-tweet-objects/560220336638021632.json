@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-27 23:38:31+00:00",
+    "id": 560220336638021632,
+    "text": "@act4america @BillionIndian @BreitbartNews will change its spot but wont change its colour where ever it is.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BillionIndian",
+                "id": "828068220"
+            },
+            {
+                "start": 28,
+                "end": 42,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

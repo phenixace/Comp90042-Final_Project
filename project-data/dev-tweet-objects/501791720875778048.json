@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 18:04:03+00:00",
+    "id": 501791720875778048,
+    "text": "@sandb0xmagician @_esaliba Why people are rioting over someone who robbed a store, assaulted the clerk and bum rushed a cop escapes me.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "sandb0xmagician",
+                "id": "125571606"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "_esaliba",
+                "id": "156743986"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 125571606
+}

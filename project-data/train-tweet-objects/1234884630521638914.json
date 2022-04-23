@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:33+00:00",
+    "id": 1234884630521638914,
+    "text": "Who is at risk of developing severe illness? https://t.co/zrhBWbgFMX",
+    "entities": {
+        "urls": [
+            {
+                "start": 45,
+                "end": 68,
+                "url": "https://t.co/zrhBWbgFMX",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884630521638914/photo/1",
+                "display_url": "pic.twitter.com/zrhBWbgFMX"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

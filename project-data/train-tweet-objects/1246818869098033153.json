@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-04-05 15:15:57+00:00",
+    "id": 1246818869098033153,
+    "text": "#IamNaija\n#Fight2Finish\n#YakinKawardaCovid_19\n#JCINigeria\n#COVID19Pandemic\n#BeSafe\n\nFollow us on all social media for daily updates.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "IamNaija"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "tag": "Fight2Finish"
+            },
+            {
+                "start": 24,
+                "end": 45,
+                "tag": "YakinKawardaCovid_19"
+            },
+            {
+                "start": 46,
+                "end": 57,
+                "tag": "JCINigeria"
+            },
+            {
+                "start": 58,
+                "end": 74,
+                "tag": "COVID19Pandemic"
+            },
+            {
+                "start": 75,
+                "end": 82,
+                "tag": "BeSafe"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3247231575
+}

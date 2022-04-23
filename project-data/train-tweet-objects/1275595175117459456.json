@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-24 01:02:43+00:00",
+    "id": 1275595175117459456,
+    "text": "The strange part is that it's not clear what source their age-mixing data comes from. The citation they give is NOT a published paper - it's a link to a page w/ Matlab files. It's weird because there are several age-mixing datasets out there. @sbfnk can probably provide best ones",
+    "entities": {
+        "mentions": [
+            {
+                "start": 243,
+                "end": 249,
+                "username": "sbfnk",
+                "id": "4384004595"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

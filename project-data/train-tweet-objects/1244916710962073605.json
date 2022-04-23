@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 09:17:27+00:00",
+    "id": 1244916710962073605,
+    "text": "Does the new coronavirus affect older people, or are younger people also susceptible? https://t.co/Z0Afo3IR6x",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/Z0Afo3IR6x",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244916710962073605/photo/1",
+                "display_url": "pic.twitter.com/Z0Afo3IR6x"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 715109606624768000
+}

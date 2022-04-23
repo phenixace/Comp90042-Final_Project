@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-13 12:43:20+00:00",
+    "id": 1271785222468702208,
+    "text": "@coltman_paul @ProfKarolSikora The question is, how are they getting a resurgence? It seemed like they had eliminated it. Where had it been hiding? Someone who had it for a very long time? Maybe a resovoiur in the body?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "coltman_paul",
+                "id": "1241423938674216960"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "ProfKarolSikora",
+                "id": "1235849797191401472"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1241423938674216960
+}

@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-03-15 15:29:20+00:00",
+    "id": 1239212090532954113,
+    "text": "@oleg008 @brian_d_vaughn @probablyup That's false, it can last for days on surfaces.\n\nhttps://t.co/UqaUgOrBOH",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/UqaUgOrBOH",
+                "expanded_url": "https://www.npr.org/sections/health-shots/2020/03/14/811609026/the-new-coronavirus-can-live-on-surfaces-for-2-3-days-heres-how-to-clean-them?t=1584286131439",
+                "display_url": "npr.org/sections/healt\u2026",
+                "status": 200,
+                "unwound_url": "https://www.npr.org/sections/health-shots/2020/03/14/811609026/the-new-coronavirus-can-live-on-surfaces-for-2-3-days-heres-how-to-clean-them?t=1584286131439"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "oleg008",
+                "id": "69033784"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "brian_d_vaughn",
+                "id": "99973385"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "probablyup",
+                "id": "74507569"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 69033784
+}

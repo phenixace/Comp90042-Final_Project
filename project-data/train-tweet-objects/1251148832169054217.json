@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-17 14:01:41+00:00",
+    "id": 1251148832169054217,
+    "text": "@ErinnGoBrach @Niall_Boylan No thats a myth we have no where that came from. 5G can carry a frequency up to 300ghz but the frequency range that will be used for 5G will be between 3.3ghz and 4.2ghz",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 27,
+                "username": "Niall_Boylan",
+                "id": "298225776"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 108,
+                "end": 113,
+                "probability": 0.335,
+                "type": "Product",
+                "normalized_text": "300ghz"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1246897454341148674
+}

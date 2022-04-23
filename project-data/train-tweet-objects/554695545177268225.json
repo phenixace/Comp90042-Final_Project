@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-12 17:44:58+00:00",
+    "id": 554695545177268225,
+    "text": "@NBCPhiladelphia fuck is dey doing drinking beer at a funeral anyway",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "NBCPhiladelphia",
+                "id": "15755669"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15755669
+}

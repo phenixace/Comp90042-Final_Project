@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-02 14:22:06+00:00",
+    "id": 639080864383549442,
+    "text": "@Hawley81 @TheValleyReport ;)))",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Hawley81",
+                "id": "346226540"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 346226540
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-22 15:42:25+00:00",
+    "id": 657220470526181376,
+    "text": "@lNVENTlONS The Marquesas Islands are known as cunnilingus islands , and NO ! i don't want to see the map ! OK !  no way ! no pics!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "lNVENTlONS",
+                "id": "199110089"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 32,
+                "probability": 0.3324,
+                "type": "Place",
+                "normalized_text": "Marquesas Islands"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 199110089
+}

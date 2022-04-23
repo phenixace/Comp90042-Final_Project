@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-22 18:16:29+00:00",
+    "id": 514116035273039872,
+    "text": "@ComplexMag fresh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

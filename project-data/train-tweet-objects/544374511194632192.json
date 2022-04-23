@@ -1,0 +1,36 @@
+{
+    "created_at": "2014-12-15 06:12:52+00:00",
+    "id": 544374511194632192,
+    "text": "UPDATE: Total of 5 people have been able to get out of Sydney cafe during hostage situation: http://t.co/mp18E4DdjW http://t.co/n5vhI5DsZg",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 65,
+                "probability": 0.5898,
+                "type": "Place",
+                "normalized_text": "Sydney cafe"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/mp18E4DdjW",
+                "expanded_url": "http://abcn.ws/1Ab6P2k",
+                "display_url": "abcn.ws/1Ab6P2k",
+                "status": 403,
+                "unwound_url": "http://abcn.ws/1Ab6P2k"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/n5vhI5DsZg",
+                "expanded_url": "https://twitter.com/ABC/status/544372257674788864/photo/1",
+                "display_url": "pic.twitter.com/n5vhI5DsZg"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

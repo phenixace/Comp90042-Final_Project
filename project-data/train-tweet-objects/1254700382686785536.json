@@ -1,0 +1,42 @@
+{
+    "created_at": "2020-04-27 09:14:17+00:00",
+    "id": 1254700382686785536,
+    "text": "@TIME Check out my Gig on Fiverr: do amazon product listing image and photo editing https://t.co/88RZLamL2H",
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 107,
+                "url": "https://t.co/88RZLamL2H",
+                "expanded_url": "https://www.fiverr.com/share/X0o90e",
+                "display_url": "fiverr.com/share/X0o90e"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 31,
+                "probability": 0.6836,
+                "type": "Organization",
+                "normalized_text": "Fiverr"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "probability": 0.4616,
+                "type": "Organization",
+                "normalized_text": "amazon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14293310
+}

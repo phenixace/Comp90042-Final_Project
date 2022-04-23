@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27 09:28:53+00:00",
+    "id": 614727087899938816,
+    "text": "@NickKristof God will shake nations",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 15,
+                "probability": 0.9303,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17004618
+}

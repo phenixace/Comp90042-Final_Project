@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-02-21 18:40:52+00:00",
+    "id": 1230925371157037056,
+    "text": "@WHO Are antibiotics effective in preventing and treating the new #coronavirus? https://t.co/IbpVK7aY5D",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 66,
+                "end": 78,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 80,
+                "end": 103,
+                "url": "https://t.co/IbpVK7aY5D",
+                "expanded_url": "https://twitter.com/arianaKXLY/status/1230925371157037056/photo/1",
+                "display_url": "pic.twitter.com/IbpVK7aY5D"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 336020576
+}

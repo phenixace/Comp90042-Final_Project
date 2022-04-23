@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-14 12:54:53+00:00",
+    "id": 1250044857118117888,
+    "text": "Puppet Dummy Alert Patriot Pole \u201cKnow Your Truth\u201d Are you informed of the times we live in or is your head still buried in the sand? Don\u2019t be a Puppet or a Dummy. Question: What is the GCR Global Currency Reset?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 185,
+                "end": 209,
+                "probability": 0.3811,
+                "type": "Other",
+                "normalized_text": "GCR Global Currency Reset"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3681067034
+}

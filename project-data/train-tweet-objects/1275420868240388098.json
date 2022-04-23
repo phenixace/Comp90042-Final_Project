@@ -1,0 +1,56 @@
+{
+    "created_at": "2020-06-23 13:30:05+00:00",
+    "id": 1275420868240388098,
+    "text": "@KidDozzi @TimestepJess @brigidbergin @Troymajian @BOENYC Hi Ian, I'm sorry you are having issue voting. You can vote in person if you feel comfortable doing so. If you continue to have issues, please call @866OURVOTE to speak with nonpartisan trained volunteers working to make sure voters get access to the ballot box.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 61,
+                "end": 63,
+                "probability": 0.9824,
+                "type": "Person",
+                "normalized_text": "Ian"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "KidDozzi",
+                "id": "908137441"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "TimestepJess",
+                "id": "281689801"
+            },
+            {
+                "start": 24,
+                "end": 37,
+                "username": "brigidbergin",
+                "id": "11915822"
+            },
+            {
+                "start": 38,
+                "end": 49,
+                "username": "Troymajian",
+                "id": "548768519"
+            },
+            {
+                "start": 50,
+                "end": 57,
+                "username": "BOENYC",
+                "id": "210927444"
+            },
+            {
+                "start": 206,
+                "end": 217,
+                "username": "866OURVOTE",
+                "id": "15896350"
+            }
+        ]
+    },
+    "source": "Sprout Social",
+    "in_reply_to_user_id": 908137441
+}

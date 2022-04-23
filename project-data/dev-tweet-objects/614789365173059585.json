@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 13:36:21+00:00",
+    "id": 614789365173059585,
+    "text": "@politico @RealRonHoward nice now that is cool ! POTUS et al gettin creative and it is working big time....",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.77,
+                "type": "Person",
+                "normalized_text": "POTUS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "RealRonHoward",
+                "id": "125481462"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 9300262
+}

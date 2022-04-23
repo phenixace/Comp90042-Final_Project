@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-29 21:24:11+00:00",
+    "id": 1244374821665898498,
+    "text": "How does #COVID_19 spread?\n\nThe new #coronavirus appears to spread from person to person among those in close contact. It is spread by respiratory droplets when someone infected with the virus coughs or sneezes. It's unclear exactly how contagious the virus is.\n#CoronaInPakistan",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag": "COVID_19"
+            },
+            {
+                "start": 36,
+                "end": 48,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 262,
+                "end": 279,
+                "tag": "CoronaInPakistan"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

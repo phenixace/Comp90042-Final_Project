@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-10-06 11:03:44+00:00",
+    "id": 519080561152102400,
+    "text": "\u201c@WSJ:Hewlett-Packard announces it will break in 2 http://t.co/mD3p6hScCE\u201d Doesn't look like there's a Division where @HPAutonomy would fit!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WSJ",
+                "id": "3108351"
+            },
+            {
+                "start": 118,
+                "end": 129,
+                "username": "HPAutonomy",
+                "id": "3392419726"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 20,
+                "probability": 0.8919,
+                "type": "Organization",
+                "normalized_text": "Hewlett-Packard"
+            }
+        ],
+        "urls": [
+            {
+                "start": 51,
+                "end": 73,
+                "url": "http://t.co/mD3p6hScCE",
+                "expanded_url": "http://on.wsj.com/1s0CSQN",
+                "display_url": "on.wsj.com/1s0CSQN"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 3108351
+}

@@ -1,0 +1,27 @@
+{
+    "created_at": "2013-08-19 17:07:52+00:00",
+    "id": 369506008172740608,
+    "text": "Fukushima nuclear plant leaking 300 tons of radioactive water into the Pacific every day: http://t.co/sZi810gMCO",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 8,
+                "probability": 0.6018,
+                "type": "Place",
+                "normalized_text": "Fukushima"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/sZi810gMCO",
+                "expanded_url": "http://tnat.in/o3VSE",
+                "display_url": "tnat.in/o3VSE"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

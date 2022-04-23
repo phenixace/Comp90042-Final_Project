@@ -1,0 +1,46 @@
+{
+    "created_at": "2015-09-14 09:02:26+00:00",
+    "id": 643349072284397568,
+    "text": "@LibertyUSA1776 @oldnick236 When the next bomb goes off in UK, Cameron and the \"refugees for Britain\" brigade will be responsible.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "oldnick236",
+                "id": "2825924324"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 60,
+                "probability": 0.9976,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 63,
+                "end": 69,
+                "probability": 0.9292,
+                "type": "Person",
+                "normalized_text": "Cameron"
+            },
+            {
+                "start": 93,
+                "end": 99,
+                "probability": 0.9821,
+                "type": "Place",
+                "normalized_text": "Britain"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

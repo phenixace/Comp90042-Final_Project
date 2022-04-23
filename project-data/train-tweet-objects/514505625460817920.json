@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-09-23 20:04:34+00:00",
+    "id": 514505625460817920,
+    "text": "@TIME @DerekMedlin Usually objects of that size in your pants are bound to have a little bend to 'em. #JustSayin",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            },
+            {
+                "start": 6,
+                "end": 18,
+                "username": "DerekMedlin",
+                "id": "22579909"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 112,
+                "tag": "JustSayin"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14293310
+}

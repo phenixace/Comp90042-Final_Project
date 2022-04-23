@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19 04:51:35+00:00",
+    "id": 523697950405689344,
+    "text": "@chadmom63 @verybookish If I ever came across that thing, I'd be the one running for dear life!! Lordy that thing is ugly! CREEPY!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "chadmom63",
+                "id": "154541980"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "verybookish",
+                "id": "193968852"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 154541980
+}

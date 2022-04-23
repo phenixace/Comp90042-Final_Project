@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-11-10 17:03:45+00:00",
+    "id": 531854736572825600,
+    "text": "USA! USA! \u201c@mashable: Just your Monday reminder that Doritos-flavored Mountain Dew exists. http://t.co/PhlVz0Bq7i http://t.co/HuNNH5u5rU\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/PhlVz0Bq7i",
+                "expanded_url": "http://on.mash.to/1oCoIWI",
+                "display_url": "on.mash.to/1oCoIWI"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/HuNNH5u5rU",
+                "expanded_url": "https://twitter.com/mashable/status/531833153145823233/photo/1",
+                "display_url": "pic.twitter.com/HuNNH5u5rU"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 2,
+                "probability": 0.7421,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "probability": 0.6379,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 53,
+                "end": 81,
+                "probability": 0.4734,
+                "type": "Product",
+                "normalized_text": "Doritos-flavored Mountain Dew"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 972651
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-02-21 18:35:38+00:00",
+    "id": 1230924053751324672,
+    "text": "There is so much information circulating about the #coronavirus, so it is important to sort fact from fiction. The @WHO offers some great info here: https://t.co/18Z4ypkabX",
+    "entities": {
+        "mentions": [
+            {
+                "start": 115,
+                "end": 119,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 63,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 149,
+                "end": 172,
+                "url": "https://t.co/18Z4ypkabX",
+                "expanded_url": "https://twitter.com/arianaKXLY/status/1230924053751324672/photo/1",
+                "display_url": "pic.twitter.com/18Z4ypkabX"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

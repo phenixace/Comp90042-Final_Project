@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-01-02 20:47:27+00:00",
+    "id": 551117591612514304,
+    "text": "@FoxNews One of my favorite shows growing up RIP Ellie \"this was a screen gems presentation!\" May Clampett",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.8178,
+                "type": "Person",
+                "normalized_text": "Ellie"
+            },
+            {
+                "start": 94,
+                "end": 105,
+                "probability": 0.291,
+                "type": "Other",
+                "normalized_text": "May Clampett"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1367531
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 04:20:29+00:00",
+    "id": 529125938974322688,
+    "text": "@fluffyguy  Either the autopsy would write off that you went out with tacos or chocolate cake? #sorry ^^",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 95,
+                "end": 101,
+                "tag": "sorry"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 28245852
+}

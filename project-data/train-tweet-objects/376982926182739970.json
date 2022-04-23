@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-09-09 08:18:28+00:00",
+    "id": 376982926182739970,
+    "text": "@UnrevealedFacts dont be fucking lying.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "unrevealedfacts",
+                "id": "377385959"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 149760844
+}

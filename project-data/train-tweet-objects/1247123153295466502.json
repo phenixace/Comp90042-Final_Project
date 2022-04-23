@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-06 11:25:04+00:00",
+    "id": 1247123153295466502,
+    "text": "@ReneeFiredup @Christi72002967 @Passion_Comp3 @RepGalonski @realDonaldTrump We know that this drug works on SARS and MERS. We have used it in the past to treat these viruses. We also have some studies that show that it is close to 100% effective. So why wouldn\u2019t we use a 60 year old drug that we know inside and out? This isnt some trial drug.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ReneeFiredup",
+                "id": "863853299463630848"
+            },
+            {
+                "start": 46,
+                "end": 58,
+                "username": "RepGalonski",
+                "id": "875722748206751744"
+            },
+            {
+                "start": 59,
+                "end": 75,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 863853299463630848
+}

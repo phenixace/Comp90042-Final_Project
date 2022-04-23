@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08 22:19:09+00:00",
+    "id": 519975310792863744,
+    "text": "@princessjenx @ComplexMag so shitty",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "princessjenx",
+                "id": "1004815170"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1004815170
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-09-10 23:11:09+00:00",
+    "id": 642113108689973249,
+    "text": "@CNNPolitics CNN should have called Trump on his racism themselves, not wait for others to do it for them. @BernieSanders",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 15,
+                "probability": 0.9878,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.9993,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 107,
+                "end": 121,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13850422
+}

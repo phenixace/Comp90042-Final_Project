@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-12-09 14:18:57+00:00",
+    "id": 542322512537722881,
+    "text": "@CronkiteSays @eavesdropann The Daily Currant is a satire site. The story is not true. Look at their Twitter bio: https://t.co/7YnSnvQQ6D",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 44,
+                "probability": 0.3642,
+                "type": "Other",
+                "normalized_text": "The Daily Currant"
+            },
+            {
+                "start": 101,
+                "end": 107,
+                "probability": 0.5873,
+                "type": "Product",
+                "normalized_text": "Twitter"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CronkiteSays",
+                "id": "2546562188"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "eavesdropann",
+                "id": "134240162"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/7YnSnvQQ6D",
+                "expanded_url": "https://twitter.com/thedailycurrant",
+                "display_url": "twitter.com/thedailycurrant"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 2546562188
+}

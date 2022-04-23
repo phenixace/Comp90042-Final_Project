@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 01:02:02+00:00",
+    "id": 614599536632160256,
+    "text": "@NBCNightlyNews @AndrewAdamsKSL Tasteless, tacky, cheap promotional gimmick... Is POTUS taking a Victory Lap or vacation?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NBCNightlyNews",
+                "id": "8839632"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "AndrewAdamsKSL",
+                "id": "29500521"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 82,
+                "end": 86,
+                "probability": 0.896,
+                "type": "Person",
+                "normalized_text": "POTUS"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 8839632
+}

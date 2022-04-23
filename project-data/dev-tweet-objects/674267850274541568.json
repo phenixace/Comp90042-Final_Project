@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 16:42:37+00:00",
+    "id": 674267850274541568,
+    "text": "@RollingStone @clsmithAK that puts things into perspective.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "clsmithAK",
+                "id": "2964338737"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

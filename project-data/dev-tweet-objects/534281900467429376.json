@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 09:48:26+00:00",
+    "id": 534281900467429376,
+    "text": "@Independent suppliers are not producing to their gest",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16973333
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-04-03 04:34:54+00:00",
+    "id": 1245932767205928962,
+    "text": "@cardinalfan2251 @FbrAndrew @Pokemon Yeah but moving those Pokemon to the new games is still pretty useless. I think keeping these restrictions opens up more opportunities for Competitive pokemon, so that players have to get more creative instead of just transfering old teams. Plus... They're coming in the DLC.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "cardinalfan2251",
+                "id": "2998924889"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "username": "FbrAndrew",
+                "id": "1095150672302039045"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "username": "Pokemon",
+                "id": "96879107"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 65,
+                "probability": 0.4842,
+                "type": "Product",
+                "normalized_text": "Pokemon"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 2998924889
+}

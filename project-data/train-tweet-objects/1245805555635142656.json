@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-02 20:09:25+00:00",
+    "id": 1245805555635142656,
+    "text": "Q: Should pregnant women be tested for COVID-19?\n\nA: Testing protocols and eligibility vary depending on where you live.\n\n#GetItTogether\n#GetItTogetherNG\n#StaySafe",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 122,
+                "end": 136,
+                "tag": "GetItTogether"
+            },
+            {
+                "start": 137,
+                "end": 153,
+                "tag": "GetItTogetherNG"
+            },
+            {
+                "start": 154,
+                "end": 163,
+                "tag": "StaySafe"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

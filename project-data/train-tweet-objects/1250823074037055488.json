@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-16 16:27:14+00:00",
+    "id": 1250823074037055488,
+    "text": "@BraceuptheYoung @NCDCgov COVID-19 is a viral disease. It is caused by a virus known as SARS-COV2. It majorly affects the respiratory system (breathing system). Its effect can be mild, moderate, severe or critical.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "BraceuptheYoung",
+                "id": "1061556965250383873"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1061556965250383873
+}

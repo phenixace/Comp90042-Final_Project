@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-12-09 00:16:12+00:00",
+    "id": 674381998690050048,
+    "text": "@RollingStone 35 years ago, we lost a legend. Today marks the anniversary of John Lennon's passing.\nhttps://t.co/cT9icGak7X",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 77,
+                "end": 87,
+                "probability": 0.9899,
+                "type": "Person",
+                "normalized_text": "John Lennon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 123,
+                "url": "https://t.co/cT9icGak7X",
+                "expanded_url": "http://www.skibbereeneagle.ie/uncategorized/13060/",
+                "display_url": "skibbereeneagle.ie/uncategorized/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

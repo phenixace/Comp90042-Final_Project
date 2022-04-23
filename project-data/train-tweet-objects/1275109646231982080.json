@@ -1,0 +1,68 @@
+{
+    "created_at": "2020-06-22 16:53:24+00:00",
+    "id": 1275109646231982080,
+    "text": "@saeedhu @HPA_MV @MoHmv @WHOMaldives @ibusolih @ameenex @WahydAhmed @abdullahwaheed WHO Advises that we all curb our smoking habit. It\u2019s health danger is common knowledge now indisputable. It\u2019s our foolishness that keeps us from quitting. Our abstinance for a whole day during Ramzaan is indication we can - if we truly commit to quitting.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 277,
+                "end": 283,
+                "probability": 0.4777,
+                "type": "Person",
+                "normalized_text": "Ramzaan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "saeedhu",
+                "id": "41499153"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "username": "HPA_MV",
+                "id": "514423446"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "username": "MoHmv",
+                "id": "2318304726"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "username": "WHOMaldives",
+                "id": "1442934157"
+            },
+            {
+                "start": 37,
+                "end": 46,
+                "username": "ibusolih",
+                "id": "531018157"
+            },
+            {
+                "start": 47,
+                "end": 55,
+                "username": "ameenex",
+                "id": "41658449"
+            },
+            {
+                "start": 56,
+                "end": 67,
+                "username": "WahydAhmed",
+                "id": "506946881"
+            },
+            {
+                "start": 68,
+                "end": 83,
+                "username": "abdullahwaheed",
+                "id": "46375055"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 41499153
+}

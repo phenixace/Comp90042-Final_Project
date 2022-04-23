@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-02-07 07:47:47+00:00",
+    "id": 1225687585617403905,
+    "text": "Are there any specific medicines to prevent or treat the new #coronavirus? https://t.co/wMRtWMyfKI",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 73,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 98,
+                "url": "https://t.co/wMRtWMyfKI",
+                "expanded_url": "https://twitter.com/WHOUganda/status/1225687585617403905/photo/1",
+                "display_url": "pic.twitter.com/wMRtWMyfKI"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2599562040
+}

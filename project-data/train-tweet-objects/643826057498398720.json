@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-15 16:37:48+00:00",
+    "id": 643826057498398720,
+    "text": "@LibertyUSA1776 Story was wrong- the \"leaked photo\" isn't evidence of refugees.CP lifted the image from a '12 story: http://t.co/6LvYc7JOUL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/6LvYc7JOUL",
+                "expanded_url": "http://www.independent.co.uk/news/world/europe/isis-flag-picture-that-claims-to-show-refugees-attacking-police-goes-viral--and-is-a-lie-10501290.html",
+                "display_url": "independent.co.uk/news/world/eur\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

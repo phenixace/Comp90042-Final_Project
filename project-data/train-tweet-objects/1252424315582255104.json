@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-04-21 02:30:00+00:00",
+    "id": 1252424315582255104,
+    "text": "What are the symptoms of COVID-19 and what should you do if you have them? In the latest \u201cThe Science Behind the Coronavirus,\u201d @drpatsoonshiong, executive chairman of @latimes explains the symptomatic patient.   \nWatch: https://t.co/dk0HQmuj7u https://t.co/0wKu4SJ54c",
+    "entities": {
+        "mentions": [
+            {
+                "start": 127,
+                "end": 143,
+                "username": "DrPatSoonShiong",
+                "id": "71322014"
+            },
+            {
+                "start": 167,
+                "end": 175,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ],
+        "urls": [
+            {
+                "start": 220,
+                "end": 243,
+                "url": "https://t.co/dk0HQmuj7u",
+                "expanded_url": "https://www.latimes.com/science/vcpkmehyhpq-123",
+                "display_url": "latimes.com/science/vcpkme\u2026"
+            },
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/0wKu4SJ54c",
+                "expanded_url": "https://twitter.com/latimes/status/1252424315582255104/video/1",
+                "display_url": "pic.twitter.com/0wKu4SJ54c"
+            }
+        ]
+    },
+    "source": "Twitter Media Studio",
+    "in_reply_to_user_id": null
+}

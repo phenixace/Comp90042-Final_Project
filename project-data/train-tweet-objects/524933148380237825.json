@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 14:39:50+00:00",
+    "id": 524933148380237825,
+    "text": "@kellyoxford agreed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "kellyoxford",
+                "id": "22872643"
+            }
+        ]
+    },
+    "source": "Blaq for BlackBerry\u00ae 10",
+    "in_reply_to_user_id": 22872643
+}

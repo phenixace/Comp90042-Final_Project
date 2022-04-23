@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-08-19 20:43:07+00:00",
+    "id": 501831751207907328,
+    "text": "@YourAnonNews @PattyArquette @FergusonUnity Patricia, this is better than using CS which effects bystanders. the police are doing a fine job",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 51,
+                "probability": 0.9578,
+                "type": "Person",
+                "normalized_text": "Patricia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "PattyArquette",
+                "id": "122533830"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "FergusonUnity",
+                "id": "1376334719281991682"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 279390084
+}

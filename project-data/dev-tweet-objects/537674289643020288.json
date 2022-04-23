@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-26 18:28:34+00:00",
+    "id": 537674289643020288,
+    "text": "@thebrinos @astepanovich Whaaaaaaaaaaaat? $500k + airtime to a murderer?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "thebrinos",
+                "id": "36570365"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "astepanovich",
+                "id": "15679924"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 36570365
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-15 16:06:05+00:00",
+    "id": 1239221337463369730,
+    "text": "Ulmer said she's hearing anywhere between one and two years for the timeline to develop a vaccine.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.8222,
+                "type": "Person",
+                "normalized_text": "Ulmer"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1909381968
+}

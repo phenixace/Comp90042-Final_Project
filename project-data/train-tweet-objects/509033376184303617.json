@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-08 17:39:48+00:00",
+    "id": 509033376184303617,
+    "text": "@BuzzFeed  that sound you hear is the breaking of millions of slutty basic white girls' hearts all over the world",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

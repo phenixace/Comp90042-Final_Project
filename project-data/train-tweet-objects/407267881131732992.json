@@ -1,0 +1,27 @@
+{
+    "created_at": "2013-12-01 22:00:04+00:00",
+    "id": 407267881131732992,
+    "text": "Watch: Paul Walker's last trailer for the film Hours. The movie is set to release in two weeks. http://t.co/2oaPl6ySzL",
+    "entities": {
+        "annotations": [
+            {
+                "start": 7,
+                "end": 17,
+                "probability": 0.9294,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 96,
+                "end": 118,
+                "url": "http://t.co/2oaPl6ySzL",
+                "expanded_url": "http://usm.ag/IDaOA8",
+                "display_url": "usm.ag/IDaOA8"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

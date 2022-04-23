@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-24 12:45:59+00:00",
+    "id": 1275772155784048640,
+    "text": "@galinash @lenahallengren This \ud83d\udc46 is evidence to prove that herd immunity is in fact the goal of the Swedish strategy. Sure, it's nicer to call it \"by-product\", but what is the difference between by-product &amp; goal in this case? Without a vaccine, #herdimmunityIsMurder. #bytStrategiNu",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 250,
+                "end": 271,
+                "tag": "herdimmunityIsMurder"
+            },
+            {
+                "start": 273,
+                "end": 287,
+                "tag": "bytStrategiNu"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "galinash",
+                "id": "27265230"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "lenahallengren",
+                "id": "122078343"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 27265230
+}

@@ -1,0 +1,47 @@
+{
+    "created_at": "2020-05-17 07:48:56+00:00",
+    "id": 1261926663702622209,
+    "text": "@RAHULDJ_2011989 @MMRDAOfficial @AUThackeray @MumMetro @mumbai_2 @mygovtrack Sir please regarding. All category",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "RAHULDJ_2011989",
+                "id": "742634191188164608"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "MMRDAOfficial",
+                "id": "1153264870596288512"
+            },
+            {
+                "start": 32,
+                "end": 44,
+                "username": "AUThackeray",
+                "id": "1606048885"
+            },
+            {
+                "start": 45,
+                "end": 54,
+                "username": "MumMetro",
+                "id": "2373688789"
+            },
+            {
+                "start": 55,
+                "end": 64,
+                "username": "mumbai_2",
+                "id": "1183652430438789120"
+            },
+            {
+                "start": 65,
+                "end": 76,
+                "username": "mygovtrack",
+                "id": "1206291818716913664"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 742634191188164608
+}

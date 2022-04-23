@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-19 22:50:02+00:00",
+    "id": 501863691592032256,
+    "text": "@CPism @zaidbenjamin aside from america's meddling in other countries' internal issues,this isnt what islam state or represent!#1",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "CPism",
+                "id": "144150729"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 38,
+                "probability": 0.9682,
+                "type": "Place",
+                "normalized_text": "america"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 144150729
+}

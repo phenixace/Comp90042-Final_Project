@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 20:31:01+00:00",
+    "id": 501828705614708736,
+    "text": "@zaidbenjamin @simone_electra where did you get that from? and how much truth is there in this?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "simone_electra",
+                "id": "34211133"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

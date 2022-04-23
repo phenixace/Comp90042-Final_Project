@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-08-27 06:45:53+00:00",
+    "id": 504520158455816192,
+    "text": "@SportsBizNews Las Vegas doesn't make sense, they've been trying to build a new arena for two decades to no avail, and 2nd Toronto team??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 23,
+                "probability": 0.443,
+                "type": "Organization",
+                "normalized_text": "Las Vegas"
+            },
+            {
+                "start": 119,
+                "end": 129,
+                "probability": 0.7122,
+                "type": "Organization",
+                "normalized_text": "2nd Toronto"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29849267
+}

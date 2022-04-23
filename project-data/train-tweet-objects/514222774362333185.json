@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23 01:20:37+00:00",
+    "id": 514222774362333185,
+    "text": "@cnnbrk what is it with these afghan soldiers and police..u give an inch they take the damn continent..talk about liberty!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 428333
+}

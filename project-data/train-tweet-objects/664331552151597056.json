@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-11 06:39:19+00:00",
+    "id": 664331552151597056,
+    "text": "@FiNeSSeHaVeN @HeyItsBrookii that's the nigga that fought Peter",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 62,
+                "probability": 0.9457,
+                "type": "Person",
+                "normalized_text": "Peter"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

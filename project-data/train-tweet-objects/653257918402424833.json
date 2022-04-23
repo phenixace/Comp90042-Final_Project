@@ -1,0 +1,60 @@
+{
+    "created_at": "2015-10-11 17:16:39+00:00",
+    "id": 653257918402424833,
+    "text": "@CNN @jCar89000 @HillaryClinton @BernieSanders TRUMP HAS IT HANDS DOWN http://t.co/8hTjkXWowd",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 51,
+                "probability": 0.9974,
+                "type": "Person",
+                "normalized_text": "TRUMP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "username": "jCar89000",
+                "id": "3532804813"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 32,
+                "end": 46,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ],
+        "urls": [
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/8hTjkXWowd",
+                "expanded_url": "https://twitter.com/marquitachisho2/status/653257918402424833/photo/1",
+                "display_url": "pic.twitter.com/8hTjkXWowd"
+            },
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/8hTjkXWowd",
+                "expanded_url": "https://twitter.com/marquitachisho2/status/653257918402424833/photo/1",
+                "display_url": "pic.twitter.com/8hTjkXWowd"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-26 02:24:57+00:00",
+    "id": 537431786834231296,
+    "text": "\u201c@thebrinos: Darren Wilson was paid $500,000 for his ABC interview.\u201d Disgusting. Appalling. Fuck you @ABC",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 25,
+                "probability": 0.9987,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            },
+            {
+                "start": 53,
+                "end": 55,
+                "probability": 0.7593,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "thebrinos",
+                "id": "36570365"
+            },
+            {
+                "start": 101,
+                "end": 105,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 36570365
+}

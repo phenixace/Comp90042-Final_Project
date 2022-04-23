@@ -1,0 +1,36 @@
+{
+    "created_at": "2014-11-17 09:46:58+00:00",
+    "id": 534281533335433216,
+    "text": "@BowlerBarrister @Alyse_Edwards @Independent  #NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  ;-(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "BowlerBarrister",
+                "id": "384731898"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "Alyse_Edwards",
+                "id": "64647761"
+            },
+            {
+                "start": 32,
+                "end": 44,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 135,
+                "tag": "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 384731898
+}

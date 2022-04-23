@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-02-06 17:10:30+00:00",
+    "id": 1225466811304439808,
+    "text": "Q: Is it safe to receive a letter or a package from China?\n\nA: Yes, it is safe. People receiving packages from China are not at risk of contracting the new coronavirus. From previous analysis, we know coronaviruses do not survive long on objects, such as letters or packages. #WHO https://t.co/Sl5UXsXn1L",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 276,
+                "end": 280,
+                "tag": "WHO"
+            }
+        ],
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/Sl5UXsXn1L",
+                "expanded_url": "https://twitter.com/PIADesk/status/1225466811304439808/photo/1",
+                "display_url": "pic.twitter.com/Sl5UXsXn1L"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 56,
+                "probability": 0.9592,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 111,
+                "end": 115,
+                "probability": 0.9829,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

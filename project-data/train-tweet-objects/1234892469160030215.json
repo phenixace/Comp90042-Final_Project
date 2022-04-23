@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-03 17:24:42+00:00",
+    "id": 1234892469160030215,
+    "text": "Frequently Asked Questions on CoronaVirus #COVID19 \ud83e\udda0 from @NCDCgov \n\nPlease Share. https://t.co/De2d9TBETZ",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 42,
+                "end": 50,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 58,
+                "end": 66,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/De2d9TBETZ",
+                "expanded_url": "https://twitter.com/FMICNigeria/status/1234892469160030215/video/1",
+                "display_url": "pic.twitter.com/De2d9TBETZ"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 433426660
+}

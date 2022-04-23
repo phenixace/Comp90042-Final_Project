@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 14:34:39+00:00",
+    "id": 524931845335826433,
+    "text": "@CP24 ARE THE FORDS OKAY",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ]
+    },
+    "source": "Tweetbot for Mac",
+    "in_reply_to_user_id": 19636948
+}

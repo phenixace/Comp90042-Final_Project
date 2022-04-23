@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-02-14 03:28:32+00:00",
+    "id": 566438814726381568,
+    "text": "@lizzwinstead That quote is taken directly from an episode of \"All in the Family.\" Archie Bunker says it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "lizzwinstead",
+                "id": "57917441"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 79,
+                "probability": 0.9276,
+                "type": "Other",
+                "normalized_text": "All in the Family"
+            },
+            {
+                "start": 83,
+                "end": 95,
+                "probability": 0.9131,
+                "type": "Person",
+                "normalized_text": "Archie Bunker"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 57917441
+}

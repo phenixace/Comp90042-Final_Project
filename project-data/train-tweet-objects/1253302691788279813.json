@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-23 12:40:21+00:00",
+    "id": 1253302691788279813,
+    "text": "@Auswake @CliveFPalmer Published August 2005.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 22,
+                "username": "CliveFPalmer",
+                "id": "404621700"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 723369766941904896
+}

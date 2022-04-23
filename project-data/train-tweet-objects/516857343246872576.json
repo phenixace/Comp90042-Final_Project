@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-09-30 07:49:28+00:00",
+    "id": 516857343246872576,
+    "text": "@DavidJo52951945 @RupTroop FFS, the KFCs in Mid East give out wet wipes (in my limited experience of Mid East KFCs). UK gone mad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "RupTroop",
+                "id": "714513049"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 51,
+                "probability": 0.889,
+                "type": "Place",
+                "normalized_text": "Mid East"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "probability": 0.9111,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1125937411
+}

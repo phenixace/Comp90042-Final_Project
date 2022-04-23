@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17 16:31:05+00:00",
+    "id": 1239952407553085444,
+    "text": "@AllonMessenberg Probably getting prepared for the worst",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "AllonMessenberg",
+                "id": "927388630372384768"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 927388630372384768
+}

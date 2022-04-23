@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-07-20 00:01:54+00:00",
+    "id": 622919323988938752,
+    "text": "@DrMartyFox @RedDebate \"Be afraid. Be very very afraid.\" Has real meaning, now. Cyber risk &amp; actual despotism, in one package. Class warfare",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DrMartyFox",
+                "id": "26900055"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "RedDebate",
+                "id": "1692555433"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 26900055
+}

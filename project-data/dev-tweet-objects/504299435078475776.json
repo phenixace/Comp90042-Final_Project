@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-26 16:08:49+00:00",
+    "id": 504299435078475776,
+    "text": "@CNN maybe there will be more rioting so the blacks can completely wipe ferguson off the map, burn the city down that will make them smile",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

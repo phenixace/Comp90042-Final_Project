@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-11-25 23:09:55+00:00",
+    "id": 537382705692819456,
+    "text": "@j_swinbanks @deray Bastard will have more now than he ever would've as the PoPo....Damn shame. #BlackLivesMatter",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "j_swinbanks",
+                "id": "132863392"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 113,
+                "tag": "BlackLivesMatter"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 132863392
+}

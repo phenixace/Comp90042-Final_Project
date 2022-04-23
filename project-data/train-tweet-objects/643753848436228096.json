@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-09-15 11:50:52+00:00",
+    "id": 643753848436228096,
+    "text": "@LibertyUSA1776 @drscott_atlanta Stay tuned, soon to be seen in America!\nSomeone advise them that Obama is the King of the infidels.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "drscott_atlanta",
+                "id": "61015562"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 70,
+                "probability": 0.9969,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 98,
+                "end": 102,
+                "probability": 0.9977,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

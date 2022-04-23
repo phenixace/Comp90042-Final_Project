@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:35+00:00",
+    "id": 1234884637609955328,
+    "text": "Is COVID-19 the same as SARS? https://t.co/R6ucocDVAP",
+    "entities": {
+        "urls": [
+            {
+                "start": 30,
+                "end": 53,
+                "url": "https://t.co/R6ucocDVAP",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884637609955328/photo/1",
+                "display_url": "pic.twitter.com/R6ucocDVAP"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

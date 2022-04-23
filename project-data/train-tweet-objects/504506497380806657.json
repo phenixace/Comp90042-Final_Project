@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-27 05:51:36+00:00",
+    "id": 504506497380806657,
+    "text": "@Softykjr @SportsBizNews if this is true then wouls arena be built prior to sea getting a team?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Softykjr",
+                "id": "63653875"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 63653875
+}

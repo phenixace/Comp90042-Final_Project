@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-22 11:31:04+00:00",
+    "id": 1252922866435309568,
+    "text": "@DrZweliMkhize The food parcels that are meant to be for the community we don't see them they just disappeared, who took them?????why don't they are distributed by soldiers not by the councillors.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

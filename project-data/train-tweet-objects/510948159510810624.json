@@ -1,0 +1,61 @@
+{
+    "created_at": "2014-09-14 00:28:28+00:00",
+    "id": 510948159510810624,
+    "text": "\u201c@FoxNews: UK Prime Minister David #Cameron describes apparent beheading of David #Haines as 'an act of pure evil' http://t.co/4XI2izINnq\u201d",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 43,
+                "tag": "Cameron"
+            },
+            {
+                "start": 82,
+                "end": 89,
+                "tag": "Haines"
+            }
+        ],
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/4XI2izINnq",
+                "expanded_url": "http://fxn.ws/1qxIZNb",
+                "display_url": "fxn.ws/1qxIZNb"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 12,
+                "probability": 0.8007,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 29,
+                "end": 42,
+                "probability": 0.5628,
+                "type": "Person",
+                "normalized_text": "David #Cameron"
+            },
+            {
+                "start": 76,
+                "end": 80,
+                "probability": 0.9354,
+                "type": "Person",
+                "normalized_text": "David"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

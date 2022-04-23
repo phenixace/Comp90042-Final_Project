@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-04 20:12:41+00:00",
+    "id": 529727955468312578,
+    "text": "@HuntsmanAbby @NBCNews it's weird looking animals out there, I saw a half kangaroo half gorilla looking animal in  the woods at 2am no lie!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "HuntsmanAbby",
+                "id": "531627880"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 531627880
+}

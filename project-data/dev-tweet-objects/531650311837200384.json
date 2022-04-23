@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-11-10 03:31:26+00:00",
+    "id": 531650311837200384,
+    "text": "@KlausvonRichter @HerVioletEyes @IGN I hope no one buys stock in Pepsi after this.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 65,
+                "end": 69,
+                "probability": 0.5968,
+                "type": "Product",
+                "normalized_text": "Pepsi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "KlausvonRichter",
+                "id": "1164213025"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "HerVioletEyes",
+                "id": "2436010388"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1164213025
+}

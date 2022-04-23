@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-08 17:12:12+00:00",
+    "id": 531132090101039106,
+    "text": "@swanseagas @BuzzFeed Cobblers.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "swanseagas",
+                "id": "19232946"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19232946
+}

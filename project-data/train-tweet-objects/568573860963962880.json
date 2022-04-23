@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-02-20 00:52:26+00:00",
+    "id": 568573860963962880,
+    "text": "@trendinaliaUS @fart @a_man_in_black WAT",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "trendinaliaUS",
+                "id": "1180025371"
+            },
+            {
+                "start": 15,
+                "end": 20,
+                "username": "fart",
+                "id": "14166714"
+            },
+            {
+                "start": 21,
+                "end": 36,
+                "username": "a_man_in_black",
+                "id": "177052107"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1180025371
+}

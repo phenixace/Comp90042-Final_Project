@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 20:09:38+00:00",
+    "id": 525016147448836096,
+    "text": "@WSJ when Canadians of all people start shooting, well, \"c'est la fin du monde, non?\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

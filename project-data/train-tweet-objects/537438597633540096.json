@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-26 02:52:01+00:00",
+    "id": 537438597633540096,
+    "text": "@deray @ksecus . I bet not. Did u listen?  He's telling truth. U just don't\nwant to hear it!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 14,
+                "username": "ksecus",
+                "id": "22114231"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 29417304
+}

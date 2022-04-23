@@ -1,0 +1,55 @@
+{
+    "created_at": "2015-01-02 20:48:22+00:00",
+    "id": 551117822257278976,
+    "text": "RT @Zoogirl16 @Variety Donna Douglas, Elly May Clampett on \u2018Beverly Hillbillies,\u2019 Dies at 81 http://t.co/j8ryWFoNpD / Sad news for us oldies",
+    "entities": {
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/j8ryWFoNpD",
+                "expanded_url": "http://on.variety.com/177Ujbg",
+                "display_url": "on.variety.com/177Ujbg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 13,
+                "username": "Zoogirl16",
+                "id": "62676807"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "Variety",
+                "id": "17525171"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 35,
+                "probability": 0.9968,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            },
+            {
+                "start": 38,
+                "end": 54,
+                "probability": 0.6086,
+                "type": "Person",
+                "normalized_text": "Elly May Clampett"
+            },
+            {
+                "start": 60,
+                "end": 78,
+                "probability": 0.8578,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            }
+        ]
+    },
+    "source": "Plume\u00a0for\u00a0Android",
+    "in_reply_to_user_id": 17525171
+}

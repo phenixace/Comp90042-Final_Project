@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-13 04:39:57+00:00",
+    "id": 521520692853211137,
+    "text": "@AmyMek  Stewart can just bite me. I usually dont get angry and lash out, but I served for 22 years so she could have a free life .smh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "probability": 0.9905,
+                "type": "Person",
+                "normalized_text": "Stewart"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 954124423
+}

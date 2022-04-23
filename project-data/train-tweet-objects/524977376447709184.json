@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-22 17:35:34+00:00",
+    "id": 524977376447709184,
+    "text": "Take a bow, Greenwald. RT @CNN The Canadian soldier shot at the War Memorial has died, officials reported. http://t.co/xwqaenqQur",
+    "entities": {
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/xwqaenqQur",
+                "expanded_url": "http://cnn.it/1tcf9PE",
+                "display_url": "cnn.it/1tcf9PE"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 26,
+                "end": 30,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 20,
+                "probability": 0.8253,
+                "type": "Person",
+                "normalized_text": "Greenwald"
+            },
+            {
+                "start": 64,
+                "end": 75,
+                "probability": 0.6579,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

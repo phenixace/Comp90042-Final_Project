@@ -1,0 +1,41 @@
+{
+    "created_at": "2013-12-07 10:00:56+00:00",
+    "id": 409261232453996544,
+    "text": "\u201c@SamSweid: RT @WildestFacts: A photo of black nurses saving the life of a KKK member. http://t.co/Q0tsTYHifR\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/Q0tsTYHifR",
+                "expanded_url": "https://twitter.com/WildestFacts/status/326137285450018817/photo/1",
+                "display_url": "pic.twitter.com/Q0tsTYHifR"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 75,
+                "end": 77,
+                "probability": 0.8451,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "SamSweid",
+                "id": "72246450"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "WildestFacts",
+                "id": "287168172"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 72246450
+}

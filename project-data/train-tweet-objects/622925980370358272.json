@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-07-20 00:28:21+00:00",
+    "id": 622925980370358272,
+    "text": "@TheBigJamesG @DrMartyFox @LindaSuhler and then they will blame conservatives anyway.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheBigJamesG",
+                "id": "272435837"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "DrMartyFox",
+                "id": "26900055"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "username": "LindaSuhler",
+                "id": "347627434"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 272435837
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-08 17:34:03+00:00",
+    "id": 509031927936868352,
+    "text": "@BuzzFeed But one can dream... @GG2DWriters",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 5695632
+}

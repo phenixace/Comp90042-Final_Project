@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-09-14 05:11:51+00:00",
+    "id": 643291045002809349,
+    "text": "@LibertyUSA1776 @_CFJ_ Kill 'em all, let Allah sort it out.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 45,
+                "probability": 0.851,
+                "type": "Other",
+                "normalized_text": "Allah"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "username": "_CFJ_",
+                "id": "1049681827"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

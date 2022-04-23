@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-19 20:50:01+00:00",
+    "id": 501833485779079168,
+    "text": "@zaidbenjamin I am sure Islam is the most barbaric and satanic religion.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 28,
+                "probability": 0.4566,
+                "type": "Person",
+                "normalized_text": "Islam"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 48956231
+}

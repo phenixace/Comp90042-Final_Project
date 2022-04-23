@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-02-06 06:12:13+00:00",
+    "id": 1225301146614431744,
+    "text": "World Health Organization (WHO)\n\u00b7 February 2 \u00b7 \n \nQ: Is it safe to receive a letter or a package from China?\nA: Yes, it is safe. People receiving packages from China are not at risk of contracting 2019-nCoV...\nhttps://t.co/E6mRoG1UlS https://t.co/t73dWgBEJJ",
+    "entities": {
+        "annotations": [
+            {
+                "start": 102,
+                "end": 106,
+                "probability": 0.9815,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 160,
+                "end": 164,
+                "probability": 0.9876,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 210,
+                "end": 233,
+                "url": "https://t.co/E6mRoG1UlS",
+                "expanded_url": "https://www.facebook.com/WHO/posts/2890957404282957",
+                "display_url": "facebook.com/WHO/posts/2890\u2026"
+            },
+            {
+                "start": 234,
+                "end": 257,
+                "url": "https://t.co/t73dWgBEJJ",
+                "expanded_url": "https://twitter.com/XraypadOfficial/status/1225301146614431744/photo/1",
+                "display_url": "pic.twitter.com/t73dWgBEJJ"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

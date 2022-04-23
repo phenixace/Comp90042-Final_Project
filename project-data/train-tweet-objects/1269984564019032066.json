@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-08 13:28:09+00:00",
+    "id": 1269984564019032066,
+    "text": "@AxisBankSupport Shared,now till when i can expect result??i have call recording also for this complain number and your agent saying we don't have SLA",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "AxisBankSupport",
+                "id": "886557108"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 886557108
+}

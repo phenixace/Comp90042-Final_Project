@@ -1,0 +1,51 @@
+{
+    "created_at": "2020-03-23 11:05:32+00:00",
+    "id": 1242044806542422016,
+    "text": "@Ian_Fraser @stevemiddi1 @ManvBrain at the same time, people should learn about vitamin C. Shanghai Gov officially recommends vitamin C for Covid-19 ~ https://t.co/hDXQkN9hNd",
+    "entities": {
+        "annotations": [
+            {
+                "start": 80,
+                "end": 102,
+                "probability": 0.2076,
+                "type": "Organization",
+                "normalized_text": "vitamin C. Shanghai Gov"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Ian_Fraser",
+                "id": "93618872"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "stevemiddi1",
+                "id": "2817728977"
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "username": "ManvBrain",
+                "id": "96386796"
+            }
+        ],
+        "urls": [
+            {
+                "start": 151,
+                "end": 174,
+                "url": "https://t.co/hDXQkN9hNd",
+                "expanded_url": "http://www.orthomolecular.org/resources/omns/v16n16.shtml",
+                "display_url": "orthomolecular.org/resources/omns\u2026",
+                "status": 200,
+                "title": "Shanghai Government Officially Recommends Vitamin C for COVID-19",
+                "description": "FOR IMMEDIATE RELEASE Orthomolecular Medicine News Service, Mar 3, 2020 (OMNS Mar 3, 2020) The government of Shanghai, China has announced its official recommendation that COVID-19 should be treated with high amounts of intravenous vitamin C. (1) Dosage recommendations vary with severity of illness, from 50 to 200 milligrams per kilogram body weight per day to as much as 200 mg/kg/day. These dosages are approximately 4,000 to 16,000 mg for an adult, administered by IV. This specific method of administratio",
+                "unwound_url": "http://www.orthomolecular.org/resources/omns/v16n16.shtml"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 93618872
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 20:53:20+00:00",
+    "id": 525027144611950592,
+    "text": "@CNN @JillHennessy so sad. Thoughts and prayers with the family.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "username": "JillHennessy",
+                "id": "32767923"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 759251
+}

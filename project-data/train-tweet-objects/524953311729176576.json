@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 15:59:57+00:00",
+    "id": 524953311729176576,
+    "text": "@FoxNews Prayers for safety.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

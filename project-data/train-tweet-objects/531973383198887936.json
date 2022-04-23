@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-11-11 00:55:12+00:00",
+    "id": 531973383198887936,
+    "text": "The manager at a Chick-fil-A made a list of words his employees are no longer allowed to say. http://t.co/GY6QmuJlJ4 http://t.co/f63Dldw2l7",
+    "entities": {
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/GY6QmuJlJ4",
+                "expanded_url": "http://some.ly/x0k7NdN",
+                "display_url": "some.ly/x0k7NdN"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/f63Dldw2l7",
+                "expanded_url": "https://twitter.com/someecards/status/531973383198887936/photo/1",
+                "display_url": "pic.twitter.com/f63Dldw2l7"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

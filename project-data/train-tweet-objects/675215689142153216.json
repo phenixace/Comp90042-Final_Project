@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-11 07:28:59+00:00",
+    "id": 675215689142153216,
+    "text": "@RT_com what a stupid article doesn't mention  when and where was this \"shipment\" stopped..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 64643056
+}

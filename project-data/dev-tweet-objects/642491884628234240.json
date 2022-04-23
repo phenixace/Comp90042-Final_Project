@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-09-12 00:16:16+00:00",
+    "id": 642491884628234240,
+    "text": "@DubinPeter @ChrisCoon4 @Lrihendry Maybe Trump could deport the 4 million Ragheads along with the 11 million illegals! :)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 45,
+                "probability": 0.999,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DubinPeter",
+                "id": "2861439818"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "ChrisCoon4",
+                "id": "410076442"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2861439818
+}

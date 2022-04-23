@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-26 03:22:03+00:00",
+    "id": 504106473467944960,
+    "text": "This audio tape played on #CNN seems to corroborate witness accounts that #DarrenWilson kept shooting after #MichaelBrown tried to surrender",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 26,
+                "end": 30,
+                "tag": "CNN"
+            },
+            {
+                "start": 74,
+                "end": 87,
+                "tag": "DarrenWilson"
+            },
+            {
+                "start": 108,
+                "end": 121,
+                "tag": "MichaelBrown"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

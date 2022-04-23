@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 23:33:52+00:00",
+    "id": 613127795539996672,
+    "text": "@ComplexPop @VerifiedNiceGuy Rewarded and Burger King in the same sentence, wow.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ComplexPop",
+                "id": "256596567"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "VerifiedNiceGuy",
+                "id": "114318643"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 256596567
+}

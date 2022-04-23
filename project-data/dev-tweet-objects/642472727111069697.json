@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-11 23:00:09+00:00",
+    "id": 642472727111069697,
+    "text": "@Lrihendry @alamairs Coming soon, to a school near you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "Alamairs",
+                "id": "848136519269220352"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 129235890
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-28 17:57:07+00:00",
+    "id": 560496811241385984,
+    "text": "@act4america @BreitbartNews Uh huh. So tell me again how muslims want to integrate into American Society?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 103,
+                "probability": 0.5215,
+                "type": "Organization",
+                "normalized_text": "American Society"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

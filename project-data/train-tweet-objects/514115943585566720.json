@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-22 18:16:07+00:00",
+    "id": 514115943585566720,
+    "text": "@DaveSappelt @ComplexMag lmao\ud83d\ude02\ud83d\ude02\ud83d\ude48\ud83d\ude4a",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DaveSappelt",
+                "id": "547097112"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 547097112
+}

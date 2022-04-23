@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-06-24 01:02:42+00:00",
+    "id": 1275595167936868352,
+    "text": "What is #herdimmunity threshold for #COVID19?\nA topic of much discussion due to large uncertainty &amp; huge consequences for long term impact. \n\nNew paper illustrates 1 key aspect that can reduce it substantially (spoiler: we still don't know value). Thread.\nhttps://t.co/Sgrg1yrlOq",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 8,
+                "end": 21,
+                "tag": "herdimmunity"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/Sgrg1yrlOq",
+                "expanded_url": "https://science.sciencemag.org/content/sci/early/2020/06/22/science.abc6810.full.pdf",
+                "display_url": "science.sciencemag.org/content/sci/ea\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

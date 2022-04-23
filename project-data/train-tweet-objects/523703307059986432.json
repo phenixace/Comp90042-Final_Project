@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-19 05:12:53+00:00",
+    "id": 523703307059986432,
+    "text": "\u201c@pourmecoffee: Hello everyone. \"Puppy-Sized Spider Surprises Scientist in Rainforest\" http://t.co/Z4FXSdznb7 http://t.co/fTIH5wYdKG\u201d\nAhhhh!",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/Z4FXSdznb7",
+                "expanded_url": "http://livescience.com/48340-goliath-birdeater-surprises-scientist.html",
+                "display_url": "livescience.com/48340-goliath-\u2026"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/fTIH5wYdKG",
+                "expanded_url": "https://twitter.com/pourmecoffee/status/523581212175392768/photo/1",
+                "display_url": "pic.twitter.com/fTIH5wYdKG"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 16906137
+}

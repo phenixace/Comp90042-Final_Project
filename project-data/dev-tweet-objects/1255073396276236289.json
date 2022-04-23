@@ -1,0 +1,48 @@
+{
+    "created_at": "2020-04-28 09:56:30+00:00",
+    "id": 1255073396276236289,
+    "text": "Em bi \u00e7alakiya zind\u00ee ya \u015fe\u015fem\u00een li p\u00ea\u015f we ne.\n\nM\u00eavan\u00ea me y\u00ea v\u00ea \u00e7alak\u00eeya zind\u00ee Dr. Eser \u00c7et\u00een e(@dresercetin). Em \u00ea ev tel li ser vayrosa koronay\u00ea biaxivin.\n#chalakonline\n#JiMalDernekeve\n#chalakevents \n#Covid_19 https://t.co/ShEeM8OExn",
+    "entities": {
+        "urls": [
+            {
+                "start": 211,
+                "end": 234,
+                "url": "https://t.co/ShEeM8OExn",
+                "expanded_url": "https://twitter.com/ChalakEvents/status/1255073396276236289/photo/1",
+                "display_url": "pic.twitter.com/ShEeM8OExn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 95,
+                "end": 107,
+                "username": "dresercetin",
+                "id": "1247241456340910081"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 156,
+                "end": 169,
+                "tag": "chalakonline"
+            },
+            {
+                "start": 170,
+                "end": 185,
+                "tag": "JiMalDernekeve"
+            },
+            {
+                "start": 186,
+                "end": 199,
+                "tag": "chalakevents"
+            },
+            {
+                "start": 201,
+                "end": 210,
+                "tag": "Covid_19"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

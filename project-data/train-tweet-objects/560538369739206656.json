@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-28 20:42:16+00:00",
+    "id": 560538369739206656,
+    "text": "@act4america @AmyMek @BreitbartNews Selling tickets to the first stoning! Don't worry, those tickets were prepared halal.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

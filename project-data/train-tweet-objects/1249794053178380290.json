@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-13 20:18:16+00:00",
+    "id": 1249794053178380290,
+    "text": "@Niall_Boylan 5G has been proven as being a health risk to people, especially those with weak immune systems.. it will also remove your privacy and freedom, do your research, that's what you're good at Niall. Don't fall into the narrative trap. Help spread the truth",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Niall_Boylan",
+                "id": "298225776"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 202,
+                "end": 206,
+                "probability": 0.8905,
+                "type": "Person",
+                "normalized_text": "Niall"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 298225776
+}

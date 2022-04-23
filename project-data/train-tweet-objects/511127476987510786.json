@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-14 12:21:01+00:00",
+    "id": 511127476987510786,
+    "text": "@IsraelHatzolah @JewishClips \u05de\u05d0\u05d5\u05d3 \u05d9\u05e9\u05df",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 322572436
+}

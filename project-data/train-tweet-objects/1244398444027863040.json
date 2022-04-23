@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 22:58:03+00:00",
+    "id": 1244398444027863040,
+    "text": "@crabbyjoony Thank you. \ud83d\ude42",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "crabbyjoony",
+                "id": "1244080965842014209"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1244080965842014209
+}

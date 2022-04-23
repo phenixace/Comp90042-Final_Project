@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-10 15:18:26+00:00",
+    "id": 1248631430068002816,
+    "text": "@MayorBeer @JohnnyBarone1 H1n1 killed 4,000 in the U.S. which is why they weren't overwhelmed. The rate of serious illness with H1N1 WAS no greater than the flu, unlike coronavirus.\nThat and the MASSIVE deaths in areas with weaker health systems should be a WARNING of what COVID-19 could do uncontrolled.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 54,
+                "probability": 0.9666,
+                "type": "Place",
+                "normalized_text": "U.S."
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 25,
+                "username": "JohnnyBarone1",
+                "id": "1168281510933348352"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1247332883062292480
+}

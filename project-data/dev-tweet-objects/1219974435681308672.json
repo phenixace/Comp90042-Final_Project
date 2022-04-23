@@ -1,0 +1,80 @@
+{
+    "created_at": "2020-01-22 13:25:46+00:00",
+    "id": 1219974435681308672,
+    "text": "@DrTedros @WHOWPRO @WHOSEARO @pahowho @WHOEMRO @WHO_Europe @WHOAFRO The Emergency Committee on the new #coronavirus (2019-nCoV) meets today to ascertain whether the outbreak constitutes a public health emergency of international concern, and what recommendations should be made to manage it https://t.co/Qtsxqkr7xi https://t.co/aC8NYUkS9h",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 103,
+                "end": 115,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "DrTedros",
+                "id": "189868631"
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 47,
+                "end": 58,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 59,
+                "end": 67,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "urls": [
+            {
+                "start": 291,
+                "end": 314,
+                "url": "https://t.co/Qtsxqkr7xi",
+                "expanded_url": "http://bit.ly/2RjJugm",
+                "display_url": "bit.ly/2RjJugm",
+                "status": 200,
+                "title": "COVID-19",
+                "description": "When autocomplete results are available use up and down arrows to review and enter to select. The IHR Emergency Committee for CO VID-19 held its first meeting on 22 and 23 January 2020. On 30 January 2020, following its second meeting, the Director-General declared that the outbreak constituted a Public Health Emergency of International Concern, accepted the Committee\u2019s advice and issued it as IHR Temporary Recommendations. The Committee continues to meet on a regular basis. President AP-HP International,",
+                "unwound_url": "https://www.who.int/groups/covid-19-ihr-emergency-committee"
+            },
+            {
+                "start": 315,
+                "end": 338,
+                "url": "https://t.co/aC8NYUkS9h",
+                "expanded_url": "https://twitter.com/WHO/status/1219974435681308672/photo/1",
+                "display_url": "pic.twitter.com/aC8NYUkS9h"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

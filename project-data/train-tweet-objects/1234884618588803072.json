@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:30+00:00",
+    "id": 1234884618588803072,
+    "text": "Can CoVID-19 be caught from a person who has no symptoms? https://t.co/Ie0qSKMCrU",
+    "entities": {
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/Ie0qSKMCrU",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884618588803072/photo/1",
+                "display_url": "pic.twitter.com/Ie0qSKMCrU"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

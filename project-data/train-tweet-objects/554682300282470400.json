@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-12 16:52:20+00:00",
+    "id": 554682300282470400,
+    "text": "@genesiaalves @sharsanj What? Why???",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "genesiaalves",
+                "id": "127121446"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "sharsanj",
+                "id": "38223437"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 127121446
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-13 00:06:09+00:00",
+    "id": 1238254986649313281,
+    "text": "@SirZizaraa @PrisonPlanet I\u2019m tired of people comparing outbreaks that are done to an outbreak that is just starting. Yes it\u2019s luckily not the Black Plague but this is serious",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 25,
+                "username": "PrisonPlanet",
+                "id": "18643437"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 143,
+                "end": 154,
+                "probability": 0.7013,
+                "type": "Other",
+                "normalized_text": "Black Plague"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1193270159613603848
+}

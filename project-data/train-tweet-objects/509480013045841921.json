@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-09-09 23:14:35+00:00",
+    "id": 509480013045841921,
+    "text": "@GIBiz This is a major and big news actually !!! Not sure if are good or bad news though :| #NephewCrazyForManecraft",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 92,
+                "end": 116,
+                "tag": "NephewCrazyForManecraft"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "GIBiz",
+                "id": "46146200"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 46146200
+}

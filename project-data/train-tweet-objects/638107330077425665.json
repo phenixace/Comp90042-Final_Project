@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 21:53:37+00:00",
+    "id": 638107330077425665,
+    "text": "@TheValleyReport @GeorgeFaraway amores que matan dice la canci\u00f3n",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "GeorgeFaraway",
+                "id": "104948619"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 3369234799
+}

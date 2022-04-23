@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-08 19:08:18+00:00",
+    "id": 531161307744321536,
+    "text": "@BuzzFeed @PointlessPol Ewwwww",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "PointlessPol",
+                "id": "805669518"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 5695632
+}

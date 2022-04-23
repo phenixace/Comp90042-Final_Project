@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-13 11:38:17+00:00",
+    "id": 554965654437384192,
+    "text": "@Telegraph @HenryMakow Yeh sure he did...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "HenryMakow",
+                "id": "477864155"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16343974
+}

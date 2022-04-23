@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-30 04:22:42+00:00",
+    "id": 516805311240601600,
+    "text": "@AmyMek @kfc love this thank you well said",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 954124423
+}

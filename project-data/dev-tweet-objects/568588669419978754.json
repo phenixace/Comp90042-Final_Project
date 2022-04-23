@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-02-20 01:51:17+00:00",
+    "id": 568588669419978754,
+    "text": "@Kinnis97_RBX @PlanarStuff @UberFactsEbooks LOL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Kinnis97_RBX",
+                "id": "148642175"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "username": "UberFactsEbooks",
+                "id": "2757125954"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2536195664
+}

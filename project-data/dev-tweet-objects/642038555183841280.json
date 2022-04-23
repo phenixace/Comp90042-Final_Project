@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-09-10 18:14:54+00:00",
+    "id": 642038555183841280,
+    "text": "@CNNPolitics @CNNSitRoom @BernieSanders @realDonaldTrump \nGO @SenSanders !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "CNNSitRoom",
+                "id": "34310801"
+            },
+            {
+                "start": 25,
+                "end": 39,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 40,
+                "end": 56,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 61,
+                "end": 72,
+                "username": "SenSanders",
+                "id": "29442313"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13850422
+}

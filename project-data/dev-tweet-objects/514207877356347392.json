@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-23 00:21:26+00:00",
+    "id": 514207877356347392,
+    "text": "@ChristieLynn777 @Cosmopolitan @hallieswank hahah this was pure gold",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ChristieLynn777",
+                "id": "2725539888"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "username": "hallieswank",
+                "id": "515187321"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2725539888
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-12 19:48:00+00:00",
+    "id": 554726507072225280,
+    "text": "@RT_com he is just drunk on his own power.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 64643056
+}

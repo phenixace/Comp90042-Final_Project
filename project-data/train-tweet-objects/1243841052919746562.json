@@ -1,0 +1,42 @@
+{
+    "created_at": "2020-03-28 10:03:11+00:00",
+    "id": 1243841052919746562,
+    "text": "@tomgrundy @jasonyng Tom, I live in Hong Kong and hence I wear mask, but this article is misrepresenting the facts. The most important one:\nBy far the most experts including WHO don't advise mask not because of shortage, but because the wrong way most people use them.\nhttps://t.co/yOQFdTFvcw",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 23,
+                "probability": 0.884,
+                "type": "Person",
+                "normalized_text": "Tom"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "probability": 0.9739,
+                "type": "Place",
+                "normalized_text": "Hong Kong"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "tomgrundy",
+                "id": "74418756"
+            }
+        ],
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/yOQFdTFvcw",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 74418756
+}

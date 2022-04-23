@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-01 18:03:13+00:00",
+    "id": 407208279086206976,
+    "text": "@ELLEmagazine tragic my thoughts to his family",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ELLEmagazine",
+                "id": "20177423"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20177423
+}

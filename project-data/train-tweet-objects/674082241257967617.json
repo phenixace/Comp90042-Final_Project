@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-08 04:25:04+00:00",
+    "id": 674082241257967617,
+    "text": "@13spencer But Hitler is dead dipshit",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 20,
+                "probability": 0.9902,
+                "type": "Person",
+                "normalized_text": "Hitler"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 292816822
+}

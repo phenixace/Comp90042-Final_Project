@@ -1,0 +1,46 @@
+{
+    "created_at": "2014-08-27 02:00:35+00:00",
+    "id": 504448356584677377,
+    "text": "NHL expansion \u2013 four teams added by 2017, Quebec City, Toronto, Seattle, and Las Vegas $1.4b in expansion fees",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 2,
+                "probability": 0.9861,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "probability": 0.6711,
+                "type": "Organization",
+                "normalized_text": "Quebec City"
+            },
+            {
+                "start": 55,
+                "end": 61,
+                "probability": 0.7842,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            },
+            {
+                "start": 64,
+                "end": 70,
+                "probability": 0.698,
+                "type": "Place",
+                "normalized_text": "Seattle"
+            },
+            {
+                "start": 77,
+                "end": 85,
+                "probability": 0.6692,
+                "type": "Organization",
+                "normalized_text": "Las Vegas"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

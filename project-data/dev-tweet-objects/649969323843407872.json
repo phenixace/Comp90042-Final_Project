@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 15:28:57+00:00",
+    "id": 649969323843407872,
+    "text": "@CNN it's definitely support. But the Pope is also someone who has done nothing to stop clergy abuse. So who really cares.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 41,
+                "probability": 0.5722,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 759251
+}

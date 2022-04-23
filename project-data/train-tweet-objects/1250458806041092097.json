@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-15 16:19:46+00:00",
+    "id": 1250458806041092097,
+    "text": "@2Twitte39301335 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 and trump did? \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 34,
+                "probability": 0.9995,
+                "type": "Person",
+                "normalized_text": "trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "2Twitte39301335",
+                "id": "713555626358661122"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 713555626358661122
+}

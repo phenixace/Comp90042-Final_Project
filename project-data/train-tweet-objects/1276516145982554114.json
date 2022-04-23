@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-06-26 14:02:20+00:00",
+    "id": 1276516145982554114,
+    "text": "@gummibear737 @ReubenR80027912 it grows exponentially. That's what's happening in AZ right now before your eyes.\n\nIt would be GREAT if herd if immunity was real and easy to achieve. That takes ~70% of the population assuming we're immune after infection (unproven, it's not true for other coronaviruses). But..",
+    "entities": {
+        "annotations": [
+            {
+                "start": 82,
+                "end": 83,
+                "probability": 0.9154,
+                "type": "Place",
+                "normalized_text": "AZ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "gummibear737",
+                "id": "36638077"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "ReubenR80027912",
+                "id": "1093221897125482497"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 36638077
+}

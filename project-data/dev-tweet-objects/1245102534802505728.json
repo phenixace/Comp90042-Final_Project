@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-03-31 21:35:51+00:00",
+    "id": 1245102534802505728,
+    "text": "@maryjanecrisp @DrDenaGrayson @fmbutt I thought that article was pretty clear, but here's another one just in case.  I'll also clearly say \n\"There is NO EVIDENCE that mosquitos can spread the coronavirus\", \nin the same light that there's no evidence my penis can shoot laser beams.\nhttps://t.co/DFxHEye6qE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "maryjanecrisp",
+                "id": "2851873295"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "DrDenaGrayson",
+                "id": "1651522832"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "username": "fmbutt",
+                "id": "15080332"
+            }
+        ],
+        "urls": [
+            {
+                "start": 282,
+                "end": 305,
+                "url": "https://t.co/DFxHEye6qE",
+                "expanded_url": "https://www.entsoc.org/mosquitoes-and-ticks-do-not-transmit-coronavirus",
+                "display_url": "entsoc.org/mosquitoes-and\u2026",
+                "status": 200,
+                "unwound_url": "https://www.entsoc.org/mosquitoes-and-ticks-do-not-transmit-coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 2851873295
+}

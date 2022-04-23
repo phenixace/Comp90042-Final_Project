@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-08-03 23:55:31+00:00",
+    "id": 628353534958944256,
+    "text": "@macariomx sabes a cuanto venden una flor de calabaza en Whole Goods Mac? 2 fula la pieza",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 71,
+                "probability": 0.4269,
+                "type": "Product",
+                "normalized_text": "Whole Goods Mac"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "macariomx",
+                "id": "23322761"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 23322761
+}

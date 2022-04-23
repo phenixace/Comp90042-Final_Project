@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-09-10 14:46:42+00:00",
+    "id": 641986159132975104,
+    "text": "@Stop_Govt_Waste @LibertyBell1000 Islam says its wrong to Force Belief?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.6265,
+                "type": "Person",
+                "normalized_text": "Islam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Stop_Govt_Waste",
+                "id": "104719487"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "LibertyBell1000",
+                "id": "2449650492"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 104719487
+}

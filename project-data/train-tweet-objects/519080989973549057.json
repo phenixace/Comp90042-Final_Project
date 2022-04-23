@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-06 11:05:26+00:00",
+    "id": 519080989973549057,
+    "text": "@WSJ  \n\nhttp://t.co/vfXucff1vV",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ],
+        "urls": [
+            {
+                "start": 8,
+                "end": 30,
+                "url": "http://t.co/vfXucff1vV",
+                "expanded_url": "http://JobandPay.com/?id=96004",
+                "display_url": "JobandPay.com/?id=96004"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 3108351
+}

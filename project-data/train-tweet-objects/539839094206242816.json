@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-02 17:50:44+00:00",
+    "id": 539839094206242816,
+    "text": "@WesleyLowery no indeed. Former gf said they were together at the Visual Image salon on W Flor. Heard news together that day.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 88,
+                "end": 93,
+                "probability": 0.4334,
+                "type": "Organization",
+                "normalized_text": "W Flor"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14849562
+}

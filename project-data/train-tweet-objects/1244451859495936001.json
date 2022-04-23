@@ -1,0 +1,37 @@
+{
+    "created_at": "2020-03-30 02:30:18+00:00",
+    "id": 1244451859495936001,
+    "text": "@MetroZoneIndia Corona Update in India!\n\nTotal Confirmed: 1139\nActive Cases: 1009\nTotal Recovered: 103\nTotal Deaths: 27\nUpdated at: 30/03/2020 07:22:24\n\nGet it on WhatsApp: https://t.co/SVSfNKNx5C",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MetroZoneIndia",
+                "id": "935457205481914368"
+            }
+        ],
+        "urls": [
+            {
+                "start": 173,
+                "end": 196,
+                "url": "https://t.co/SVSfNKNx5C",
+                "expanded_url": "http://bit.ly/corona-on-wa",
+                "display_url": "bit.ly/corona-on-wa",
+                "status": 500,
+                "unwound_url": "https://wa.me/919039356788?text=Hi"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 37,
+                "probability": 0.9975,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ]
+    },
+    "source": "erased17385931",
+    "in_reply_to_user_id": 935457205481914368
+}

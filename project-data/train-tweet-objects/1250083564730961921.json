@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-14 15:28:41+00:00",
+    "id": 1250083564730961921,
+    "text": "@JoelViseeon @TIME Lol entre 2 bilans tu m\u2019as encore \u00e9clat\u00e9",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JoelViseeon",
+                "id": "1128556762288857088"
+            },
+            {
+                "start": 13,
+                "end": 18,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1128556762288857088
+}

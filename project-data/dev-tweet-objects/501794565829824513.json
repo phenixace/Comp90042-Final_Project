@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-19 18:15:22+00:00",
+    "id": 501794565829824513,
+    "text": "@_esaliba Thanks 4 the good news.  Hopefully 156, another dbl, get arrested tonight. Sure, everyone want 2 have fun, but we have 2 live here",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "_esaliba",
+                "id": "156743986"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 156743986
+}

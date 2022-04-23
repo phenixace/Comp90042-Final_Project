@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-22 22:44:28+00:00",
+    "id": 613115365048975360,
+    "text": "@AP Now check the Democratic Party donations for the same...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 33,
+                "probability": 0.9611,
+                "type": "Organization",
+                "normalized_text": "Democratic Party"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 51241574
+}

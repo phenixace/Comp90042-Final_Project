@@ -1,0 +1,47 @@
+{
+    "created_at": "2014-09-08 23:34:59+00:00",
+    "id": 509122757934985216,
+    "text": "\u201c@eonline: Sorry, everyone\u2014Durex is NOT making Pumpkin Spice condoms this fall: http://t.co/p6shLanVyD\u201d @MissySims1010 @Miketakon  :(",
+    "entities": {
+        "urls": [
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/p6shLanVyD",
+                "expanded_url": "https://twitter.com/eonline/status/509114008587100160/photo/1",
+                "display_url": "pic.twitter.com/p6shLanVyD"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.6946,
+                "type": "Product",
+                "normalized_text": "Pumpkin Spice"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "eonline",
+                "id": "725665248280236032"
+            },
+            {
+                "start": 104,
+                "end": 118,
+                "username": "MissySims1010",
+                "id": "574723574"
+            },
+            {
+                "start": 119,
+                "end": 129,
+                "username": "MikeTakon",
+                "id": "1228371238906736640"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2883841
+}

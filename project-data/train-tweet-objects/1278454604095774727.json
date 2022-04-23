@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-07-01 22:25:04+00:00",
+    "id": 1278454604095774727,
+    "text": "@due_latte @newportbeachgov @MayorONeill Actually the  Mayo Clinic already has,  70% is a huge number to reach and even at 1% death  rate that is 30,000 deaths just  in Orange County, I\u2019m  not satisfied with that reality,  are you? https://t.co/bVj7M2SVxA",
+    "entities": {
+        "annotations": [
+            {
+                "start": 169,
+                "end": 181,
+                "probability": 0.9425,
+                "type": "Place",
+                "normalized_text": "Orange County"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 27,
+                "username": "newportbeachgov",
+                "id": "95766098"
+            }
+        ],
+        "urls": [
+            {
+                "start": 232,
+                "end": 255,
+                "url": "https://t.co/bVj7M2SVxA",
+                "expanded_url": "https://twitter.com/sher_bear_nb/status/1278454604095774727/photo/1",
+                "display_url": "pic.twitter.com/bVj7M2SVxA"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1248319984889020416
+}

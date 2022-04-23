@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-30 04:38:16+00:00",
+    "id": 1244484061520855047,
+    "text": "@hshaban @loisbeckett Is COVID-19 airborne? I heard Fauci say there's a mild \"aerosol effect,\" limited to where droplets from a cough/sneeze linger in the air, moving a minor amount before dissipating. If it *is* airborne, it's concerning, but I wonder if this is more singing/yelling in a closed room.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "hshaban",
+                "id": "391560579"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "loisbeckett",
+                "id": "21134925"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 391560579
+}

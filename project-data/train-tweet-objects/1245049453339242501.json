@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 18:04:56+00:00",
+    "id": 1245049453339242501,
+    "text": "Toddler, 4 more injured at coronavirus party shooting in Philadelphia",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 68,
+                "probability": 0.9944,
+                "type": "Place",
+                "normalized_text": "Philadelphia"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

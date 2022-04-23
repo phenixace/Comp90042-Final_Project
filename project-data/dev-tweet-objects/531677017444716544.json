@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 05:17:33+00:00",
+    "id": 531677017444716544,
+    "text": "@boogie2988 I won't mind OVERWATCHing this\u2026",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 42345999
+}

@@ -1,0 +1,49 @@
+{
+    "created_at": "2020-03-30 19:17:00+00:00",
+    "id": 1244705201887555584,
+    "text": "January 29: WHO Retweet of the United Nations: \u201cThe new #coronavirus (2019-nCoV), originating in China, has reached 10 other countries and so far more than 2,000 cases have been confirmed.  Follow these tips from @opsoms for international travelers: GRAPHIC\u201d https://t.co/XGXy7CPYn8",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 44,
+                "probability": 0.4264,
+                "type": "Place",
+                "normalized_text": "United Nations"
+            },
+            {
+                "start": 97,
+                "end": 101,
+                "probability": 0.9957,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 259,
+                "end": 282,
+                "url": "https://t.co/XGXy7CPYn8",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705201887555584/photo/1",
+                "display_url": "pic.twitter.com/XGXy7CPYn8"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 68,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 213,
+                "end": 220,
+                "username": "opsoms",
+                "id": "22276965"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

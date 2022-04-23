@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-12 16:54:12+00:00",
+    "id": 543448747578245120,
+    "text": "@nytimes hope so! I love my mom and dad! Solomon the Brussells Griffon",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 69,
+                "probability": 0.2357,
+                "type": "Person",
+                "normalized_text": "Solomon the Brussells Griffon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 807095
+}

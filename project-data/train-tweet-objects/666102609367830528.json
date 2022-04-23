@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-11-16 03:56:52+00:00",
+    "id": 666102609367830528,
+    "text": "@DRUDGE_REPORT @CherylRenetteBa Well thank heaven! Another letter written to Obama. I'm sure that will put a stop to this madness.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "CherylRenetteBa",
+                "id": "582202048"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 77,
+                "end": 81,
+                "probability": 0.9913,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14669951
+}

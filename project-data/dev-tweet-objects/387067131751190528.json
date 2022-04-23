@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 04:09:30+00:00",
+    "id": 387067131751190528,
+    "text": "@michellemalkin well at least Obama will get to play golf.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 34,
+                "probability": 0.9946,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15976697
+}

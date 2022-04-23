@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:29+00:00",
+    "id": 1234884611315908608,
+    "text": "What are the symptoms of COVID-19? https://t.co/d4A89SFlQq",
+    "entities": {
+        "urls": [
+            {
+                "start": 35,
+                "end": 58,
+                "url": "https://t.co/d4A89SFlQq",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884611315908608/photo/1",
+                "display_url": "pic.twitter.com/d4A89SFlQq"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

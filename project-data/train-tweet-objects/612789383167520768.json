@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 01:09:08+00:00",
+    "id": 612789383167520768,
+    "text": "@ClickHole @viserov why did you rt this",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ClickHole",
+                "id": "2377815434"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "viserov",
+                "id": "177759801"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 2377815434
+}

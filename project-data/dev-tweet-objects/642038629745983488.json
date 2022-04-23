@@ -1,0 +1,51 @@
+{
+    "created_at": "2015-09-10 18:15:12+00:00",
+    "id": 642038629745983488,
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump Bernie's lying once again - tell us more about your Socialist party, Bernie?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 58,
+                "probability": 0.9435,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            },
+            {
+                "start": 122,
+                "end": 127,
+                "probability": 0.9342,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13850422
+}

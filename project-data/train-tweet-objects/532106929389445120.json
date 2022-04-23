@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-11 09:45:52+00:00",
+    "id": 532106929389445120,
+    "text": "@ThePoke Those outriders have made the shape of a cock and two balls...nearly.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ThePoke",
+                "id": "143145579"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 143145579
+}

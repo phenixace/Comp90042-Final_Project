@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-17 14:29:07+00:00",
+    "id": 1251155734332534792,
+    "text": "When this pandemic infected 26 of the population worldwide, it made me fear for my life. But now? It infected more than a hundred thousands of people, millions of people to be exact. What is \u201cCOVID-19\u201d anyway? It is a crisis that we all should take seriously. https://t.co/NHfu1zqT8M",
+    "entities": {
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/NHfu1zqT8M",
+                "expanded_url": "https://twitter.com/elyssardof/status/1251155734332534792/photo/1",
+                "display_url": "pic.twitter.com/NHfu1zqT8M"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1250657308125745153
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-21 00:10:59+00:00",
+    "id": 1241155305834024962,
+    "text": "From an epidemiologist (salamat po!) \n\nhttps://t.co/PXnAFq6t1N",
+    "entities": {
+        "urls": [
+            {
+                "start": 39,
+                "end": 62,
+                "url": "https://t.co/PXnAFq6t1N",
+                "expanded_url": "https://twitter.com/EpidLife/status/1241153092231368704",
+                "display_url": "twitter.com/EpidLife/statu\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 751293619
+}

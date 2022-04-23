@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-09-08 17:40:24+00:00",
+    "id": 509033525010763777,
+    "text": "People thought that was real? MT @BuzzFeed: Durex has NOT come out with a pumpkin spice condom\nhttp://t.co/D0Ikptg3TL http://t.co/GyzCAwVOzS",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 48,
+                "probability": 0.3323,
+                "type": "Person",
+                "normalized_text": "Durex"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 33,
+                "end": 42,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/D0Ikptg3TL",
+                "expanded_url": "http://bzfd.it/1tmSvA3",
+                "display_url": "bzfd.it/1tmSvA3"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/GyzCAwVOzS",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/509031495101874176/photo/1",
+                "display_url": "pic.twitter.com/GyzCAwVOzS"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

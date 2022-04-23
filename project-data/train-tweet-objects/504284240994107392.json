@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-08-26 15:08:26+00:00",
+    "id": 504284240994107392,
+    "text": "@charlesjaco1 @AntonioFrench So, now it's time to launch forensics and find the other 4 bullets. #Ferguson",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "charlesjaco1",
+                "id": "11740172"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "AntonioFrench",
+                "id": "14090948"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 97,
+                "end": 106,
+                "tag": "Ferguson"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 11740172
+}

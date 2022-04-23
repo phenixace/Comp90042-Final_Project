@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-04-17 21:53:39+00:00",
+    "id": 1251267606394269696,
+    "text": "What is Covid 19's relation to 5G?\n\nhttps://t.co/bAKJeo460n",
+    "entities": {
+        "urls": [
+            {
+                "start": 36,
+                "end": 59,
+                "url": "https://t.co/bAKJeo460n",
+                "expanded_url": "https://www.youtube.com/watch?v=GHmHiz2EFyE",
+                "display_url": "youtube.com/watch?v=GHmHiz\u2026",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=GHmHiz2EFyE"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

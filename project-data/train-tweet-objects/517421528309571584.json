@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-01 21:11:20+00:00",
+    "id": 517421528309571584,
+    "text": "@FoxNews No surprise there. How long would his trial take under Muslim law? What would be his punishment?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1367531
+}

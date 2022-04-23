@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-28 12:42:25+00:00",
+    "id": 1243881126197891073,
+    "text": "Reader: in no way is this me https://t.co/5PTLCybR5M",
+    "entities": {
+        "urls": [
+            {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/5PTLCybR5M",
+                "expanded_url": "https://twitter.com/GarethLShelton/status/1243881126197891073/photo/1",
+                "display_url": "pic.twitter.com/5PTLCybR5M"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 114536766
+}

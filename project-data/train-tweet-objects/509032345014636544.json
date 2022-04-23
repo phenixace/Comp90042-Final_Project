@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-08 17:35:43+00:00",
+    "id": 509032345014636544,
+    "text": "@BuzzFeed Um. Yum? http://t.co/e7P75eqpBS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 19,
+                "end": 41,
+                "url": "http://t.co/e7P75eqpBS",
+                "expanded_url": "https://twitter.com/ArenasLarry/status/509032345014636544/photo/1",
+                "display_url": "pic.twitter.com/e7P75eqpBS"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 5695632
+}

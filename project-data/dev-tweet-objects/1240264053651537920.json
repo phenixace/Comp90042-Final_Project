@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-18 13:09:28+00:00",
+    "id": 1240264053651537920,
+    "text": "Some people become infected but don\u2019t develop any symptoms. Most people (+/- 80%) recover from the disease without needing special treatment. 1 out of 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. \n\n#ukzncovid19",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 237,
+                "end": 249,
+                "tag": "ukzncovid19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 113290361
+}

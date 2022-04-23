@@ -1,0 +1,63 @@
+{
+    "created_at": "2020-01-27 16:37:41+00:00",
+    "id": 1221834674386997249,
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Can pets at home spread the new #coronavirus (2019-nCoV)?\nA: At present, there is no evidence that companion animals/pets such as dogs, cats can be infected with the virus.\nHowever, it is always a good idea to wash your hands with soap and water after contact with pets https://t.co/aJD53T8Fsx",
+    "entities": {
+        "urls": [
+            {
+                "start": 331,
+                "end": 354,
+                "url": "https://t.co/aJD53T8Fsx",
+                "expanded_url": "https://twitter.com/WHO/status/1221834674386997249/photo/1",
+                "display_url": "pic.twitter.com/aJD53T8Fsx"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 93,
+                "end": 105,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

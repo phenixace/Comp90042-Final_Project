@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-10-02 20:56:29+00:00",
+    "id": 650051749592432645,
+    "text": "@nytimes pretty sure his boss once met with tax collectors and prostitutes.  #WalklikeJesus",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 91,
+                "tag": "WalklikeJesus"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 807095
+}

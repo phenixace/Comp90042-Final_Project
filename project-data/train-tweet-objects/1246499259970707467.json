@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-04 18:05:57+00:00",
+    "id": 1246499259970707467,
+    "text": "@robinbull1 Robin, a vaccine is not a cure.\n\nIf you have 'flu what do they give you as a \"cure\"?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 16,
+                "probability": 0.681,
+                "type": "Person",
+                "normalized_text": "Robin"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "robinbull1",
+                "id": "141649656"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 141649656
+}

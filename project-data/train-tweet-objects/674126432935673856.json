@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-08 07:20:40+00:00",
+    "id": 674126432935673856,
+    "text": "@13spencer whoa whoa whoa.....hitler was way more credible. And had better hair.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "13spencer",
+                "id": "292816822"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 35,
+                "probability": 0.9332,
+                "type": "Person",
+                "normalized_text": "hitler"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 292816822
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-12-08 15:16:35+00:00",
+    "id": 674246198014816257,
+    "text": "@mashable #DumpTrump #TrumpIsFascist https://t.co/cTSo6dCwza",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/cTSo6dCwza",
+                "expanded_url": "https://twitter.com/ItheMissingLink/status/674246198014816257/photo/1",
+                "display_url": "pic.twitter.com/cTSo6dCwza"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag": "DumpTrump"
+            },
+            {
+                "start": 21,
+                "end": 36,
+                "tag": "TrumpIsFascist"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 972651
+}

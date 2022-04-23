@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-06-22 23:00:31+00:00",
+    "id": 613119402137890816,
+    "text": "@ap Good that US lawmakers returned the donations of a racist group's leader cited in Dylann Roof's manifesto!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 15,
+                "probability": 0.8546,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 86,
+                "end": 96,
+                "probability": 0.6349,
+                "type": "Place",
+                "normalized_text": "Dylann Roof"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 51241574
+}

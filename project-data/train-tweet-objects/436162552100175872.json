@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-02-19 15:37:10+00:00",
+    "id": 436162552100175872,
+    "text": "\u201c@CNN: Nestl\u00e9 USA has issued a recall of Hot Pockets. See the varieties affected: http://t.co/4ZCDYbnnBO\u201d@giadevilla I'm not gonna be eating",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 105,
+                "end": 116,
+                "username": "giadevilla",
+                "id": "29105186"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 16,
+                "probability": 0.4559,
+                "type": "Organization",
+                "normalized_text": "Nestl\u00e9 USA"
+            },
+            {
+                "start": 41,
+                "end": 51,
+                "probability": 0.4058,
+                "type": "Organization",
+                "normalized_text": "Hot Pockets"
+            }
+        ],
+        "urls": [
+            {
+                "start": 82,
+                "end": 104,
+                "url": "http://t.co/4ZCDYbnnBO",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "display_url": "cnn.it/1c2EpuB"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 759251
+}

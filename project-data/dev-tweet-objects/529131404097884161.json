@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-11-03 04:42:12+00:00",
+    "id": 529131404097884161,
+    "text": "@fluffyguy @BigMeeze omfg my mom said that u passed omfg I was going to cry like man u mean the world to me I love u @fluffyguy I love you",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "BigMeeze",
+                "id": "45568474"
+            },
+            {
+                "start": 117,
+                "end": 127,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-20 03:27:23+00:00",
+    "id": 667544740695552000,
+    "text": "@USATODAY @kguerrerocnn LA PROCEDENCIA \u00c9TNICA NO TIENE NADA QUE VER CON LA NACIONALIDAD Y LAS COSTUMBRE CULTURALES DE TU PA\u00cdS DE NACIMIENTO",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15754281
+}

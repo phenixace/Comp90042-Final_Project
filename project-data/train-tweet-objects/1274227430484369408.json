@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-20 06:27:48+00:00",
+    "id": 1274227430484369408,
+    "text": "@con1094 the goal has always been suppression, not eradication and definitely not herd immunity, which will NOT happen until there's a vaccine.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "con1094",
+                "id": "802700616401195009"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 802700616401195009
+}

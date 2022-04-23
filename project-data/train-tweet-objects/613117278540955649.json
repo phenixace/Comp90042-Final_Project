@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-06-22 22:52:05+00:00",
+    "id": 613117278540955649,
+    "text": "@AP disgraceful... bunch of sell-out racists and an uncle Tom....in the GOP world... just another day in the life...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 60,
+                "probability": 0.6209,
+                "type": "Person",
+                "normalized_text": "Tom"
+            },
+            {
+                "start": 72,
+                "end": 74,
+                "probability": 0.911,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 51241574
+}

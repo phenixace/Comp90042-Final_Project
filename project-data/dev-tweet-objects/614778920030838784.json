@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 12:54:51+00:00",
+    "id": 614778920030838784,
+    "text": "@petesouza @stphnmaher Success, yes. But arrogant to put this focal USA image onto singular viewpoint, when other opinions exist.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "PeteSouza",
+                "id": "1257689418888089600"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "stphnmaher",
+                "id": "82120358"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 68,
+                "end": 70,
+                "probability": 0.8639,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 18215973
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-02 20:19:05+00:00",
+    "id": 539876427064442882,
+    "text": "@onekade that's just killed, never mind shot and injured or just beaten up",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "onekade",
+                "id": "15982292"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15982292
+}

@@ -1,0 +1,51 @@
+{
+    "created_at": "2015-02-04 23:51:06+00:00",
+    "id": 563122606811774978,
+    "text": "@ErmaLeeSimmons @Squarespace @TheJeffBridges @JimSullivan14 @jojokejohn I'm retweeting these tweets because of Jeff Bridges.\"Go Jeff Go!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 111,
+                "end": 122,
+                "probability": 0.9374,
+                "type": "Person",
+                "normalized_text": "Jeff Bridges"
+            },
+            {
+                "start": 128,
+                "end": 131,
+                "probability": 0.8718,
+                "type": "Person",
+                "normalized_text": "Jeff"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 29,
+                "end": 44,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            },
+            {
+                "start": 45,
+                "end": 59,
+                "username": "JimSullivan14",
+                "id": "557179650"
+            },
+            {
+                "start": 60,
+                "end": 71,
+                "username": "jojokejohn",
+                "id": "90804267"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2559957139
+}

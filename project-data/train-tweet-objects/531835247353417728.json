@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-11-10 15:46:18+00:00",
+    "id": 531835247353417728,
+    "text": "@Kulabk  \u201c@mashable: Just your Monday reminder that Doritos-flavored Mountain Dew exists. http://t.co/EE7omI3StL http://t.co/lDkrPlwUfg\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kulabk",
+                "id": "19819696"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/EE7omI3StL",
+                "expanded_url": "http://on.mash.to/1oCoIWI",
+                "display_url": "on.mash.to/1oCoIWI"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/lDkrPlwUfg",
+                "expanded_url": "https://twitter.com/mashable/status/531833153145823233/photo/1",
+                "display_url": "pic.twitter.com/lDkrPlwUfg"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 80,
+                "probability": 0.616,
+                "type": "Product",
+                "normalized_text": "Doritos-flavored Mountain Dew"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 972651
+}

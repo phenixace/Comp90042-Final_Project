@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-06-09 22:19:06+00:00",
+    "id": 1270480568849960963,
+    "text": "@7News Walsh &amp; Baker violate civil rights of all citizens that have earned clemency By not giving clemency these people can only earn min-wage Can\u2019t get advanced education with scholarship grants &amp; lots more benefits TELL BAKER STOP DISCRIMINATING!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "7News",
+                "id": "16558796"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 11,
+                "probability": 0.8026,
+                "type": "Person",
+                "normalized_text": "Walsh"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "probability": 0.7399,
+                "type": "Person",
+                "normalized_text": "Baker"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16558796
+}

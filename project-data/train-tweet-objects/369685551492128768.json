@@ -1,0 +1,29 @@
+{
+    "created_at": "2013-08-20 05:01:18+00:00",
+    "id": 369685551492128768,
+    "text": "@MikkoAlanne @studygroup12 goddammit @BrianFukushima",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MikkoAlanne",
+                "id": "437874669"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "studygroup12",
+                "id": "293295302"
+            },
+            {
+                "start": 37,
+                "end": 52,
+                "username": "BrianFukushima",
+                "id": "16334550"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 437874669
+}

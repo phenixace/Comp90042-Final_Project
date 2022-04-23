@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-26 05:37:52+00:00",
+    "id": 504140652385669120,
+    "text": "@lisabonner how's this even make sense , after all, by dorrian johnsons statement there was an initial shot in the car , then a brief chase",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "lisabonner",
+                "id": "25470710"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 70,
+                "probability": 0.9694,
+                "type": "Person",
+                "normalized_text": "dorrian johnsons"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 25470710
+}

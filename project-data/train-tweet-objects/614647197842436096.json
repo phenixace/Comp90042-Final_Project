@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-06-27 04:11:26+00:00",
+    "id": 614647197842436096,
+    "text": "@GregRacaun @CNNWire @CNN @WhiteHouse you dislike rainbows?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "GregRacaun",
+                "id": "2284276566"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "cnnwire",
+                "id": "783001052434067457"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 26,
+                "end": 37,
+                "username": "WhiteHouse",
+                "id": "1323730225067339784"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2284276566
+}

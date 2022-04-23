@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-17 05:22:33+00:00",
+    "id": 611041217862709249,
+    "text": "@cnni @razonater Raza yar subah subah he aisi tweets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            },
+            {
+                "start": 6,
+                "end": 16,
+                "username": "razonater",
+                "id": "16341963"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2097571
+}

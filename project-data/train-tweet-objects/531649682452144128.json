@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:28:56+00:00",
+    "id": 531649682452144128,
+    "text": "@Boogie2988 Dude! you're looking smaller? Go Boogie!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

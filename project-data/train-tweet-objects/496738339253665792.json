@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-05 19:23:43+00:00",
+    "id": 496738339253665792,
+    "text": "@JBCrewdotcom He is our lifesaver",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JBCrewdotcom",
+                "id": "1439055242"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1239313056
+}

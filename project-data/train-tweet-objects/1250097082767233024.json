@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14 16:22:24+00:00",
+    "id": 1250097082767233024,
+    "text": "@KEV_MAKORI Yes! video, it's here: https://t.co/An6ja2BzMl. PS: Always check your download page if i don't respond.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KEV_MAKORI",
+                "id": "238077410"
+            }
+        ],
+        "urls": [
+            {
+                "start": 35,
+                "end": 58,
+                "url": "https://t.co/An6ja2BzMl",
+                "expanded_url": "https://getvideobot.com/KEV_MAKORI",
+                "display_url": "getvideobot.com/KEV_MAKORI"
+            }
+        ]
+    },
+    "source": "GetVideoBot",
+    "in_reply_to_user_id": 238077410
+}

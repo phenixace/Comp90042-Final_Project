@@ -1,0 +1,42 @@
+{
+    "created_at": "2013-12-01 16:59:14+00:00",
+    "id": 407192177182535681,
+    "text": "The incredible sad details @peoplemag: Did speed play a part in Paul Walker's death? http://t.co/I6VVV3qGLk\n#RIPPaulWalker",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 108,
+                "end": 122,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 27,
+                "end": 37,
+                "username": "peoplemag",
+                "id": "3064617094"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 74,
+                "probability": 0.8999,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/I6VVV3qGLk",
+                "expanded_url": "http://peoplem.ag/rkNWR",
+                "display_url": "peoplem.ag/rkNWR"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 25589776
+}

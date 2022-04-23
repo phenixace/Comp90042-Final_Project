@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-29 12:17:28+00:00",
+    "id": 1244237234565332992,
+    "text": "FAQ: Where can you be tested for COVID-19? https://t.co/MQjlc81JVY",
+    "entities": {
+        "urls": [
+            {
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/MQjlc81JVY",
+                "expanded_url": "https://twitter.com/kmrvmd/status/1244237234565332992/photo/1",
+                "display_url": "pic.twitter.com/MQjlc81JVY"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 27269222
+}

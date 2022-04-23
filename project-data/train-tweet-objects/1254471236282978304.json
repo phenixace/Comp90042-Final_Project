@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 18:03:44+00:00",
+    "id": 1254471236282978304,
+    "text": "Q9. @PublicHealthRx 9. What is 'social distancing' and what can I do if I'm not able to be six feet apart? #JCIAUKickoutCovid19 https://t.co/mBvz7dbi7k",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 107,
+                "end": 127,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "urls": [
+            {
+                "start": 128,
+                "end": 151,
+                "url": "https://t.co/mBvz7dbi7k",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254471236282978304/photo/1",
+                "display_url": "pic.twitter.com/mBvz7dbi7k"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

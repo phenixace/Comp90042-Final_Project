@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-02-23 19:37:01+00:00",
+    "id": 569944035466436608,
+    "text": "@JamieDornan_org its so hard to know fact from fiction in media.I truly hope he stays on. Im invested in him as Christian now. Hope hes well",
+    "entities": {
+        "annotations": [
+            {
+                "start": 112,
+                "end": 120,
+                "probability": 0.8077,
+                "type": "Person",
+                "normalized_text": "Christian"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279575920
+}

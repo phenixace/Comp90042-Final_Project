@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-09-14 05:36:45+00:00",
+    "id": 511025741165654017,
+    "text": "@SCClemons @ACTED wtf is #ISIS where the bloodyhell they came from ??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "SCClemons",
+                "id": "16172991"
+            },
+            {
+                "start": 11,
+                "end": 17,
+                "username": "ACTED",
+                "id": "94539935"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 30,
+                "tag": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16172991
+}

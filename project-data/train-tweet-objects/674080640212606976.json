@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 04:18:43+00:00",
+    "id": 674080640212606976,
+    "text": "@BlissTabitha @HeyTammyBruce Epidemic of prescription anti-depressants and less to do with politics. Interesting stat though.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "HeyTammyBruce",
+                "id": "22956220"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 999453985
+}

@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-04-21 21:52:00+00:00",
+    "id": 1252716743295995904,
+    "text": "What is a coronavirus antibody test? https://t.co/RKbOiSAHDw",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/RKbOiSAHDw",
+                "expanded_url": "https://buff.ly/2RYxDUR",
+                "display_url": "buff.ly/2RYxDUR",
+                "status": 200,
+                "unwound_url": "https://www.dallasnews.com/news/public-health/2020/04/21/what-is-a-coronavirus-antibody-test/?utm_content=buffer89856&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+            }
+        ]
+    },
+    "source": "Buffer",
+    "in_reply_to_user_id": null
+}

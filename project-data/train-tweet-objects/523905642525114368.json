@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 18:36:53+00:00",
+    "id": 523905642525114368,
+    "text": "@pourmecoffee another reason not to like nature",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16906137
+}

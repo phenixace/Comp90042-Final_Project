@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 12:27:33+00:00",
+    "id": 1251849918790144002,
+    "text": "@DrZweliMkhize Excellent",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

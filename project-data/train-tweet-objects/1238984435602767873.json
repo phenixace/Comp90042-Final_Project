@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-15 00:24:43+00:00",
+    "id": 1238984435602767873,
+    "text": "@lupechavezjr We have received testing kits in Harlingen.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 55,
+                "probability": 0.9478,
+                "type": "Place",
+                "normalized_text": "Harlingen"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "lupechavezjr",
+                "id": "94660821"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 94660821
+}

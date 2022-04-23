@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-22 22:26:23+00:00",
+    "id": 613110813688139776,
+    "text": "@CNNPolitics @RepMiaLove Oh no why did she do that it's her buddy is she leaving the GOP",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 85,
+                "end": 87,
+                "probability": 0.8424,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

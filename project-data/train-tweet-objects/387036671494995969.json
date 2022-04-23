@@ -1,0 +1,33 @@
+{
+    "created_at": "2013-10-07 02:08:27+00:00",
+    "id": 387036671494995969,
+    "text": "MT\"@th3j35t3r: Non-essential shutdown? Can someone explain to me how http://t.co/5hsM4aRWBU is essential while http://t.co/8IAzwKkmLs isnt?\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 13,
+                "username": "th3j35t3r",
+                "id": "97994396"
+            }
+        ],
+        "urls": [
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/5hsM4aRWBU",
+                "expanded_url": "http://fueleconomy.gov",
+                "display_url": "fueleconomy.gov"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/8IAzwKkmLs",
+                "expanded_url": "http://amberalert.gov",
+                "display_url": "amberalert.gov"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 97994396
+}

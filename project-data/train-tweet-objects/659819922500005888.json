@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-10-29 19:51:43+00:00",
+    "id": 659819922500005888,
+    "text": "@ReezusTaughtYou @DirtyFlacko_ what in the fuck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "reezustaughtyou",
+                "id": "2498936086"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "DirtyFlacko_",
+                "id": "2741039206"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2498936086
+}

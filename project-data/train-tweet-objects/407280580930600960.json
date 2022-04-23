@@ -1,0 +1,42 @@
+{
+    "created_at": "2013-12-01 22:50:32+00:00",
+    "id": 407280580930600960,
+    "text": "\u201c@Cosmopolitan: Fast &amp; Furious franchise responds to Paul Walker's death: http://t.co/QBmgT4RGQS http://t.co/BcCtMxVZke\u201d so sad \ud83d\ude25",
+    "entities": {
+        "urls": [
+            {
+                "start": 78,
+                "end": 100,
+                "url": "http://t.co/QBmgT4RGQS",
+                "expanded_url": "http://cosm.ag/6014jtjO",
+                "display_url": "cosm.ag/6014jtjO"
+            },
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/BcCtMxVZke",
+                "expanded_url": "https://twitter.com/Cosmopolitan/status/407279190913069056/photo/1",
+                "display_url": "pic.twitter.com/BcCtMxVZke"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 63,
+                "probability": 0.9866,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 23482952
+}

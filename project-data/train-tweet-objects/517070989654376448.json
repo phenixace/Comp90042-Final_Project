@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-30 21:58:25+00:00",
+    "id": 517070989654376448,
+    "text": "@AmyMek @jez009 @kfc &lt;--- cant use its real name, because technically, its not chicken!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "username": "jez009",
+                "id": "320697063"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

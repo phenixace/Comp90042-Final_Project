@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-17 13:30:48+00:00",
+    "id": 534337860476755970,
+    "text": "@Independent need more chocolate sex so it can reproduce more chocolate #yummy",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 72,
+                "end": 78,
+                "tag": "yummy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16973333
+}

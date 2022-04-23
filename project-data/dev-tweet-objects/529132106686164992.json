@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-11-03 04:44:59+00:00",
+    "id": 529132106686164992,
+    "text": "@fluffyguy @BigMeeze #FluffyWillLiveOn",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "BigMeeze",
+                "id": "45568474"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 21,
+                "end": 38,
+                "tag": "FluffyWillLiveOn"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

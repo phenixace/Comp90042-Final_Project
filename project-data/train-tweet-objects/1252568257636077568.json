@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-21 12:01:58+00:00",
+    "id": 1252568257636077568,
+    "text": "Thank you for reading!\n\nHere's the link to the full list:\nhttps://t.co/nUIypaRhxu https://t.co/mFsQuzvngm",
+    "entities": {
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/nUIypaRhxu",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            },
+            {
+                "start": 82,
+                "end": 105,
+                "url": "https://t.co/mFsQuzvngm",
+                "expanded_url": "https://twitter.com/AcrylicStroke/status/1252568257636077568/photo/1",
+                "display_url": "pic.twitter.com/mFsQuzvngm"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1510493005
+}

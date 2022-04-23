@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-16 20:56:34+00:00",
+    "id": 666359226135019520,
+    "text": "@Surfermom77 @c5hardtop1999 @realDonaldTrump money that should be going to Vets. And hungry American children.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 27,
+                "username": "c5hardtop1999",
+                "id": "383418826"
+            },
+            {
+                "start": 28,
+                "end": 44,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1564676498
+}

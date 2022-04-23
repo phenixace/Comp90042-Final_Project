@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20 00:28:45+00:00",
+    "id": 523994194449539072,
+    "text": "@KHOU Nope indeed. @Womble67",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "KHOU",
+                "id": "15791186"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "username": "Womble67",
+                "id": "25010609"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15791186
+}

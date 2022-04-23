@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-08-07 10:24:06+00:00",
+    "id": 365055743424086016,
+    "text": "@TheMaverick21 Or\u2026.GODZILLA!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "TheMaverick21",
+                "id": "373697915"
+            }
+        ]
+    },
+    "source": "Tweetbot for iOS",
+    "in_reply_to_user_id": 373697915
+}

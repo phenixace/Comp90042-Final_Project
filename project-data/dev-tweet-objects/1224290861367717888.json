@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-02-03 11:17:42+00:00",
+    "id": 1224290861367717888,
+    "text": "Novel Coronavirus (2019-nCoV) advice for the public: #MythBusters #coronavirus\n\nCan pets at home spread the new coronavirus (2019-nCoV)?\n\nCourtesy @WHO https://t.co/bkyJ9iFZ51",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 53,
+                "end": 65,
+                "tag": "MythBusters"
+            },
+            {
+                "start": 66,
+                "end": 78,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 152,
+                "end": 175,
+                "url": "https://t.co/bkyJ9iFZ51",
+                "expanded_url": "https://twitter.com/ndmaindia/status/1224290861367717888/photo/1",
+                "display_url": "pic.twitter.com/bkyJ9iFZ51"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 147,
+                "end": 151,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-04-17 18:36:46+00:00",
+    "id": 1251218058137473024,
+    "text": "The president uses vague calls to action so he can avoid responsibility and later claim he meant something else. Just yesterday, he was outlining a phased approach for \u201copening up America again.\u201d He should be specific about his concerns. Which measures are okay and which are not? https://t.co/pnlUcsDQqf",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/pnlUcsDQqf",
+                "expanded_url": "https://twitter.com/realDonaldTrump/status/1251169217531056130",
+                "display_url": "twitter.com/realDonaldTrum\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 180,
+                "end": 186,
+                "probability": 0.995,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

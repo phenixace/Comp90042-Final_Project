@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-06 14:47:22+00:00",
+    "id": 1247174061521862657,
+    "text": "This is a great point. Ventilators are for breathing but do nothing to heal the virus, and yet the questions from media are often about cities having enough ventilators.\n\nAnd yet they downplay the cure that's out there.\n\nOur MSM is total crap (except for @OANN). https://t.co/0IfT08zE6D",
+    "entities": {
+        "mentions": [
+            {
+                "start": 255,
+                "end": 260,
+                "username": "OANN",
+                "id": "1209936918"
+            }
+        ],
+        "urls": [
+            {
+                "start": 263,
+                "end": 286,
+                "url": "https://t.co/0IfT08zE6D",
+                "expanded_url": "https://twitter.com/JoyaMia00/status/1247172498455740416",
+                "display_url": "twitter.com/JoyaMia00/stat\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

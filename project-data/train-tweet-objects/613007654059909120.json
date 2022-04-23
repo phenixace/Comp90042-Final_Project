@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 15:36:28+00:00",
+    "id": 613007654059909120,
+    "text": "@ClickHole @joeftak that's fucking creepy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ClickHole",
+                "id": "2377815434"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "joeftak",
+                "id": "3011772191"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2377815434
+}

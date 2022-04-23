@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-15 02:00:41+00:00",
+    "id": 1239008588766445570,
+    "text": "@aliciapitman_ Hey I mean ebola was pretty metal",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "aliciapitman_",
+                "id": "1075169151289679872"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1075169151289679872
+}

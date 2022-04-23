@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-06-21 20:43:12+00:00",
+    "id": 1274805087269875712,
+    "text": "@Gee_Whitty @yarbsalocin @rc_outside @JesseKellyDC Point to the specofic system where the issue resides and what the issue is... then we can talk about it. I may even be on your side.\n\nBut to say the results must be an overall systemic problem is pretty vague. Not sure how you expect any change when that is what you tout?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "yarbsalocin",
+                "id": "2164225381"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "rc_outside",
+                "id": "3017586212"
+            },
+            {
+                "start": 37,
+                "end": 50,
+                "username": "JesseKellyDC",
+                "id": "34082620"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1877652192
+}

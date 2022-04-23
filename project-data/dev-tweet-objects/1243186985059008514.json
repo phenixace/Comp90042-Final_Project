@@ -1,0 +1,68 @@
+{
+    "created_at": "2020-03-26 14:44:09+00:00",
+    "id": 1243186985059008514,
+    "text": "@WHO @UNICEF @UNinIndia @moayush @mygovindia @ArogyaAndhra @CCCWAP\n@TelanganaHealth @MoHFW_INDIA https://t.co/VGfm7yw8Xy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 12,
+                "username": "UNICEF",
+                "id": "33933259"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "UNinIndia",
+                "id": "1856588299"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "username": "moayush",
+                "id": "2650295678"
+            },
+            {
+                "start": 33,
+                "end": 44,
+                "username": "mygovindia",
+                "id": "2686834802"
+            },
+            {
+                "start": 45,
+                "end": 58,
+                "username": "ArogyaAndhra",
+                "id": "876997365999190016"
+            },
+            {
+                "start": 67,
+                "end": 83,
+                "username": "TelanganaHealth",
+                "id": "992966051657756672"
+            },
+            {
+                "start": 84,
+                "end": 96,
+                "username": "MoHFW_INDIA",
+                "id": "2596143056"
+            }
+        ],
+        "urls": [
+            {
+                "start": 97,
+                "end": 120,
+                "url": "https://t.co/VGfm7yw8Xy",
+                "expanded_url": "https://twitter.com/iamprudhvii/status/1243186985059008514/photo/1",
+                "display_url": "pic.twitter.com/VGfm7yw8Xy"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 198612228
+}

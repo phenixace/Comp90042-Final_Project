@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-22 17:11:33+00:00",
+    "id": 613031580471324672,
+    "text": "@CNNPolitics @RepMiaLove How is she even in the Republican party? And why?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 63,
+                "probability": 0.6207,
+                "type": "Organization",
+                "normalized_text": "Republican party"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 13850422
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-08 15:52:16+00:00",
+    "id": 519877948497997824,
+    "text": "@ComplexMag lol fuck their car, if you can cop a 2.4 mil car just get another hood...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13049362
+}

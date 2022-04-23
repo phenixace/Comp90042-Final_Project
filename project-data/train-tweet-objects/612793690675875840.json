@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 01:26:15+00:00",
+    "id": 612793690675875840,
+    "text": "@ClickHole @DamienFahey tee heee heheheehehe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ClickHole",
+                "id": "2377815434"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "DamienFahey",
+                "id": "21215371"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2377815434
+}

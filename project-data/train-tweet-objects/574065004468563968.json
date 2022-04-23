@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:32:17+00:00",
+    "id": 574065004468563968,
+    "text": "@ABC that's so messed up.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

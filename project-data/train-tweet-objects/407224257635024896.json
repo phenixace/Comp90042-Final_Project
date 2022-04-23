@@ -1,0 +1,32 @@
+{
+    "created_at": "2013-12-01 19:06:43+00:00",
+    "id": 407224257635024896,
+    "text": "@MTVNews @MTV So sorrowful day.I'm praying for your soul Paul Walker !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "MTV",
+                "id": "2367911"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 67,
+                "probability": 0.9915,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 40076725
+}

@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-12-04 04:25:54+00:00",
+    "id": 672632899921833984,
+    "text": "Why Have There Been More Mass Shootings Under Obama than the 4 Previous Presidents Combined? https://t.co/jEeBR7TC95 https://t.co/oVKG80TaqE",
+    "entities": {
+        "urls": [
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/jEeBR7TC95",
+                "expanded_url": "http://www.thedailysheeple.com/why-have-there-been-more-mass-shootings-under-obama-than-the-four-previous-presidents-combined_122015",
+                "display_url": "thedailysheeple.com/why-have-there\u2026"
+            },
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/oVKG80TaqE",
+                "expanded_url": "https://twitter.com/BlissTabitha/status/672632899921833984/photo/1",
+                "display_url": "pic.twitter.com/oVKG80TaqE"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 50,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

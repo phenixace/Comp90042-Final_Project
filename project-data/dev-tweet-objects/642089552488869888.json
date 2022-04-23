@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-09-10 21:37:33+00:00",
+    "id": 642089552488869888,
+    "text": "@CNNPolitics \n@realDonaldTrump @tinanguyen360 Captain Obvious works for @BernieSanders ? Who knew?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 31,
+                "end": 45,
+                "username": "tinanguyen360",
+                "id": "346946823"
+            },
+            {
+                "start": 72,
+                "end": 86,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 13850422
+}

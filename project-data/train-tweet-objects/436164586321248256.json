@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-02-19 15:45:15+00:00",
+    "id": 436164586321248256,
+    "text": "@ka_trinka12 @CNN lol because they're delicious!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ka_trinka12",
+                "id": "1706173879"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1706173879
+}

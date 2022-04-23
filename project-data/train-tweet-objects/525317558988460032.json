@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-23 16:07:20+00:00",
+    "id": 525317558988460032,
+    "text": "@PzFeed he just looks fucking bad ass",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 292777349
+}

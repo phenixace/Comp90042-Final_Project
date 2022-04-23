@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-28 09:36:12+00:00",
+    "id": 1255068286141829120,
+    "text": "Plagiarism is the new virus, what is covid-19? https://t.co/LOk7wLQ4p5",
+    "entities": {
+        "urls": [
+            {
+                "start": 47,
+                "end": 70,
+                "url": "https://t.co/LOk7wLQ4p5",
+                "expanded_url": "https://twitter.com/HassanNatha/status/1254860384390885381",
+                "display_url": "twitter.com/HassanNatha/st\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

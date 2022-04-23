@@ -1,0 +1,62 @@
+{
+    "created_at": "2020-03-18 19:37:54+00:00",
+    "id": 1240361808054980609,
+    "text": "21) #NewCrownVirus \ud83d\udc51\n\nNov 17, 2019 Steve Bannon boasts\u2026 in Chinese about Trump\u2019s Trade deal \ud83d\udcc9\n\n\u201cTrump\u2019s engagement in this economic war is bringing them (China) to their knees\u201d \ud83d\udcc8\ud83d\udcb0\n\n1st case Covid-19 in China can be traced back to November 17, 2019\ud83e\udda0\nhttps://t.co/MTejXvhZ31",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 47,
+                "probability": 0.9944,
+                "type": "Person",
+                "normalized_text": "Steve Bannon"
+            },
+            {
+                "start": 74,
+                "end": 78,
+                "probability": 0.9943,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 98,
+                "end": 102,
+                "probability": 0.9949,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 156,
+                "end": 160,
+                "probability": 0.8639,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 206,
+                "end": 210,
+                "probability": 0.991,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 249,
+                "end": 272,
+                "url": "https://t.co/MTejXvhZ31",
+                "expanded_url": "https://twitter.com/AnonsSynonymous/status/1196113118071386112",
+                "display_url": "twitter.com/AnonsSynonymou\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

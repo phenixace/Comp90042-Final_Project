@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-21 03:11:23+00:00",
+    "id": 1252434729455894529,
+    "text": "@yashguptaz @TatianaTMac oooh.. I know this one \ud83d\ude0d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "yashguptaz",
+                "id": "802811514491015168"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "TatianaTMac",
+                "id": "1529722572"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 802811514491015168
+}

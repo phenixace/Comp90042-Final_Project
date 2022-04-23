@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-04 21:11:59+00:00",
+    "id": 507637220023357440,
+    "text": "@billyeichner oh billy do not say that, bite ur tounge!  we can't loss another comedy legend!!!  so sad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 21,
+                "probability": 0.8787,
+                "type": "Person",
+                "normalized_text": "billy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "billyeichner",
+                "id": "74669397"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 74669397
+}

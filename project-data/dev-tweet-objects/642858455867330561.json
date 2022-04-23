@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-13 00:32:54+00:00",
+    "id": 642858455867330561,
+    "text": "@Lrihendry http://t.co/MVIaQLLDhx",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            }
+        ],
+        "urls": [
+            {
+                "start": 11,
+                "end": 33,
+                "url": "http://t.co/MVIaQLLDhx",
+                "expanded_url": "https://twitter.com/heidtjj/status/642858455867330561/photo/1",
+                "display_url": "pic.twitter.com/MVIaQLLDhx"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 129235890
+}

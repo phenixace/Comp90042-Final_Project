@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-02 17:15:35+00:00",
+    "id": 539830250180714497,
+    "text": "@jackhealyNYT call cnn I'm sure sonny hostin would listen",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.6508,
+                "type": "Organization",
+                "normalized_text": "cnn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "jackhealyNYT",
+                "id": "373791638"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 373791638
+}

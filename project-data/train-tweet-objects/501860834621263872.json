@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-08-19 22:38:41+00:00",
+    "id": 501860834621263872,
+    "text": "@zaidbenjamin #atheism is looking pretty good right about now. senseless.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 22,
+                "tag": "atheism"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

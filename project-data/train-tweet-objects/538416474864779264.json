@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-28 19:37:45+00:00",
+    "id": 538416474864779264,
+    "text": "@YourAnonNews and you guys were antagonists, does that make you just as culpable as the police you often blame?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279390084
+}

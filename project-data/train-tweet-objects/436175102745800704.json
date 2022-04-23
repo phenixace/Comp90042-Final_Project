@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-02-19 16:27:02+00:00",
+    "id": 436175102745800704,
+    "text": "@JimGaffigan: @CNN reported recall of #hotpockets in U.S.  What now? https://t.co/7BmPZZPwdc",
+    "entities": {
+        "urls": [
+            {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/7BmPZZPwdc",
+                "expanded_url": "https://twitter.com/cnn/status/436160836524965891",
+                "display_url": "twitter.com/cnn/status/436\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JimGaffigan",
+                "id": "6539592"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 38,
+                "end": 49,
+                "tag": "hotpockets"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 56,
+                "probability": 0.9806,
+                "type": "Place",
+                "normalized_text": "U.S."
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

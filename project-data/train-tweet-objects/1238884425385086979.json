@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-14 17:47:19+00:00",
+    "id": 1238884425385086979,
+    "text": "Part 22\n\ncold, flu and COVID-19.\n\nStay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.\nWhy? National and local authorities will \n#FREDIBOAT",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 257,
+                "end": 267,
+                "tag": "FREDIBOAT"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1192105968668155905
+}

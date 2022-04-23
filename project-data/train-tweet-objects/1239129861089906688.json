@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-15 10:02:35+00:00",
+    "id": 1239129861089906688,
+    "text": "Coronaviruses are a family of viruses that cause illness from the common cold to more severe diseases such as (MERS-CoV)\u00a0&amp; (SARS-CoV).\n\nCoronavirus disease (COVID-19)\u00a0is a new strain discovered in 2019 and has not been previously identified in humans.\n#RIFAOagainstCorona\n@WHO https://t.co/rWzCNxPeBH",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/rWzCNxPeBH",
+                "expanded_url": "https://twitter.com/RifaoRmu/status/1239129861089906688/photo/1",
+                "display_url": "pic.twitter.com/rWzCNxPeBH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 276,
+                "end": 280,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 256,
+                "end": 275,
+                "tag": "RIFAOagainstCorona"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

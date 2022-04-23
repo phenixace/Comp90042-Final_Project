@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-10 22:22:47+00:00",
+    "id": 1248738224513703936,
+    "text": "What is a coronavirus immunity certificate? US may start issuing them https://t.co/iHSixzm3PZ",
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/iHSixzm3PZ",
+                "expanded_url": "https://trib.al/1blBJUb",
+                "display_url": "trib.al/1blBJUb",
+                "status": 200,
+                "unwound_url": "https://www.kansascity.com/news/coronavirus/article241925176.html"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 45,
+                "probability": 0.5615,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

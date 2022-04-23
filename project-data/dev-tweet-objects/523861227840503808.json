@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19 15:40:24+00:00",
+    "id": 523861227840503808,
+    "text": "@Harvard @Louisa_193",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Harvard",
+                "id": "39585367"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "Louisa_193",
+                "id": "99731313"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 39585367
+}

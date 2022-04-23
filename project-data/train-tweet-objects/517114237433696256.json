@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-01 00:50:16+00:00",
+    "id": 517114237433696256,
+    "text": "@Jarjarbug Such a disgrace to have a blatant racist as pres.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 43182702
+}

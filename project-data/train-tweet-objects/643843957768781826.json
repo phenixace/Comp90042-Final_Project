@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-09-15 17:48:56+00:00",
+    "id": 643843957768781826,
+    "text": "@tradewithPK @LibertyUSA1776\nor\nfear, lies, hatred?\n\n#Merica!=home grown terrorism\nor\n\ud83c\uddfa\ud83c\uddf8 \ud83d\uddfd  = better than this\n\nhttp://t.co/crATAxbJeN",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 53,
+                "end": 60,
+                "tag": "Merica"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "tradewithpk",
+                "id": "1430496900692779009"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ],
+        "urls": [
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/crATAxbJeN",
+                "expanded_url": "http://ind.pn/1iMLutb",
+                "display_url": "ind.pn/1iMLutb"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 484470171
+}

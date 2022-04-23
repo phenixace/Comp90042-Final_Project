@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-23 19:57:10+00:00",
+    "id": 514503763307274240,
+    "text": "\u201c@Kristeeahn: \u201c@TIME: iPhone 6 owners claim it's bending in their pockets \u201d might just replace my 5 battery...\u201d \ud83d\ude12 they pants just tight af",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 20,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 29,
+                "probability": 0.9244,
+                "type": "Product",
+                "normalized_text": "iPhone 6"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 39701331
+}

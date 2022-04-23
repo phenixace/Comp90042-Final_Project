@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-17 16:18:27+00:00",
+    "id": 1251183250044788743,
+    "text": "@hussmanjp What is your best answer to the question: \u201cWhat is Covid-19\u2019s actual mortality rate?\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "hussmanjp",
+                "id": "40471897"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 40471897
+}

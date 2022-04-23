@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 20:31:32+00:00",
+    "id": 524296882466484226,
+    "text": "@MythBusters How big would your slipper have to be?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MythBusters",
+                "id": "52146755"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 52146755
+}

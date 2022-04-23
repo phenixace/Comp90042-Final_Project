@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-04 00:48:01+00:00",
+    "id": 672578067647168513,
+    "text": "@Coloradogun bush - 9/11. END DISCUSSION.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 16,
+                "probability": 0.6418,
+                "type": "Person",
+                "normalized_text": "bush"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Coloradogun",
+                "id": "24486612"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 24486612
+}

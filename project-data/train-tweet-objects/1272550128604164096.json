@@ -1,0 +1,65 @@
+{
+    "created_at": "2020-06-15 15:22:48+00:00",
+    "id": 1272550128604164096,
+    "text": "@Kevin_McKernan @jakobsheim @MarkieM74 @12FreeBeer @FatEmperor @nataliexdean We don\u2019t see these effect in measured cases. See Iceland which went out of their way to test all age groups and a very light \u201clockdown\u201d. Primary schools were still open and kids still less likely to get it which implies Deans hypothesis is wrong. \n\nhttps://t.co/8l9pM91EZd",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Kevin_McKernan",
+                "id": "33177553"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "jakobsheim",
+                "id": "2963404739"
+            },
+            {
+                "start": 28,
+                "end": 38,
+                "username": "MarkieM74",
+                "id": "2308694474"
+            },
+            {
+                "start": 39,
+                "end": 50,
+                "username": "12FreeBeer",
+                "id": "1255091020938739712"
+            },
+            {
+                "start": 51,
+                "end": 62,
+                "username": "FatEmperor",
+                "id": "2383882980"
+            },
+            {
+                "start": 63,
+                "end": 76,
+                "username": "nataliexdean",
+                "id": "1005085697018138624"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 126,
+                "end": 132,
+                "probability": 0.973,
+                "type": "Place",
+                "normalized_text": "Iceland"
+            }
+        ],
+        "urls": [
+            {
+                "start": 326,
+                "end": 349,
+                "url": "https://t.co/8l9pM91EZd",
+                "expanded_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2006100",
+                "display_url": "nejm.org/doi/full/10.10\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 33177553
+}

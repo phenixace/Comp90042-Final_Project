@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-09-05 22:25:38+00:00",
+    "id": 508018143777030144,
+    "text": "@Reuters I wonder if the US govt are thinking of taking out Shekau (Boko Haram)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 26,
+                "probability": 0.8093,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 60,
+                "end": 65,
+                "probability": 0.3974,
+                "type": "Person",
+                "normalized_text": "Shekau"
+            },
+            {
+                "start": 68,
+                "end": 77,
+                "probability": 0.7682,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1652541
+}

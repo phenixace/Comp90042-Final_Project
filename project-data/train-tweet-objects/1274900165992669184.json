@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-22 03:01:00+00:00",
+    "id": 1274900165992669184,
+    "text": "@firthermor @greg_doucette Neither of those answered my question. 'less common' implies it still happens.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "firthermor",
+                "id": "1175959416975364096"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "greg_doucette",
+                "id": "132029493"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1175959416975364096
+}

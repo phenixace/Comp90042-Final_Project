@@ -1,0 +1,38 @@
+{
+    "created_at": "2013-07-02 04:14:28+00:00",
+    "id": 351916757822345217,
+    "text": "@GregWHoward @ToddKincannon RT \u201c@RealAlexJones: Expect to see Russian Forces At US Events to Provide \u201cSecurity\u201d  http://t.co/TJR7sTLZoU\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/TJR7sTLZoU",
+                "expanded_url": "http://bit.ly/14JXiiC",
+                "display_url": "bit.ly/14JXiiC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "GregWHoward",
+                "id": "1673120882"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "ToddKincannon",
+                "id": "40930480"
+            },
+            {
+                "start": 32,
+                "end": 46,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 109065990
+}

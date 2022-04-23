@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-06-14 14:13:35+00:00",
+    "id": 1272170322041745410,
+    "text": "@imCKindred @biannagolodryga @jaketapper Case reports without context of testing is garbage data. Especially since serological studies show at least 4.3% of FL positive. Why this is lost on the media is ridiculous.  But considering everything is viewed thru stupid political bias it is clear.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 157,
+                "end": 158,
+                "probability": 0.8836,
+                "type": "Place",
+                "normalized_text": "FL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "imCKindred",
+                "id": "3252714624"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "biannagolodryga",
+                "id": "14135350"
+            },
+            {
+                "start": 29,
+                "end": 40,
+                "username": "jaketapper",
+                "id": "14529929"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3252714624
+}

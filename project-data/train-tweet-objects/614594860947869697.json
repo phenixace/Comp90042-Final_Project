@@ -1,0 +1,49 @@
+{
+    "created_at": "2015-06-27 00:43:28+00:00",
+    "id": 614594860947869697,
+    "text": "Wow RT @NBCNightlyNews: White House lit in rainbow colors after today's historic Supreme Court ruling #SCOTUSMarriage http://t.co/5sFC8KbJLR",
+    "entities": {
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/5sFC8KbJLR",
+                "expanded_url": "https://twitter.com/NBCNightlyNews/status/614594195479752704/photo/1",
+                "display_url": "pic.twitter.com/5sFC8KbJLR"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 7,
+                "end": 22,
+                "username": "NBCNightlyNews",
+                "id": "8839632"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 117,
+                "tag": "SCOTUSMarriage"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 34,
+                "probability": 0.7658,
+                "type": "Place",
+                "normalized_text": "White House"
+            },
+            {
+                "start": 81,
+                "end": 93,
+                "probability": 0.511,
+                "type": "Organization",
+                "normalized_text": "Supreme Court"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 8839632
+}

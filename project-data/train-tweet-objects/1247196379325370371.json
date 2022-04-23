@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-06 16:16:03+00:00",
+    "id": 1247196379325370371,
+    "text": "https://t.co/nwg5NFWCHZ\nMyth busters in the above link-World Health Organization. \n\n\"Can eating garlic help prevent infection with the new coronavirus?\"\nHow about the sun?",
+    "entities": {
+        "urls": [
+            {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/nwg5NFWCHZ",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

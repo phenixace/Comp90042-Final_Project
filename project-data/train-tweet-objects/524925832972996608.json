@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-22 14:10:45+00:00",
+    "id": 524925832972996608,
+    "text": "Live update from Parliament.. \u201c@KatieSimpson24: Scene at Ottawa war memorial. Soldier on duty shot. http://t.co/HVW1tcIrVy\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 26,
+                "probability": 0.5187,
+                "type": "Place",
+                "normalized_text": "Parliament"
+            },
+            {
+                "start": 57,
+                "end": 62,
+                "probability": 0.9335,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 46,
+                "username": "KatieSimpson24",
+                "id": "2905521124"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/HVW1tcIrVy",
+                "expanded_url": "https://twitter.com/KatieSimpson24/status/524925033626738688/photo/1",
+                "display_url": "pic.twitter.com/HVW1tcIrVy"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 24215395
+}

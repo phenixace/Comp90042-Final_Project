@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-26 18:46:45+00:00",
+    "id": 537678865758695424,
+    "text": "@yusufyuie @deray I hope people don't watch this bull****! No ratings for ABC. #sick",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 17,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 84,
+                "tag": "sick"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 76,
+                "probability": 0.5441,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "source": "TweetCaster for iOS",
+    "in_reply_to_user_id": 29417304
+}

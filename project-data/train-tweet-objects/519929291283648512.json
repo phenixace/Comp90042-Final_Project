@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08 19:16:17+00:00",
+    "id": 519929291283648512,
+    "text": "@mystikalgod666 @ComplexMag he's obviously a dick",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "mystikalgod666",
+                "id": "970717333"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 970717333
+}

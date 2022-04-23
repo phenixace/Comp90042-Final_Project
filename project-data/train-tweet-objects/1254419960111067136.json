@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-26 14:39:59+00:00",
+    "id": 1254419960111067136,
+    "text": "Really? Because the ones I know were saying COVID-19 is just like the flu until only a few weeks ago https://t.co/M0gdIYMT75",
+    "entities": {
+        "urls": [
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/M0gdIYMT75",
+                "expanded_url": "https://twitter.com/NicoleArbour/status/1254135239175274499",
+                "display_url": "twitter.com/NicoleArbour/s\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

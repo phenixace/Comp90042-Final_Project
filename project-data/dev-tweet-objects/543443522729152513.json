@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-12 16:33:27+00:00",
+    "id": 543443522729152513,
+    "text": "@nytimes All dogs do go to heaven, buddy.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 807095
+}

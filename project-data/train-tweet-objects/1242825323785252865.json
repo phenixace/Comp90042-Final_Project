@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-25 14:47:02+00:00",
+    "id": 1242825323785252865,
+    "text": "@dailyblastlive Fake",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "dailyblastlive",
+                "id": "848997614095814656"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 848997614095814656
+}

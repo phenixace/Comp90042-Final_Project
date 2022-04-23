@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-06-09 20:06:51+00:00",
+    "id": 1270447288255746050,
+    "text": "What is herd immunity and could it work with COVID-19? Find out in the latest installment of our \u201cViral Questions\u201d series. Email your questions to FactCheck@ap.org https://t.co/h6wYNxUIqX",
+    "entities": {
+        "urls": [
+            {
+                "start": 164,
+                "end": 187,
+                "url": "https://t.co/h6wYNxUIqX",
+                "expanded_url": "http://apne.ws/QpYnwDU",
+                "display_url": "apne.ws/QpYnwDU",
+                "status": 200,
+                "unwound_url": "https://apnews.com/6e30b7dd0b8c3fcfd6ca63e1e46d69e0?utm_campaign=SocialFlow&utm_medium=APFactCheck&utm_source=Twitter"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "created_at": "2015-06-27 05:55:12+00:00",
+    "id": 614673310866087936,
+    "text": "@politico More like a stake through the heart of the morality of our country, way to go Bath House Barry.  #ccot #PJNET #tcot #SCOTUS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 103,
+                "probability": 0.1855,
+                "type": "Other",
+                "normalized_text": "Bath House Barry"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 107,
+                "end": 112,
+                "tag": "ccot"
+            },
+            {
+                "start": 113,
+                "end": 119,
+                "tag": "PJNET"
+            },
+            {
+                "start": 120,
+                "end": 125,
+                "tag": "tcot"
+            },
+            {
+                "start": 126,
+                "end": 133,
+                "tag": "SCOTUS"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9300262
+}

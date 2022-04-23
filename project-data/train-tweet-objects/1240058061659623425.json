@@ -1,0 +1,83 @@
+{
+    "created_at": "2020-03-17 23:30:55+00:00",
+    "id": 1240058061659623425,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n15) Coincidence?\n\nFormer White House chief of staff Mick Mulvaney has been appointed by US president Donal Trump as US special envoy to Northern Ireland. the top U.S. diplomat supporting the Northern Ireland peace process\n\nhttps://t.co/izIAtQIlnz",
+    "entities": {
+        "urls": [
+            {
+                "start": 241,
+                "end": 264,
+                "url": "https://t.co/izIAtQIlnz",
+                "expanded_url": "https://twitter.com/kekrepublik/status/1240028273150656514",
+                "display_url": "twitter.com/kekrepublik/st\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 54,
+                "probability": 0.5114,
+                "type": "Place",
+                "normalized_text": "White House"
+            },
+            {
+                "start": 71,
+                "end": 83,
+                "probability": 0.9903,
+                "type": "Person",
+                "normalized_text": "Mick Mulvaney"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "probability": 0.6946,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 120,
+                "end": 130,
+                "probability": 0.9576,
+                "type": "Person",
+                "normalized_text": "Donal Trump"
+            },
+            {
+                "start": 135,
+                "end": 136,
+                "probability": 0.7847,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 155,
+                "end": 170,
+                "probability": 0.8614,
+                "type": "Place",
+                "normalized_text": "Northern Ireland"
+            },
+            {
+                "start": 181,
+                "end": 184,
+                "probability": 0.7856,
+                "type": "Place",
+                "normalized_text": "U.S."
+            },
+            {
+                "start": 210,
+                "end": 225,
+                "probability": 0.7766,
+                "type": "Place",
+                "normalized_text": "Northern Ireland"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

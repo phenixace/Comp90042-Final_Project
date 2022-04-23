@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-17 16:33:28+00:00",
+    "id": 489810126161723392,
+    "text": "@HuffPostUK",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "HuffPostUK",
+                "id": "271413771"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry\u00ae",
+    "in_reply_to_user_id": 271413771
+}

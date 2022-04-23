@@ -1,0 +1,53 @@
+{
+    "created_at": "2014-09-23 19:26:47+00:00",
+    "id": 514496117204353024,
+    "text": "\u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/NwvPWYyiE8\u201d @richardmcnally @jamieheaslip @NiallHarbison",
+    "entities": {
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/NwvPWYyiE8",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "display_url": "ti.me/1uiLm7T"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 8,
+                "end": 15,
+                "probability": 0.9141,
+                "type": "Product",
+                "normalized_text": "iPhone 6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "TIME",
+                "id": "14293310"
+            },
+            {
+                "start": 84,
+                "end": 99,
+                "username": "richardmcnally",
+                "id": "45593024"
+            },
+            {
+                "start": 100,
+                "end": 113,
+                "username": "jamieheaslip",
+                "id": "280430548"
+            },
+            {
+                "start": 114,
+                "end": 128,
+                "username": "NiallHarbison",
+                "id": "14613723"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14293310
+}

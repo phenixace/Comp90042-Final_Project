@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:57+00:00",
+    "id": 1244705189208129538,
+    "text": "u.January 27:  \u201cUnderstanding the time when infected patients may transmit the new #coronavirus (2019-nCoV) virus to others is critical for control efforts.  WHO Situation Report 26 January 2020.\u201d https://t.co/zR2PQ9pIGR",
+    "entities": {
+        "urls": [
+            {
+                "start": 197,
+                "end": 220,
+                "url": "https://t.co/zR2PQ9pIGR",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705189208129538/photo/1",
+                "display_url": "pic.twitter.com/zR2PQ9pIGR"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 83,
+                "end": 95,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

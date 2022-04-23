@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 17:36:53+00:00",
+    "id": 524977706421981184,
+    "text": "@CNN SAd thinking that He is defending the innocent and then the innocent turn out to be the BAD. THis is a soldier's destiny. Be in peace.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

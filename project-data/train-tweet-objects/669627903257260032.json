@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-25 21:25:07+00:00",
+    "id": 669627903257260032,
+    "text": "@snopes great.  back to the drawing board.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "snopes",
+                "id": "14294848"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14294848
+}

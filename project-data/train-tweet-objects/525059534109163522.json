@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-22 23:02:02+00:00",
+    "id": 525059534109163522,
+    "text": "@CBCNews horrific event, that a person felt justified to take this young mans life, is  sad and a terrible day globally. #stopradicalization",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 121,
+                "end": 140,
+                "tag": "stopradicalization"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 6433472
+}

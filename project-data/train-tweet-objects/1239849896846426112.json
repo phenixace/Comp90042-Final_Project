@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17 09:43:45+00:00",
+    "id": 1239849896846426112,
+    "text": "@WHOWPRO I wear rubber gloves to avoid touching my face when I\u2019m out ! Once am home I throw them away and wash my hands with soap and hot water !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3794682452
+}

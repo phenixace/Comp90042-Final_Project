@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 19:53:40+00:00",
+    "id": 525012130157056000,
+    "text": "@CNN Truly heartbroken to hear this.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

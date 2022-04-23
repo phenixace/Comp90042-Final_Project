@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-10 08:53:47+00:00",
+    "id": 531731433006825473,
+    "text": "@meta_gear @IGN That sounds fucking disgusting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Meta_Gear",
+                "id": "1510663176865693697"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 289041919
+}

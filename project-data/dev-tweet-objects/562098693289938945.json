@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-02 04:02:26+00:00",
+    "id": 562098693289938945,
+    "text": "@gamespot Now, if they get March Madness correct then I'll be impressed.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "GameSpot",
+                "id": "7157132"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 7157132
+}

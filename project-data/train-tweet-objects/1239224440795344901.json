@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-15 16:18:25+00:00",
+    "id": 1239224440795344901,
+    "text": "Reiterating a point made previous, people most at risk are those 65 and older and those with preexisting conditions.\nShe said children diagnosed with coronavirus 19 years and under are \"doing very well.\"\n\n\"For our children it sounds like God has smiled on us.\"",
+    "entities": {
+        "annotations": [
+            {
+                "start": 238,
+                "end": 240,
+                "probability": 0.9802,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1909381968
+}

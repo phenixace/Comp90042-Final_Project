@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-09 14:23:42+00:00",
+    "id": 542323706975236096,
+    "text": "@CronkiteSays ROFLMAO\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CronkiteSays",
+                "id": "2546562188"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2546562188
+}

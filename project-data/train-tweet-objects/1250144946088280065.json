@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 19:32:36+00:00",
+    "id": 1250144946088280065,
+    "text": "@citizentvkenya Yes cz wa2 wa kanusu c rahisi wagonjeke ata Homa ya kawaida",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-02-27 07:04:27+00:00",
+    "id": 1232924440553496576,
+    "text": "Does the new coronavirus affect older people, or are younger people also susceptible? https://t.co/soibutQFbp",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/soibutQFbp",
+                "expanded_url": "https://twitter.com/fursid/status/1232924440553496576/photo/1",
+                "display_url": "pic.twitter.com/soibutQFbp"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14196465
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-05 22:17:39+00:00",
+    "id": 518887768370708480,
+    "text": "@Brimshack @ucphoto @JarridWilson And profit from... But religion has always been a profit business so nothing new there",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Brimshack",
+                "id": "525595860"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "ucphoto",
+                "id": "187478912"
+            },
+            {
+                "start": 20,
+                "end": 33,
+                "username": "JarridWilson",
+                "id": "17076385"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 525595860
+}

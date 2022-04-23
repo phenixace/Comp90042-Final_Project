@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 04:46:39+00:00",
+    "id": 614656060985634817,
+    "text": "@daddylouist @Magdalena0113 actually that's caused by light entering and exiting tiny drops of rain and being refracted...oh never mind....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "daddylouist",
+                "id": "3402831455"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "Magdalena0113",
+                "id": "1380677004"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 605822673
+}

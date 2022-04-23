@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-05-01 10:38:09+00:00",
+    "id": 1256171043166838784,
+    "text": "@devin101 @clay_reece @DanielNewman It is exactly what freedom is. You can try to diminish it all you want but it's about the Gov overstepping and trampling their rights whether you like it or not. We have to listen to your foolishness don't we?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "devin101",
+                "id": "17228364"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "clay_reece",
+                "id": "2434879056"
+            },
+            {
+                "start": 22,
+                "end": 35,
+                "username": "DanielNewman",
+                "id": "196415460"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 17228364
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 03:27:07+00:00",
+    "id": 1244103768406241282,
+    "text": "@priyapyadav18 Becouse some stupids will cheer up and tump thier chest with nationalism",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

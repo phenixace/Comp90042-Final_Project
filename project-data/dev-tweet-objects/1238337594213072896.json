@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-03-13 05:34:24+00:00",
+    "id": 1238337594213072896,
+    "text": "@TedH6 @KyleAMadson Read the part where it says, \"COVID-19 virus can be transmitted in areas with hot and humid climates\" \ud83e\udd23\ud83e\udd23\ud83e\udd23\n\nhttps://t.co/uA2zYlwAeY",
+    "entities": {
+        "urls": [
+            {
+                "start": 127,
+                "end": 150,
+                "url": "https://t.co/uA2zYlwAeY",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "TedH6",
+                "id": "1189413092909666309"
+            },
+            {
+                "start": 7,
+                "end": 19,
+                "username": "KyleAMadson",
+                "id": "43921895"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1189413092909666309
+}

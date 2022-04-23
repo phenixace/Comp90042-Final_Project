@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-13 21:41:42+00:00",
+    "id": 510906190910341120,
+    "text": "@IsraelHatzolah BD\"E",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 322572436
+}

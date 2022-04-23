@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-08 17:59:08+00:00",
+    "id": 509038240494813184,
+    "text": "@honeycuttitout @BuzzFeed dreams crushed @Durex_USA get it together",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "honeycuttitout",
+                "id": "311529219"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 41,
+                "end": 51,
+                "username": "Durex_USA",
+                "id": "185022585"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 311529219
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-12-15 07:36:39+00:00",
+    "id": 544395599345242113,
+    "text": "@potbellyman123 @carolinemarcus @nswpolice agreed. No naming hostages. We do not need to know. Please respect them.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "potbellyman123",
+                "id": "575370183"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "carolinemarcus",
+                "id": "22724717"
+            },
+            {
+                "start": 32,
+                "end": 42,
+                "username": "nswpolice",
+                "id": "23041630"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 575370183
+}

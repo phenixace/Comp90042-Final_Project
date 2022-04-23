@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-09 16:15:21+00:00",
+    "id": 520246144451248128,
+    "text": "@mashable Yeah but the prick in the driver's seat is totally real.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 972651
+}

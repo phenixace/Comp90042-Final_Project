@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-07 11:53:22+00:00",
+    "id": 552795124288073729,
+    "text": "@galaturco @AFPphoto how do you know that the attackers were muslims?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "AFPphoto",
+                "id": "868112707"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2464502209
+}

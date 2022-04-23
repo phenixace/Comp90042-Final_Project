@@ -1,0 +1,31 @@
+{
+    "created_at": "2020-04-27 09:31:01+00:00",
+    "id": 1254704596175294464,
+    "text": "Well done Australia. We\u2019ve just passed 2m downloads for COVIDSafe.  \n\nBut we\u2019ve still got more to do keep you &amp; your family safe, protect our doctors &amp; nurses &amp; help us get back to the way of life we love.\n\nJoin us in stopping the spread, download it now.\n\nhttps://t.co/Cg7e1mK3eU",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 18,
+                "probability": 0.955,
+                "type": "Place",
+                "normalized_text": "Australia"
+            }
+        ],
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/Cg7e1mK3eU",
+                "expanded_url": "https://covidsafe.gov.au",
+                "display_url": "covidsafe.gov.au",
+                "status": 200,
+                "title": "COVIDSafe app",
+                "description": "The COVIDSafe app speeds up contacting people exposed to coronavirus (COVID-19). This helps us support and protect you, your friends and family. Please read the content on this page before downloading.",
+                "unwound_url": "https://covidsafe.gov.au"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

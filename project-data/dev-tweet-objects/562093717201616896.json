@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-02-02 03:42:40+00:00",
+    "id": 562093717201616896,
+    "text": "Madden NFL 15 simulation correctly predicted the Super Bowl's final score. http://t.co/OiJs6JtWsM http://t.co/n72dCUUXpe",
+    "entities": {
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/OiJs6JtWsM",
+                "expanded_url": "http://l.gamespot.com/1zLSm10",
+                "display_url": "l.gamespot.com/1zLSm10"
+            },
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/n72dCUUXpe",
+                "expanded_url": "https://twitter.com/gamespot/status/562093717201616896/photo/1",
+                "display_url": "pic.twitter.com/n72dCUUXpe"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 12,
+                "probability": 0.7108,
+                "type": "Product",
+                "normalized_text": "Madden NFL 15"
+            },
+            {
+                "start": 49,
+                "end": 58,
+                "probability": 0.4839,
+                "type": "Other",
+                "normalized_text": "Super Bowl"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

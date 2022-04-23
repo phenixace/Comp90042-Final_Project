@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-21 21:13:37+00:00",
+    "id": 524669862103113728,
+    "text": "@kaylise_ @KHOU ....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "kaylise_",
+                "id": "2906547355"
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "username": "KHOU",
+                "id": "15791186"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 502352528
+}

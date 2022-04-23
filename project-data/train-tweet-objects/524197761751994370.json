@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20 13:57:40+00:00",
+    "id": 524197761751994370,
+    "text": "@piersmorgan @s6floozy even old art is vandalism of a nice clean canvas ...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "s6floozy",
+                "id": "88416538"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 216299334
+}

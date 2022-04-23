@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-14 12:26:06+00:00",
+    "id": 643400327505543169,
+    "text": "@LibertyUSA1776 -Germany failed 2 think this Refugee Invasion through &amp; could haveBeen avoided. (WAKE UP @ CONGRESS orSame will happen here)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "probability": 0.9755,
+                "type": "Place",
+                "normalized_text": "Germany"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300205033
+}

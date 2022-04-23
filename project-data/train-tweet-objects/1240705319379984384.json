@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-03-19 18:22:53+00:00",
+    "id": 1240705319379984384,
+    "text": "31) #NewCrownVirus \ud83d\udc51\n\nCHINA\ud83c\udde8\ud83c\uddf3 #propaganda from the creators of Corona\nhttps://t.co/IjD2SlNgTJ",
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/IjD2SlNgTJ",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240702876013355009",
+                "display_url": "twitter.com/jj_talking/sta\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            },
+            {
+                "start": 30,
+                "end": 41,
+                "tag": "propaganda"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 27,
+                "probability": 0.7424,
+                "type": "Place",
+                "normalized_text": "CHINA"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

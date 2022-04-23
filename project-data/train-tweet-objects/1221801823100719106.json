@@ -1,0 +1,84 @@
+{
+    "created_at": "2020-01-27 14:27:09+00:00",
+    "id": 1221801823100719106,
+    "text": "@CarrotPuffer @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO @CarrotPuffer Hi. Thanks for your question. There is currently no specific treatment for disease caused by the new #coronavirus (2019-nCoV).\nFor more information on prevention, please follow this Twitter thread: https://t.co/dSz6grP7xh",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 187,
+                "end": 199,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "carrotpuffer",
+                "id": "1397370581067210752"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 33,
+                "end": 44,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 63,
+                "end": 71,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 72,
+                "end": 85,
+                "username": "carrotpuffer",
+                "id": "1397370581067210752"
+            }
+        ],
+        "urls": [
+            {
+                "start": 284,
+                "end": 307,
+                "url": "https://t.co/dSz6grP7xh",
+                "expanded_url": "https://twitter.com/WHO/status/1218255692831903744?s=20",
+                "display_url": "twitter.com/WHO/status/121\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 268,
+                "end": 274,
+                "probability": 0.7077,
+                "type": "Product",
+                "normalized_text": "Twitter"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1207662454508904448
+}

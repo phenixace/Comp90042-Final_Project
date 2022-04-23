@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-13 19:22:25+00:00",
+    "id": 643142708798861312,
+    "text": "@BorucJan @RBartkow i sie zacz\u0119\u0142o Kopacz ani kurwa my\u015bl tych ludzi \u015bci\u0105ga\u0107 do mojego domu Polski.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "RBartkow",
+                "id": "2731157960"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1165253690
+}

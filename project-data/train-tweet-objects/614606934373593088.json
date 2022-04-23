@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27 01:31:26+00:00",
+    "id": 614606934373593088,
+    "text": "@AP  we have prostituted ourselves!...The Whore of Babylon we've become!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 57,
+                "probability": 0.4218,
+                "type": "Other",
+                "normalized_text": "The Whore of Babylon"
+            }
+        ]
+    },
+    "source": "TweetList Pro",
+    "in_reply_to_user_id": 51241574
+}

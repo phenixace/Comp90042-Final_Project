@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-15 21:24:50+00:00",
+    "id": 676875586891964416,
+    "text": "@ABC \ud83d\ude03\ud83d\ude03\ud83d\ude03",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28785486
+}

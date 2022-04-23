@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-03 18:42:38+00:00",
+    "id": 551448565906567169,
+    "text": "@FoxNews Great memories of a hilarious sitcom!!  Rest in peace Donna...",
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 67,
+                "probability": 0.9212,
+                "type": "Person",
+                "normalized_text": "Donna"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

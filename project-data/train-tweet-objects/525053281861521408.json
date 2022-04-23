@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-22 22:37:12+00:00",
+    "id": 525053281861521408,
+    "text": "@CBCNews ~ a moment in time we, as Canadians will always remember. God bless all those who protect us.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 43,
+                "probability": 0.527,
+                "type": "Person",
+                "normalized_text": "Canadians"
+            },
+            {
+                "start": 67,
+                "end": 69,
+                "probability": 0.8959,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 6433472
+}

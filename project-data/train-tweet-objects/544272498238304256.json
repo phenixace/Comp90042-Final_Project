@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-14 23:27:30+00:00",
+    "id": 544272498238304256,
+    "text": "@newscomauHQ",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "newscomauHQ",
+                "id": "15250661"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15250661
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-03-28 01:22:32+00:00",
+    "id": 1243710027661217800,
+    "text": "Good demonstration of what it's like to develop #COVID19, day by day.  \n\nProduced by @rae_tang @businessinsider https://t.co/z1bUp13kQt",
+    "entities": {
+        "mentions": [
+            {
+                "start": 85,
+                "end": 94,
+                "username": "rae_tang",
+                "id": "1009928886"
+            },
+            {
+                "start": 95,
+                "end": 111,
+                "username": "BusinessInsider",
+                "id": "20562637"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 56,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 112,
+                "end": 135,
+                "url": "https://t.co/z1bUp13kQt",
+                "expanded_url": "https://twitter.com/techinsider/status/1240392196014178306",
+                "display_url": "twitter.com/techinsider/st\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 93618872
+}

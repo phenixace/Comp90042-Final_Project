@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-04-04 13:38:31+00:00",
+    "id": 1246431959154413569,
+    "text": "Does the new coronavirus affect older people, or are younger people also susceptible? #COVID19 #21daysLockdownSA https://t.co/gZKKxMXlpM",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 86,
+                "end": 94,
+                "tag": "COVID19"
+            },
+            {
+                "start": 95,
+                "end": 112,
+                "tag": "21daysLockdownSA"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 136,
+                "url": "https://t.co/gZKKxMXlpM",
+                "expanded_url": "https://twitter.com/GP_CommSafety/status/1246431959154413569/photo/1",
+                "display_url": "pic.twitter.com/gZKKxMXlpM"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

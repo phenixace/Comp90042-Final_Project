@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:29+00:00",
+    "id": 1234884613488570370,
+    "text": "How does COVID-19 spread? https://t.co/KNO5nXbh8b",
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/KNO5nXbh8b",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884613488570370/photo/1",
+                "display_url": "pic.twitter.com/KNO5nXbh8b"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

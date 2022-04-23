@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-09-29 17:45:31+00:00",
+    "id": 516644957147643905,
+    "text": "@DavidJo52951945 @elenafreedman Economic counter jihad is needed: http://t.co/WN0Ja3amW6",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "elenafreedman",
+                "id": "61130488"
+            }
+        ],
+        "urls": [
+            {
+                "start": 66,
+                "end": 88,
+                "url": "http://t.co/WN0Ja3amW6",
+                "expanded_url": "http://real-deal-blog.com/2013/05/26/brits-starting-to-boycott-asian-and-muslim-businesses/",
+                "display_url": "real-deal-blog.com/2013/05/26/bri\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1125937411
+}

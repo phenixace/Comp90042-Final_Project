@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-02-10 07:14:52+00:00",
+    "id": 1226766465958731776,
+    "text": "Odd rumors about #coronavirus according to WHO's \"myth busting\" post: \n- Can eating garlic help prevent infection with the new coronavirus? Answer: No\n- Does putting on sesame oil block the new coronavirus from entering the body? Answer: No https://t.co/AICouAVKzB",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 17,
+                "end": 29,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 241,
+                "end": 264,
+                "url": "https://t.co/AICouAVKzB",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

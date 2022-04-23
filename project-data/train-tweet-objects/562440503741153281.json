@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-02-03 02:40:40+00:00",
+    "id": 562440503741153281,
+    "text": "@Squarespace @TheJeffBridges The DUDE ROCKS!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14319981
+}

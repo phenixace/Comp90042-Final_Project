@@ -1,0 +1,45 @@
+{
+    "created_at": "2020-03-10 09:02:03+00:00",
+    "id": 1237302689966501889,
+    "text": "So don't forget that this Friday @MaKSPH in collaboration with @WHOUganda,  @MinofHealthU, @AFENETAfrica is organizing the #COVID19PublicDialogueUg https://t.co/KNLA7kQCZJ",
+    "entities": {
+        "mentions": [
+            {
+                "start": 33,
+                "end": 40,
+                "username": "MakSPH",
+                "id": "631151488"
+            },
+            {
+                "start": 63,
+                "end": 73,
+                "username": "WHOUganda",
+                "id": "2599562040"
+            },
+            {
+                "start": 91,
+                "end": 104,
+                "username": "AFENETAfrica",
+                "id": "370524085"
+            }
+        ],
+        "urls": [
+            {
+                "start": 148,
+                "end": 171,
+                "url": "https://t.co/KNLA7kQCZJ",
+                "expanded_url": "https://twitter.com/EddiePages/status/1237302689966501889/photo/1",
+                "display_url": "pic.twitter.com/KNLA7kQCZJ"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 123,
+                "end": 147,
+                "tag": "COVID19PublicDialogueUg"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3225068554
+}

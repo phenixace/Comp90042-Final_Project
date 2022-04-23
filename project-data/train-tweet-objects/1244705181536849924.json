@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:55+00:00",
+    "id": 1244705181536849924,
+    "text": "January 27:\u201cQ: Does the new #coronavirus affect older people,are younger people also susceptible?A: People of all ages can be infected by the virus.Older people and those with pre-existing medical conditions appear to be more vulnerable to becoming severely ill with the virus.\u201d https://t.co/1fwAFxaPGo",
+    "entities": {
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/1fwAFxaPGo",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705181536849924/photo/1",
+                "display_url": "pic.twitter.com/1fwAFxaPGo"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 40,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

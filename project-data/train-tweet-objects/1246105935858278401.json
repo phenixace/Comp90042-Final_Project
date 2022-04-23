@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-04-03 16:03:01+00:00",
+    "id": 1246105935858278401,
+    "text": "@SydQuam @icantnottweet Why do people want to make the US into Europe when Europeans come here to live? If the standard of living were vastly superior, wouldn\u2019t they stay where the were?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 56,
+                "probability": 0.9413,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 63,
+                "end": 68,
+                "probability": 0.9649,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "SydQuam",
+                "id": "1069768989209899013"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "icantnottweet",
+                "id": "122407385"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1069768989209899013
+}

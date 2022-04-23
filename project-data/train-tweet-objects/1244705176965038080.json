@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:54+00:00",
+    "id": 1244705176965038080,
+    "text": "January 27:  \u201cIn outbreaks of other #coronavirus (MERS &amp; SARS), person-to-person transmission occurred through droplets, contact and fomites, suggesting that the transmission mode of the 2019-nCoV can be similar WHO Situation report, 27 January 202 (Informational Graphic)\u201d https://t.co/vN0JNBpqSQ",
+    "entities": {
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/vN0JNBpqSQ",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705176965038080/photo/1",
+                "display_url": "pic.twitter.com/vN0JNBpqSQ"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 48,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

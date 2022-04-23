@@ -1,0 +1,68 @@
+{
+    "created_at": "2020-01-28 01:19:20+00:00",
+    "id": 1221965952235003908,
+    "text": "@WHO @mashbywood @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Why are you not stopping all flights to UK?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 115,
+                "end": 116,
+                "probability": 0.9928,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "mashbywood",
+                "id": "516842840"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 26,
+                "end": 35,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 57,
+                "end": 65,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14499829
+}

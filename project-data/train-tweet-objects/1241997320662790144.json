@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23 07:56:51+00:00",
+    "id": 1241997320662790144,
+    "text": "@omorin_ola Same as those of being broke. Lol.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "omorin_ola",
+                "id": "903331717209100288"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 903331717209100288
+}

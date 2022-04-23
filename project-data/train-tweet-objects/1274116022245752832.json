@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-06-19 23:05:06+00:00",
+    "id": 1274116022245752832,
+    "text": "@SirChau23 @Dockster52 @PeteThamel @YahooSports What is the most likely end game of Covid 19?    Never a effective vaccine against a Coronavirus so far.   Far more likely to end/really slow with some herd immunity than any other end.   Best young people get it while together instead of any time period around family.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "Dockster52",
+                "id": "1220328506548281344"
+            },
+            {
+                "start": 23,
+                "end": 34,
+                "username": "PeteThamel",
+                "id": "68441962"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "username": "YahooSports",
+                "id": "7302282"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1207893420578095104
+}

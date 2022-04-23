@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-08-30 17:22:57+00:00",
+    "id": 638039216094474240,
+    "text": "@RubyRose @TheValleyReport @bryanboy That is so crazy!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "rubyrose",
+                "id": "761981742202884097"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "bryanboy",
+                "id": "7092102"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 23741531
+}

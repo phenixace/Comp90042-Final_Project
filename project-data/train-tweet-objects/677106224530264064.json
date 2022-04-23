@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-16 12:41:18+00:00",
+    "id": 677106224530264064,
+    "text": "@ABC lesson to be learned..I destroy old license plates.nothing goes anywhere with my name numbers.haunt.poor guy..no case..not in writing..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 28785486
+}

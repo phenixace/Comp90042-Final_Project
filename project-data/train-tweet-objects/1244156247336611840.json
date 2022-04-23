@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-03-29 06:55:39+00:00",
+    "id": 1244156247336611840,
+    "text": "Why is the lockdown for 21 days? The science explained. \nhttps://t.co/kGjiiavw4l",
+    "entities": {
+        "urls": [
+            {
+                "start": 57,
+                "end": 80,
+                "url": "https://t.co/kGjiiavw4l",
+                "expanded_url": "https://www.thenewsminute.com/article/why-lockdown-21-days-long-experts-break-it-down-you-121344?amp&__twitter_impression=true",
+                "display_url": "thenewsminute.com/article/why-lo\u2026",
+                "status": 200,
+                "unwound_url": "https://www.thenewsminute.com/article/why-lockdown-21-days-long-experts-break-it-down-you-121344?amp&__twitter_impression=true"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 60843563
+}

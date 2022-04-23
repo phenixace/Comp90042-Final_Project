@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 16:59:33+00:00",
+    "id": 501775489657090049,
+    "text": "@YourAnonNews @FergusonUnity Have you seen any accurate injury stats? All that tear gas and rubber bullets ppl are getting hurt.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "FergusonUnity",
+                "id": "1376334719281991682"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279390084
+}

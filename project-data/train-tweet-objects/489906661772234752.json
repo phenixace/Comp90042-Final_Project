@@ -1,0 +1,44 @@
+{
+    "created_at": "2014-07-17 22:57:04+00:00",
+    "id": 489906661772234752,
+    "text": "@Independent EUROPE, WAKE UP! PUTIN, FUCK OFF! http://t.co/3v72434jTm",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 18,
+                "probability": 0.9777,
+                "type": "Place",
+                "normalized_text": "EUROPE"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "probability": 0.9219,
+                "type": "Person",
+                "normalized_text": "PUTIN"
+            }
+        ],
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/3v72434jTm",
+                "expanded_url": "http://youtu.be/stH1hN8JyBI",
+                "display_url": "youtu.be/stH1hN8JyBI",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=stH1hN8JyBI&feature=youtu.be"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16973333
+}

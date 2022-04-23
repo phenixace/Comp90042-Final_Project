@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-08 18:03:24+00:00",
+    "id": 531144973165809665,
+    "text": "\u201c@BuzzFeed: Good Sweet Lord, Pepsi Is Actually Testing A Doritos-Flavored Mountain Dew\nhttp://t.co/Fn92g6KCKG http://t.co/rXSM9Kbmpg\u201d\ud83d\ude37",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/Fn92g6KCKG",
+                "expanded_url": "http://bzfd.it/1xiSdyk",
+                "display_url": "bzfd.it/1xiSdyk"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/rXSM9Kbmpg",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/531085761521528834/photo/1",
+                "display_url": "pic.twitter.com/rXSM9Kbmpg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

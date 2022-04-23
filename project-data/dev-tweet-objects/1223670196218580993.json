@@ -1,0 +1,68 @@
+{
+    "created_at": "2020-02-01 18:11:24+00:00",
+    "id": 1223670196218580993,
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Does putting on or eating sesame oil block the #2019nC0V from entering the body?\nA: No. Sesame oil is delicious but it does not kill 2019-nCoV.\n\n#KnowTheFacts https://t.co/vJU7i1VXjb",
+    "entities": {
+        "urls": [
+            {
+                "start": 220,
+                "end": 243,
+                "url": "https://t.co/vJU7i1VXjb",
+                "expanded_url": "https://twitter.com/WHO/status/1223670196218580993/photo/1",
+                "display_url": "pic.twitter.com/vJU7i1VXjb"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 108,
+                "end": 117,
+                "tag": "2019nC0V"
+            },
+            {
+                "start": 206,
+                "end": 219,
+                "tag": "KnowTheFacts"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

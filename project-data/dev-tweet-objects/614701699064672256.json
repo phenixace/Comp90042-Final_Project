@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27 07:48:00+00:00",
+    "id": 614701699064672256,
+    "text": "@politico Beautiful/pride!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 9300262
+}

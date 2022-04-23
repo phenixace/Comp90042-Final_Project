@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-09-08 17:38:35+00:00",
+    "id": 509033069891047424,
+    "text": "cc @nickdotvr hah RT @BuzzFeed BREAKING NEWS: Durex has NOT come out with a pumpkin spice condom\nhttp://t.co/k27DBPqVj1",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 13,
+                "username": "nickdotvr",
+                "id": "14400048"
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/k27DBPqVj1",
+                "expanded_url": "http://bzfd.it/1tmSvA3",
+                "display_url": "bzfd.it/1tmSvA3"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 5695632
+}

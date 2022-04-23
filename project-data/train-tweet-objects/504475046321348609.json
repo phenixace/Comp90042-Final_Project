@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-08-27 03:46:38+00:00",
+    "id": 504475046321348609,
+    "text": "@SportsBizNews 100th anniversary of the Seattle Metropolitans winning the Stanley Cup also",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 60,
+                "probability": 0.7547,
+                "type": "Organization",
+                "normalized_text": "Seattle Metropolitans"
+            },
+            {
+                "start": 74,
+                "end": 84,
+                "probability": 0.4997,
+                "type": "Other",
+                "normalized_text": "Stanley Cup"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 29849267
+}

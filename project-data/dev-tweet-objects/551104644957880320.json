@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-01-02 19:56:01+00:00",
+    "id": 551104644957880320,
+    "text": "In her honor, I pledge to use the word \"critters\" more often. MT @Variety: Donna Douglas, Elly May on \u2018Beverly Hillbillies,\u2019 Dies at 81",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 87,
+                "probability": 0.9952,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            },
+            {
+                "start": 90,
+                "end": 97,
+                "probability": 0.5969,
+                "type": "Person",
+                "normalized_text": "Elly May"
+            },
+            {
+                "start": 103,
+                "end": 121,
+                "probability": 0.6903,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 65,
+                "end": 73,
+                "username": "Variety",
+                "id": "17525171"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17525171
+}

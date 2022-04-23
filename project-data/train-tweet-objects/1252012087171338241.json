@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 23:11:57+00:00",
+    "id": 1252012087171338241,
+    "text": "@DrZweliMkhize Please instruct retailers to issue their staff with face masks. We cannot stay 1m away from cashiers when paying!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 844486678324658176
+}

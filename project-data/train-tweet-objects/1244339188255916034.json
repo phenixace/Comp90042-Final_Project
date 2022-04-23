@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-29 19:02:35+00:00",
+    "id": 1244339188255916034,
+    "text": "@iefamharris Na @Adeoluwa_noble put us for call waiting and just disappear",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "iefamharris",
+                "id": "282383532"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "Adeoluwa_noble",
+                "id": "393559303"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 282383532
+}

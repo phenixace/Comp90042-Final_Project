@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-13 07:51:45+00:00",
+    "id": 554908645163421696,
+    "text": "@Telegraph horrible!!! Needless. Did Dubya kill himself after 9/11 or just go brain-dead...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.8691,
+                "type": "Person",
+                "normalized_text": "Dubya"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16343974
+}

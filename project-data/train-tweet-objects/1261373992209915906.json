@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-05-15 19:12:49+00:00",
+    "id": 1261373992209915906,
+    "text": "OSSTF Tentative Agreement Ratification Voting Extended to 4pm Sat.\n\nExtension is due to a high volume of late requests for registration support, resulting in difficulties for some members. Inquiries to Membership Database received after 4pm today will not be processed. \n#OSSTF https://t.co/nDuCNWhxwS",
+    "entities": {
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/nDuCNWhxwS",
+                "expanded_url": "https://twitter.com/osstf/status/1261373992209915906/photo/1",
+                "display_url": "pic.twitter.com/nDuCNWhxwS"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 271,
+                "end": 277,
+                "tag": "OSSTF"
+            }
+        ]
+    },
+    "source": "Sprout Social",
+    "in_reply_to_user_id": null
+}

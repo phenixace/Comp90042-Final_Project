@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-07-01 18:30:45+00:00",
+    "id": 351769862118445057,
+    "text": "@RealAlexJones Paranoid. Delusional.  Idiotic.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 109065990
+}

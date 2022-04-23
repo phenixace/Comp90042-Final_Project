@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-06-15 14:08:12+00:00",
+    "id": 1272531356291985409,
+    "text": "Here's your guide to frequently used coronavirus-related terms. #ContaminatedZone #CoronavirusOutbreak \n\nhttps://t.co/b9QXnzoKMv https://t.co/QsUusJ8l1c",
+    "entities": {
+        "urls": [
+            {
+                "start": 105,
+                "end": 128,
+                "url": "https://t.co/b9QXnzoKMv",
+                "expanded_url": "https://mybs.in/2YO0Gig",
+                "display_url": "mybs.in/2YO0Gig",
+                "status": 200,
+                "unwound_url": "https://www.business-standard.com/article/current-affairs/what-is-herd-immunity-10-most-common-used-terms-amid-coronavirus-scare-120061500282_1.html"
+            },
+            {
+                "start": 129,
+                "end": 152,
+                "url": "https://t.co/QsUusJ8l1c",
+                "expanded_url": "https://twitter.com/bsindia/status/1272531356291985409/photo/1",
+                "display_url": "pic.twitter.com/QsUusJ8l1c"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 81,
+                "tag": "ContaminatedZone"
+            },
+            {
+                "start": 82,
+                "end": 102,
+                "tag": "CoronavirusOutbreak"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 43855487
+}

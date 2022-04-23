@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-02-19 15:45:10+00:00",
+    "id": 436164563747475456,
+    "text": "@CNN @andrewzimmern uh oh that's my #2 fave flavor. Yes I have an order of faves. BBQ beef. Philly. Cheeseburger. 4 cheeses.ham and cheese.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "andrewzimmern",
+                "id": "17008726"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

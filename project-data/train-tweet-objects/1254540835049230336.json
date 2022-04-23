@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26 22:40:17+00:00",
+    "id": 1254540835049230336,
+    "text": "@TIME Doesn\u2019t load properly. Please fix.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14293310
+}

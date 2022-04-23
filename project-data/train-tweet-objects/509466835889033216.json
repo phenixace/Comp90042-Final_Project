@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-09-09 22:22:13+00:00",
+    "id": 509466835889033216,
+    "text": "@Kotaku @TNADARKKNIGHT Fuck Kotaku anyways. #GamerGate",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kotaku",
+                "id": "11928542"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 54,
+                "tag": "GamerGate"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 11928542
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-02-03 00:39:49+00:00",
+    "id": 562410090947682305,
+    "text": "@DiTzZjw @Phillipbible1 @ABC they did 2 days before the sb",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "DiTzZjw",
+                "id": "330018226"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "Phillipbible1",
+                "id": "2705761489"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 330018226
+}

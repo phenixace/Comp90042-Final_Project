@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-13 06:58:43+00:00",
+    "id": 554895301316591616,
+    "text": "FWIW, his 2nd in command comitted suicide in 2013, &amp; he found the body. So, there's that. :P @Telegraph @wonderfullone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 97,
+                "end": 107,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 108,
+                "end": 122,
+                "username": "wonderfullone",
+                "id": "85881268"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16343974
+}

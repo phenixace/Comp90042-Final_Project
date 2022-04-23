@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-25 22:53:00+00:00",
+    "id": 537378449217056768,
+    "text": "@brianstelter It was reported on CNN Brian! @deray",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 35,
+                "probability": 0.7531,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.6037,
+                "type": "Person",
+                "normalized_text": "Brian"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "brianstelter",
+                "id": "14515799"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14515799
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-06-27 05:51:13+00:00",
+    "id": 614672309991919616,
+    "text": "\"@politico: The White House glowing with pride http://t.co/YIN21Clk7R | AP Photo http://t.co/SpYCT93rxW\" pod\u015bwietli\u0107 budynek na Zbawixie :)",
+    "entities": {
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/YIN21Clk7R",
+                "expanded_url": "http://politi.co/1JbDKsS",
+                "display_url": "politi.co/1JbDKsS",
+                "status": 200,
+                "unwound_url": "https://www.politico.com/story/2015/06/white-house-set-aglow-with-rainbow-pride-119490?hp=l1_4"
+            },
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/SpYCT93rxW",
+                "expanded_url": "https://twitter.com/politico/status/614671961801785344/photo/1",
+                "display_url": "pic.twitter.com/SpYCT93rxW"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 9300262
+}

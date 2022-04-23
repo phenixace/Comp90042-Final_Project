@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-20 14:56:27+00:00",
+    "id": 1241015754469728256,
+    "text": "@ducisfuturi @WHOWPRO Iya bos",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ducisfuturi",
+                "id": "73361634"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 73361634
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-24 21:14:35+00:00",
+    "id": 669262862100078593,
+    "text": "@HistoricalPics Is that genuine?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1598644159
+}

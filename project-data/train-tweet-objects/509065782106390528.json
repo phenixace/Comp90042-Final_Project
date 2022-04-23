@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-08 19:48:35+00:00",
+    "id": 509065782106390528,
+    "text": "@BuzzFeed @samm_ashlee \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "samm_ashlee",
+                "id": "377211107"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

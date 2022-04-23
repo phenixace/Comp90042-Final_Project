@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21 15:39:09+00:00",
+    "id": 612645940122378240,
+    "text": "@tchopStL @TimBrellow Brothers in arms",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "TimBrellow",
+                "id": "973153975"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 9112032
+}

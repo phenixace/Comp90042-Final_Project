@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-03-21 22:14:34+00:00",
+    "id": 1241488396272513024,
+    "text": "@IllMortalDeity @Diggrich_ @King_Of_Bait @willchamberlain \u201cStAyINg iN tO avoID coNtrACtIoN iS aUtHoritARiAn YoU guYS!!\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IllMortalDeity",
+                "id": "372280893"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "Diggrich_",
+                "id": "134552828"
+            },
+            {
+                "start": 27,
+                "end": 40,
+                "username": "King_Of_Bait",
+                "id": "311836844"
+            },
+            {
+                "start": 41,
+                "end": 57,
+                "username": "willchamberlain",
+                "id": "21722318"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 372280893
+}

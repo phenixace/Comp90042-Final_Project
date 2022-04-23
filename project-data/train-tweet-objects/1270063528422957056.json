@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-08 18:41:56+00:00",
+    "id": 1270063528422957056,
+    "text": "@JordanaMcCudden I know that the Indy is planning some live coverage so I would recommend following along with that on Election night. Let me know if you have more questions!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 36,
+                "probability": 0.4923,
+                "type": "Place",
+                "normalized_text": "Indy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JordanaMcCudden",
+                "id": "1007112230511337472"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1007112230511337472
+}

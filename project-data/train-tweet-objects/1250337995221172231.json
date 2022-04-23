@@ -1,0 +1,50 @@
+{
+    "created_at": "2020-04-15 08:19:42+00:00",
+    "id": 1250337995221172231,
+    "text": "#IndiaFightsCorona \nHow are #Covid_19 and Influenza viruses different?\n#Lockdown2 #CoronaFighters #StayHomeSaveLives #Covid_19 https://t.co/0AGgX60ORQ",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 18,
+                "tag": "IndiaFightsCorona"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "tag": "Covid_19"
+            },
+            {
+                "start": 71,
+                "end": 81,
+                "tag": "Lockdown2"
+            },
+            {
+                "start": 82,
+                "end": 97,
+                "tag": "CoronaFighters"
+            },
+            {
+                "start": 98,
+                "end": 116,
+                "tag": "StayHomeSaveLives"
+            },
+            {
+                "start": 117,
+                "end": 126,
+                "tag": "Covid_19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 127,
+                "end": 150,
+                "url": "https://t.co/0AGgX60ORQ",
+                "expanded_url": "https://twitter.com/ROBRajasthan/status/1250337995221172231/photo/1",
+                "display_url": "pic.twitter.com/0AGgX60ORQ"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

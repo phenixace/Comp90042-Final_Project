@@ -1,0 +1,25 @@
+{
+    "created_at": "2015-10-21 14:09:04+00:00",
+    "id": 656834590779289600,
+    "text": "10 'Back to the Future' predictions that came true https://t.co/DZqlzIrgm8 https://t.co/JFehRJwmCM",
+    "entities": {
+        "urls": [
+            {
+                "start": 51,
+                "end": 74,
+                "url": "https://t.co/DZqlzIrgm8",
+                "expanded_url": "http://money.us/1LnGg0B",
+                "display_url": "money.us/1LnGg0B"
+            },
+            {
+                "start": 75,
+                "end": 98,
+                "url": "https://t.co/JFehRJwmCM",
+                "expanded_url": "https://twitter.com/MONEY/status/656834590779289600/photo/1",
+                "display_url": "pic.twitter.com/JFehRJwmCM"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

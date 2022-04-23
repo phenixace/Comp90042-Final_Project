@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-27 04:14:53+00:00",
+    "id": 504482155222020096,
+    "text": "@SportsBizNews @MarkLazerus I'm sure that all of Toronto will be emotionally vested in the Non-Leafs.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 55,
+                "probability": 0.9897,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "MarkLazerus",
+                "id": "258970544"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29849267
+}

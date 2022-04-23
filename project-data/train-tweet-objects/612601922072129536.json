@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21 12:44:14+00:00",
+    "id": 612601922072129536,
+    "text": "@tchopStL @theonlyadult\nI know that sounds absurd, but it is a standard practice when you're never getting out of prison!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "theonlyadult",
+                "id": "232851192"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9112032
+}

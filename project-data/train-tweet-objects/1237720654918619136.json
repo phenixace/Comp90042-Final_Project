@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-11 12:42:54+00:00",
+    "id": 1237720654918619136,
+    "text": "To those saying Covid-19 is just like the flu and that \u2018they\u2019ll be grand\u2019, what about those who aren\u2019t as lucky to have healthy immune systems? https://t.co/g7SfcMyDS0",
+    "entities": {
+        "urls": [
+            {
+                "start": 144,
+                "end": 167,
+                "url": "https://t.co/g7SfcMyDS0",
+                "expanded_url": "https://twitter.com/eirigi1916/status/1237714658179657728",
+                "display_url": "twitter.com/eirigi1916/sta\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

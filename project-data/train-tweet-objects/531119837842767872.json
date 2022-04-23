@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-08 16:23:31+00:00",
+    "id": 531119837842767872,
+    "text": "@BuzzFeed on who? ISIS.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 21,
+                "probability": 0.8786,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 5695632
+}

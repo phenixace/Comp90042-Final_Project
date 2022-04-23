@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 18:21:40+00:00",
+    "id": 1250127097496043526,
+    "text": "@citizentvkenya \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02Sonko hukuanga ligi yake ya machizi\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude4c",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

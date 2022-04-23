@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-09-11 23:45:08+00:00",
+    "id": 642484049408335873,
+    "text": "@Lrihendry It's to bad rolled heads isn't real! Then folks might think twice before teaching about islam to kids.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 129235890
+}

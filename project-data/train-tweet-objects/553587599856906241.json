@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-09 16:22:23+00:00",
+    "id": 553587599856906241,
+    "text": "\u00daLTIMA HORA @AFP: \"los rehenes del pistolero liberados y seguros despu\u00e9s del asalto policial\" en Porte de Vincennes.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 97,
+                "end": 114,
+                "probability": 0.9275,
+                "type": "Place",
+                "normalized_text": "Porte de Vincennes"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 12,
+                "end": 16,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 380648579
+}

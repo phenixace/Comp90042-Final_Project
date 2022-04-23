@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-25 10:22:33+00:00",
+    "id": 1276098447901220864,
+    "text": "@TurkiyeBurslari when can we expect the  second round results?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TurkiyeBurslari",
+                "id": "562696246"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 562696246
+}

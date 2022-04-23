@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-09-14 01:27:11+00:00",
+    "id": 643234506577735680,
+    "text": "@LibertyUSA1776 @PJStrikeForce @Pontifex U cannot  see this is invasion by migration?Will it take this happening in the Vatican2SeeTheSigns?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "PJStrikeForce",
+                "id": "121656624"
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "username": "Pontifex",
+                "id": "500704345"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 120,
+                "end": 138,
+                "probability": 0.4053,
+                "type": "Place",
+                "normalized_text": "Vatican2SeeTheSigns"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3300205033
+}

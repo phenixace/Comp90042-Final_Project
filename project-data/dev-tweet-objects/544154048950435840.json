@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-12-14 15:36:49+00:00",
+    "id": 544154048950435840,
+    "text": "Today's Cover: Meet the teen who's made $72 million trading stocks on his lunch breaks http://t.co/Facr5UPGxP http://t.co/4aTPvHrSLI",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/Facr5UPGxP",
+                "expanded_url": "http://nyp.st/1sqI5nT",
+                "display_url": "nyp.st/1sqI5nT"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/4aTPvHrSLI",
+                "expanded_url": "https://twitter.com/nypost/status/544154048950435840/photo/1",
+                "display_url": "pic.twitter.com/4aTPvHrSLI"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

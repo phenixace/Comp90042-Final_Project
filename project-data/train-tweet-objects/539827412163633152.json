@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-02 17:04:19+00:00",
+    "id": 539827412163633152,
+    "text": "@jackhealyNYT @nytimes Shooting someone in the head and lighting their car on fire isn't an \"accident.\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "jackhealyNYT",
+                "id": "373791638"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 373791638
+}

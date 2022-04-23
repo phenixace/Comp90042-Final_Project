@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-16 02:27:42+00:00",
+    "id": 666080169216581632,
+    "text": "@DRUDGE_REPORT Info? So the EFFING what. Demand that they be sent back. Round them up &amp; by the 10th Amendment SEND THEM HOMR",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14669951
+}

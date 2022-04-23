@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-12 17:57:21+00:00",
+    "id": 532593003878449152,
+    "text": "@MetroUK LOOOOOL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MetroUK",
+                "id": "138749160"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry\u00ae",
+    "in_reply_to_user_id": 138749160
+}

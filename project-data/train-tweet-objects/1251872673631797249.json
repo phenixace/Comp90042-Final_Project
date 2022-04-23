@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 13:57:58+00:00",
+    "id": 1251872673631797249,
+    "text": "@DrZweliMkhize @PennyLebyane Do i need a permit to be able to get essentials ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "PennyLebyane",
+                "id": "47609692"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 844486678324658176
+}

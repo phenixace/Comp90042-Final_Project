@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-10 06:08:52+00:00",
+    "id": 1237259105791815680,
+    "text": "@ashleyrwvaughn Seriously though, graph is from data in an article out of China based on 72,000+ cases if you click through.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 74,
+                "end": 78,
+                "probability": 0.9712,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ashleyrwvaughn",
+                "id": "811091867282579456"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 811091867282579456
+}

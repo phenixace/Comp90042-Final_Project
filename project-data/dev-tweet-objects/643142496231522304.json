@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-13 19:21:34+00:00",
+    "id": 643142496231522304,
+    "text": "@BorucJan @robertol04 To zdj\u0119cia z jakiego dnia ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "robertol04",
+                "id": "340866055"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1165253690
+}

@@ -1,0 +1,25 @@
+{
+    "created_at": "2015-01-09 16:24:41+00:00",
+    "id": 553588178687655936,
+    "text": "Reports: #CharlieHebdo suspects killed http://t.co/rsl4203bcQ",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 22,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 39,
+                "end": 61,
+                "url": "http://t.co/rsl4203bcQ",
+                "expanded_url": "http://huff.to/1xMc9KH",
+                "display_url": "huff.to/1xMc9KH"
+            }
+        ]
+    },
+    "source": "The Huffington Post",
+    "in_reply_to_user_id": null
+}

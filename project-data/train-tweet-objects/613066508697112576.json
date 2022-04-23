@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 19:30:20+00:00",
+    "id": 613066508697112576,
+    "text": "@CNNPolitics @cnnbrk @RepMiaLove They should take that money and donate it to the black churches of charleston",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13850422
+}

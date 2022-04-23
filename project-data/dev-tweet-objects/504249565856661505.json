@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-26 12:50:39+00:00",
+    "id": 504249565856661505,
+    "text": "@WesleyLowery @chicoharlan prob emptied his weapon. What kind of weapon do they get issued?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "chicoharlan",
+                "id": "48035012"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14849562
+}

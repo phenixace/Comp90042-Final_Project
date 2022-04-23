@@ -1,0 +1,26 @@
+{
+    "created_at": "2016-01-30 05:13:50+00:00",
+    "id": 693301068474687488,
+    "text": "@TheValleyReport why are the hot ones so crazy? Cuz God says so. Mysterious ways whatever.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 54,
+                "probability": 0.9852,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

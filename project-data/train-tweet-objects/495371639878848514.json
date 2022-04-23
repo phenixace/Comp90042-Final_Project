@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-08-02 00:52:57+00:00",
+    "id": 495371639878848514,
+    "text": "@tastefactory - I have fond memories of being able to stay up late, just so I could watch Hulk on the Aaron's Rent-A-Center\u2122 commercials",
+    "entities": {
+        "annotations": [
+            {
+                "start": 90,
+                "end": 93,
+                "probability": 0.7818,
+                "type": "Person",
+                "normalized_text": "Hulk"
+            },
+            {
+                "start": 102,
+                "end": 106,
+                "probability": 0.4922,
+                "type": "Person",
+                "normalized_text": "Aaron"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "tastefactory",
+                "id": "138102228"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 138102228
+}

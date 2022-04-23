@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-09-19 22:00:10+00:00",
+    "id": 645356735545364480,
+    "text": "DNA Confirms Hakeem from \u2018Empire\u2019 is Jay-Z's Biological Son\n[Read Details\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83c\udffe\ud83d\udc47\ud83c\udfff\nhttp://t.co/OSUr6jz2Jo http://t.co/7s6lvpXcse",
+    "entities": {
+        "urls": [
+            {
+                "start": 82,
+                "end": 104,
+                "url": "http://t.co/OSUr6jz2Jo",
+                "expanded_url": "http://www.celebtricity.com/?p=19917",
+                "display_url": "celebtricity.com/?p=19917"
+            },
+            {
+                "start": 105,
+                "end": 127,
+                "url": "http://t.co/7s6lvpXcse",
+                "expanded_url": "https://twitter.com/ViralStuppid/status/645356735545364480/photo/1",
+                "display_url": "pic.twitter.com/7s6lvpXcse"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.8274,
+                "type": "Person",
+                "normalized_text": "Jay-Z"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

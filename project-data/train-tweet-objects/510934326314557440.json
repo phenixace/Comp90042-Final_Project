@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-13 23:33:30+00:00",
+    "id": 510934326314557440,
+    "text": "@FoxNews So do something about it Mr. PM!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 39,
+                "probability": 0.4678,
+                "type": "Person",
+                "normalized_text": "Mr. PM"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

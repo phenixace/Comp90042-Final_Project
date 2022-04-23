@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14 18:14:47+00:00",
+    "id": 1250125364296286209,
+    "text": "@citizentvkenya Sonko for president \ud83d\udc4c\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.5513,
+                "type": "Person",
+                "normalized_text": "Sonko"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

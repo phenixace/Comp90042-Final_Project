@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-23 16:42:11+00:00",
+    "id": 514454693087825921,
+    "text": "\u201c@AP_Oddities: Oregon police officers step in, make delivery after pizza driver gets in a car crash:\" teens horrified when answering door.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "AP_Oddities",
+                "id": "430048955"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 20,
+                "probability": 0.89,
+                "type": "Place",
+                "normalized_text": "Oregon"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 430048955
+}

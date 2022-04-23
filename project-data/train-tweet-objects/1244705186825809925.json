@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:56+00:00",
+    "id": 1244705186825809925,
+    "text": "January 27: \u201cIn previous outbreaks of other #coronavirus, such as MERS, some individuals can be asymptomatic and transmit to others.  WHO Situation Report 26 January 2020.\u201d https://t.co/hFrcyJOVw3",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 56,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 173,
+                "end": 196,
+                "url": "https://t.co/hFrcyJOVw3",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705186825809925/photo/1",
+                "display_url": "pic.twitter.com/hFrcyJOVw3"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

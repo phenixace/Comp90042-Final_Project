@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-14 00:08:26+00:00",
+    "id": 510943115814133761,
+    "text": "@FoxNews Isis is pushing to the limit, not even Obama can contain the peoples wrath. Now the British are awakening.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 9,
+                "end": 12,
+                "probability": 0.6613,
+                "type": "Organization",
+                "normalized_text": "Isis"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "probability": 0.9967,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

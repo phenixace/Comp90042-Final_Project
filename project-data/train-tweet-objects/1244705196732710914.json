@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:59+00:00",
+    "id": 1244705196732710914,
+    "text": "January 29:  \u201cWHO is launching a Global Clinical Data Platform to allow Member States to contribute anonymized clinical data in order to inform the public health clinical response to new #coronavirus (2019-nCoV).  WHO Situation Report 28 2020.\u201d https://t.co/lAdKX5A9DB",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 187,
+                "end": 199,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 245,
+                "end": 268,
+                "url": "https://t.co/lAdKX5A9DB",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705196732710914/photo/1",
+                "display_url": "pic.twitter.com/lAdKX5A9DB"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

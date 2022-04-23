@@ -1,0 +1,21 @@
+{
+    "created_at": "2020-03-20 09:33:27+00:00",
+    "id": 1240934467373543424,
+    "text": "I'm not a medical professional but I would want to share I little I have learnt about #Coronavirus and #COVID19\n\nWhat is a Coronavirus?\nA coronavirus is a virus that is found in animals and, rarely, can be transmitted from animals to humans and then spread person to person.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 86,
+                "end": 98,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 103,
+                "end": 111,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

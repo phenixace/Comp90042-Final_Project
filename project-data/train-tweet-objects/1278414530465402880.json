@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-07-01 19:45:50+00:00",
+    "id": 1278414530465402880,
+    "text": "Georgia reported 2,946 new virus cases today, a one day high.  Also, two counties in the Atlanta area have declared a public health alert, with positive test rates now over 10 percent.  https://t.co/bf6t5rNlkM https://t.co/kZ0vLsErT7",
+    "entities": {
+        "urls": [
+            {
+                "start": 186,
+                "end": 209,
+                "url": "https://t.co/bf6t5rNlkM",
+                "expanded_url": "https://www.ajc.com/news/local-govt--politics/public-health-alert-issued-for-cobb-douglas-over-coronavirus-surge/o08A9LvZy18z588hp4rxDL/",
+                "display_url": "ajc.com/news/local-gov\u2026"
+            },
+            {
+                "start": 210,
+                "end": 233,
+                "url": "https://t.co/kZ0vLsErT7",
+                "expanded_url": "https://twitter.com/jamiedupree/status/1278414530465402880/photo/1",
+                "display_url": "pic.twitter.com/kZ0vLsErT7"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "probability": 0.9482,
+                "type": "Place",
+                "normalized_text": "Georgia"
+            },
+            {
+                "start": 89,
+                "end": 95,
+                "probability": 0.9664,
+                "type": "Place",
+                "normalized_text": "Atlanta"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

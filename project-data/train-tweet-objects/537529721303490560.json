@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-11-26 08:54:07+00:00",
+    "id": 537529721303490560,
+    "text": "@sadboy420x @deray Deray, you're just so damn dumb. You were one of those affirmative action hires weren't you. Sigh.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 23,
+                "probability": 0.4667,
+                "type": "Person",
+                "normalized_text": "Deray"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "sadboy420x",
+                "id": "2878371563"
+            },
+            {
+                "start": 12,
+                "end": 18,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "TweetCaster for iOS",
+    "in_reply_to_user_id": 29417304
+}

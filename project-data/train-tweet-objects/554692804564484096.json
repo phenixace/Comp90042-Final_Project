@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-01-12 17:34:04+00:00",
+    "id": 554692804564484096,
+    "text": "\ud83d\ude33\u201c@NBCPhiladelphia: TRAGIC Nearly 70people died at a funeral after drinking contaminated beer: http://t.co/SZP0drXo6X http://t.co/KD5rdWhedL",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 42,
+                "probability": 0.3966,
+                "type": "Person",
+                "normalized_text": "70people"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/SZP0drXo6X",
+                "expanded_url": "http://on.nbc10.com/rtfBCKj",
+                "display_url": "on.nbc10.com/rtfBCKj"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/KD5rdWhedL",
+                "expanded_url": "https://twitter.com/NBCPhiladelphia/status/554688527435563008/photo/1",
+                "display_url": "pic.twitter.com/KD5rdWhedL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 2,
+                "end": 18,
+                "username": "NBCPhiladelphia",
+                "id": "15755669"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15755669
+}

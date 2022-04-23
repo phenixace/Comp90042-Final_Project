@@ -1,0 +1,24 @@
+{
+    "created_at": "2013-12-01 19:06:26+00:00",
+    "id": 407224186386407425,
+    "text": "@THR yea - because I was really concerned about that. #toosoon",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "THR",
+                "id": "17446621"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 62,
+                "tag": "toosoon"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17446621
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-14 10:25:11+00:00",
+    "id": 511098325324812291,
+    "text": "@FoxNews talk is cheap.  Don't let this scum back into the UK.  Take action Dave.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 59,
+                "end": 60,
+                "probability": 0.8794,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 76,
+                "end": 79,
+                "probability": 0.8523,
+                "type": "Person",
+                "normalized_text": "Dave"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

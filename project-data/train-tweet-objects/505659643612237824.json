@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-30 10:13:48+00:00",
+    "id": 505659643612237824,
+    "text": "@PHiZZURP Idk if this is real or not but Im glad this is happening because that guy could have been killed nothing to joke about",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "PHiZZURP",
+                "id": "174172366"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 174172366
+}

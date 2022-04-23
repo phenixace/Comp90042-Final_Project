@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-12-08 15:14:23+00:00",
+    "id": 674245645868376064,
+    "text": ".@mashable It's those Trump deliberately summons w/ poisonous rhetoric that concerns me more and more by the day. https://t.co/Ivo6JX0c6I",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 26,
+                "probability": 0.9976,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/Ivo6JX0c6I",
+                "expanded_url": "https://twitter.com/Iddybud/status/674245645868376064/photo/1",
+                "display_url": "pic.twitter.com/Ivo6JX0c6I"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 972651
+}

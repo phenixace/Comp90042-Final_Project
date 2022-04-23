@@ -1,0 +1,50 @@
+{
+    "created_at": "2015-12-08 22:44:10+00:00",
+    "id": 674358835675549696,
+    "text": "1.15 million Americans have been killed by guns since John Lennon's death https://t.co/okEHQv6cMh",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 21,
+                "probability": 0.5853,
+                "type": "Person",
+                "normalized_text": "Americans"
+            },
+            {
+                "start": 54,
+                "end": 64,
+                "probability": 0.9971,
+                "type": "Person",
+                "normalized_text": "John Lennon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 97,
+                "url": "https://t.co/okEHQv6cMh",
+                "expanded_url": "http://rol.st/1QtwNba",
+                "display_url": "rol.st/1QtwNba",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1466744422213701634/khniLpaa?format=jpg&name=orig",
+                        "width": 1024,
+                        "height": 698
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1466744422213701634/khniLpaa?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "1.15 Million Americans Have Been Killed by Guns Since John Lennon\u2019s Death",
+                "description": "John Lennon was shot to death by Mark David Chapman 35 years ago Tuesday.",
+                "unwound_url": "https://www.rollingstone.com/politics/politics-news/1-15-million-americans-have-been-killed-by-guns-since-john-lennons-death-43117/"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

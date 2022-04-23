@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-27 04:26:41+00:00",
+    "id": 504485125078650883,
+    "text": "@sonicsman I thought Toronto has a team",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "sonicsman",
+                "id": "29032164"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 27,
+                "probability": 0.8081,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            }
+        ]
+    },
+    "source": "Plume\u00a0for\u00a0Android",
+    "in_reply_to_user_id": 29032164
+}

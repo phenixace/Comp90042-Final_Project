@@ -1,0 +1,31 @@
+{
+    "created_at": "2020-04-05 15:20:04+00:00",
+    "id": 1246819902805225472,
+    "text": "Wasu mutanen kan kamu da cutar Amma ba wani alama jin wani ciwon jiki.\n\nTsofaffi. Da Kuma wadanda suke da matsala ta lafiya Kamar hawan jini, ciwon zuciya, ko sukari sun fi hadarin samun wannan cuta.\"\n\n#NiNeNajeria\n#YakinKawardaCovid_19\n#JCINigeria\n#AnnobarCovid_19",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 202,
+                "end": 214,
+                "tag": "NiNeNajeria"
+            },
+            {
+                "start": 215,
+                "end": 236,
+                "tag": "YakinKawardaCovid_19"
+            },
+            {
+                "start": 237,
+                "end": 248,
+                "tag": "JCINigeria"
+            },
+            {
+                "start": 249,
+                "end": 265,
+                "tag": "AnnobarCovid_19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3247231575
+}

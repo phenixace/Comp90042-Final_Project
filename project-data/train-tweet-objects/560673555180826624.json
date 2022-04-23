@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-29 05:39:27+00:00",
+    "id": 560673555180826624,
+    "text": "@Squarespace @TheJeffBridges   Does Jeff come with them??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 39,
+                "probability": 0.9883,
+                "type": "Person",
+                "normalized_text": "Jeff"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14319981
+}

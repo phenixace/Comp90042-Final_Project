@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-10-29 14:51:35+00:00",
+    "id": 527472821350719488,
+    "text": "@pierre @jtemplejrnalist What happened?. Was he put off by @firstlook's hatred of Israel? Or something else?  A little transparency please.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 82,
+                "end": 87,
+                "probability": 0.9501,
+                "type": "Place",
+                "normalized_text": "Israel"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "pierre",
+                "id": "749963"
+            },
+            {
+                "start": 8,
+                "end": 24,
+                "username": "jtemplejrnalist",
+                "id": "13371202"
+            },
+            {
+                "start": 59,
+                "end": 69,
+                "username": "firstlook",
+                "id": "4765041199"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 749963
+}

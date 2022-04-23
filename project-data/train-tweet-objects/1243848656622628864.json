@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-03-28 10:33:23+00:00",
+    "id": 1243848656622628864,
+    "text": "@vgrgic @tomgrundy @jasonyng I think you are misinterpreting things. The link you cited does not say why the WHO advises against wearing a mask, it simply lists the risks. This WHO link says why they advise against it: https://t.co/u4m4C25LOc  See Q \"Should I wear a mask to protect myself?\"",
+    "entities": {
+        "urls": [
+            {
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/u4m4C25LOc",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "vgrgic",
+                "id": "14242304"
+            },
+            {
+                "start": 8,
+                "end": 18,
+                "username": "tomgrundy",
+                "id": "74418756"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14242304
+}

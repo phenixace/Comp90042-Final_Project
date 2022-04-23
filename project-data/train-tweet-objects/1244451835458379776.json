@@ -1,0 +1,50 @@
+{
+    "created_at": "2020-03-30 02:30:13+00:00",
+    "id": 1244451835458379776,
+    "text": "Does the new coronavirus affect older people, or are younger people also susceptible?\n\nCheck Myths About Coronavirus Answered By WHO\n\n#coronavirusmyths #coronavirus #coronavirusindia #aboutcoronavirus #metrozone #metrozonegroup https://t.co/Sd9O02N9xI",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 134,
+                "end": 151,
+                "tag": "coronavirusmyths"
+            },
+            {
+                "start": 152,
+                "end": 164,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 165,
+                "end": 182,
+                "tag": "coronavirusindia"
+            },
+            {
+                "start": 183,
+                "end": 200,
+                "tag": "aboutcoronavirus"
+            },
+            {
+                "start": 201,
+                "end": 211,
+                "tag": "metrozone"
+            },
+            {
+                "start": 212,
+                "end": 227,
+                "tag": "metrozonegroup"
+            }
+        ],
+        "urls": [
+            {
+                "start": 228,
+                "end": 251,
+                "url": "https://t.co/Sd9O02N9xI",
+                "expanded_url": "https://twitter.com/MetroZoneIndia/status/1244451835458379776/photo/1",
+                "display_url": "pic.twitter.com/Sd9O02N9xI"
+            }
+        ]
+    },
+    "source": "purshoPOSTBOX",
+    "in_reply_to_user_id": null
+}

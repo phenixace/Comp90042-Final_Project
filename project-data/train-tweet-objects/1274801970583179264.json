@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-06-21 20:30:49+00:00",
+    "id": 1274801970583179264,
+    "text": "@Gee_Whitty @yarbsalocin @rc_outside @JesseKellyDC you and demand justice for that person.\n\nBut the whole thought that the \"systems\" are built and maintained to keep minorities down, right here, right now, is just completely false and all too often used to diminish the responsibility of an individual to chose what they do with",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "yarbsalocin",
+                "id": "2164225381"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "rc_outside",
+                "id": "3017586212"
+            },
+            {
+                "start": 37,
+                "end": 50,
+                "username": "JesseKellyDC",
+                "id": "34082620"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 754150761693523968
+}

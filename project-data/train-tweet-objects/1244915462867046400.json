@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 09:12:30+00:00",
+    "id": 1244915462867046400,
+    "text": "Can spraying alcohol or chlorine all over your body kill the new coronavirus? https://t.co/J0Nfr5qkji",
+    "entities": {
+        "urls": [
+            {
+                "start": 78,
+                "end": 101,
+                "url": "https://t.co/J0Nfr5qkji",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244915462867046400/photo/1",
+                "display_url": "pic.twitter.com/J0Nfr5qkji"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 715109606624768000
+}

@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-10-28 18:41:33+00:00",
+    "id": 659439879701602304,
+    "text": "FDA Confiscates Several Thousand Chickens From KFC Farms As Mutations Worsen\nhttps://t.co/S08O0b0Xg5 https://t.co/0oi7l6qlcv",
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 100,
+                "url": "https://t.co/S08O0b0Xg5",
+                "expanded_url": "http://now8news.com/fda-confiscates-several-thousand-chickens-from-kfc-farms-as-mutations-worsen/",
+                "display_url": "now8news.com/fda-confiscate\u2026"
+            },
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/0oi7l6qlcv",
+                "expanded_url": "https://twitter.com/MassDeception1/status/659439879701602304/photo/1",
+                "display_url": "pic.twitter.com/0oi7l6qlcv"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 2,
+                "probability": 0.7128,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

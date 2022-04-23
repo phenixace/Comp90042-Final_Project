@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-14 01:44:10+00:00",
+    "id": 510967208978427905,
+    "text": "@FoxNews @jan_pierce OK enough with the name calling. Don't all of our fearless leaders think it 'a time for some sticks and stones ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "jan_pierce",
+                "id": "413495031"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

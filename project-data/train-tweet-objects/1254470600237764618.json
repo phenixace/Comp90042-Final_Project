@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 18:01:12+00:00",
+    "id": 1254470600237764618,
+    "text": "Q8. @PublicHealthRx  Is there a vaccine for COVID-19? #JCIAUKickoutCovid19 https://t.co/6WP3JxG0OV",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 74,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 98,
+                "url": "https://t.co/6WP3JxG0OV",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254470600237764618/photo/1",
+                "display_url": "pic.twitter.com/6WP3JxG0OV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-16 16:34:06+00:00",
+    "id": 632953491795808256,
+    "text": "@KhaledBeydoun @NefariousNewt What a beautiful picture of what looks to be someone with a great future. So sad.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "KhaledBeydoun",
+                "id": "2163076560"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "NefariousNewt",
+                "id": "213518581"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2163076560
+}

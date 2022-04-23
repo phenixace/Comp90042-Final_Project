@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-08 18:45:15+00:00",
+    "id": 1236724681354477569,
+    "text": "have now been reported in the United States. Visit the CDC Traveler\u2019s Health website for travel notices and precautions. What are the symptoms of COVID-19? Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing difficulties.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 42,
+                "probability": 0.7075,
+                "type": "Place",
+                "normalized_text": "United States"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 703566910554824704
+}

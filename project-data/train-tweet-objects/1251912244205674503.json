@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 16:35:13+00:00",
+    "id": 1251912244205674503,
+    "text": "@DrZweliMkhize Hello Dr Why can't we all get tested because it dsnt get better I'm not sure of this news about 24 Dis-chem  workers I'm so scared at the moment how many customers has this virus who was at that Dis-chem",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 22,
+                "probability": 0.5652,
+                "type": "Person",
+                "normalized_text": "Dr"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

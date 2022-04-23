@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 00:39:39+00:00",
+    "id": 523634545791602688,
+    "text": "@littlechicken *traumatized now*",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "LittleChicken",
+                "id": "4823856610"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15509327
+}

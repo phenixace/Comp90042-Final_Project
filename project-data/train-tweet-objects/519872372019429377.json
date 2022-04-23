@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-10-08 15:30:06+00:00",
+    "id": 519872372019429377,
+    "text": "@literalporn @ComplexMag #fuck #yo #couch",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 30,
+                "tag": "fuck"
+            },
+            {
+                "start": 31,
+                "end": 34,
+                "tag": "yo"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "tag": "couch"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "LITERALPORN",
+                "id": "408175066"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 408175066
+}

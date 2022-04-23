@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-07 22:20:23+00:00",
+    "id": 552952916177608704,
+    "text": "@SpreadButter @MaskedGorilla white rap group?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SpreadButter",
+                "id": "26643566"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "MaskedGorilla",
+                "id": "22319101"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 26643566
+}

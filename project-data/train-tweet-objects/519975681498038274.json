@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-08 22:20:37+00:00",
+    "id": 519975681498038274,
+    "text": "@realDonaldTrump , who, those kids from Central America ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 54,
+                "probability": 0.9087,
+                "type": "Place",
+                "normalized_text": "Central America"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 25073877
+}

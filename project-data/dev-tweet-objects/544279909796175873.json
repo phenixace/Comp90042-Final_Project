@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-12-14 23:56:57+00:00",
+    "id": 544279909796175873,
+    "text": "\"@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up\" &lt;&lt;Terrifying stuff.Nutters&gt;&gt;",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 48,
+                "probability": 0.5083,
+                "type": "Place",
+                "normalized_text": "Sydney cafe"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 7,
+                "end": 16,
+                "tag": "BREAKING"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 380648579
+}

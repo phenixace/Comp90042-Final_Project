@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-14 00:10:24+00:00",
+    "id": 510943612431904768,
+    "text": "@FoxNews no longer war weary Isis weary. Pure Evil",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

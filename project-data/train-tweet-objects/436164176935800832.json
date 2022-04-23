@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-02-19 15:43:37+00:00",
+    "id": 436164176935800832,
+    "text": "@mikestable @CNN no sweat, we'd just have disclaimers on the pockets. plus people could still order the bagel bites",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mikestable",
+                "id": "15636966"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15636966
+}

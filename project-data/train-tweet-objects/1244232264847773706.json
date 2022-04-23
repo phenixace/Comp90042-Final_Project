@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 11:57:43+00:00",
+    "id": 1244232264847773706,
+    "text": "@priyapyadav18 To retrieve the sagging image. But public is waking up. It's \"The beginning of the End \"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

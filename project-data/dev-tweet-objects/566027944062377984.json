@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-02-13 00:15:52+00:00",
+    "id": 566027944062377984,
+    "text": "MT @lizzwinstead: State Senator in South Carolina stated \"Women are a Lesser Cut of meat\" Wait, what? #ChewOnThis http://t.co/yYf8uB6cyQ",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 48,
+                "probability": 0.99,
+                "type": "Place",
+                "normalized_text": "South Carolina"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/yYf8uB6cyQ",
+                "expanded_url": "http://bit.ly/1DmhGK8",
+                "display_url": "bit.ly/1DmhGK8"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 113,
+                "tag": "ChewOnThis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 16,
+                "username": "lizzwinstead",
+                "id": "57917441"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 57917441
+}

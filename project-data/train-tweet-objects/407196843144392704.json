@@ -1,0 +1,24 @@
+{
+    "created_at": "2013-12-01 17:17:47+00:00",
+    "id": 407196843144392704,
+    "text": "@peoplemag That doesn't matter. The world lost a great actor. Lets focus on that and send prayers and love to his family. #RIPPaulWalker",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 122,
+                "end": 136,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "peoplemag",
+                "id": "3064617094"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 25589776
+}

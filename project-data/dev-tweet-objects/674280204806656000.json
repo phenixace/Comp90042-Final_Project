@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 17:31:43+00:00",
+    "id": 674280204806656000,
+    "text": "@RollingStone @davehydesports Guns do not kill anyone. Drug gangs followed by suicides make up nearly all of these deaths.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "davehydesports",
+                "id": "35727191"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

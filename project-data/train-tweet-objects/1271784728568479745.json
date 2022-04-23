@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-13 12:41:22+00:00",
+    "id": 1271784728568479745,
+    "text": "@ProfKarolSikora What's going on in China it is a bit worrying",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ProfKarolSikora",
+                "id": "1235849797191401472"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.9967,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1235849797191401472
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-12-01 17:41:18+00:00",
+    "id": 407202761772912640,
+    "text": "@ThatKevinSmith @mrosenbaum711  yes he was",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ThatKevinSmith",
+                "id": "14681605"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "mrosenbaum711",
+                "id": "944200740167352320"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14681605
+}

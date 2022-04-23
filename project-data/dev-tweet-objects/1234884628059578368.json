@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-03 16:53:33+00:00",
+    "id": 1234884628059578368,
+    "text": "Should I worry about COVID-19? https://t.co/2EFHj7nNM1",
+    "entities": {
+        "urls": [
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/2EFHj7nNM1",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884628059578368/photo/1",
+                "display_url": "pic.twitter.com/2EFHj7nNM1"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 110341100
+}

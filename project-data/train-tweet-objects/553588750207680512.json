@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-09 16:26:57+00:00",
+    "id": 553588750207680512,
+    "text": "@HuffingtonPost Good news !!! Alah Akbar !!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14511951
+}

@@ -1,0 +1,46 @@
+{
+    "created_at": "2020-03-07 07:38:26+00:00",
+    "id": 1236194482959396864,
+    "text": "Have a support system in place for elderly family members.\nWhat if I\u2019m traveling?\nThe C.D.C. has advised against all non-essential travel to South Korea, China, Italy and Iran. And the agency has warned older and at-risk travelers to avoid Japan.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 141,
+                "end": 151,
+                "probability": 0.9196,
+                "type": "Place",
+                "normalized_text": "South Korea"
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "probability": 0.9929,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 161,
+                "end": 165,
+                "probability": 0.9957,
+                "type": "Place",
+                "normalized_text": "Italy"
+            },
+            {
+                "start": 171,
+                "end": 174,
+                "probability": 0.9893,
+                "type": "Place",
+                "normalized_text": "Iran"
+            },
+            {
+                "start": 240,
+                "end": 244,
+                "probability": 0.9698,
+                "type": "Place",
+                "normalized_text": "Japan"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1118995573875585024
+}

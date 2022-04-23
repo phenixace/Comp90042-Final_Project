@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 18:50:13+00:00",
+    "id": 574280909194674177,
+    "text": "@ABC Shame, shame, shame.  This is bullying, belittling and demeaning.  Poor child.  Thank goodness for kind people.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 28785486
+}

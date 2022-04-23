@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-08 20:35:08+00:00",
+    "id": 509077496864968704,
+    "text": "@Alyssa_Radford @BuzzFeed wtf \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Alyssa_Radford",
+                "id": "51985409"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 51985409
+}

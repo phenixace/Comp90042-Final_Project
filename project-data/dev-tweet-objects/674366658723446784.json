@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 23:15:15+00:00",
+    "id": 674366658723446784,
+    "text": "@RollingStone @gkketch guns don't kill people on their own.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "gkketch",
+                "id": "23975451"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14780915
+}

@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-03-10 09:53:09+00:00",
+    "id": 1237315547676770304,
+    "text": "World Health Organisation is assessing ongoing research on the ways COVID-19 is spread. https://t.co/ItmFmb8ghD",
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/ItmFmb8ghD",
+                "expanded_url": "https://twitter.com/molabus01/status/1237315547676770304/photo/1",
+                "display_url": "pic.twitter.com/ItmFmb8ghD"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 24,
+                "probability": 0.7003,
+                "type": "Organization",
+                "normalized_text": "World Health Organisation"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1042504202847748097
+}

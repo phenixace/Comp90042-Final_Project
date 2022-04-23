@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-03-17 22:42:42+00:00",
+    "id": 1240045927554932736,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n8) President Trump asked about his use of the phrase \u201cChinese Virus\u201d: REPORTER: \u201cCritics say that using that phrase creates a stigma.\u201d\n\nTRUMP: \u201cNo, I don\u2019t think so. I think saying that our military gave it to them creates a stigma.\u201d\ud83c\uddfa\ud83c\uddf8\n\nhttps://t.co/OnQCAuYeqb",
+    "entities": {
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/OnQCAuYeqb",
+                "expanded_url": "https://twitter.com/bennyjohnson/status/1239959596627898372",
+                "display_url": "twitter.com/bennyjohnson/s\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 36,
+                "probability": 0.6363,
+                "type": "Person",
+                "normalized_text": "President Trump"
+            },
+            {
+                "start": 155,
+                "end": 159,
+                "probability": 0.971,
+                "type": "Person",
+                "normalized_text": "TRUMP"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

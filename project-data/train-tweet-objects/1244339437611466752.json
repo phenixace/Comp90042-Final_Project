@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-03-29 19:03:35+00:00",
+    "id": 1244339437611466752,
+    "text": "@I_am_niyi @Adeoluwa_noble Danny boy, answer your name!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 31,
+                "probability": 0.9389,
+                "type": "Person",
+                "normalized_text": "Danny"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "I_am_niyi",
+                "id": "324238619"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "Adeoluwa_noble",
+                "id": "393559303"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 324238619
+}

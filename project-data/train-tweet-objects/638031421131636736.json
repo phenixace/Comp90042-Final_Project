@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 16:51:59+00:00",
+    "id": 638031421131636736,
+    "text": "@TheGunnerfly @Gooner1886gld @TheValleyReport but what he said isn't",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheGunnerfly",
+                "id": "253975355"
+            },
+            {
+                "start": 29,
+                "end": 45,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 253975355
+}

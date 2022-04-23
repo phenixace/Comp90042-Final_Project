@@ -1,0 +1,47 @@
+{
+    "created_at": "2015-01-07 11:44:09+00:00",
+    "id": 552792802309181440,
+    "text": "#CharlieHebdo -  11 dead including 2 police in Paris shooting. Photo @MartinBureau1 #AFP http://t.co/aksGP63MB7",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 51,
+                "probability": 0.9928,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/aksGP63MB7",
+                "expanded_url": "https://twitter.com/AFPphoto/status/552792802309181440/photo/1",
+                "display_url": "pic.twitter.com/aksGP63MB7"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 13,
+                "tag": "CharlieHebdo"
+            },
+            {
+                "start": 84,
+                "end": 88,
+                "tag": "AFP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 69,
+                "end": 83,
+                "username": "MartinBureau1",
+                "id": "491559119"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

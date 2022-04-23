@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-28 21:42:50+00:00",
+    "id": 615274180997570560,
+    "text": "@politico @RealRonHoward",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "RealRonHoward",
+                "id": "125481462"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9300262
+}

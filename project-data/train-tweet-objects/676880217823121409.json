@@ -1,0 +1,54 @@
+{
+    "created_at": "2015-12-15 21:43:14+00:00",
+    "id": 676880217823121409,
+    "text": "@ABC Will US/NATO stop free flow of materiel from Turkey into Sirya? Or will this add to the belief Daesh serves Western interests there?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 11,
+                "probability": 0.6865,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "probability": 0.6695,
+                "type": "Organization",
+                "normalized_text": "NATO"
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "probability": 0.9245,
+                "type": "Place",
+                "normalized_text": "Turkey"
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "probability": 0.4513,
+                "type": "Place",
+                "normalized_text": "Sirya"
+            },
+            {
+                "start": 100,
+                "end": 104,
+                "probability": 0.5756,
+                "type": "Organization",
+                "normalized_text": "Daesh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 28785486
+}

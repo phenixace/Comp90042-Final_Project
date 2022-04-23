@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-10-02 11:17:17+00:00",
+    "id": 649905992617082880,
+    "text": "@CNN @TheDeemeister too late! What other reason would the Pope have for a private meeting (she's not even Catholic)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 58,
+                "end": 61,
+                "probability": 0.6078,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "TheDeemeister",
+                "id": "125662638"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

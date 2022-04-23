@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 14:56:25+00:00",
+    "id": 524937325252313088,
+    "text": "RT \"@CBCAlerts: More shots fired just off Parliament Hill. Police telling everyone to take cover.\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 14,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 56,
+                "probability": 0.3621,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19038934
+}

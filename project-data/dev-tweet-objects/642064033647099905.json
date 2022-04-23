@@ -1,0 +1,58 @@
+{
+    "created_at": "2015-09-10 19:56:09+00:00",
+    "id": 642064033647099905,
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump CNN why your not caring Biafrans news Nigeria is killing us but ur not tell De world",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 55,
+                "probability": 0.992,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 77,
+                "end": 84,
+                "probability": 0.3854,
+                "type": "Person",
+                "normalized_text": "Biafrans"
+            },
+            {
+                "start": 91,
+                "end": 97,
+                "probability": 0.9277,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

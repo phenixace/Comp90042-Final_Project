@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-12-15 15:27:55+00:00",
+    "id": 544514197665492994,
+    "text": "@guardiannews @robcrilly #illridewithyou all the way from Pakistan",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "guardiannews",
+                "id": "788524"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "robcrilly",
+                "id": "14389212"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 40,
+                "tag": "illridewithyou"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 65,
+                "probability": 0.9513,
+                "type": "Place",
+                "normalized_text": "Pakistan"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 788524
+}

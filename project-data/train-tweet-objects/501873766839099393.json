@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-19 23:30:05+00:00",
+    "id": 501873766839099393,
+    "text": "@kristina_wong @zaidbenjamin https://t.co/v5KrjAmIN4",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "kristina_wong",
+                "id": "18482836"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "urls": [
+            {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/v5KrjAmIN4",
+                "expanded_url": "https://m.youtube.com/watch?v=M7VUk_DQYc8&feature=youtu.be",
+                "display_url": "m.youtube.com/watch?v=M7VUk_\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 18482836
+}

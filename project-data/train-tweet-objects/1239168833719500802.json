@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-15 12:37:27+00:00",
+    "id": 1239168833719500802,
+    "text": "@brian_d_vaughn You can still go out, no need to completely avoid human contact. Just wash your hands more than you normally would.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "brian_d_vaughn",
+                "id": "99973385"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 99973385
+}

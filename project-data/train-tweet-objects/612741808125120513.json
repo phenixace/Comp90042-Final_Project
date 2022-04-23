@@ -1,0 +1,25 @@
+{
+    "created_at": "2015-06-21 22:00:05+00:00",
+    "id": 612741808125120513,
+    "text": "This Dad Loved His Family So Much He Got Eye Enlargement Surgery So He Could Look At Them More http://t.co/Au4i3bx67A http://t.co/SKJWSyn94i",
+    "entities": {
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/Au4i3bx67A",
+                "expanded_url": "http://www.clickhole.com/r/769tsd",
+                "display_url": "clickhole.com/r/769tsd"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/SKJWSyn94i",
+                "expanded_url": "https://twitter.com/ClickHole/status/612741808125120513/photo/1",
+                "display_url": "pic.twitter.com/SKJWSyn94i"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

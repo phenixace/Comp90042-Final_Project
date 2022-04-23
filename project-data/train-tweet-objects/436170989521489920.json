@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-02-19 16:10:42+00:00",
+    "id": 436170989521489920,
+    "text": "\u201c@CNN: Nestl\u00e9 recalls Hot Pockets. http://t.co/57ZPH7fXnF\u201d what will @JimGaffigan have to say about this tragedy?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 7,
+                "end": 12,
+                "probability": 0.4899,
+                "type": "Organization",
+                "normalized_text": "Nestl\u00e9"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 69,
+                "end": 81,
+                "username": "JimGaffigan",
+                "id": "6539592"
+            }
+        ],
+        "urls": [
+            {
+                "start": 35,
+                "end": 57,
+                "url": "http://t.co/57ZPH7fXnF",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "display_url": "cnn.it/1c2EpuB"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 759251
+}

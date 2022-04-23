@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-12-08 22:45:46+00:00",
+    "id": 674359240035823616,
+    "text": "@RollingStone @LOLGOP @derek_petersen",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 21,
+                "username": "LOLGOP",
+                "id": "11866582"
+            },
+            {
+                "start": 22,
+                "end": 37,
+                "username": "derek_petersen",
+                "id": "385016901"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14780915
+}

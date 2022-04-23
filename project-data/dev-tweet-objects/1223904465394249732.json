@@ -1,0 +1,68 @@
+{
+    "created_at": "2020-02-02 09:42:18+00:00",
+    "id": 1223904465394249732,
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Can eating garlic help prevent infection with #2019nCoV?\nA: Garlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from 2019-nCoV\n#KnowTheFacts https://t.co/n4y5xfgwYz",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 107,
+                "end": 116,
+                "tag": "2019nCoV"
+            },
+            {
+                "start": 302,
+                "end": 315,
+                "tag": "KnowTheFacts"
+            }
+        ],
+        "urls": [
+            {
+                "start": 316,
+                "end": 339,
+                "url": "https://t.co/n4y5xfgwYz",
+                "expanded_url": "https://twitter.com/WHO/status/1223904465394249732/photo/1",
+                "display_url": "pic.twitter.com/n4y5xfgwYz"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

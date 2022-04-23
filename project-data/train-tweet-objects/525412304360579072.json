@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-23 22:23:49+00:00",
+    "id": 525412304360579072,
+    "text": "Oh man RT @Breaking911: Dogs of Canadian killed at War Memorial wait for him to return http://t.co/VXhsvsitaH  http://t.co/V9llIcRtrG",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 62,
+                "probability": 0.6751,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/VXhsvsitaH",
+                "expanded_url": "http://dailym.ai/12ldID4",
+                "display_url": "dailym.ai/12ldID4"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/V9llIcRtrG",
+                "expanded_url": "https://twitter.com/MailOnline/status/525408908484280321/photo/1",
+                "display_url": "pic.twitter.com/V9llIcRtrG"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 10,
+                "end": 22,
+                "username": "Breaking911",
+                "id": "375721095"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 375721095
+}

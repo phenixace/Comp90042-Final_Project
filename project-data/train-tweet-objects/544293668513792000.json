@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-12-15 00:51:37+00:00",
+    "id": 544293668513792000,
+    "text": "@SharriMarkson Sure hope it's not just some dude and that you've not just pulled a Fairfax. Beginning to see why you were sent back to uni.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SharriMarkson",
+                "id": "52327900"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 83,
+                "end": 89,
+                "probability": 0.5896,
+                "type": "Place",
+                "normalized_text": "Fairfax"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 52327900
+}

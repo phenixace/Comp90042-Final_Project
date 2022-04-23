@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-10-02 11:44:04+00:00",
+    "id": 649912732972511232,
+    "text": "@CNN Pope Francis may have spoke against Jesus Christ but he is not stupid enough to take a STAND on NONSENSE by the Kentucky Clerk",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 16,
+                "probability": 0.9661,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            },
+            {
+                "start": 41,
+                "end": 52,
+                "probability": 0.9886,
+                "type": "Person",
+                "normalized_text": "Jesus Christ"
+            },
+            {
+                "start": 117,
+                "end": 130,
+                "probability": 0.5478,
+                "type": "Organization",
+                "normalized_text": "Kentucky Clerk"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

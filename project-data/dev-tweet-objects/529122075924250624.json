@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 04:05:08+00:00",
+    "id": 529122075924250624,
+    "text": "@fluffyguy Are you kidding me where do they get this information from. Now you know when reporter's can't find the news they make it up.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

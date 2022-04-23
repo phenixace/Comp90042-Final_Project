@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-21 13:24:08+00:00",
+    "id": 524551710371758080,
+    "text": "\"@wisdomwatch Scientist finds puppy-sized spider in rainforest. Sit. Stay. FOREVER. http://t.co/g3c0UzX2sJ \"this is i go to church and pray.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "wisdomwatch",
+                "id": "2435960576"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/g3c0UzX2sJ",
+                "expanded_url": "http://bit.ly/1uvkm08",
+                "display_url": "bit.ly/1uvkm08"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2435960576
+}

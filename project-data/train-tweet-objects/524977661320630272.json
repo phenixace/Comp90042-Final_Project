@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 17:36:42+00:00",
+    "id": 524977661320630272,
+    "text": "@CNN has the soldier's death been confirmed?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

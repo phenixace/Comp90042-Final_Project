@@ -1,0 +1,28 @@
+{
+    "created_at": "2015-06-17 08:08:46+00:00",
+    "id": 611083045399953408,
+    "text": "@cnni http://t.co/7WDqbmw5PF",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ],
+        "urls": [
+            {
+                "start": 6,
+                "end": 28,
+                "url": "http://t.co/7WDqbmw5PF",
+                "expanded_url": "http://imgur.com/gallery/wxg9VcQ",
+                "display_url": "imgur.com/gallery/wxg9VcQ",
+                "status": 200,
+                "unwound_url": "https://imgur.com/gallery/wxg9VcQ"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2097571
+}

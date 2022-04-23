@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-10-22 16:06:35+00:00",
+    "id": 524954979736379392,
+    "text": "\u201c@BBCBreaking: Watch video showing gunfire inside Canada's parliament in Ottawa http://t.co/xX5qB7L8KJ http://t.co/cAI5O1gOeA\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/xX5qB7L8KJ",
+                "expanded_url": "http://bbc.in/1wktR5F",
+                "display_url": "bbc.in/1wktR5F"
+            },
+            {
+                "start": 103,
+                "end": 125,
+                "url": "http://t.co/cAI5O1gOeA",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/524952883343925249/photo/1",
+                "display_url": "pic.twitter.com/cAI5O1gOeA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 55,
+                "probability": 0.9933,
+                "type": "Place",
+                "normalized_text": "Canada"
+            },
+            {
+                "start": 73,
+                "end": 78,
+                "probability": 0.9952,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5402612
+}

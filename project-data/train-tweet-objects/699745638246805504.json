@@ -1,0 +1,23 @@
+{
+    "created_at": "2016-02-17 00:02:15+00:00",
+    "id": 699745638246805504,
+    "text": "@TheValleyReport @BDGarp  She sounds like a sweetheart.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "username": "BDGarp",
+                "id": "17542355"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3369234799
+}

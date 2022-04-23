@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-13 03:54:08+00:00",
+    "id": 521509165169377280,
+    "text": "@AmyMek I'm an Army veteran who worked in a Top Secret comms center in Germany. I, and my fellow Soldiers, were not simple nor stupid! Grr",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 71,
+                "end": 77,
+                "probability": 0.9986,
+                "type": "Place",
+                "normalized_text": "Germany"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 954124423
+}

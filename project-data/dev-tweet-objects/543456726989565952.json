@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-12-12 17:25:55+00:00",
+    "id": 543456726989565952,
+    "text": "So dogs go to heaven, where do cats go? Pope Francis tells boy he'll be reunited w/his dead dog in heaven @nytimes- http://t.co/RyjU614dAq\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/RyjU614dAq",
+                "expanded_url": "http://nyti.ms/1qErSu7",
+                "display_url": "nyti.ms/1qErSu7"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 51,
+                "probability": 0.993,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 106,
+                "end": 114,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 807095
+}

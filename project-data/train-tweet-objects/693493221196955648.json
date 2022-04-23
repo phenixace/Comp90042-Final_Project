@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-01-30 17:57:23+00:00",
+    "id": 693493221196955648,
+    "text": "@TheValleyReport Uh--she's like, trying to stay ahead of the curve 'n' stuff...duh! Why can't he have to follow her lead? EMPATHY!!! ;-D",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3369234799
+}

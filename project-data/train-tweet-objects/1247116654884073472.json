@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-06 10:59:15+00:00",
+    "id": 1247116654884073472,
+    "text": "@jimbobVFR400 @ruskin147 Can you direct me to any please?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "jimbobVFR400",
+                "id": "107078838"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "ruskin147",
+                "id": "1294741"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 107078838
+}

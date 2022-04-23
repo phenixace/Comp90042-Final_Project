@@ -1,0 +1,49 @@
+{
+    "created_at": "2015-02-02 03:53:30+00:00",
+    "id": 562096446150025216,
+    "text": "\u201c@gamespot: Madden NFL 15 simulation correctly predicted the #SuperBowl's final score. http://t.co/vmq6pJgTOF http://t.co/84wekG3MIw\u201d\ud83d\udd2e",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/vmq6pJgTOF",
+                "expanded_url": "http://l.gamespot.com/1zLSm10",
+                "display_url": "l.gamespot.com/1zLSm10"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/84wekG3MIw",
+                "expanded_url": "https://twitter.com/gamespot/status/562093717201616896/photo/1",
+                "display_url": "pic.twitter.com/84wekG3MIw"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "GameSpot",
+                "id": "7157132"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 24,
+                "probability": 0.5603,
+                "type": "Product",
+                "normalized_text": "Madden NFL 15"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 71,
+                "tag": "SuperBowl"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 7157132
+}

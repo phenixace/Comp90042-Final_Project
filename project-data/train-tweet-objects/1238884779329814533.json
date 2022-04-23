@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-14 17:48:43+00:00",
+    "id": 1238884779329814533,
+    "text": "Part 24\n\nKeep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). If possible, avoid traveling to places \u00a0\u2013 especially if you are an older person or have diabetes, heart or lung disease.\nWhy? \n#FREDIBOAT",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 244,
+                "end": 254,
+                "tag": "FREDIBOAT"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1192105968668155905
+}

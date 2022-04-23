@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-01-08 12:40:15+00:00",
+    "id": 553169307824177152,
+    "text": "Banksy's response to the #CharlieHebdo attack isn't by Banksy. But it is striking: http://t.co/mag1lJXzjL http://t.co/3TDPkGFxrx",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 38,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/mag1lJXzjL",
+                "expanded_url": "http://ind.pn/1BKEqR7",
+                "display_url": "ind.pn/1BKEqR7"
+            },
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/3TDPkGFxrx",
+                "expanded_url": "https://twitter.com/Independent/status/553169307824177152/photo/1",
+                "display_url": "pic.twitter.com/3TDPkGFxrx"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 60,
+                "probability": 0.3878,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

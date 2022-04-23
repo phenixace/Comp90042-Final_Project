@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 16:22:40+00:00",
+    "id": 524959028061798401,
+    "text": "@WSJ Killers go berserk when cornered.  Henceforth, no lapses in security should be there.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3108351
+}

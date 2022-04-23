@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:57+00:00",
+    "id": 1244705192026738689,
+    "text": "January 27:  \u201cCurrent estimates of the new #coronavirus (2019-nCoV) incubation period range from 2-10 days.  These estimates will be refined as more data become available.  WHO Situation Report 26 January 2020\u201d https://t.co/QbucuHgBOj",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 43,
+                "end": 55,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 211,
+                "end": 234,
+                "url": "https://t.co/QbucuHgBOj",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705192026738689/photo/1",
+                "display_url": "pic.twitter.com/QbucuHgBOj"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

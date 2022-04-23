@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-10-02 16:24:50+00:00",
+    "id": 649983387692888064,
+    "text": "@BevDiane @southern_bel Terrible to follow Catholic doctrine by a pope, seriously ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BevDiane",
+                "id": "64704431"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "southern_bel",
+                "id": "67125444"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 64704431
+}

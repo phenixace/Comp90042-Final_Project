@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-05-26 13:56:32+00:00",
+    "id": 1265280661868425216,
+    "text": "That very publication concluded \"Randomised clinical trials will be required before any conclusion can be reached regarding benefit or harm of these agents in COVID-19 patients.\" Sadly, the reverse is happening, trials are stopping. https://t.co/yMjAKyBMZN",
+    "entities": {
+        "urls": [
+            {
+                "start": 233,
+                "end": 256,
+                "url": "https://t.co/yMjAKyBMZN",
+                "expanded_url": "https://twitter.com/HelenBranswell/status/1264948360076820482",
+                "display_url": "twitter.com/HelenBranswell\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2020-02-27 01:04:03+00:00",
+    "id": 1232833741535531010,
+    "text": "@TDPattillo Right! Last year 63k people died of flu. If it had been #Covid19 that number would have been over a million.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TDPattillo",
+                "id": "3058713120"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 76,
+                "tag": "Covid19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 3058713120
+}

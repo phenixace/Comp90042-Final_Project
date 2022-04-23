@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 00:59:13+00:00",
+    "id": 574011384113033217,
+    "text": "@ABC I'm glad this worked out for the family, but wow, the vindictiveness and meanness of the adult who thought this was ok is beyond words.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

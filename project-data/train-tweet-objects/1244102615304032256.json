@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-29 03:22:32+00:00",
+    "id": 1244102615304032256,
+    "text": "@priyapyadav18 First @BJP4India should empty their treasury and then ask aam admi.\nCharity begins at home",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "username": "BJP4India",
+                "id": "207809313"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

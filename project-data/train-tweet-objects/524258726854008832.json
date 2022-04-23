@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 17:59:55+00:00",
+    "id": 524258726854008832,
+    "text": "classic Banksy \u201c@piersmorgan: BREAKING NEWS: Banksy NOT arrested, cover NOT blown.\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "piersmorgan",
+                "id": "216299334"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 216299334
+}

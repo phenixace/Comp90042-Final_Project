@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 00:32:10+00:00",
+    "id": 387012439596105728,
+    "text": "@michellemalkin Obama and all his liberal worshipers are a bad joke!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.9977,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 15976697
+}

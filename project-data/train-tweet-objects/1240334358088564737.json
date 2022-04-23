@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-18 17:48:49+00:00",
+    "id": 1240334358088564737,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n19) I Luv\u2665\ufe0f our President\ud83c\uddfa\ud83c\uddf8\n\nHe is NOT baking down \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Chinese\ud83c\udde8\ud83c\uddf3 virus\n\nhttps://t.co/wimwDmnY1E",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 113,
+                "url": "https://t.co/wimwDmnY1E",
+                "expanded_url": "https://twitter.com/RedPillMaC/status/1240319706961186816",
+                "display_url": "twitter.com/RedPillMaC/sta\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

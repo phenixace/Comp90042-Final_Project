@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-15 18:34:49+00:00",
+    "id": 1239258767163867137,
+    "text": "Garlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus. #CoronaVirusUpdates https://t.co/hLYFy5T37t",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 192,
+                "end": 211,
+                "tag": "CoronaVirusUpdates"
+            }
+        ],
+        "urls": [
+            {
+                "start": 212,
+                "end": 235,
+                "url": "https://t.co/hLYFy5T37t",
+                "expanded_url": "https://twitter.com/CollinsNgetich/status/1239258767163867137/photo/1",
+                "display_url": "pic.twitter.com/hLYFy5T37t"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 41103354
+}

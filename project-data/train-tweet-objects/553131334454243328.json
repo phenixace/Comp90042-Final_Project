@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-08 10:09:21+00:00",
+    "id": 553131334454243328,
+    "text": "@dandemoustier @avcvdb \nVery nice, but the real solution is this: http://t.co/inOOD21zWe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "dandemoustier",
+                "id": "21291400"
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "username": "avcvdb",
+                "id": "490328587"
+            }
+        ],
+        "urls": [
+            {
+                "start": 66,
+                "end": 88,
+                "url": "http://t.co/inOOD21zWe",
+                "expanded_url": "https://twitter.com/HotMarijke/status/553131334454243328/photo/1",
+                "display_url": "pic.twitter.com/inOOD21zWe"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 21291400
+}

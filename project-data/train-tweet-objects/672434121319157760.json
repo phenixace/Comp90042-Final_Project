@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-03 15:16:02+00:00",
+    "id": 672434121319157760,
+    "text": "@Dbargen @RebootLiberty  Great hockey stick graph",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Dbargen",
+                "id": "23195603"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "RebootLiberty",
+                "id": "2321322426"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 23195603
+}

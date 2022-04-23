@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-03-18 13:51:29+00:00",
+    "id": 1240274631187144706,
+    "text": "@ClkManchEster Hi Caroline. You can still visit the pharmacies in Warrington if you need to, and if you are not experiencing any symptoms of coronavirus.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ClkManchEster",
+                "id": "392733881"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "probability": 0.989,
+                "type": "Person",
+                "normalized_text": "Caroline"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "probability": 0.9546,
+                "type": "Place",
+                "normalized_text": "Warrington"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 392733881
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-13 22:56:21+00:00",
+    "id": 521796611983560704,
+    "text": "@cthagod @lilduval  .. Oh shit rap beef nigga... ..You just mad cause ya ass is old",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "cthagod",
+                "id": "17878322"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "lilduval",
+                "id": "16638685"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17878322
+}

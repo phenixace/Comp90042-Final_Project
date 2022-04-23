@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-06-12 12:35:36+00:00",
+    "id": 1271420890337677313,
+    "text": "@TeppichTrader @econhedge Not in the UK with our expanded capacity",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 38,
+                "probability": 0.9704,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "TeppichTrader",
+                "id": "731267058495815680"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "econhedge",
+                "id": "588081305"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 731267058495815680
+}

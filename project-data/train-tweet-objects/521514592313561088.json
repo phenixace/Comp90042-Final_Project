@@ -1,0 +1,28 @@
+{
+    "created_at": "2014-10-13 04:15:42+00:00",
+    "id": 521514592313561088,
+    "text": "@AmyMek  Please RT for those not understanding about the usurpation by politicians and bureaucrats... http://t.co/0uco6Prt65",
+    "entities": {
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/0uco6Prt65",
+                "expanded_url": "http://bit.ly/1vlkdC2",
+                "display_url": "bit.ly/1vlkdC2",
+                "status": 404,
+                "unwound_url": "http://teapartyradical.squarespace.com/daily/2014/10/12/for-those-not-understanding-about-the.html/"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-02-23 17:31:27+00:00",
+    "id": 569912433814450176,
+    "text": "@JamieDornan_org So Sure he/Jamie would appreciate your push back to keep it real! I know I do. Hang Tough!! Thx",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 32,
+                "probability": 0.983,
+                "type": "Person",
+                "normalized_text": "Jamie"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 279575920
+}

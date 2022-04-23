@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 11:32:30+00:00",
+    "id": 649909821957799936,
+    "text": "@CNN Of course it's a form of support! It just shouldn't have any impact on our political policies.  He supported the death row inmate too",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

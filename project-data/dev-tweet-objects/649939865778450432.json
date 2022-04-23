@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 13:31:53+00:00",
+    "id": 649939865778450432,
+    "text": "@CNN hope he gave her a WTF about being divorced 3 times.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

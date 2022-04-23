@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-26 17:50:58+00:00",
+    "id": 1254468023995564032,
+    "text": "@neekademus @JPL_Reader @tedcruz When they can no longer report exaggerated death numbers, and the country goes back to freedom, libs will be very sad.\n\nThey want this to go on as long as possible, which is what lockdowns do: prolong the problem.\n\nIt\u2019s not about saving lives, it\u2019s about conditioning.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "neekademus",
+                "id": "1246846738109026308"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "JPL_Reader",
+                "id": "818155216214355968"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "username": "tedcruz",
+                "id": "23022687"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1246846738109026308
+}

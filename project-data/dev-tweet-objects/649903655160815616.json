@@ -1,0 +1,37 @@
+{
+    "created_at": "2015-10-02 11:08:00+00:00",
+    "id": 649903655160815616,
+    "text": "Vatican says #KimDavis' meeting w/ #PopeFrancis 'should not be considered a form of support.' http://t.co/Ws0NMBY0cN http://t.co/JuKpcg0KDb",
+    "entities": {
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/Ws0NMBY0cN",
+                "expanded_url": "http://cnn.it/1j4YlHD",
+                "display_url": "cnn.it/1j4YlHD"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/JuKpcg0KDb",
+                "expanded_url": "https://twitter.com/CNN/status/649903655160815616/photo/1",
+                "display_url": "pic.twitter.com/JuKpcg0KDb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 22,
+                "tag": "KimDavis"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "tag": "PopeFrancis"
+            }
+        ]
+    },
+    "source": "Sprinklr",
+    "in_reply_to_user_id": null
+}

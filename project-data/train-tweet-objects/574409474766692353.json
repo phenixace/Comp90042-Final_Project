@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-08 03:21:05+00:00",
+    "id": 574409474766692353,
+    "text": "@ABC immediate tears! &amp; to listening to this being defended by the school district as, what did they say, a confidential learning area?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28785486
+}

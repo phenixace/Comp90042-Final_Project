@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 21:44:45+00:00",
+    "id": 1251990143843655682,
+    "text": "@MrMontagoose @THEshabbs The flu vaccine doesn't affect SARS-CoV-2. If we had a vaccine, we wouldn't be on lockdown.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MrMontagoose",
+                "id": "118856965"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "THEshabbs",
+                "id": "280012239"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 118856965
+}

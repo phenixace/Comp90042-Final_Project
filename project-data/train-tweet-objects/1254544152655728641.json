@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-26 22:53:28+00:00",
+    "id": 1254544152655728641,
+    "text": "@jrharrison1 @NolteNC @jkc_jaycee Also, personal digs and insults are not the way to counter paths of logic and data.  It proves many things about you, but not your point.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JrHarrison1",
+                "id": "1276874998637047809"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "NolteNC",
+                "id": "16163639"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 399941839
+}

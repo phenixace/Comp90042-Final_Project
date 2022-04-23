@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 15:47:08+00:00",
+    "id": 524950087680532480,
+    "text": "@FoxNews shooter in teh building has been shot,,,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1367531
+}

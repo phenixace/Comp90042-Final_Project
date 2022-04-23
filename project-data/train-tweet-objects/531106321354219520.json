@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-11-08 15:29:49+00:00",
+    "id": 531106321354219520,
+    "text": "\u201c@BuzzFeed: Pepsi Is Testing A Doritos-Flavored Mtn Dew\nhttp://t.co/vvlOZtZvUv http://t.co/L67XslEVTy\u201d all of America is going to hell",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 56,
+                "end": 78,
+                "url": "http://t.co/vvlOZtZvUv",
+                "expanded_url": "http://bzfd.it/1xiSdyk",
+                "display_url": "bzfd.it/1xiSdyk"
+            },
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/L67XslEVTy",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/531085761521528834/photo/1",
+                "display_url": "pic.twitter.com/L67XslEVTy"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 37,
+                "probability": 0.3701,
+                "type": "Product",
+                "normalized_text": "Pepsi Is Testing A Doritos"
+            },
+            {
+                "start": 110,
+                "end": 116,
+                "probability": 0.9895,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 5695632
+}

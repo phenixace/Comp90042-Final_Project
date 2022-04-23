@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 12:03:23+00:00",
+    "id": 1251843836734779394,
+    "text": "@Hlukscoin @DrZweliMkhize And not all of them wear masks when unpacking",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 25,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 41553083
+}

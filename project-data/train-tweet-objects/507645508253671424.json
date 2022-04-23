@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-09-04 21:44:55+00:00",
+    "id": 507645508253671424,
+    "text": "@billyeichner marry me!! #NoSeriously",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 37,
+                "tag": "NoSeriously"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "billyeichner",
+                "id": "74669397"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 74669397
+}

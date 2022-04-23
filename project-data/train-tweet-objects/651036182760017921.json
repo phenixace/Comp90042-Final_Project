@@ -1,0 +1,48 @@
+{
+    "created_at": "2015-10-05 14:08:16+00:00",
+    "id": 651036182760017921,
+    "text": "@ThinkAtheist @RichardDawkins I can't help but think that Cat Pope (Papa Feles) would've handled this better. http://t.co/SWQwbcUfPk",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ThinkAtheist",
+                "id": "17697300"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "RichardDawkins",
+                "id": "15143478"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/SWQwbcUfPk",
+                "expanded_url": "http://www.shirthappened.com/latest-funny-shirt-religion-atheism/cool-shirt-cat-pope-papa-feles-mens?filter=1",
+                "display_url": "shirthappened.com/latest-funny-s\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 65,
+                "probability": 0.7514,
+                "type": "Person",
+                "normalized_text": "Cat Pope"
+            },
+            {
+                "start": 68,
+                "end": 77,
+                "probability": 0.835,
+                "type": "Person",
+                "normalized_text": "Papa Feles"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 17697300
+}

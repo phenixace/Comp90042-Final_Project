@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-07 21:47:25+00:00",
+    "id": 552944620816973824,
+    "text": "@SpreadButter @thalsey51 be nice. We are 10 years away from her adult film career and she needs an outlet.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SpreadButter",
+                "id": "26643566"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 26643566
+}

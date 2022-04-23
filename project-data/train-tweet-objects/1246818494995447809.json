@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-05 15:14:28+00:00",
+    "id": 1246818494995447809,
+    "text": "What are the symptoms of COVID-19? \n\nThe most common symptoms of COVID-19 are: fever, tiredness, dry cough, and body temperature.\n\nSome patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. https://t.co/0ExBVjtPP5",
+    "entities": {
+        "urls": [
+            {
+                "start": 226,
+                "end": 249,
+                "url": "https://t.co/0ExBVjtPP5",
+                "expanded_url": "https://twitter.com/HarunzyIs4ALL/status/1246818494995447809/photo/1",
+                "display_url": "pic.twitter.com/0ExBVjtPP5"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

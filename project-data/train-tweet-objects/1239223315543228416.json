@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-15 16:13:56+00:00",
+    "id": 1239223315543228416,
+    "text": "Feldschau asks how coronavirus is spread. He gives some facts he's heard and asks the panel to separate fact and fiction. He's been told it spreads through coughing and sneezing, lives several hours airborne and three days on hard surfaces and a person is contagious for 37 days.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 8,
+                "probability": 0.5307,
+                "type": "Person",
+                "normalized_text": "Feldschau"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1909381968
+}

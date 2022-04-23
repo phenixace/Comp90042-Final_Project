@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-08-13 23:38:18+00:00",
+    "id": 499701509513166848,
+    "text": "@nealcarter @ksdknews Journalists, show up @ #Ferguson PD to express intent to sue re. violation of 1st amend.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 45,
+                "end": 54,
+                "tag": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nealcarter",
+                "id": "15249499"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15249499
+}

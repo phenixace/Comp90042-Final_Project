@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-29 04:00:37+00:00",
+    "id": 527309002040803328,
+    "text": "@pierre is this press release the sort of investigative clarity we can expect from first look",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "pierre",
+                "id": "749963"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 749963
+}

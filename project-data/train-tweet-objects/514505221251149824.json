@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-23 20:02:58+00:00",
+    "id": 514505221251149824,
+    "text": "@TIME The Iphone is saying \"Get Bent\"!!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 15,
+                "probability": 0.8489,
+                "type": "Product",
+                "normalized_text": "Iphone"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14293310
+}

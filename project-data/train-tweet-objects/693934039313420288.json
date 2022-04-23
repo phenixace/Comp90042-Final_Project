@@ -1,0 +1,26 @@
+{
+    "created_at": "2016-01-31 23:09:02+00:00",
+    "id": 693934039313420288,
+    "text": "@TheValleyReport is her name Elizabeth. Cuz I know someone who would do that",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 37,
+                "probability": 0.9658,
+                "type": "Person",
+                "normalized_text": "Elizabeth"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3369234799
+}

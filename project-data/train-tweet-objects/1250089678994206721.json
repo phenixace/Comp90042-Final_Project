@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 15:52:59+00:00",
+    "id": 1250089678994206721,
+    "text": "@TIME In detail, how can we avoid getting the coronavirus?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14293310
+}

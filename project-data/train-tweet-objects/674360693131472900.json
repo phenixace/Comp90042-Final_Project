@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 22:51:32+00:00",
+    "id": 674360693131472900,
+    "text": "@RollingStone how many killed since some other famous random person died",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

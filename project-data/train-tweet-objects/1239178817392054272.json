@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-15 13:17:07+00:00",
+    "id": 1239178817392054272,
+    "text": "@dropeik Telling that you found simple citation to be smug. And that you identified that assertion as the thing I was referring to without any basis other than your own doubts about your proclamations (or perhaps concerns expressed by others) . . .",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "dropeik",
+                "id": "19242750"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 19242750
+}

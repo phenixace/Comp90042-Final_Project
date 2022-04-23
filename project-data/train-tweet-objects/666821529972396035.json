@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-18 03:33:36+00:00",
+    "id": 666821529972396035,
+    "text": "@DLoesch @hrkbenowen Stop asking great questions!!! They're gonna call you a racist!!!,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "DLoesch",
+                "id": "7702542"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "hrkbenowen",
+                "id": "542962969"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 7702542
+}

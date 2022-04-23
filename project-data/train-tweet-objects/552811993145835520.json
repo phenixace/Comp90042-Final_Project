@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-07 13:00:24+00:00",
+    "id": 552811993145835520,
+    "text": "@zhuravkov67 @cnnbrk Hey buddy, I'm insulting your faith. Now go fuck yourself.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2762702188
+}

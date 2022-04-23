@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 09:10:10+00:00",
+    "id": 1244914876457328641,
+    "text": "Can an ultraviolet disinfection lamp kill the new coronavirus? https://t.co/CXC3Arul1R",
+    "entities": {
+        "urls": [
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/CXC3Arul1R",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244914876457328641/photo/1",
+                "display_url": "pic.twitter.com/CXC3Arul1R"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 715109606624768000
+}

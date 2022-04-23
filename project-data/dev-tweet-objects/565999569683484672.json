@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-02-12 22:23:07+00:00",
+    "id": 565999569683484672,
+    "text": "@lizzwinstead Translated: He likes dudes. #tolerance",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "lizzwinstead",
+                "id": "57917441"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 42,
+                "end": 52,
+                "tag": "tolerance"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 57917441
+}

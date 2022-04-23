@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14 21:07:11+00:00",
+    "id": 1250168748176261120,
+    "text": "@TIME STOP EAT\n\nGMO \n\nAND \n\nFASTFOOD..\n\nDO NOT DESTROY IMMUNITY SYSTEM OF BADY!\n\nWHO MADE GMO MEALS\n\nTHEY ARE NOT EATING!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14293310
+}

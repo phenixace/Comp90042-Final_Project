@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-19 21:21:27+00:00",
+    "id": 1240750254242156545,
+    "text": "33) #NewCrownVirus \ud83d\udc51\n\nMore Chinese\ud83c\udde8\ud83c\uddf3 #propaganda Vaccine \ud83d\udc89\ud83d\udc89\ud83d\udc89\n\nhttps://t.co/5NOYwkxZLf",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            },
+            {
+                "start": 37,
+                "end": 48,
+                "tag": "propaganda"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 85,
+                "url": "https://t.co/5NOYwkxZLf",
+                "expanded_url": "https://twitter.com/wutingzy/status/1240661305792565248",
+                "display_url": "twitter.com/wutingzy/statu\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

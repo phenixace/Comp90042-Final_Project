@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-07-01 19:03:04+00:00",
+    "id": 1278403766623051777,
+    "text": "Mayor Will O\u2019Neill has called for an emergency Council meeting at 2 p.m. today to discuss closing the beaches in Newport Beach on July 4, after two seasonal lifeguards employed with the city tested positive for COVID-19.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 17,
+                "probability": 0.3947,
+                "type": "Person",
+                "normalized_text": "Mayor Will O\u2019Neill"
+            },
+            {
+                "start": 113,
+                "end": 125,
+                "probability": 0.913,
+                "type": "Place",
+                "normalized_text": "Newport Beach"
+            }
+        ]
+    },
+    "source": "Buffer",
+    "in_reply_to_user_id": null
+}

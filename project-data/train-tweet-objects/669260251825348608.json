@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-24 21:04:12+00:00",
+    "id": 669260251825348608,
+    "text": "@HistoricalPics SMH https://t.co/5U6WF6LfZA",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            }
+        ],
+        "urls": [
+            {
+                "start": 20,
+                "end": 43,
+                "url": "https://t.co/5U6WF6LfZA",
+                "expanded_url": "https://twitter.com/Pattypan/status/669260251825348608/photo/1",
+                "display_url": "pic.twitter.com/5U6WF6LfZA"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1598644159
+}

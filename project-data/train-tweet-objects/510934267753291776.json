@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-13 23:33:16+00:00",
+    "id": 510934267753291776,
+    "text": "@FoxNews We need another Ronald Reagan. We need a President that understands his most important job is to BE a Commander and Chief!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 37,
+                "probability": 0.992,
+                "type": "Person",
+                "normalized_text": "Ronald Reagan"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

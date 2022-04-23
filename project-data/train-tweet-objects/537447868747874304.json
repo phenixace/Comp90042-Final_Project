@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-26 03:28:51+00:00",
+    "id": 537447868747874304,
+    "text": "@deray @BigBoithedog This is so disgusting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "BigBoithedog",
+                "id": "606761178"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 29417304
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-01 20:16:19+00:00",
+    "id": 517407685860663296,
+    "text": "@DavidJo52951945 @conserveguitar Let them lick their left hands then.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "conserveguitar",
+                "id": "91363073"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1125937411
+}

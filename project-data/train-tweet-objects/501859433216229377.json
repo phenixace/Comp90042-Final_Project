@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 22:33:07+00:00",
+    "id": 501859433216229377,
+    "text": "@zaidbenjamin @NewCurrencyNews Murder, genocide, war, famine, division, barbarity. All form 'Peaceful Religions' Lets just fucking BAN them.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "NewCurrencyNews",
+                "id": "2336830657"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

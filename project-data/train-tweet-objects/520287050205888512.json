@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-09 18:57:53+00:00",
+    "id": 520287050205888512,
+    "text": "@mashable Any word on whether Amazon will use the roof of 7 W. 34th as a drone pad? ;)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 35,
+                "probability": 0.8494,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 972651
+}

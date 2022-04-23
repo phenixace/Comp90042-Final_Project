@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-01-09 16:25:24+00:00",
+    "id": 553588358044483584,
+    "text": "Damn, this is like a movie RT @HuffingtonPost Reports: #CharlieHebdo suspects killed http://t.co/zCuZD1cure",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 68,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 30,
+                "end": 45,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/zCuZD1cure",
+                "expanded_url": "http://huff.to/1xMc9KH",
+                "display_url": "huff.to/1xMc9KH"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14511951
+}

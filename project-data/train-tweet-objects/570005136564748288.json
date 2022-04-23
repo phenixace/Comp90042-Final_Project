@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-02-23 23:39:49+00:00",
+    "id": 570005136564748288,
+    "text": "@JamieDornan_org Its so sad people have to start rumors like this. Jamie &amp; Amelia are so cute together.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 67,
+                "end": 71,
+                "probability": 0.9842,
+                "type": "Person",
+                "normalized_text": "Jamie"
+            },
+            {
+                "start": 75,
+                "end": 80,
+                "probability": 0.9883,
+                "type": "Person",
+                "normalized_text": "Amelia"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279575920
+}

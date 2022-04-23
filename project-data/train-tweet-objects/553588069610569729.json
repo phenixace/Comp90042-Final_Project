@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-09 16:24:15+00:00",
+    "id": 553588069610569729,
+    "text": "y los kouachi abatidos por la polic\u00eda @elespanolcom @AFP",
+    "entities": {
+        "mentions": [
+            {
+                "start": 38,
+                "end": 51,
+                "username": "elespanolcom",
+                "id": "2905232597"
+            },
+            {
+                "start": 52,
+                "end": 56,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2905232597
+}

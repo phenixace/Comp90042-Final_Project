@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-09 02:16:12+00:00",
+    "id": 674412198391914497,
+    "text": "@RollingStone @hEllaRedRose at least triple that number for the amount of lives lost to drunk driving since then",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "hEllaRedRose",
+                "id": "456332932"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14780915
+}

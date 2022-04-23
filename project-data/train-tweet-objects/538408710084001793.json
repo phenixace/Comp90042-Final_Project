@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-11-28 19:06:54+00:00",
+    "id": 538408710084001793,
+    "text": "A pregnant woman has lost her eye after being shot with bean bag by police in Ferguson: http://t.co/QP37VU7hTK http://t.co/wwCbBnouIH",
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/QP37VU7hTK",
+                "expanded_url": "http://goo.gl/a9SfGM",
+                "display_url": "goo.gl/a9SfGM"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/wwCbBnouIH",
+                "expanded_url": "https://twitter.com/THESOURCE/status/538408710084001793/photo/1",
+                "display_url": "pic.twitter.com/wwCbBnouIH"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 78,
+                "end": 85,
+                "probability": 0.4562,
+                "type": "Person",
+                "normalized_text": "Ferguson"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

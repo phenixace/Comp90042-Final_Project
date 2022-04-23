@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-07 22:20:03+00:00",
+    "id": 552952833226838017,
+    "text": "@SpreadButter @SoftSable \nThe All American Family?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SpreadButter",
+                "id": "26643566"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "SoftSable",
+                "id": "32642412"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 26643566
+}

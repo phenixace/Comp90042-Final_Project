@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-02 00:57:24+00:00",
+    "id": 1245515642792484864,
+    "text": "@catlady_chelsea Hi, Chelsea. An individual can carry the virus and be without symptoms for several days. Some carriers won't get sick at all. But the virus is still in their system. If they cough or sneeze without covering their mouths, or cover their mouths without washing hands after --&gt;",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "catlady_chelsea",
+                "id": "746149456664530944"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 27,
+                "probability": 0.3236,
+                "type": "Organization",
+                "normalized_text": "Chelsea"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 746149456664530944
+}

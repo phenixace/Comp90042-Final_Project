@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18 07:57:00+00:00",
+    "id": 490042537038462976,
+    "text": "@msnbc really sad tragic loss",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MSNBC",
+                "id": "2836421"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 2836421
+}

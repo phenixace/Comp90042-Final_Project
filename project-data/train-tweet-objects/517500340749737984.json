@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-02 02:24:30+00:00",
+    "id": 517500340749737984,
+    "text": "@Jarjarbug @mdj17 just a typical white person like his grandma.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            },
+            {
+                "start": 11,
+                "end": 17,
+                "username": "mdj17",
+                "id": "24935003"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 43182702
+}

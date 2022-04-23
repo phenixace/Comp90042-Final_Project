@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-03 19:54:45+00:00",
+    "id": 507255397804032000,
+    "text": "@CNBC Nevada Lithium miner Western Lithium is up over 25% on the day. Seems like investors believe the rumors",
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 41,
+                "probability": 0.1014,
+                "type": "Organization",
+                "normalized_text": "Nevada Lithium miner Western Lithium"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CNBC",
+                "id": "20402945"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 20402945
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-09 22:19:31+00:00",
+    "id": 509466156319514624,
+    "text": "@Kotaku Oh God no. What happens to Playstation versions?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kotaku",
+                "id": "11928542"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 13,
+                "probability": 0.7108,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 35,
+                "end": 45,
+                "probability": 0.7241,
+                "type": "Product",
+                "normalized_text": "Playstation"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 11928542
+}

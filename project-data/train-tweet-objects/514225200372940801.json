@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-09-23 01:30:16+00:00",
+    "id": 514225200372940801,
+    "text": "@cnnbrk  Young Man DROWNS while CUFFED In MO Police Custody! #JusticeforBrandonEllingson\nPls Sign &amp; RT #Ferguson\nhttp://t.co/gkl0Ylidzv",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 88,
+                "tag": "JusticeforBrandonEllingson"
+            },
+            {
+                "start": 107,
+                "end": 116,
+                "tag": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/gkl0Ylidzv",
+                "expanded_url": "http://www.justiceforbrandonellingson.org",
+                "display_url": "justiceforbrandonellingson.org"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 428333
+}

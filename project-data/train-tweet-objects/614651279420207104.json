@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 04:27:39+00:00",
+    "id": 614651279420207104,
+    "text": "Ahh, \"natural\" doesn't mean what you think it means. You tried... https://t.co/8rHHWbxm8x @PastorDLHill @queerasfuhk",
+    "entities": {
+        "mentions": [
+            {
+                "start": 90,
+                "end": 103,
+                "username": "PastorDLHill",
+                "id": "384211762"
+            },
+            {
+                "start": 104,
+                "end": 116,
+                "username": "queerasfuhk",
+                "id": "3347180410"
+            }
+        ],
+        "urls": [
+            {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/8rHHWbxm8x",
+                "expanded_url": "https://twitter.com/rxxxds/status/614593554908753923",
+                "display_url": "twitter.com/rxxxds/status/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 384211762
+}

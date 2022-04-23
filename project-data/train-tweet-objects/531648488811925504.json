@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:24:11+00:00",
+    "id": 531648488811925504,
+    "text": "@Boogie2988 Grosssss, I like how it squirted on your hand a tiny bit at the end though XD",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

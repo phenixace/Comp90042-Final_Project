@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-17 06:10:52+00:00",
+    "id": 666498720997838848,
+    "text": "@USATODAY and our Vets are on the streets with corrupt health care for them that pay themselves $170 million in bonuses.But no money for Vet",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "USATODAY",
+                "id": "15754281"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15754281
+}

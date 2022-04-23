@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-26 14:47:48+00:00",
+    "id": 1254421929865314306,
+    "text": "Also, this... https://t.co/AzmscyiuEf",
+    "entities": {
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/AzmscyiuEf",
+                "expanded_url": "https://twitter.com/mattysino/status/1254421929865314306/photo/1",
+                "display_url": "pic.twitter.com/AzmscyiuEf"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14206218
+}

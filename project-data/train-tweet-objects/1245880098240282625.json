@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-04-03 01:05:37+00:00",
+    "id": 1245880098240282625,
+    "text": "@FbrAndrew @Pokemon Question- How come you never had a problem with this in the Sun/Moon series? They didn't have National Dex then, or the game before it. Why do we need it now, especially when we have Pokemon Home?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 80,
+                "end": 87,
+                "probability": 0.4882,
+                "type": "Other",
+                "normalized_text": "Sun/Moon"
+            },
+            {
+                "start": 203,
+                "end": 214,
+                "probability": 0.279,
+                "type": "Other",
+                "normalized_text": "Pokemon Home"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "FbrAndrew",
+                "id": "1095150672302039045"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "Pokemon",
+                "id": "96879107"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1095150672302039045
+}

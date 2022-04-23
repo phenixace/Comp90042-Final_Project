@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-03 04:19:30+00:00",
+    "id": 529125692848754688,
+    "text": "@fluffyguy Well it's not official till its on Facebook lol",
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 53,
+                "probability": 0.5899,
+                "type": "Organization",
+                "normalized_text": "Facebook"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

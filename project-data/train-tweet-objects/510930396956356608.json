@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-09-13 23:17:53+00:00",
+    "id": 510930396956356608,
+    "text": "@JimmieHendrix01 @SCClemons @ACTED @MichaelTiyce that's 2.2 million too many,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JimmieHendrix01",
+                "id": "2430904037"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "username": "SCClemons",
+                "id": "16172991"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "username": "ACTED",
+                "id": "94539935"
+            },
+            {
+                "start": 35,
+                "end": 48,
+                "username": "MichaelTiyce",
+                "id": "94185085"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2430904037
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-06 17:48:18+00:00",
+    "id": 497076713638359040,
+    "text": "@TMZ I'm not saying I want a bear to eat the Biebs....but a good bitch smack ain't never hurt nobody!!!!\ud83d\udc4b\ud83d\ude01",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16331010
+}

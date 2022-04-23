@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-10 13:50:26+00:00",
+    "id": 1248609287871418369,
+    "text": "@JohnnyBarone1 @MayorBeer Just watch Sweeden. They have SIX TIMES canada's death rate (adjusted for pupulation size) and are still doing very little.\nThat's going to turn in to a shitshow REAL fast.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "JohnnyBarone1",
+                "id": "1168281510933348352"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "MayorBeer",
+                "id": "1247332883062292480"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1168281510933348352
+}

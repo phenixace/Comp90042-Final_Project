@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-09 17:45:15+00:00",
+    "id": 520268770171174912,
+    "text": "Ugh \u201c@mashable: A penis spray-painted on a $2.5 million Bugatti was just for a prank video. http://t.co/YdP6CPt8JU http://t.co/MkyPk9Dof3\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/YdP6CPt8JU",
+                "expanded_url": "http://on.mash.to/1pVkq7J",
+                "display_url": "on.mash.to/1pVkq7J"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/MkyPk9Dof3",
+                "expanded_url": "https://twitter.com/mashable/status/520244836084228096/photo/1",
+                "display_url": "pic.twitter.com/MkyPk9Dof3"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 62,
+                "probability": 0.583,
+                "type": "Product",
+                "normalized_text": "Bugatti"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 5,
+                "end": 14,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 972651
+}

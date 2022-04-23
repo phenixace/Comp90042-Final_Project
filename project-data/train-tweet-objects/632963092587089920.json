@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-08-16 17:12:15+00:00",
+    "id": 632963092587089920,
+    "text": "@a_coal_man @tonybalogna @Jackie_Pepper @KhaledBeydoun Truth matters for credibility, and you don't need to distort it for this to be tragic",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "tonybalogna",
+                "id": "36631460"
+            },
+            {
+                "start": 25,
+                "end": 39,
+                "username": "Jackie_Pepper",
+                "id": "18501635"
+            },
+            {
+                "start": 40,
+                "end": 54,
+                "username": "KhaledBeydoun",
+                "id": "2163076560"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 73800454
+}

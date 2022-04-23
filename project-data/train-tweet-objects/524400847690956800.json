@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-21 03:24:39+00:00",
+    "id": 524400847690956800,
+    "text": "@wisdomwatch @dhrxsol1234 Screw that \"save the rain forest\" shit! Carpet bomb ever inch.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "wisdomwatch",
+                "id": "2435960576"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "dhrxsol1234",
+                "id": "55976150"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2435960576
+}

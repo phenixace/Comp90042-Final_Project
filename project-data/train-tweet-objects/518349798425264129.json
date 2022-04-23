@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-04 10:39:57+00:00",
+    "id": 518349798425264129,
+    "text": "@DavidJo52951945 False http://t.co/yYtFbMnDrb",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ],
+        "urls": [
+            {
+                "start": 23,
+                "end": 45,
+                "url": "http://t.co/yYtFbMnDrb",
+                "expanded_url": "http://www.snopes.com/politics/religion/kfcwipes.asp",
+                "display_url": "snopes.com/politics/relig\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1125937411
+}

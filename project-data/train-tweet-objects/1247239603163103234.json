@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-06 19:07:48+00:00",
+    "id": 1247239603163103234,
+    "text": "@monteblan @ruskin147 oh please. you have practically the sum of himan knowledge at your fingertips. why not invest some time into trying to harness it and educate yourself instead of demanding to be spoon-fed. grow up.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "monteblan",
+                "id": "83820512"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "ruskin147",
+                "id": "1294741"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 83820512
+}

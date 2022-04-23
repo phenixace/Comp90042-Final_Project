@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-21 03:27:11+00:00",
+    "id": 557741168981966850,
+    "text": "@subaru_usa Nice Subaru .",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "subaru_usa",
+                "id": "16529238"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16529238
+}

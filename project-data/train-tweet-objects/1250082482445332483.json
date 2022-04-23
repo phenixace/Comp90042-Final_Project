@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-04-14 15:24:23+00:00",
+    "id": 1250082482445332483,
+    "text": "@TIME COVID-19 Killed - 121,793\nCoronavirus Cases: 1,947,867\nDeaths: 121,793\nRecovered: 460,251\nhttps://t.co/qxzi8L3Aje",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ],
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/qxzi8L3Aje",
+                "expanded_url": "https://youtu.be/z5C_I87jSFw",
+                "display_url": "youtu.be/z5C_I87jSFw",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1480942554388602883/DpKgzuZb?format=jpg&name=orig",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1480942554388602883/DpKgzuZb?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Germs Kill 1",
+                "unwound_url": "https://www.youtube.com/watch?v=z5C_I87jSFw&feature=youtu.be"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14293310
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2013-09-14 13:55:04+00:00",
+    "id": 378879576589733888,
+    "text": "@laurenstockley7 OMFG PLEASE PLEASE GOD LET THIS BE!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 38,
+                "probability": 0.7334,
+                "type": "Other",
+                "normalized_text": "GOD"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 71645648
+}

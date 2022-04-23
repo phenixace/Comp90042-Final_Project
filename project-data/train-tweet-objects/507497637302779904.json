@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-04 11:57:20+00:00",
+    "id": 507497637302779904,
+    "text": "@CNBC Nevada is a great distribution hub",
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 11,
+                "probability": 0.9461,
+                "type": "Place",
+                "normalized_text": "Nevada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CNBC",
+                "id": "20402945"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20402945
+}

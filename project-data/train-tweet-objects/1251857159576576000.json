@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-19 12:56:19+00:00",
+    "id": 1251857159576576000,
+    "text": "@DrZweliMkhize @GCISMedia Prevention is better than cure, i rinse and wipe EVERYTHING at home before storing.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "GCISMedia",
+                "id": "804490669"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

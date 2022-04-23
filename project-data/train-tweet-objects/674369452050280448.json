@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 23:26:21+00:00",
+    "id": 674369452050280448,
+    "text": "@RollingStone that's totally fucked up.  Might even be an understatement.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14780915
+}

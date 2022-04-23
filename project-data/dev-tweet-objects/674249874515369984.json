@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 15:31:11+00:00",
+    "id": 674249874515369984,
+    "text": "@mashable now dats a man about town answer...lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 972651
+}

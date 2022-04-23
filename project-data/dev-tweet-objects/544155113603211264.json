@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-14 15:41:03+00:00",
+    "id": 544155113603211264,
+    "text": "@nypost Lunch is for wimps.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 17469289
+}

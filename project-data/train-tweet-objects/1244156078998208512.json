@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-03-29 06:54:59+00:00",
+    "id": 1244156078998208512,
+    "text": "Explained: What is treatment and recovery for a COVID-19 patient  https://t.co/IInDzc55n6",
+    "entities": {
+        "urls": [
+            {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/IInDzc55n6",
+                "expanded_url": "https://www.thenewsminute.com/article/explained-what-treatment-and-recovery-covid-19-patient-121330",
+                "display_url": "thenewsminute.com/article/explai\u2026",
+                "status": 200,
+                "unwound_url": "https://www.thenewsminute.com/article/explained-what-treatment-and-recovery-covid-19-patient-121330"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 60843563
+}

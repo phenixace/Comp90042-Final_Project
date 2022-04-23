@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-10-02 11:34:52+00:00",
+    "id": 649910416252887041,
+    "text": "@CNN Then exactly how should the meeting be considered? @Pontifex shouldn't have met with #KimDavis to begin with. Rewarded bad behavior.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "username": "Pontifex",
+                "id": "500704345"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 99,
+                "tag": "KimDavis"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

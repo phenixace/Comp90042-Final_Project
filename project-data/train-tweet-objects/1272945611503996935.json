@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-16 17:34:18+00:00",
+    "id": 1272945611503996935,
+    "text": "Would especially draw attention to @yhgrad's comment \u201cWhat is the trigger for reintroducing mitigation efforts?\u201d Grad said. \u201cAs you lift social distancing, you can expect a resurgence of cases as susceptible people are available and since we\u2019ve not hit herd immunity.\u201d https://t.co/QCfIi1zumx",
+    "entities": {
+        "mentions": [
+            {
+                "start": 35,
+                "end": 42,
+                "username": "yhgrad",
+                "id": "789516698"
+            }
+        ],
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/QCfIi1zumx",
+                "expanded_url": "https://twitter.com/CCDD_HSPH/status/1272942381982195714",
+                "display_url": "twitter.com/CCDD_HSPH/stat\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

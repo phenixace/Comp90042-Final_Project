@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-14 19:25:02+00:00",
+    "id": 643505755182735361,
+    "text": "@LibertyUSA1776 @chippydavek http://t.co/bVg7bLJZJP",
+    "entities": {
+        "urls": [
+            {
+                "start": 29,
+                "end": 51,
+                "url": "http://t.co/bVg7bLJZJP",
+                "expanded_url": "https://twitter.com/StudiniJones/status/643505755182735361/photo/1",
+                "display_url": "pic.twitter.com/bVg7bLJZJP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3300205033
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-05 11:30:52+00:00",
+    "id": 1235528198135349250,
+    "text": "@ChrisH81992992 Zur Info: \"Can pets at home spread the new coronavirus (2019-nCoV)?\" https://t.co/TYLjX8HUMV",
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/TYLjX8HUMV",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1075356096959823872
+}

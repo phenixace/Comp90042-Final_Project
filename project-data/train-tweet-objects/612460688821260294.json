@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-21 03:23:01+00:00",
+    "id": 612460688821260294,
+    "text": "@tchopStL i would've put rat poison in it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 9112032
+}

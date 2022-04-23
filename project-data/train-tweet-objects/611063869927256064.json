@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-06-17 06:52:34+00:00",
+    "id": 611063869927256064,
+    "text": "@cnni #This Is Not News!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 6,
+                "end": 11,
+                "tag": "This"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 2097571
+}

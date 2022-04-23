@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-08-27 06:03:09+00:00",
+    "id": 504509402129260545,
+    "text": "@Softykjr @SportsBizNews doubtful this guy has sources. His blog looks suspect, few followers. I'll wait until I hear it from @ChrisDaniels5",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Softykjr",
+                "id": "63653875"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 126,
+                "end": 140,
+                "username": "ChrisDaniels5",
+                "id": "20286125"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 63653875
+}

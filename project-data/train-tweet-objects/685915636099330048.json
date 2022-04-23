@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-01-09 20:06:45+00:00",
+    "id": 685915636099330048,
+    "text": "@b_boogey_xl poor babies!!!!! I don't eat KFC though, that's for sure!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "b_boogey_xl",
+                "id": "16294197"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16294197
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2013-12-01 17:05:16+00:00",
+    "id": 407193694693888000,
+    "text": "@peoplemag I own a Porsche. You have to be speeding to do that kind of damage.  I feel for those guys.  #porsche #paulwalker",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 104,
+                "end": 112,
+                "tag": "porsche"
+            },
+            {
+                "start": 113,
+                "end": 124,
+                "tag": "paulwalker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "peoplemag",
+                "id": "3064617094"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "probability": 0.4875,
+                "type": "Product",
+                "normalized_text": "Porsche"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 25589776
+}

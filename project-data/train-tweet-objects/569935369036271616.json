@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-23 19:02:35+00:00",
+    "id": 569935369036271616,
+    "text": "@JamieDornan_org  thanks for  letting us know x",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279575920
+}

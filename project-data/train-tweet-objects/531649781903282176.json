@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:29:20+00:00",
+    "id": 531649781903282176,
+    "text": "@Boogie2988 ddp ain't too happy. That ain't your mommas smoothie",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 42345999
+}

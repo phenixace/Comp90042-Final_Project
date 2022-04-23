@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-06-26 17:30:51+00:00",
+    "id": 614485992804724736,
+    "text": "@daddylouist @Trxyler_ God is the last entity to put a rainbow over the White House right now maybe it was a natural phenomenon #LoveWins",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 128,
+                "end": 137,
+                "tag": "LoveWins"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "daddylouist",
+                "id": "3402831455"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 25,
+                "probability": 0.9311,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 72,
+                "end": 82,
+                "probability": 0.9009,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 605822673
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 18:20:30+00:00",
+    "id": 524988684408741889,
+    "text": "@CNN this is a dark day in Canada my deepest condolences for the soldier who lost his life family members and friends. May he rest in peace.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 32,
+                "probability": 0.9973,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

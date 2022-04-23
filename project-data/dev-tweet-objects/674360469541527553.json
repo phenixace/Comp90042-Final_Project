@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-08 22:50:39+00:00",
+    "id": 674360469541527553,
+    "text": "@RollingStone @TheMurdochTimes Yeah man its all Lennons fault!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 54,
+                "probability": 0.4995,
+                "type": "Person",
+                "normalized_text": "Lennons"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

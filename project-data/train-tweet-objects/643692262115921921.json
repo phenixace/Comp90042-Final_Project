@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-09-15 07:46:09+00:00",
+    "id": 643692262115921921,
+    "text": "@LibertyUSA1776 @ntfem Not that you care but this picture has been doing the rounds on twitter long before the Syrian crisis",
+    "entities": {
+        "annotations": [
+            {
+                "start": 87,
+                "end": 93,
+                "probability": 0.6497,
+                "type": "Product",
+                "normalized_text": "twitter"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "username": "ntfem",
+                "id": "2375154235"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

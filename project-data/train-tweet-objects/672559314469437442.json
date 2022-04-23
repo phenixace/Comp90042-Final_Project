@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-03 23:33:30+00:00",
+    "id": 672559314469437442,
+    "text": "@Coloradogun and this list means what?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Coloradogun",
+                "id": "24486612"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 24486612
+}

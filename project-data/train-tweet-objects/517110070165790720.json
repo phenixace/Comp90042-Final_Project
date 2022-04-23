@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-01 00:33:42+00:00",
+    "id": 517110070165790720,
+    "text": "@Jarjarbug @StrangeFunnies And the media has shown so few pics of her but tons of that animal, and not even current ones.  shameful.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "StrangeFunnies",
+                "id": "184383206"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 43182702
+}

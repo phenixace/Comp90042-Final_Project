@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-12 04:52:23+00:00",
+    "id": 642561369951334400,
+    "text": "@Lrihendry AND WHT  R THE PARENTS OF THOSE STUDENTS DOING ??????????????????????",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 56,
+                "probability": 0.3391,
+                "type": "Organization",
+                "normalized_text": "WHT R THE PARENTS OF THOSE STUDENTS DOING"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 129235890
+}

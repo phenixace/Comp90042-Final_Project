@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-18 21:14:26+00:00",
+    "id": 1240386100981456896,
+    "text": "25) #NewCrownVirus \ud83d\udc51\n\nhttps://t.co/TvDyTlE5dS",
+    "entities": {
+        "urls": [
+            {
+                "start": 22,
+                "end": 45,
+                "url": "https://t.co/TvDyTlE5dS",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240385315769970689",
+                "display_url": "twitter.com/jj_talking/sta\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

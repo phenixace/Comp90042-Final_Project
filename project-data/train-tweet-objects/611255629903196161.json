@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-06-17 19:34:33+00:00",
+    "id": 611255629903196161,
+    "text": "\u201c@cnni: What's lurking underneath that crispy crust? A KFC customer claims he got a fried rat: http://t.co/uQqHLo91ZB http://t.co/lIjmN3QbhI",
+    "entities": {
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/uQqHLo91ZB",
+                "expanded_url": "http://cnn.it/1GY1Rh3",
+                "display_url": "cnn.it/1GY1Rh3"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/lIjmN3QbhI",
+                "expanded_url": "https://twitter.com/cnni/status/611039775856812032/photo/1",
+                "display_url": "pic.twitter.com/lIjmN3QbhI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2097571
+}

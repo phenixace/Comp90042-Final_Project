@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-16 09:57:47+00:00",
+    "id": 1239491039087427584,
+    "text": "These droplets land on objects and surfaces around the person. \n#LetsFightCorona @MenPk1\n@TeamForPakistan",
+    "entities": {
+        "mentions": [
+            {
+                "start": 81,
+                "end": 88,
+                "username": "MenPk1",
+                "id": "1199282153852407810"
+            },
+            {
+                "start": 89,
+                "end": 105,
+                "username": "TeamForPakistan",
+                "id": "1216367880209666048"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 80,
+                "tag": "LetsFightCorona"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1199282153852407810
+}

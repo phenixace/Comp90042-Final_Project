@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-02-04 04:34:48+00:00",
+    "id": 562831616243171328,
+    "text": "Strangely Interesting! RT @Squarespace Drift into a peaceful slumber w/@TheJeffBridges' new #SleepingTapes album http://t.co/ug1Kh0w4HW",
+    "entities": {
+        "mentions": [
+            {
+                "start": 26,
+                "end": 38,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 71,
+                "end": 86,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 92,
+                "end": 106,
+                "tag": "SleepingTapes"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/ug1Kh0w4HW",
+                "expanded_url": "http://www.dreamingwithjeff.com/",
+                "display_url": "dreamingwithjeff.com"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14319981
+}

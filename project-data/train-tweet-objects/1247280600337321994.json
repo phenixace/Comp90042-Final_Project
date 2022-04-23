@@ -1,0 +1,44 @@
+{
+    "created_at": "2020-04-06 21:50:43+00:00",
+    "id": 1247280600337321994,
+    "text": "@sturgeon_sue @ReneeFiredup @Christi72002967 @Passion_Comp3 @RepGalonski @realDonaldTrump Same profile, same virus (Corona). NIAID COVID-19 research efforts build on earlier research on severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which also are caused by coronaviruses\n\nhttps://t.co/PyW5xLcMZ4",
+    "entities": {
+        "urls": [
+            {
+                "start": 312,
+                "end": 335,
+                "url": "https://t.co/PyW5xLcMZ4",
+                "expanded_url": "https://www.niaid.nih.gov/diseases-conditions/covid-19",
+                "display_url": "niaid.nih.gov/diseases-condi\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "sturgeon_sue",
+                "id": "998699175893233664"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "ReneeFiredup",
+                "id": "863853299463630848"
+            },
+            {
+                "start": 60,
+                "end": 72,
+                "username": "RepGalonski",
+                "id": "875722748206751744"
+            },
+            {
+                "start": 73,
+                "end": 89,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 998699175893233664
+}

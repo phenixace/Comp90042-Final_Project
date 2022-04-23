@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-25 07:18:45+00:00",
+    "id": 1232203262062927873,
+    "text": "@sphacelate If a disease only spreads to a thousand people, and it kills 10%, that is only a 100 dead. If a disease spreads to 5 million people, and it kills 3% (current fatality rate), it kills 30,000 people. It is the ease of spreading that makes it more dangerous.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "sphacelate",
+                "id": "14008012"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14008012
+}

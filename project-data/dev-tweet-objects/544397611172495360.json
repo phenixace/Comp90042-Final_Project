@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-12-15 07:44:39+00:00",
+    "id": 544397611172495360,
+    "text": "\u201c@carolinemarcus: A shot that captures the #sydneysiege: sheer terror/relief of escaped hostages http://t.co/dHAfcCkQWR\u201d so distressing",
+    "entities": {
+        "urls": [
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/dHAfcCkQWR",
+                "expanded_url": "https://twitter.com/carolinemarcus/status/544380742076088320/photo/1",
+                "display_url": "pic.twitter.com/dHAfcCkQWR"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "carolinemarcus",
+                "id": "22724717"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 43,
+                "end": 55,
+                "tag": "sydneysiege"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 22724717
+}

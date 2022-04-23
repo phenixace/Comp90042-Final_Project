@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-01-28 00:38:22+00:00",
+    "id": 560235400782807040,
+    "text": "@act4america @Hutch_USA @BreitbartNews WTFK In TEXAS?!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 51,
+                "probability": 0.9886,
+                "type": "Place",
+                "normalized_text": "TEXAS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "Hutch_USA",
+                "id": "115722328"
+            },
+            {
+                "start": 24,
+                "end": 38,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 168541923
+}

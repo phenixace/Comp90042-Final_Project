@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-07-17 19:49:58+00:00",
+    "id": 489859573562748928,
+    "text": "@Independent Now that's disturbing! http://t.co/Y9lKucwBHd",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/Y9lKucwBHd",
+                "expanded_url": "http://rt.com/news/173672-malaysia-plane-crash-putin/",
+                "display_url": "rt.com/news/173672-ma\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16973333
+}

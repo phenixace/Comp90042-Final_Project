@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-06 07:31:35+00:00",
+    "id": 1247064392597995521,
+    "text": "@ruskin147 I think some of the reasons for this has been a dearth of information about 5g. You could provide this.\nWhat is it?\nWhat is the g in 5g?\nWhy do we need it?\nWho is paying for it?\nWhat will be transmitted over it?\nDo you as a technical journalist think it is necessary?\n\nEtc etc",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ruskin147",
+                "id": "1294741"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1294741
+}

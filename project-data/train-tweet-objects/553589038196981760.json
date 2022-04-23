@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-09 16:28:06+00:00",
+    "id": 553589038196981760,
+    "text": "@HuffingtonPost Can you confirm the reports that those suspects were killed by French police?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 14511951
+}

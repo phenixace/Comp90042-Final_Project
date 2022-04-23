@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23 08:51:35+00:00",
+    "id": 1242011094555807744,
+    "text": "@omorin_ola Guy shut up \ud83d\ude02 \nYou are stressed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "omorin_ola",
+                "id": "903331717209100288"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 903331717209100288
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 19:26:01+00:00",
+    "id": 525005170124816384,
+    "text": "@CNN thought and prayers to the family and all of those affected",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

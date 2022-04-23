@@ -1,0 +1,44 @@
+{
+    "created_at": "2015-09-10 18:26:26+00:00",
+    "id": 642041456623026177,
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump good ol colonial sanders...smack him on the head with a drum stick",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 70,
+                "end": 76,
+                "probability": 0.5417,
+                "type": "Person",
+                "normalized_text": "sanders"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

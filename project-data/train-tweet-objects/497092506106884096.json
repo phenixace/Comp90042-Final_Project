@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-06 18:51:03+00:00",
+    "id": 497092506106884096,
+    "text": "@TMZ did he start singing and that worked as bear repellent?  Yoooo bubu!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16331010
+}

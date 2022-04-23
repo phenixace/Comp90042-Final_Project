@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-05 16:49:19+00:00",
+    "id": 496699481895997440,
+    "text": "@JBCrewdotcom justin's phone rand and the ringtone scared the bear away\ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JBCrewdotcom",
+                "id": "1439055242"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 19,
+                "probability": 0.8758,
+                "type": "Person",
+                "normalized_text": "justin"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1239313056
+}

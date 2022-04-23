@@ -1,0 +1,46 @@
+{
+    "created_at": "2014-11-17 11:16:02+00:00",
+    "id": 534303946899472385,
+    "text": "@AndersonNatalie @Independent It can't be down to Sharma &amp; Sharma with the speed of their production lines. #ChocolateSnails",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "AndersonNatalie",
+                "id": "79722019"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 55,
+                "probability": 0.8975,
+                "type": "Person",
+                "normalized_text": "Sharma"
+            },
+            {
+                "start": 59,
+                "end": 64,
+                "probability": 0.8364,
+                "type": "Person",
+                "normalized_text": "Sharma"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 112,
+                "end": 128,
+                "tag": "ChocolateSnails"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 79722019
+}

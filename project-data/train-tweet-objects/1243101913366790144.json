@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-26 09:06:06+00:00",
+    "id": 1243101913366790144,
+    "text": "5. Are hand dryers effective in killing the new coronavirus? https://t.co/JI6a0iIALQ",
+    "entities": {
+        "urls": [
+            {
+                "start": 61,
+                "end": 84,
+                "url": "https://t.co/JI6a0iIALQ",
+                "expanded_url": "https://twitter.com/eteobong_edem/status/1243101913366790144/photo/1",
+                "display_url": "pic.twitter.com/JI6a0iIALQ"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2519585476
+}

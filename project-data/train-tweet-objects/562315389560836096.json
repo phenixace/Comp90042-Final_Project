@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-02-02 18:23:30+00:00",
+    "id": 562315389560836096,
+    "text": "@ABC is that Edelman after the concussion?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "probability": 0.9862,
+                "type": "Person",
+                "normalized_text": "Edelman"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28785486
+}

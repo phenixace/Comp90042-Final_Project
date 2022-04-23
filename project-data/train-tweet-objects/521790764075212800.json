@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-13 22:33:07+00:00",
+    "id": 521790764075212800,
+    "text": "\ud83d\ude02\ud83d\ude02\u201c@lilduval: nigga it was a joke stop using me to push yo agenda @cthagod\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 12,
+                "username": "lilduval",
+                "id": "16638685"
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "username": "cthagod",
+                "id": "17878322"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16638685
+}

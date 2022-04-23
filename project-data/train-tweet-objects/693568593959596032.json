@@ -1,0 +1,17 @@
+{
+    "created_at": "2016-01-30 22:56:53+00:00",
+    "id": 693568593959596032,
+    "text": "@kaynillz us",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "kaynillz",
+                "id": "25593151"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 25593151
+}

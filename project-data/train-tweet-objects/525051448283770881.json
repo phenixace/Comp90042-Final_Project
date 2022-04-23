@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 22:29:54+00:00",
+    "id": 525051448283770881,
+    "text": "@CBCNews My love, thoughts, and prayers to the family and also to our nation as we grieve this tragedy.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 6433472
+}

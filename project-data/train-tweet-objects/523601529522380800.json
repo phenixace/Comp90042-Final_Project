@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-18 22:28:27+00:00",
+    "id": 523601529522380800,
+    "text": "@uncletypewriter GET A SHOVEL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "uncletypewriter",
+                "id": "179952145"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 179952145
+}

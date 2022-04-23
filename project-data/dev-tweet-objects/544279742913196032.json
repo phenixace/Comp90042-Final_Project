@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-12-14 23:56:17+00:00",
+    "id": 544279742913196032,
+    "text": "@isabelledaniel @AFP Don't let OBAMA or Holder talk, they would blame it on the racial make-up of Sydney!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 35,
+                "probability": 0.9632,
+                "type": "Person",
+                "normalized_text": "OBAMA"
+            },
+            {
+                "start": 98,
+                "end": 103,
+                "probability": 0.7755,
+                "type": "Place",
+                "normalized_text": "Sydney"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "isabelledaniel",
+                "id": "89947367"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 89947367
+}

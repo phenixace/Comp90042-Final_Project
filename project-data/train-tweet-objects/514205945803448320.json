@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23 00:13:45+00:00",
+    "id": 514205945803448320,
+    "text": "@cnnbrk Whew; that's simply wonderful!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 428333
+}

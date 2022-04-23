@@ -1,0 +1,44 @@
+{
+    "created_at": "2020-03-19 04:34:07+00:00",
+    "id": 1240496751208873984,
+    "text": "Be ready to fight #COVID19:\n\n\u2705Be supportive\n\u2705Be careful\n\u2705Be alert\n\u2705Be kind\n\n#coronavirus https://t.co/BsO7IWjG0j",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 26,
+                "tag": "COVID19"
+            },
+            {
+                "start": 76,
+                "end": 88,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/BsO7IWjG0j",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1240496751208873984/photo/1",
+                "display_url": "pic.twitter.com/BsO7IWjG0j"
+            },
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/BsO7IWjG0j",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1240496751208873984/photo/1",
+                "display_url": "pic.twitter.com/BsO7IWjG0j"
+            },
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/BsO7IWjG0j",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1240496751208873984/photo/1",
+                "display_url": "pic.twitter.com/BsO7IWjG0j"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1545915336
+}

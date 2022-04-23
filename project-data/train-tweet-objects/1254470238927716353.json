@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 17:59:46+00:00",
+    "id": 1254470238927716353,
+    "text": "Q7. @PublicHealthRx Is there a treatment for COVID-19? #JCIAUKickoutCovid19 https://t.co/VHVgrpAf3m",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "urls": [
+            {
+                "start": 76,
+                "end": 99,
+                "url": "https://t.co/VHVgrpAf3m",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254470238927716353/photo/1",
+                "display_url": "pic.twitter.com/VHVgrpAf3m"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 75,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

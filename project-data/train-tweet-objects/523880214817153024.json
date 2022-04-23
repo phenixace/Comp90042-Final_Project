@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-10-19 16:55:51+00:00",
+    "id": 523880214817153024,
+    "text": "@sacca @johnwoodRTR @pourmecoffee Put a leash on that \"puppy\" for Halloween. Added bonus no one will steal your candy!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 74,
+                "probability": 0.9149,
+                "type": "Other",
+                "normalized_text": "Halloween"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "sacca",
+                "id": "586"
+            },
+            {
+                "start": 7,
+                "end": 19,
+                "username": "johnwoodRTR",
+                "id": "75713796"
+            },
+            {
+                "start": 20,
+                "end": 33,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 586
+}

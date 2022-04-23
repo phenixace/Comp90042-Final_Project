@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26 14:23:29+00:00",
+    "id": 1254415809029570570,
+    "text": "@Ilhan We need a decent minimum wage, but that\u2019s communism what you\u2019re saying here. Please no.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Ilhan",
+                "id": "1082334352711790593"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1082334352711790593
+}

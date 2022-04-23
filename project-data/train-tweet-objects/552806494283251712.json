@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-07 12:38:33+00:00",
+    "id": 552806494283251712,
+    "text": "@cnnbrk insulting others people faith cannot be called freedom of speech. Chief editor is one to blame. I Do not justify monsters-jail them",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 428333
+}

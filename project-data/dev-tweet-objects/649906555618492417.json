@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 11:19:32+00:00",
+    "id": 649906555618492417,
+    "text": "@CNN the things we make news worthy just baffle ones mind, find a solution to Oregon like issues",
+    "entities": {
+        "annotations": [
+            {
+                "start": 78,
+                "end": 83,
+                "probability": 0.9239,
+                "type": "Place",
+                "normalized_text": "Oregon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

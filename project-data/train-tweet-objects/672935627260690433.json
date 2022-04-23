@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-05 00:28:50+00:00",
+    "id": 672935627260690433,
+    "text": "@peddoc63 @SassyPantsjj Farook's mother was in and out of the home and must have noticed the IED factory. Why is SHE not under arrest?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "SassyPantsjj",
+                "id": "72717549"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1379288282
+}

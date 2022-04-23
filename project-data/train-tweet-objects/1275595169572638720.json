@@ -1,0 +1,8 @@
+{
+    "created_at": "2020-06-24 01:02:42+00:00",
+    "id": 1275595169572638720,
+    "text": "In idealized population, early vaccination to HIT will prevent outbreak b/c Rt=R0*S/N so Rt&lt;1. However, an epidemic will overshoot HIT &amp; infect larger fraction f of pop where f=1-exp(-(f*R0)). \nFor R0=2.5 (reasonable for COVID19 in some pops), HIT=0.6, and f = 0.89.",
+    "entities": null,
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-09 14:57:33+00:00",
+    "id": 542332224725864448,
+    "text": "@CronkiteSays Hahahahaha too stewwpiddd to know his own place....Im gonna be lol -ing about this all day...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CronkiteSays",
+                "id": "2546562188"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 2546562188
+}

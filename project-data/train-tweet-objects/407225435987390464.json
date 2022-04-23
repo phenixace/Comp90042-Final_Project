@@ -1,0 +1,49 @@
+{
+    "created_at": "2013-12-01 19:11:24+00:00",
+    "id": 407225435987390464,
+    "text": "\u201c@THR: Paul Walker's Death: 'Fast &amp;  7' Delayed But Won't Be Scrapped http://t.co/kYt8j56LtD\u201d Paul Walker wasn't alone. #RipRogerRodas",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "THR",
+                "id": "17446621"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/kYt8j56LtD",
+                "expanded_url": "http://j.mp/1hrhZtA",
+                "display_url": "j.mp/1hrhZtA"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 124,
+                "end": 138,
+                "tag": "RipRogerRodas"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 7,
+                "end": 17,
+                "probability": 0.9891,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            },
+            {
+                "start": 94,
+                "end": 104,
+                "probability": 0.9936,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17446621
+}

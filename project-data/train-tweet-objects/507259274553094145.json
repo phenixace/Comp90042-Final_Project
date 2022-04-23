@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-09-03 20:10:10+00:00",
+    "id": 507259274553094145,
+    "text": "Gr8 spot: 15 minutes east of Reno/45 min from Lake Tahoe MT @CNBC: BREAKING: #Tesla chooses Nevada for gigafactory http://t.co/7pI0zrinRY",
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/7pI0zrinRY",
+                "expanded_url": "http://cnb.cx/1uAZg1X",
+                "display_url": "cnb.cx/1uAZg1X"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 60,
+                "end": 65,
+                "username": "CNBC",
+                "id": "20402945"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 32,
+                "probability": 0.8448,
+                "type": "Place",
+                "normalized_text": "Reno"
+            },
+            {
+                "start": 46,
+                "end": 55,
+                "probability": 0.9639,
+                "type": "Place",
+                "normalized_text": "Lake Tahoe"
+            },
+            {
+                "start": 92,
+                "end": 97,
+                "probability": 0.9598,
+                "type": "Place",
+                "normalized_text": "Nevada"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 83,
+                "tag": "Tesla"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20402945
+}

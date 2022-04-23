@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-18 03:20:45+00:00",
+    "id": 1273455585095307265,
+    "text": "@WhatMattersOKRs 4. Can you complete the objective without completing the key results?\n\n5. Will these key results react quickly enough to show if we're making progress?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "WhatMattersOKRs",
+                "id": "962079885148614657"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 962079885148614657
+}

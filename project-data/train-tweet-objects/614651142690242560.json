@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27 04:27:06+00:00",
+    "id": 614651142690242560,
+    "text": "@NickKristof Same-sex marriage is NOT a constitutional right! Repeal the law!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 17004618
+}

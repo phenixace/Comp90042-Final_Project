@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-03-07 07:35:11+00:00",
+    "id": 1236193663363035136,
+    "text": "at least 67 countries and more than 3,000 have died. The spread has slowed in China, but is picking up speed in Europe and the United States.\nWhat symptoms should I look out for?\nSymptoms, which can take between two to 14 days to appear, include fever, cough",
+    "entities": {
+        "annotations": [
+            {
+                "start": 78,
+                "end": 82,
+                "probability": 0.9975,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 112,
+                "end": 117,
+                "probability": 0.9992,
+                "type": "Place",
+                "normalized_text": "Europe"
+            },
+            {
+                "start": 127,
+                "end": 139,
+                "probability": 0.8351,
+                "type": "Place",
+                "normalized_text": "United States"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1118995573875585024
+}

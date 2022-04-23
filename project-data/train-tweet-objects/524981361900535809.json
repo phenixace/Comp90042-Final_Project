@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 17:51:25+00:00",
+    "id": 524981361900535809,
+    "text": "@CNN Rip",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 759251
+}

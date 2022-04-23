@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-07 06:10:38+00:00",
+    "id": 1269512067809189890,
+    "text": "@Prof_Marciniak Now, I understand that the dose of HCQ used in the recovery trial was based on the IC50 in vitro.  \n\nBut what about the toxicity and safety?  \n \nHere is another PK modeling paper of HCQ and my thoughts on it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Prof_Marciniak",
+                "id": "931571402"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 931571402
+}

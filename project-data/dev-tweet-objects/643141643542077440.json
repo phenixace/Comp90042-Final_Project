@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-09-13 19:18:11+00:00",
+    "id": 643141643542077440,
+    "text": "@BorucJan wierz\u0119 w rozs\u0105dek Polak\u00f3w i \"kiboli\" ....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BorucJan",
+                "id": "1165253690"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1165253690
+}

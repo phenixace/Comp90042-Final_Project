@@ -1,0 +1,51 @@
+{
+    "created_at": "2020-02-01 17:47:01+00:00",
+    "id": 1223664059675004928,
+    "text": "@threadascii Hello Thread, the whole thread from @WHO is compiled now. Read it here: https://t.co/GB7BQoAXaA #coronavirus #2019nCoV #KnowTheFacts",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 109,
+                "end": 121,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 122,
+                "end": 131,
+                "tag": "2019nCoV"
+            },
+            {
+                "start": 132,
+                "end": 145,
+                "tag": "KnowTheFacts"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "threadascii",
+                "id": "1032870836"
+            },
+            {
+                "start": 49,
+                "end": 53,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/GB7BQoAXaA",
+                "expanded_url": "https://threader.app/thread/1221800661039419398",
+                "display_url": "threader.app/thread/1221800\u2026",
+                "status": 200,
+                "unwound_url": "https://threader.app/thread/1221800661039419398"
+            }
+        ]
+    },
+    "source": "Threader_client",
+    "in_reply_to_user_id": 1032870836
+}

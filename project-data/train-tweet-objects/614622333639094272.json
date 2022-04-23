@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 02:32:38+00:00",
+    "id": 614622333639094272,
+    "text": "@NickKristof @nytimes against  nature",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 17004618
+}

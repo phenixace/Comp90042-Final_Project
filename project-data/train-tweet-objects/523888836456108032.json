@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-10-19 17:30:06+00:00",
+    "id": 523888836456108032,
+    "text": "Scientist discover a puppy-sized spider in the rainforest, better known as the 'nope' spider http://t.co/CsBzESFKGD http://t.co/eh1i4Qy2ff",
+    "entities": {
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/CsBzESFKGD",
+                "expanded_url": "http://bit.ly/1upq3N8",
+                "display_url": "bit.ly/1upq3N8"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/eh1i4Qy2ff",
+                "expanded_url": "https://twitter.com/KHOU/status/523888836456108032/photo/1",
+                "display_url": "pic.twitter.com/eh1i4Qy2ff"
+            }
+        ]
+    },
+    "source": "SocialNewsDesk",
+    "in_reply_to_user_id": null
+}

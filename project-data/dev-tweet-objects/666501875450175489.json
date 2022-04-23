@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-17 06:23:24+00:00",
+    "id": 666501875450175489,
+    "text": "@Alex__Carp @USATODAY is it supposed to be funny? Cause it's not.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Alex__Carp",
+                "id": "247063474"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "USATODAY",
+                "id": "15754281"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 247063474
+}

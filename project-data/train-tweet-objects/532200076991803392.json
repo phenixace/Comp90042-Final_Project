@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-11-11 15:56:00+00:00",
+    "id": 532200076991803392,
+    "text": "Hahaha \"@ThePoke: Vladimir Putin\u2019s Motorcade As Seen From The Air.\n\nhttp://t.co/xIGLpkpBl1 http://t.co/zsmXC6U9Ch\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 8,
+                "end": 16,
+                "username": "ThePoke",
+                "id": "143145579"
+            }
+        ],
+        "urls": [
+            {
+                "start": 68,
+                "end": 90,
+                "url": "http://t.co/xIGLpkpBl1",
+                "expanded_url": "http://www.thepoke.co.uk/2014/11/11/vladimir-putins-motorcade-as-seen-from-the-air/",
+                "display_url": "thepoke.co.uk/2014/11/11/vla\u2026"
+            },
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/zsmXC6U9Ch",
+                "expanded_url": "https://twitter.com/ThePoke/status/532106726539939841/photo/1",
+                "display_url": "pic.twitter.com/zsmXC6U9Ch"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 31,
+                "probability": 0.9957,
+                "type": "Person",
+                "normalized_text": "Vladimir Putin"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 143145579
+}

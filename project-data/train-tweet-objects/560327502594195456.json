@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-28 06:44:21+00:00",
+    "id": 560327502594195456,
+    "text": "@act4america @jjauthor @BreitbartNews let them spread their tentacles at your own risk.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "jjauthor",
+                "id": "177584156"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 168541923
+}

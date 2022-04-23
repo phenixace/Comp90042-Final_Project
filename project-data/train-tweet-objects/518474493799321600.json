@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-04 18:55:26+00:00",
+    "id": 518474493799321600,
+    "text": "@Jarjarbug @jtestg33k Racist Bigots are always liars, new converts can't be devout, you also forgot mentally ill,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Jarjarbug",
+                "id": "43182702"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 43182702
+}

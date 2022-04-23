@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 16:47:20+00:00",
+    "id": 674269036255948802,
+    "text": "@RollingStone @SteveBertrand 60% of those numbers are suicides...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "SteveBertrand",
+                "id": "19946150"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

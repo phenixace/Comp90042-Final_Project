@@ -1,0 +1,46 @@
+{
+    "created_at": "2014-08-27 11:47:37+00:00",
+    "id": 504596091049111554,
+    "text": "@SportsBizNews @SensChirp Toronto \"region\" is approved by leafs and sabres.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 32,
+                "probability": 0.8711,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "probability": 0.7747,
+                "type": "Organization",
+                "normalized_text": "leafs"
+            },
+            {
+                "start": 68,
+                "end": 73,
+                "probability": 0.5773,
+                "type": "Organization",
+                "normalized_text": "sabres"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "SensChirp",
+                "id": "46479891"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29849267
+}

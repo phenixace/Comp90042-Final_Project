@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23 14:01:54+00:00",
+    "id": 1242089189652475905,
+    "text": "@P_W_Kuczynski Moim skromnym zdaniem WHO et al. Poza argumentem ekonomicznym na ww. stronie, dochodzi jeszcze fa\u0142szywe poczucie bezpiecze\u0144stwa. Takiej maski nie wolno nosi\u0107 zbyt d\u0142ugo, trzeba j\u0105 umie\u0107 zdj\u0105\u0107, \u017ceby si\u0119 nie \u201epobrudzi\u0107\u201d, a na koniec wyrzuci\u0107. Kto w domu ma kosz na odpady medyczne?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "P_W_Kuczynski",
+                "id": "1216649013560336385"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1216649013560336385
+}

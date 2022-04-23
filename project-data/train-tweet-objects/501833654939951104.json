@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-19 20:50:41+00:00",
+    "id": 501833654939951104,
+    "text": "@zaidbenjamin @Daphniful *threatening* to kill AFAIK.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "Daphniful",
+                "id": "1477358714"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 48956231
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 00:04:18+00:00",
+    "id": 523625651669315584,
+    "text": "@Radlein almost spit my coffee",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Radlein",
+                "id": "15982094"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15982094
+}

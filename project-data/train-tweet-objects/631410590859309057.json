@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-12 10:23:10+00:00",
+    "id": 631410590859309057,
+    "text": "@RealStrongfacts @RyanSeacrest__p this ain't true\ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "RealStrongfacts",
+                "id": "2837996969"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "RyanSeacrest__p",
+                "id": "3001950808"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2837996969
+}

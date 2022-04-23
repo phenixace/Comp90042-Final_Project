@@ -1,0 +1,27 @@
+{
+    "created_at": "2015-08-12 08:55:36+00:00",
+    "id": 631388553801564160,
+    "text": "Did A Real Life 'Fallen Angel' Just Fall From The Sky In London? http://t.co/s1DxltMgqg",
+    "entities": {
+        "urls": [
+            {
+                "start": 65,
+                "end": 87,
+                "url": "http://t.co/s1DxltMgqg",
+                "expanded_url": "http://strongfactstweets.com/4836370-12334478",
+                "display_url": "strongfactstweets.com/4836370-123344\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 62,
+                "probability": 0.9776,
+                "type": "Place",
+                "normalized_text": "London"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

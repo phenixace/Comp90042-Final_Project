@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-12 17:56:35+00:00",
+    "id": 543464447055257600,
+    "text": "@nytimes @BimBonnelly",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "BimBonnelly",
+                "id": "1353517716"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 807095
+}

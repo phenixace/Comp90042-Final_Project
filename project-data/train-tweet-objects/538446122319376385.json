@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-28 21:35:34+00:00",
+    "id": 538446122319376385,
+    "text": "@THESOURCE why would you be outside in a hostile environment priorities f***** up",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheSource",
+                "id": "16630362"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16630362
+}

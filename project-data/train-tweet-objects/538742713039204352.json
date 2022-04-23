@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-29 17:14:06+00:00",
+    "id": 538742713039204352,
+    "text": "@y_dohak that's why everyone tries to come to America?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "y_dohak",
+                "id": "2697204776"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 52,
+                "probability": 0.9952,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 2697204776
+}

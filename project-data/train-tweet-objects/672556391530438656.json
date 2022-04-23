@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-12-03 23:21:53+00:00",
+    "id": 672556391530438656,
+    "text": "@Coloradogun So it must be Obama's fault. Genius deduction Columbo.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Coloradogun",
+                "id": "24486612"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 31,
+                "probability": 0.9956,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 24486612
+}

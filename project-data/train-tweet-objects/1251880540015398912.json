@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 14:29:14+00:00",
+    "id": 1251880540015398912,
+    "text": "@DrZweliMkhize Atleast you are able to monitor. Mine are in rural areas in Limpopo. They left their books behind and are seriously impacted now. For them it's a long holiday. I wish I could be given permission to travel and help them login to their portals. My mother is old.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 81,
+                "probability": 0.9849,
+                "type": "Place",
+                "normalized_text": "Limpopo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 844486678324658176
+}

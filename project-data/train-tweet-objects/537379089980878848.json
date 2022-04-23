@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-25 22:55:33+00:00",
+    "id": 537379089980878848,
+    "text": "@deray He will continue on his media tour as long as it remains profitable. He's no good for anything else, never was.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29417304
+}

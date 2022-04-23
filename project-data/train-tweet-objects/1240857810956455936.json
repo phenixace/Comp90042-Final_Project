@@ -1,0 +1,37 @@
+{
+    "created_at": "2020-03-20 04:28:50+00:00",
+    "id": 1240857810956455936,
+    "text": "How should I greet another person to avoid catching the new #coronavirus?\n\nTo prevent #COVID19 it is safest to avoid physical greetings include a wave, a nod, or a bow.\n\n\u27a1\ufe0fhttps://t.co/kj30PPK8la https://t.co/fF99wpwhNg",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 60,
+                "end": 72,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 86,
+                "end": 94,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 172,
+                "end": 195,
+                "url": "https://t.co/kj30PPK8la",
+                "expanded_url": "http://bit.ly/2UdoSYV",
+                "display_url": "bit.ly/2UdoSYV"
+            },
+            {
+                "start": 196,
+                "end": 219,
+                "url": "https://t.co/fF99wpwhNg",
+                "expanded_url": "https://twitter.com/WHOWPRO/status/1240857810956455936/photo/1",
+                "display_url": "pic.twitter.com/fF99wpwhNg"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 3794682452
+}

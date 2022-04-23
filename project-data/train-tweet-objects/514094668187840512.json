@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-22 16:51:34+00:00",
+    "id": 514094668187840512,
+    "text": "@Lalo3000 @ComplexMag Yuck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Lalo3000",
+                "id": "20885105"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 20885105
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-07-14 03:43:41+00:00",
+    "id": 1282883440875118592,
+    "text": "@cjorgaz @WHO Es necesario informarse para dar una opini\u00f3n p\u00fablica o hay otra intenci\u00f3n sobre el uso del CDS como medicina alternativa",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "cjorgaz",
+                "id": "1089085616"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1089085616
+}

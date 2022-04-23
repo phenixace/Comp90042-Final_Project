@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 03:04:04+00:00",
+    "id": 614630245262598144,
+    "text": "@NickKristof @nytimes what a bunch of bull shit! Terrible shame on this decision",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17004618
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 18:59:46+00:00",
+    "id": 1244338479263289348,
+    "text": "@iefamharris Ask Sinzu \ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "iefamharris",
+                "id": "282383532"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 282383532
+}

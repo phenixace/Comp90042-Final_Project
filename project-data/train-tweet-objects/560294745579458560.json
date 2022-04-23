@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-28 04:34:11+00:00",
+    "id": 560294745579458560,
+    "text": "@mskimrose @act4america @BreitbartNews the word islam means submit,they r trying to get us to submit to their ways,their god,and their laws.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 23,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 24,
+                "end": 38,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 126665405
+}

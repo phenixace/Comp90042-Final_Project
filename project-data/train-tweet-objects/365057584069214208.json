@@ -1,0 +1,33 @@
+{
+    "created_at": "2013-08-07 10:31:25+00:00",
+    "id": 365057584069214208,
+    "text": "Sushi anyone? RT \"@RT_com: #Fukushima leaking radioactive water for \u20182 years\u2019, 300 tons flowing into Pacific daily http://t.co/8JnwUo3TiE\"",
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/8JnwUo3TiE",
+                "expanded_url": "http://on.rt.com/ubpmdj",
+                "display_url": "on.rt.com/ubpmdj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 18,
+                "end": 25,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 27,
+                "end": 37,
+                "tag": "Fukushima"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 64643056
+}

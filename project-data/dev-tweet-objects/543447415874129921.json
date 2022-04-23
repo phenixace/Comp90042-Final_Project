@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-12-12 16:48:55+00:00",
+    "id": 543447415874129921,
+    "text": "MT @nytimes \"One day, we will see our animals again in the eternity of Christ,\" --Pope Francis http://t.co/PWnFSGAB1f http://t.co/QJEQ74eHO9",
+    "entities": {
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/PWnFSGAB1f",
+                "expanded_url": "http://nyti.ms/1qErSu7",
+                "display_url": "nyti.ms/1qErSu7"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/QJEQ74eHO9",
+                "expanded_url": "https://twitter.com/wandrngscholar/status/543447415874129921/photo/1",
+                "display_url": "pic.twitter.com/QJEQ74eHO9"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 71,
+                "end": 76,
+                "probability": 0.4647,
+                "type": "Person",
+                "normalized_text": "Christ"
+            },
+            {
+                "start": 82,
+                "end": 93,
+                "probability": 0.9754,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 11,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 807095
+}

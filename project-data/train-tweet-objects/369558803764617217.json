@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-08-19 20:37:39+00:00",
+    "id": 369558803764617217,
+    "text": "@MikkoAlanne @GreatDismal If that water was 100% radioactive (it's not) it's only 0.0000000000163600288600289% of the ocean Unmeasurable.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MikkoAlanne",
+                "id": "437874669"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "GreatDismal",
+                "id": "28049003"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 437874669
+}

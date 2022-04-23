@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-02-20 04:15:12+00:00",
+    "id": 568624890103738370,
+    "text": "@lawblob @MaxCUA cool- can we help you pack?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "lawblob",
+                "id": "41875694"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "username": "MaxCUA",
+                "id": "34701889"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 41875694
+}

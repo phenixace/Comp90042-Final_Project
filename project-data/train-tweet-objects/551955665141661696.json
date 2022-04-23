@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-05 04:17:40+00:00",
+    "id": 551955665141661696,
+    "text": "@KarenCivil ..........",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KarenCivil",
+                "id": "16490974"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16490974
+}

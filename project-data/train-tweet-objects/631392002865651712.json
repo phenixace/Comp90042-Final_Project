@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-12 09:09:18+00:00",
+    "id": 631392002865651712,
+    "text": "@RealStrongfacts oh yeah fallen angel with a wings of a chicken?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "RealStrongfacts",
+                "id": "2837996969"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2837996969
+}

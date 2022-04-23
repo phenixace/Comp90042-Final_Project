@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-22 23:56:42+00:00",
+    "id": 514201653671903232,
+    "text": "@cnnbrk thank god",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 428333
+}

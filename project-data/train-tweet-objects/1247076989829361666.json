@@ -1,0 +1,48 @@
+{
+    "created_at": "2020-04-06 08:21:38+00:00",
+    "id": 1247076989829361666,
+    "text": "@monteblan @ruskin147 Have you Googled it? It is IMT-2020, the specs are available online, including the formulas for peak data rate and spectral efficiency and reference standard.\nAnd that was in 5 sec of search from Google.\nEven the Wikipedia article on 5G is great!\nhttps://t.co/2QmyA89NyG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "monteblan",
+                "id": "83820512"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "ruskin147",
+                "id": "1294741"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 218,
+                "end": 223,
+                "probability": 0.4935,
+                "type": "Organization",
+                "normalized_text": "Google"
+            },
+            {
+                "start": 235,
+                "end": 243,
+                "probability": 0.4358,
+                "type": "Organization",
+                "normalized_text": "Wikipedia"
+            }
+        ],
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/2QmyA89NyG",
+                "expanded_url": "https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2410-2017-PDF-E.pdf",
+                "display_url": "itu.int/dms_pub/itu-r/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 83820512
+}

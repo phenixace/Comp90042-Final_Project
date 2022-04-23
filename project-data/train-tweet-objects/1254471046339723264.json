@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-04-26 18:02:59+00:00",
+    "id": 1254471046339723264,
+    "text": "One of the best features from New Leaf that's been missing so far in Animal Crossing: New Horizons could on the way soon, according to more datamined information! \ud83c\udf89 #ACNH  https://t.co/bMaxfE0n7A",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 165,
+                "end": 170,
+                "tag": "ACNH"
+            }
+        ],
+        "urls": [
+            {
+                "start": 172,
+                "end": 195,
+                "url": "https://t.co/bMaxfE0n7A",
+                "expanded_url": "https://buff.ly/2y3Guh0",
+                "display_url": "buff.ly/2y3Guh0",
+                "status": 200,
+                "unwound_url": "https://animalcrossingworld.com/2020/04/rumor-dream-suite-could-be-coming-to-animal-crossing-new-horizons-datamine-says/"
+            }
+        ]
+    },
+    "source": "Buffer",
+    "in_reply_to_user_id": null
+}

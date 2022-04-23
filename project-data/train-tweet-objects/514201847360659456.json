@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-22 23:57:28+00:00",
+    "id": 514201847360659456,
+    "text": "@cnnbrk Defecting for a better life ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 428333
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-11-26 00:43:44+00:00",
+    "id": 537406314830237696,
+    "text": "#WhoWantsToBeAMillionair @deray @Cleosbaby64 Just #Murder a Black Person.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 24,
+                "tag": "WhoWantsToBeAMillionair"
+            },
+            {
+                "start": 50,
+                "end": 57,
+                "tag": "Murder"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 25,
+                "end": 31,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 32,
+                "end": 44,
+                "username": "Cleosbaby64",
+                "id": "2741312378"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29417304
+}

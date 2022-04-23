@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-10 16:56:29+00:00",
+    "id": 664124480801906688,
+    "text": "@BuzzFeed https://t.co/hivWcYIcYe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 10,
+                "end": 33,
+                "url": "https://t.co/hivWcYIcYe",
+                "expanded_url": "http://thesavvypundit.com/2015/11/10/christians-should-be-the-first-to-take-back-merry-christmas/",
+                "display_url": "thesavvypundit.com/2015/11/10/chr\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 5695632
+}

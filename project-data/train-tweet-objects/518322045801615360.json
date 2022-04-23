@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-04 08:49:40+00:00",
+    "id": 518322045801615360,
+    "text": "@riwired @Wooflepup @DavidJo52951945 Customers should ask and refuse Halal . Kill them economically .",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "riwired",
+                "id": "30122242"
+            },
+            {
+                "start": 20,
+                "end": 36,
+                "username": "DavidJo52951945",
+                "id": "893966122109853696"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 30122242
+}

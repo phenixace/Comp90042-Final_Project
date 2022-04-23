@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 20:25:38+00:00",
+    "id": 523933010044125184,
+    "text": "@CydNastyy that shit is not real lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CydNastyy",
+                "id": "838579602"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 838579602
+}

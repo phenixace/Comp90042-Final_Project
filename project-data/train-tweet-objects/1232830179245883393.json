@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-02-27 00:49:54+00:00",
+    "id": 1232830179245883393,
+    "text": "@1776Stonewall Coronavirus: How does Covid-19 spread? These new studies offer clues. - Vox\nhttps://t.co/VrQjEhIZMF",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "1776Stonewall",
+                "id": "800086706678419456"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 114,
+                "url": "https://t.co/VrQjEhIZMF",
+                "expanded_url": "https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how",
+                "display_url": "vox.com/2020/2/20/2114\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 800086706678419456
+}

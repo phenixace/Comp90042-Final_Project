@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-08 18:44:03+00:00",
+    "id": 1236724378965966848,
+    "text": "What is COVID-19?  The CDC and WHO are actively monitoring the outbreak of a new coronavirus strain called COVID-19, which causes respiratory illness. The virus, which has infected thousands of people worldwide and caused deaths, originated in Wuhan City, China. Additional cases",
+    "entities": {
+        "annotations": [
+            {
+                "start": 244,
+                "end": 253,
+                "probability": 0.926,
+                "type": "Place",
+                "normalized_text": "Wuhan City"
+            },
+            {
+                "start": 256,
+                "end": 260,
+                "probability": 0.6757,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

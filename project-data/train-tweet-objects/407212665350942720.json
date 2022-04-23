@@ -1,0 +1,34 @@
+{
+    "created_at": "2013-12-01 18:20:39+00:00",
+    "id": 407212665350942720,
+    "text": "'Fast and Furious' Cast Mourns Paul Walker's Death http://t.co/vAN2PaMYje",
+    "entities": {
+        "urls": [
+            {
+                "start": 51,
+                "end": 73,
+                "url": "http://t.co/vAN2PaMYje",
+                "expanded_url": "http://on.mash.to/1hreljf",
+                "display_url": "on.mash.to/1hreljf"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 1,
+                "end": 16,
+                "probability": 0.8873,
+                "type": "Other",
+                "normalized_text": "Fast and Furious"
+            },
+            {
+                "start": 31,
+                "end": 41,
+                "probability": 0.9863,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

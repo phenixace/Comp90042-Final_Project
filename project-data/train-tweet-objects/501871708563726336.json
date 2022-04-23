@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-19 23:21:54+00:00",
+    "id": 501871708563726336,
+    "text": "@zaidbenjamin my wish is that every member of ISiS rots in the hottest corner of hell!! Dirty rotten, vile pieces of dirt!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 49,
+                "probability": 0.3676,
+                "type": "Person",
+                "normalized_text": "ISiS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 48956231
+}

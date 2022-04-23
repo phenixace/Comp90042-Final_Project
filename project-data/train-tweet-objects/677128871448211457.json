@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-16 14:11:18+00:00",
+    "id": 677128871448211457,
+    "text": "@ABC Why did he leave his name on it?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 28785486
+}

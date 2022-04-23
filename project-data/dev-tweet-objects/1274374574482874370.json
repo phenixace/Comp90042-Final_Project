@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-20 16:12:29+00:00",
+    "id": 1274374574482874370,
+    "text": "@shoesnark @Carolkry @sjmmz34 @Cynthia0259 @catturd2 @Acosta So there\u2019s nothing on the WHO site advising healthy people to not wear masks in public, except that masks shouldn\u2019t be worn while exercising and social distancing should be observed. However, there are videos demonstrating &amp; diagrams on how to wear masks or face covering safely",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "Carolkry",
+                "id": "2531462340"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "username": "sjmmz34",
+                "id": "27190617"
+            },
+            {
+                "start": 43,
+                "end": 52,
+                "username": "catturd2",
+                "id": "1043185714437992449"
+            },
+            {
+                "start": 53,
+                "end": 60,
+                "username": "Acosta",
+                "id": "22771961"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1236127652936810498
+}

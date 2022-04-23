@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-09-10 18:59:00+00:00",
+    "id": 642049652255100928,
+    "text": "@CNNPolitics @BernieSanders @realDonaldTrump I hate this. His remarks were not racist, and saying they are is racist.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 28,
+                "end": 44,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13850422
+}

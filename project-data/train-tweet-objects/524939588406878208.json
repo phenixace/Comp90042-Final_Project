@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 15:05:25+00:00",
+    "id": 524939588406878208,
+    "text": "@alcanlin @kellyoxford great response bro.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "alcanlin",
+                "id": "37632713"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "kellyoxford",
+                "id": "22872643"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 37632713
+}

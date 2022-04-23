@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 05:29:27+00:00",
+    "id": 531680012676907010,
+    "text": "@Boogie2988 your on pills to help with your weight boogie. This is funny but man..Is it worth it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

@@ -1,0 +1,36 @@
+{
+    "created_at": "2013-08-07 13:03:00+00:00",
+    "id": 365095734594387969,
+    "text": "@RT_com @JezLight @JoshRadnor Sushi spunds so good right now! Oh wait... #Masa",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 73,
+                "end": 78,
+                "tag": "Masa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "username": "JezLight",
+                "id": "17151810"
+            },
+            {
+                "start": 18,
+                "end": 29,
+                "username": "JoshRadnor",
+                "id": "460693003"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 64643056
+}

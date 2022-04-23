@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-15 06:54:48+00:00",
+    "id": 544385064100843520,
+    "text": "@carolinemarcus @JewelNature @nswpolice So relieved some have escaped/been released.  The experience will haunt them though. Brave police.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "carolinemarcus",
+                "id": "22724717"
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "username": "nswpolice",
+                "id": "23041630"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 22724717
+}

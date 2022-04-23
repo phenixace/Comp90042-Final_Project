@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-07-14 15:11:34+00:00",
+    "id": 620973920951255040,
+    "text": "@theliluminati -,-",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ThelIluminati",
+                "id": "143257853"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 143257853
+}

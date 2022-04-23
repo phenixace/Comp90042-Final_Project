@@ -1,0 +1,48 @@
+{
+    "created_at": "2015-02-01 03:33:42+00:00",
+    "id": 561729076675616769,
+    "text": "Take action @GregAbbott_TX #tcot rt \u201c@act4america: Islamic Tribunal using Sharia law in Texas has been confirmed http://t.co/oLgPhPgrTg",
+    "entities": {
+        "annotations": [
+            {
+                "start": 88,
+                "end": 92,
+                "probability": 0.9984,
+                "type": "Place",
+                "normalized_text": "Texas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 12,
+                "end": 26,
+                "username": "GregAbbott_TX",
+                "id": "90651198"
+            },
+            {
+                "start": 37,
+                "end": 49,
+                "username": "act4america",
+                "id": "3162043071"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 27,
+                "end": 32,
+                "tag": "tcot"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/oLgPhPgrTg",
+                "expanded_url": "http://bit.ly/1wzxEcP",
+                "display_url": "bit.ly/1wzxEcP"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 168541923
+}

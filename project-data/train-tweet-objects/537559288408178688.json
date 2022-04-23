@@ -1,0 +1,50 @@
+{
+    "created_at": "2014-11-26 10:51:36+00:00",
+    "id": 537559288408178688,
+    "text": "@deray @BlackCognizance #BoycottBlackFriday  #NoShoppingOnBlackFriday #Shop4NeedsNot4Wants #VoteWithYourBankNotes \n#BoycottHate",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 23,
+                "username": "BlackCognizance",
+                "id": "406659683"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 24,
+                "end": 43,
+                "tag": "BoycottBlackFriday"
+            },
+            {
+                "start": 45,
+                "end": 69,
+                "tag": "NoShoppingOnBlackFriday"
+            },
+            {
+                "start": 70,
+                "end": 90,
+                "tag": "Shop4NeedsNot4Wants"
+            },
+            {
+                "start": 91,
+                "end": 113,
+                "tag": "VoteWithYourBankNotes"
+            },
+            {
+                "start": 115,
+                "end": 127,
+                "tag": "BoycottHate"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 29417304
+}

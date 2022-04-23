@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-04 18:53:05+00:00",
+    "id": 1246511121885990913,
+    "text": "@robinbull1 Just like 'flu",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "robinbull1",
+                "id": "141649656"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 141649656
+}

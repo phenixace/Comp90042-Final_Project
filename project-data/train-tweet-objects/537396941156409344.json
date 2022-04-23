@@ -1,0 +1,51 @@
+{
+    "created_at": "2014-11-26 00:06:29+00:00",
+    "id": 537396941156409344,
+    "text": "@deray @MaggieJordanACN @ThumbsUp4 @ABC it's a parody account of a character from the HBO show, The Newsroom",
+    "entities": {
+        "annotations": [
+            {
+                "start": 86,
+                "end": 88,
+                "probability": 0.8199,
+                "type": "Organization",
+                "normalized_text": "HBO"
+            },
+            {
+                "start": 96,
+                "end": 107,
+                "probability": 0.6978,
+                "type": "Organization",
+                "normalized_text": "The Newsroom"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 23,
+                "username": "MaggieJordanACN",
+                "id": "617854798"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "username": "ThumbsUp4",
+                "id": "410981582"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 29417304
+}

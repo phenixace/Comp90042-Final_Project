@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 09:52:54+00:00",
+    "id": 1251810998450827271,
+    "text": "@DrZweliMkhize Can we follow the rules on quarantine and social distancing published by St Georges Unviversitu of London? They seem to be much safer than what we are doing now. They recommend a 2m distance and also they steps and guidelines in disinfecting consultation rooms and test centers",
+    "entities": {
+        "annotations": [
+            {
+                "start": 88,
+                "end": 119,
+                "probability": 0.2883,
+                "type": "Place",
+                "normalized_text": "St Georges Unviversitu of London"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 844486678324658176
+}

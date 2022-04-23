@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 20:21:23+00:00",
+    "id": 523931941775888385,
+    "text": "@Jford_18 @KHOU WHYY DID YOU QUOTE THIS IM CRYING\ud83d\ude2d\ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 10,
+                "end": 15,
+                "username": "KHOU",
+                "id": "15791186"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1883670793
+}

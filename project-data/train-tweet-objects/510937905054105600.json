@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-13 23:47:43+00:00",
+    "id": 510937905054105600,
+    "text": "@FoxNews @alisha1234m EVIL IS NOT PURE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "alisha1234m",
+                "id": "1681390633"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

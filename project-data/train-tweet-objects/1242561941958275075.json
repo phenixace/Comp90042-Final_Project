@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-24 21:20:27+00:00",
+    "id": 1242561941958275075,
+    "text": "@aswinn I\u2019m guessing it was we don\u2019t need to go to work type party? With some sort of costumes or themed drinks. Or put more succinctly: pure idiocy.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "aswinn",
+                "id": "19192686"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19192686
+}

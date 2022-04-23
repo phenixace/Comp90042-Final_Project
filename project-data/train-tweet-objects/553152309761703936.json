@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-08 11:32:42+00:00",
+    "id": 553152309761703936,
+    "text": "@dandemoustier @kirstymhall It is great though. @LucilleClerc is a very talented artist.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "dandemoustier",
+                "id": "21291400"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "kirstymhall",
+                "id": "42520662"
+            },
+            {
+                "start": 48,
+                "end": 61,
+                "username": "LucilleClerc",
+                "id": "994994552"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 21291400
+}

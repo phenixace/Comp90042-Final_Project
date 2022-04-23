@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 03:26:56+00:00",
+    "id": 529112463976198144,
+    "text": "@fluffyguy thank god you are alive fluffy I was about to cry :(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28245852
+}

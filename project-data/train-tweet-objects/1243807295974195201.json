@@ -1,0 +1,43 @@
+{
+    "created_at": "2020-03-28 07:49:02+00:00",
+    "id": 1243807295974195201,
+    "text": "WHO : Q&amp;A on coronaviruses (COVID-19) /\nHow long is the incubation period for COVID-19?/ https://t.co/Yxha5qkHtI\n\n\u97d3\u56fd\u306e\u65b0\u578b\u30b3\u30ed\u30ca\u5bfe\u7b56\u672c\u90e8\uff08\u4e2d\u592e\u9632\u75ab\u5bfe\u7b56\u672c\u90e8\uff09\u306e\u5b9a\u4f8b\u8a18\u8005\u4f1a\u898b\uff083/26\uff09\nhttps://t.co/oBpNoOwnfs",
+    "entities": {
+        "annotations": [
+            {
+                "start": 114,
+                "end": 115,
+                "probability": 0.9357,
+                "type": "Place",
+                "normalized_text": "\u97d3\u56fd"
+            },
+            {
+                "start": 127,
+                "end": 134,
+                "probability": 0.4867,
+                "type": "Organization",
+                "normalized_text": "\u4e2d\u592e\u9632\u75ab\u5bfe\u7b56\u672c\u90e8"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/Yxha5qkHtI",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-\u2026"
+            },
+            {
+                "start": 154,
+                "end": 177,
+                "url": "https://t.co/oBpNoOwnfs",
+                "expanded_url": "https://note.com/yota811/n/n280ac2bb1046",
+                "display_url": "note.com/yota811/n/n280\u2026",
+                "status": 200,
+                "unwound_url": "https://note.com/yota811/n/n280ac2bb1046"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1083967967765848065
+}

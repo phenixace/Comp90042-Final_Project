@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 14:35:17+00:00",
+    "id": 524932003360038912,
+    "text": "@cnnbrk check cbc news nos at parlaient bld",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 428333
+}

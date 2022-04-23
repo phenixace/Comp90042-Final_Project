@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-28 06:47:51+00:00",
+    "id": 560328381242155008,
+    "text": "@MikeAP2 @act4america @BreitbartNews Which are what? Native American pow wows? Rain dances? Skinwalkers?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MikeAP2",
+                "id": "137390049"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 137390049
+}

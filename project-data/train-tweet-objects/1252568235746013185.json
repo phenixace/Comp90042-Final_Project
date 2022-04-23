@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-04-21 12:01:53+00:00",
+    "id": 1252568235746013185,
+    "text": "A little introduction from Rhodes Island. https://t.co/RXLW9Eddgi",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 39,
+                "probability": 0.7326,
+                "type": "Place",
+                "normalized_text": "Rhodes Island"
+            }
+        ],
+        "urls": [
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/RXLW9Eddgi",
+                "expanded_url": "https://twitter.com/AcrylicStroke/status/1252568235746013185/photo/1",
+                "display_url": "pic.twitter.com/RXLW9Eddgi"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1510493005
+}

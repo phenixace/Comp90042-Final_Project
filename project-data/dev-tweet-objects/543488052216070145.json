@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-12-12 19:30:23+00:00",
+    "id": 543488052216070145,
+    "text": "@thebeecharmer97 @DanaDelany @nytimes St Francis rocked!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "thebeecharmer97",
+                "id": "32937031"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "DanaDelany",
+                "id": "262041062"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 47,
+                "probability": 0.7424,
+                "type": "Person",
+                "normalized_text": "St Francis"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 32937031
+}

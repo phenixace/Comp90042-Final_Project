@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-17 19:13:11+00:00",
+    "id": 1273332882140995584,
+    "text": "@cjorgaz @WHO \u00bfUsted de que forma comprob\u00f3 que el Di\u00f3xido de Cloro es una sustancia peligrosa? \u00bfPuede compartir esa informaci\u00f3n?, \u00bfTiene evidencia cient\u00edfica que demuestre y respalde, que el Di\u00f3xido de Cloro es, lo que usted AFIRMA que es?\n\nEn que bas\u00f3 su trabajo period\u00edstico?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "cjorgaz",
+                "id": "1089085616"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1089085616
+}

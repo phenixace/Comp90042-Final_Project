@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-04-10 04:46:47+00:00",
+    "id": 1248472470253797376,
+    "text": "...\nI have TAKEN MY TIME.\n\nInsyallah I know how to play your game of Sorcery although I am quite bad because I have to learn as I go while you, TEAM DAJJAL ANTI-CHRIST, is a TEAM OF COWARDS and geniuses.\n\nI am THE WOMAN OF THE APOCALYPSE\nI wear the Sun and the moon... https://t.co/Dnvupa3mh0",
+    "entities": {
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/Dnvupa3mh0",
+                "expanded_url": "https://twitter.com/NusratHMoore/status/1248472470253797376/photo/1",
+                "display_url": "pic.twitter.com/Dnvupa3mh0"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 161,
+                "end": 166,
+                "probability": 0.6711,
+                "type": "Other",
+                "normalized_text": "CHRIST"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 335858588
+}

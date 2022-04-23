@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-10-11 16:55:10+00:00",
+    "id": 653252513668292608,
+    "text": "@CNN @HillaryClinton @BernieSanders Sanders also is unknown to a third of the electorate.\n#tellthewholestorydammit",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.9764,
+                "type": "Person",
+                "normalized_text": "Sanders"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 114,
+                "tag": "tellthewholestorydammit"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

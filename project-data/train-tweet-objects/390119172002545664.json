@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-15 14:17:13+00:00",
+    "id": 390119172002545664,
+    "text": "@TheRealShaneJos its not a 'Harry Potter' book.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheRealShaneJos",
+                "id": "343709777"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 39,
+                "probability": 0.7555,
+                "type": "Person",
+                "normalized_text": "Harry Potter"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 343709777
+}

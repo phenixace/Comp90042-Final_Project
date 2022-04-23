@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-09 18:54:48+00:00",
+    "id": 520286274306199553,
+    "text": "@mashable that's like exposing the man behind the curtain. I like it better when my Amazon orders magically appear at my house.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 84,
+                "end": 89,
+                "probability": 0.6445,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 972651
+}

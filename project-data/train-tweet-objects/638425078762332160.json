@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-08-31 18:56:14+00:00",
+    "id": 638425078762332160,
+    "text": "@devinbrockmeier @TheValleyReport SAVAGE \ud83d\ude02",
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 33,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2321843923
+}

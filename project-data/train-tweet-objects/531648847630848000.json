@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-10 03:25:37+00:00",
+    "id": 531648847630848000,
+    "text": "@Boogie2988 @ElFlexicano",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "ElFlexicano",
+                "id": "1252031024600678402"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 42345999
+}

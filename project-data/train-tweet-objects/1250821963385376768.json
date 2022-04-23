@@ -1,0 +1,50 @@
+{
+    "created_at": "2020-04-16 16:22:49+00:00",
+    "id": 1250821963385376768,
+    "text": "@livindave Many have heard of Covid-19 and some people have few knowledge about it.\n\nQ1. What is Covid-19? @livindave\n\n#BtystaySafe\n#braceuptheyoung\n@NCDCgov https://t.co/xcXQ2LUsVS",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 119,
+                "end": 131,
+                "tag": "BtystaySafe"
+            },
+            {
+                "start": 132,
+                "end": 148,
+                "tag": "braceuptheyoung"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "livindave",
+                "id": "1161997987"
+            },
+            {
+                "start": 107,
+                "end": 117,
+                "username": "livindave",
+                "id": "1161997987"
+            },
+            {
+                "start": 149,
+                "end": 157,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ],
+        "urls": [
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/xcXQ2LUsVS",
+                "expanded_url": "https://twitter.com/BraceuptheYoung/status/1250821963385376768/photo/1",
+                "display_url": "pic.twitter.com/xcXQ2LUsVS"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1161997987
+}

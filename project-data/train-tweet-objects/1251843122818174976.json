@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 12:00:33+00:00",
+    "id": 1251843122818174976,
+    "text": "@Bean_Counta @DrZweliMkhize This is said. That's not even R500. Not all basic foods are covered there",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 27,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1413878586
+}

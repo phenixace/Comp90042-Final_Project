@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-09 09:11:32+00:00",
+    "id": 674516718383964160,
+    "text": "@RollingStone @ShaunKing so are you not A-OK with guns now?  Did you get rid of yours?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "shaunking",
+                "id": "755113"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14780915
+}

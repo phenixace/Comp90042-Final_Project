@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-18 22:53:37+00:00",
+    "id": 523607862350995456,
+    "text": "@pourmecoffee @ChuckXIII tell Liz it could be worse",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "ChuckXIII",
+                "id": "25504217"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 32,
+                "probability": 0.9918,
+                "type": "Person",
+                "normalized_text": "Liz"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16906137
+}

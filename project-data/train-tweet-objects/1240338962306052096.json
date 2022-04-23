@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-18 18:07:07+00:00",
+    "id": 1240338962306052096,
+    "text": "20) \"SUSPECT\" Bat has NOT been PROVEN \u2757\ufe0f\ud83e\udd26\u200d\u2640\ufe0f\ud83d\udcfa\n#NewCrownVirus \ud83d\udc51\nScientists now suspect this coronavirus, SARS-CoV-2, originated in a bat and somehow hopped to another animal, possibly the pangolin, which then passed it on to humans.\n\nhttps://t.co/fQEurGU9YS",
+    "entities": {
+        "urls": [
+            {
+                "start": 233,
+                "end": 256,
+                "url": "https://t.co/fQEurGU9YS",
+                "expanded_url": "https://twitter.com/MSNBC/status/1240328061721157632",
+                "display_url": "twitter.com/MSNBC/status/1\u2026"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 60,
+                "tag": "NewCrownVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

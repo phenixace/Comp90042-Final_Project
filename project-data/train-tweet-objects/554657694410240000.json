@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-12 15:14:34+00:00",
+    "id": 554657694410240000,
+    "text": "@genesiaalves @BDUTT ohh so lucky yaar",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "genesiaalves",
+                "id": "127121446"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "BDUTT",
+                "id": "19929890"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 127121446
+}

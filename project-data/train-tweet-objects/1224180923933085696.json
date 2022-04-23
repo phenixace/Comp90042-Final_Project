@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-02-03 04:00:51+00:00",
+    "id": 1224180923933085696,
+    "text": "Suspected: 21558\nConfirmed: 17238\nIn serious conditions: 2296\nDeaths: 361\nRecovered: 477\n\n#coronavirus https://t.co/GbJVxuSk6x",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 102,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 103,
+                "end": 126,
+                "url": "https://t.co/GbJVxuSk6x",
+                "expanded_url": "https://twitter.com/OzgurTufekci/status/1224180923933085696/photo/1",
+                "display_url": "pic.twitter.com/GbJVxuSk6x"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 326631858
+}

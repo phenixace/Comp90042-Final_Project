@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27 01:50:32+00:00",
+    "id": 614611738886033408,
+    "text": "@petesouza tonight our union is that much more perfect, because it welcomes more of its sons &amp; daughters into full &amp; equal participation",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "PeteSouza",
+                "id": "1257689418888089600"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 18215973
+}

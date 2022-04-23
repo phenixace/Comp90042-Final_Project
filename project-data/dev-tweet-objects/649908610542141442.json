@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-10-02 11:27:42+00:00",
+    "id": 649908610542141442,
+    "text": "@CNN I'll believe that when #PopeFrancis meets with leaders of the #lgbt community The #Pope sent a clear message by meeting with #KimDavis",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 40,
+                "tag": "PopeFrancis"
+            },
+            {
+                "start": 67,
+                "end": 72,
+                "tag": "lgbt"
+            },
+            {
+                "start": 87,
+                "end": 92,
+                "tag": "Pope"
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "tag": "KimDavis"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

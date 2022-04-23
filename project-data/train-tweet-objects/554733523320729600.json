@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-12 20:15:53+00:00",
+    "id": 554733523320729600,
+    "text": "@RT_com THEY HATE ANYONE THAT IS NOT ISLAMIC. FACE FACTS. THEY HATE AMERICANS. GALATIONS (R BIBLE) 4 -21-31.READ IT REASON 2 HATECHRISTIANS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 64643056
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-08-27 06:00:39+00:00",
+    "id": 504508772627148800,
+    "text": "@Softykjr @SportsBizNews feel bad for Leafs fans when Toronto Team 2 makes a Finals before them....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Softykjr",
+                "id": "63653875"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 42,
+                "probability": 0.9548,
+                "type": "Organization",
+                "normalized_text": "Leafs"
+            },
+            {
+                "start": 54,
+                "end": 65,
+                "probability": 0.6026,
+                "type": "Organization",
+                "normalized_text": "Toronto Team"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 63653875
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 23:53:53+00:00",
+    "id": 523985419969757185,
+    "text": "@Sam_Garcia44 YOU ARE THE SPAWN OF SATAN. YOU WRONG FOR THAT WOW AKDJDNRFJ",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Sam_Garcia44",
+                "id": "353329347"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 353329347
+}

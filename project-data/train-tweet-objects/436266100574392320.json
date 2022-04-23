@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-02-19 22:28:38+00:00",
+    "id": 436266100574392320,
+    "text": "@wsfa12news @MomsWhoSave OMG&gt;&gt;&gt; @JimGaffigan Have you seen this..I fear for your safety!! O.O",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "wsfa12news",
+                "id": "21845346"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "MomsWhoSave",
+                "id": "6431392"
+            },
+            {
+                "start": 41,
+                "end": 53,
+                "username": "JimGaffigan",
+                "id": "6539592"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 21845346
+}

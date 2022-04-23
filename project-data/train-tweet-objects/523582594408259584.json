@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-18 21:13:12+00:00",
+    "id": 523582594408259584,
+    "text": "@jteeDC @pourmecoffee http://t.co/23KhiVruMV",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "jteeDC",
+                "id": "69171795"
+            },
+            {
+                "start": 8,
+                "end": 21,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ],
+        "urls": [
+            {
+                "start": 22,
+                "end": 44,
+                "url": "http://t.co/23KhiVruMV",
+                "expanded_url": "https://twitter.com/RatchetJesusJC/status/523582594408259584/photo/1",
+                "display_url": "pic.twitter.com/23KhiVruMV"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 69171795
+}

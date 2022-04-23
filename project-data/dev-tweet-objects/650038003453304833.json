@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 20:01:51+00:00",
+    "id": 650038003453304833,
+    "text": "@nytvideo \nLost in freedom of speech. Let me take your hand. http://t.co/6SIvW85vH0",
+    "entities": {
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/6SIvW85vH0",
+                "expanded_url": "http://s-4-v.blogspot.com/",
+                "display_url": "s-4-v.blogspot.com"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "nytvideo",
+                "id": "16929520"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16929520
+}

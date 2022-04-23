@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-05-06 12:23:30+00:00",
+    "id": 1258009495088685065,
+    "text": "@Bekiwii Sounds like it should be fine, as with all pork, cook it very thoroughly and it should be fine",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Bekiwii",
+                "id": "260942401"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 260942401
+}

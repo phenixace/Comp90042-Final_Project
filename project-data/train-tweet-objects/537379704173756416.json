@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-25 22:58:00+00:00",
+    "id": 537379704173756416,
+    "text": "@deray So far that's only a rumor and ABC has banned spending money on interviews so I doubt this is true.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 40,
+                "probability": 0.9176,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 29417304
+}

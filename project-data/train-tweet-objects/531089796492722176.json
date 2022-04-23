@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-08 14:24:09+00:00",
+    "id": 531089796492722176,
+    "text": "Dear god! \u201c@BuzzFeed:Pepsi Is Actually Testing A Doritos-Flavored Mountain Dew\nhttp://t.co/ZsOQWeCvd8 http://t.co/CiTMv1YiRs\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/ZsOQWeCvd8",
+                "expanded_url": "http://bzfd.it/1xiSdyk",
+                "display_url": "bzfd.it/1xiSdyk"
+            },
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/CiTMv1YiRs",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/531085761521528834/photo/1",
+                "display_url": "pic.twitter.com/CiTMv1YiRs"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 5695632
+}

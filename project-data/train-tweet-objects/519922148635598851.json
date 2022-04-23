@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-08 18:47:54+00:00",
+    "id": 519922148635598851,
+    "text": "@TMZ All about getting ppl to click on web stories to read more, but this tweet was just misleading.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 16331010
+}

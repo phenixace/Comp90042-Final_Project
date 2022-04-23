@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-09 18:57:25+00:00",
+    "id": 520286930387607552,
+    "text": "RT\"@mashable: Report: Amazon plans to open its first physical store, in New York http://t.co/8YBc3ag6Hv\u201d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 12,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ],
+        "urls": [
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/8YBc3ag6Hv",
+                "expanded_url": "http://on.mash.to/ZgsDwh",
+                "display_url": "on.mash.to/ZgsDwh"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 27,
+                "probability": 0.9179,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            },
+            {
+                "start": 72,
+                "end": 79,
+                "probability": 0.9758,
+                "type": "Place",
+                "normalized_text": "New York"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 972651
+}

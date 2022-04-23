@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-19 17:52:43+00:00",
+    "id": 1240697727077343232,
+    "text": "Coronavirus disease (COVID-19) advice for the public: Myth busters https://t.co/2WSQ5DbUGG",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/2WSQ5DbUGG",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 586462114
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-14 17:43:57+00:00",
+    "id": 511208744001470465,
+    "text": "@FoxNews there are no \"golf carts\" in the area here http://t.co/shLRDbscpC",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 52,
+                "end": 74,
+                "url": "http://t.co/shLRDbscpC",
+                "expanded_url": "https://twitter.com/lou144160/status/511208744001470465/photo/1",
+                "display_url": "pic.twitter.com/shLRDbscpC"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

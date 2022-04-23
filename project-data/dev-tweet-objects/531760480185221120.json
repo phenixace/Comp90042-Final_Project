@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-11-10 10:49:12+00:00",
+    "id": 531760480185221120,
+    "text": "Fuck no RT @IGN: Pepsi is currently taste-testing Doritos flavored Mt Dew. Would you try it? http://t.co/tkTWLCfLFI http://t.co/mptV3eTWAt",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 72,
+                "probability": 0.879,
+                "type": "Product",
+                "normalized_text": "Doritos flavored Mt Dew"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/tkTWLCfLFI",
+                "expanded_url": "http://trib.al/UP3LYvC",
+                "display_url": "trib.al/UP3LYvC"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/mptV3eTWAt",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "display_url": "pic.twitter.com/mptV3eTWAt"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 15,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 18927441
+}

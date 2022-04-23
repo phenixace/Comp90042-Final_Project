@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-08-31 13:05:59+00:00",
+    "id": 638336933698097152,
+    "text": "@RubyRose Ruby, may I ask you a question?\u2764\ufe0f",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "rubyrose",
+                "id": "761981742202884097"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 13,
+                "probability": 0.6883,
+                "type": "Person",
+                "normalized_text": "Ruby"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 23741531
+}

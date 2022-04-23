@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-03-17 07:12:01+00:00",
+    "id": 1239811711361671169,
+    "text": "COVID-19 virus can be transmitted in areas with hot and humid climates\n\nThe new coronavirus CANNOT be transmitted through mosquito bites.\n\nCold weather and snow CANNOT kill the new coronavirus.\n\nTaking a hot bath does not prevent the new coronavirus disease https://t.co/jj0oEqXjWA",
+    "entities": {
+        "urls": [
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/jj0oEqXjWA",
+                "expanded_url": "https://twitter.com/Mounticaoffl/status/1239811711361671169/photo/1",
+                "display_url": "pic.twitter.com/jj0oEqXjWA"
+            },
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/jj0oEqXjWA",
+                "expanded_url": "https://twitter.com/Mounticaoffl/status/1239811711361671169/photo/1",
+                "display_url": "pic.twitter.com/jj0oEqXjWA"
+            },
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/jj0oEqXjWA",
+                "expanded_url": "https://twitter.com/Mounticaoffl/status/1239811711361671169/photo/1",
+                "display_url": "pic.twitter.com/jj0oEqXjWA"
+            },
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/jj0oEqXjWA",
+                "expanded_url": "https://twitter.com/Mounticaoffl/status/1239811711361671169/photo/1",
+                "display_url": "pic.twitter.com/jj0oEqXjWA"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

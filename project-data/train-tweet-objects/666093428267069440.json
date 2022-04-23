@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-11-16 03:20:23+00:00",
+    "id": 666093428267069440,
+    "text": "@DRUDGE_REPORT @ellerich17 Jindal demands information. Pretty damn late for that. Call out the National Guard and stop the problem now #TCOT",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 135,
+                "end": 140,
+                "tag": "TCOT"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "ellerich17",
+                "id": "49324978"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 32,
+                "probability": 0.5548,
+                "type": "Person",
+                "normalized_text": "Jindal"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14669951
+}

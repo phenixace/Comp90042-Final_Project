@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-26 08:54:58+00:00",
+    "id": 1243099110347091968,
+    "text": "2. Cold weather and snow CANNOT kill the new coronavirus. https://t.co/bWuhdaoIOq",
+    "entities": {
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/bWuhdaoIOq",
+                "expanded_url": "https://twitter.com/eteobong_edem/status/1243099110347091968/photo/1",
+                "display_url": "pic.twitter.com/bWuhdaoIOq"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2519585476
+}

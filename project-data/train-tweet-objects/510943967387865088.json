@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-14 00:11:49+00:00",
+    "id": 510943967387865088,
+    "text": "@FoxNews \nOne innocent Britain beheaded.PM has a Cobra meeting. Americans beheaded and our CIC goes golfing. I'm packing and moving to UK.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 29,
+                "probability": 0.9154,
+                "type": "Place",
+                "normalized_text": "Britain"
+            },
+            {
+                "start": 135,
+                "end": 136,
+                "probability": 0.9797,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1367531
+}

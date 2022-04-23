@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-30 10:11:06+00:00",
+    "id": 505658964730978304,
+    "text": "@PHiZZURP he gets 25 years but a murderer can get away with 6? Ridiculous",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "PHiZZURP",
+                "id": "174172366"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 174172366
+}

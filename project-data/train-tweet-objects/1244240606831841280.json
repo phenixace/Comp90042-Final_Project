@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-03-29 12:30:52+00:00",
+    "id": 1244240606831841280,
+    "text": "To consult a doctor about your symptoms, kindly go over to \nhttps://t.co/qgWqtyuZSy\n\nClinic Hours: Mondays - Saturdays\n8-11AM and 7-10PM\n\ud83d\udc69\u200d\u2695\ufe0f\ud83d\udc68\u200d\u2695\ufe0f\ud83e\uddd1\u200d\u2695\ufe0f https://t.co/pjsdS1riOh",
+    "entities": {
+        "urls": [
+            {
+                "start": 60,
+                "end": 83,
+                "url": "https://t.co/qgWqtyuZSy",
+                "expanded_url": "http://www.facebook.com/COVIDAskForce",
+                "display_url": "facebook.com/COVIDAskForce",
+                "status": 200,
+                "unwound_url": "https://www.facebook.com/COVIDAskForce"
+            },
+            {
+                "start": 150,
+                "end": 173,
+                "url": "https://t.co/pjsdS1riOh",
+                "expanded_url": "https://twitter.com/kmrvmd/status/1244240606831841280/photo/1",
+                "display_url": "pic.twitter.com/pjsdS1riOh"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 27269222
+}

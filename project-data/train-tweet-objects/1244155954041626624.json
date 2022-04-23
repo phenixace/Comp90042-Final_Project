@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-29 06:54:29+00:00",
+    "id": 1244155954041626624,
+    "text": "@priyapyadav18 Good",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

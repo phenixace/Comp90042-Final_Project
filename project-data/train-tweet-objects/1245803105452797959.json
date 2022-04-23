@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-02 19:59:40+00:00",
+    "id": 1245803105452797959,
+    "text": "@Pokemon Every Pok\u00e9mon, no matter shape, size, or colour, is loved by somebody. That\u2019s why it\u2019s so important to continue supporting each and every one in the newest games. \nThanks for bringing back an additional 200, but there are still ~250 still excluded. \n#BringBackNationalDex please.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 21,
+                "probability": 0.5862,
+                "type": "Product",
+                "normalized_text": "Pok\u00e9mon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Pokemon",
+                "id": "96879107"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 259,
+                "end": 280,
+                "tag": "BringBackNationalDex"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 96879107
+}

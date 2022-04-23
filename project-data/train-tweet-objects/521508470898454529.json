@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-13 03:51:23+00:00",
+    "id": 521508470898454529,
+    "text": "@AmyMek   If the Daily Beast reporter and Stewart had been around in the 40's, they'd say the \"they're people too!\" crap about the Nazis.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 48,
+                "probability": 0.9955,
+                "type": "Person",
+                "normalized_text": "Stewart"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 954124423
+}

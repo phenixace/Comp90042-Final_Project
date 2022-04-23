@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-07 11:58:07+00:00",
+    "id": 552796316955574273,
+    "text": "@20Minutes @Telegraph @WilliamMolinie Heu \u00e0 ce stade on s'en fiche non ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "20Minutes",
+                "id": "2649991"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 22,
+                "end": 37,
+                "username": "WilliamMolinie",
+                "id": "24987381"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 2649991
+}

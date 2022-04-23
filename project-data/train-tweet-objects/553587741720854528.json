@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-09 16:22:57+00:00",
+    "id": 553587741720854528,
+    "text": "@FridhKleberg @AFP If so that hostage will be the person best able to give an insight into the attack, if the suspects were responsible...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FridhKleberg",
+                "id": "258730076"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 258730076
+}

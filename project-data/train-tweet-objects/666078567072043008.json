@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-16 02:21:20+00:00",
+    "id": 666078567072043008,
+    "text": "@DRUDGE_REPORT u go Bobby!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 24,
+                "probability": 0.8706,
+                "type": "Person",
+                "normalized_text": "Bobby"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14669951
+}

@@ -1,0 +1,70 @@
+{
+    "created_at": "2020-02-18 12:37:32+00:00",
+    "id": 1229746772337139712,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @WHOEMRO @WHOAFRO @pahowho Is the issue that it can't kill the virus, or it can cause skin irritation?\n\nShould I use my UV-C unit to sterilize my phone, keys, etc, or it just won't work??\n\nYour messaging isn't clear and other #coronavirus can be killed with UV-C\n\n#COVID19 #Coronavirustruth",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 262,
+                "end": 274,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 300,
+                "end": 308,
+                "tag": "COVID19"
+            },
+            {
+                "start": 309,
+                "end": 326,
+                "tag": "Coronavirustruth"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "pahowho",
+                "id": "20629893"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14499829
+}

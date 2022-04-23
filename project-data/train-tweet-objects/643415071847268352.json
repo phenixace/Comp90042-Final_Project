@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-09-14 13:24:41+00:00",
+    "id": 643415071847268352,
+    "text": "@LibertyUSA1776 @bcwilliams92 Those countries who let them in will have to accept all of the consequences.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "bcwilliams92",
+                "id": "182265955"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3300205033
+}

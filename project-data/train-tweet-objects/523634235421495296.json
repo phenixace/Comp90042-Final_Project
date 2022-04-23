@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-19 00:38:25+00:00",
+    "id": 523634235421495296,
+    "text": "Oh please. Yorkshire terrier or bull mastiff puppy? @pourmecoffee Puppy sized spider http://t.co/QbPGwPFrLF  @GreatDismal",
+    "entities": {
+        "mentions": [
+            {
+                "start": 52,
+                "end": 65,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            },
+            {
+                "start": 109,
+                "end": 121,
+                "username": "GreatDismal",
+                "id": "28049003"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/QbPGwPFrLF",
+                "expanded_url": "http://www.livescience.com/48340-goliath-birdeater-surprises-scientist.html",
+                "display_url": "livescience.com/48340-goliath-\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16906137
+}

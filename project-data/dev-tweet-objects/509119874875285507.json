@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-08 23:23:31+00:00",
+    "id": 509119874875285507,
+    "text": "@amarie423 @_ericscola like u need it aim i havnt got a blowjob since i met you. What u gonna wrap it around a banana",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "amarie423",
+                "id": "626117796"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 626117796
+}

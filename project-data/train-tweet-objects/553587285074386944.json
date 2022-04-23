@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-01-09 16:21:08+00:00",
+    "id": 553587285074386944,
+    "text": "\u201c@AFP: #BREAKING Charlie Hebdo gunmen's hostage freed and safe after police assault\u201d #fb",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 29,
+                "probability": 0.954,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 7,
+                "end": 16,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 85,
+                "end": 88,
+                "tag": "fb"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 380648579
+}

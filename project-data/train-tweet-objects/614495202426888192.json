@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-26 18:07:27+00:00",
+    "id": 614495202426888192,
+    "text": "@Dory end of one goes into 1 part of the house while the other end goes towards the other it's a sign of where all our money is",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "Dory",
+                "id": "1187647735"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1187647735
+}

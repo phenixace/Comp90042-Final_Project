@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-22 23:58:51+00:00",
+    "id": 514202194779074560,
+    "text": "@cnnbrk These guys don't want to go back to Afganistan; it's a crap hole.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 53,
+                "probability": 0.2978,
+                "type": "Person",
+                "normalized_text": "Afganistan"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 428333
+}

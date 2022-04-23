@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-30 10:17:56+00:00",
+    "id": 505660685570043904,
+    "text": "@PHiZZURP that's fake. The kid in the picture was being convicted of murder not swatting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "PHiZZURP",
+                "id": "174172366"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 174172366
+}

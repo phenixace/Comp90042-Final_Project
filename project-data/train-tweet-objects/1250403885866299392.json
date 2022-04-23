@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-15 12:41:32+00:00",
+    "id": 1250403885866299392,
+    "text": "5G mobile networks DO NOT spread #COVID-19 https://t.co/jGkmcnWThS @Scimitar_SS",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 33,
+                "end": 39,
+                "tag": "COVID"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 67,
+                "end": 79,
+                "username": "Scimitar_SS",
+                "id": "157438443"
+            }
+        ],
+        "urls": [
+            {
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/jGkmcnWThS",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

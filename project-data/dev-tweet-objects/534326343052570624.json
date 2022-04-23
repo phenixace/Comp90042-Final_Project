@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-17 12:45:02+00:00",
+    "id": 534326343052570624,
+    "text": "\u201c@Independent: We're running out of chocolate\nhttp://t.co/b0KG0lXb5j http://t.co/o7NUWjDbVK\u201d That's why chocolate bars are getting smaller!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 46,
+                "end": 68,
+                "url": "http://t.co/b0KG0lXb5j",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/o7NUWjDbVK",
+                "expanded_url": "https://twitter.com/Independent/status/534278078105944064/photo/1",
+                "display_url": "pic.twitter.com/o7NUWjDbVK"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 16973333
+}

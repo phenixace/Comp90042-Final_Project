@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-05 21:44:32+00:00",
+    "id": 508007801709666304,
+    "text": "@Reuters Another jihadist less! No complaint here!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1652541
+}

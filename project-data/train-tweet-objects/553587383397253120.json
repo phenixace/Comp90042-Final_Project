@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-09 16:21:32+00:00",
+    "id": 553587383397253120,
+    "text": "Los rehenes del supermercado, liberados y a salvo despu\u00e9s del asalto, dice France Presse. @AFP",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 87,
+                "probability": 0.7935,
+                "type": "Place",
+                "normalized_text": "France Presse"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 90,
+                "end": 94,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 380648579
+}

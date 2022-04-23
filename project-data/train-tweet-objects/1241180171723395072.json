@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-21 01:49:47+00:00",
+    "id": 1241180171723395072,
+    "text": "@WHOWPRO Kalau kalian naik krl pake surgical glove, megang hp juga selama di krl. Terus pas nyampe rumah itu surgical glove dibuangnya asal buang ga sesuai sop dan kalian langsung megang hape kalian tanpa di bersihin dulu hapenya ya sama aja boong.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 149011431
+}

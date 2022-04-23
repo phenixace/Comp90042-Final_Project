@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-10 13:03:53+00:00",
+    "id": 1248597570970058752,
+    "text": "@daily_trust If there\u2019s a conspiracy and if Covid 19 is a business who will be part of it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "daily_trust",
+                "id": "69271273"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 69271273
+}

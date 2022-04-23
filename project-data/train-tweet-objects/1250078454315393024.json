@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-14 15:08:23+00:00",
+    "id": 1250078454315393024,
+    "text": "@citizentvkenya @BruceMuchelule @mayogumo pia wewe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "BruceMuchelule",
+                "id": "85556562"
+            },
+            {
+                "start": 32,
+                "end": 41,
+                "username": "mayogumo",
+                "id": "3041375542"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 210772834
+}

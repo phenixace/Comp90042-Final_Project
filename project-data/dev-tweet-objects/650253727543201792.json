@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-03 10:19:04+00:00",
+    "id": 650253727543201792,
+    "text": "@nytvideo Eu n\u00e3o caio na gra\u00e7a desse papa Francisco...acredito eu que ele n\u00e3o seja o que diz ser.\ud83d\ude12",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 50,
+                "probability": 0.3745,
+                "type": "Person",
+                "normalized_text": "Francisco"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "nytvideo",
+                "id": "16929520"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 16929520
+}

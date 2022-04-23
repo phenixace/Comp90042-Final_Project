@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-17 18:04:37+00:00",
+    "id": 1239975942820229129,
+    "text": "I still have friends on Facebook insisting COVID-19 is:\n\n\u2022 Just like the flu\n\u2022 No worse than H1N1\n\u2022 Media hysteria\n\u2022 Blue state politics\n\u2022 Merely fear\n\u2022 Lack of faith\n\nOne can see how scapegoats and hyper-partisanship create minds that are malleable to false narratives.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 31,
+                "probability": 0.5929,
+                "type": "Organization",
+                "normalized_text": "Facebook"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

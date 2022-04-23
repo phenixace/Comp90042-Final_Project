@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-10 18:17:34+00:00",
+    "id": 652910860667629568,
+    "text": "@LibertyUSA1776 @PhilipOrPip So sick of reading this type of stuff, when is anyone going to act.Why are these people allowed to walk over us",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

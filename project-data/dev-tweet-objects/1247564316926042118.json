@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-07 16:38:06+00:00",
+    "id": 1247564316926042118,
+    "text": "Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease.\n\nThe most common symptoms of COVID-19 are dry cough, tiredness and fever. https://t.co/DmmvrzSWcy",
+    "entities": {
+        "urls": [
+            {
+                "start": 261,
+                "end": 284,
+                "url": "https://t.co/DmmvrzSWcy",
+                "expanded_url": "https://twitter.com/mfirdausdaud/status/1247564316926042118/photo/1",
+                "display_url": "pic.twitter.com/DmmvrzSWcy"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 220566996
+}

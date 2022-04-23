@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-11 08:11:17+00:00",
+    "id": 1270991984774152193,
+    "text": "@hitRECordJoe I still post/respond not already knowing the answer... but I felt like asking for your perspective as clarification as the creator of this *awesome* system you've built.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "hitRECordJoe",
+                "id": "24807616"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14094341
+}

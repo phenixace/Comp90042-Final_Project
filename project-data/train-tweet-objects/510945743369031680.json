@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-09-14 00:18:52+00:00",
+    "id": 510945743369031680,
+    "text": "@SCClemons @mamicoco808 @ACTED so very cute",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "SCClemons",
+                "id": "16172991"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "mamicoco808",
+                "id": "924687283"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "username": "ACTED",
+                "id": "94539935"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16172991
+}

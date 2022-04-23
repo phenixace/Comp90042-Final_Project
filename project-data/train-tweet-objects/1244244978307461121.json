@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-29 12:48:14+00:00",
+    "id": 1244244978307461121,
+    "text": "@priyapyadav18 A complete sham in itself. \nA complete scam in itself. \nThey are collecting to topple Maharashtra government.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 101,
+                "end": 111,
+                "probability": 0.3592,
+                "type": "Place",
+                "normalized_text": "Maharashtra"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "priyapyadav18",
+                "id": "3300288798"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300288798
+}

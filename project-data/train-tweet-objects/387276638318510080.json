@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-10-07 18:02:00+00:00",
+    "id": 387276638318510080,
+    "text": ".@SteveWorks4You I'm not sure what you're trying to say about sandwiches.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "SteveWorks4You",
+                "id": "1059240924"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 1059240924
+}

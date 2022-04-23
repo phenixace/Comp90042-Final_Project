@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-04-16 16:29:14+00:00",
+    "id": 1250823575956848642,
+    "text": "@livindave @NCDCgov Thank you for your answer.\n\nIs Covid-19 and corona virus the same?\n\n#BtystaySafe\n#braceuptheyoung\n@NCDCgov",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "livindave",
+                "id": "1161997987"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            },
+            {
+                "start": 118,
+                "end": 126,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 88,
+                "end": 100,
+                "tag": "BtystaySafe"
+            },
+            {
+                "start": 101,
+                "end": 117,
+                "tag": "braceuptheyoung"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1161997987
+}

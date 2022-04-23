@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-29 19:38:06+00:00",
+    "id": 1244348123037794305,
+    "text": "@Adeoluwa_noble @I_am_niyi Spending, you dey mad ni? Wire me money jhur.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Adeoluwa_noble",
+                "id": "393559303"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "I_am_niyi",
+                "id": "324238619"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 393559303
+}

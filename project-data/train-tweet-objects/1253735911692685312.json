@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-24 17:21:49+00:00",
+    "id": 1253735911692685312,
+    "text": "@desafiada6 Wait are you watching #TVD? I've been #TeamDamon since the books came out",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "desafiada6",
+                "id": "67803863"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 34,
+                "end": 38,
+                "tag": "TVD"
+            },
+            {
+                "start": 50,
+                "end": 60,
+                "tag": "TeamDamon"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 67803863
+}

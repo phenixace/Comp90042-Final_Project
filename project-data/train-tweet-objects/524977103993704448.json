@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 17:34:29+00:00",
+    "id": 524977103993704448,
+    "text": "@CNN Best web accessory store has been chosen! Check em out   ---&gt; http://t.co/AMv5X4cQKn",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/AMv5X4cQKn",
+                "expanded_url": "http://StyIenow.net/PinkStoneCo",
+                "display_url": "StyIenow.net/PinkStoneCo"
+            }
+        ]
+    },
+    "source": "Apples1234",
+    "in_reply_to_user_id": 759251
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-08-27 16:54:00+00:00",
+    "id": 504673194750394369,
+    "text": "@SportsBizNews Quebec Hamilton Seattle Portland Houston Indianapolis Baltimore Oklahoma Milwaukee Kansas a team inToronto &amp; Las Vegas stupid",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 103,
+                "probability": 0.1607,
+                "type": "Organization",
+                "normalized_text": "Quebec Hamilton Seattle Portland Houston Indianapolis Baltimore Oklahoma Milwaukee Kansas"
+            },
+            {
+                "start": 124,
+                "end": 132,
+                "probability": 0.4921,
+                "type": "Place",
+                "normalized_text": "Las Vegas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            }
+        ]
+    },
+    "source": "Twitter for Websites",
+    "in_reply_to_user_id": 29849267
+}

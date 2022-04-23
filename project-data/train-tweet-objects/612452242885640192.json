@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21 02:49:28+00:00",
+    "id": 612452242885640192,
+    "text": "@tchopStL @AdamWeinstein meanwhile remember \"fuck your breath!!\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tchopstl",
+                "id": "3218894223"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "AdamWeinstein",
+                "id": "20725994"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 9112032
+}

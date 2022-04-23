@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-20 23:06:53+00:00",
+    "id": 1241139175899967491,
+    "text": "@FivesElderwood Research so far seems to indicate the virus can survive up to 3 hours in tiny droplets suspended in air, making airborne transmission plausible. Main form of transmission seems to be physical contact between people or transmission through intermediary of another solid surface.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "FivesElderwood",
+                "id": "1186010845106466816"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1186010845106466816
+}

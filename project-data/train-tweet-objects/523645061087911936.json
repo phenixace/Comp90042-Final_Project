@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 01:21:26+00:00",
+    "id": 523645061087911936,
+    "text": "@IanCAnderson it's s'cute!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "IanCAnderson",
+                "id": "23820237"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 23820237
+}

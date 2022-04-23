@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-10 06:19:07+00:00",
+    "id": 509586848797442049,
+    "text": "\u041f\u0440\u043e\u043f\u0430\u043b \u0434\u043e\u043c... @GIBiz: Microsoft to buy Mojang - report http://t.co/dGFUwy5kHm $2 billion deal could be signed this week",
+    "entities": {
+        "urls": [
+            {
+                "start": 55,
+                "end": 77,
+                "url": "http://t.co/dGFUwy5kHm",
+                "expanded_url": "http://www.gamesindustry.biz/articles/2014-09-09-microsoft-to-buy-mojang-report",
+                "display_url": "gamesindustry.biz/articles/2014-\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 14,
+                "end": 20,
+                "username": "GIBiz",
+                "id": "46146200"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 46146200
+}

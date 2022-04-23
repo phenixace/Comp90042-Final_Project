@@ -1,0 +1,45 @@
+{
+    "created_at": "2020-02-08 19:23:00+00:00",
+    "id": 1226224930548834306,
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\n\nNO.\n\nHere are @WHO myth-busters on the #coronavirus. Get your facts right: https://t.co/B11surbjPf\n\n#2019nCoV https://t.co/VqYNpa43eT",
+    "entities": {
+        "mentions": [
+            {
+                "start": 86,
+                "end": 90,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 111,
+                "end": 123,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 172,
+                "end": 181,
+                "tag": "2019nCoV"
+            }
+        ],
+        "urls": [
+            {
+                "start": 147,
+                "end": 170,
+                "url": "https://t.co/B11surbjPf",
+                "expanded_url": "http://is.gd/OaTfBA",
+                "display_url": "is.gd/OaTfBA"
+            },
+            {
+                "start": 182,
+                "end": 205,
+                "url": "https://t.co/VqYNpa43eT",
+                "expanded_url": "https://twitter.com/UNGeneva/status/1226224930548834306/photo/1",
+                "display_url": "pic.twitter.com/VqYNpa43eT"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

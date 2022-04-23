@@ -1,0 +1,54 @@
+{
+    "created_at": "2014-08-19 21:14:46+00:00",
+    "id": 501839714522234880,
+    "text": "Good God. MT \"@zaidbenjamin: #ISIS beheads photojourno James Wright Foley in msg to US to end intervention in #Iraq. http://t.co/0ur0vK6xxZ\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/0ur0vK6xxZ",
+                "expanded_url": "https://twitter.com/zaidbenjamin/status/501827465032237056/photo/1",
+                "display_url": "pic.twitter.com/0ur0vK6xxZ"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 72,
+                "probability": 0.9413,
+                "type": "Person",
+                "normalized_text": "James Wright Foley"
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "probability": 0.9393,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 14,
+                "end": 27,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 29,
+                "end": 34,
+                "tag": "ISIS"
+            },
+            {
+                "start": 110,
+                "end": 115,
+                "tag": "Iraq"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 48956231
+}

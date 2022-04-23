@@ -1,0 +1,18 @@
+{
+    "created_at": "2014-08-30 10:05:55+00:00",
+    "id": 505657661120348163,
+    "text": "15 year old \"swatter\" got 25 years http://t.co/g1V3Iuitee",
+    "entities": {
+        "urls": [
+            {
+                "start": 35,
+                "end": 57,
+                "url": "http://t.co/g1V3Iuitee",
+                "expanded_url": "http://nationalreport.net/15-year-old-swatted-domestic-terrorism/",
+                "display_url": "nationalreport.net/15-year-old-sw\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

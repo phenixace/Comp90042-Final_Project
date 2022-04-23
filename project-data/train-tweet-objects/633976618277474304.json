@@ -1,0 +1,51 @@
+{
+    "created_at": "2015-08-19 12:19:39+00:00",
+    "id": 633976618277474304,
+    "text": "@CNNPolitics @LMbabak @HillaryClinton @realDonaldTrump Hillary cannot serve a term as president from prison. The FBI is coming for you,Soon!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 61,
+                "probability": 0.9984,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            },
+            {
+                "start": 113,
+                "end": 115,
+                "probability": 0.975,
+                "type": "Organization",
+                "normalized_text": "FBI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "LMbabak",
+                "id": "290160296"
+            },
+            {
+                "start": 22,
+                "end": 37,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 38,
+                "end": 54,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

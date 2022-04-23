@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-08 15:33:23+00:00",
+    "id": 531107220440616960,
+    "text": "@BuzzFeed gag reflex triggered.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 5695632
+}

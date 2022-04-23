@@ -1,0 +1,45 @@
+{
+    "created_at": "2020-04-03 03:02:38+00:00",
+    "id": 1245909545714663424,
+    "text": "@purplemage572 @FbrAndrew @Pokemon Because all Pok\u00e9mon were coded into those games. Now we have Pok\u00e9mon we can only stare at and see how useless they are in an app.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "purplemage572",
+                "id": "1045047023165157376"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "FbrAndrew",
+                "id": "1095150672302039045"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "Pokemon",
+                "id": "96879107"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 53,
+                "probability": 0.5877,
+                "type": "Product",
+                "normalized_text": "Pok\u00e9mon"
+            },
+            {
+                "start": 96,
+                "end": 102,
+                "probability": 0.5628,
+                "type": "Product",
+                "normalized_text": "Pok\u00e9mon"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1045047023165157376
+}

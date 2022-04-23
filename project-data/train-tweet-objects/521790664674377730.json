@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-13 22:32:43+00:00",
+    "id": 521790664674377730,
+    "text": "nigga it was a joke stop using me to push yo agenda @cthagod",
+    "entities": {
+        "mentions": [
+            {
+                "start": 52,
+                "end": 60,
+                "username": "cthagod",
+                "id": "17878322"
+            }
+        ]
+    },
+    "source": "Echofon",
+    "in_reply_to_user_id": 17878322
+}

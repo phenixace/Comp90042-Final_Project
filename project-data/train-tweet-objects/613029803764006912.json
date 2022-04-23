@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-22 17:04:29+00:00",
+    "id": 613029803764006912,
+    "text": "@CNNPolitics @cnnbrk @RepMiaLove I'm racist so I'd like the US gov to return all my money back that I've \"donated\" over the years.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 60,
+                "end": 61,
+                "probability": 0.8006,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 13850422
+}

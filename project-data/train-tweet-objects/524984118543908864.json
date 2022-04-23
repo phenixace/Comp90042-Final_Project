@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 18:02:22+00:00",
+    "id": 524984118543908864,
+    "text": "@FaithGoldy @AP  the shooter can now raise his arms in hell...only good news today.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "FaithGoldy",
+                "id": "83748727"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 83748727
+}

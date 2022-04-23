@@ -1,0 +1,80 @@
+{
+    "created_at": "2020-01-27 14:40:37+00:00",
+    "id": 1221805213151039488,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Remember how the GOP dealt with Zika?? Not an encouraging preview of how they'd deal with coronavirus, as I noted here:  https://t.co/MAm96ECDUy",
+    "entities": {
+        "urls": [
+            {
+                "start": 184,
+                "end": 207,
+                "url": "https://t.co/MAm96ECDUy",
+                "expanded_url": "https://realcontextnews.com/republican-party-plays-politics-with-zika-shows-gops-true-disgraceful-nature/",
+                "display_url": "realcontextnews.com/republican-par\u2026",
+                "status": 200,
+                "unwound_url": "https://realcontextnews.com/republican-party-plays-politics-with-zika-shows-gops-true-disgraceful-nature/"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 80,
+                "end": 82,
+                "probability": 0.9378,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            },
+            {
+                "start": 95,
+                "end": 98,
+                "probability": 0.6378,
+                "type": "Place",
+                "normalized_text": "Zika"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

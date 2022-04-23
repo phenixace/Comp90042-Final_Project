@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-19 00:59:09+00:00",
+    "id": 523639455836827649,
+    "text": "@pourmecoffee oh cool thanks for terrifying me",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "pourmecoffee",
+                "id": "16906137"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16906137
+}

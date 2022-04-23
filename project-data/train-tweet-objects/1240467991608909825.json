@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-19 02:39:50+00:00",
+    "id": 1240467991608909825,
+    "text": "@dpakman Brb going to use this",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "dpakman",
+                "id": "21514744"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 21514744
+}

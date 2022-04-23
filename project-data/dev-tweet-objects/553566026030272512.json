@@ -1,0 +1,25 @@
+{
+    "created_at": "2015-01-09 14:56:40+00:00",
+    "id": 553566026030272512,
+    "text": "Breaking: Two hostage situations in France are linked, Paris prosecutor says",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 41,
+                "probability": 0.9971,
+                "type": "Place",
+                "normalized_text": "France"
+            },
+            {
+                "start": 55,
+                "end": 59,
+                "probability": 0.8993,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": null
+}

@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-06-25 15:53:51+00:00",
+    "id": 1276181824499322880,
+    "text": "Latest figures show that women remain woefully under-represented in the UK armed forces. https://t.co/h04yAvR4NM",
+    "entities": {
+        "annotations": [
+            {
+                "start": 72,
+                "end": 73,
+                "probability": 0.9499,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/h04yAvR4NM",
+                "expanded_url": "https://twitter.com/AndyNetherwood/status/1276181824499322880/photo/1",
+                "display_url": "pic.twitter.com/h04yAvR4NM"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

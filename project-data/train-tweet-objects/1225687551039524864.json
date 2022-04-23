@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-02-07 07:47:38+00:00",
+    "id": 1225687551039524864,
+    "text": "Does the new #coronavirus affect older people, or are younger people also susceptible? https://t.co/qHKNxye6rB",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 25,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 110,
+                "url": "https://t.co/qHKNxye6rB",
+                "expanded_url": "https://twitter.com/WHOUganda/status/1225687551039524864/photo/1",
+                "display_url": "pic.twitter.com/qHKNxye6rB"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2599562040
+}

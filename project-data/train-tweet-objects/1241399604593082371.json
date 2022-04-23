@@ -1,0 +1,46 @@
+{
+    "created_at": "2020-03-21 16:21:44+00:00",
+    "id": 1241399604593082371,
+    "text": "If #COVID19 is suspected or confirmed, health workers should take appropriate precautions to reduce risks of infection to themselves and others, including appropriate use of protective clothing @V2019N @MoHFW_INDIA @WHO (2/4) #parentingQ #CoronaVirus",
+    "entities": {
+        "mentions": [
+            {
+                "start": 194,
+                "end": 201,
+                "username": "V2019N",
+                "id": "1218324988966531072"
+            },
+            {
+                "start": 202,
+                "end": 214,
+                "username": "MoHFW_INDIA",
+                "id": "2596143056"
+            },
+            {
+                "start": 215,
+                "end": 219,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 3,
+                "end": 11,
+                "tag": "COVID19"
+            },
+            {
+                "start": 226,
+                "end": 237,
+                "tag": "parentingQ"
+            },
+            {
+                "start": 238,
+                "end": 250,
+                "tag": "CoronaVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1197205231177588736
+}

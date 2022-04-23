@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-01-09 16:26:54+00:00",
+    "id": 553588737750605825,
+    "text": "@Callum_SR @AFP and Charlie Hebdo's gunmen are dead!!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 32,
+                "probability": 0.979,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Callum_SR",
+                "id": "152396951"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "AFP",
+                "id": "380648579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 152396951
+}

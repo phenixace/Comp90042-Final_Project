@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 11:53:39+00:00",
+    "id": 649915142361227264,
+    "text": "@CNN Simply stop talking about her",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 759251
+}

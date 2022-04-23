@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-10 00:18:15+00:00",
+    "id": 509496035795025920,
+    "text": "@GIBiz @eb42 LOL. Just LOL. Why buy a company when the only thing worth is a product brand?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "GIBiz",
+                "id": "46146200"
+            },
+            {
+                "start": 7,
+                "end": 12,
+                "username": "eb42",
+                "id": "15450994"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 46146200
+}

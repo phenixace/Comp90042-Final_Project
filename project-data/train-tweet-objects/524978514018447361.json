@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 17:40:06+00:00",
+    "id": 524978514018447361,
+    "text": "@CNN Doesnt he have a name??? can we believe this?try harder next time you set up an attack to terrorise people into war/lockdowns",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

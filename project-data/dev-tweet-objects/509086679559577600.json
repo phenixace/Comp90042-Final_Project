@@ -1,0 +1,46 @@
+{
+    "created_at": "2014-09-08 21:11:37+00:00",
+    "id": 509086679559577600,
+    "text": "@jensan1332 @wgbradbury Watch out..Mohamed Elibiary just left his job at Homeland Security 2 return 2 Texas~is this the reason?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 50,
+                "probability": 0.9938,
+                "type": "Person",
+                "normalized_text": "Mohamed Elibiary"
+            },
+            {
+                "start": 73,
+                "end": 89,
+                "probability": 0.7746,
+                "type": "Organization",
+                "normalized_text": "Homeland Security"
+            },
+            {
+                "start": 102,
+                "end": 106,
+                "probability": 0.8457,
+                "type": "Place",
+                "normalized_text": "Texas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "wgbradbury",
+                "id": "22173790"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 342737639
+}

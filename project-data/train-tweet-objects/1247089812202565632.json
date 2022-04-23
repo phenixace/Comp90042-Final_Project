@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-06 09:12:35+00:00",
+    "id": 1247089812202565632,
+    "text": "@tim_weber @ruskin147 Yes, possibly there have...\n\nIn terms of a bigger picture, why increase the capacity of a wireless network?\n\nFor the layman?\n\nAre you not interested as to why they spring up and become popular, these theories?\n\nJust saying people are lazy or stupid does not cut it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "tim_weber",
+                "id": "19187671"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "ruskin147",
+                "id": "1294741"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 19187671
+}

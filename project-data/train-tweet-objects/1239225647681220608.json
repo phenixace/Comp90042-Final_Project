@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-15 16:23:12+00:00",
+    "id": 1239225647681220608,
+    "text": "Feldshau says the state of emergency is not for where we are now, but as a precaution to avoid losing control in the future.\n\n\"If we ever lose control, we're going to have a serious problem.\"",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 7,
+                "probability": 0.4063,
+                "type": "Person",
+                "normalized_text": "Feldshau"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1909381968
+}

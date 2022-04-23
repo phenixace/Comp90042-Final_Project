@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-11-04 00:52:17+00:00",
+    "id": 529435932769148928,
+    "text": "@HuntsmanAbby @NBCNews Should we ask, what happened to Thumper?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 61,
+                "probability": 0.6219,
+                "type": "Person",
+                "normalized_text": "Thumper"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "HuntsmanAbby",
+                "id": "531627880"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": 531627880
+}

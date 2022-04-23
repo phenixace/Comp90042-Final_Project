@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-23 00:30:31+00:00",
+    "id": 525081798741467136,
+    "text": "@FaithGoldy @CatWhispurrer @AP There are monsters on our midst. Now that its confirmed lets see what we're willing to do about it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "FaithGoldy",
+                "id": "83748727"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "CatWhispurrer",
+                "id": "36097869"
+            },
+            {
+                "start": 27,
+                "end": 30,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 83748727
+}

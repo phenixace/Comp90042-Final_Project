@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-13 03:17:16+00:00",
+    "id": 521499887398322177,
+    "text": "@AmyMek This is a misleading title. Movie is apolitical &amp; doesn't take any sides.She only talks about how her character is written.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 954124423
+}

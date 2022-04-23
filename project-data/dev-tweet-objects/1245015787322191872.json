@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-31 15:51:09+00:00",
+    "id": 1245015787322191872,
+    "text": "If we stick to guidelines, we can overcome. We need to chart our own history. Let\u2019s take lessons from other countries #COVID19 https://t.co/wbPH5zvW4w",
+    "entities": {
+        "urls": [
+            {
+                "start": 127,
+                "end": 150,
+                "url": "https://t.co/wbPH5zvW4w",
+                "expanded_url": "https://twitter.com/DrZweliMkhize/status/1245015787322191872/photo/1",
+                "display_url": "pic.twitter.com/wbPH5zvW4w"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 118,
+                "end": 126,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

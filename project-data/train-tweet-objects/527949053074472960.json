@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-30 22:23:57+00:00",
+    "id": 527949053074472960,
+    "text": "@TheAmitie @andymoney69 that movie already came out",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheAmitie",
+                "id": "65756042"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "andymoney69",
+                "id": "23612917"
+            }
+        ]
+    },
+    "source": "Tweetbot for Mac",
+    "in_reply_to_user_id": 65756042
+}

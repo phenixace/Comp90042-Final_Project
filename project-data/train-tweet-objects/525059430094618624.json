@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-22 23:01:37+00:00",
+    "id": 525059430094618624,
+    "text": "@CBCNews Where is Canada? How did we get to this place and where are going to go from here?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "probability": 0.9779,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 6433472
+}

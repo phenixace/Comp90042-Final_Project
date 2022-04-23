@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-11-24 21:44:44+00:00",
+    "id": 669270450795515905,
+    "text": "@HistoricalPics No it didn't. That cover appeared in 2014 and was a special issue for non-subscribers.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1598644159
+}

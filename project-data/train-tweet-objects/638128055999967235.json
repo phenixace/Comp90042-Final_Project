@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-08-30 23:15:59+00:00",
+    "id": 638128055999967235,
+    "text": "@TheValleyReport @blawson011",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "blawson011",
+                "id": "427566097"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3369234799
+}

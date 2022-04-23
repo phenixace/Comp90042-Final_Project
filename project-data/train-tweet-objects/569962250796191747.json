@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-02-23 20:49:24+00:00",
+    "id": 569962250796191747,
+    "text": "@JamieDornan_org @JamieDornan @FiftyShades don't listen to the media, listen to the fans, great casting, acting brilliant film! Thanks Tara",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "JamieDornan",
+                "id": "875120313020895234"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "username": "FiftyShades",
+                "id": "634706405"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 135,
+                "end": 138,
+                "probability": 0.9255,
+                "type": "Person",
+                "normalized_text": "Tara"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 279575920
+}

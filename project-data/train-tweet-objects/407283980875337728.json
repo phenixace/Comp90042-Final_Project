@@ -1,0 +1,23 @@
+{
+    "created_at": "2013-12-01 23:04:02+00:00",
+    "id": 407283980875337728,
+    "text": "@MTVNews @MTV",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "MTV",
+                "id": "2367911"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 40076725
+}

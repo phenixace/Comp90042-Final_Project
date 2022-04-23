@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-19 20:58:02+00:00",
+    "id": 1251978384453906432,
+    "text": "@THEshabbs @MrMontagoose Yes, they do, though it is incomplete and provisional, as it can take months for all of the death certificate data to the CDC from the states. Here is chart of weekly pneumonia deaths  through April 4. Pneumonia deaths are spiking, as one would expect. https://t.co/FEGSTiOhSX",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "THEshabbs",
+                "id": "280012239"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "MrMontagoose",
+                "id": "118856965"
+            }
+        ],
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/FEGSTiOhSX",
+                "expanded_url": "https://twitter.com/_KJKelly/status/1251978384453906432/photo/1",
+                "display_url": "pic.twitter.com/FEGSTiOhSX"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 280012239
+}

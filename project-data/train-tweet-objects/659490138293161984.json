@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-10-28 22:01:16+00:00",
+    "id": 659490138293161984,
+    "text": "@FiNeSSeHaVeN @Gla_mour  Eiii, Anti-KFC media paaa... Not in Ghana I guess",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "Gla_mour",
+                "id": "473795793"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2304239234
+}

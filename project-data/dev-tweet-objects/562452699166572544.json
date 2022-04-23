@@ -1,0 +1,54 @@
+{
+    "created_at": "2015-02-03 03:29:08+00:00",
+    "id": 562452699166572544,
+    "text": "\u201c@peddoc63: Islamic Tribunal in Texas operating under Sharia Law\u2668\ufe0fWTF is this\ud83d\ude21@LodiSilverado @AmyMek #tcot http://t.co/XmC7OiSlA2",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 101,
+                "end": 106,
+                "tag": "tcot"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.9958,
+                "type": "Place",
+                "normalized_text": "Texas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 78,
+                "end": 92,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 93,
+                "end": 100,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/XmC7OiSlA2",
+                "expanded_url": "http://www.breitbart.com/texas/2015/01/27/hold-islamic-tribunal-confirmed-in-texas-its-voluntary-says-attorney/",
+                "display_url": "breitbart.com/texas/2015/01/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1379288282
+}

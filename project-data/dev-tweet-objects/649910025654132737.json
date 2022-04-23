@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-10-02 11:33:19+00:00",
+    "id": 649910025654132737,
+    "text": "@CNN With that meeting, the Pope sadly undid a great deal of what his visit was.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 31,
+                "probability": 0.5165,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

@@ -1,0 +1,53 @@
+{
+    "created_at": "2020-03-17 22:52:40+00:00",
+    "id": 1240048433106305025,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n11) TRANSLATION: ESSAY BY MISSING PROPERTY TYCOON REN ZHIQIANG\n\nMar 13, 2020\n\n\"THE CANNON\" \ud83e\udd4a\ud83c\udde8\ud83c\uddf3\ud83e\udd4a\nhttps://t.co/izCQJ1EELb https://t.co/R5QQnWQ7Mg",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/izCQJ1EELb",
+                "expanded_url": "https://chinadigitaltimes.net/2020/03/translation-essay-by-missing-property-tycoon-ren-zhiqiang/",
+                "display_url": "chinadigitaltimes.net/2020/03/transl\u2026"
+            },
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/R5QQnWQ7Mg",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240048433106305025/photo/1",
+                "display_url": "pic.twitter.com/R5QQnWQ7Mg"
+            },
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/R5QQnWQ7Mg",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240048433106305025/photo/1",
+                "display_url": "pic.twitter.com/R5QQnWQ7Mg"
+            },
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/R5QQnWQ7Mg",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240048433106305025/photo/1",
+                "display_url": "pic.twitter.com/R5QQnWQ7Mg"
+            },
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/R5QQnWQ7Mg",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240048433106305025/photo/1",
+                "display_url": "pic.twitter.com/R5QQnWQ7Mg"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

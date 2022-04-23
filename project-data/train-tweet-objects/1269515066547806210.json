@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-06-07 06:22:32+00:00",
+    "id": 1269515066547806210,
+    "text": "@Prof_Marciniak There are two studies showing that more than 10% of covid19 patients developed QT prolongations&gt;50ms even under the regular dosing regimen. \n\nhttps://t.co/Bj5wILxzKk\nhttps://t.co/7hHZP6kNY8",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Prof_Marciniak",
+                "id": "931571402"
+            }
+        ],
+        "urls": [
+            {
+                "start": 161,
+                "end": 184,
+                "url": "https://t.co/Bj5wILxzKk",
+                "expanded_url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2765631",
+                "display_url": "jamanetwork.com/journals/jamac\u2026"
+            },
+            {
+                "start": 185,
+                "end": 208,
+                "url": "https://t.co/7hHZP6kNY8",
+                "expanded_url": "https://twitter.com/88549439/status/1251228083270664193?s=20",
+                "display_url": "twitter.com/88549439/statu\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 931571402
+}

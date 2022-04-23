@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-05 22:12:37+00:00",
+    "id": 552226187611615232,
+    "text": "@KarenCivil @Spacekatgal What the hell is pro era? I'm sure it's good, but what is it?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KarenCivil",
+                "id": "16490974"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "spacekatgal",
+                "id": "1065017465888038912"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 16490974
+}

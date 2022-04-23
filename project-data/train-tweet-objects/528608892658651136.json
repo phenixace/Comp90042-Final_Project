@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-01 18:05:55+00:00",
+    "id": 528608892658651136,
+    "text": "@Discovery aww that was just his Halloween costume ;)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 41,
+                "probability": 0.8735,
+                "type": "Other",
+                "normalized_text": "Halloween"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Discovery",
+                "id": "17842366"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 17842366
+}

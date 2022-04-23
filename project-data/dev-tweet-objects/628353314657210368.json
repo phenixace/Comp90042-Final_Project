@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-08-03 23:54:39+00:00",
+    "id": 628353314657210368,
+    "text": "\u201c@firstwefeast: Whole Foods tests limits of yuppie diet fads with new $6 asparagus water - http://t.co/Z9gUYmVYWM http://t.co/06jwku6EiA\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/Z9gUYmVYWM",
+                "expanded_url": "http://fwfea.st/Qgj0",
+                "display_url": "fwfea.st/Qgj0",
+                "status": 200,
+                "unwound_url": "https://firstwefeast.com/eat/whole-foods-6-dollar-asparagus-water-tests-the-limits-of-yuppie-diet-fads/"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/06jwku6EiA",
+                "expanded_url": "https://twitter.com/firstwefeast/status/628336948810268673/photo/1",
+                "display_url": "pic.twitter.com/06jwku6EiA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "firstwefeast",
+                "id": "770352762"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 770352762
+}

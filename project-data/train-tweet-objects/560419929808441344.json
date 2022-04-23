@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-01-28 12:51:38+00:00",
+    "id": 560419929808441344,
+    "text": "@act4america @peddoc63 @BreitbartNews It happens in the UK too and our governments allow it. DISGUSTING.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 57,
+                "probability": 0.9873,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

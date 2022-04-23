@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-20 22:25:56+00:00",
+    "id": 502220011319345152,
+    "text": "@zaidbenjamin and when the british person who done it is identified, wait and see what happens to his family in the UK",
+    "entities": {
+        "annotations": [
+            {
+                "start": 116,
+                "end": 117,
+                "probability": 0.9557,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

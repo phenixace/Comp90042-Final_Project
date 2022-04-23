@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09 22:16:56+00:00",
+    "id": 509465504604356608,
+    "text": "@Kotaku NOOOOOOOOOOOOOOOOO!!!!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Kotaku",
+                "id": "11928542"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 11928542
+}

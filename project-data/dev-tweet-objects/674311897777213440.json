@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-08 19:37:39+00:00",
+    "id": 674311897777213440,
+    "text": "@RollingStone @yankeebluenose8 - About same # of abortions performed in 1980 alone. Since 1980 there have been over 23 million babies killed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "yankeebluenose8",
+                "id": "357552802"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

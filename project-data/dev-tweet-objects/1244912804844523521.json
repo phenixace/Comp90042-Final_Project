@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 09:01:56+00:00",
+    "id": 1244912804844523521,
+    "text": "COVID-19 virus can be transmitted in areas with hot and humid climates https://t.co/DLX0uLoZWw",
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 94,
+                "url": "https://t.co/DLX0uLoZWw",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244912804844523521/photo/1",
+                "display_url": "pic.twitter.com/DLX0uLoZWw"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 715109606624768000
+}

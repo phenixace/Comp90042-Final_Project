@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-12 15:32:33+00:00",
+    "id": 554662223809757184,
+    "text": "@genesiaalves @BDUTT - good that he doesn't said \"bade Desh me aisi Gatane Hoti rehti he\" (our ex Home Minister said)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "genesiaalves",
+                "id": "127121446"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "BDUTT",
+                "id": "19929890"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 127121446
+}

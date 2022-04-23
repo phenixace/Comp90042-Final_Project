@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-13 23:25:06+00:00",
+    "id": 510932211055747072,
+    "text": "@FoxNews Can't you guys cool it with the number of commercials??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

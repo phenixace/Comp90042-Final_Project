@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-09-09 22:13:20+00:00",
+    "id": 509464597883916288,
+    "text": "RT @WSJ Breaking: Microsoft near deal to buy Minecraft maker Mojang &lt;Sony spending $500M on Destiny launch, Minecraft more durable franchise",
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 26,
+                "probability": 0.75,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 45,
+                "end": 72,
+                "probability": 0.2463,
+                "type": "Product",
+                "normalized_text": "Minecraft maker Mojang <Sony"
+            },
+            {
+                "start": 108,
+                "end": 116,
+                "probability": 0.6005,
+                "type": "Product",
+                "normalized_text": "Minecraft"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 7,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3108351
+}

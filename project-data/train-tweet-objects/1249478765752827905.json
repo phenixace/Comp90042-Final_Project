@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-12 23:25:26+00:00",
+    "id": 1249478765752827905,
+    "text": "@imwisertomorrow thanks for letting me know I\u2019ve been looking for symptoms and it seems like it\u2019s different for most people so it confuses me there is so many symptoms \ud83e\udd7a",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "imwisertomorrow",
+                "id": "1042518602283446272"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1042518602283446272
+}

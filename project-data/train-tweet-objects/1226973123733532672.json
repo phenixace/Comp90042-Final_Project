@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-10 20:56:03+00:00",
+    "id": 1226973123733532672,
+    "text": "@ChinaDaily I believe that heavily concentrated garlic might actually prove effective in killing the virus",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChinaDaily",
+                "id": "87775422"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 87775422
+}

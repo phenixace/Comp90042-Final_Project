@@ -1,0 +1,85 @@
+{
+    "created_at": "2020-01-22 13:56:15+00:00",
+    "id": 1219982106757148673,
+    "text": "@DrTedros @WHOWPRO @WHOSEARO @pahowho @WHOEMRO @WHO_Europe @WHOAFRO Q: How are people appointed to the expert advisory panel of the International Health Regulations Emergency Committee?\nA: https://t.co/1JuCwPTvoY\n\n#coronavirus https://t.co/EtAoH5iZI8",
+    "entities": {
+        "annotations": [
+            {
+                "start": 132,
+                "end": 183,
+                "probability": 0.8635,
+                "type": "Organization",
+                "normalized_text": "International Health Regulations Emergency Committee"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 214,
+                "end": 226,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "DrTedros",
+                "id": "189868631"
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 47,
+                "end": 58,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 59,
+                "end": 67,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ],
+        "urls": [
+            {
+                "start": 189,
+                "end": 212,
+                "url": "https://t.co/1JuCwPTvoY",
+                "expanded_url": "http://bit.ly/38wcV4w",
+                "display_url": "bit.ly/38wcV4w"
+            },
+            {
+                "start": 227,
+                "end": 250,
+                "url": "https://t.co/EtAoH5iZI8",
+                "expanded_url": "https://twitter.com/WHO/status/1219982106757148673/photo/1",
+                "display_url": "pic.twitter.com/EtAoH5iZI8"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-11-25 18:37:36+00:00",
+    "id": 669585744109961216,
+    "text": "@HistoricalPics we read it so you don't have to https://t.co/YRflqal6Qc https://t.co/pUvvRV0NYF",
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/YRflqal6Qc",
+                "expanded_url": "http://bit.ly/1SkrSZg",
+                "display_url": "bit.ly/1SkrSZg"
+            },
+            {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/pUvvRV0NYF",
+                "expanded_url": "https://twitter.com/historybuffcom/status/669585744109961216/photo/1",
+                "display_url": "pic.twitter.com/pUvvRV0NYF"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1598644159
+}

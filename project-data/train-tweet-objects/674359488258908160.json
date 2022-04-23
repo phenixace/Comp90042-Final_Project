@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-12-08 22:46:45+00:00",
+    "id": 674359488258908160,
+    "text": "@RollingStone it's not the gun that killed them. It was the idiot in control of it! Its not the pencil's fault you fail the test",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14780915
+}

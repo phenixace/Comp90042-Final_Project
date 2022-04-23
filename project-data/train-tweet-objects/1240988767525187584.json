@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-20 13:09:13+00:00",
+    "id": 1240988767525187584,
+    "text": "MYTH-05: ARE HAND DRYERS EFFECTIVE IN KILLING THE NEW CORONAVIRUS?\n\nNo. Hand dryers are not effective in killing the 2019-nCoV. #Covid_19 \n\n8/n",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 128,
+                "end": 137,
+                "tag": "Covid_19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4499388753
+}

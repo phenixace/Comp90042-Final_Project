@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-12-08 07:08:00+00:00",
+    "id": 674123242596990976,
+    "text": "@PereReader @BlissTabitha @HeyTammyBruce You forgot the Koch Bros. Eh, maybe you ran out of 140.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 56,
+                "end": 64,
+                "probability": 0.3497,
+                "type": "Organization",
+                "normalized_text": "Koch Bros"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PereReader",
+                "id": "2226209612"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "BlissTabitha",
+                "id": "999453985"
+            },
+            {
+                "start": 26,
+                "end": 40,
+                "username": "HeyTammyBruce",
+                "id": "22956220"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2226209612
+}

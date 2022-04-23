@@ -1,0 +1,29 @@
+{
+    "created_at": "2013-08-27 22:41:49+00:00",
+    "id": 372489152903643136,
+    "text": "Fukushima now in state of emergency, leaking 300 tons of radioactive water into the ocean daily\n\nLearn more: http://t.co/8vHcj53BwB",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 8,
+                "probability": 0.5922,
+                "type": "Place",
+                "normalized_text": "Fukushima"
+            }
+        ],
+        "urls": [
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/8vHcj53BwB",
+                "expanded_url": "http://www.naturalnews.com/041610_Fukushima_radioactive_leak_state_of_emergency.html?utm_content=buffer37864&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer#ixzz2dDD95rH3",
+                "display_url": "naturalnews.com/041610_Fukushi\u2026",
+                "status": 200,
+                "unwound_url": "https://www.naturalnews.com/041610_Fukushima_radioactive_leak_state_of_emergency.html?utm_content=buffer37864&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

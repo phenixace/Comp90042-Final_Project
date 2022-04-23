@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-10-28 22:59:06+00:00",
+    "id": 659504692356100096,
+    "text": "@FiNeSSeHaVeN @Jack_Elvington @kfc that's what they get for trying to mess with natural DNA",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FinesseHaveN",
+                "id": "4838383249"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "Jack_Elvington",
+                "id": "370395549"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2304239234
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-06-27 03:59:08+00:00",
+    "id": 614644104383864832,
+    "text": "@lisagray220 @NickKristof @jacquereid .http://t.co/Cb299XfOit",
+    "entities": {
+        "urls": [
+            {
+                "start": 39,
+                "end": 61,
+                "url": "http://t.co/Cb299XfOit",
+                "expanded_url": "http://www.evilbible.com/Slavery.htm",
+                "display_url": "evilbible.com/Slavery.htm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "lisagray220",
+                "id": "1608703189"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 26,
+                "end": 37,
+                "username": "jacquereid",
+                "id": "22416023"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1608703189
+}

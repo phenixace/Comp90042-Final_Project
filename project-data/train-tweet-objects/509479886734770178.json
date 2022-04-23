@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-09-09 23:14:05+00:00",
+    "id": 509479886734770178,
+    "text": "Ick. This doesn't bode well. RT @Kotaku Report: Microsoft trying to buy Mojang, creators of Minecraft http://t.co/jZxgAmnOE7",
+    "entities": {
+        "mentions": [
+            {
+                "start": 32,
+                "end": 39,
+                "username": "Kotaku",
+                "id": "11928542"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/jZxgAmnOE7",
+                "expanded_url": "http://bit.ly/1xFlg1l",
+                "display_url": "bit.ly/1xFlg1l"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 56,
+                "probability": 0.8163,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 72,
+                "end": 77,
+                "probability": 0.4046,
+                "type": "Product",
+                "normalized_text": "Mojang"
+            },
+            {
+                "start": 92,
+                "end": 100,
+                "probability": 0.7591,
+                "type": "Product",
+                "normalized_text": "Minecraft"
+            }
+        ]
+    },
+    "source": "Janetter",
+    "in_reply_to_user_id": 11928542
+}

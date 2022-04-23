@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 01:48:36+00:00",
+    "id": 387031673784659969,
+    "text": ".@th3j35t3r This https://t.co/mlwzqXBApY",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "th3j35t3r",
+                "id": "97994396"
+            }
+        ],
+        "urls": [
+            {
+                "start": 17,
+                "end": 40,
+                "url": "https://t.co/mlwzqXBApY",
+                "expanded_url": "https://www.youtube.com/watch?v=JkhX5W7JoWI",
+                "display_url": "youtube.com/watch?v=JkhX5W\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 97994396
+}

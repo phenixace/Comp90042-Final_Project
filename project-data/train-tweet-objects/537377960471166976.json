@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-11-25 22:51:04+00:00",
+    "id": 537377960471166976,
+    "text": "Y'all, I just read that ABC paid Darren Wilson $500K for the interview. Destroying black life remains a lucrative American career. #Ferguson",
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 26,
+                "probability": 0.8875,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            },
+            {
+                "start": 33,
+                "end": 45,
+                "probability": 0.9955,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 131,
+                "end": 140,
+                "tag": "Ferguson"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

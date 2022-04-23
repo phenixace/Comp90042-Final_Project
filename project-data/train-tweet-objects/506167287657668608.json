@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-31 19:51:00+00:00",
+    "id": 506167287657668608,
+    "text": "@SportsBizNews @antichambre  I think the talent is there loads in the minors that are ready for the big league. Money will decide though!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "Antichambre",
+                "id": "50759529"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 29849267
+}

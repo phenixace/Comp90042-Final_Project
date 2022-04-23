@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-04 22:46:36+00:00",
+    "id": 672909898011844608,
+    "text": "@Marose111 @ABC CAIR",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Marose111",
+                "id": "168629447"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 168629447
+}

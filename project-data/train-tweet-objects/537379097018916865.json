@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-25 22:55:35+00:00",
+    "id": 537379097018916865,
+    "text": "@deray between that and donations he's a fucking millionaire..... And Conservatives don't understand why there's anger",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 29417304
+}

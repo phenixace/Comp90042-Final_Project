@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-01-27 04:43:05+00:00",
+    "id": 427663027291185153,
+    "text": "@YahooNews Wonder what they will do with his ashes!! #Marlboroman",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "YahooNews",
+                "id": "7309052"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 53,
+                "end": 65,
+                "tag": "Marlboroman"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 7309052
+}

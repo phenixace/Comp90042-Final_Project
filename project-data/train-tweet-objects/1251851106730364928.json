@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 12:32:16+00:00",
+    "id": 1251851106730364928,
+    "text": "@DrZweliMkhize Minister pls tell us.. Are there any deaths that were reported of ppl who died without a testing...\ud83d\ude4f\ud83d\ude4f https://t.co/1y6V4J5biE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/1y6V4J5biE",
+                "expanded_url": "https://twitter.com/BongieMenziwa/status/1251851106730364928/photo/1",
+                "display_url": "pic.twitter.com/1y6V4J5biE"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844486678324658176
+}

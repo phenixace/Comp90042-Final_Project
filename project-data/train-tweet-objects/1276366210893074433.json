@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-06-26 04:06:33+00:00",
+    "id": 1276366210893074433,
+    "text": "@IchbinUjjaini I think it\u2019s called Distraction by Galwan \n\nAKA sacrificing lives of our Armed Forces to China",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IchbinUjjaini",
+                "id": "1596491418"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 55,
+                "probability": 0.5748,
+                "type": "Person",
+                "normalized_text": "Galwan"
+            },
+            {
+                "start": 104,
+                "end": 108,
+                "probability": 0.9743,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1596491418
+}

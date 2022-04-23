@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-28 03:27:03+00:00",
+    "id": 560277849211301888,
+    "text": "@act4america @BreitbartNews Note to Muzzies. Don't like OUR Court system? Leave our country. No one asked you to come here to begin with.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

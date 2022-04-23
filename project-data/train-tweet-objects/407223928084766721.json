@@ -1,0 +1,27 @@
+{
+    "created_at": "2013-12-01 19:05:24+00:00",
+    "id": 407223928084766721,
+    "text": "Paul Walker's Death: 'Fast &amp; Furious 7' Delayed But Won't Be Scrapped http://t.co/ThonVHWhke",
+    "entities": {
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/ThonVHWhke",
+                "expanded_url": "http://j.mp/1hrhZtA",
+                "display_url": "j.mp/1hrhZtA"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "probability": 0.9833,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "in_reply_to_user_id": null
+}

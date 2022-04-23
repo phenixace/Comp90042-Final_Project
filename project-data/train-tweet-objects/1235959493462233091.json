@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-06 16:04:40+00:00",
+    "id": 1235959493462233091,
+    "text": "Goin to a @bbnomula concert tn in the city, what can I do to protect myself from coronavirus?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 10,
+                "end": 19,
+                "username": "bbnomula",
+                "id": "3412281493"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

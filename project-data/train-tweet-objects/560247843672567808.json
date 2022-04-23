@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-28 01:27:49+00:00",
+    "id": 560247843672567808,
+    "text": "@act4america @FrontRowSeat42 @BreitbartNews A lot of countries have these type of agreement &amp; understanding - area inc deforce, contracts",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

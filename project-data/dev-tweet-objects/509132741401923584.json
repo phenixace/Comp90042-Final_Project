@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-09-09 00:14:39+00:00",
+    "id": 509132741401923584,
+    "text": "\u201c@eonline: Sorry, everyone\u2014Durex is NOT making Pumpkin Spice condoms this fall\" but #Starbucks already put out their #PumpkinSpiceLatte",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 84,
+                "end": 94,
+                "tag": "Starbucks"
+            },
+            {
+                "start": 117,
+                "end": 135,
+                "tag": "PumpkinSpiceLatte"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.6939,
+                "type": "Product",
+                "normalized_text": "Pumpkin Spice"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2883841
+}

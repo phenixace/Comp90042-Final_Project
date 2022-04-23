@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-09-13 23:55:38+00:00",
+    "id": 510939894244704256,
+    "text": "@FoxNews I wouldn't be surprised if UK runs point to take these #KillislamoFascists out #tipOfTheSpear",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 37,
+                "probability": 0.9003,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 83,
+                "tag": "KillislamoFascists"
+            },
+            {
+                "start": 88,
+                "end": 102,
+                "tag": "tipOfTheSpear"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1367531
+}

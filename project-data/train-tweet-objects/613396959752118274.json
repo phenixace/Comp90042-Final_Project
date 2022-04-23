@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-23 17:23:26+00:00",
+    "id": 613396959752118274,
+    "text": "@ABC7 Don't they always do this? It's to get him to cooperate and confess.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "ABC7",
+                "id": "16374678"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16374678
+}

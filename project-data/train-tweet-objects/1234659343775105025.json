@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-03 01:58:21+00:00",
+    "id": 1234659343775105025,
+    "text": "@XraypadOfficial Guys I need to contact you guys please. I have a problem with a order",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "XraypadOfficial",
+                "id": "888684012"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 888684012
+}

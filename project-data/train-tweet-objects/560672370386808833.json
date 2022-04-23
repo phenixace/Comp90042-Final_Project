@@ -1,0 +1,60 @@
+{
+    "created_at": "2015-01-29 05:34:44+00:00",
+    "id": 560672370386808833,
+    "text": ".Way Groovy Jeff. @Squarespace @TheJeffBridges #SleepingTapes. http://t.co/vumI0XUihW. #Om\nhttps://t.co/jb6wsFE69q",
+    "entities": {
+        "mentions": [
+            {
+                "start": 18,
+                "end": 30,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 61,
+                "tag": "SleepingTapes"
+            },
+            {
+                "start": 87,
+                "end": 90,
+                "tag": "Om"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 15,
+                "probability": 0.645,
+                "type": "Person",
+                "normalized_text": "Groovy Jeff"
+            }
+        ],
+        "urls": [
+            {
+                "start": 63,
+                "end": 85,
+                "url": "http://t.co/vumI0XUihW",
+                "expanded_url": "http://DreamingWithJeff.com",
+                "display_url": "DreamingWithJeff.com"
+            },
+            {
+                "start": 91,
+                "end": 114,
+                "url": "https://t.co/jb6wsFE69q",
+                "expanded_url": "https://amp.twimg.com/v/c8e8c4ee-62b9-4ecd-89ed-5111997ff071",
+                "display_url": "amp.twimg.com/v/c8e8c4ee-62b\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14319981
+}

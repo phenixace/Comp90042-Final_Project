@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-30 22:20:43+00:00",
+    "id": 527948236364185601,
+    "text": "@IGN Didnt we just get a Jobs biopic?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 18927441
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-17 20:34:12+00:00",
+    "id": 1251247611702652928,
+    "text": "@justinamash How about just an emphasis on individual responsibility again?  It\u2019s ok to educate on wearing gloves and masks and staying inside without enforcing it as law.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "justinamash",
+                "id": "233842454"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 233842454
+}

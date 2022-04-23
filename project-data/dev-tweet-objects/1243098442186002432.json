@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-26 08:52:18+00:00",
+    "id": 1243098442186002432,
+    "text": "WHO #COVID19 advice for the public: Myth-Busters.\n\n1. #COVID19 virus can be transmitted in areas with hot and humid climates https://t.co/t4nqY7bOZM",
+    "entities": {
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/t4nqY7bOZM",
+                "expanded_url": "https://twitter.com/eteobong_edem/status/1243098442186002432/photo/1",
+                "display_url": "pic.twitter.com/t4nqY7bOZM"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 12,
+                "tag": "COVID19"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": null
+}

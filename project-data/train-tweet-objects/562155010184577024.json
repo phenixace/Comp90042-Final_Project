@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-02-02 07:46:13+00:00",
+    "id": 562155010184577024,
+    "text": "@Squarespace @TheJeffBridges @Willysmith96 @xgasbus this is the trippiest shit in the world.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "squarespace",
+                "id": "14319981"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "TheJeffBridges",
+                "id": "304089779"
+            },
+            {
+                "start": 29,
+                "end": 42,
+                "username": "Willysmith96",
+                "id": "388676790"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14319981
+}

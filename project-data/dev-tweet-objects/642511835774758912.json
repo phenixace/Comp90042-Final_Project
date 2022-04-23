@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-09-12 01:35:33+00:00",
+    "id": 642511835774758912,
+    "text": "@Lrihendry @MileHiLady52 liberal progressives only demand #SeparationOfChurchAndState  if it involves Christianity or Christmas decorations",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 85,
+                "tag": "SeparationOfChurchAndState"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 118,
+                "end": 126,
+                "probability": 0.9779,
+                "type": "Other",
+                "normalized_text": "Christmas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Lrihendry",
+                "id": "1348043689763905536"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 129235890
+}

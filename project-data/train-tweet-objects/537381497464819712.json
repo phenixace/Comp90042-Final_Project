@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-25 23:05:07+00:00",
+    "id": 537381497464819712,
+    "text": "@deray we need to boycott @abc",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Echofon",
+    "in_reply_to_user_id": 29417304
+}

@@ -1,0 +1,55 @@
+{
+    "created_at": "2015-12-09 04:27:35+00:00",
+    "id": 674445262962581506,
+    "text": "@RollingStone Stop. And Imagine #JohnLennon https://t.co/7k2N0q3bxv via @amplifiedloudly",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RollingStone",
+                "id": "14780915"
+            },
+            {
+                "start": 72,
+                "end": 88,
+                "username": "amplifiedloudly",
+                "id": "509180134"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 32,
+                "end": 43,
+                "tag": "JohnLennon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 44,
+                "end": 67,
+                "url": "https://t.co/7k2N0q3bxv",
+                "expanded_url": "https://youtu.be/_YkWW4xhkXQ",
+                "display_url": "youtu.be/_YkWW4xhkXQ",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468753959200378889/XHpGhcYl?format=jpg&name=orig",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1468753959200378889/XHpGhcYl?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "John Lennon December 8, 1980",
+                "description": "Dear white people, while you remember the late John Lennon, your emotions stirred and choked reflecting on the profound tragedy of his death; please remember...",
+                "unwound_url": "https://www.youtube.com/watch?v=_YkWW4xhkXQ&feature=youtu.be"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14780915
+}

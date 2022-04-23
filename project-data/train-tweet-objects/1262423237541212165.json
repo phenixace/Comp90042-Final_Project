@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-05-18 16:42:09+00:00",
+    "id": 1262423237541212165,
+    "text": "@Covfefe2020Eas @clevelanddotcom You need to also consider that may are not tested due to widespread test shortage and the ~80% accuracy of the results. The M.E. is the one that lists cause of death on the death cert. and they are about 8 weeks behind. The numbers are certainly much higher than can be reported.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 32,
+                "username": "clevelanddotcom",
+                "id": "14267944"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 37983040
+}

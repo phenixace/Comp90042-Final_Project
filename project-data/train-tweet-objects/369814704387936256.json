@@ -1,0 +1,32 @@
+{
+    "created_at": "2013-08-20 13:34:31+00:00",
+    "id": 369814704387936256,
+    "text": "@MikkoAlanne @junkyardmessiah .@ Wasn't that a Debbie Boone song? \"You light Up My Life?\" R there no international controls?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 58,
+                "probability": 0.9328,
+                "type": "Person",
+                "normalized_text": "Debbie Boone"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MikkoAlanne",
+                "id": "437874669"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "junkyardmessiah",
+                "id": "7385452"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 437874669
+}

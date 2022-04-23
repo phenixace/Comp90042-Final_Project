@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-30 14:51:42+00:00",
+    "id": 1255872460609781760,
+    "text": "@PenniesOf This point is why I explicitly mentioned \u201cinflated\u201d deaths.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "PenniesOf",
+                "id": "1193948633487626240"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1193948633487626240
+}

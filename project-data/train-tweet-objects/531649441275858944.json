@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-10 03:27:59+00:00",
+    "id": 531649441275858944,
+    "text": "\u201c@Boogie2988: making my own doritos flavored mountain dew! https://t.co/L7ZO5a8pJw\u201d eu daqui uns dias",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ],
+        "urls": [
+            {
+                "start": 59,
+                "end": 82,
+                "url": "https://t.co/L7ZO5a8pJw",
+                "expanded_url": "https://vine.co/v/OiKpdBK52nV",
+                "display_url": "vine.co/v/OiKpdBK52nV"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 42345999
+}

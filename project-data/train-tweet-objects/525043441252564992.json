@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22 21:58:05+00:00",
+    "id": 525043441252564992,
+    "text": "@AdmiralHackbar @SebBovetSRC @CBCNews Arme fonctionelle mais les militaires n`ont pas de balles en leur possession.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "SebBovetSRC",
+                "id": "203207356"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 258068164
+}

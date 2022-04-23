@@ -1,0 +1,18 @@
+{
+    "created_at": "2014-11-10 15:41:18+00:00",
+    "id": 531833986490707968,
+    "text": "@Eleven_1022 lmao. God was like \"I see you got braces Aide, here my child.\" But I don't know how I feel about this... lol",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.9094,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 78141396
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-08 15:13:58+00:00",
+    "id": 1236671509395013633,
+    "text": "@Dali_Yang I\u2019m curious about this traditional herbal remedies which mean chinese or medieval Europe?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Dali_Yang",
+                "id": "54131391"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 93,
+                "end": 98,
+                "probability": 0.9064,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 54131391
+}

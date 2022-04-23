@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-21 16:32:34+00:00",
+    "id": 1252636356280532997,
+    "text": "but \"they were simply sick in the first place\"... i have lost faith in humanity https://t.co/nmKiZABjoY",
+    "entities": {
+        "urls": [
+            {
+                "start": 80,
+                "end": 103,
+                "url": "https://t.co/nmKiZABjoY",
+                "expanded_url": "https://twitter.com/VILSHOPEWORLD/status/1252636356280532997/photo/1",
+                "display_url": "pic.twitter.com/nmKiZABjoY"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 794307385594613760
+}

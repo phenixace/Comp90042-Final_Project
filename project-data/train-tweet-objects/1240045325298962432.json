@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-03-17 22:40:19+00:00",
+    "id": 1240045325298962432,
+    "text": "#NewCrownVirus \ud83d\udc51\n\n7) JOE BIDEN aka Joe China \ud83c\udde8\ud83c\uddf3 https://t.co/d9j3zmeF6W",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/d9j3zmeF6W",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240045325298962432/photo/1",
+                "display_url": "pic.twitter.com/d9j3zmeF6W"
+            },
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/d9j3zmeF6W",
+                "expanded_url": "https://twitter.com/jj_talking/status/1240045325298962432/photo/1",
+                "display_url": "pic.twitter.com/d9j3zmeF6W"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

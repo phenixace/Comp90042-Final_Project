@@ -1,0 +1,20 @@
+{
+    "created_at": "2020-03-18 03:57:22+00:00",
+    "id": 1240125114739499015,
+    "text": "The most effective way to protect yourself against the new coronavirus is by frequently cleaning your hands with alcohol-based hand rub or washing them with soap and water. \n\nMore info WHO: https://t.co/1LEObMKVHR",
+    "entities": {
+        "urls": [
+            {
+                "start": 190,
+                "end": 213,
+                "url": "https://t.co/1LEObMKVHR",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?fbclid=IwAR0BxjQz4W5om-38Yf7w84fOfB7nPnuVnURmQ6QQ4XTSa6T31kGc0qJixs8",
+                "display_url": "who.int/emergencies/di\u2026",
+                "status": 200,
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?fbclid=IwAR0BxjQz4W5om-38Yf7w84fOfB7nPnuVnURmQ6QQ4XTSa6T31kGc0qJixs8"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 575231861
+}

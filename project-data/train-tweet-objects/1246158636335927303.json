@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-03 19:32:26+00:00",
+    "id": 1246158636335927303,
+    "text": "@SydQuam @icantnottweet Why do we need it? Willing to finance it? We have better opportunties because we embrace upward social mobility for the successful, while other places.....not so much.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "SydQuam",
+                "id": "1069768989209899013"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "icantnottweet",
+                "id": "122407385"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1069768989209899013
+}

@@ -1,0 +1,57 @@
+{
+    "created_at": "2020-03-18 19:40:37+00:00",
+    "id": 1240362490455683072,
+    "text": "22) #NewCrownVirus \ud83d\udc51\n\nJan 15, 2020 Trump signs 'phase one' of China trade deal\n\ud83d\udcc8\ud83d\udcc9\ud83d\udcb0\n\nXi Jinping knew about Covid-19 \ud83e\udda0 January 7 2020 \ud83d\ude37\nhttps://t.co/zvnFRE27K7",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.9894,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 63,
+                "end": 67,
+                "probability": 0.9632,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 134,
+                "end": 157,
+                "url": "https://t.co/zvnFRE27K7",
+                "expanded_url": "https://www.youtube.com/watch?v=bgQDgI3yRz0",
+                "display_url": "youtube.com/watch?v=bgQDgI\u2026",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1462568638486044674/9vnCaYnE?format=jpg&name=orig",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1462568638486044674/9vnCaYnE?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Trump signs 'phase one' of China trade deal",
+                "description": "President participates in a signing ceremony of an agreement between the United States and China. The pact, detailed in a 94-page document, is only the initi...",
+                "unwound_url": "https://www.youtube.com/watch?v=bgQDgI3yRz0"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

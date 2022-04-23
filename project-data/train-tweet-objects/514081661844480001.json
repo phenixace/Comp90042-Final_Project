@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-09-22 15:59:54+00:00",
+    "id": 514081661844480001,
+    "text": "#TotalRecall2014 RT @ComplexMag A Florida woman had surgery to give herself a third boob: http://t.co/JdasZyFHbo  http://t.co/ewEXM2M7Qx",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 40,
+                "probability": 0.8899,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 16,
+                "tag": "TotalRecall2014"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 31,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/JdasZyFHbo",
+                "expanded_url": "http://trib.al/fpdTvki",
+                "display_url": "trib.al/fpdTvki"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/ewEXM2M7Qx",
+                "expanded_url": "https://twitter.com/ComplexMag/status/514081464171102208/photo/1",
+                "display_url": "pic.twitter.com/ewEXM2M7Qx"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13049362
+}

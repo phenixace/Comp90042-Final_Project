@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-27 01:10:56+00:00",
+    "id": 614601775237066752,
+    "text": "@NBCNightlyNews @laurenlapkus Should always be lit like that regardless of commemoration.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NBCNightlyNews",
+                "id": "8839632"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "laurenlapkus",
+                "id": "16306235"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 8839632
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-25 18:57:44+00:00",
+    "id": 1242888415747682304,
+    "text": "@peterD51740688 @Golden_Dow @ianbremmer Symptoms differ by person. Me, it's been high fever, more in evenings and night, bad headache, chills. Since 2-3 days ago, difficulty to breath. Kids have same, but milder.\nNothing that warrants going to the ER at this point. Hoping it would stay that way.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "peterD51740688",
+                "id": "1062061322756591616"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "username": "ianbremmer",
+                "id": "60783724"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1062061322756591616
+}

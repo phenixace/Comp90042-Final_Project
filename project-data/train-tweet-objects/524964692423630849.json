@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 16:45:10+00:00",
+    "id": 524964692423630849,
+    "text": "@tdgecas @Henderburn well said @tdgecas",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 20,
+                "username": "Henderburn",
+                "id": "44685373"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 234922003
+}

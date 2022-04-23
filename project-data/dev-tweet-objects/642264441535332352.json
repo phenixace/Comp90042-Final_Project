@@ -1,0 +1,44 @@
+{
+    "created_at": "2015-09-11 09:12:30+00:00",
+    "id": 642264441535332352,
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump http://t.co/COlkQnxXS4",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "urls": [
+            {
+                "start": 53,
+                "end": 75,
+                "url": "http://t.co/COlkQnxXS4",
+                "expanded_url": "https://twitter.com/QalandarAbbas4/status/642264441535332352/video/1",
+                "display_url": "pic.twitter.com/COlkQnxXS4"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-09-15 19:03:37+00:00",
+    "id": 643862753514491904,
+    "text": "@LibertyUSA1776 So you know this photo is from 2012, right? http://t.co/geqwjNlFMF",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ],
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/geqwjNlFMF",
+                "expanded_url": "http://m.snopes.com/isis-flag-refugees-germany/",
+                "display_url": "m.snopes.com/isis-flag-refu\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3300205033
+}

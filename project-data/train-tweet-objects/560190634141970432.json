@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-01-27 21:40:29+00:00",
+    "id": 560190634141970432,
+    "text": "@act4america @BreitbartNews #islam not a #cult? why would anyone subject themselves to the will of these #bozos unless you are coerced",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 34,
+                "tag": "islam"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag": "cult"
+            },
+            {
+                "start": 105,
+                "end": 111,
+                "tag": "bozos"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 168541923
+}

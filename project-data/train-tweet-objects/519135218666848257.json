@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-06 14:40:55+00:00",
+    "id": 519135218666848257,
+    "text": "@WSJ @eastwestchic @ShiraOvide why can't those crazy kids work it out.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "username": "eastwestchic",
+                "id": "2797124281"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "ShiraOvide",
+                "id": "14115912"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

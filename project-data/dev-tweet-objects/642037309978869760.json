@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-09-10 18:09:57+00:00",
+    "id": 642037309978869760,
+    "text": "@OldSkull65 @CNNPolitics @BernieSanders @realDonaldTrump but...it's true.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 25,
+                "end": 39,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 40,
+                "end": 56,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1666567008
+}

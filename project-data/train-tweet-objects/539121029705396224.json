@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-30 18:17:24+00:00",
+    "id": 539121029705396224,
+    "text": "@_egotistical_ @SouthPawKilla__ \ud83d\ude2d\ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "_egotistical_",
+                "id": "2507295473"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2507295473
+}

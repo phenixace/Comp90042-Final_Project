@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-09-25 05:41:47+00:00",
+    "id": 647284843965870081,
+    "text": "@TheValleyReport hahaha ohhh  bulshit",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TheValleyReport",
+                "id": "3369234799"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 3369234799
+}

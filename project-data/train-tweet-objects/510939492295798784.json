@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-13 23:54:02+00:00",
+    "id": 510939492295798784,
+    "text": "\u261e@FoxNews\n https://t.co/AX0x1KiodW \u2604\nEND\nALL\nIslamic countries\nimmigration,work&amp;student visas\u2762",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 11,
+                "end": 34,
+                "url": "https://t.co/AX0x1KiodW",
+                "expanded_url": "https://twitter.com/FoxNews/status/510931521306243072",
+                "display_url": "twitter.com/FoxNews/status\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

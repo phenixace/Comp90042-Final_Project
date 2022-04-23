@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:23:43+00:00",
+    "id": 531648369400098817,
+    "text": "@Boogie2988 Ewwwww",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 42345999
+}

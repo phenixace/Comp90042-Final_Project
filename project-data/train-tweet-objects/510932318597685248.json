@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-13 23:25:32+00:00",
+    "id": 510932318597685248,
+    "text": "@FoxNews Well you know if he considered it an act of war he would have to do something. Better to call it evil and sit on his butt.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

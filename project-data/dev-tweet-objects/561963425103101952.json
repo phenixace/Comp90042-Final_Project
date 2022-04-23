@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-02-01 19:04:55+00:00",
+    "id": 561963425103101952,
+    "text": "@peddoc63 @LodiSilverado @AmyMek. Never thought Texans would allow this to happen.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 53,
+                "probability": 0.9696,
+                "type": "Organization",
+                "normalized_text": "Texans"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1379288282
+}

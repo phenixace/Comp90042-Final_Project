@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-26 18:05:39+00:00",
+    "id": 1254471721236774912,
+    "text": "Q10. @PublicHealthRx 10. Should I wear a face covering in public? Will it protect me from getting COVID-19? #JCIAUKickoutCovid19 https://t.co/druyjfHf3M",
+    "entities": {
+        "mentions": [
+            {
+                "start": 5,
+                "end": 20,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "urls": [
+            {
+                "start": 129,
+                "end": 152,
+                "url": "https://t.co/druyjfHf3M",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254471721236774912/photo/1",
+                "display_url": "pic.twitter.com/druyjfHf3M"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 108,
+                "end": 128,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 4443586222
+}

@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-09-09 22:10:37+00:00",
+    "id": 509463916586762241,
+    "text": "Breaking: Microsoft is near a deal to buy Minecraft maker Mojang  http://t.co/qXo9po82YX",
+    "entities": {
+        "urls": [
+            {
+                "start": 66,
+                "end": 88,
+                "url": "http://t.co/qXo9po82YX",
+                "expanded_url": "http://on.wsj.com/1lUbvY7",
+                "display_url": "on.wsj.com/1lUbvY7"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 18,
+                "probability": 0.8568,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 42,
+                "end": 63,
+                "probability": 0.4774,
+                "type": "Product",
+                "normalized_text": "Minecraft maker Mojang"
+            }
+        ]
+    },
+    "source": "WSJ.com",
+    "in_reply_to_user_id": null
+}

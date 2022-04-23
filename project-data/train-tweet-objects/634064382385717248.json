@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-08-19 18:08:23+00:00",
+    "id": 634064382385717248,
+    "text": "@CNNPolitics @HillaryClinton @realDonaldTrump Hillary has the Political experience Donald Trump does it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 29,
+                "end": 45,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 52,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            },
+            {
+                "start": 83,
+                "end": 94,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Donald Trump"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 13850422
+}

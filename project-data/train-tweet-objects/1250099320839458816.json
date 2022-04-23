@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-04-14 16:31:18+00:00",
+    "id": 1250099320839458816,
+    "text": "@citizentvkenya Sonko trying hard to outsmart Joho. Lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.7371,
+                "type": "Person",
+                "normalized_text": "Sonko"
+            },
+            {
+                "start": 46,
+                "end": 49,
+                "probability": 0.483,
+                "type": "Person",
+                "normalized_text": "Joho"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-03-30 19:16:58+00:00",
+    "id": 1244705194346188800,
+    "text": "January 27:  \u201cWHO is working with networks of specialists to analyze 2019-nCoV full genome sequences as they become available.  We have not received evidence that the virus has changed.  We await further information from officials from China.\u201d https://t.co/aTXzeXQ2UF",
+    "entities": {
+        "annotations": [
+            {
+                "start": 236,
+                "end": 240,
+                "probability": 0.9863,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/aTXzeXQ2UF",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705194346188800/photo/1",
+                "display_url": "pic.twitter.com/aTXzeXQ2UF"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

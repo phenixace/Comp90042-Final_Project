@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-01-07 11:59:33+00:00",
+    "id": 552796679322492928,
+    "text": "Je disais quoi ? Smh.. RT \"@20Minutes: Hi @Telegraph this is the photo of our journalist @WilliamMolinie please credit him at least.\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 27,
+                "end": 37,
+                "username": "20Minutes",
+                "id": "2649991"
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 89,
+                "end": 104,
+                "username": "WilliamMolinie",
+                "id": "24987381"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 2649991
+}

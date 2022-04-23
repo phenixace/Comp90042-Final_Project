@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 04:20:34+00:00",
+    "id": 524052533119954945,
+    "text": "@papadiabolous AHHHHHHHH TOTES ADORBS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "papadiabolous",
+                "id": "901056266"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 901056266
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-22 16:22:50+00:00",
+    "id": 524959070407503873,
+    "text": "@WSJ @macdonaldajm terrorists in ottawa",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 38,
+                "probability": 0.9418,
+                "type": "Place",
+                "normalized_text": "ottawa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "username": "macdonaldajm",
+                "id": "145659842"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

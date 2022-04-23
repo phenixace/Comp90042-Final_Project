@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26 22:45:06+00:00",
+    "id": 1254542046397947904,
+    "text": "@TIME Initially it's exhaled water droplets which can be inhaled or by transferance from surfaces.The virus can survive on anything except copper and live up to three days.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14293310
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-10-22 18:31:03+00:00",
+    "id": 524991336466759682,
+    "text": "Devastated right now. Thoughts and prayers with my home town. #OttawaShooting #RT @CNN: Canadian soldier shot: http://t.co/E3NoQoBhKi",
+    "entities": {
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/E3NoQoBhKi",
+                "expanded_url": "http://cnn.it/1tcf9PE",
+                "display_url": "cnn.it/1tcf9PE"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 82,
+                "end": 86,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 77,
+                "tag": "OttawaShooting"
+            },
+            {
+                "start": 78,
+                "end": 81,
+                "tag": "RT"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 759251
+}

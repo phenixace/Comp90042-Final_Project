@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-24 15:18:03+00:00",
+    "id": 514795909318991872,
+    "text": "@AwkwardJourney @TIME I know just the one!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 21,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "source": "Tweetbot for i\u039fS",
+    "in_reply_to_user_id": 59676295
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-28 06:47:43+00:00",
+    "id": 560328349172498432,
+    "text": "@act4america @BreitbartNews Nonsensical Abrahamic religions have no place in govt. including Christian&amp;LDS objections to state&amp;federal laws.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "act4america",
+                "id": "3162043071"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 168541923
+}

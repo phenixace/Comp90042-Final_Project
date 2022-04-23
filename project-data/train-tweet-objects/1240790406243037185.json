@@ -1,0 +1,27 @@
+{
+    "created_at": "2020-03-20 00:01:00+00:00",
+    "id": 1240790406243037185,
+    "text": "President Trump: \"Governors are supposed to be doing a lot of this work, and they are doing a lot of this work. The federal government's not supposed to be out there buying vast amounts of items and then shipping. You know, we're not a shipping clerk.\" https://t.co/JxwyGUvGH8",
+    "entities": {
+        "urls": [
+            {
+                "start": 253,
+                "end": 276,
+                "url": "https://t.co/JxwyGUvGH8",
+                "expanded_url": "https://twitter.com/thehill/status/1240790406243037185/video/1",
+                "display_url": "pic.twitter.com/JxwyGUvGH8"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 14,
+                "probability": 0.6172,
+                "type": "Person",
+                "normalized_text": "President Trump"
+            }
+        ]
+    },
+    "source": "Twitter Media Studio",
+    "in_reply_to_user_id": null
+}

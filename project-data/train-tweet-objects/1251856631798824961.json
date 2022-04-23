@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-19 12:54:14+00:00",
+    "id": 1251856631798824961,
+    "text": "@DrZweliMkhize Surely then all food should be available to be sold? https://t.co/l6NkxTJwii",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ],
+        "urls": [
+            {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/l6NkxTJwii",
+                "expanded_url": "https://twitter.com/tantigatti/status/1251856631798824961/photo/1",
+                "display_url": "pic.twitter.com/l6NkxTJwii"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 844486678324658176
+}

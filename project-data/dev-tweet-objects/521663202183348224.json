@@ -1,0 +1,18 @@
+{
+    "created_at": "2014-10-13 14:06:14+00:00",
+    "id": 521663202183348224,
+    "text": "So Ebola was found in hair extensions? All my bitches wear weave \ud83d\ude33",
+    "entities": {
+        "annotations": [
+            {
+                "start": 3,
+                "end": 7,
+                "probability": 0.3125,
+                "type": "Other",
+                "normalized_text": "Ebola"
+            }
+        ]
+    },
+    "source": "Echofon",
+    "in_reply_to_user_id": null
+}

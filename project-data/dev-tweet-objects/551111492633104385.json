@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-02 20:23:13+00:00",
+    "id": 551111492633104385,
+    "text": "@FoxNews @Toniary_14 Dang I was just looking her up this morning seeing her pics. I saw Twighlight Zone episode of her last night. A babe",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 102,
+                "probability": 0.698,
+                "type": "Other",
+                "normalized_text": "Twighlight Zone"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1367531
+}

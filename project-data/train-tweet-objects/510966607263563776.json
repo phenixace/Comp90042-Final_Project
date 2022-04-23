@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-14 01:41:47+00:00",
+    "id": 510966607263563776,
+    "text": "@IsraelHatzolah bring back the gelatine for any captured ISIS soldiers. Lets scalp'em and hang them from the Brooklyn bridge",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 60,
+                "probability": 0.7765,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            },
+            {
+                "start": 109,
+                "end": 116,
+                "probability": 0.8585,
+                "type": "Place",
+                "normalized_text": "Brooklyn"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 322572436
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19 09:52:37+00:00",
+    "id": 1251810927613263873,
+    "text": "@DrZweliMkhize I wipe my grocery contents with a dish cloth then wash it with soap and hot water. Though most shops spray sanitizer on entrance it's just an extra measure i take to protect my family.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrZweliMkhize",
+                "id": "844486678324658176"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 844486678324658176
+}

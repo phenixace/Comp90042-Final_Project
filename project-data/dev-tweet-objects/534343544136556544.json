@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-11-17 13:53:23+00:00",
+    "id": 534343544136556544,
+    "text": "@MsGfaye @AndersonNatalie @Independent Right, time to stock up. Race you to the shops, losers!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MsGfaye",
+                "id": "626470354"
+            },
+            {
+                "start": 9,
+                "end": 25,
+                "username": "AndersonNatalie",
+                "id": "79722019"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 626470354
+}

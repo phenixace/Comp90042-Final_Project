@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-11-24 22:34:22+00:00",
+    "id": 669282939541303296,
+    "text": "@HistoricalPics @Markgatiss Damn. Can the just discovered remains of Bat Boy be far behind?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "Markgatiss",
+                "id": "164242095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 69,
+                "end": 75,
+                "probability": 0.3176,
+                "type": "Other",
+                "normalized_text": "Bat Boy"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 1598644159
+}

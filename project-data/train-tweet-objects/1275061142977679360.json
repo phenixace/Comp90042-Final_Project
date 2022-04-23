@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-22 13:40:40+00:00",
+    "id": 1275061142977679360,
+    "text": "This was so much fun to create! Take a peek at one of my favorite urban streams. :-) https://t.co/Iy6wmA2YS4",
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/Iy6wmA2YS4",
+                "expanded_url": "https://twitter.com/CostelloLab/status/1275052879150231552",
+                "display_url": "twitter.com/CostelloLab/st\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

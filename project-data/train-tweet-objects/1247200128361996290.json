@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-06 16:30:57+00:00",
+    "id": 1247200128361996290,
+    "text": "@hope411adcock @OANN @WHO The WHO is a highly suspect source of information. I would not believe anything they say because they provided incorrect information from the beginning.\n\nThere's no cure for cancer, either.  It doesn't mean that you don't try to treat it.\n\nLousy argument on your part.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hope411adcock",
+                "id": "936645535104151553"
+            },
+            {
+                "start": 15,
+                "end": 20,
+                "username": "OANN",
+                "id": "1209936918"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 936645535104151553
+}

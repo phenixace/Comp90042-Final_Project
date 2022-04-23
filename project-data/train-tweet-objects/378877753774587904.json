@@ -1,0 +1,39 @@
+{
+    "created_at": "2013-09-14 13:47:50+00:00",
+    "id": 378877753774587904,
+    "text": "@UnrevealedFacts @funnyortruth Which Harry Potter is really Willy the Wizard!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "unrevealedfacts",
+                "id": "377385959"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "funnyortruth",
+                "id": "3385838413"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 48,
+                "probability": 0.9751,
+                "type": "Person",
+                "normalized_text": "Harry Potter"
+            },
+            {
+                "start": 60,
+                "end": 75,
+                "probability": 0.3588,
+                "type": "Other",
+                "normalized_text": "Willy the Wizard"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 149760844
+}

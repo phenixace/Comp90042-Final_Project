@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-03-19 18:20:04+00:00",
+    "id": 1240704608130883584,
+    "text": "29) #NewCrownVirus \ud83d\udc51\n\nWHO is on China's\ud83c\udde8\ud83c\uddf3 side https://t.co/tUSL9H1gHm",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 37,
+                "probability": 0.961,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 18,
+                "tag": "NewCrownVirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 47,
+                "end": 70,
+                "url": "https://t.co/tUSL9H1gHm",
+                "expanded_url": "https://twitter.com/LouDobbs/status/1240617299406729221",
+                "display_url": "twitter.com/LouDobbs/statu\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 826129656856207360
+}

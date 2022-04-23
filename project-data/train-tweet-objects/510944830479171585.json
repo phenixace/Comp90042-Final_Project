@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-14 00:15:15+00:00",
+    "id": 510944830479171585,
+    "text": "@FoxNews http://t.co/vUkwoT4RSo",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 9,
+                "end": 31,
+                "url": "http://t.co/vUkwoT4RSo",
+                "expanded_url": "https://twitter.com/marunoye/status/510944830479171585/photo/1",
+                "display_url": "pic.twitter.com/vUkwoT4RSo"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

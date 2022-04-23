@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14 14:45:15+00:00",
+    "id": 1250072631820378112,
+    "text": "@citizentvkenya These are personal measures Mheshimiwa want to come up with to ensure his people are like President",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 53,
+                "probability": 0.5308,
+                "type": "Person",
+                "normalized_text": "Mheshimiwa"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 70394965
+}

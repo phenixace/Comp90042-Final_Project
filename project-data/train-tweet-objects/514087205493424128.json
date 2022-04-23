@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-09-22 16:21:55+00:00",
+    "id": 514087205493424128,
+    "text": "@Mark_Champion @ComplexMag \" AMERICA \" - @FastRonaldTX http://t.co/2AHrcjtikk",
+    "entities": {
+        "urls": [
+            {
+                "start": 55,
+                "end": 77,
+                "url": "http://t.co/2AHrcjtikk",
+                "expanded_url": "https://twitter.com/FastRonaldTX/status/514087205493424128/photo/1",
+                "display_url": "pic.twitter.com/2AHrcjtikk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Mark_Champion",
+                "id": "113185616"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "complexmag",
+                "id": "784467"
+            },
+            {
+                "start": 41,
+                "end": 54,
+                "username": "FastRonaldTX",
+                "id": "336696322"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 113185616
+}

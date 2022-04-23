@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-22 17:01:25+00:00",
+    "id": 613029032238583809,
+    "text": "@CNNPolitics @allanbrauer @RepMiaLove Too little too late!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "allanbrauer",
+                "id": "16469505"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 13850422
+}

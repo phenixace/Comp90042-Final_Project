@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 17:46:45+00:00",
+    "id": 524980188070035456,
+    "text": "@CNN The  attack on the soldiers by some gun trotting killer is highly deplorable.\nExtreme measures must be taken against terror in any form",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 759251
+}

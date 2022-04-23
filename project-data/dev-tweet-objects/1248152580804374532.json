@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-09 07:35:39+00:00",
+    "id": 1248152580804374532,
+    "text": "Here\u2019s what BJP spokespersons &amp; their media allies have been desperately told to cover up: \n\nWest Bengal CM @MamataOfficial requested the Centre for 1 lakh PPE kits.\n\nGuess how many were given?\n\nONLY 3000 kits. \n\nPM CARES has collected over 10,000 crores. For what? No one knows.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 14,
+                "probability": 0.7261,
+                "type": "Organization",
+                "normalized_text": "BJP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 112,
+                "end": 127,
+                "username": "MamataOfficial",
+                "id": "2526794479"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

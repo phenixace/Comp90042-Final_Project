@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-13 23:24:24+00:00",
+    "id": 510932035507351552,
+    "text": "@FoxNews Just nuke ISIS already. #NukeISIS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 33,
+                "end": 42,
+                "tag": "NukeISIS"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 22,
+                "probability": 0.8436,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1367531
+}

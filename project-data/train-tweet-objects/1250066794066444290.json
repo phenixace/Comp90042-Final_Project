@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-04-14 14:22:03+00:00",
+    "id": 1250066794066444290,
+    "text": "\u201cWe will have some small bottles of Hennessy in the food packs that we will be giving to our people\u2026\u201d - Nairobi Governor Mike Sonko \n\nNote: WHO warns that drinking alcohol does not protect you against COVID-19 and can be dangerous https://t.co/vuSuVAb8dy",
+    "entities": {
+        "urls": [
+            {
+                "start": 231,
+                "end": 254,
+                "url": "https://t.co/vuSuVAb8dy",
+                "expanded_url": "https://twitter.com/citizentvkenya/status/1250066794066444290/video/1",
+                "display_url": "pic.twitter.com/vuSuVAb8dy"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 43,
+                "probability": 0.4391,
+                "type": "Product",
+                "normalized_text": "Hennessy"
+            },
+            {
+                "start": 104,
+                "end": 130,
+                "probability": 0.5123,
+                "type": "Person",
+                "normalized_text": "Nairobi Governor Mike Sonko"
+            }
+        ]
+    },
+    "source": "Hootsuite Inc.",
+    "in_reply_to_user_id": null
+}

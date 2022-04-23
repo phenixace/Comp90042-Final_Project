@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-31 01:55:24+00:00",
+    "id": 528002266867855360,
+    "text": "@IGN I wonder if he's gonna be smoking weed and acting like a dumb ass in this movie as well... No talent having mother.......",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 18927441
+}

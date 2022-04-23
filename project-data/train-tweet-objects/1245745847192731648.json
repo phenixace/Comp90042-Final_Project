@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-02 16:12:09+00:00",
+    "id": 1245745847192731648,
+    "text": "@DrJEM91 I understand that, but you still have to sneeze or cough for the virus to get onto a surface. So yes you can be a carrier and not actually be sick, but you still need a way for the virus to come out of you and onto surfaces.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "DrJEM91",
+                "id": "19801689"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 19801689
+}

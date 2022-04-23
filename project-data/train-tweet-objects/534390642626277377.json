@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-17 17:00:32+00:00",
+    "id": 534390642626277377,
+    "text": "This got the week off to an excellent start\ud83d\ude2b \"@Independent: We are running out of chocolate, warns world's largest chocolate manufacturer\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 46,
+                "end": 58,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16973333
+}

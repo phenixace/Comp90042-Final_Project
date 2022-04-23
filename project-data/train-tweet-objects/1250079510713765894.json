@@ -1,0 +1,44 @@
+{
+    "created_at": "2020-04-14 15:12:35+00:00",
+    "id": 1250079510713765894,
+    "text": "@citizentvkenya @maktejah_ @vineeofficiale @I_Am_Aloyo https://t.co/0XO2n9ejKw",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "citizentvkenya",
+                "id": "70394965"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "maktejah_",
+                "id": "506224403"
+            },
+            {
+                "start": 27,
+                "end": 42,
+                "username": "vineeofficiale",
+                "id": "291558507"
+            },
+            {
+                "start": 43,
+                "end": 54,
+                "username": "I_Am_Aloyo",
+                "id": "373853601"
+            }
+        ],
+        "urls": [
+            {
+                "start": 55,
+                "end": 78,
+                "url": "https://t.co/0XO2n9ejKw",
+                "expanded_url": "https://twitter.com/ZeddyShizzle/status/1250079510713765894/photo/1",
+                "display_url": "pic.twitter.com/0XO2n9ejKw"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 70394965
+}

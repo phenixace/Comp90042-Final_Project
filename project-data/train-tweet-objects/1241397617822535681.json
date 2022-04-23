@@ -1,0 +1,31 @@
+{
+    "created_at": "2020-03-21 16:13:50+00:00",
+    "id": 1241397617822535681,
+    "text": "Are pregnant women at higher risk from COVID-19?\n\nAns: Research is underway to understand impacts of #COVID19 infection on #pregnant women. Data is limited; presently no evidence that they are at higher risk. #parentingQ #CoronaVirus",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 101,
+                "end": 109,
+                "tag": "COVID19"
+            },
+            {
+                "start": 123,
+                "end": 132,
+                "tag": "pregnant"
+            },
+            {
+                "start": 209,
+                "end": 220,
+                "tag": "parentingQ"
+            },
+            {
+                "start": 221,
+                "end": 233,
+                "tag": "CoronaVirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": null
+}

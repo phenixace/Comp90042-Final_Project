@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-11-24 21:06:15+00:00",
+    "id": 669260765715636225,
+    "text": "@HistoricalPics That's a special edition. Not a Murdoch fan but you're tweeting a rumor. November edition: https://t.co/PqNFDGvQie",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HistoricalPics",
+                "id": "1598644159"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 130,
+                "url": "https://t.co/PqNFDGvQie",
+                "expanded_url": "https://twitter.com/MrCott/status/669260765715636225/photo/1",
+                "display_url": "pic.twitter.com/PqNFDGvQie"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 54,
+                "probability": 0.6079,
+                "type": "Person",
+                "normalized_text": "Murdoch"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1598644159
+}

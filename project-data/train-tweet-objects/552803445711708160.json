@@ -1,0 +1,42 @@
+{
+    "created_at": "2015-01-07 12:26:26+00:00",
+    "id": 552803445711708160,
+    "text": "Dua belas.\n\nRT @thei100: Charlie Hebdo shooting latest: 12 dead and gunmen still at large http://t.co/cFgVbBURhI http://t.co/cuY6pMdzBC",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 23,
+                "username": "thei100",
+                "id": "4924780031"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 37,
+                "probability": 0.7824,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/cFgVbBURhI",
+                "expanded_url": "http://i100.io/W5R7DKe",
+                "display_url": "i100.io/W5R7DKe"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/cuY6pMdzBC",
+                "expanded_url": "https://twitter.com/thei100/status/552802654641225728/photo/1",
+                "display_url": "pic.twitter.com/cuY6pMdzBC"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 2461887810
+}

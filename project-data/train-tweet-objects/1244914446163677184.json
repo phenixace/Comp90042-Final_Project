@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-31 09:08:28+00:00",
+    "id": 1244914446163677184,
+    "text": "The new coronavirus CANNOT be transmitted through mosquito bites. https://t.co/s7OxsxtpJm",
+    "entities": {
+        "urls": [
+            {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/s7OxsxtpJm",
+                "expanded_url": "https://twitter.com/IshiwiMyVoice/status/1244914446163677184/photo/1",
+                "display_url": "pic.twitter.com/s7OxsxtpJm"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 715109606624768000
+}

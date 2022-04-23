@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-23 17:36:13+00:00",
+    "id": 569913633246978050,
+    "text": "@JamieDornan_org yeah I have been reading few online rumours about him &amp; his wife...didnt give it much thought though. Knew couldnt be true.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JamieDornan_org",
+                "id": "279575920"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 279575920
+}

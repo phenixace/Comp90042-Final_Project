@@ -1,0 +1,45 @@
+{
+    "created_at": "2020-04-06 16:26:33+00:00",
+    "id": 1247199023347482625,
+    "text": "@melvingaines @OANN There is no Cure for COVID-19.\n\n#Coronavius Myths from @WHO\n\n\"Are there any specific medicines to prevent or treat the new coronavirus?\n\nTo date, there is no specific medicine recommended to prevent or treat the new coronavirus (2019-nCoV).\"\n\nhttps://t.co/r3xpw2Dkqw",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 63,
+                "tag": "Coronavius"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "melvingaines",
+                "id": "272718795"
+            },
+            {
+                "start": 14,
+                "end": 19,
+                "username": "OANN",
+                "id": "1209936918"
+            },
+            {
+                "start": 75,
+                "end": 79,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 263,
+                "end": 286,
+                "url": "https://t.co/r3xpw2Dkqw",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di\u2026"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 272718795
+}

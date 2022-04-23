@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-02 11:19:53+00:00",
+    "id": 649906644353093632,
+    "text": "@CNN then how should we consider it? A show of...???",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 759251
+}

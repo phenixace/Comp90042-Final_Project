@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-01 14:51:27+00:00",
+    "id": 407160018257973249,
+    "text": "@MTVNews that is so sad :( damn speed has taken to many friends..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 40076725
+}

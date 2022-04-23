@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-30 19:16:59+00:00",
+    "id": 1244705199207387137,
+    "text": "January 29:  \u201cWHO has also updated the Disease Commodity Package that includes an essential list of biomedical equipment, medicines and supplies necessary to care for patients with new #coronavirus (2019-nCoV).\u201d https://t.co/qZY3OTcv6m",
+    "entities": {
+        "urls": [
+            {
+                "start": 212,
+                "end": 235,
+                "url": "https://t.co/qZY3OTcv6m",
+                "expanded_url": "https://twitter.com/F3_Haskell/status/1244705199207387137/photo/1",
+                "display_url": "pic.twitter.com/qZY3OTcv6m"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 185,
+                "end": 197,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4148601862
+}

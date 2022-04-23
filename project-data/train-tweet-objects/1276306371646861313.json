@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-26 00:08:46+00:00",
+    "id": 1276306371646861313,
+    "text": "@DiseaseEcology @nataliexdean \"What is this about nerd immunity?\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "DiseaseEcology",
+                "id": "1647829928"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "nataliexdean",
+                "id": "1005085697018138624"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1647829928
+}

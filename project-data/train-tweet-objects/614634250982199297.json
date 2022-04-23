@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-06-27 03:19:59+00:00",
+    "id": 614634250982199297,
+    "text": "\u201c@AP: White House lit in rainbow colors after high court's gay marriage ruling (with photo)  http://t.co/MZWN5nVzgM\u201d...LMAO...so O &amp; Mooch?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/MZWN5nVzgM",
+                "expanded_url": "http://apne.ws/1QV2nBd",
+                "display_url": "apne.ws/1QV2nBd"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 16,
+                "probability": 0.6455,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 51241574
+}

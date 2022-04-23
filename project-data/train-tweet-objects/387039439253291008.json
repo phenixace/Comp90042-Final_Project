@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 02:19:27+00:00",
+    "id": 387039439253291008,
+    "text": "@dbongino  Worse part, these sites may not return. More &amp; more every day......wonder why?    Delusional Prez in OUR White House",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "dbongino",
+                "id": "232901331"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 116,
+                "end": 126,
+                "probability": 0.4361,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 232901331
+}

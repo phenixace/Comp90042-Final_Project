@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-10 03:34:45+00:00",
+    "id": 531651146927308800,
+    "text": "@Boogie2988 now teach me how to make mountain dew flavored doritos then i'll be impressed.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Boogie2988",
+                "id": "42345999"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 42345999
+}

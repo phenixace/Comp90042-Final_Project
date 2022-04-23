@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-03-07 04:37:18+00:00",
+    "id": 574066265838346240,
+    "text": "@ABC I have tears flowing thinking of how he must feel being isolated from his classmates. Is this bullying?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28785486
+}

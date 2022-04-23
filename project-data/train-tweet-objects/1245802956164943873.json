@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-02 19:59:05+00:00",
+    "id": 1245802956164943873,
+    "text": "The Galar region is yours to explore!\n\nAll our #PokemonSwordShield guides\u2014covering Shiny Pok\u00e9mon hunting, Max Raid Battles, and more\u2014are now in one location.\n\nTag a friend who might find this useful during their first journey through the Galar region!\n\n\u27a1\ufe0f https://t.co/qpklAnJTKo https://t.co/Y257PouOrg",
+    "entities": {
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/qpklAnJTKo",
+                "expanded_url": "https://bit.ly/2WXRKFV",
+                "display_url": "bit.ly/2WXRKFV"
+            },
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/Y257PouOrg",
+                "expanded_url": "https://twitter.com/Pokemon/status/1245802956164943873/photo/1",
+                "display_url": "pic.twitter.com/Y257PouOrg"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 66,
+                "tag": "PokemonSwordShield"
+            }
+        ]
+    },
+    "source": "Sprinklr",
+    "in_reply_to_user_id": null
+}

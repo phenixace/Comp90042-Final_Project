@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23 13:55:49+00:00",
+    "id": 1242087659683680256,
+    "text": "@stlman No w\u0142a\u015bnie...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "stlman",
+                "id": "17653438"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 17653438
+}

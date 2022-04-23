@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-03-22 00:10:28+00:00",
+    "id": 1241517563374235648,
+    "text": "@Tgo4Amercia @charliekirk11 How is it that even Trump now gets that COVID-19 is a much more dangerous virus in America than the flu, but you don\u2019t? If your life depended on it, could you explain exponential growth?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Tgo4Amercia",
+                "id": "1240546233682472961"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "charliekirk11",
+                "id": "292929271"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 52,
+                "probability": 0.9976,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 111,
+                "end": 117,
+                "probability": 0.999,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1240546233682472961
+}

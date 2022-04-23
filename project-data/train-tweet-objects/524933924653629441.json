@@ -1,0 +1,51 @@
+{
+    "created_at": "2014-10-22 14:42:55+00:00",
+    "id": 524933924653629441,
+    "text": "I'm at a total loss for words. :( @CP24 : Soldier shot at National War Memorial in Ottawa http://t.co/XYRxJCEFEC http://t.co/9ochukDUrf",
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/XYRxJCEFEC",
+                "expanded_url": "http://www.cp24.com/news/soldier-shot-at-national-war-memorial-in-ottawa-1.2065446#ixzz3GsrmvuDY",
+                "display_url": "cp24.com/news/soldier-s\u2026",
+                "status": 200,
+                "unwound_url": "https://www.cp24.com/news/federal-sources-confirm-identity-of-slain-ottawa-gunman-1.2065446"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/9ochukDUrf",
+                "expanded_url": "https://twitter.com/CP24/status/524929796862918656/photo/1",
+                "display_url": "pic.twitter.com/9ochukDUrf"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 78,
+                "probability": 0.4153,
+                "type": "Place",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 83,
+                "end": 88,
+                "probability": 0.9972,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 34,
+                "end": 39,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19636948
+}

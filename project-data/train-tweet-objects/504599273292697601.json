@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-27 12:00:16+00:00",
+    "id": 504599273292697601,
+    "text": "@SportsBizNews @TheClapperton Milwaukee should get a team the could easily do as they have the bucks stadium",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SportsBizNews",
+                "id": "29849267"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "TheClapperton",
+                "id": "1046881484"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 38,
+                "probability": 0.5656,
+                "type": "Place",
+                "normalized_text": "Milwaukee"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 29849267
+}

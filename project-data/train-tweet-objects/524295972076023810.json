@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-10-20 20:27:55+00:00",
+    "id": 524295972076023810,
+    "text": "@markchurch767 @wisdomwatch I want to take that for a walk #wontbegettingmugged",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "markchurch767",
+                "id": "1099268803"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "wisdomwatch",
+                "id": "2435960576"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 59,
+                "end": 79,
+                "tag": "wontbegettingmugged"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1099268803
+}

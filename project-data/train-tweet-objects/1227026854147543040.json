@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-11 00:29:33+00:00",
+    "id": 1227026854147543040,
+    "text": "@ChinaDaily Before and After Sleep or Rest, from Salt Water cleaning Nose to Salt Water goggling Throat!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChinaDaily",
+                "id": "87775422"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 87775422
+}

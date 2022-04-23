@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 05:28:06+00:00",
+    "id": 529142958357221376,
+    "text": "@fluffyguy #WhoKilledFluffy",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 11,
+                "end": 27,
+                "tag": "WhoKilledFluffy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

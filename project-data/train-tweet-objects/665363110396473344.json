@@ -1,0 +1,33 @@
+{
+    "created_at": "2015-11-14 02:58:22+00:00",
+    "id": 665363110396473344,
+    "text": "@LibertyUSA1776 When will Europe and the rest of thus f....d up world understand, Islam is the enemy. Not Extremism",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 31,
+                "probability": 0.9782,
+                "type": "Place",
+                "normalized_text": "Europe"
+            },
+            {
+                "start": 82,
+                "end": 86,
+                "probability": 0.4886,
+                "type": "Person",
+                "normalized_text": "Islam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "LibertyUSA1776",
+                "id": "3300205033"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 3300205033
+}

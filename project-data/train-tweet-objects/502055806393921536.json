@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-20 11:33:26+00:00",
+    "id": 502055806393921536,
+    "text": "@zaidbenjamin the real problem is islam and not isis..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "zaidbenjamin",
+                "id": "48956231"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 48956231
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-06-27 04:35:36+00:00",
+    "id": 614653280149331969,
+    "text": "@CNNWire @WhiteHouse if they're doing this much for gay marriage equality I wonder what the W.H. will look like when they legalize my mom",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "cnnwire",
+                "id": "783001052434067457"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "WhiteHouse",
+                "id": "1323730225067339784"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 92,
+                "end": 95,
+                "probability": 0.7241,
+                "type": "Person",
+                "normalized_text": "W.H."
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 844364659
+}

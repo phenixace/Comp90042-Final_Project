@@ -1,0 +1,36 @@
+{
+    "created_at": "2014-12-15 15:51:09+00:00",
+    "id": 544520042810200064,
+    "text": "#sydneysiege is over. 2 confirmed dead, #PrayForSydney #PrayForSydneyHostages #Sydney #hostages",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "sydneysiege"
+            },
+            {
+                "start": 40,
+                "end": 54,
+                "tag": "PrayForSydney"
+            },
+            {
+                "start": 55,
+                "end": 77,
+                "tag": "PrayForSydneyHostages"
+            },
+            {
+                "start": 78,
+                "end": 85,
+                "tag": "Sydney"
+            },
+            {
+                "start": 86,
+                "end": 95,
+                "tag": "hostages"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}
