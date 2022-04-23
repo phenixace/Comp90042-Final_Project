@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-02T19:03:15.000Z",
+    "text": "@BreakingNews @NBC12  A beautiful woman and fine actress?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "NBC12",
+                "id": "19151000"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "6017542",
+    "id": "551091368873840640",
+    "source": "Twitter for Android"
+}

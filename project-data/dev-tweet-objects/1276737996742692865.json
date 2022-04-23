@@ -1,0 +1,57 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 135,
+                "end": 140,
+                "probability": 0.9403,
+                "type": "Place",
+                "normalized_text": "Europe"
+            },
+            {
+                "start": 144,
+                "end": 147,
+                "probability": 0.8035,
+                "type": "Place",
+                "normalized_text": "Asia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "CarlosCMTF",
+                "id": "866130408647389185"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "XMoralHazardX",
+                "id": "29756859"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "username": "burgerfiedfuuka",
+                "id": "38518307"
+            },
+            {
+                "start": 44,
+                "end": 56,
+                "username": "randybl1959",
+                "id": "1225547689795829760"
+            },
+            {
+                "start": 57,
+                "end": 73,
+                "username": "ScottGottliebMD",
+                "id": "40156330"
+            }
+        ]
+    },
+    "id": "1276737996742692865",
+    "in_reply_to_user_id": "866130408647389185",
+    "created_at": "2020-06-27T04:43:53.000Z",
+    "source": "Twitter Web App",
+    "text": "@CarlosCMTF @XMoralHazardX @burgerfiedfuuka @randybl1959 @ScottGottliebMD What is the advantage of the herd immunity scenerio? Most of Europe &amp; Asia is gradually returning to normal, but Swedes are mostly banned from travel because so many of them carry a deadly disease. Their strategy is terrible for their health &amp; terrible for their economy."
+}

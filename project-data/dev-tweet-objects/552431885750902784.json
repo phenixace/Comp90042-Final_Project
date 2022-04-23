@@ -1,0 +1,17 @@
+{
+    "id": "552431885750902784",
+    "in_reply_to_user_id": "2280470022",
+    "source": "Twitter for Android",
+    "text": "@airlivenet glad to hear they have embraced equality so well. Maybe driving cars next 😕",
+    "created_at": "2015-01-06T11:49:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "airlivenet",
+                "id": "2280470022"
+            }
+        ]
+    }
+}

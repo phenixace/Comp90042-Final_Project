@@ -1,0 +1,39 @@
+{
+    "id": "504111970014863361",
+    "in_reply_to_user_id": "1675592408",
+    "source": "Twitter for iPhone",
+    "text": "“@NumbersAGangsta: @AntonioFrench Alleged New Shooting Audio of #MichaelBrown / http://t.co/z7Bu1eILfx”",
+    "created_at": "2014-08-26T03:43:54.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 77,
+                "tag": "MichaelBrown"
+            }
+        ],
+        "urls": [
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/z7Bu1eILfx",
+                "expanded_url": "http://youtu.be/6QrGTF1LSIQ",
+                "display_url": "youtu.be/6QrGTF1LSIQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 17,
+                "username": "NumbersAGangsta",
+                "id": "1675592408"
+            },
+            {
+                "start": 19,
+                "end": 33,
+                "username": "AntonioFrench",
+                "id": "14090948"
+            }
+        ]
+    }
+}

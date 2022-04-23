@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "Know",
+                "id": "221452291"
+            },
+            {
+                "start": 30,
+                "end": 39,
+                "username": "RST3WART",
+                "id": "324486363"
+            }
+        ],
+        "urls": [
+            {
+                "start": 6,
+                "end": 29,
+                "url": "https://t.co/owvLB2lpPj",
+                "expanded_url": "https://twitter.com/know/status/521727831307722753",
+                "display_url": "twitter.com/know/status/52…"
+            }
+        ]
+    },
+    "created_at": "2014-10-13T19:48:49.000Z",
+    "text": "@Know https://t.co/owvLB2lpPj @RST3WART this was obvs you",
+    "id": "521749417519767553",
+    "in_reply_to_user_id": "221452291",
+    "source": "Twitter for iPhone"
+}

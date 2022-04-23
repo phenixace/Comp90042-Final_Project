@@ -1,0 +1,26 @@
+{
+    "id": "551119743977918464",
+    "in_reply_to_user_id": "2280470022",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 29,
+                "probability": 0.4154,
+                "type": "Person",
+                "normalized_text": "Saudis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "airlivenet",
+                "id": "2280470022"
+            }
+        ]
+    },
+    "text": "@airlivenet If its only Saudis that use that airline I don't see the issue.....😕",
+    "created_at": "2015-01-02T20:56:00.000Z"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T03:19:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "username": "mtats",
+                "id": "16778161"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 29,
+                "probability": 0.806,
+                "type": "Organization",
+                "normalized_text": "uber"
+            }
+        ]
+    },
+    "id": "544330821365014529",
+    "text": "@Uber_Sydney @mtats so is uber paying for the rides paying the drivers?"
+}

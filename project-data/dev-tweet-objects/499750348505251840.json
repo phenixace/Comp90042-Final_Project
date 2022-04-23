@@ -1,0 +1,32 @@
+{
+    "id": "499750348505251840",
+    "entities": {
+        "annotations": [
+            {
+                "start": 106,
+                "end": 109,
+                "probability": 0.8567,
+                "type": "Person",
+                "normalized_text": "Mike"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ksdknews",
+                "id": "42921216"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "username": "mbbiba",
+                "id": "843836430568763392"
+            }
+        ]
+    },
+    "created_at": "2014-08-14T02:52:22.000Z",
+    "text": "@ksdknews @mbbiba It makes no difference to me! He didn't deserve to die with or without a record!!!! RIP Mike✌️",
+    "in_reply_to_user_id": "42921216",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "656635950030688256",
+    "in_reply_to_user_id": "8953122",
+    "source": "Twitter Web Client",
+    "text": "@PolitiFact @deadhead1991 \n\nYou Lie! https://t.co/XcugWx6dlQ",
+    "created_at": "2015-10-21T00:59:44.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/XcugWx6dlQ",
+                "expanded_url": "https://twitter.com/keithinabox/status/656635950030688256/photo/1",
+                "display_url": "pic.twitter.com/XcugWx6dlQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PolitiFact",
+                "id": "8953122"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "deadhead1991",
+                "id": "484399952"
+            }
+        ]
+    }
+}

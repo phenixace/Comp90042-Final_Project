@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 7,
+                "probability": 0.7949,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "id": "553169488104140801",
+    "text": "@ABC God's miracles are just inexplicable,who had imagined an executioner would leave his identity card at the crime scene",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-08T12:40:58.000Z",
+    "in_reply_to_user_id": "28785486"
+}

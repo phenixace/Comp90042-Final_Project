@@ -1,0 +1,31 @@
+{
+    "created_at": "2015-01-09T16:35:15.000Z",
+    "text": "Hostage-taker in supermarket siege killed, reports say. #ParisAttacks http://t.co/0jxoozr8mN http://t.co/sY4M9Vox3L",
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/0jxoozr8mN",
+                "expanded_url": "http://news.sky.com/story/1405106/paris-supermarket-siege-explosions-heard",
+                "display_url": "news.sky.com/story/1405106/…"
+            },
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/sY4M9Vox3L",
+                "expanded_url": "https://twitter.com/SkyNews/status/553590835850514433/photo/1",
+                "display_url": "pic.twitter.com/sY4M9Vox3L"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 69,
+                "tag": "ParisAttacks"
+            }
+        ]
+    },
+    "id": "553590835850514433",
+    "source": "TweetDeck"
+}

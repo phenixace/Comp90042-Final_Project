@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 12,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 23,
+                "probability": 0.9563,
+                "type": "Place",
+                "normalized_text": "Mozambique"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/IbkdQc71Ee",
+                "expanded_url": "http://apne.ws/14V0FcG",
+                "display_url": "apne.ws/14V0FcG"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T12:35:13.000Z",
+    "text": "Crazy...“@AP: Mozambique death toll rises to 72 from beer believed to have been poisoned with crocodile bile: http://t.co/IbkdQc71Ee”",
+    "in_reply_to_user_id": "51241574",
+    "id": "554979981940760577"
+}

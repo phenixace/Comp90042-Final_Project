@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 54,
+                "probability": 0.8916,
+                "type": "Place",
+                "normalized_text": "Oregon"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T18:30:20.000Z",
+    "text": "@NBCNews That's cool.  I've met some good, local Oregon cops.  :)",
+    "id": "514481908320067584",
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter Web Client"
+}

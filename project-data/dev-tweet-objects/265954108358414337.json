@@ -1,0 +1,26 @@
+{
+    "id": "265954108358414337",
+    "entities": {
+        "annotations": [
+            {
+                "start": 67,
+                "end": 70,
+                "probability": 0.9852,
+                "type": "Person",
+                "normalized_text": "John"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chrissyteigen",
+                "id": "39364684"
+            }
+        ]
+    },
+    "created_at": "2012-11-06T23:09:35.000Z",
+    "text": "@chrissyteigen you’re a beautiful soul and a witty genius to boot! John is a lucky man.",
+    "in_reply_to_user_id": "39364684",
+    "source": "Tweetbot for iOS"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T03:18:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            }
+        ]
+    },
+    "id": "544330751991230465",
+    "text": "@Uber_Sydney how about paying your drivers extra to go into the cbd instead of forcing others to pay extra to travel into potential danger?"
+}

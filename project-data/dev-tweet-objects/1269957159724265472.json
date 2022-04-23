@@ -1,0 +1,31 @@
+{
+    "text": "Can you catch #coronavirus in a swimming pool? Latest Government advice https://t.co/G0j5xrCFQk https://t.co/97pJNtr1CH",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 26,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/G0j5xrCFQk",
+                "expanded_url": "https://www.dailystar.co.uk/news/latest-news/can-you-catch-coronavirus-swimming-22155857",
+                "display_url": "dailystar.co.uk/news/latest-ne…"
+            },
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/97pJNtr1CH",
+                "expanded_url": "https://twitter.com/dailystar/status/1269957159724265472/photo/1",
+                "display_url": "pic.twitter.com/97pJNtr1CH"
+            }
+        ]
+    },
+    "id": "1269957159724265472",
+    "source": "TweetDeck",
+    "created_at": "2020-06-08T11:39:16.000Z"
+}

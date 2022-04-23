@@ -1,0 +1,17 @@
+{
+    "text": "@BuzzFeedUK that's so awful 😭😱",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            }
+        ]
+    },
+    "id": "552479260657872896",
+    "created_at": "2015-01-06T14:58:14.000Z",
+    "in_reply_to_user_id": "1068121346"
+}

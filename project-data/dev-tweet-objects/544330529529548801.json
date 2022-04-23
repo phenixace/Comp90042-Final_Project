@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T03:18:06.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            }
+        ]
+    },
+    "id": "544330529529548801",
+    "text": "@Uber_Sydney thank you for fixing this situation."
+}

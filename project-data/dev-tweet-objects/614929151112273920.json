@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T22:51:49.000Z",
+    "text": "@Slate",
+    "id": "614929151112273920",
+    "in_reply_to_user_id": "15164565",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Slate",
+                "id": "15164565"
+            }
+        ]
+    }
+}

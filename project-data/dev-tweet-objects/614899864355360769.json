@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-06-27T20:55:26.000Z",
+    "text": "@CJHerod @Slate I think you spell it \"e.q.u.a.l.i.t.y\", right?",
+    "id": "614899864355360769",
+    "in_reply_to_user_id": "492802122",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CJHerod",
+                "id": "492802122"
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "username": "Slate",
+                "id": "15164565"
+            }
+        ]
+    }
+}

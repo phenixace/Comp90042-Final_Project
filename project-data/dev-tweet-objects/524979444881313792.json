@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-10-22T17:43:47.000Z",
+    "text": "@CP24 he is a good man. He has worked to keep the place open.",
+    "id": "524979444881313792",
+    "in_reply_to_user_id": "19636948",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ]
+    }
+}

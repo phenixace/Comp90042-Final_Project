@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "text": "Boring shite, this. https://t.co/SZrBUWw1sF",
+    "id": "1277880137191698433",
+    "created_at": "2020-06-30T08:22:21.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 20,
+                "end": 43,
+                "url": "https://t.co/SZrBUWw1sF",
+                "expanded_url": "https://twitter.com/Shairpie/status/1277880137191698433/photo/1",
+                "display_url": "pic.twitter.com/SZrBUWw1sF"
+            }
+        ]
+    }
+}

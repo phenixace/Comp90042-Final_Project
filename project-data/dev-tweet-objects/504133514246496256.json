@@ -1,0 +1,17 @@
+{
+    "text": "In that pause lies the question - black or white?  @cnnbrk",
+    "id": "504133514246496256",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 51,
+                "end": 58,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-08-26T05:09:30.000Z",
+    "in_reply_to_user_id": "428333"
+}

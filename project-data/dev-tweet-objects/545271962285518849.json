@@ -1,0 +1,57 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/aj660kdlbR",
+                "expanded_url": "http://theverge.com/e/7173020",
+                "display_url": "theverge.com/e/7173020",
+                "status": 200,
+                "unwound_url": "https://www.theverge.com/2014/12/17/7408979/texas-plumbers-truck-somehow-ends-up-in-syrian-civil-war"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/vf2WC9mUt2",
+                "expanded_url": "https://twitter.com/verge/status/545271117355958272/photo/1",
+                "display_url": "pic.twitter.com/vf2WC9mUt2"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 8,
+                "end": 20,
+                "username": "luvyablue74",
+                "id": "248696148"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "username": "verge",
+                "id": "275686563"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.6118,
+                "type": "Place",
+                "normalized_text": "Texas"
+            },
+            {
+                "start": 77,
+                "end": 81,
+                "probability": 0.9778,
+                "type": "Place",
+                "normalized_text": "Syria"
+            }
+        ]
+    },
+    "id": "545271962285518849",
+    "text": "Classic @luvyablue74 RT @verge: A Texas plumbing company's truck ended up in Syria's civil war http://t.co/aj660kdlbR http://t.co/vf2WC9mUt2",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-12-17T17:39:01.000Z",
+    "in_reply_to_user_id": "275686563"
+}

@@ -1,0 +1,55 @@
+{
+    "created_at": "2015-01-02T18:27:15.000Z",
+    "text": "RIP Ellie Mae&gt;“@BreakingNews: Family says 'Beverly Hillbillies' actress Donna Douglas is dead at age 81 - @NBC12 http://t.co/mS4UgrEVYE”",
+    "entities": {
+        "mentions": [
+            {
+                "start": 18,
+                "end": 31,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 109,
+                "end": 115,
+                "username": "NBC12",
+                "id": "19151000"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/mS4UgrEVYE",
+                "expanded_url": "http://bit.ly/177ODOn",
+                "display_url": "bit.ly/177ODOn"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 4,
+                "end": 12,
+                "probability": 0.9549,
+                "type": "Person",
+                "normalized_text": "Ellie Mae"
+            },
+            {
+                "start": 43,
+                "end": 61,
+                "probability": 0.5719,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            },
+            {
+                "start": 72,
+                "end": 84,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "6017542",
+    "id": "551082307365249026",
+    "source": "Twitter for iPhone"
+}

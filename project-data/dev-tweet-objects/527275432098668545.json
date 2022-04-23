@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DudeitsTREV",
+                "id": "272166041"
+            }
+        ]
+    },
+    "source": "Echofon",
+    "text": "@DudeitsTREV Dang that's crazy. Breaking news of your boy.",
+    "id": "527275432098668545",
+    "created_at": "2014-10-29T01:47:13.000Z",
+    "in_reply_to_user_id": "272166041"
+}

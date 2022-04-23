@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "347731735",
+    "created_at": "2014-12-15T03:34:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "beck_sullivan",
+                "id": "347731735"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            }
+        ]
+    },
+    "id": "544334594531524608",
+    "text": "@beck_sullivan @Uber_Sydney Glad I'm not the only one who's confused ..."
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T03:18:49.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            }
+        ]
+    },
+    "id": "544330709918183425",
+    "text": "@Uber_Sydney you really gotta stop the swarm model or at least have someone actually look at WHY an area is swarming."
+}

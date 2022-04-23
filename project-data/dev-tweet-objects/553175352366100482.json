@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "553175352366100482",
+    "text": "@abc look his face they are moeslim and they is vandals everywhere..shit moeslim.",
+    "source": "Mobile Web (M2)",
+    "created_at": "2015-01-08T13:04:16.000Z",
+    "in_reply_to_user_id": "28785486"
+}

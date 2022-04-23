@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T04:27:55.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "DrYobbo",
+                "id": "38578151"
+            },
+            {
+                "start": 22,
+                "end": 32,
+                "username": "alfinitum",
+                "id": "3616997232"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 64,
+                "probability": 0.9941,
+                "type": "Person",
+                "normalized_text": "Tony Abbott"
+            }
+        ]
+    },
+    "id": "544348100165263360",
+    "text": "@Uber_Sydney @DrYobbo @alfinitum Faster backflip than Tony Abbott!"
+}

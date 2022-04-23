@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "Know",
+                "id": "221452291"
+            }
+        ],
+        "urls": [
+            {
+                "start": 37,
+                "end": 59,
+                "url": "http://t.co/BGE8PV7osZ",
+                "expanded_url": "http://mashable.com/2014/10/09/penis-bugatti-spray-paint-prank/",
+                "display_url": "mashable.com/2014/10/09/pen…"
+            }
+        ]
+    },
+    "created_at": "2014-10-13T18:44:01.000Z",
+    "text": "@Know Confirmed \"false\" by Emergent: http://t.co/BGE8PV7osZ",
+    "id": "521733111986413568",
+    "in_reply_to_user_id": "221452291",
+    "source": "Twitter Web Client"
+}

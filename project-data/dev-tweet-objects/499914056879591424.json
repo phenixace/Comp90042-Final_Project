@@ -1,0 +1,44 @@
+{
+    "id": "499914056879591424",
+    "entities": {
+        "annotations": [
+            {
+                "start": 69,
+                "end": 82,
+                "probability": 0.6063,
+                "type": "Person",
+                "normalized_text": "Miranda Rights"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ksdknews",
+                "id": "42921216"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "holybullies",
+                "id": "16362151"
+            },
+            {
+                "start": 34,
+                "end": 48,
+                "username": "AntonioFrench",
+                "id": "14090948"
+            },
+            {
+                "start": 117,
+                "end": 126,
+                "username": "JoshACLU",
+                "id": "972439133334388736"
+            }
+        ]
+    },
+    "created_at": "2014-08-14T13:42:53.000Z",
+    "text": "@ksdknews @holybullies Please ask @AntonioFrench  if he was read his Miranda Rights when he was arrested last night. @JoshACLU",
+    "in_reply_to_user_id": "42921216",
+    "source": "Twitter Web Client"
+}

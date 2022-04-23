@@ -1,0 +1,26 @@
+{
+    "text": "@cnnbrk 18yr old boy shot by police unarmed in Ottawa Canada Sat has anyone even mentioned him? No, don't tell me this isn't a radical thing",
+    "id": "504397602293825537",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.8222,
+                "type": "Place",
+                "normalized_text": "Ottawa Canada"
+            }
+        ]
+    },
+    "created_at": "2014-08-26T22:38:54.000Z",
+    "in_reply_to_user_id": "428333"
+}

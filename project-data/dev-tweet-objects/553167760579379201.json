@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "553167760579379201",
+    "text": "@ABC Dead eyes.  No soul to these guys.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-08T12:34:06.000Z",
+    "in_reply_to_user_id": "28785486"
+}

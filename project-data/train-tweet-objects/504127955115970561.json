@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-26T04:47:25.000Z",
+    "in_reply_to_user_id": "25470710",
+    "source": "Twitter for iPhone",
+    "text": "@lisabonner Good point",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "lisabonner",
+                "id": "25470710"
+            }
+        ]
+    },
+    "id": "504127955115970561"
+}

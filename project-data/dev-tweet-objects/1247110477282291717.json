@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/OLOUhdw4OS",
+                "expanded_url": "https://swprs.org/a-swiss-doctor-on-covid-19/",
+                "display_url": "swprs.org/a-swiss-doctor…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "adamseconomics",
+                "id": "1041491786844135424"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-04-06T10:34:42.000Z",
+    "id": "1247110477282291717",
+    "text": "@adamseconomics Have a look through this for some logical and reasonable explanations regarding the pandemic.\nhttps://t.co/OLOUhdw4OS",
+    "in_reply_to_user_id": "1041491786844135424"
+}

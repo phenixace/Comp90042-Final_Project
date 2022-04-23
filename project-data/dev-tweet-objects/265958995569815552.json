@@ -1,0 +1,17 @@
+{
+    "id": "265958995569815552",
+    "created_at": "2012-11-06T23:29:00.000Z",
+    "text": "@chrissyteigen I'm in love with you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chrissyteigen",
+                "id": "39364684"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39364684",
+    "source": "Twitter for iPhone"
+}

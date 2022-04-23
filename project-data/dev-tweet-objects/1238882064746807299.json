@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 265,
+                "end": 275,
+                "tag": "FREDIBOAT"
+            }
+        ]
+    },
+    "created_at": "2020-03-14T17:37:56.000Z",
+    "id": "1238882064746807299",
+    "text": "Part 16\n\nWhat can I do to protect myself and prevent the spread of disease?\n\nProtection measures for everyone\n\nStay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. \n#FREDIBOAT",
+    "in_reply_to_user_id": "1192105968668155905"
+}

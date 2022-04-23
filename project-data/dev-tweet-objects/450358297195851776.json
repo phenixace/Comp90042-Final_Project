@@ -1,0 +1,26 @@
+{
+    "id": "450358297195851776",
+    "entities": {
+        "annotations": [
+            {
+                "start": 84,
+                "end": 97,
+                "probability": 0.9774,
+                "type": "Person",
+                "normalized_text": "gemma Sheridan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "joerogan",
+                "id": "18208354"
+            }
+        ]
+    },
+    "created_at": "2014-03-30T19:45:59.000Z",
+    "text": "@joerogan man I was just so excited.  Apparently news hound is owned by a friend of gemma Sheridan who was also rescued off a desert island",
+    "in_reply_to_user_id": "18208354",
+    "source": "Twitter for Android"
+}

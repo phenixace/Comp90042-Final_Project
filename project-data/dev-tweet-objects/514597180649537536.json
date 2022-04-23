@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-09-24T02:08:23.000Z",
+    "text": "@NBCNews.. I know there's a Donut  Joke in this somewhere.. 😄",
+    "id": "514597180649537536",
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for Android"
+}

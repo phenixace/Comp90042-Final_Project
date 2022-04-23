@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-01-09T16:56:14.000Z",
+    "in_reply_to_user_id": "7587032",
+    "text": "“@SkyNews: Hostage-taker in supermarket siege killed, reports say. #ParisAttacks http://t.co/op9B87B1IX http://t.co/u6Yz4BXfrI” #JeSuisJuif",
+    "entities": {
+        "urls": [
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/op9B87B1IX",
+                "expanded_url": "http://news.sky.com/story/1405106/paris-supermarket-siege-explosions-heard",
+                "display_url": "news.sky.com/story/1405106/…"
+            },
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/u6Yz4BXfrI",
+                "expanded_url": "https://twitter.com/SkyNews/status/553590835850514433/photo/1",
+                "display_url": "pic.twitter.com/u6Yz4BXfrI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 67,
+                "end": 80,
+                "tag": "ParisAttacks"
+            },
+            {
+                "start": 128,
+                "end": 139,
+                "tag": "JeSuisJuif"
+            }
+        ]
+    },
+    "id": "553596117909512192",
+    "source": "Twitter for iPhone"
+}

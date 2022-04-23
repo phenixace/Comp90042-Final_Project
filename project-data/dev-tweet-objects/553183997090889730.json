@@ -1,0 +1,34 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 30,
+                "tag": "NoModerateIslam"
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "tag": "EnoughIsEnough"
+            },
+            {
+                "start": 47,
+                "end": 61,
+                "tag": "JeSuisCharlie"
+            }
+        ]
+    },
+    "id": "553183997090889730",
+    "text": "@ABC there is #NoModerateIslam #EnoughIsEnough #JeSuisCharlie",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-08T13:38:37.000Z",
+    "in_reply_to_user_id": "28785486"
+}

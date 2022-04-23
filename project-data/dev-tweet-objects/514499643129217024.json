@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/njbyoT6duy",
+                "expanded_url": "http://nbcnews.to/1uVW4QE",
+                "display_url": "nbcnews.to/1uVW4QE"
+            },
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/QJIiTbWBiM",
+                "expanded_url": "https://twitter.com/NBCNews/status/514478918636535808/photo/1",
+                "display_url": "pic.twitter.com/QJIiTbWBiM"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 18,
+                "probability": 0.9726,
+                "type": "Place",
+                "normalized_text": "Portland"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "probability": 0.6034,
+                "type": "Organization",
+                "normalized_text": "Pizza Hut"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T19:40:48.000Z",
+    "text": "“@NBCNews: Portland cops complete delivery after Pizza Hut driver injured in crash http://t.co/njbyoT6duy http://t.co/QJIiTbWBiM” ACAB bro!!",
+    "id": "514499643129217024",
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for iPhone"
+}

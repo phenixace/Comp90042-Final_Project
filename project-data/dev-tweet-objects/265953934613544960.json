@@ -1,0 +1,26 @@
+{
+    "id": "265953934613544960",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 26,
+                "probability": 0.8722,
+                "type": "Person",
+                "normalized_text": "Romney Ritas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chrissyteigen",
+                "id": "39364684"
+            }
+        ]
+    },
+    "created_at": "2012-11-06T23:08:53.000Z",
+    "text": "@chrissyteigen Romney Ritas",
+    "in_reply_to_user_id": "39364684",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-02T18:28:11.000Z",
+    "text": "@BreakingNews @NBC12 FELIZ AÑO NUEVO PARA TODOS LOS CIENTÍFICOS QUE SE NIEGUEN A TRABAJAR PARA LA GUERRA.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "NBC12",
+                "id": "19151000"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "6017542",
+    "id": "551082541726593024",
+    "source": "Twitter Web Client"
+}

@@ -7,8 +7,8 @@ url = "https://api.twitter.com/2/tweets?ids="
 param = {'tweet.fields': 'created_at,entities,source', 'expansions': 'in_reply_to_user_id'}
 header = {'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAIxRbgEAAAAADvbPSYRAKI04Jjvgn%2BPgNPs36a0%3D3nz80k7S0FuiC47LCnU686DLY4Sot6n71Mlj7aaqL9bFXOIJB2'}
 
-file = './project-data/dev.data.txt'
-folder = './project-data/dev-tweet-objects/'
+file = './project-data/train.data.txt'
+folder = './project-data/train-tweet-objects/'
 f = open(file, 'r')
 lines = f.readlines()
 f.close()
@@ -68,5 +68,4 @@ for line in lines:
         waiting = []
         print(res.status_code)
         print(res.content)
-        time.sleep(5)
-    break
+        time.sleep(60)

@@ -1,0 +1,17 @@
+{
+    "text": "@cnnbrk  Where did this tape come from?",
+    "id": "504144713348182017",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-08-26T05:54:00.000Z",
+    "in_reply_to_user_id": "428333"
+}

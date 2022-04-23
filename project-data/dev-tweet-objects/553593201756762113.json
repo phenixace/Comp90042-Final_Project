@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-01-09T16:44:39.000Z",
+    "in_reply_to_user_id": "7587032",
+    "text": "#ParisAttacks - \"@SkyNews: Hostage-taker in supermarket siege killed, reports say. http://t.co/r9aB3ojKXP http://t.co/Icz7wdlUPs”",
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/r9aB3ojKXP",
+                "expanded_url": "http://news.sky.com/story/1405106/paris-supermarket-siege-explosions-heard",
+                "display_url": "news.sky.com/story/1405106/…"
+            },
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/Icz7wdlUPs",
+                "expanded_url": "https://twitter.com/SkyNews/status/553590835850514433/photo/1",
+                "display_url": "pic.twitter.com/Icz7wdlUPs"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 17,
+                "end": 25,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 13,
+                "tag": "ParisAttacks"
+            }
+        ]
+    },
+    "id": "553593201756762113",
+    "source": "Twitter for iPhone"
+}

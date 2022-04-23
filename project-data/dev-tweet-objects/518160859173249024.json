@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110445334",
+    "created_at": "2014-10-03T22:09:10.000Z",
+    "text": "@megynkelly DEATH PENALTY IS THE ONLY WAY TO GO &amp; QUICK AS POSSIBLE. THESE PEOPLE DON'T HAVE ANY RESPECT FOR OUR HUMAN DECENCY.",
+    "id": "518160859173249024",
+    "source": "Twitter Web Client"
+}

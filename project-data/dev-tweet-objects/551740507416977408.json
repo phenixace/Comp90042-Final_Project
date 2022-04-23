@@ -1,0 +1,23 @@
+{
+    "id": "551740507416977408",
+    "in_reply_to_user_id": "2280470022",
+    "source": "Twitter Web Client",
+    "text": "@airlivenet @Skeptizist Frauen ins Oberdeck oder Missionarsstellung?",
+    "created_at": "2015-01-04T14:02:42.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "airlivenet",
+                "id": "2280470022"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "Skeptizist",
+                "id": "2246227993"
+            }
+        ]
+    }
+}

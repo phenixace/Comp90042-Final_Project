@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "verge",
+                "id": "275686563"
+            }
+        ]
+    },
+    "id": "545278319500222464",
+    "text": "@verge shit, I was ready for some ridiculous conspiracy theory... oh well",
+    "source": "Twitter Web Client",
+    "created_at": "2014-12-17T18:04:16.000Z",
+    "in_reply_to_user_id": "275686563"
+}

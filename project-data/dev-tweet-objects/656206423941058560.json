@@ -1,0 +1,26 @@
+{
+    "id": "656206423941058560",
+    "in_reply_to_user_id": "8953122",
+    "source": "Talon (Plus)",
+    "text": "@PolitiFact when I click on where you claim the poll still is. Nice job. https://t.co/uCNCxJKp5v",
+    "created_at": "2015-10-19T20:32:57.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 73,
+                "end": 96,
+                "url": "https://t.co/uCNCxJKp5v",
+                "expanded_url": "https://twitter.com/SubyWill/status/656206423941058560/photo/1",
+                "display_url": "pic.twitter.com/uCNCxJKp5v"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PolitiFact",
+                "id": "8953122"
+            }
+        ]
+    }
+}

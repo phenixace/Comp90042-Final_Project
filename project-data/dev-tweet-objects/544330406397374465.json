@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "508110571",
+    "created_at": "2014-12-15T03:17:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Uber_Sydney",
+                "id": "508110571"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 49,
+                "tag": "sydneysiege"
+            }
+        ]
+    },
+    "id": "544330406397374465",
+    "text": "@Uber_Sydney hikes prices during the #sydneysiege. How is that helping? Giving away free rides would help."
+}

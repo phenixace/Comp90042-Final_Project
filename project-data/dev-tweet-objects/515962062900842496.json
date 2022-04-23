@@ -1,0 +1,23 @@
+{
+    "text": "@krickenn @_Flor1daWoman sims",
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "krickenn",
+                "id": "1480758506"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "_Flor1daWoman",
+                "id": "1269837428"
+            }
+        ]
+    },
+    "created_at": "2014-09-27T20:31:56.000Z",
+    "in_reply_to_user_id": "1480758506",
+    "id": "515962062900842496"
+}

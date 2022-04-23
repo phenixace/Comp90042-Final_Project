@@ -1,0 +1,41 @@
+{
+    "created_at": "2015-01-02T18:26:15.000Z",
+    "text": "Family says 'Beverly Hillbillies' actress Donna Douglas is dead at age 81 - @NBC12 http://t.co/kaMAvBfPhX",
+    "entities": {
+        "mentions": [
+            {
+                "start": 76,
+                "end": 82,
+                "username": "NBC12",
+                "id": "19151000"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/kaMAvBfPhX",
+                "expanded_url": "http://bit.ly/177ODOn",
+                "display_url": "bit.ly/177ODOn"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 31,
+                "probability": 0.6226,
+                "type": "Other",
+                "normalized_text": "Beverly Hillbillies"
+            },
+            {
+                "start": 42,
+                "end": 54,
+                "probability": 0.9962,
+                "type": "Person",
+                "normalized_text": "Donna Douglas"
+            }
+        ]
+    },
+    "id": "551082055883563008",
+    "source": "Breaking News +"
+}

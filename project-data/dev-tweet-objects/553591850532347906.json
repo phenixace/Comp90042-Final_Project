@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-09T16:39:17.000Z",
+    "in_reply_to_user_id": "7587032",
+    "text": "@SkyNews What about his girlfriend wanted by police ?",
+    "id": "553591850532347906",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

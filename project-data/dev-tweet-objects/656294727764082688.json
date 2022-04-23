@@ -1,0 +1,26 @@
+{
+    "id": "656294727764082688",
+    "in_reply_to_user_id": "8953122",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 51,
+                "probability": 0.9083,
+                "type": "Organization",
+                "normalized_text": "cnn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PolitiFact",
+                "id": "8953122"
+            }
+        ]
+    },
+    "text": "@PolitiFact well looks like you guys are paid by cnn too. Because indeed it was. It was. It was. It was. Oh and it definitely WAS",
+    "created_at": "2015-10-20T02:23:51.000Z"
+}

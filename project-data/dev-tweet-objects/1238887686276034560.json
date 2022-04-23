@@ -1,0 +1,27 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 9,
+                "end": 13,
+                "probability": 0.8844,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 252,
+                "end": 275,
+                "url": "https://t.co/IsbnwJ3QWg",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-14T18:00:16.000Z",
+    "id": "1238887686276034560",
+    "text": "Part 32\n\nChina and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide.\n\nYou can see these at https://t.co/IsbnwJ3QWg",
+    "in_reply_to_user_id": "1192105968668155905"
+}

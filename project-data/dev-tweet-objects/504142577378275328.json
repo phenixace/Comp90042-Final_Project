@@ -1,0 +1,26 @@
+{
+    "text": "@cnnbrk Maybe you assholes should wait to see if this is even accurate before you stir up more shit for innocent people in Ferguson!",
+    "id": "504142577378275328",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 123,
+                "end": 130,
+                "probability": 0.5395,
+                "type": "Person",
+                "normalized_text": "Ferguson"
+            }
+        ]
+    },
+    "created_at": "2014-08-26T05:45:31.000Z",
+    "in_reply_to_user_id": "428333"
+}

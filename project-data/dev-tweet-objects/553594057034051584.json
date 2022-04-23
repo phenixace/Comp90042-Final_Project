@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-09T16:48:03.000Z",
+    "in_reply_to_user_id": "7587032",
+    "text": "@SkyNews 👍🍸",
+    "id": "553594057034051584",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}
