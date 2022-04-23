@@ -1,0 +1,54 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 86,
+                "end": 100,
+                "tag": "dontforgethim"
+            },
+            {
+                "start": 125,
+                "end": 129,
+                "tag": "RIP"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "probability": 0.9866,
+                "type": "Person",
+                "normalized_text": "Roger Rodas"
+            },
+            {
+                "start": 51,
+                "end": 61,
+                "probability": 0.7371,
+                "type": "Person",
+                "normalized_text": "Paul walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "a_hamad77",
+                "id": "1286673007788916738"
+            }
+        ],
+        "urls": [
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/jx8xdAFfQL",
+                "expanded_url": "https://twitter.com/A_hamad77/status/407189015582887936/photo/1",
+                "display_url": "pic.twitter.com/jx8xdAFfQL"
+            }
+        ]
+    },
+    "text": "“@A_hamad77: Rip Roger Rodas the man who died with Paul walker in the fatal car crash #dontforgethim http://t.co/jx8xdAFfQL” #RIP",
+    "created_at": "2013-12-05T00:15:06.000Z",
+    "id": "408389027008479232",
+    "in_reply_to_user_id": "216579173",
+    "source": "Twitter for iPhone"
+}

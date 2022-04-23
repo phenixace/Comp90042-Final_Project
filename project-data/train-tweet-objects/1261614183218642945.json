@@ -1,0 +1,18 @@
+{
+    "id": "1261614183218642945",
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 65,
+                "probability": 0.4364,
+                "type": "Person",
+                "normalized_text": "Bishop David Oyedepo"
+            }
+        ]
+    },
+    "created_at": "2020-05-16T11:07:15.000Z",
+    "text": "I moved to another city and drowned myself in Bishop David Oyedepo's book - UNDERSTANDING DIVINE DIRECTION. \n\nI tried applying for jobs during this period and never did I get one. See, I have a very great CV, good schools, excellent grades and awesome work experience.",
+    "in_reply_to_user_id": "126573391",
+    "source": "Twitter for Android"
+}

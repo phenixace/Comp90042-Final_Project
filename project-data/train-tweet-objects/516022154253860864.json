@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-28T00:30:43.000Z",
+    "text": "@robinmarsh9 @Nic_O_tine\n start monitoring the mosque in America. Saw black American man wearn a muslim cap ,i wanted to kick his ass",
+    "id": "516022154253860864",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 63,
+                "probability": 0.9992,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "robinmarsh9",
+                "id": "22844997"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "Nic_O_tine",
+                "id": "191181271"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22844997"
+}

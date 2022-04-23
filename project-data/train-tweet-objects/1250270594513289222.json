@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 29,
+                "end": 35,
+                "probability": 0.9816,
+                "type": "Person",
+                "normalized_text": "Stephen"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T03:51:53.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for iPhone",
+    "text": "@StephenAtHome @DrLaPook Hey Stephen, wifey miss you running across the screen at the beginning of the show... Can you run across with fun &amp; excitement... I know it’s a small corner... LoL... chase your kid around the camera Kmsl ....",
+    "id": "1250270594513289222"
+}

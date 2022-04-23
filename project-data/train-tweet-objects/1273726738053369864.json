@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "1067045067926446080",
+    "created_at": "2020-06-18T21:18:13.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "uk_watchman",
+                "id": "1067045067926446080"
+            }
+        ]
+    },
+    "id": "1273726738053369864",
+    "source": "Twitter for iPhone",
+    "text": "@uk_watchman @meenalsworld 60000 dead. You okay with that?"
+}

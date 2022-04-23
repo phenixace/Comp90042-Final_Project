@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "672829056308617216",
+    "created_at": "2015-12-04T17:25:22.000Z",
+    "in_reply_to_user_id": "109065990",
+    "text": "@RealAlexJones Wow, what a surprise... Another Executive order. What a garbage terrorist president we have!"
+}

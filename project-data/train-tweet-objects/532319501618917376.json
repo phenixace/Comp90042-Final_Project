@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPad",
+    "id": "532319501618917376",
+    "in_reply_to_user_id": "14787713",
+    "created_at": "2014-11-11T23:50:33.000Z",
+    "text": "@FOX29philly @antpierce424 @ANTONIOAVALLONE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "FOX29philly",
+                "id": "14787713"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "antpierce424",
+                "id": "497573536"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "username": "AntonioAvallone",
+                "id": "1247306371969753088"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 38,
+                "end": 52,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/s66ojE06Lv",
+                "expanded_url": "http://mojo.ly/1jXDKhh",
+                "display_url": "mojo.ly/1jXDKhh"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 83,
+                "probability": 0.9946,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 54,
+                "end": 66,
+                "username": "MotherJones",
+                "id": "18510860"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2013-12-01T22:02:20.000Z",
+    "text": "Make your time on earth matter-he did #RIPPaulWalker “@MotherJones actor Paul Walker's history of philanthropy: http://t.co/s66ojE06Lv”",
+    "id": "407268452013834240",
+    "in_reply_to_user_id": "18510860"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Variety",
+                "id": "17525171"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "morgfair",
+                "id": "156306739"
+            }
+        ]
+    },
+    "text": "@Variety @morgfair So sorry to read this, I so enjoyed her on Laugh In.",
+    "id": "640992211908345856",
+    "in_reply_to_user_id": "17525171",
+    "created_at": "2015-09-07T20:57:07.000Z"
+}

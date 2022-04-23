@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "22123727",
+    "text": "@mscott @ztharli the more coverage there is the more worried I am its giving these people what they want, and the situation a bad end.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "mscott",
+                "id": "22123727"
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "username": "ztharli",
+                "id": "860173955092459521"
+            }
+        ]
+    },
+    "created_at": "2014-12-15T00:06:15.000Z",
+    "id": "544282252302381056"
+}

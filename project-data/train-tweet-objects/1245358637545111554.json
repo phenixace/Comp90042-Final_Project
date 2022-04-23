@@ -1,0 +1,58 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T14:33:31.000Z",
+    "text": "$SPY $DIA $IWM $QQQ $IBB $XBI\n\nQ: Why comfort is docked at NYC pier 90 ?\n\nA: 90% of war battle is won once you know whom you're fighting with. https://t.co/cen3BerBVw",
+    "id": "1245358637545111554",
+    "entities": {
+        "urls": [
+            {
+                "start": 143,
+                "end": 166,
+                "url": "https://t.co/cen3BerBVw",
+                "expanded_url": "https://twitter.com/nixon786/status/1245358637545111554/photo/1",
+                "display_url": "pic.twitter.com/cen3BerBVw"
+            }
+        ],
+        "cashtags": [
+            {
+                "start": 0,
+                "end": 4,
+                "tag": "SPY"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "tag": "DIA"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "tag": "IWM"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "tag": "QQQ"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag": "IBB"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag": "XBI"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 61,
+                "probability": 0.8227,
+                "type": "Place",
+                "normalized_text": "NYC"
+            }
+        ]
+    }
+}

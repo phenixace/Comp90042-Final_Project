@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 89,
+                "end": 96,
+                "probability": 0.4172,
+                "type": "Organization",
+                "normalized_text": "SARS-CoV"
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "probability": 0.859,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 161,
+                "end": 165,
+                "probability": 0.4338,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 284,
+                "end": 307,
+                "url": "https://t.co/E1e29z2Bpo",
+                "expanded_url": "https://twitter.com/roman_shao/status/1245325637906300928/photo/1",
+                "display_url": "pic.twitter.com/E1e29z2Bpo"
+            }
+        ]
+    },
+    "text": "Coronavirus disease 2019, or \"COVID-19,\" is an infection caused by specific virus called SARS-CoV-2. The virus first appeared in late 2019 in the city of Wuhan, China. But it has spread quickly through the world \nPeople with COVID-19 can have fever, cough,&amp;trouble with breathing https://t.co/E1e29z2Bpo",
+    "id": "1245325637906300928",
+    "created_at": "2020-04-01T12:22:23.000Z"
+}

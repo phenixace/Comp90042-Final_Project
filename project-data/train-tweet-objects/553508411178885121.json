@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ],
+        "urls": [
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/xTDlXzt7oF",
+                "expanded_url": "https://twitter.com/70indrajit/status/553508411178885121/photo/1",
+                "display_url": "pic.twitter.com/xTDlXzt7oF"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 63,
+                "probability": 0.6528,
+                "type": "Person",
+                "normalized_text": "Secular Indian Parliamentarian"
+            }
+        ]
+    },
+    "created_at": "2015-01-09T11:07:43.000Z",
+    "text": "@BBCBreaking Here is an so called Secular Indian Parliamentarian's thought.This party has ruled us for 60 years http://t.co/xTDlXzt7oF",
+    "id": "553508411178885121",
+    "in_reply_to_user_id": "5402612",
+    "source": "Twitter Web Client"
+}

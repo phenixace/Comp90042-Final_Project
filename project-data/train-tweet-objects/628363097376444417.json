@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 51,
+                "end": 73,
+                "url": "http://t.co/kNE45GFjQV",
+                "expanded_url": "http://bzfd.it/1IBSuOz",
+                "display_url": "bzfd.it/1IBSuOz"
+            }
+        ]
+    },
+    "id": "628363097376444417",
+    "text": "“@BuzzFeed: 19 times Whole Foods went too damn far http://t.co/kNE45GFjQV” 😒😒😒😒😒😒😒",
+    "created_at": "2015-08-04T00:33:31.000Z",
+    "in_reply_to_user_id": "5695632"
+}

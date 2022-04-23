@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-13T22:34:34.000Z",
+    "text": "@FoxNews turn that place into a glass parking lot",
+    "in_reply_to_user_id": "1367531",
+    "id": "510919492705456129"
+}

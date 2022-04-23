@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "entities": {
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/DNdzJTdlgT",
+                "expanded_url": "http://www.booster.com/anotherpickettcreation",
+                "display_url": "booster.com/anotherpickett…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2014-12-13T02:57:04.000Z",
+    "text": "@NBCNews Please help us raise awareness &amp; money for diabetes research http://t.co/DNdzJTdlgT\nPlease retweet, post on website &amp; the news.",
+    "id": "543600462310948864"
+}

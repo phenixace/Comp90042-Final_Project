@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T14:43:11.000Z",
+    "text": "$SPY $DIA $IWM $QQQ \n\nQ: What is a treatment for coronavirus induced lung inflammation, ARDS ?\n\nA: Intravenous steroids. Coronavirus ARDS treatment is similar pneumocystis Carinii treatment \n\nIf patients have signs &amp; symptoms of hypoxia, cxr findings give IV steroids immediately https://t.co/tTOsR366BD",
+    "id": "1245361072237940744",
+    "entities": {
+        "urls": [
+            {
+                "start": 284,
+                "end": 307,
+                "url": "https://t.co/tTOsR366BD",
+                "expanded_url": "https://twitter.com/nixon786/status/1245361072237940744/photo/1",
+                "display_url": "pic.twitter.com/tTOsR366BD"
+            }
+        ],
+        "cashtags": [
+            {
+                "start": 0,
+                "end": 4,
+                "tag": "SPY"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "tag": "DIA"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "tag": "IWM"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "tag": "QQQ"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "314061974"
+}

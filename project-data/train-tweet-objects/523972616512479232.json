@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "56302399",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Stotisk",
+                "id": "56302399"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ]
+    },
+    "created_at": "2014-10-19T23:03:01.000Z",
+    "text": "@Stotisk @NickKristof @CBSNews cool!",
+    "id": "523972616512479232"
+}

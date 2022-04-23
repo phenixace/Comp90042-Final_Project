@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T15:19:10.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 58,
+                "end": 67,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "id": "1242471022189740035",
+    "source": "Twitter for Android",
+    "text": "In your own understanding as a Heathcare Professional, Dr @Ovdiasis, what supplies are most important to be gotten and kept during this pandemic period?\n\n If someone absolutely has to go out, what should he/she do?"
+}

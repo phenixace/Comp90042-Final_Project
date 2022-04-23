@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 109,
+                "end": 114,
+                "tag": "tcot"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 98,
+                "end": 108,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    },
+    "text": "All the money in the treasury will not get him out of that wheelchair. He'll roll to the gallows. @AllenWest #tcot",
+    "created_at": "2013-05-21T16:31:57.000Z",
+    "id": "336882061916905473",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client"
+}

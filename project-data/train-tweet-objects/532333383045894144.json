@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "532333383045894144",
+    "entities": {
+        "urls": [
+            {
+                "start": 64,
+                "end": 86,
+                "url": "http://t.co/JPfOCwj5qM",
+                "expanded_url": "http://www.myfoxphilly.com/story/27355366/employee-says",
+                "display_url": "myfoxphilly.com/story/27355366…"
+            },
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/2w6TGoRhPQ",
+                "expanded_url": "https://twitter.com/FOX29philly/status/532319110458118144/photo/1",
+                "display_url": "pic.twitter.com/2w6TGoRhPQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "FOX29philly",
+                "id": "14787713"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14787713",
+    "created_at": "2014-11-12T00:45:43.000Z",
+    "text": "“@FOX29philly: Employee says manager bans slang at Chick-fil-A. http://t.co/JPfOCwj5qM http://t.co/2w6TGoRhPQ”. Hilarious"
+}

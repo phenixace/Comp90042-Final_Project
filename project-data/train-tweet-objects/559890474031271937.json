@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-27T01:47:45.000Z",
+    "id": "559890474031271937",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "text": "@BurgerKing well... my mom did the last one..."
+}

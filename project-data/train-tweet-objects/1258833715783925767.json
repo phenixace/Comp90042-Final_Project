@@ -1,0 +1,17 @@
+{
+    "id": "1258833715783925767",
+    "text": "If we cant get this simple data published by the administration, why even give @CDCgov another penny? Why do we have to rely on private studies?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 79,
+                "end": 86,
+                "username": "CDCgov",
+                "id": "146569971"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "252398355",
+    "source": "Twitter Web App",
+    "created_at": "2020-05-08T18:58:40.000Z"
+}

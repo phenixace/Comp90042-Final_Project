@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "MarcWinger",
+                "id": "1463178493722648581"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "544465538882084864",
+    "created_at": "2014-12-15T12:14:34.000Z",
+    "in_reply_to_user_id": "176310317",
+    "text": "@marcwinger @BBCBreaking Extremist rather, no true Muslim will do such nonsense act! The world should know this by now..."
+}

@@ -1,0 +1,40 @@
+{
+    "created_at": "2015-02-24T22:01:03.000Z",
+    "text": "@entwise @50ShadesWorldcm Great news #FiftyShadesOfGrey wouldn't be the same without #ChristianGrey love everything #FiftyShadesOfGrey",
+    "id": "570342669995544577",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "entwise",
+                "id": "119384138"
+            },
+            {
+                "start": 9,
+                "end": 25,
+                "username": "50shadesworldcm",
+                "id": "1160963646073294849"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 55,
+                "tag": "FiftyShadesOfGrey"
+            },
+            {
+                "start": 85,
+                "end": 99,
+                "tag": "ChristianGrey"
+            },
+            {
+                "start": 116,
+                "end": 134,
+                "tag": "FiftyShadesOfGrey"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "119384138"
+}

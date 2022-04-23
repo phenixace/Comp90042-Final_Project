@@ -1,0 +1,56 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-09-25T14:23:47.000Z",
+    "text": "@DaveRob39539108 @CNNPolitics @cnnbrk @HillaryClinton @BernieSanders @VP are you voting for Bernie?",
+    "id": "647416209135173632",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DaveRob39539108",
+                "id": "3298263193"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 38,
+                "end": 53,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 54,
+                "end": 68,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 69,
+                "end": 72,
+                "username": "VP",
+                "id": "803694179079458816"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 92,
+                "end": 97,
+                "probability": 0.9668,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3298263193"
+}

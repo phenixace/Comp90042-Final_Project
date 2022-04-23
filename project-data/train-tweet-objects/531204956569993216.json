@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "434867400",
+    "id": "531204956569993216",
+    "created_at": "2014-11-08T22:01:45.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@TheBizzNiz @tulley_79",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TheBizzNiz",
+                "id": "434867400"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "tulley_79",
+                "id": "250313092"
+            }
+        ]
+    }
+}

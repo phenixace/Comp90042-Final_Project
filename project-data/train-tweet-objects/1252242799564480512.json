@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "IndiaToday",
+                "id": "19897138"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "sardesairajdeep",
+                "id": "56304605"
+            }
+        ],
+        "urls": [
+            {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/qc7FrVkDA9",
+                "expanded_url": "https://twitter.com/ShSantoshTiwari/status/1252241661674917894?s=19",
+                "display_url": "twitter.com/ShSantoshTiwar…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19897138",
+    "created_at": "2020-04-20T14:28:43.000Z",
+    "id": "1252242799564480512",
+    "text": "@IndiaToday @sardesairajdeep https://t.co/qc7FrVkDA9"
+}

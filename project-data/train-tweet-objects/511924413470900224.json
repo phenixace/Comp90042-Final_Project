@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "created_at": "2014-09-16T17:07:45.000Z",
+    "id": "511924413470900224",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "PJStrikeForce",
+                "id": "121656624"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 15,
+                "end": 27,
+                "tag": "talibanswap"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag": "TCOT"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag": "CCOT"
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "tag": "USA"
+            },
+            {
+                "start": 45,
+                "end": 51,
+                "tag": "Bowie"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "121656624",
+    "text": "@PJStrikeForce #talibanswap #TCOT #CCOT #USA #Bowie Elect a Muslim-socialist liberal as Leader of Free World &amp; Islam spreads unchecked!"
+}

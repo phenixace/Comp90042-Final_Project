@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:11:00.000Z",
+    "text": "@NBCNews I know my dogs r in heaven",
+    "id": "543588871188279296"
+}

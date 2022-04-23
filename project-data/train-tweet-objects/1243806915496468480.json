@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 211,
+                "end": 222,
+                "tag": "ENDCOVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 223,
+                "end": 227,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 228,
+                "end": 240,
+                "username": "Fmohnigeria",
+                "id": "346680340"
+            },
+            {
+                "start": 241,
+                "end": 254,
+                "username": "HitFMCalabar",
+                "id": "4715994441"
+            },
+            {
+                "start": 255,
+                "end": 263,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1243806915496468480",
+    "created_at": "2020-03-28T07:47:32.000Z",
+    "in_reply_to_user_id": "427714242",
+    "text": "Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems ...3/4\n#ENDCOVID19\n@WHO @Fmohnigeria @HitFMCalabar @NCDCgov"
+}

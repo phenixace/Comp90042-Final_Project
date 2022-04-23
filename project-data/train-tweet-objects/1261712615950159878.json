@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-05-16T17:38:23.000Z",
+    "in_reply_to_user_id": "631902299",
+    "text": "@kezmodo might be more of a thing since the 2000s but it’s every game these days. what do you mean “envious of being part of that level of connection” by the way? envious of another club getting that result, of course but “level of connection”?",
+    "id": "1261712615950159878",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "kezmodo",
+                "id": "631902299"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,37 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 31,
+                "end": 45,
+                "username": "josh_wingrove",
+                "id": "164075542"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/1waid25vOE",
+                "expanded_url": "https://www.youtube.com/watch?v=XrGqoISd-do",
+                "display_url": "youtube.com/watch?v=XrGqoI…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 113,
+                "end": 120,
+                "tag": "Ottawa"
+            },
+            {
+                "start": 121,
+                "end": 130,
+                "tag": "shooting"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T15:11:33.000Z",
+    "id": "524941132237910016",
+    "text": "Here's that dramatic video via @josh_wingrove of shots fired inside parliament building: https://t.co/1waid25vOE #Ottawa #shooting"
+}

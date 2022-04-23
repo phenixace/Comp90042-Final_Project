@@ -1,0 +1,32 @@
+{
+    "id": "1244498830738915328",
+    "text": "@SKMCH @BabarAbidi https://t.co/Knj2ueFw3c",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "SKMCH",
+                "id": "99329240"
+            },
+            {
+                "start": 7,
+                "end": 18,
+                "username": "BabarAbidi",
+                "id": "2645823097"
+            }
+        ],
+        "urls": [
+            {
+                "start": 19,
+                "end": 42,
+                "url": "https://t.co/Knj2ueFw3c",
+                "expanded_url": "https://twitter.com/danishrasheed23/status/1244319106842513408?s=19",
+                "display_url": "twitter.com/danishrasheed2…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "99329240",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-30T05:36:57.000Z"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-07T18:03:32.000Z",
+    "text": "@Visit_CostaRica cc @luisassardo",
+    "id": "552888278790451200",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Visit_CostaRica",
+                "id": "171667875"
+            },
+            {
+                "start": 20,
+                "end": 32,
+                "username": "luisassardo",
+                "id": "17097595"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "171667875"
+}

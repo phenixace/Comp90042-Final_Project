@@ -1,0 +1,24 @@
+{
+    "id": "619510398576799748",
+    "text": "@CloydRivers #XforASG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CloydRivers",
+                "id": "466645191"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 21,
+                "tag": "XforASG"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "466645191",
+    "created_at": "2015-07-10T14:16:03.000Z"
+}

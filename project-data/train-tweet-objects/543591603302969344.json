@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "DeniseFlores",
+                "id": "15998041"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:21:52.000Z",
+    "text": "@NBCNews Attn: @DeniseFlores",
+    "id": "543591603302969344"
+}

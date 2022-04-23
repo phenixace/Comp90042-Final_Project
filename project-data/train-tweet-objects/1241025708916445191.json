@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 157,
+                "end": 180,
+                "url": "https://t.co/biuiZkMANh",
+                "expanded_url": "https://twitter.com/infodemics1/status/1241025708916445191/photo/1",
+                "display_url": "pic.twitter.com/biuiZkMANh"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1241025708916445191",
+    "created_at": "2020-03-20T15:36:00.000Z",
+    "text": "Does the new coronavirus affect older people, or are younger people also susceptible?\nPeople of all ages can be infected by the new coronavirus (2019-nCoV). https://t.co/biuiZkMANh"
+}

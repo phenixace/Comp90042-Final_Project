@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "StephanieLeal7",
+                "id": "386399538"
+            }
+        ]
+    },
+    "id": "435258289837072384",
+    "text": "@StephanieLeal7 you got it 👌",
+    "created_at": "2014-02-17T03:43:57.000Z",
+    "in_reply_to_user_id": "386399538"
+}

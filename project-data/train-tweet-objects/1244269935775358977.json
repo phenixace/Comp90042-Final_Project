@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "2301894019",
+    "entities": {
+        "urls": [
+            {
+                "start": 139,
+                "end": 162,
+                "url": "https://t.co/no6CqylmoX",
+                "expanded_url": "https://twitter.com/goshan__4ik/status/1244269935775358977/photo/1",
+                "display_url": "pic.twitter.com/no6CqylmoX"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "a1tavista",
+                "id": "2301894019"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-29T14:27:24.000Z",
+    "text": "@a1tavista Я не говорю, что эпидемия не опасна, я говорю, что от гриппа умирает, по имеющимся сейчас цифрам, не меньшее количество человек https://t.co/no6CqylmoX",
+    "id": "1244269935775358977"
+}

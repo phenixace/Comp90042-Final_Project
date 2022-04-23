@@ -1,0 +1,30 @@
+{
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "username": "6abc",
+                "id": "18391051"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 57,
+                "tag": "evil"
+            }
+        ]
+    },
+    "text": "@ABC @6abc how do we stop the pattern of this awful #evil",
+    "id": "672172710848409601",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:57:17.000Z"
+}

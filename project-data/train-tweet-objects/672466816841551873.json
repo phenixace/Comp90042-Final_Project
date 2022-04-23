@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T17:25:57.000Z",
+    "id": "672466816841551873",
+    "text": "@Rockprincess818 nice visual!!"
+}

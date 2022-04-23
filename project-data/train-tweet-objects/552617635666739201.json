@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-07T00:08:06.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "552617635666739201",
+    "source": "Twitter for iPhone",
+    "text": "@ABC 😭😭😭"
+}

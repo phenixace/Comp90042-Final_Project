@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 52,
+                "end": 74,
+                "url": "http://t.co/EWaubBXkwA",
+                "expanded_url": "http://rbl.ms/1jk5GMI",
+                "display_url": "rbl.ms/1jk5GMI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "MatthewKeysLive",
+                "id": "754485"
+            }
+        ]
+    },
+    "source": "RebelMouse Application",
+    "id": "518621618747506688",
+    "created_at": "2014-10-05T04:40:04.000Z",
+    "in_reply_to_user_id": "754485",
+    "text": "@MatthewKeysLive just shared your tweet on my site: http://t.co/EWaubBXkwA"
+}

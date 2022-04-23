@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 33,
+                "probability": 0.9893,
+                "type": "Person",
+                "normalized_text": "Tony Gallagher"
+            }
+        ]
+    },
+    "text": "@theScore Story via Tony Gallagher..  Here's a gigantic grain of salt which which to take it.",
+    "id": "504421497440841728",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T00:13:51.000Z"
+}

@@ -1,0 +1,66 @@
+{
+    "created_at": "2020-06-30T20:59:50.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 156,
+                "end": 161,
+                "probability": 0.7137,
+                "type": "Place",
+                "normalized_text": "London"
+            },
+            {
+                "start": 252,
+                "end": 258,
+                "probability": 0.9448,
+                "type": "Place",
+                "normalized_text": "England"
+            }
+        ],
+        "urls": [
+            {
+                "start": 277,
+                "end": 300,
+                "url": "https://t.co/C6TbWpAtSr",
+                "expanded_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895356/Weekly_COVID19_Surveillance_Report_w26.pdf",
+                "display_url": "assets.publishing.service.gov.uk/government/upl…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "scottsimo1985",
+                "id": "725939028"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "ProfKarolSikora",
+                "id": "1235849797191401472"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "username": "RP131",
+                "id": "777662911"
+            },
+            {
+                "start": 50,
+                "end": 60,
+                "username": "ganeshran",
+                "id": "55885670"
+            },
+            {
+                "start": 61,
+                "end": 75,
+                "username": "cricketwyvern",
+                "id": "66653844"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "725939028",
+    "text": "@scottsimo1985 @Anshul__K @ProfKarolSikora @RP131 @ganeshran @cricketwyvern the weekly @PHE_uk shows regional antibody rates of between 4% (SE/SW) and 15% (London) - but doesn't give an average - page 26\n\nIf we took an average of 7% x 56m that 3.9m in England with antibodies\n\nhttps://t.co/C6TbWpAtSr",
+    "id": "1278070765477400578",
+    "source": "Twitter Web App"
+}

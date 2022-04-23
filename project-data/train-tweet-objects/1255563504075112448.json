@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-29T18:24:01.000Z",
+    "text": "“Why don’t I go to school anymore?”\n“Why can’t I play outside with my friends?”\n“What is COVID-19? Will I get it?”\n\nKids around the world have a lot of questions right now. This FREE downloadable eBook can help you explain #coronavirus to your kids: https://t.co/pKWKYJIgRy",
+    "id": "1255563504075112448",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 223,
+                "end": 235,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 250,
+                "end": 273,
+                "url": "https://t.co/pKWKYJIgRy",
+                "expanded_url": "https://bit.ly/35iB9yL",
+                "display_url": "bit.ly/35iB9yL",
+                "status": 200,
+                "unwound_url": "https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.5546460/explain-coronavirus-to-your-kids-with-this-book-drawn-by-the-gruffalo-illustrator-1.5546498"
+            }
+        ]
+    }
+}

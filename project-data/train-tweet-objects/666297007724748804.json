@@ -1,0 +1,26 @@
+{
+    "id": "666297007724748804",
+    "in_reply_to_user_id": "343613500",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 39,
+                "probability": 0.4738,
+                "type": "Organization",
+                "normalized_text": "Wall Street Journal"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Luqman255",
+                "id": "343613500"
+            }
+        ]
+    },
+    "text": "@Luqman255 check the Wall Street Journal article. He was their source, not the hero guard. Someone misquoted the article and it went viral.",
+    "created_at": "2015-11-16T16:49:20.000Z"
+}

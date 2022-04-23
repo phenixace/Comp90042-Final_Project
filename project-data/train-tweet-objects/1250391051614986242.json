@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15T11:50:32.000Z",
+    "text": "@TheHangingMan_ @WHOAFRO Yeah. Needs to be taken into consideration.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 24,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1190380997709312000",
+    "id": "1250391051614986242",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-01T14:06:14.000Z",
+    "id": "1245351773558235137",
+    "in_reply_to_user_id": "1034763184211742720",
+    "entities": {
+        "urls": [
+            {
+                "start": 65,
+                "end": 88,
+                "url": "https://t.co/vBcAofReSV",
+                "expanded_url": "https://twitter.com/TGIDistri/status/1245351773558235137/photo/1",
+                "display_url": "pic.twitter.com/vBcAofReSV"
+            }
+        ]
+    },
+    "text": "What to do if a case of COVID-19 is confirmed in your workplace? https://t.co/vBcAofReSV"
+}

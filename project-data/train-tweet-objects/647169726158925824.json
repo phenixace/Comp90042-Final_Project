@@ -1,0 +1,53 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2015-09-24T22:04:21.000Z",
+    "text": "Poll: @HillaryClinton trails @BernieSanders in New Hampshire, even without @VP in the race http://t.co/OpBNKLSJlc http://t.co/KhesG7Ss1X",
+    "id": "647169726158925824",
+    "entities": {
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/OpBNKLSJlc",
+                "expanded_url": "http://cnn.it/1KEZ5K1",
+                "display_url": "cnn.it/1KEZ5K1"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/KhesG7Ss1X",
+                "expanded_url": "https://twitter.com/CNNPolitics/status/647169726158925824/photo/1",
+                "display_url": "pic.twitter.com/KhesG7Ss1X"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 6,
+                "end": 21,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 75,
+                "end": 78,
+                "username": "VP",
+                "id": "803694179079458816"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.9831,
+                "type": "Place",
+                "normalized_text": "New Hampshire"
+            }
+        ]
+    }
+}

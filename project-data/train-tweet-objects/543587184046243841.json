@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 91,
+                "end": 95,
+                "probability": 0.8297,
+                "type": "Person",
+                "normalized_text": "JESUS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:04:18.000Z",
+    "text": "@NBCNews SORRY bible never speaks of animals having souls and going to heaven.  It's about JESUS.  Read Rev...",
+    "id": "543587184046243841"
+}

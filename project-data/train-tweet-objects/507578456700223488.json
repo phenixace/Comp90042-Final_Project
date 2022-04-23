@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-09-04T17:18:29.000Z",
+    "source": "TweetDeck",
+    "id": "507578456700223488",
+    "text": "@HuffingtonPost @CordeiroRick It was an amusing piece but apparently a lot of people didn't understand it. Poor joke I suppose.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "CordeiroRick",
+                "id": "90379747"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14511951"
+}

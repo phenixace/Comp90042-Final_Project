@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 55,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nickpistor",
+                "id": "57775464"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "ChristineDByers",
+                "id": "92613268"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-11-30T11:15:20.000Z",
+    "id": "539014814644051968",
+    "text": "@nickpistor @WesleyLowery @ChristineDByers Darren Wilson doesn't have to worry about money.He'll undoubtedly get much from extremists. C'MON",
+    "in_reply_to_user_id": "57775464"
+}

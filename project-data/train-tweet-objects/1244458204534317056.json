@@ -1,0 +1,15 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2020-03-30T02:55:31.000Z",
+    "text": "How long does the virus survive on surfaces?  Is it 72 hours?#coronavirusqa",
+    "id": "1244458204534317056",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 75,
+                "tag": "coronavirusqa"
+            }
+        ]
+    }
+}

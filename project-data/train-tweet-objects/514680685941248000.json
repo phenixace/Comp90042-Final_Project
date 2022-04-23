@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-24T07:40:12.000Z",
+    "text": "@PlasticsReg dunno, but reminded me of http://t.co/iYZpZWEDQK",
+    "entities": {
+        "urls": [
+            {
+                "start": 39,
+                "end": 61,
+                "url": "http://t.co/iYZpZWEDQK",
+                "expanded_url": "http://hitchhikers.wikia.com/wiki/Eccentrica_Gallumbits",
+                "display_url": "hitchhikers.wikia.com/wiki/Eccentric…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "PlasticsReg",
+                "id": "2654907888"
+            }
+        ]
+    },
+    "id": "514680685941248000",
+    "in_reply_to_user_id": "237824213"
+}

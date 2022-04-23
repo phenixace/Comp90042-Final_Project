@@ -1,0 +1,32 @@
+{
+    "id": "560940103183638528",
+    "text": "@Patriotic_Me @ChristiChat I Wish I was standing where the picture taking is &amp; fire a 9mm round into the head of this Satan Worshipper.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Patriotic_Me",
+                "id": "35216399"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "christichat",
+                "id": "1045096472193183744"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 118,
+                "end": 133,
+                "probability": 0.3441,
+                "type": "Person",
+                "normalized_text": "Satan Worshipper"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "35216399",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-29T23:18:37.000Z"
+}

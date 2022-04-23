@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 22,
+                "probability": 0.9234,
+                "type": "Person",
+                "normalized_text": "NICKI MINAJ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16331010",
+    "created_at": "2014-11-11T20:55:26.000Z",
+    "id": "532275430699831299",
+    "source": "Twitter for iPhone",
+    "text": "@TMZ ONLY x NICKI MINAJ NOW ON ITUNESxx"
+}

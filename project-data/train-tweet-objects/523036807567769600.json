@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 39,
+                "end": 42,
+                "probability": 0.6559,
+                "type": "Person",
+                "normalized_text": "SHAQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "joerogan",
+                "id": "18208354"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-10-17T09:04:27.000Z",
+    "id": "523036807567769600",
+    "text": "@joerogan damn, I would need to borrow SHAQ'S shoe to kill that thing, mine wouldnt do the job",
+    "in_reply_to_user_id": "18208354"
+}

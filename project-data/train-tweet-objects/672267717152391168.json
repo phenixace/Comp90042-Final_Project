@@ -1,0 +1,17 @@
+{
+    "source": "Mobile Web",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC really? You don't say. Oh um you didn't say. Do you even know or understand what you said? We the people don't think so...",
+    "id": "672267717152391168",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T04:14:48.000Z"
+}

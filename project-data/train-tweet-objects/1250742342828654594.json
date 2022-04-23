@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "EyeRadioJuba",
+                "id": "1597763490"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 160,
+                "end": 178,
+                "tag": "stayhomeandbesafe"
+            }
+        ]
+    },
+    "created_at": "2020-04-16T11:06:26.000Z",
+    "id": "1250742342828654594",
+    "text": "@EyeRadioJuba People are gonna assume such, but these even kill them more. We should put our focuse on regular hand washing to insure less infections of corona #stayhomeandbesafe",
+    "in_reply_to_user_id": "1597763490"
+}

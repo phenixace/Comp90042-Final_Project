@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "972651",
+    "id": "489869642588901376",
+    "created_at": "2014-07-17T20:29:58.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@mashable @ShepNewsTeam",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    }
+}

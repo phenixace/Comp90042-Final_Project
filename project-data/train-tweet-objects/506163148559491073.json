@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "ReaI_Tupac",
+                "id": "2757239331"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@ReaI_Tupac: I'm alive, see you soon !”",
+    "id": "506163148559491073",
+    "created_at": "2014-08-31T19:34:33.000Z",
+    "in_reply_to_user_id": "2757239331"
+}

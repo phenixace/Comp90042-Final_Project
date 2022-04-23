@@ -1,0 +1,33 @@
+{
+    "id": "1238812381603602439",
+    "text": "Among the unknowns re COVID-19: how airborne is it?\n\nhttps://t.co/ers7I6RUBJ",
+    "entities": {
+        "urls": [
+            {
+                "start": 53,
+                "end": 76,
+                "url": "https://t.co/ers7I6RUBJ",
+                "expanded_url": "https://www.livescience.com/amp/coronavirus-can-spread-as-an-aerosol.html",
+                "display_url": "livescience.com/amp/coronaviru…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1483992472619560960/OlM27M5a?format=jpg&name=orig",
+                        "width": 1024,
+                        "height": 576
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1483992472619560960/OlM27M5a?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "New coronavirus may spread as an airborne aerosol, like SARS",
+                "description": "Aerosols likely pose the greatest danger in health care settings, but may also spread in some everyday scenarios.",
+                "unwound_url": "https://www.livescience.com/coronavirus-can-spread-as-an-aerosol.html"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-14T13:01:02.000Z"
+}

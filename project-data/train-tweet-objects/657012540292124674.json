@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "Fact",
+                "id": "2425231"
+            }
+        ]
+    },
+    "id": "657012540292124674",
+    "text": "@Fact tar",
+    "source": "Twitter for BlackBerry®",
+    "created_at": "2015-10-22T01:56:10.000Z",
+    "in_reply_to_user_id": "2425231"
+}

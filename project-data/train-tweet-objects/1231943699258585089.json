@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 5,
+                "end": 9,
+                "tag": "WHO"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T14:07:20.000Z",
+    "id": "1231943699258585089",
+    "text": "@WHO #WHO what do you mean by not having a process to declare pandemic? ITS AN ESSENCE OF YOUR JOB TO INFORM ABOUT DISEASES, SO WHAT THE HELL...",
+    "in_reply_to_user_id": "14499829"
+}

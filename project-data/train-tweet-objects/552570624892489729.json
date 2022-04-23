@@ -1,0 +1,24 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-06T21:01:17.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 44,
+                "tag": "petpeeve"
+            }
+        ]
+    },
+    "id": "552570624892489729",
+    "source": "Hootsuite",
+    "text": "@ABC \"its\" belongings, not \"it's\"  #petpeeve :)"
+}

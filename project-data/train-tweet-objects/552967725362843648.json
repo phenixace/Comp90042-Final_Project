@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552967725362843648",
+    "text": "@BuzzFeed @Tao_30 just breaks my heart to see this. No animal should be abandoned like this or at all!",
+    "created_at": "2015-01-07T23:19:14.000Z",
+    "in_reply_to_user_id": "5695632"
+}

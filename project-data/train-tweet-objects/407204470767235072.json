@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Mac",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "jridland",
+                "id": "216439366"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 20,
+                "probability": 0.7763,
+                "type": "Person",
+                "normalized_text": "Josh"
+            }
+        ]
+    },
+    "text": "@jridland Hi I'm Josh and I know everything.",
+    "id": "407204470767235072",
+    "in_reply_to_user_id": "216439366",
+    "created_at": "2013-12-01T17:48:05.000Z"
+}

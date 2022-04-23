@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 12,
+                "probability": 0.9565,
+                "type": "Person",
+                "normalized_text": "Kai"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-07T11:49:09.000Z",
+    "id": "552794060902367232",
+    "source": "Twitter for iPhone",
+    "text": "@ABC poor Kai.  I hope he gets lots of love."
+}

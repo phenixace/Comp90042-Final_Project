@@ -1,0 +1,67 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "latikambourke",
+                "id": "25036511"
+            },
+            {
+                "start": 87,
+                "end": 102,
+                "username": "MsIntervention",
+                "id": "4217468661"
+            },
+            {
+                "start": 103,
+                "end": 117,
+                "username": "AlArabiya_Eng",
+                "id": "22240612"
+            },
+            {
+                "start": 118,
+                "end": 131,
+                "username": "johnmcternan",
+                "id": "21146043"
+            },
+            {
+                "start": 132,
+                "end": 139,
+                "username": "riotta",
+                "id": "73971750"
+            }
+        ],
+        "urls": [
+            {
+                "start": 63,
+                "end": 85,
+                "url": "http://t.co/d83upEMt7R",
+                "expanded_url": "https://twitter.com/latikambourke/status/544289409294553088/photo/1",
+                "display_url": "pic.twitter.com/d83upEMt7R"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 29,
+                "end": 41,
+                "tag": "Sydneysiege"
+            },
+            {
+                "start": 42,
+                "end": 54,
+                "tag": "MartinPlace"
+            },
+            {
+                "start": 55,
+                "end": 61,
+                "tag": "Lindt"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25036511",
+    "created_at": "2014-12-15T00:58:43.000Z",
+    "id": "544295454305816577",
+    "text": "“@latikambourke: PMAbbott on #Sydneysiege #MartinPlace #Lindt. http://t.co/d83upEMt7R” @MsIntervention @AlArabiya_Eng @johnmcternan @riotta"
+}

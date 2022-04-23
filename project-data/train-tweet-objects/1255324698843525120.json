@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1618898251",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 113,
+                "end": 119,
+                "probability": 0.9892,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LilliaPoveda",
+                "id": "1618898251"
+            }
+        ]
+    },
+    "created_at": "2020-04-29T02:35:05.000Z",
+    "text": "@LilliaPoveda RIGHT?! EVER SINCE I SAW THAT MAX PROJECTED FLU CASES I WAS LIKE OMG this is completely different. America alone has 58k deaths",
+    "id": "1255324698843525120"
+}

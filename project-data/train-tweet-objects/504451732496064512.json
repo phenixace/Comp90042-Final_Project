@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "nielsonTSN1260",
+                "id": "57005320"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 37,
+                "probability": 0.9748,
+                "type": "Person",
+                "normalized_text": "Evander Kane"
+            }
+        ]
+    },
+    "text": "@theScore @nielsonTSN1260 Evander Kane gonne ask for a trade there?",
+    "id": "504451732496064512",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T02:13:59.000Z"
+}

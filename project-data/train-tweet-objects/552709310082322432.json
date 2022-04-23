@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552709310082322432",
+    "text": "@BuzzFeed Stories like this make me sick to my stomach reading that some people would actually  do this to an animal 💔💔",
+    "created_at": "2015-01-07T06:12:23.000Z",
+    "in_reply_to_user_id": "5695632"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Fenix for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "teganfire",
+                "id": "1614124866"
+            }
+        ]
+    },
+    "text": "@theScore @teganfire great news more jobs for players!",
+    "id": "504434336100528128",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T01:04:52.000Z"
+}

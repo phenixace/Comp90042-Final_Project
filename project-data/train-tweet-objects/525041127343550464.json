@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/y3b1EHX6gr",
+                "expanded_url": "https://twitter.com/CBCNews/status/525040836757958657/photo/1",
+                "display_url": "pic.twitter.com/y3b1EHX6gr"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 61,
+                "probability": 0.4459,
+                "type": "Other",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 79,
+                "end": 92,
+                "probability": 0.996,
+                "type": "Person",
+                "normalized_text": "Nathan Cirillo"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T21:48:54.000Z",
+    "id": "525041127343550464",
+    "source": "Twitter for iPhone",
+    "text": "This photo was taken by a tourist at the National War Memorial, shortly before Nathan Cirillo was shot and killed. http://t.co/y3b1EHX6gr"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "thisisnafissa",
+                "id": "151896622"
+            }
+        ]
+    },
+    "id": "674233086801002496",
+    "text": "@thisisnafissa and you would of thought the world would have learnt from the nazi era. Guess some people still haven't learnt",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-12-08T14:24:29.000Z",
+    "in_reply_to_user_id": "151896622"
+}

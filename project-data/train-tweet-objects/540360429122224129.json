@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 16,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "probability": 0.996,
+                "type": "Person",
+                "normalized_text": "Michelle"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "HuntBray",
+                "id": "89207133"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "89207133",
+    "created_at": "2014-12-04T04:22:20.000Z",
+    "id": "540360429122224129",
+    "source": "Twitter for iPhone",
+    "text": "“@HuntBray: Obama's daughter is pregnant lol Michelle should've spent more time with her instead of taking away our french fries” 😂😂"
+}

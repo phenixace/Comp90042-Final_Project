@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-11T16:20:01.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for iPhone",
+    "text": "@Eater Trying to imagine \"barely\" in the weird voice...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "id": "532206120186945536"
+}

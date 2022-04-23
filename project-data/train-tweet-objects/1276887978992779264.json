@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "123741554",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ladoodles",
+                "id": "123741554"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "SanDiegoCounty",
+                "id": "17200375"
+            }
+        ]
+    },
+    "created_at": "2020-06-27T14:39:52.000Z",
+    "text": "@ladoodles @SanDiegoCounty To add to that, more cases keep adding up which means I’m forced to remain at home making SIGNIFICANTLY less income on temporary disability because y’all can’t stop having brunch with your friends. CARE ABOUT OTHER PEOPLE. Stop being fucking selfish",
+    "id": "1276887978992779264"
+}

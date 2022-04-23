@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-25T09:47:00.000Z",
+    "in_reply_to_user_id": "70502914",
+    "source": "Twitter for Android",
+    "text": "@zwinst Yes, although the article notes that 42.4% is still quite some way from herd immunity. \n\nAlso, it hilariously mentions that the low rate of hospitalizations is due to the tough mountain spirit. @NAChristakis",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "zwinst",
+                "id": "70502914"
+            },
+            {
+                "start": 202,
+                "end": 215,
+                "username": "NAChristakis",
+                "id": "788363167"
+            }
+        ]
+    },
+    "id": "1276089503246139392"
+}

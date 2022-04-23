@@ -1,0 +1,17 @@
+{
+    "text": "@nycjim It not seems as a reliable source. Now all are fabricating they own versions.",
+    "created_at": "2014-07-17T22:24:03.000Z",
+    "id": "489898351886737408",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14940354",
+    "source": "Twitter for Android"
+}

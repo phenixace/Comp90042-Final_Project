@@ -1,0 +1,45 @@
+{
+    "id": "377002802570346496",
+    "in_reply_to_user_id": "2425231",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 8,
+                "end": 19,
+                "probability": 0.9919,
+                "type": "Person",
+                "normalized_text": "J.K. Rowling"
+            },
+            {
+                "start": 42,
+                "end": 53,
+                "probability": 0.5163,
+                "type": "Person",
+                "normalized_text": "Harry Potter"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 82,
+                "tag": "awesomenes"
+            },
+            {
+                "start": 86,
+                "end": 91,
+                "tag": "hope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "Fact",
+                "id": "2425231"
+            }
+        ]
+    },
+    "text": "“@Fact: J.K. Rowling is working on an 8th Harry Potter book.” Yeah !!! #awesomenes !! #hope",
+    "created_at": "2013-09-09T09:37:27.000Z"
+}

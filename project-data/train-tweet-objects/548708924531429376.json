@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/afAhqIorPu",
+                "expanded_url": "http://huzlers.com/bobby-shmurda-stabbed-death-rikers-island-jail-cell-mate/",
+                "display_url": "huzlers.com/bobby-shmurda-…"
+            },
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/5rcJUU3Gey",
+                "expanded_url": "https://twitter.com/TheHuzlers/status/548672230134382592/photo/1",
+                "display_url": "pic.twitter.com/5rcJUU3Gey"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "TheHuzlers",
+                "id": "2302467404"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "probability": 0.9959,
+                "type": "Person",
+                "normalized_text": "Bobby Shmurda"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@TheHuzlers: Bobby Shmurda Stabbed To Death In Jail By Cell Mate\n\nhttp://t.co/afAhqIorPu http://t.co/5rcJUU3Gey”😱",
+    "created_at": "2014-12-27T05:16:16.000Z",
+    "id": "548708924531429376",
+    "in_reply_to_user_id": "2302467404"
+}

@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "352075672543428608",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 9,
+                "probability": 0.9933,
+                "type": "Person",
+                "normalized_text": "Paula Deen"
+            },
+            {
+                "start": 87,
+                "end": 103,
+                "probability": 0.8728,
+                "type": "Other",
+                "normalized_text": "How To Cook A Jew"
+            }
+        ]
+    },
+    "created_at": "2013-07-02T14:45:56.000Z",
+    "text": "Paula Deen moves to have discrimination suit dismissed. Just in time for her new book \"How To Cook A Jew\"."
+}

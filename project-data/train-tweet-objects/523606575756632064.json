@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-18T22:48:30.000Z",
+    "source": "Twitter for Android Tablets",
+    "id": "523606575756632064",
+    "text": "@70torinoman But no money for raises or healthcare! Bigots!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

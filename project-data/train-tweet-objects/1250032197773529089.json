@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-14T12:04:35.000Z",
+    "id": "1250032197773529089",
+    "text": "Drinking alcohol does not protect you against COVID-19 and can be dangerous. https://t.co/0WrZt21ed5",
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 100,
+                "url": "https://t.co/0WrZt21ed5",
+                "expanded_url": "https://twitter.com/EyeRadioJuba/status/1250032197773529089/photo/1",
+                "display_url": "pic.twitter.com/0WrZt21ed5"
+            }
+        ]
+    }
+}

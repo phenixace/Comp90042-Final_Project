@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "galacticasitrep",
+                "id": "15773072"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 56,
+                "probability": 0.6299,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "text": "@ABC @galacticasitrep There's something wrong with the US at its core that it produces so many monsters.",
+    "id": "672220430946738176",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T01:06:54.000Z"
+}

@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "WinningWwg1wga",
+                "id": "190082995"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "kathygriffin",
+                "id": "21148293"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 125,
+                "end": 133,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "created_at": "2020-03-25T20:45:54.000Z",
+    "text": "@WinningWwg1wga @kathygriffin Lot's of hospitals do.  However, what kind of hospital puts an isolation mask on someone with  #COVID19 symptoms?  Most hospitals immediately put patients with those kinds of symptoms on O2 (i.e. non-rebreather).  She must not have the symptoms (low SP02).  Could be psychogenic.",
+    "id": "1242915635853766659",
+    "in_reply_to_user_id": "190082995",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 11,
+                "end": 18,
+                "probability": 0.9453,
+                "type": "Person",
+                "normalized_text": "Big Hank"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16331010",
+    "created_at": "2014-11-11T23:12:43.000Z",
+    "id": "532309979290947584",
+    "source": "Twitter Web Client",
+    "text": "@TMZ Sorry Big Hank, Sing that song"
+}

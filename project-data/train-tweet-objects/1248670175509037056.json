@@ -1,0 +1,23 @@
+{
+    "id": "1248670175509037056",
+    "in_reply_to_user_id": "741038015640932353",
+    "created_at": "2020-04-10T17:52:23.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@jo_journey2912 @realTuckFrumper It will.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "jo_journey2912",
+                "id": "741038015640932353"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "realTuckFrumper",
+                "id": "55060090"
+            }
+        ]
+    }
+}

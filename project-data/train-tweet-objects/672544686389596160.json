@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 21,
+                "probability": 0.997,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T22:35:23.000Z",
+    "id": "672544686389596160",
+    "text": "@Rockprincess818 Obama = hate race religion gender himself?"
+}

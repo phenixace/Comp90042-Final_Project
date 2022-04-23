@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "popup82",
+                "id": "111248362"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.918,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "created_at": "2014-09-13T22:34:31.000Z",
+    "text": "@popup82 When this will stop... For Jesus sake...",
+    "in_reply_to_user_id": "111248362",
+    "id": "510919481804468224"
+}

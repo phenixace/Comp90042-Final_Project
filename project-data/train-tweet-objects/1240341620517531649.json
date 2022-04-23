@@ -1,0 +1,15 @@
+{
+    "source": "Twitter Web App",
+    "id": "1240341620517531649",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 179,
+                "end": 198,
+                "tag": "KHKTCoronaCampaign"
+            }
+        ]
+    },
+    "created_at": "2020-03-18T18:17:41.000Z",
+    "text": "Are there any specific medicines to prevent or treat the new coronavirus?\nTo date, there is no specific medicine recommended to prevent or treat the new coronavirus (2019-nCoV).\n\n#KHKTCoronaCampaign"
+}

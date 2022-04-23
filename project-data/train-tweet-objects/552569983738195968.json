@@ -1,0 +1,24 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-06T20:58:45.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 60,
+                "tag": "Paddington"
+            }
+        ]
+    },
+    "id": "552569983738195968",
+    "source": "Twitter Web Client",
+    "text": ".@ABC Reminds me of the classic children's story #Paddington Bear."
+}

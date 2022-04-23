@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "16311797",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "WSJPolitics",
+                "id": "16311797"
+            }
+        ]
+    },
+    "created_at": "2015-06-28T02:02:36.000Z",
+    "text": "@WSJPolitics I think it's wonderful, for all my friends and family who are positively affected by this! Every family will benefit from this.",
+    "id": "614977164253855744"
+}

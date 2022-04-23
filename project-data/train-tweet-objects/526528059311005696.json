@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-27T00:17:26.000Z",
+    "source": "Twitter for iPhone",
+    "id": "526528059311005696",
+    "text": "@latimes whew we were SO worried for like not at all.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16664681"
+}

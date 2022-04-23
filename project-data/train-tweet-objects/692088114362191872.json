@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "thisisnafissa",
+                "id": "151896622"
+            },
+            {
+                "start": 15,
+                "end": 30,
+                "username": "GlobalGatherin",
+                "id": "4305519569"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 116,
+                "end": 123,
+                "probability": 0.9663,
+                "type": "Person",
+                "normalized_text": "TED CRUZ"
+            }
+        ]
+    },
+    "id": "692088114362191872",
+    "text": "@thisisnafissa @GlobalGatherin YEP! YOU KNOW IT AND HE IS TRY TO KEEP US WITH SOCIETY AND KNOW I AM ONLY VOTING FOR TED CRUZ, YOU WOULD BE",
+    "source": "Twitter Web Client",
+    "created_at": "2016-01-26T20:53:59.000Z",
+    "in_reply_to_user_id": "151896622"
+}

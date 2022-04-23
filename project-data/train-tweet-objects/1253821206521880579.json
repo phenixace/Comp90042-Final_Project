@@ -1,0 +1,20 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 149,
+                "end": 172,
+                "url": "https://t.co/fja4oRuhTS",
+                "expanded_url": "https://legacytrust.com.hk/en/",
+                "display_url": "legacytrust.com.hk/en/",
+                "status": 200,
+                "unwound_url": "https://legacytrust.com.hk/en/"
+            }
+        ]
+    },
+    "id": "1253821206521880579",
+    "text": "Custody is where assets are physically stored. The Trust is the entity which has permission to manage the assets.\nThis site has great explanations:\n\nhttps://t.co/fja4oRuhTS",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-24T23:00:45.000Z",
+    "in_reply_to_user_id": "1153377427034259457"
+}

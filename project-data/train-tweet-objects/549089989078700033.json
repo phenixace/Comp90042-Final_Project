@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android Tablets",
+    "text": "@TheHuzlers @roach_nigga huzlers is fake asf",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TheHuzlers",
+                "id": "2302467404"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "roach_nigga",
+                "id": "2759078345"
+            }
+        ]
+    },
+    "created_at": "2014-12-28T06:30:29.000Z",
+    "id": "549089989078700033",
+    "in_reply_to_user_id": "2302467404"
+}

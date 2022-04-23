@@ -1,0 +1,23 @@
+{
+    "text": "@KegOfGrog @mindtapes sì ho risposto in modo analogo anche io e concordo, ed è proprio posta male la domanda. Cmq è ulteriormente complesso perchè nn è banale nemmeno dire che il consensus sia \"la vera scienza\".",
+    "id": "1252247868867477507",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KegOfGrog",
+                "id": "1050454997593444359"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "mindtapes",
+                "id": "405539247"
+            }
+        ]
+    },
+    "created_at": "2020-04-20T14:48:52.000Z",
+    "in_reply_to_user_id": "1050454997593444359"
+}

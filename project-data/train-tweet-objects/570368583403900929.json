@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-02-24T23:44:01.000Z",
+    "text": "@entwise Gorgeous Christian Grey. Why do idiots love to start rumors!",
+    "id": "570368583403900929",
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 31,
+                "probability": 0.7064,
+                "type": "Person",
+                "normalized_text": "Christian Grey"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "entwise",
+                "id": "119384138"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "119384138"
+}

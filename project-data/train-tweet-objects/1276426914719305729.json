@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 138,
+                "end": 142,
+                "probability": 0.9943,
+                "type": "Place",
+                "normalized_text": "Wales"
+            }
+        ],
+        "urls": [
+            {
+                "start": 235,
+                "end": 258,
+                "url": "https://t.co/uUrqqWqIWi",
+                "expanded_url": "http://ow.ly/u5fq50AinyJ",
+                "display_url": "ow.ly/u5fq50AinyJ",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1487761041077542912/PwtcjE-W?format=jpg&name=orig",
+                        "width": 1024,
+                        "height": 576
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1487761041077542912/PwtcjE-W?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Coronavirus lockdown: Warning after Ogmore-by-Sea mass brawl",
+                "description": "First Minister Mark Drakeford says lockdown will not be eased if large parties continue on beaches.",
+                "unwound_url": "https://www.bbc.co.uk/news/uk-wales-53186920"
+            }
+        ]
+    },
+    "text": "We will not be able to continue easing restrictions if scenes like last night continue to happen. \n\nThey threaten the health of people in Wales and undermine the sacrifices the majority of people have made during this ongoing crisis.\n\nhttps://t.co/uUrqqWqIWi",
+    "source": "Hootsuite Inc.",
+    "created_at": "2020-06-26T08:07:45.000Z",
+    "id": "1276426914719305729"
+}

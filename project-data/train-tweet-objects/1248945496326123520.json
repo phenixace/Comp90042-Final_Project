@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 21,
+                "probability": 0.4547,
+                "type": "Product",
+                "normalized_text": "Benz"
+            }
+        ]
+    },
+    "created_at": "2020-04-11T12:06:25.000Z",
+    "in_reply_to_user_id": "624949716",
+    "source": "Twitter Web App",
+    "text": "money just to buy Benz and pay for good apartment.\n\nSome youth are political thugs just to make money and buy cloths to impress their girlfriends and drink alcohol. \n\nYou Kidnapped your fellow brothers and sister for money to build big mansion.",
+    "id": "1248945496326123520"
+}

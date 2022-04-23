@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 32,
+                "end": 47,
+                "username": "benjaminsinger",
+                "id": "707592405307027457"
+            },
+            {
+                "start": 48,
+                "end": 62,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "672831782128099328",
+    "created_at": "2015-12-04T17:36:12.000Z",
+    "in_reply_to_user_id": "487140964",
+    "text": "@TAYLORGANGbngme @gamercoupleq8 @benjaminsinger @RealAlexJones Guns in the hands of mentally ill people and religious fanatics kill people."
+}

@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 23,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 99,
+                "probability": 0.9823,
+                "type": "Person",
+                "normalized_text": "David Haines"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "developing"
+            },
+            {
+                "start": 104,
+                "end": 109,
+                "tag": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-13T22:33:36.000Z",
+    "text": "#developing\nRT @FoxNews: BREAKING: Video claims to show beheading of British aid worker David Haines by #ISIS.",
+    "in_reply_to_user_id": "1367531",
+    "id": "510919251453304833"
+}

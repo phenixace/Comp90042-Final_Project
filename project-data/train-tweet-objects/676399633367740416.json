@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "22283928",
+    "id": "676399633367740416",
+    "created_at": "2015-12-14T13:53:34.000Z",
+    "source": "TweetDeck",
+    "text": "@BleacherNation @nycjim it wasn't even a quote according to the article but of course its reported as such...and the lemmings all jump",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "BleacherNation",
+                "id": "22283928"
+            },
+            {
+                "start": 16,
+                "end": 23,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    }
+}

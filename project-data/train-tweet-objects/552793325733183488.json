@@ -1,0 +1,17 @@
+{
+    "id": "552793325733183488",
+    "in_reply_to_user_id": "2097571",
+    "source": "Twitter for Android",
+    "text": "@cnni when will we hear good new like the people are living in peace, hmmmm.....killing every day",
+    "created_at": "2015-01-07T11:46:13.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    }
+}

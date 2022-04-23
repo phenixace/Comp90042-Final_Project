@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-27T17:49:22.000Z",
+    "text": "@robinmarsh9 how good is co-worker at distinguishing \"Islamic phrases\" from specifically jihadist phrases? wld be useful to know what phrase",
+    "id": "515921149817917440",
+    "in_reply_to_user_id": "22844997",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "robinmarsh9",
+                "id": "22844997"
+            }
+        ]
+    }
+}

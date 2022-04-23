@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-17T17:35:46.000Z",
+    "id": "1239968684719796233",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "va_shiva",
+                "id": "364214133"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "MIT",
+                "id": "15460048"
+            }
+        ],
+        "urls": [
+            {
+                "start": 289,
+                "end": 312,
+                "url": "https://t.co/4Pfv5gEw5a",
+                "expanded_url": "https://twitter.com/ddsoffice/status/1239968684719796233/photo/1",
+                "display_url": "pic.twitter.com/4Pfv5gEw5a"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "12277922",
+    "text": "@va_shiva @MIT Other: Response to this Covid-19 is troublesome. So many millions clueless 'what is a Coronavirus' &amp; there are airborne vs. non-airborne viruses-while they're hoarding TP &amp; masks, they show what they don't know by omitting eye protection(mucous membranes 'ya know?) https://t.co/4Pfv5gEw5a"
+}

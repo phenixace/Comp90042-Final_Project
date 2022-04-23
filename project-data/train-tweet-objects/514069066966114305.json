@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-22T15:09:51.000Z",
+    "text": "@DailyMail Thin I'll take up Juggling...........",
+    "id": "514069066966114305",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

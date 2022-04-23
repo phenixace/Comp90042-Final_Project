@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-14T12:10:32.000Z",
+    "id": "1238799671696297985",
+    "entities": {
+        "urls": [
+            {
+                "start": 44,
+                "end": 67,
+                "url": "https://t.co/zU95YEnIrI",
+                "expanded_url": "https://twitter.com/MX3Supplements/status/1238799671696297985/photo/1",
+                "display_url": "pic.twitter.com/zU95YEnIrI"
+            }
+        ]
+    },
+    "text": "🔔 FAQ: What are the symptoms of COVID-19? 🔔 https://t.co/zU95YEnIrI"
+}

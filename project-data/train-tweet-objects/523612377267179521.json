@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-10-18T23:11:33.000Z",
+    "source": "TweetDeck",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 33,
+                "tag": "Walmart"
+            },
+            {
+                "start": 71,
+                "end": 78,
+                "tag": "Target"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "BabsLakey1",
+                "id": "479263733"
+            }
+        ]
+    },
+    "id": "523612377267179521",
+    "text": "@70torinoman @BabsLakey1 #Walmart just lost another customer - back to #Target for my coffee",
+    "in_reply_to_user_id": "635745335"
+}

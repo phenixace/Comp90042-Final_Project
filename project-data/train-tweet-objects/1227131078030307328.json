@@ -1,0 +1,26 @@
+{
+    "id": "1227131078030307328",
+    "in_reply_to_user_id": "4900640590",
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 44,
+                "probability": 0.533,
+                "type": "Organization",
+                "normalized_text": "The World Health Organisation"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Abeauty_dj_YBC",
+                "id": "4900640590"
+            }
+        ]
+    },
+    "text": "@Abeauty_dj_YBC The World Health Organisation says it is safe, they have done their research",
+    "created_at": "2020-02-11T07:23:42.000Z"
+}

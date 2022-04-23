@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-20T01:06:09.000Z",
+    "text": "@WSJ Late Soviet Union surplus.",
+    "id": "490663922291068930",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351"
+}

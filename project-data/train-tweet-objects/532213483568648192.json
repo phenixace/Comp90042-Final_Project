@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 31,
+                "url": "http://t.co/CzBz7dKkZo",
+                "expanded_url": "http://bit.ly/1uYHFoA",
+                "display_url": "bit.ly/1uYHFoA"
+            },
+            {
+                "start": 32,
+                "end": 54,
+                "url": "http://t.co/jkjo3LfOyv",
+                "expanded_url": "https://twitter.com/Eater/status/532199717594497024/photo/1",
+                "display_url": "pic.twitter.com/jkjo3LfOyv"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 7,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T16:49:17.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for iPhone",
+    "text": "“@Eater: http://t.co/CzBz7dKkZo http://t.co/jkjo3LfOyv” am I getting old when I don't understand half of these?",
+    "id": "532213483568648192"
+}

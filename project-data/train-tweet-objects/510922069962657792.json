@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 47,
+                "probability": 0.8579,
+                "type": "Person",
+                "normalized_text": "SADDAM HUSSEIN"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-13T22:44:48.000Z",
+    "text": "@FoxNews WHO WAS IT THAT BEHEADED SADDAM HUSSEIN???",
+    "in_reply_to_user_id": "1367531",
+    "id": "510922069962657792"
+}

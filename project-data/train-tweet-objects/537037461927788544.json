@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "16973333",
+    "text": "@Independent love my parents for teaching me this- I played with barbers and even Lego technic",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 82,
+                "end": 93,
+                "probability": 0.3718,
+                "type": "Product",
+                "normalized_text": "Lego technic"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "created_at": "2014-11-25T00:18:03.000Z",
+    "id": "537037461927788544"
+}

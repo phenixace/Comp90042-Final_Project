@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "GuardianUS",
+                "id": "16042794"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "morgfair",
+                "id": "156306739"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16042794",
+    "created_at": "2015-01-07T02:14:57.000Z",
+    "id": "552649561437908992",
+    "text": "@GuardianUS @morgfair How sad. I hope they find a loving home for him. I would take this dog!",
+    "source": "Twitter Web Client"
+}

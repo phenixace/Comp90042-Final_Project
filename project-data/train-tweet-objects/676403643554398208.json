@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "143228043",
+    "id": "676403643554398208",
+    "created_at": "2015-12-14T14:09:30.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@gotaylorgo @nycjim @KeithOlbermann because these are adults...on council! Not children.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "gotaylorgo",
+                "id": "143228043"
+            },
+            {
+                "start": 12,
+                "end": 19,
+                "username": "nycjim",
+                "id": "14940354"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "KeithOlbermann",
+                "id": "130617778"
+            }
+        ]
+    }
+}

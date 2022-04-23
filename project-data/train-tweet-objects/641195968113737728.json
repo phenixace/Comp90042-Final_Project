@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "641195968113737728",
+    "text": "@nytimes @TonyPerkinsFOX5 And left little behind. A few old  16 mm  film clips, and that's about it.",
+    "created_at": "2015-09-08T10:26:46.000Z",
+    "in_reply_to_user_id": "807095"
+}

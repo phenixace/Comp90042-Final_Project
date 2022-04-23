@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 62,
+                "end": 67,
+                "probability": 0.9988,
+                "type": "Place",
+                "normalized_text": "Brazil"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ledbettercarly",
+                "id": "115245884"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "115245884",
+    "created_at": "2015-08-04T17:16:52.000Z",
+    "id": "628615599309123584",
+    "source": "Twitter Web Client",
+    "text": "@ledbettercarly @HuffingtonPost There are some stores here in Brazil that sell peeled bananas and tangerines. Yes, the End is near."
+}

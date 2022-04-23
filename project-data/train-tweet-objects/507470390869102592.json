@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-04T10:09:04.000Z",
+    "source": "Twitter Web Client",
+    "id": "507470390869102592",
+    "text": "@HuffingtonPost These kind of hoaxes make me so mad ... ;(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14511951"
+}

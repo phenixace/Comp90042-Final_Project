@@ -1,0 +1,23 @@
+{
+    "id": "552826438798172160",
+    "in_reply_to_user_id": "28292289",
+    "source": "TweetDeck",
+    "text": "@jayanthkumarak @cnni Sad sad day",
+    "created_at": "2015-01-07T13:57:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "jayanthkumarak",
+                "id": "998690288083206144"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 24,
+                "probability": 0.8419,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TheKirkness",
+                "id": "109892126"
+            }
+        ]
+    },
+    "text": "@TheKirkness Radio Canada tweeting same. must be true :-(",
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T16:54:52.000Z",
+    "in_reply_to_user_id": "109892126",
+    "id": "524967134339022848"
+}

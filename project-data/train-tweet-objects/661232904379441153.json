@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 33,
+                "probability": 0.737,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "RawStory",
+                "id": "16041234"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "OMAHAGEMGIRL",
+                "id": "333014276"
+            }
+        ]
+    },
+    "id": "661232904379441153",
+    "text": "@RawStory @OMAHAGEMGIRL If the KKK is a TERRORIST ORGANIZATION! HOW IS HE STILL MAYOR? &amp; SHOULD HE NOT BE PUT ON THE TERRORIST WATCH LIST??",
+    "created_at": "2015-11-02T17:26:24.000Z",
+    "in_reply_to_user_id": "16041234"
+}

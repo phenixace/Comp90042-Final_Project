@@ -1,0 +1,17 @@
+{
+    "id": "1244221591845851136",
+    "created_at": "2020-03-29T11:15:18.000Z",
+    "source": "Twitter for Android",
+    "text": "To be completely honest: at first, like many, I thought Covid-19 is \"just like the flu\"... until I read some background info on the flu and what it did in the early 1900's... these folks are working their butts off trying to save as many lifes as they can. 1/2 https://t.co/i2SpB7tEWw",
+    "entities": {
+        "urls": [
+            {
+                "start": 261,
+                "end": 284,
+                "url": "https://t.co/i2SpB7tEWw",
+                "expanded_url": "https://twitter.com/Travelito24/status/1241684250031783938",
+                "display_url": "twitter.com/Travelito24/st…"
+            }
+        ]
+    }
+}

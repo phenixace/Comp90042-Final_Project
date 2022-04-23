@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "672834696963837954",
+    "created_at": "2015-12-04T17:47:47.000Z",
+    "in_reply_to_user_id": "109065990",
+    "text": "@RealAlexJones He can stick his executive bull crap where the Sun doesn't shine. Rights are not up for debate."
+}

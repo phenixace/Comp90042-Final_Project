@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/kwYbR2qs49",
+                "expanded_url": "http://abcn.ws/1zlgGGm",
+                "display_url": "abcn.ws/1zlgGGm"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 34,
+                "probability": 0.9878,
+                "type": "Person",
+                "normalized_text": "Nathan Cirillo"
+            },
+            {
+                "start": 68,
+                "end": 73,
+                "probability": 0.9803,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2014-10-23T06:33:29.000Z",
+    "id": "525173142684467200",
+    "source": "Twitter for iPad",
+    "text": "“@ABC: Canadian Cpl. Nathan Cirillo killed by gunman while guarding Canada's National War Memorial: http://t.co/kwYbR2qs49\nHeartbreaking💔"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "532574739878141952",
+    "text": "“@waff48: Did you see the slang words this Chick-fil-a manager banned? http://t.co/TG0rVB1oxP http://t.co/uGku1F5brH” @alexHEATherly9 0-100",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "waff48",
+                "id": "18058293"
+            },
+            {
+                "start": 118,
+                "end": 133,
+                "username": "alexHEATherly9",
+                "id": "295343882"
+            }
+        ],
+        "urls": [
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/TG0rVB1oxP",
+                "expanded_url": "http://shout.lt/KMv9",
+                "display_url": "shout.lt/KMv9"
+            },
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/uGku1F5brH",
+                "expanded_url": "https://twitter.com/waff48/status/532559937269166080/photo/1",
+                "display_url": "pic.twitter.com/uGku1F5brH"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "18058293",
+    "created_at": "2014-11-12T16:44:47.000Z"
+}

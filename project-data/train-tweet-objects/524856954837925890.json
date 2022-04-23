@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 65,
+                "end": 81,
+                "probability": 0.4696,
+                "type": "Person",
+                "normalized_text": "Goliath Birdeater"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/HcsfC9p1Cy",
+                "expanded_url": "http://eonli.ne/1tb7Bv2",
+                "display_url": "eonli.ne/1tb7Bv2"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/2vo5cj5MOk",
+                "expanded_url": "https://twitter.com/eonline/status/524699123971534848/photo/1",
+                "display_url": "pic.twitter.com/2vo5cj5MOk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 9,
+                "end": 17,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 7,
+                "tag": "Aragog"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T09:37:04.000Z",
+    "in_reply_to_user_id": "2883841",
+    "source": "Plume for Android",
+    "text": "#Aragog «@eonline We only have one thing to say about that giant Goliath Birdeater spider: http://t.co/HcsfC9p1Cy http://t.co/2vo5cj5MOk»",
+    "id": "524856954837925890"
+}

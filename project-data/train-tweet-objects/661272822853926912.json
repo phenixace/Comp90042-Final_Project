@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 67,
+                "probability": 0.9828,
+                "type": "Place",
+                "normalized_text": "San Francisco"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "JasHowie",
+                "id": "2432371249"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "RawStory",
+                "id": "16041234"
+            }
+        ]
+    },
+    "id": "661272822853926912",
+    "text": "@JasHowie @RawStory enough gay men hate hate blacks in San Francisco, minus naturally the underage black boy prostitutes they have sex with",
+    "created_at": "2015-11-02T20:05:01.000Z",
+    "in_reply_to_user_id": "2432371249"
+}

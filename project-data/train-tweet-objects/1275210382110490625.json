@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "text": "@Bill_Maxwell_ Yep. Viruses don't disappear. Just look at measles. Controlled, literally no cases in western world until anti-vaxers. Measles are making a come back. Virus didn't disappear, just waited for stupid people to not vaccinate.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bill_Maxwell_",
+                "id": "958555581198954497"
+            }
+        ]
+    },
+    "created_at": "2020-06-22T23:33:42.000Z",
+    "id": "1275210382110490625",
+    "in_reply_to_user_id": "958555581198954497"
+}

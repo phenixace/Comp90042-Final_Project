@@ -1,0 +1,32 @@
+{
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 15,
+                "username": "WhiteHouse",
+                "id": "1323730225067339784"
+            }
+        ],
+        "urls": [
+            {
+                "start": 52,
+                "end": 74,
+                "url": "http://t.co/oti475b0sb",
+                "expanded_url": "https://twitter.com/allanbrocka/status/614593989203886080/photo/1",
+                "display_url": "pic.twitter.com/oti475b0sb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 42,
+                "end": 51,
+                "tag": "LoveWins"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:40:00.000Z",
+    "id": "614593989203886080",
+    "text": "The @WhiteHouse is lit up like a rainbow! #LoveWins http://t.co/oti475b0sb"
+}

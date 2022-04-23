@@ -1,0 +1,38 @@
+{
+    "id": "560918137386721280",
+    "text": "@the0wl93 @Patriotic_Me @gentlemanirish Good for you, USAFSS was my gig.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "the0wl93",
+                "id": "415097562"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "Patriotic_Me",
+                "id": "35216399"
+            },
+            {
+                "start": 24,
+                "end": 39,
+                "username": "gentlemanirish",
+                "id": "159447476"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 59,
+                "probability": 0.4524,
+                "type": "Person",
+                "normalized_text": "USAFSS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "415097562",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-29T21:51:19.000Z"
+}

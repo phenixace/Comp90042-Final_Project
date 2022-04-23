@@ -1,0 +1,17 @@
+{
+    "source": "SocialFlow",
+    "created_at": "2020-03-28T12:44:53.000Z",
+    "id": "1243881748456497152",
+    "text": "THREAD\n\nWith a lot of misinformation circulating, we clear up some of the biggest misconceptions around the outbreak.\n\nCoronavirus myths debunked 👇 https://t.co/yAguniYfx6",
+    "entities": {
+        "urls": [
+            {
+                "start": 148,
+                "end": 171,
+                "url": "https://t.co/yAguniYfx6",
+                "expanded_url": "https://twitter.com/AJEnglish/status/1243881748456497152/photo/1",
+                "display_url": "pic.twitter.com/yAguniYfx6"
+            }
+        ]
+    }
+}

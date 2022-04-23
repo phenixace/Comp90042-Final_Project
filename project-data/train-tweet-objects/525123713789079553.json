@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2014-10-23T03:17:04.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "525123713789079553",
+    "source": "Twitter for Android Tablets",
+    "text": "@ABC @Kbrennan_WTAE RIP Prayers to all :'("
+}

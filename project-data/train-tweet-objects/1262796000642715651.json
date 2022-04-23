@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Sya1o",
+                "id": "1317680676"
+            }
+        ],
+        "urls": [
+            {
+                "start": 152,
+                "end": 175,
+                "url": "https://t.co/UlHcfBeBHY",
+                "expanded_url": "https://twitter.com/SadeMKH4/status/1262796000642715651/photo/1",
+                "display_url": "pic.twitter.com/UlHcfBeBHY"
+            },
+            {
+                "start": 152,
+                "end": 175,
+                "url": "https://t.co/UlHcfBeBHY",
+                "expanded_url": "https://twitter.com/SadeMKH4/status/1262796000642715651/photo/1",
+                "display_url": "pic.twitter.com/UlHcfBeBHY"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1317680676",
+    "created_at": "2020-05-19T17:23:22.000Z",
+    "text": "@Sya1o hi bud,got a questio.\nI must admit I do not understand what are these results ( I understand the Laffey one ), could you tell me what they mean? https://t.co/UlHcfBeBHY",
+    "id": "1262796000642715651",
+    "source": "Twitter for Android"
+}

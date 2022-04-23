@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FlyersNation",
+                "id": "493658381"
+            }
+        ]
+    },
+    "id": "504501434042572800",
+    "text": "@FlyersNation is this where the conferences are evened out? Three out west and one east? These are the questions that need answers...",
+    "created_at": "2014-08-27T05:31:29.000Z",
+    "in_reply_to_user_id": "493658381"
+}

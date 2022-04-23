@@ -1,0 +1,32 @@
+{
+    "id": "1235514539937955840",
+    "entities": {
+        "urls": [
+            {
+                "start": 143,
+                "end": 166,
+                "url": "https://t.co/EOzxzF9s1i",
+                "expanded_url": "http://bit.ly/2TARUjc",
+                "display_url": "bit.ly/2TARUjc"
+            },
+            {
+                "start": 167,
+                "end": 190,
+                "url": "https://t.co/HErxU7lH6V",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1235514539937955840/photo/1",
+                "display_url": "pic.twitter.com/HErxU7lH6V"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 75,
+                "tag": "coronovirus"
+            }
+        ]
+    },
+    "created_at": "2020-03-05T10:36:35.000Z",
+    "text": "MYTH BUSTERS:\n\nQ: Are hand dryers effective in killing the new #coronovirus?\n\nA: No. Hand dryers are not effective in killing the 2019-nCoV.\n\n👉https://t.co/EOzxzF9s1i https://t.co/HErxU7lH6V",
+    "in_reply_to_user_id": "1545915336",
+    "source": "Twitter Web App"
+}

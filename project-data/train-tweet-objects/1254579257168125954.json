@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 156,
+                "end": 161,
+                "probability": 0.7574,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 187,
+                "end": 198,
+                "tag": "censorship"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "InnesKay",
+                "id": "1348208160"
+            }
+        ]
+    },
+    "text": "@InnesKay Some of us believe in protecting our constitutional rights. There are plenty of solutions that don't involve the government getting into bed with Amazon to stalk us. It is like #censorship, these freedoms were hard fought and easily lost.\n\nWait and see where this ends up.",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-27T01:12:58.000Z",
+    "in_reply_to_user_id": "1348208160",
+    "id": "1254579257168125954"
+}

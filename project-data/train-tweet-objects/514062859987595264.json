@@ -1,0 +1,33 @@
+{
+    "source": "SocialFlow",
+    "created_at": "2014-09-22T14:45:11.000Z",
+    "text": "Florida woman surgically adds third breast in bid to become reality TV star http://t.co/rDUoreNnld http://t.co/JDwHOCeNyF",
+    "entities": {
+        "urls": [
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/rDUoreNnld",
+                "expanded_url": "http://dailym.ai/1paDRZS",
+                "display_url": "dailym.ai/1paDRZS"
+            },
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/JDwHOCeNyF",
+                "expanded_url": "https://twitter.com/DailyMail/status/514062859987595264/photo/1",
+                "display_url": "pic.twitter.com/JDwHOCeNyF"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "probability": 0.8748,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ]
+    },
+    "id": "514062859987595264"
+}

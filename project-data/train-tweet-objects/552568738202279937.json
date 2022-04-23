@@ -1,0 +1,53 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 50,
+                "url": "http://t.co/5893ZG2I85",
+                "expanded_url": "https://twitter.com/BEADEDEYECHAIN/status/552568738202279937/photo/1",
+                "display_url": "pic.twitter.com/5893ZG2I85"
+            },
+            {
+                "start": 28,
+                "end": 50,
+                "url": "http://t.co/5893ZG2I85",
+                "expanded_url": "https://twitter.com/BEADEDEYECHAIN/status/552568738202279937/photo/1",
+                "display_url": "pic.twitter.com/5893ZG2I85"
+            },
+            {
+                "start": 28,
+                "end": 50,
+                "url": "http://t.co/5893ZG2I85",
+                "expanded_url": "https://twitter.com/BEADEDEYECHAIN/status/552568738202279937/photo/1",
+                "display_url": "pic.twitter.com/5893ZG2I85"
+            },
+            {
+                "start": 28,
+                "end": 50,
+                "url": "http://t.co/5893ZG2I85",
+                "expanded_url": "https://twitter.com/BEADEDEYECHAIN/status/552568738202279937/photo/1",
+                "display_url": "pic.twitter.com/5893ZG2I85"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "BEADEDEYECHAIN",
+                "id": "2316163279"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-06T20:53:48.000Z",
+    "id": "552568738202279937",
+    "source": "Twitter for Android",
+    "text": "@ABC Ahhhhh @BEADEDEYECHAIN http://t.co/5893ZG2I85"
+}

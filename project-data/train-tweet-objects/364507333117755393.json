@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@Reuters One word comes to mind....Godzilla !!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 42,
+                "probability": 0.3318,
+                "type": "Person",
+                "normalized_text": "Godzilla"
+            }
+        ]
+    },
+    "created_at": "2013-08-05T22:04:55.000Z",
+    "id": "364507333117755393",
+    "in_reply_to_user_id": "1652541"
+}

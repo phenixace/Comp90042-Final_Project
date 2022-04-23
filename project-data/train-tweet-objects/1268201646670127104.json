@@ -1,0 +1,22 @@
+{
+    "id": "1268201646670127104",
+    "text": "To view this information to help understand the full picture, visit https://t.co/72uSkl2FXy and select COVD-19 Dashboard. If you are viewing on a mobile device, select “Mobile Site” in the yellow box at the top left for improved accessibility of the information.",
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/72uSkl2FXy",
+                "expanded_url": "http://health.mo.gov/coronavirus",
+                "display_url": "health.mo.gov/coronavirus",
+                "status": 200,
+                "title": "COVID-19 Outbreak | Health & Senior Services",
+                "description": "On April 1, 2022, Missouri began recognizing COVID-19 as endemic in our state. Endemic does not mean the end of COVID-19. In public health, the term endemic refers to the constant presence of a disease within a population or geographic area. Over the last two years in Missouri’s emergency response, we expanded capabilities in areas of PPE, testing, vaccinations, hospital capacity, data collection and treatments for COVID-19 that allows us to move to our next phase of recovery. Interactive, printable",
+                "unwound_url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "76761964",
+    "created_at": "2020-06-03T15:23:29.000Z"
+}

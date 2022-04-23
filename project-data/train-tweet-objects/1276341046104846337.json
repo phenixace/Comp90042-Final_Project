@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-26T02:26:33.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "rwang0",
+                "id": "14562685"
+            },
+            {
+                "start": 8,
+                "end": 18,
+                "username": "BillGates",
+                "id": "50393960"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "username": "AC360",
+                "id": "227837742"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1276341046104846337",
+    "text": "@rwang0 @BillGates @CNN @AC360 How much, if any, credit do you give MMR as mitigating any of the  lethal impact of this novel Coronavirus with unique RNA sequencing that humans have zero immunity to?",
+    "in_reply_to_user_id": "14562685"
+}

@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T17:35:31.000Z",
+    "text": "@HardRockinGirl @Wadds1972 @DailyMail well it's on über fact so it must be true. Lol 😂 http://t.co/Ezb8eFrNSB",
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/Ezb8eFrNSB",
+                "expanded_url": "https://twitter.com/lucysnipes10/status/514105726059692032/photo/1",
+                "display_url": "pic.twitter.com/Ezb8eFrNSB"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HardRockinGirl",
+                "id": "19167686"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "Wadds1972",
+                "id": "225642361"
+            },
+            {
+                "start": 27,
+                "end": 37,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    },
+    "id": "514105726059692032",
+    "in_reply_to_user_id": "19167686"
+}

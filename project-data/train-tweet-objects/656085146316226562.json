@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.9821,
+                "type": "Person",
+                "normalized_text": "Sanders"
+            },
+            {
+                "start": 50,
+                "end": 60,
+                "probability": 0.6671,
+                "type": "Person",
+                "normalized_text": "Time Warner"
+            },
+            {
+                "start": 85,
+                "end": 91,
+                "probability": 0.9983,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T12:31:03.000Z",
+    "id": "656085146316226562",
+    "text": "@cnnbrk stop fucking lying. Sanders won and since Time Warner owns you and they back Hillary you want her to win."
+}

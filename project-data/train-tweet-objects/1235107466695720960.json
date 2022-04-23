@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1235093139876003841",
+    "id": "1235107466695720960",
+    "created_at": "2020-03-04T07:39:01.000Z",
+    "text": "[3/3] People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick. #coronavirusindia",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 224,
+                "end": 241,
+                "tag": "coronavirusindia"
+            }
+        ]
+    }
+}

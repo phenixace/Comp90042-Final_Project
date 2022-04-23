@@ -1,0 +1,26 @@
+{
+    "id": "699329873266008064",
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/kdJXDEY581",
+                "expanded_url": "https://twitter.com/mkrsticMD/status/699329873266008064/photo/1",
+                "display_url": "pic.twitter.com/kdJXDEY581"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-02-15T20:30:09.000Z",
+    "text": "@Gotham3 https://t.co/kdJXDEY581",
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "srchvrs",
+                "id": "87473622"
+            }
+        ]
+    },
+    "id": "1262550730621120513",
+    "text": "@srchvrs Not needed to respond the teaser.",
+    "source": "Twitter for Android",
+    "created_at": "2020-05-19T01:08:45.000Z",
+    "in_reply_to_user_id": "87473622"
+}

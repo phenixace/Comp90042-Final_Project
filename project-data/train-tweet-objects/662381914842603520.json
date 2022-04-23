@@ -1,0 +1,44 @@
+{
+    "id": "662381914842603520",
+    "created_at": "2015-11-05T21:32:09.000Z",
+    "source": "Twitter for iPhone",
+    "text": "RT @Operation_KKK: \n\nOFFICIAL #OpKKK #HoodsOff\n\n2015 Data Release\n\nhttps://t.co/HMYlgtcN1Y\n\nWith Love,\n\nAnonymous\n\n. https://t.co/uTIMGvOeeo",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 36,
+                "tag": "OpKKK"
+            },
+            {
+                "start": 37,
+                "end": 46,
+                "tag": "HoodsOff"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/HMYlgtcN1Y",
+                "expanded_url": "http://pastebin.com/wbvP95wg",
+                "display_url": "pastebin.com/wbvP95wg"
+            },
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/uTIMGvOeeo",
+                "expanded_url": "https://twitter.com/TheBaxterBean/status/662381914842603520/photo/1",
+                "display_url": "pic.twitter.com/uTIMGvOeeo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 17,
+                "username": "Operation_KKK",
+                "id": "2883324256"
+            }
+        ]
+    }
+}

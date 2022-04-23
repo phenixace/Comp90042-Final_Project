@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "MrNegroMilitant",
+                "id": "2975722854"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 39,
+                "tag": "HoodsOff"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag": "OpKKK"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2975722854",
+    "created_at": "2015-11-02T19:44:38.000Z",
+    "id": "661267691357863937",
+    "text": "@MrNegroMilitant 👏👏👏👏👏 get'em #HoodsOff #OpKKK ✊✊✊✊"
+}

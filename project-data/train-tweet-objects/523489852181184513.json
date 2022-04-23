@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 19,
+                "tag": "fthat"
+            },
+            {
+                "start": 20,
+                "end": 45,
+                "tag": "AintNobodyGotTimeForThat"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "sweendawg45",
+                "id": "151266457"
+            }
+        ]
+    },
+    "created_at": "2014-10-18T15:04:41.000Z",
+    "id": "523489852181184513",
+    "text": "@sweendawg45 #fthat #AintNobodyGotTimeForThat",
+    "in_reply_to_user_id": "151266457"
+}

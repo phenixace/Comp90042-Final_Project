@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2015-06-23T17:59:30.000Z",
+    "id": "613406036112707585",
+    "text": "@HuffingtonPost no shakles or handcuffs bad boy",
+    "in_reply_to_user_id": "14511951"
+}

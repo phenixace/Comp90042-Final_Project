@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 60,
+                "probability": 0.9964,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "simplysavvyy",
+                "id": "4900235571"
+            }
+        ]
+    },
+    "id": "407187225324302336",
+    "in_reply_to_user_id": "123846927",
+    "created_at": "2013-12-01T16:39:34.000Z",
+    "source": "Twitter for iPhone",
+    "text": "“@simplysavvyy: R.I.P to the driver who died with Paul Walker that no one cares about because he wasn’t famous” R I P TO THIS RECYCLED TWEET"
+}

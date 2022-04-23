@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC Except that he is president.",
+    "id": "672172350973091840",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:55:51.000Z"
+}

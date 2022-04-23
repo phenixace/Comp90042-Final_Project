@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676457661592809472",
+    "created_at": "2015-12-14T17:44:09.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 66,
+                "probability": 0.8286,
+                "type": "Person",
+                "normalized_text": "Bobby Mann"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            },
+            {
+                "start": 8,
+                "end": 24,
+                "username": "JeanneFischer33",
+                "id": "1184544560"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@nycjim @JeanneFischer33 \nI'm skeptical.\n\"Local resident Bobby Mann...\"  \nIs this a real person?\nThis is the internet, this could be fake."
+}

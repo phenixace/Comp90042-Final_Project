@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 87,
+                "tag": "COVID19"
+            },
+            {
+                "start": 89,
+                "end": 93,
+                "tag": "WHO"
+            },
+            {
+                "start": 94,
+                "end": 110,
+                "tag": "BSFWHO_campaign"
+            }
+        ]
+    },
+    "text": "Do not re-use a disposable mask and always change it as soon as it gets damp.\n\n#COVID19 \n#WHO\n#BSFWHO_campaign",
+    "id": "1270633991255863297",
+    "created_at": "2020-06-10T08:28:45.000Z",
+    "in_reply_to_user_id": "885064382824292352"
+}

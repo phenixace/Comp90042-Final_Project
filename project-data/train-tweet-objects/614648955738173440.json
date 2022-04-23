@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "21980816",
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cody_k",
+                "id": "21980816"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T04:18:25.000Z",
+    "text": "@cody_k aw, so cool. Thx xo",
+    "id": "614648955738173440"
+}

@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "2906718340",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "DrGreggKilleen",
+                "id": "2906718340"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T04:49:32.000Z",
+    "text": "@DrGreggKilleen @NBCNews It also doesn't say the DON'T go to heaven! When we think we know it all, it's a sin of pride! Stay humble!!",
+    "id": "543628764517642240"
+}

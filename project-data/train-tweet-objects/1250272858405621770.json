@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 241,
+                "end": 243,
+                "probability": 0.9657,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            },
+            {
+                "start": 82,
+                "end": 95,
+                "username": "SHO_Homeland",
+                "id": "250205792"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T04:00:53.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for iPhone",
+    "text": "@StephenAtHome @DrLaPook Pawesome openimg! Very funny. Had just finished watching @SHO_Homeland &amp; was still on edge of my seat. U r very zen 2night. Suited my mood.Pls invite @PaulaReidCBS on yr show.I “discovered” her yesterday, as did the USA!Pls keep doin’ what u r doin’—giving us much-needed solace😷",
+    "id": "1250272858405621770"
+}

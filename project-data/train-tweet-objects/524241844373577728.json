@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20T16:52:50.000Z",
+    "source": "Twitter for iPad",
+    "id": "524241844373577728",
+    "text": "@70torinoman @Gdad1 I can't stomach that family. They make billions off people of color and turn around and betray their customers.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "username": "Gdad1",
+                "id": "15545122"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

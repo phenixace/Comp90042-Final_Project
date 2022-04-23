@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27T04:51:49.000Z",
+    "source": "Twitter Web Client",
+    "id": "614657363010719744",
+    "text": "@FoxNews You got to be freaking kidding me! The symbol colors of homosexuality are being splayed out over the \"People's House\"? UNREAL!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

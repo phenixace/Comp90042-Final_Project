@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 120,
+                "end": 143,
+                "url": "https://t.co/od9VBsvoBX",
+                "expanded_url": "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/custody-services/pub-ch-custody-services.pdf",
+                "display_url": "occ.gov/publications-a…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 26,
+                "end": 42,
+                "username": "StandardCustody",
+                "id": "1166486739126349824"
+            }
+        ]
+    },
+    "id": "1253821209696964613",
+    "text": "If we look at the logo of @StandardCustody , you'll notice it resembles the logo of the OCC. Coincidence? I think not.\n\nhttps://t.co/od9VBsvoBX",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-24T23:00:45.000Z",
+    "in_reply_to_user_id": "1153377427034259457"
+}

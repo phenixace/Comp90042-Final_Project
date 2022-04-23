@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-27T12:24:49.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1243514311395250177",
+    "text": "In a recent report, the Chinese Center for Disease Control and Prevention concluded that 80.9% of COVID-19 cases were mild.\n\nThe WHO also report that around 80% of people will experience a relatively mild form of the disease, which will not require specialist treatment",
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 72,
+                "probability": 0.3277,
+                "type": "Other",
+                "normalized_text": "Disease Control and Prevention"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1242401556483338240"
+}

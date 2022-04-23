@@ -1,0 +1,48 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 56,
+                "probability": 0.9837,
+                "type": "Person",
+                "normalized_text": "Dr. LaPook"
+            },
+            {
+                "start": 88,
+                "end": 101,
+                "probability": 0.9796,
+                "type": "Person",
+                "normalized_text": "Leslie Nielsen"
+            }
+        ],
+        "urls": [
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/fkQn3jFqDI",
+                "expanded_url": "https://twitter.com/MayemSnyph/status/1250275371854868480/photo/1",
+                "display_url": "pic.twitter.com/fkQn3jFqDI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T04:10:52.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for iPad",
+    "text": "@StephenAtHome @DrLaPook Sorry I can’t look at Dr. LaPook without thinking of the great Leslie Nielsen... https://t.co/fkQn3jFqDI",
+    "id": "1250275371854868480"
+}

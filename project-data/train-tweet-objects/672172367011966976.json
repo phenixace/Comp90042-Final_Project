@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 56,
+                "probability": 0.6871,
+                "type": "Other",
+                "normalized_text": "Road Rage"
+            }
+        ]
+    },
+    "text": "@ABC yes it does! Media coverage!\nRemember the \"Road Rage\" in the 1990s?",
+    "id": "672172367011966976",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:55:55.000Z"
+}

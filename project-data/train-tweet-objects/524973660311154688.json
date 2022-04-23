@@ -1,0 +1,30 @@
+{
+    "text": "@RT_com @ShorealoneFilms Just read that Soldier may still be alive. #hoping",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 75,
+                "tag": "hoping"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            },
+            {
+                "start": 8,
+                "end": 24,
+                "username": "ShorealoneFilms",
+                "id": "209681820"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T17:20:48.000Z",
+    "in_reply_to_user_id": "64643056",
+    "id": "524973660311154688"
+}

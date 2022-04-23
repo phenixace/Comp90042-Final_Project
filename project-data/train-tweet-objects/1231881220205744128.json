@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T09:59:04.000Z",
+    "id": "1231881220205744128",
+    "text": "@WHO A: Hibernate like a bear until this passes",
+    "in_reply_to_user_id": "14499829"
+}

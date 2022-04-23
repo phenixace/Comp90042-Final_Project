@@ -1,0 +1,48 @@
+{
+    "created_at": "2015-01-20T20:05:58.000Z",
+    "text": "@KyleFraser08 let's go “@Visit_CostaRica: Arenal is one of 6 spectacular volcanoes located in #CostaRica. http://t.co/NC4TukeO05”",
+    "id": "557630130932424705",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 47,
+                "probability": 0.2865,
+                "type": "Person",
+                "normalized_text": "Arenal"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "kylefraser08",
+                "id": "242944675"
+            },
+            {
+                "start": 24,
+                "end": 40,
+                "username": "Visit_CostaRica",
+                "id": "171667875"
+            }
+        ],
+        "urls": [
+            {
+                "start": 106,
+                "end": 128,
+                "url": "http://t.co/NC4TukeO05",
+                "expanded_url": "https://twitter.com/Visit_CostaRica/status/557621135320178688/photo/1",
+                "display_url": "pic.twitter.com/NC4TukeO05"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 94,
+                "end": 104,
+                "tag": "CostaRica"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "171667875"
+}

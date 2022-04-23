@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Variety",
+                "id": "17525171"
+            }
+        ]
+    },
+    "text": "@Variety that's too young!!!💔",
+    "id": "641005780339195904",
+    "in_reply_to_user_id": "17525171",
+    "created_at": "2015-09-07T21:51:02.000Z"
+}

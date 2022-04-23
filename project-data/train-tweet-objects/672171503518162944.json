@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 18,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "urls": [
+            {
+                "start": 19,
+                "end": 42,
+                "url": "https://t.co/EJHgk6V8Ja",
+                "expanded_url": "https://www.youtube.com/watch?v=7OZIOE6aMBk",
+                "display_url": "youtube.com/watch?v=7OZIOE…"
+            }
+        ]
+    },
+    "text": "@JeffRavensOs @ABC https://t.co/EJHgk6V8Ja",
+    "id": "672171503518162944",
+    "in_reply_to_user_id": "35725414",
+    "created_at": "2015-12-02T21:52:29.000Z"
+}

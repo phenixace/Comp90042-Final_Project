@@ -1,0 +1,60 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 27,
+                "username": "ME_Valentijn",
+                "id": "3377408127"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "username": "drpeachy",
+                "id": "35859054"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 43,
+                "end": 47,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/TgmtED2Dc7",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 796
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Coronavirus disease (COVID-19)",
+                "description": "Latest update 13 May 2021 - WHO is continuously monitoring and responding to this pandemic. This Q&A will be updated as more is known about COVID-19, how it spreads and how it is affecting people worldwide. For more information, regularly check the WHO coronavirus pages. https://www.who.int/covid-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19"
+            }
+        ]
+    },
+    "id": "1237020822050660352",
+    "text": "@Caseykins421 @ME_Valentijn @drpeachy @WHO @CNN The WHO site says runny nose could be a symptom https://t.co/TgmtED2Dc7",
+    "created_at": "2020-03-09T14:22:01.000Z",
+    "in_reply_to_user_id": "442949745"
+}

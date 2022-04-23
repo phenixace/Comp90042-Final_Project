@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19T19:21:51.000Z",
+    "source": "Twitter Web Client",
+    "id": "523916957532565504",
+    "text": "@ceiloazule @70torinoman where is some solid proof of this donation?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ceiloazule",
+                "id": "1055844402"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "70torinoman",
+                "id": "635745335"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1055844402"
+}

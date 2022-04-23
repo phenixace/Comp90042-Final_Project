@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "id": "364829397510922241",
+    "text": "@YourAnonNews “In other news, 17 new types of fish were discovered today. Scientists are still unsure of their origins.“",
+    "created_at": "2013-08-06T19:24:41.000Z",
+    "in_reply_to_user_id": "279390084"
+}

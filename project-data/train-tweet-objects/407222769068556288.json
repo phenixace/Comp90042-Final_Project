@@ -1,0 +1,17 @@
+{
+    "text": "@teagadinho my tweet",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "teagadinho",
+                "id": "1240505161"
+            }
+        ]
+    },
+    "id": "407222769068556288",
+    "created_at": "2013-12-01T19:00:48.000Z",
+    "in_reply_to_user_id": "124543920"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 82,
+                "end": 87,
+                "probability": 0.6028,
+                "type": "Place",
+                "normalized_text": "Rivers"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 18,
+                "end": 27,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T15:33:44.000Z",
+    "id": "1242474689487949824",
+    "source": "Twitter for Android",
+    "text": "In rounding up Dr @Ovdiasis, what is the protocol if i suspect i have COVID 19 in Rivers state?\n\nWhat is the National and Rivers State COVID 19 emergency help lines?"
+}

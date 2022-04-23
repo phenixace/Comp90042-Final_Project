@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-21T00:58:36.000Z",
+    "text": "@KKMPutrajaya adakah ada syor oleh KKM bahawa barang yang dibeli di-sanitiasi/disabun terlebih dahulu di rumah?",
+    "id": "1252401313821802496",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KKMPutrajaya",
+                "id": "531041640"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "531041640"
+}

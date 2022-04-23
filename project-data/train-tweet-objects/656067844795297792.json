@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/sRquXfrnSy",
+                "expanded_url": "http://xampfeed.com/intresting/non-humans-drove-giant-cars-on-earth-millions-of-years-ago/",
+                "display_url": "xampfeed.com/intresting/non…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T11:22:18.000Z",
+    "id": "656067844795297792",
+    "text": "@cnnbrk Non-humans drove giant Cars on Earth millions of years ago\nhttp://t.co/sRquXfrnSy"
+}

@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "130834875",
+    "created_at": "2014-09-14T02:48:28.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 24,
+                "username": "AvaDollXXX",
+                "id": "379248944"
+            }
+        ]
+    },
+    "id": "510983389382725632",
+    "source": "Plume for Android",
+    "text": "@Scott_Losse @AvaDollXXX Maybe a deer is a just a dog with no friends."
+}

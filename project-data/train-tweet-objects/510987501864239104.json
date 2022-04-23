@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.9379,
+                "type": "Person",
+                "normalized_text": "Tupac"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 53,
+                "end": 69,
+                "username": "Kennedysanders3",
+                "id": "1099860851790630912"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "130834875",
+    "created_at": "2014-09-14T03:04:48.000Z",
+    "id": "510987501864239104",
+    "source": "Twitter for iPad",
+    "text": "“@Scott_Losse: Maybe Tupac is alive and we're dead.” @KennedySanders3"
+}

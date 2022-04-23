@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 229,
+                "end": 240,
+                "tag": "ENDCOVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 241,
+                "end": 245,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 246,
+                "end": 258,
+                "username": "Fmohnigeria",
+                "id": "346680340"
+            },
+            {
+                "start": 259,
+                "end": 272,
+                "username": "HitFMCalabar",
+                "id": "4715994441"
+            },
+            {
+                "start": 273,
+                "end": 281,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1243806908374552577",
+    "created_at": "2020-03-28T07:47:30.000Z",
+    "text": "Q&amp;A on COVID-19.\nWhat are the symptoms of COVID-19?\nThe most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.1/4 \n#ENDCOVID19\n@WHO @Fmohnigeria @HitFMCalabar @NCDCgov"
+}

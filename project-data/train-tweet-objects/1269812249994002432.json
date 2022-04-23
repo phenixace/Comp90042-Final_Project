@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "xamat",
+                "id": "9316452"
+            }
+        ]
+    },
+    "id": "1269812249994002432",
+    "text": "@xamat None of the above. It is 50%",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-08T02:03:27.000Z",
+    "in_reply_to_user_id": "9316452"
+}

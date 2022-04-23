@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-30T08:40:48.000Z",
+    "source": "TweetDeck",
+    "id": "538975924876615680",
+    "text": "@AbbyMartin Come on, Abby,look at the source. ABC have denied this.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 24,
+                "probability": 0.9752,
+                "type": "Person",
+                "normalized_text": "Abby"
+            },
+            {
+                "start": 46,
+                "end": 48,
+                "probability": 0.664,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "AbbyMartin",
+                "id": "24258355"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "24258355"
+}

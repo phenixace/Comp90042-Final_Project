@@ -1,0 +1,36 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Archaeologuy",
+                "id": "278831995"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 63,
+                "end": 76,
+                "username": "GenePrincipe",
+                "id": "112935647"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 62,
+                "tag": "rimshot"
+            }
+        ]
+    },
+    "text": "@Archaeologuy @theScore sounds like a bit of a gamble #rimshot @GenePrincipe",
+    "id": "504422900662034433",
+    "in_reply_to_user_id": "278831995",
+    "created_at": "2014-08-27T00:19:25.000Z"
+}

@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.3486,
+                "type": "Person",
+                "normalized_text": "Brent"
+            },
+            {
+                "start": 59,
+                "end": 68,
+                "probability": 0.3176,
+                "type": "Organization",
+                "normalized_text": "Harrow CCG"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "869617806",
+    "created_at": "2020-06-10T18:20:48.000Z",
+    "id": "1270782984178843649",
+    "source": "Twitter Web App",
+    "text": "Now running through community testing example of Brent and Harrow CCG. Service setup within a week of formal request and another CCG seeking the service. \n\nBut, misunderstanding remains – 'Why can't it be like IKEA?' Understanding of labs and services needs to be more widespread."
+}

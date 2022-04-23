@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "id": "532321782209196032",
+    "in_reply_to_user_id": "34880550",
+    "created_at": "2014-11-11T23:59:37.000Z",
+    "text": "@CakeFranco @FOX29philly I'm crying!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "CakeFranco",
+                "id": "1456207072178081793"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "FOX29philly",
+                "id": "14787713"
+            }
+        ]
+    }
+}

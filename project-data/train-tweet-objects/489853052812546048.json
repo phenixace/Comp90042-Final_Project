@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-07-17T19:24:03.000Z",
+    "text": "RT @Independent: ‘Nine Britons and 80 children’ feared dead after flight #MH17 ‘shot down’ \nhttp://t.co/EiOHP2Xwhk http://t.co/fi9qjMpZRx",
+    "id": "489853052812546048",
+    "source": "Hootsuite",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 15,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/EiOHP2Xwhk",
+                "expanded_url": "http://ind.pn/UeesFQ",
+                "display_url": "ind.pn/UeesFQ"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/fi9qjMpZRx",
+                "expanded_url": "https://twitter.com/Independent/status/489841070818488320/photo/1",
+                "display_url": "pic.twitter.com/fi9qjMpZRx"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 73,
+                "end": 78,
+                "tag": "MH17"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333"
+}

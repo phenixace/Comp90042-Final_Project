@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "1190301499810865152",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "OCzukay",
+                "id": "1190301499810865152"
+            }
+        ]
+    },
+    "created_at": "2020-04-28T09:59:05.000Z",
+    "text": "@OCzukay it's a creative want. they'll make you believe you need it. Friends of mine say they won't sign 5G petitions because  \"they want 5G\" but can't give me a single reason why except \"it's better than 4G\" 🤦‍♂️ I'm not even a 5G/Corona person. I'm a 5G is weapons tech person",
+    "id": "1255074046322114560"
+}

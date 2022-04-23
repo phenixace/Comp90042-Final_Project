@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DanJoseph78",
+                "id": "17971747"
+            }
+        ]
+    },
+    "created_at": "2013-10-07T03:05:37.000Z",
+    "id": "387051057488330752",
+    "text": "@DanJoseph78 when your president is all about me, what do you expect?",
+    "in_reply_to_user_id": "17971747"
+}

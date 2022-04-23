@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "xamat",
+                "id": "9316452"
+            }
+        ]
+    },
+    "id": "1262876578662346752",
+    "text": "@xamat True positives (TP): .95*5%\nFalse positives (FP): .05*95% =  TP\np = TP/(TP+FP) = 50%",
+    "source": "Twitter Web App",
+    "created_at": "2020-05-19T22:43:34.000Z",
+    "in_reply_to_user_id": "9316452"
+}

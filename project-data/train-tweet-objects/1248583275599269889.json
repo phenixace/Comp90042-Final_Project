@@ -1,0 +1,19 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/jViZ5EMAbe",
+                "expanded_url": "https://thenationonlineng.net/5g-mobile-networks-do-not-spread-covid-19-who/",
+                "display_url": "thenationonlineng.net/5g-mobile-netw…",
+                "status": 404,
+                "unwound_url": "https://thenationonlineng.net/5g-mobile-networks-do-not-spread-covid-19-who/"
+            }
+        ]
+    },
+    "id": "1248583275599269889",
+    "created_at": "2020-04-10T12:07:05.000Z",
+    "source": "Twitter Web Client",
+    "text": "5G mobile networks do not spread COVID-19 – WHO https://t.co/jViZ5EMAbe"
+}

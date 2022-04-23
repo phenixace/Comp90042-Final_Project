@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-19T17:50:16.000Z",
+    "in_reply_to_user_id": "617825073",
+    "text": "@WillMcAvoyACN \nGood number for people arrested.\nLoot/ commit vandalism / assault police officer.... Sounds like justified cause for arrest.",
+    "id": "501788251259015168",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "WillMcAvoyACN",
+                "id": "617825073"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "524928878075457536",
+    "text": "Soldier shot at National War Memorial in Ottawa http://t.co/WABNVkk7wA http://t.co/SRMYiIoOY9",
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 70,
+                "url": "http://t.co/WABNVkk7wA",
+                "expanded_url": "http://ift.tt/1rfqngy",
+                "display_url": "ift.tt/1rfqngy"
+            },
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/SRMYiIoOY9",
+                "expanded_url": "https://twitter.com/CBCNews/status/524928878075457536/photo/1",
+                "display_url": "pic.twitter.com/SRMYiIoOY9"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 36,
+                "probability": 0.4052,
+                "type": "Place",
+                "normalized_text": "National War Memorial"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "probability": 0.9971,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ]
+    },
+    "source": "IFTTT",
+    "created_at": "2014-10-22T14:22:51.000Z"
+}

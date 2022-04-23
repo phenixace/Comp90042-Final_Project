@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-27T06:59:32.000Z",
+    "source": "Twitter Web Client",
+    "id": "526629249814261761",
+    "text": ".@latimes Well played. But even If I squint just so, I still don't recognize this guy as Judd Nelson. @wilkravitz",
+    "entities": {
+        "annotations": [
+            {
+                "start": 89,
+                "end": 99,
+                "probability": 0.9963,
+                "type": "Person",
+                "normalized_text": "Judd Nelson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "latimes",
+                "id": "16664681"
+            },
+            {
+                "start": 102,
+                "end": 113,
+                "username": "wilkravitz",
+                "id": "196377526"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16664681"
+}

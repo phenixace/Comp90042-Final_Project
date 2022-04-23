@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T19:09:08.000Z",
+    "text": "@DailyMail it's like she's got udders",
+    "id": "514129286367039488",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

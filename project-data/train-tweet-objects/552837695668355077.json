@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-01-07T14:42:32.000Z",
+    "text": "The video rocks! 😎👍 RT@Visit_CostaRica: Peek behind the curtain of our Save The Americans video.\nhttps://t.co/3EQHB4tg5j",
+    "id": "552837695668355077",
+    "entities": {
+        "annotations": [
+            {
+                "start": 73,
+                "end": 90,
+                "probability": 0.443,
+                "type": "Other",
+                "normalized_text": "Save The Americans"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 38,
+                "username": "Visit_CostaRica",
+                "id": "171667875"
+            }
+        ],
+        "urls": [
+            {
+                "start": 97,
+                "end": 120,
+                "url": "https://t.co/3EQHB4tg5j",
+                "expanded_url": "https://amp.twimg.com/v/7b2db248-ad98-4fa7-a83e-9e0b02eff8fe",
+                "display_url": "amp.twimg.com/v/7b2db248-ad9…"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "171667875"
+}

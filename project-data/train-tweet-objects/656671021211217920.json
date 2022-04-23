@@ -1,0 +1,45 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-10-21T03:19:06.000Z",
+    "text": "@TheEconomist #Buyout/EarningsAnnouncement Soon\n$MXL MSNBuyTarget18-SOROSBuy\nRead\n#Chips&amp;productsrunALLVideo\nhttps://t.co/DEDK9t0G39\nretweet",
+    "id": "656671021211217920",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 21,
+                "tag": "Buyout"
+            },
+            {
+                "start": 82,
+                "end": 88,
+                "tag": "Chips"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 136,
+                "url": "https://t.co/DEDK9t0G39",
+                "expanded_url": "http://www.eetimes.com/document.asp?doc_id=1327855&_mc=NL_EET_EDT_EET_daily_20151001&cid=NL_EET_EDT_EET_daily_20151001&elq=9246e248892441b48e8588df674771dc&elqCampaignId=25017&elqaid=28404&elqat=1&elqTrackId=88cfd2e7dd4943748a7e781e2e1b0882",
+                "display_url": "eetimes.com/document.asp?d…"
+            }
+        ],
+        "cashtags": [
+            {
+                "start": 48,
+                "end": 52,
+                "tag": "MXL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheEconomist",
+                "id": "5988062"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5988062"
+}

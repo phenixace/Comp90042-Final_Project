@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "ThomasDrance",
+                "id": "169706895"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 56,
+                "probability": 0.9805,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            }
+        ]
+    },
+    "text": "@theScore @ThomasDrance FINALLY.  A reason to go to Vegas!!!! :)",
+    "id": "504420003236823040",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T00:07:55.000Z"
+}

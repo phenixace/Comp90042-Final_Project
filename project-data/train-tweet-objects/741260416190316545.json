@@ -1,0 +1,53 @@
+{
+    "id": "741260416190316545",
+    "entities": {
+        "annotations": [
+            {
+                "start": 56,
+                "end": 60,
+                "probability": 0.3951,
+                "type": "Person",
+                "normalized_text": "Nazis"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 31,
+                "tag": "muslimbrotherhood"
+            },
+            {
+                "start": 63,
+                "end": 75,
+                "tag": "Hillary2016"
+            },
+            {
+                "start": 85,
+                "end": 91,
+                "tag": "Egypt"
+            },
+            {
+                "start": 92,
+                "end": 98,
+                "tag": "Syria"
+            },
+            {
+                "start": 107,
+                "end": 113,
+                "tag": "Libya"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-06-10T13:27:09.000Z",
+    "text": "@Gotham3 The #muslimbrotherhood has alot in common with Nazis. #Hillary2016  = MB in #Egypt #Syria and now #Libya be careful what you wish4",
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter Web Client"
+}

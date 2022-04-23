@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 45,
+                "probability": 0.6112,
+                "type": "Person",
+                "normalized_text": "Mr. President"
+            }
+        ]
+    },
+    "text": "@ABC then enforce that damn laws Mr. President! We dont need new ones that you won't enforce!",
+    "id": "672171044095074306",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:50:39.000Z"
+}

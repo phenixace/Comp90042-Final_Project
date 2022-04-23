@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "text": "@abbasshash @coldplague 😂😂😂true",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "abbasshash",
+                "id": "47362585"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "coldplague",
+                "id": "84103119"
+            }
+        ]
+    },
+    "created_at": "2020-04-01T13:30:20.000Z",
+    "id": "1245342737366306820",
+    "in_reply_to_user_id": "47362585"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "28886934",
+    "created_at": "2014-11-13T11:10:18.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephanieRiou",
+                "id": "28886934"
+            }
+        ]
+    },
+    "id": "532852950545080320",
+    "text": "@StephanieRiou IS This real"
+}

@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-21T01:28:05.000Z",
+    "text": "@KKMPutrajaya What about those who have no money to shop??!!  Pls do something.       https://t.co/JFaFqKVv5V https://t.co/iLEKOPU0Se",
+    "id": "1252408734267006976",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/JFaFqKVv5V",
+                "expanded_url": "https://twitter.com/shalomegrace1/status/1252387132959645696?s=12",
+                "display_url": "twitter.com/shalomegrace1/…"
+            },
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/iLEKOPU0Se",
+                "expanded_url": "https://twitter.com/shalomegrace1/status/1252387132959645696",
+                "display_url": "twitter.com/shalomegrace1/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KKMPutrajaya",
+                "id": "531041640"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "531041640"
+}

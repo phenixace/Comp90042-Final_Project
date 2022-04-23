@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "text": "@TheHuzlers @roach_nigga do yall even care about being credible",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TheHuzlers",
+                "id": "2302467404"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "roach_nigga",
+                "id": "2759078345"
+            }
+        ]
+    },
+    "created_at": "2014-12-27T15:31:05.000Z",
+    "id": "548863647905488896",
+    "in_reply_to_user_id": "2302467404"
+}

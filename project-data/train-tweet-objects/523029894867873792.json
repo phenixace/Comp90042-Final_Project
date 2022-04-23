@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 40,
+                "probability": 0.5433,
+                "type": "Place",
+                "normalized_text": "Queensland Australia"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/uKudQcPCBK",
+                "expanded_url": "https://twitter.com/bevnolz/status/523029894867873792/photo/1",
+                "display_url": "pic.twitter.com/uKudQcPCBK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "joerogan",
+                "id": "18208354"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "created_at": "2014-10-17T08:36:59.000Z",
+    "id": "523029894867873792",
+    "text": "@joerogan north west Queensland Australia. Huntsman spider. On my work truck for a few weeks. http://t.co/uKudQcPCBK",
+    "in_reply_to_user_id": "18208354"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "1261617436656361472",
+    "entities": {
+        "annotations": [
+            {
+                "start": 110,
+                "end": 115,
+                "probability": 0.9966,
+                "type": "Place",
+                "normalized_text": "Africa"
+            },
+            {
+                "start": 121,
+                "end": 126,
+                "probability": 0.9858,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ]
+    },
+    "created_at": "2020-05-16T11:20:11.000Z",
+    "text": "Because of my work as an entrepreneur, I have had FREE, and I mean COMPLETELY FREE trips to some countries in Africa and Europe. It looks like I am bragging but I am actually not.",
+    "in_reply_to_user_id": "126573391",
+    "source": "Twitter for Android"
+}

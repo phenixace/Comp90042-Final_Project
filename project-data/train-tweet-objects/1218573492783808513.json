@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "Working in wet markets?\nHere are some tips to stay healthy:\n🧼 Frequently wash your hands with soap and water after touching animals and animal products.\n🧽 Disinfect equipment and working areas at least once a day.\n\n#coronavirus https://t.co/CP40UG8mDH",
+    "entities": {
+        "urls": [
+            {
+                "start": 228,
+                "end": 251,
+                "url": "https://t.co/CP40UG8mDH",
+                "expanded_url": "https://twitter.com/WHO/status/1218573492783808513/photo/1",
+                "display_url": "pic.twitter.com/CP40UG8mDH"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 215,
+                "end": 227,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1218573492783808513",
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-18T16:38:55.000Z"
+}

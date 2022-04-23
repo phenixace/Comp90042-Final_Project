@@ -1,0 +1,48 @@
+{
+    "created_at": "2014-10-26T23:33:48.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/te6IUmpPWt",
+                "expanded_url": "https://twitter.com/latimes/status/526459255147491328/photo/1",
+                "display_url": "pic.twitter.com/te6IUmpPWt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "probability": 0.9924,
+                "type": "Person",
+                "normalized_text": "Judd Nelson"
+            },
+            {
+                "start": 40,
+                "end": 50,
+                "probability": 0.9966,
+                "type": "Person",
+                "normalized_text": "Judd Nelson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 15,
+                "end": 25,
+                "username": "marcmaron",
+                "id": "21718006"
+            },
+            {
+                "start": 30,
+                "end": 38,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "id": "526517077826605058",
+    "text": "Judd Nelson or @marcmaron? RT @latimes: Judd Nelson didn't die last night. He sent us this photo to debunk the rumor. http://t.co/te6IUmpPWt",
+    "in_reply_to_user_id": "16664681"
+}

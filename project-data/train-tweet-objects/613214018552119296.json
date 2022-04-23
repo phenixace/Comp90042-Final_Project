@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "10774652",
+    "created_at": "2015-06-23T05:16:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theblaze",
+                "id": "10774652"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "ericamey2",
+                "id": "1319327903788662785"
+            },
+            {
+                "start": 21,
+                "end": 36,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "id": "613214018552119296",
+    "source": "Twitter Web Client",
+    "text": "@theblaze @EricAmey2 @HillaryClinton Democrat flag-er-what difference does it make?"
+}

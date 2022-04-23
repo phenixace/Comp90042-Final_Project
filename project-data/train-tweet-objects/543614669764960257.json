@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 55,
+                "probability": 0.6189,
+                "type": "Organization",
+                "normalized_text": "Disney"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T03:53:31.000Z",
+    "text": "@NBCNews all dogs go to heaven didn't you see the Disney movie",
+    "id": "543614669764960257"
+}

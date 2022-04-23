@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1239435927337996293",
+    "in_reply_to_user_id": "420872350",
+    "created_at": "2020-03-16T06:18:47.000Z",
+    "text": "@anrkiss Thanks.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "anrkiss",
+                "id": "420872350"
+            }
+        ]
+    }
+}

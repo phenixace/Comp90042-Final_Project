@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-11T18:32:45.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter Web Client",
+    "text": "@Eater @URLKELLY oh shit \"salty\" is banned @chrissalty @chadsalty @missmiscreant",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            },
+            {
+                "start": 66,
+                "end": 80,
+                "username": "missmiscreant",
+                "id": "42692103"
+            }
+        ]
+    },
+    "id": "532239522583433216"
+}

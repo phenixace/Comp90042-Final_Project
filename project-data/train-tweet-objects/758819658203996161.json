@@ -1,0 +1,17 @@
+{
+    "id": "758819658203996161",
+    "created_at": "2016-07-29T00:21:19.000Z",
+    "text": "Smart but financially weak people can't contest elections, so stupid billionaires rule the world!\n.@Gotham3",
+    "entities": {
+        "mentions": [
+            {
+                "start": 99,
+                "end": 107,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter for iPhone"
+}

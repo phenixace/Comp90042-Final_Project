@@ -1,0 +1,26 @@
+{
+    "text": "@olivaclinic https://t.co/oU7yUyROCh",
+    "created_at": "2020-03-30T12:33:20.000Z",
+    "id": "1244603616834568192",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "olivaclinic",
+                "id": "1533742710"
+            }
+        ],
+        "urls": [
+            {
+                "start": 13,
+                "end": 36,
+                "url": "https://t.co/oU7yUyROCh",
+                "expanded_url": "https://twitter.com/MalliardReport/status/1235308920652124164",
+                "display_url": "twitter.com/MalliardReport…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1533742710",
+    "source": "Malliard to #Malliard"
+}

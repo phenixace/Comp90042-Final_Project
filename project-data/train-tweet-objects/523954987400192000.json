@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "17004618",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ]
+    },
+    "created_at": "2014-10-19T21:52:58.000Z",
+    "text": "@NickKristof @CBSNews why is it news now? The picture was taken in 2012.",
+    "id": "523954987400192000"
+}

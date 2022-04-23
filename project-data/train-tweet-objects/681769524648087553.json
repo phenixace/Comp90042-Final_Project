@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "text": "@mashable no , only to me.",
+    "id": "681769524648087553",
+    "in_reply_to_user_id": "972651",
+    "created_at": "2015-12-29T09:31:35.000Z"
+}

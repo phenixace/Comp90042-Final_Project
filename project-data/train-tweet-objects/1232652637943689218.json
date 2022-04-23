@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-02-26T13:04:25.000Z",
+    "id": "1232652637943689218",
+    "text": "@WHO 2020 年 2 月 24 日，《柳叶刀》在线发表一篇通讯文章（correspondence）：Chinese medical staff request international medical assistance in fighting against COVID-19。\n在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。\nccp潭德赛主席。解释下。我们向中国学习欺骗谎言吗",
+    "in_reply_to_user_id": "14499829"
+}

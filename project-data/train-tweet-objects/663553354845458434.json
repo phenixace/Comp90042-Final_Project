@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@Bullitino @ChrisCoon4 No racism there.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "ChrisCoon4",
+                "id": "410076442"
+            }
+        ]
+    },
+    "created_at": "2015-11-09T03:07:02.000Z",
+    "id": "663553354845458434",
+    "in_reply_to_user_id": "2998771683"
+}

@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676413946836815873",
+    "created_at": "2015-12-14T14:50:26.000Z",
+    "source": "Twitter for iPad",
+    "text": "@nycjim @KeithOlbermann dumb and dumber",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            },
+            {
+                "start": 8,
+                "end": 23,
+                "username": "KeithOlbermann",
+                "id": "130617778"
+            }
+        ]
+    }
+}

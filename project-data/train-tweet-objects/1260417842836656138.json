@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2020-05-13T03:53:25.000Z",
+    "id": "1260417842836656138",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Brown4USA_",
+                "id": "1093714784866971648"
+            },
+            {
+                "start": 12,
+                "end": 17,
+                "username": "Hal4",
+                "id": "15842810"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1093714784866971648",
+    "text": "@Brown4USA_ @Hal4 These polls are so dumb.\nI mean most polls hold no weight, but when you put a poll out there and say “these are your only choices”, when these are other choices, what do the results mean?\nNothing."
+}

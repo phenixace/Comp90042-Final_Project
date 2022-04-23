@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            },
+            {
+                "start": 6,
+                "end": 16,
+                "username": "XoTesfaye",
+                "id": "1515157949999509507"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "PressSec",
+                "id": "1349170292564905988"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@cnni @XOtesfaye @PressSec @realDonaldTrump why did y'all lie",
+    "id": "674368711206268928",
+    "created_at": "2015-12-08T23:23:24.000Z",
+    "in_reply_to_user_id": "2097571"
+}

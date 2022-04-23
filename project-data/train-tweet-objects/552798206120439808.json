@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "probability": 0.88,
+                "type": "Person",
+                "normalized_text": "Meen Dollaz"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "probability": 0.3619,
+                "type": "Other",
+                "normalized_text": "Gritty Philly"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/CZiwXccZ2h",
+                "expanded_url": "https://soundcloud.com/jmeen215/meen-dollaz-gritty-philly",
+                "display_url": "soundcloud.com/jmeen215/meen-…"
+            }
+        ]
+    },
+    "id": "552798206120439808",
+    "text": "@BuzzFeed Meen Dollaz- Gritty Philly https://t.co/CZiwXccZ2h",
+    "created_at": "2015-01-07T12:05:37.000Z",
+    "in_reply_to_user_id": "5695632"
+}

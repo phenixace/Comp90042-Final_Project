@@ -1,0 +1,21 @@
+{
+    "in_reply_to_user_id": "128205845",
+    "id": "1244222087490920448",
+    "created_at": "2020-03-29T11:17:16.000Z",
+    "source": "Twitter for Android",
+    "text": "2/2 : so stop being an ignorant ass and help your local healthcare!!! #Covid_19 #KeepYourDistance",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 70,
+                "end": 79,
+                "tag": "Covid_19"
+            },
+            {
+                "start": 80,
+                "end": 97,
+                "tag": "KeepYourDistance"
+            }
+        ]
+    }
+}

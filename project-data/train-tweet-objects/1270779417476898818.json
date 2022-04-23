@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 182,
+                "end": 184,
+                "probability": 0.6806,
+                "type": "Organization",
+                "normalized_text": "NHS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "869617806",
+    "created_at": "2020-06-10T18:06:37.000Z",
+    "id": "1270779417476898818",
+    "source": "Twitter Web App",
+    "text": "Private practice has been changing in recent years, so governance can be complicated – there are self-employed pathologists and privately employed scientists in private practice and NHS employed-pathologists and privately employed scientists in the public–private joint ventures."
+}

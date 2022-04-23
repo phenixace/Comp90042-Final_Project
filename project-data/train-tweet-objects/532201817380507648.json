@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 7,
+                "end": 29,
+                "url": "http://t.co/MN3G2g1Mpf",
+                "expanded_url": "https://twitter.com/RealDanSungSa/status/532201817380507648/photo/1",
+                "display_url": "pic.twitter.com/MN3G2g1Mpf"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T16:02:55.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for iPhone",
+    "text": "@Eater http://t.co/MN3G2g1Mpf",
+    "id": "532201817380507648"
+}

@@ -1,0 +1,37 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 159,
+                "end": 182,
+                "url": "https://t.co/ALKwGrSNK0",
+                "expanded_url": "http://bit.ly/2TzpDLf",
+                "display_url": "bit.ly/2TzpDLf"
+            },
+            {
+                "start": 197,
+                "end": 220,
+                "url": "https://t.co/yKbjdppBBi",
+                "expanded_url": "https://twitter.com/WHO/status/1236408923294400514/photo/1",
+                "display_url": "pic.twitter.com/yKbjdppBBi"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 21,
+                "tag": "COVID19"
+            },
+            {
+                "start": 184,
+                "end": 196,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236408923294400514",
+    "created_at": "2020-03-07T21:50:33.000Z",
+    "in_reply_to_user_id": "14499829",
+    "text": "Influenza vs #COVID19:\n\nInfluenza: Mortality is usually well below 0.1%\n\nCOVID-19: Mortality appears higher than for influenza, especially seasonal influenza\n\nhttps://t.co/ALKwGrSNK0\n\n#coronavirus https://t.co/yKbjdppBBi"
+}

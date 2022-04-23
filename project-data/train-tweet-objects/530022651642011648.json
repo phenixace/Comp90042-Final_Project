@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 112,
+                "end": 117,
+                "probability": 0.5618,
+                "type": "Place",
+                "normalized_text": "Sudair"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 66,
+                "end": 70,
+                "tag": "oil"
+            },
+            {
+                "start": 120,
+                "end": 132,
+                "tag": "SaudiArabia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 93,
+                "end": 106,
+                "username": "saudi_aramco",
+                "id": "49881357"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "created_at": "2014-11-05T15:43:42.000Z",
+    "id": "530022651642011648",
+    "text": "Buy oil stocks. MT @ArmedResearch: BREAKING: Huge explosion of an #oil pipeline belonging to @Saudi_Aramco near Sudair, #SaudiArabia.",
+    "in_reply_to_user_id": "2779009591"
+}

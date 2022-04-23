@@ -1,0 +1,51 @@
+{
+    "created_at": "2020-06-26T01:55:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "rwang0",
+                "id": "14562685"
+            },
+            {
+                "start": 8,
+                "end": 18,
+                "username": "BillGates",
+                "id": "50393960"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "username": "AC360",
+                "id": "227837742"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 60,
+                "probability": 0.9757,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            },
+            {
+                "start": 73,
+                "end": 83,
+                "probability": 0.9889,
+                "type": "Person",
+                "normalized_text": "Dr. Tegnell"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1276333171710124032",
+    "text": "@rwang0 @BillGates @CNN @AC360 What is your POV on how Sweden, following Dr. Tegnell’s “herd immunity” approach, is doing with this novel Coronavirus?",
+    "in_reply_to_user_id": "14562685"
+}

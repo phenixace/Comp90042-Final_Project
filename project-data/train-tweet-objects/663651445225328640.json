@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "text": "@Bullitino @DrMartyFox can't believe the First Lady making such an irresponsible statement.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "DrMartyFox",
+                "id": "26900055"
+            }
+        ]
+    },
+    "created_at": "2015-11-09T09:36:49.000Z",
+    "id": "663651445225328640",
+    "in_reply_to_user_id": "2998771683"
+}

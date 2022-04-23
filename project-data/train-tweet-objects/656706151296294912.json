@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-10-21T05:38:42.000Z",
+    "text": "@TheEconomist wikipedia says his father was sent to study to USA and Steve's father's parents were not poor.",
+    "id": "656706151296294912",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheEconomist",
+                "id": "5988062"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 63,
+                "probability": 0.9433,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 69,
+                "end": 73,
+                "probability": 0.9846,
+                "type": "Person",
+                "normalized_text": "Steve"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5988062"
+}

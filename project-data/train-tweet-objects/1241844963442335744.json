@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "2876707090",
+    "id": "1241844963442335744",
+    "created_at": "2020-03-22T21:51:26.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 43,
+                "probability": 0.5843,
+                "type": "Product",
+                "normalized_text": "twitter"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JamesDRog",
+                "id": "2876707090"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "Johnnypapa64",
+                "id": "128178051"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@JamesDRog @Johnnypapa64 Ok, another twitter expert it seems. Have a word with the CMO, he’ll probably be well pleased with your input"
+}

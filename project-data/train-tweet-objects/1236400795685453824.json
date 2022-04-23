@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 274,
+                "end": 297,
+                "url": "https://t.co/giElr5wZ1k",
+                "expanded_url": "https://twitter.com/WHO/status/1236400795685453824/photo/1",
+                "display_url": "pic.twitter.com/giElr5wZ1k"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 160,
+                "end": 168,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236400795685453824",
+    "created_at": "2020-03-07T21:18:15.000Z",
+    "in_reply_to_user_id": "14499829",
+    "text": "Influenza: Pre-symptomatic transmission, or potentially transmission of the virus before the appearance of symptoms – is a major driver of transmission alone.\n\n#COVID19: Transmission prior to symptom onset, at present, \ndoes not appear to be a major driver of transmission. https://t.co/giElr5wZ1k"
+}

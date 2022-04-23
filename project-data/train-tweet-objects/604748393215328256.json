@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-05-30T20:37:07.000Z",
+    "id": "604748393215328256",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "_FloridaMan",
+                "id": "1122192223"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1122192223",
+    "text": "@_FloridaMan gives new meaning to \"a white sports coat and a pink...er...\" Well, you know"
+}

@@ -1,0 +1,33 @@
+{
+    "in_reply_to_user_id": "1052085764480208896",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 178,
+                "end": 182,
+                "probability": 0.8384,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 185,
+                "end": 189,
+                "probability": 0.7929,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 24,
+                "end": 28,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-03-25T15:08:06.000Z",
+    "text": "👉COVID-19 as defined by @WHO is \"The infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.\"",
+    "id": "1242830624676818945"
+}

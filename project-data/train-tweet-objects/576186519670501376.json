@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-03-13T01:02:25.000Z",
+    "in_reply_to_user_id": "16049723",
+    "text": "@Yammer agreed! Have you heard of @SlackHQ?",
+    "id": "576186519670501376",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Yammer",
+                "id": "16049723"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "username": "SlackHQ",
+                "id": "1305940272"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

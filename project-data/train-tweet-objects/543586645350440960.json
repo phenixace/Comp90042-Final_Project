@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:02:10.000Z",
+    "text": "@NBCNews Bow wow wow really funny",
+    "id": "543586645350440960"
+}

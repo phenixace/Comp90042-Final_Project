@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "mohzambia",
+                "id": "1200316338"
+            }
+        ]
+    },
+    "id": "1238591753575432201",
+    "text": "@mohzambia We need such information on billboards in our respective communities and more actions/measures the government has put in place if such hit country.",
+    "created_at": "2020-03-13T22:24:20.000Z",
+    "in_reply_to_user_id": "1200316338"
+}

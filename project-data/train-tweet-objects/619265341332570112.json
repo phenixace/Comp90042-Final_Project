@@ -1,0 +1,23 @@
+{
+    "id": "619265341332570112",
+    "text": "@CloydRivers @gps16_",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CloydRivers",
+                "id": "466645191"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "gps16_",
+                "id": "269386352"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "466645191",
+    "created_at": "2015-07-09T22:02:17.000Z"
+}

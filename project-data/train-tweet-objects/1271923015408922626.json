@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-13T21:50:52.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1271923015408922626",
+    "text": "@Munawargul83 After Igg test you are assured that you are immuned and you can donate plasma to needy person.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Munawargul83",
+                "id": "1449521118"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1449521118"
+}

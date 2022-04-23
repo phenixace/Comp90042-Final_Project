@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-07-18T14:31:20.000Z",
+    "source": "Hootsuite",
+    "entities": {
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/pEls96m1he",
+                "expanded_url": "http://cnn.it/UfdeK0",
+                "display_url": "cnn.it/UfdeK0"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/8b1HopoH7C",
+                "expanded_url": "https://twitter.com/CNN/status/490141776984825856/photo/1",
+                "display_url": "pic.twitter.com/8b1HopoH7C"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 33,
+                "tag": "MH17"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 2,
+                "probability": 0.496,
+                "type": "Organization",
+                "normalized_text": "U.S"
+            }
+        ]
+    },
+    "id": "490141776984825856",
+    "text": "U.S intel: Missile that hit #MH17 was most likely fired by pro-Russian separatists. Details: http://t.co/pEls96m1he http://t.co/8b1HopoH7C"
+}

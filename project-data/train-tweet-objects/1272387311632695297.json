@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/MyMIVVQrJ8",
+                "expanded_url": "https://twitter.com/Purwa18/status/1272185506575589378",
+                "display_url": "twitter.com/Purwa18/status…"
+            }
+        ]
+    },
+    "created_at": "2020-06-15T04:35:49.000Z",
+    "id": "1272387311632695297",
+    "text": "This is serious. You *think* you are safe, being constrained to ur house, putting masks on when outside. But are you really?\nThe delivery packages/folks you come in contact with, the food you order, the grocery shelves you touch...the virus can get to you from anywhere. Stay safe https://t.co/MyMIVVQrJ8"
+}

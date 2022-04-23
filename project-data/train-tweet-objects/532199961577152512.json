@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-11T15:55:33.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter Web Client",
+    "text": "@Eater Salty? How else does one describe their fries?? #justcurious",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 67,
+                "tag": "justcurious"
+            }
+        ]
+    },
+    "id": "532199961577152512"
+}

@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-11-11T18:39:46.000Z",
+    "in_reply_to_user_id": "756104184",
+    "source": "Twitter Web Client",
+    "text": "@haleysalty @Eater @URLKELLY @chrissalty @missmiscreant #cut",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 18,
+                "username": "Eater",
+                "id": "26329195"
+            },
+            {
+                "start": 41,
+                "end": 55,
+                "username": "missmiscreant",
+                "id": "42692103"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 60,
+                "tag": "cut"
+            }
+        ]
+    },
+    "id": "532241287638827008"
+}

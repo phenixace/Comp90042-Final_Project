@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-10-18T23:25:54.000Z",
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 18,
+                "tag": "Wake"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 28,
+                "probability": 0.9849,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 130,
+                "end": 136,
+                "probability": 0.986,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            }
+        ]
+    },
+    "id": "523615988546535424",
+    "text": "@70torinoman #Wake up America! You are handing your children's future over to servitude for discounts! BOYCOT WALMARTS! Fight for America!",
+    "in_reply_to_user_id": "635745335"
+}

@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-02-12T15:37:49.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/fFQX5d5xzx",
+                "expanded_url": "https://twitter.com/WIONews/status/1227616085848887296",
+                "display_url": "twitter.com/WIONews/status…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 248,
+                "end": 261,
+                "tag": "coronavairus"
+            },
+            {
+                "start": 271,
+                "end": 280,
+                "tag": "Gravitas"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.9875,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "id": "1227617815512797184",
+    "text": "China, failing against the virus, is cracking down on those who tell its horrors. 2 citizen journos have gone missing. The Indian economy is bracing for impact, your medical bills may go up. And should you be taking flights? The most comprehensive #coronavairus coverage #Gravitas https://t.co/fFQX5d5xzx"
+}

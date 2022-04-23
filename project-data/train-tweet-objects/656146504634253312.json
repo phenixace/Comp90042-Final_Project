@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T16:34:51.000Z",
+    "id": "656146504634253312",
+    "text": "@cnnbrk are you stupid or just hellbent on lying?\nShe clearly wasn't best and she clearly didn't win. He did!!! Now tell us more about HIM"
+}

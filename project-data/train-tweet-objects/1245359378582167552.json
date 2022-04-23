@@ -1,0 +1,50 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T14:36:28.000Z",
+    "text": "$SPY $DIA $IWM $QQQ $IBB $XBI\n\nQ: What is a Coronavirus war enemy ?\n\nA: Surface proteins inducing inflammation &amp; ARDS. https://t.co/J28vX0NPSp",
+    "id": "1245359378582167552",
+    "entities": {
+        "urls": [
+            {
+                "start": 123,
+                "end": 146,
+                "url": "https://t.co/J28vX0NPSp",
+                "expanded_url": "https://twitter.com/nixon786/status/1245359378582167552/photo/1",
+                "display_url": "pic.twitter.com/J28vX0NPSp"
+            }
+        ],
+        "cashtags": [
+            {
+                "start": 0,
+                "end": 4,
+                "tag": "SPY"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "tag": "DIA"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "tag": "IWM"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "tag": "QQQ"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag": "IBB"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag": "XBI"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "314061974"
+}

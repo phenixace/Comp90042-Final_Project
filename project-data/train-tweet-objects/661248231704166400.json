@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 64,
+                "end": 66,
+                "probability": 0.9139,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "RawStory",
+                "id": "16041234"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "revmagdalen",
+                "id": "33531486"
+            }
+        ]
+    },
+    "id": "661248231704166400",
+    "text": "@RawStory @revmagdalen then why do they have accounts set up on KKK websites? Are the undercover as well ? 😏",
+    "created_at": "2015-11-02T18:27:18.000Z",
+    "in_reply_to_user_id": "16041234"
+}

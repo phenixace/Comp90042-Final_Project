@@ -1,0 +1,23 @@
+{
+    "id": "561005614013235201",
+    "text": "@77_cruiser @Patriotic_Me If so I'm disappointed &amp; I'm a Texan, got to research now",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "77_cruiser",
+                "id": "2330706626"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "Patriotic_Me",
+                "id": "35216399"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2330706626",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-30T03:38:56.000Z"
+}

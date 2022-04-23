@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676385665773211648",
+    "created_at": "2015-12-14T12:58:04.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 26,
+                "probability": 0.7126,
+                "type": "Place",
+                "normalized_text": "NC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nycjim",
+                "id": "14940354"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "KeithOlbermann",
+                "id": "130617778"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": ".@nycjim @KeithOlbermann NC is forward looking! The problem is they are facing in the wrong direction."
+}

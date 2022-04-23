@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "434867400",
+    "id": "531221450993455104",
+    "created_at": "2014-11-08T23:07:18.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 40,
+                "probability": 0.9693,
+                "type": "Person",
+                "normalized_text": "Macaulay Culkin"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TheBizzNiz",
+                "id": "434867400"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@TheBizzNiz \nDid you hear Macaulay Culkin was found dead in his apartment\nYeah. You could say he was found\nhome alone."
+}

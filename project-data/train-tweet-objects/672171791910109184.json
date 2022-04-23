@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "username": "6abc",
+                "id": "18391051"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 13,
+                "probability": 0.9147,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ]
+    },
+    "text": "@ABC @6abc USA!!! Once a place for dreams n hope!! Let's get back to that Country💯💔😢",
+    "id": "672171791910109184",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:53:38.000Z"
+}

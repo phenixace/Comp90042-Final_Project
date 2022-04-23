@@ -1,0 +1,59 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 157,
+                "end": 180,
+                "url": "https://t.co/HYHyN0hKw2",
+                "expanded_url": "https://twitter.com/NCDS_BBSR/status/1253301630897922050",
+                "display_url": "twitter.com/NCDS_BBSR/stat…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 69,
+                "end": 72,
+                "probability": 0.5709,
+                "type": "Organization",
+                "normalized_text": "SARS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 97,
+                "end": 107,
+                "username": "NCDS_BBSR",
+                "id": "3579680774"
+            },
+            {
+                "start": 110,
+                "end": 120,
+                "username": "HFWOdisha",
+                "id": "825566197714403328"
+            },
+            {
+                "start": 121,
+                "end": 132,
+                "username": "IPR_Odisha",
+                "id": "743517005920141314"
+            },
+            {
+                "start": 133,
+                "end": 141,
+                "username": "bmcbbsr",
+                "id": "809378222697811968"
+            },
+            {
+                "start": 142,
+                "end": 156,
+                "username": "ICMR_RMRCBBSR",
+                "id": "983291309799571456"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "53306736",
+    "created_at": "2020-04-23T17:44:37.000Z",
+    "id": "1253379264126181378",
+    "source": "Twitter for Android",
+    "text": "The Odia version of the policy brief FAQs on rapid antibody test for SARS-CoV-2 is now put up by @NCDS_BBSR \n\n@HFWOdisha @IPR_Odisha @bmcbbsr @ICMR_RMRCBBSR https://t.co/HYHyN0hKw2"
+}

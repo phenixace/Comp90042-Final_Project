@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T14:59:57.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 167,
+                "end": 176,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            },
+            {
+                "start": 178,
+                "end": 182,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 184,
+                "end": 192,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ]
+    },
+    "id": "1242466185226203136",
+    "source": "Twitter for Android",
+    "text": "In this period of uncertainty and isolation at home due to COVID19, what advice can we give people to help experience a sense of normalcy, hope and mental stability?\n\n@Ovdiasis \n@WHO \n@NCDCgov"
+}

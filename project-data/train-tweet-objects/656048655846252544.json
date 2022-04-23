@@ -1,0 +1,17 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T10:06:03.000Z",
+    "id": "656048655846252544",
+    "text": "@cnnbrk fuck off"
+}

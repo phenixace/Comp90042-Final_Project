@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "GlobalGrind",
+                "id": "1496971"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "UncleRUSH",
+                "id": "25110374"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 63,
+                "probability": 0.9535,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "text": "@GlobalGrind @UncleRUSH absolute shock @ the news of Paul Walker. I am lifting his family, friends, and fans up n prayer",
+    "id": "407387059796471809",
+    "in_reply_to_user_id": "1496971",
+    "created_at": "2013-12-02T05:53:38.000Z"
+}

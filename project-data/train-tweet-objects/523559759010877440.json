@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-18T19:42:28.000Z",
+    "source": "Twitter for Android",
+    "id": "523559759010877440",
+    "text": "@70torinoman @TefPoe can anyone confirm this?  Another of many reasons to stay away from that place.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "TefPoe",
+                "id": "40293464"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-07-18T14:32:40.000Z",
+    "source": "Twitter for iPhone",
+    "id": "490142113820983296",
+    "text": "@CNN Careful: intel provided by Snowden",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 38,
+                "probability": 0.4714,
+                "type": "Person",
+                "normalized_text": "Snowden"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

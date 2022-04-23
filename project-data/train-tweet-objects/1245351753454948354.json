@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-01T14:06:10.000Z",
+    "id": "1245351753454948354",
+    "in_reply_to_user_id": "1034763184211742720",
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 94,
+                "url": "https://t.co/9JgLCRjqHr",
+                "expanded_url": "https://twitter.com/TGIDistri/status/1245351753454948354/photo/1",
+                "display_url": "pic.twitter.com/9JgLCRjqHr"
+            }
+        ]
+    },
+    "text": "What to do if there is a case of suspected COVID-19 in your workplace? https://t.co/9JgLCRjqHr"
+}

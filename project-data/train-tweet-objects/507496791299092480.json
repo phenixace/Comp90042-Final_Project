@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-04T11:53:58.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 48,
+                "url": "http://t.co/Wilob59UUU",
+                "expanded_url": "https://twitter.com/FSARANDA/status/507496791299092480/photo/1",
+                "display_url": "pic.twitter.com/Wilob59UUU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "id": "507496791299092480",
+    "text": "@HuffingtonPost - OK,.... http://t.co/Wilob59UUU",
+    "in_reply_to_user_id": "14511951"
+}

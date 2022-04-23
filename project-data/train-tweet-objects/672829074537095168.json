@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "672829074537095168",
+    "created_at": "2015-12-04T17:25:26.000Z",
+    "in_reply_to_user_id": "109065990",
+    "text": "@RealAlexJones Hopefully that will be his Final Demise God Willing"
+}

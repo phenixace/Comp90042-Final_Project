@@ -1,0 +1,33 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.9692,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 63,
+                "tag": "dogma"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T03:45:52.000Z",
+    "text": ".@NBCNews but only if they accept Jesus as their savior?\n#dogma",
+    "id": "543612742993592320"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-30T09:08:25.000Z",
+    "source": "Twitter for iPhone",
+    "id": "538982873567875072",
+    "text": "@AbbyMartin So, he got rich killing a kid.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "AbbyMartin",
+                "id": "24258355"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "24258355"
+}

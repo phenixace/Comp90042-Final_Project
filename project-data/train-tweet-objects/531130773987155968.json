@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "531130773987155968",
+    "in_reply_to_user_id": "5695632",
+    "created_at": "2014-11-08T17:06:59.000Z",
+    "text": "@BuzzFeed GROSS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    }
+}

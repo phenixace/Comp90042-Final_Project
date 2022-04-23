@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552710914802073600",
+    "text": "@BuzzFeed WTF is wrong with people... Like selling/leaving one of your family... Horrified!! :(",
+    "created_at": "2015-01-07T06:18:45.000Z",
+    "in_reply_to_user_id": "5695632"
+}

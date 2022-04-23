@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-11T21:07:15.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for iPhone",
+    "text": "@Eater Crazy! Can't believe a business expects its employees to act in a professional manner- outrageous!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "id": "532278404499128320"
+}

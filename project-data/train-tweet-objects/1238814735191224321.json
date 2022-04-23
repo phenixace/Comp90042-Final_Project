@@ -1,0 +1,37 @@
+{
+    "id": "1238814735191224321",
+    "text": "@tribelaw Bottom line: Yes it’s possible to contract COVID-19 from the air, but that’s not the main concern.\n\nMy coworker’s mother has been hospitalized for six weeks in Wuhan. Her caregiver (husband) didn’t contract it despite sharing air.\n\nhttps://t.co/3p9tYCM1Zo",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tribelaw",
+                "id": "4091551984"
+            }
+        ],
+        "urls": [
+            {
+                "start": 242,
+                "end": 265,
+                "url": "https://t.co/3p9tYCM1Zo",
+                "expanded_url": "https://www.buzzsprout.com/85116/2994022-coronavirus-special-edition-episode-1-the-personal-experience",
+                "display_url": "buzzsprout.com/85116/2994022-…",
+                "status": 200,
+                "unwound_url": "https://www.buzzsprout.com/85116/2994022-coronavirus-special-edition-episode-1-the-personal-experience"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 170,
+                "end": 174,
+                "probability": 0.6622,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2351416181",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-14T13:10:23.000Z"
+}

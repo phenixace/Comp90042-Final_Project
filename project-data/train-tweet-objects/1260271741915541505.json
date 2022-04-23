@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-05-12T18:12:52.000Z",
+    "in_reply_to_user_id": "533831336",
+    "source": "Twitter Web App",
+    "text": "@joeybalge @kurteichenwald @RandPaul It is totally made up.\n\nMore than half of CV deaths have occurred in nursing homes.  The avg. age of the deceased is over 80.\n\nOver 99% of cases (based on serology tests and estimates) are mild or asymptomatic.\n\nWhat is wrong with people?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 26,
+                "username": "kurteichenwald",
+                "id": "215207998"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "RandPaul",
+                "id": "216881337"
+            }
+        ]
+    },
+    "id": "1260271741915541505"
+}

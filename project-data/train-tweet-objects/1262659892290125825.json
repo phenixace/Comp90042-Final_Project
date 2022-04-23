@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "xamat",
+                "id": "9316452"
+            }
+        ]
+    },
+    "id": "1262659892290125825",
+    "text": "@xamat Cheeky answer categories! I'm always entertained by how similar Bayes' theorem and base rate neglect have similar names and are related to each other.",
+    "source": "Twitter for Android",
+    "created_at": "2020-05-19T08:22:32.000Z",
+    "in_reply_to_user_id": "9316452"
+}

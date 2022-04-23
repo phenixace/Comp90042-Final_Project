@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "KingLundqvist30",
+                "id": "232434406"
+            }
+        ]
+    },
+    "text": "@theScore @KingLundqvist30 I hope it's solely outdoor games there.",
+    "id": "504423388686065664",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T00:21:22.000Z"
+}

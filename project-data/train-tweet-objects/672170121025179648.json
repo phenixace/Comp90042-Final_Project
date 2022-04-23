@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC We have saturated our country with assault weapons and the owners of said weapons are now assaulting the country.",
+    "id": "672170121025179648",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:46:59.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27T01:35:18.000Z",
+    "source": "Twitter for iPhone",
+    "id": "614607907053703168",
+    "text": "@FoxNews this is shameful this is the people's house does not need to be politicized",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

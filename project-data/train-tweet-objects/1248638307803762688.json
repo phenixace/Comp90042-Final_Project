@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 69,
+                "end": 75,
+                "probability": 0.9739,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realTuckFrumper",
+                "id": "55060090"
+            }
+        ]
+    },
+    "id": "1248638307803762688",
+    "in_reply_to_user_id": "55060090",
+    "created_at": "2020-04-10T15:45:45.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@realTuckFrumper It’s not affecting them, these people live in rural America. Unless the virus sweeps through small towns, they will never believe it’s nothing more than the flu."
+}

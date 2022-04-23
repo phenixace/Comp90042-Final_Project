@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 194,
+                "end": 199,
+                "tag": "myth"
+            },
+            {
+                "start": 200,
+                "end": 208,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 209,
+                "end": 232,
+                "url": "https://t.co/PsOcTTb5FC",
+                "expanded_url": "https://twitter.com/mohzambia/status/1238035281942544385/photo/1",
+                "display_url": "pic.twitter.com/PsOcTTb5FC"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1238035281942544385",
+    "text": "COVID-19 virus can be transmitted in areas with hot and humid climates\n\nFrom the evidence so far, the COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather. #myth #COVID19 https://t.co/PsOcTTb5FC",
+    "created_at": "2020-03-12T09:33:07.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27T01:58:57.000Z",
+    "source": "Twitter for BlackBerry",
+    "id": "614613859551342593",
+    "text": "@FoxNews Appropriate lighting for the circus act taking place inside.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

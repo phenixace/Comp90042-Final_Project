@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-07-18T14:35:57.000Z",
+    "source": "Twitter Web Client",
+    "id": "490142938375004160",
+    "text": "@CNN なんで　罪のない人たちが　犠牲になるんだ？\nロシアだろうがウクライナだろうが　関係なく　卑怯だ　\nこれが　正義のための残酷だと言うのか？　",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 29,
+                "probability": 0.7448,
+                "type": "Place",
+                "normalized_text": "ロシア"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.8477,
+                "type": "Place",
+                "normalized_text": "ウクライナ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

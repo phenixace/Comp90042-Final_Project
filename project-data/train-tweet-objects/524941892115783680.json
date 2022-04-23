@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "affanchowdhry",
+                "id": "36730252"
+            },
+            {
+                "start": 48,
+                "end": 62,
+                "username": "josh_wingrove",
+                "id": "164075542"
+            }
+        ],
+        "urls": [
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/RHGVpajcg4",
+                "expanded_url": "https://www.youtube.com/watch?v=XrGqoISd-d@chartorrens",
+                "display_url": "youtube.com/watch?v=XrGqoI…"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T15:14:34.000Z",
+    "id": "524941892115783680",
+    "text": "“@affanchowdhry: Here's that dramatic video via @josh_wingrove of shots fired inside parliament building: https://t.co/RHGVpajcg4",
+    "in_reply_to_user_id": "36730252"
+}

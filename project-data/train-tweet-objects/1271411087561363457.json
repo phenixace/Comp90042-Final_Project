@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "1096205507348623360",
+    "created_at": "2020-06-12T11:56:39.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "DocDominik",
+                "id": "907418917920018433"
+            }
+        ]
+    },
+    "id": "1271411087561363457",
+    "source": "Twitter Web App",
+    "text": "@DocDominik You are right on.  Given the current burn rate, developing a strong public health response that makes reopening safe and helps limit future lockdowns...it’s money in the bank."
+}

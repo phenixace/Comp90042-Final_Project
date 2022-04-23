@@ -1,0 +1,23 @@
+{
+    "text": "@AllenWest @SimmonsBart \nSend to Salvation Army. Or a food bank. NOT THE RED CROSS!!!!",
+    "created_at": "2013-05-22T17:18:50.000Z",
+    "id": "337256251618639872",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "SimmonsBart",
+                "id": "538601381"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for iPhone"
+}

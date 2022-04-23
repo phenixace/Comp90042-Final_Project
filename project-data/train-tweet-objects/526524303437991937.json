@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-27T00:02:30.000Z",
+    "source": "Twitter Web Client",
+    "id": "526524303437991937",
+    "text": "@latimes @theerinmaher Everyone knows the Sunday paper is on sale on Saturday.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "latimes",
+                "id": "16664681"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "theerinmaher",
+                "id": "15666132"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16664681"
+}

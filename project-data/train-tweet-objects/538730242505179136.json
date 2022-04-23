@@ -1,0 +1,23 @@
+{
+    "text": "@deray well he was. And it is. SMH. @ABC",
+    "source": "Echofon",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "538730242505179136",
+    "created_at": "2014-11-29T16:24:33.000Z",
+    "in_reply_to_user_id": "29417304"
+}

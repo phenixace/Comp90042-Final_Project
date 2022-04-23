@@ -1,0 +1,26 @@
+{
+    "id": "634442918829408256",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 16,
+                "probability": 0.8807,
+                "type": "Other",
+                "normalized_text": "GOD"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "TheOnion",
+                "id": "14075928"
+            }
+        ]
+    },
+    "created_at": "2015-08-20T19:12:33.000Z",
+    "text": "@TheOnion FOR GOD SO LOVED THE WORLD THAT HE GAVE HIS ONLY BEGOTTEN SON THIS IS THE MOST SICK THING I EVER SEEN AN TO TAKE A CHILD WHY 😓😪😥😭",
+    "in_reply_to_user_id": "14075928",
+    "source": "Twitter for Android"
+}

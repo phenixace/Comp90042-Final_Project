@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676368486478839808",
+    "created_at": "2015-12-14T11:49:48.000Z",
+    "source": "Twitter Web Client",
+    "text": ".@nycjim Dig more. Investigate more. Your post alone may shame them into change...but skeptically, who has the most to lose? Focus on them",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    }
+}

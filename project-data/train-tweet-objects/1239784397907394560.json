@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-17T05:23:29.000Z",
+    "text": "@anuja_gawshinde @ShefVaidya Dear fellow citizen, i still can't get the idea of equality. Why do we need it ? &amp; how come everyone is equal ? My brother don't get equal treatment as i get, nor does my father or any other person. When we are born with different biological, mental and behavioral traits 1/2",
+    "id": "1239784397907394560",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "anuja_gawshinde",
+                "id": "846593366154362880"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "ShefVaidya",
+                "id": "1934388686"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "846593366154362880"
+}

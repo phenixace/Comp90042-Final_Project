@@ -1,0 +1,17 @@
+{
+    "id": "1232908876778885120",
+    "text": "@staylor111 Gunky sore throat. Dry ineffective cough. Fever. Some people had vomiting or diarrhea.  This progresses to possible pneumonia, and lung pain. I won’t go into all of the other complications that can happen. 😢",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "staylor111",
+                "id": "17169613"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "17169613",
+    "created_at": "2020-02-27T06:02:37.000Z"
+}

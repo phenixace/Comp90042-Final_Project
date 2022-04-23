@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-18T21:08:13.000Z",
+    "source": "Twitter for iPhone",
+    "id": "523581339673845761",
+    "text": "@70torinoman @sexysportsfan what!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "sexysportsfan",
+                "id": "18496526"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

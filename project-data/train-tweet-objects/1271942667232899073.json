@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "FreedomWins10",
+                "id": "1251293812535812097"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "MattWalshBlog",
+                "id": "1500129642"
+            },
+            {
+                "start": 30,
+                "end": 43,
+                "username": "brad_polumbo",
+                "id": "848280544152608769"
+            }
+        ]
+    },
+    "created_at": "2020-06-13T23:08:58.000Z",
+    "text": "@FreedomWins10 @MattWalshBlog @brad_polumbo The crime is garbage. Pretty sure there's a good bipartisan consensus now that the war of drugs was horrible and dumb. So why are these drug laws still around?\n\nWhat do you mean by result? People getting arrested or not?",
+    "id": "1271942667232899073",
+    "in_reply_to_user_id": "1251293812535812097",
+    "source": "Twitter Web App"
+}

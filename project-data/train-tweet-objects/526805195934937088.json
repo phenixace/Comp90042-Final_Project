@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-27T18:38:40.000Z",
+    "source": "Twitter Web Client",
+    "id": "526805195934937088",
+    "text": "@sarah_dawson @latimes Praise be! Bender lives! (Though I might not have recognized him...)",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 39,
+                "probability": 0.4948,
+                "type": "Person",
+                "normalized_text": "Bender"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "sarah_dawson",
+                "id": "28339987"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28339987"
+}

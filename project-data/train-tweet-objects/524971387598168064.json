@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 35,
+                "probability": 0.8904,
+                "type": "Person",
+                "normalized_text": "MP Kenney"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "cbcJillDempsey",
+                "id": "747398809"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "mmdenisrc",
+                "id": "222201079"
+            }
+        ]
+    },
+    "text": "@cbcJillDempsey @mmdenisrc MP Kenney withdrew his tweet...confusion around...",
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T17:11:46.000Z",
+    "in_reply_to_user_id": "747398809",
+    "id": "524971387598168064"
+}

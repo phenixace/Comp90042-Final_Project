@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            },
+            {
+                "start": 6,
+                "end": 15,
+                "username": "PressSec",
+                "id": "1349170292564905988"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "urls": [
+            {
+                "start": 80,
+                "end": 103,
+                "url": "https://t.co/0EjuWnvhDc",
+                "expanded_url": "http://facebok12234.blogspot.com/2015/12/o.html",
+                "display_url": "facebok12234.blogspot.com/2015/12/o.html",
+                "status": 200,
+                "unwound_url": "http://facebok12234.blogspot.com/2015/12/o.html"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@cnni @PressSec @realDonaldTrump \n\nسري جدا :يتحرش بضيفته على المباشر  شاهد!!!:o\nhttps://t.co/0EjuWnvhDc",
+    "id": "674301657216323588",
+    "created_at": "2015-12-08T18:56:57.000Z",
+    "in_reply_to_user_id": "2097571"
+}

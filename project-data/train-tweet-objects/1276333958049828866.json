@@ -1,0 +1,60 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 253,
+                "end": 276,
+                "url": "https://t.co/S05zZssFqF",
+                "expanded_url": "https://www.thinkglobalhealth.org/article/five-problems-swedish-approach-covid-19",
+                "display_url": "thinkglobalhealth.org/article/five-p…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1473032295938416640/OzfDU3qB?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 600
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1473032295938416640/OzfDU3qB?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Five Problems With the Swedish Approach to COVID-19 | Think Global Health",
+                "description": "As herd immunity remains elusive, Sweden’s experience seems to be a cautionary tale—Norway and Denmark have fared better",
+                "unwound_url": "https://www.thinkglobalhealth.org/article/five-problems-swedish-approach-covid-19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MarkQuinn_VO",
+                "id": "802246546607644672"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "BillGates",
+                "id": "50393960"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "username": "AC360",
+                "id": "227837742"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T01:58:23.000Z",
+    "source": "Twitter Web App",
+    "id": "1276333958049828866",
+    "text": "@MarkQuinn_VO @BillGates @CNN @AC360 MyPOV: If you take a look at the balance between public health and economic livelihood, you need a balance.  They could have improved the approach by better isolating the elderly and at risk.\n\nhere's a good article\n\nhttps://t.co/S05zZssFqF",
+    "in_reply_to_user_id": "802246546607644672"
+}

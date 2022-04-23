@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19T00:19:32.000Z",
+    "source": "Twitter for iPhone",
+    "id": "523629483765809153",
+    "text": "@70torinoman @GORGONOPSID Regardless the validity of this, why does this guy need a fund anyway?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "gorgonopsid",
+                "id": "1284734167268364290"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

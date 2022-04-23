@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "id": "1240342068217516032",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 264,
+                "end": 283,
+                "tag": "KHKTCoronaCampaign"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "99268397",
+    "created_at": "2020-03-18T18:19:28.000Z",
+    "text": "Are \n\nHowever, those infected with the virus shd receive appro. care to relieve &amp; treat symptoms, and those with severe illness shd receive optimized supportive care. Some specific treatments are under investigation, and will be tested thru clinical trials. \n\n#KHKTCoronaCampaign"
+}

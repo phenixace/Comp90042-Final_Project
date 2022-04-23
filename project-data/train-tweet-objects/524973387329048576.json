@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 61,
+                "end": 68,
+                "probability": 0.9865,
+                "type": "Person",
+                "normalized_text": "Mr Kenny"
+            },
+            {
+                "start": 135,
+                "end": 136,
+                "probability": 0.8427,
+                "type": "Place",
+                "normalized_text": "Qc"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "cbcJillDempsey",
+                "id": "747398809"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "text": "@cbcJillDempsey @CBCNews has this been confirmed? Apparently Mr Kenny may be combining the 2 incidents from today and the other day in Qc",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T17:19:43.000Z",
+    "in_reply_to_user_id": "747398809",
+    "id": "524973387329048576"
+}

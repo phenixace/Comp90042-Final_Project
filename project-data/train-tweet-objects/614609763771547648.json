@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27T01:42:41.000Z",
+    "source": "Twitter for iPhone",
+    "id": "614609763771547648",
+    "text": "@FoxNews Is there a check off on my IRS form for my tax $ to pay for clear bulbs?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 38,
+                "probability": 0.6223,
+                "type": "Organization",
+                "normalized_text": "IRS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

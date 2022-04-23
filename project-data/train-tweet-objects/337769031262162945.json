@@ -1,0 +1,17 @@
+{
+    "text": "@AllenWest That will make a tidy little sum for restitution to his victims.",
+    "created_at": "2013-05-24T03:16:27.000Z",
+    "id": "337769031262162945",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client"
+}

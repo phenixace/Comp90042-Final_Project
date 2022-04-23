@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 288,
+                "end": 311,
+                "url": "https://t.co/firLuNGnx7",
+                "expanded_url": "https://twitter.com/WHO/status/1236408107397459969/photo/1",
+                "display_url": "pic.twitter.com/firLuNGnx7"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 21,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236408107397459969",
+    "created_at": "2020-03-07T21:47:18.000Z",
+    "in_reply_to_user_id": "14499829",
+    "text": "Influenza vs #COVID19:\n\nInfluenza: Most at risk for severe infection are 👧🏽👦🏻, 🤰🏻, 👵🏻👴🏾, those with underlying chronic medical conditions &amp;  immunosuppressed\n\nCOVID-19: Our current understanding is that\n👵🏾👴🏼&amp; those with underlying conditions are most at risk for severe infection https://t.co/firLuNGnx7"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-22T15:07:35.000Z",
+    "text": "@DailyMail @MailOnline She clams she did it to make herself unattractive to men, because she's tired of dating, not for attention?  What BS!",
+    "id": "514068496708542464",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "MailOnline",
+                "id": "15438913"
+            }
+        ]
+    }
+}

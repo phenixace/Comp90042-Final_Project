@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "Working in wet markets?\nStay healthy:\n🧤Wear protective gowns, gloves and facial protection while handling animals &amp; animal products\n🧺 Remove protective clothing after work, wash daily &amp; leave at the work site\n👨‍👩‍👧‍👦 Avoid exposing family members to soiled work clothing &amp; shoes https://t.co/tSD8gvOMYC",
+    "entities": {
+        "urls": [
+            {
+                "start": 291,
+                "end": 314,
+                "url": "https://t.co/tSD8gvOMYC",
+                "expanded_url": "https://twitter.com/WHO/status/1219160667330097152/photo/1",
+                "display_url": "pic.twitter.com/tSD8gvOMYC"
+            }
+        ]
+    },
+    "id": "1219160667330097152",
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-20T07:32:08.000Z"
+}

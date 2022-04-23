@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "AppSame",
+                "id": "242618658"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 62,
+                "end": 66,
+                "probability": 0.853,
+                "type": "Person",
+                "normalized_text": "POTUS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-05T00:54:00.000Z",
+    "id": "672941959078637568",
+    "text": "@Rockprincess818 @AppSame Because that evil, sick funk muslim POTUS likes it !"
+}

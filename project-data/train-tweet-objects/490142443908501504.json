@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18T14:33:59.000Z",
+    "source": "Twitter Web Client",
+    "id": "490142443908501504",
+    "text": "@CNN 哈哈，其实真相并不重要了，重要的是各方拿这个事怎么做文章。",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 73,
+                "end": 95,
+                "url": "http://t.co/Mpy6UUz7YH",
+                "expanded_url": "http://on.mktw.net/XXximd",
+                "display_url": "on.mktw.net/XXximd"
+            },
+            {
+                "start": 96,
+                "end": 118,
+                "url": "http://t.co/oMEopx1cDa",
+                "expanded_url": "https://twitter.com/MarketWatch/status/514550436377137152/photo/1",
+                "display_url": "pic.twitter.com/oMEopx1cDa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "MarketWatch",
+                "id": "624413"
+            },
+            {
+                "start": 128,
+                "end": 140,
+                "username": "luispuchob2",
+                "id": "2364252158"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "text": "“@MarketWatch: 6+ owners are complaining that their iPhones are bending: http://t.co/Mpy6UUz7YH http://t.co/oMEopx1cDa” ve esto @luispuchob2",
+    "created_at": "2014-09-23T23:17:13.000Z",
+    "id": "514554105164226560",
+    "in_reply_to_user_id": "624413"
+}

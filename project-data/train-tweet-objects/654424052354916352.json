@@ -1,0 +1,44 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 54,
+                "end": 60,
+                "probability": 0.9985,
+                "type": "Person",
+                "normalized_text": "Clinton"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "tobiascarrier",
+                "id": "2149913492"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "GideonZhi",
+                "id": "60158930"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 31,
+                "end": 45,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2149913492",
+    "created_at": "2015-10-14T22:30:27.000Z",
+    "id": "654424052354916352",
+    "source": "Twitter Web Client",
+    "text": "@tobiascarrier @GideonZhi @CNN @BernieSanders For me, Clinton is more plastic than a Barbie doll and I don't believe a word she says."
+}

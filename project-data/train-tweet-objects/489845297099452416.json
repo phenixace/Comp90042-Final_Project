@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-17T18:53:14.000Z",
+    "text": "@Independent ohhhhh",
+    "id": "489845297099452416",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "713800643069120512",
+    "created_at": "2016-03-26T18:51:49.000Z",
+    "text": "That shit gonna be stopped at the wall. @Gotham3 @MmeLaCrooz",
+    "entities": {
+        "mentions": [
+            {
+                "start": 40,
+                "end": 48,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 49,
+                "end": 60,
+                "username": "MmeLaCrooz",
+                "id": "26114740"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter Web Client"
+}

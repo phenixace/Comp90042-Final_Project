@@ -1,0 +1,17 @@
+{
+    "id": "642863250279952384",
+    "in_reply_to_user_id": "562338854",
+    "source": "Twitter for iPhone",
+    "text": "“@WTFFacts: The stickers on fruit are edible.”      What???",
+    "created_at": "2015-09-13T00:51:57.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "WTFfacts",
+                "id": "344431345"
+            }
+        ]
+    }
+}

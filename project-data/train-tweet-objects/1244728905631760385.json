@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-30T20:51:11.000Z",
+    "text": "@JoLow57476073 I also want to know this. How did they do tests? \nAlso what temperature does it survive?",
+    "id": "1244728905631760385",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "JoLow57476073",
+                "id": "1104164250413604865"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1104164250413604865"
+}

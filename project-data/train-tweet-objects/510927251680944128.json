@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-13T23:05:24.000Z",
+    "text": "@pflorentine1 @pjpaton @DailyMirror there r far too many Arab states standing by and doing nothing. Qatar must b brought to book for funding",
+    "id": "510927251680944128",
+    "entities": {
+        "annotations": [
+            {
+                "start": 100,
+                "end": 104,
+                "probability": 0.8967,
+                "type": "Place",
+                "normalized_text": "Qatar"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "pflorentine1",
+                "id": "2274586946"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "pjpaton",
+                "id": "309686668"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "username": "DailyMirror",
+                "id": "16887175"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2274586946"
+}

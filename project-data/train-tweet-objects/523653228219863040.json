@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19T01:53:53.000Z",
+    "source": "Twitter Web Client",
+    "id": "523653228219863040",
+    "text": "@70torinoman @3ChicsPolitico what",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "3ChicsPolitico",
+                "id": "237606548"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

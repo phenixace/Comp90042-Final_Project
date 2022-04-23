@@ -1,0 +1,23 @@
+{
+    "text": "@AllenWest @InfidelAlie The world is upside down! Please run for president &amp; try to get this country back on the right path to freedom!",
+    "created_at": "2013-05-22T04:57:17.000Z",
+    "id": "337069632835948544",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "InfidelAlie",
+                "id": "2649561919"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 60,
+                "end": 64,
+                "probability": 0.8956,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            },
+            {
+                "start": 71,
+                "end": 77,
+                "probability": 0.9776,
+                "type": "Place",
+                "normalized_text": "Seattle"
+            },
+            {
+                "start": 82,
+                "end": 87,
+                "probability": 0.9544,
+                "type": "Place",
+                "normalized_text": "Quebec"
+            }
+        ]
+    },
+    "text": "@BigRedHabs Gotta wonder about the validity of this report. Vegas over Seattle or Quebec makes zero sense.",
+    "id": "504437572484222976",
+    "in_reply_to_user_id": "1947943598",
+    "created_at": "2014-08-27T01:17:43.000Z"
+}

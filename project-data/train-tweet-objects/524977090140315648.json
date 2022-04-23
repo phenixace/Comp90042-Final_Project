@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 41,
+                "probability": 0.951,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ]
+    },
+    "text": "@RT_com The \"five eyes\" and western Europe \"invite\" this misery, still, the perpetrators are despicable.",
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T17:34:26.000Z",
+    "in_reply_to_user_id": "64643056",
+    "id": "524977090140315648"
+}

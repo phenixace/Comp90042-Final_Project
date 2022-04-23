@@ -1,0 +1,19 @@
+{
+    "source": "SocialFlow",
+    "id": "524211911668543488",
+    "entities": {
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/0kf9RugmVf",
+                "expanded_url": "http://gaw.kr/DZmVnCo",
+                "display_url": "gaw.kr/DZmVnCo",
+                "status": 200,
+                "unwound_url": "https://www.gawker.com/banksy-has-not-been-arrested-and-his-name-isnt-paul-ho-1648367427?utm_campaign=socialflow_gawker_twitter&utm_source=gawker_twitter&utm_medium=socialflow"
+            }
+        ]
+    },
+    "created_at": "2014-10-20T14:53:53.000Z",
+    "text": "That old \"Banksy arrested\" hoax is back. Don't buy into it. http://t.co/0kf9RugmVf"
+}

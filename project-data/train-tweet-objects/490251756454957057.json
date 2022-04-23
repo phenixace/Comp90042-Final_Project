@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-07-18T21:48:21.000Z",
+    "text": "@WSJ impossible lie. Blows stream of smoke like moon rocket launch.  Air2air missiles(gunfire?) from Ukr. Air Force jets mistook MH17 4Putin",
+    "id": "490251756454957057",
+    "entities": {
+        "annotations": [
+            {
+                "start": 101,
+                "end": 103,
+                "probability": 0.5634,
+                "type": "Place",
+                "normalized_text": "Ukr"
+            },
+            {
+                "start": 106,
+                "end": 119,
+                "probability": 0.7468,
+                "type": "Organization",
+                "normalized_text": "Air Force jets"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "3108351"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "531086403560804352",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 27,
+                "probability": 0.9816,
+                "type": "Person",
+                "normalized_text": "Hannah"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "HannahJ_16",
+                "id": "1191866785"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1191866785",
+    "created_at": "2014-11-08T14:10:40.000Z",
+    "text": "@HannahJ_16 @BuzzFeed Hannah you just drank pickle juice bye"
+}

@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "gmiller1952",
+                "id": "891114542"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "username": "sheepawoken",
+                "id": "2372146301"
+            },
+            {
+                "start": 36,
+                "end": 50,
+                "username": "YoungBLKRepub",
+                "id": "821354442176032769"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 83,
+                "end": 90,
+                "probability": 0.7785,
+                "type": "Person",
+                "normalized_text": "Ferguson"
+            }
+        ]
+    },
+    "text": "@peddoc63 @gmiller1952 @sheepawoken @YoungBLKRepub \nFinally something funny out of Ferguson.",
+    "id": "538786046671343618",
+    "in_reply_to_user_id": "1379288282",
+    "created_at": "2014-11-29T20:06:18.000Z"
+}

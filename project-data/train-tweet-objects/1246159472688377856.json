@@ -1,0 +1,18 @@
+{
+    "id": "1246159472688377856",
+    "in_reply_to_user_id": "775875217902010368",
+    "source": "Twitter Web App",
+    "text": "To protect yourself, clean your hands frequently with an alcohol-based hand rub or wash them with soap and water. Also, avoid close contact with anyone who is coughing and sneezing. https://t.co/BGZmC5YFVf",
+    "created_at": "2020-04-03T19:35:45.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 182,
+                "end": 205,
+                "url": "https://t.co/BGZmC5YFVf",
+                "expanded_url": "https://twitter.com/pcphsd/status/1246159472688377856/photo/1",
+                "display_url": "pic.twitter.com/BGZmC5YFVf"
+            }
+        ]
+    }
+}

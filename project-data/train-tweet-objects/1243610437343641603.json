@@ -1,0 +1,21 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-27T18:46:48.000Z",
+    "text": "#Thecommunity\n#CoronaUpdate",
+    "id": "1243610437343641603",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 13,
+                "tag": "Thecommunity"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "tag": "CoronaUpdate"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1132028825339146240"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "IamReallTyga",
+                "id": "1273301071"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@IamReallTyga @JBoxJohnson  i def feel ya on that one, i'm abs. shocked that he died in a horrible crash. I feel bad for his family",
+    "id": "407935187834503169",
+    "created_at": "2013-12-03T18:11:42.000Z",
+    "in_reply_to_user_id": "1273301071"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-27T00:42:47.000Z",
+    "id": "559874123984535554",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 51,
+                "probability": 0.8441,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "186675929",
+    "text": "@meg_nydam @BurgerKing yessss🍔💜 megleh you are God"
+}

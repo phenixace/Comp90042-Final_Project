@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 51,
+                "probability": 0.9574,
+                "type": "Organization",
+                "normalized_text": "Browns"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nickpistor",
+                "id": "57775464"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "Yamiche",
+                "id": "89887215"
+            },
+            {
+                "start": 21,
+                "end": 37,
+                "username": "ChristineDByers",
+                "id": "92613268"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-11-30T01:22:05.000Z",
+    "id": "538865516073725952",
+    "text": "@nickpistor @Yamiche @ChristineDByers Bet the Browns can't say the same!Raking in the money!",
+    "in_reply_to_user_id": "57775464"
+}

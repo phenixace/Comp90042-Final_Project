@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 270,
+                "end": 293,
+                "url": "https://t.co/DnZmTJHoOv",
+                "expanded_url": "https://twitter.com/WHO/status/1236402660439449602/photo/1",
+                "display_url": "pic.twitter.com/DnZmTJHoOv"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 21,
+                "tag": "COVID19"
+            },
+            {
+                "start": 257,
+                "end": 269,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236402660439449602",
+    "created_at": "2020-03-07T21:25:40.000Z",
+    "in_reply_to_user_id": "14499829",
+    "text": "Influenza vs #COVID19:\n\nInfluenza: Children are important drivers of influenza virus transmission in the community\n\nCOVID-19: Initial data indicates that children are less affected than adults &amp; that clinical attack rates in the 0-19 age group are low\n\n#coronavirus https://t.co/DnZmTJHoOv"
+}

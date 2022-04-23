@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "queenofthinair",
+                "id": "237388308"
+            }
+        ]
+    },
+    "id": "552721609589391360",
+    "text": "@BuzzFeed @queenofthinair Ahhh the poor guy!",
+    "created_at": "2015-01-07T07:01:15.000Z",
+    "in_reply_to_user_id": "5695632"
+}

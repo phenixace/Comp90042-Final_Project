@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "brad_polumbo",
+                "id": "848280544152608769"
+            }
+        ]
+    },
+    "created_at": "2020-06-13T17:36:11.000Z",
+    "text": "@brad_polumbo Is that comparing black people in the inner city to white people in the suburbs? In order for that data point to have any meaning it would have to compare different races in the same communities",
+    "id": "1271858922182397952",
+    "in_reply_to_user_id": "848280544152608769",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "LeslieMarshall",
+                "id": "26350255"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 64,
+                "probability": 0.704,
+                "type": "Person",
+                "normalized_text": "Baghdadi"
+            }
+        ]
+    },
+    "text": "@ABC @LeslieMarshall A more effective solution is to get Baghdadi. He is behind this and \"gun control\" is not the answer. They used rifles.",
+    "id": "672178185048559616",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T22:19:02.000Z"
+}

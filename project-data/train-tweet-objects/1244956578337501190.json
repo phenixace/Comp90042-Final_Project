@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/9OA9J8jrI2",
+                "expanded_url": "https://twitter.com/SkyNews/status/1244910842426077186",
+                "display_url": "twitter.com/SkyNews/status…"
+            }
+        ]
+    },
+    "created_at": "2020-03-31T11:55:53.000Z",
+    "id": "1244956578337501190",
+    "text": "How does Covid-19 spread? To me &gt; To you.... https://t.co/9OA9J8jrI2"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "532983040310804480",
+    "text": "“@waff48: Bruh, just chill. Did you see the slang words this Chick-fil-a manager banned? http://t.co/SJ6JhDUsmm http://t.co/eY7cTXsaNs” lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "waff48",
+                "id": "18058293"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/SJ6JhDUsmm",
+                "expanded_url": "http://shout.lt/KMv9",
+                "display_url": "shout.lt/KMv9"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/eY7cTXsaNs",
+                "expanded_url": "https://twitter.com/waff48/status/532559937269166080/photo/1",
+                "display_url": "pic.twitter.com/eY7cTXsaNs"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "18058293",
+    "created_at": "2014-11-13T19:47:13.000Z"
+}

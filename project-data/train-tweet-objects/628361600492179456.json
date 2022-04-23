@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "628361600492179456",
+    "text": "@BuzzFeed - and there are plenty of douchey people who are happy to buy it. Suckers deserve to be swindled.",
+    "created_at": "2015-08-04T00:27:34.000Z",
+    "in_reply_to_user_id": "5695632"
+}

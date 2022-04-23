@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T14:49:58.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 52,
+                "end": 61,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "id": "1242463674280955906",
+    "source": "Twitter for Android",
+    "text": "As a Hub, with the healthy state of people at heart @Ovdiasis, we are also a bit curious about how best can one protect him or herself with the recent outbreak.\n\nIs there any known treatment for COVID19?"
+}

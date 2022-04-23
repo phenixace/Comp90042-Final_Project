@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-05-13T11:07:47.000Z",
+    "text": "@internetfreedom @techreview So if my phone starts malfunctioning or battery gets over at a checkpoint I could get jailed?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "internetfreedom",
+                "id": "2943808357"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "techreview",
+                "id": "15808647"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2943808357",
+    "id": "1260527152455434240",
+    "source": "Twitter for Android"
+}

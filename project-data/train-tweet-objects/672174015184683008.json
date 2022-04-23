@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "EF517_V2",
+                "id": "230474638"
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "username": "POTUS",
+                "id": "1349149096909668363"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 78,
+                "end": 82,
+                "probability": 0.9952,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ]
+    },
+    "text": "@EF517_V2 @pikester45 @POTUS @ABC Shocking that the climate change pow wow in Paris didn't rebuke all this!",
+    "id": "672174015184683008",
+    "in_reply_to_user_id": "230474638",
+    "created_at": "2015-12-02T22:02:28.000Z"
+}

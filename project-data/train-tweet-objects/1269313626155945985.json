@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "104Assam",
+                "id": "1261265852315230208"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "nhm_assam",
+                "id": "926126009954398208"
+            },
+            {
+                "start": 21,
+                "end": 34,
+                "username": "himantabiswa",
+                "id": "131188226"
+            },
+            {
+                "start": 35,
+                "end": 51,
+                "username": "Pijush_hazarika",
+                "id": "136983808"
+            },
+            {
+                "start": 52,
+                "end": 63,
+                "username": "PomiBaruah",
+                "id": "1250135547869163520"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1261265852315230208",
+    "created_at": "2020-06-06T17:02:05.000Z",
+    "text": "@104Assam @nhm_assam @himantabiswa @Pijush_hazarika @PomiBaruah When did this happen..? It wasn’t there till yesterday when I called..",
+    "id": "1269313626155945985",
+    "source": "Twitter for iPhone"
+}

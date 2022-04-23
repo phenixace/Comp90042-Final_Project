@@ -1,0 +1,28 @@
+{
+    "text": "Hostages in Sydney cafe made to hold up Islamic flags http://t.co/I1PsUPekkB",
+    "id": "544282005941530624",
+    "source": "SocialFlow",
+    "created_at": "2014-12-15T00:05:17.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 17,
+                "probability": 0.9801,
+                "type": "Place",
+                "normalized_text": "Sydney"
+            }
+        ],
+        "urls": [
+            {
+                "start": 54,
+                "end": 76,
+                "url": "http://t.co/I1PsUPekkB",
+                "expanded_url": "http://nyp.st/16mRnXH",
+                "display_url": "nyp.st/16mRnXH",
+                "status": 200,
+                "unwound_url": "https://nypost.com/2014/12/14/hostages-being-held-in-sydney-cafe/"
+            }
+        ]
+    }
+}

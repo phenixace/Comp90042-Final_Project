@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "xamat",
+                "id": "9316452"
+            }
+        ]
+    },
+    "id": "1262586725928493056",
+    "text": "@xamat 400 person trial. 20 are positive. 380 negative. 361/380 of the negative test negative. 19/20 of the positive test positive.  But 19/380 negative test positive. Any positive test is 50/50 a true positive or false negative.",
+    "source": "Twitter for Android",
+    "created_at": "2020-05-19T03:31:47.000Z",
+    "in_reply_to_user_id": "9316452"
+}

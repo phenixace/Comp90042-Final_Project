@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "LuxMeaMundiAM",
+                "id": "21522091"
+            },
+            {
+                "start": 15,
+                "end": 30,
+                "username": "WinningWwg1wga",
+                "id": "190082995"
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "username": "kathygriffin",
+                "id": "21148293"
+            }
+        ]
+    },
+    "created_at": "2020-03-26T00:58:09.000Z",
+    "text": "@LuxMeaMundiAM @WinningWwg1wga @kathygriffin Work with me here:  What are the symptoms of Covid-19?",
+    "id": "1242979117810757635",
+    "in_reply_to_user_id": "21522091",
+    "source": "Twitter Web App"
+}

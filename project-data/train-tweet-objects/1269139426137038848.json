@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 187,
+                "end": 197,
+                "username": "nhm_assam",
+                "id": "926126009954398208"
+            },
+            {
+                "start": 198,
+                "end": 211,
+                "username": "himantabiswa",
+                "id": "131188226"
+            },
+            {
+                "start": 212,
+                "end": 228,
+                "username": "Pijush_hazarika",
+                "id": "136983808"
+            },
+            {
+                "start": 229,
+                "end": 240,
+                "username": "PomiBaruah",
+                "id": "1250135547869163520"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 166,
+                "end": 186,
+                "tag": "MentalHealthMatters"
+            }
+        ]
+    },
+    "created_at": "2020-06-06T05:29:53.000Z",
+    "text": "⏩104 Sarathi now has a dedicated team of ✔️psychiatrists and ✔️clinical psychologists to provide you with professional counselling. Why wait, dial up 📞 1⃣0⃣4⃣ today! #MentalHealthMatters @nhm_assam @himantabiswa @Pijush_hazarika @PomiBaruah",
+    "id": "1269139426137038848",
+    "source": "Twitter Web App"
+}

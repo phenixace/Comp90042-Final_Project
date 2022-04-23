@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-15T13:15:55.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for Android",
+    "text": "@StephenAtHome @DrLaPook I miss the live audience",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "id": "1250412537851645958"
+}

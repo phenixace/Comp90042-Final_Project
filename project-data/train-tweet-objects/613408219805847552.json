@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2015-06-23T18:08:10.000Z",
+    "id": "613408219805847552",
+    "text": "@HuffingtonPost if he was a black killer we would've rioted an burned down our neighborhood",
+    "in_reply_to_user_id": "14511951"
+}

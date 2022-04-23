@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 65,
+                "end": 73,
+                "probability": 0.9941,
+                "type": "Place",
+                "normalized_text": "Vancouver"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16331010",
+    "created_at": "2014-11-11T20:57:17.000Z",
+    "id": "532275895961387009",
+    "source": "Twitter Web Client",
+    "text": "@TMZ  Used to listen to them while working the Carnival rides in Vancouver one ride I remember the flying bobs and we all sang their music"
+}

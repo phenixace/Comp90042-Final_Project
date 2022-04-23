@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-01-16T16:49:53.000Z",
+    "text": "@Visit_CostaRica Aw, great work! Wonderful animal video.",
+    "id": "556131235886821376",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Visit_CostaRica",
+                "id": "171667875"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "171667875"
+}

@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "29465136",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Mediaite",
+                "id": "29465136"
+            }
+        ]
+    },
+    "created_at": "2014-11-28T16:52:16.000Z",
+    "text": "@Mediaite if she had a mother's instinct.for her child.. and not her political ideology.. she would have never gone out there.",
+    "id": "538374827951009792"
+}

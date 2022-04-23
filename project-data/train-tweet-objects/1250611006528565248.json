@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 52,
+                "end": 58,
+                "probability": 0.9936,
+                "type": "Person",
+                "normalized_text": "Stephen"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-16T02:24:33.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for Android",
+    "text": "@StephenAtHome @DrLaPook Dear Doctor, would it make Stephen and some first responders happier if he would invite them to Zoom/Skype in to be his audience? He could hear their responses and they would get a sweet preview of the show! Win/Win?",
+    "id": "1250611006528565248"
+}

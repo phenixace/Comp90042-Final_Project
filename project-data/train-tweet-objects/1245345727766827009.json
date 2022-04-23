@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "1216641711910391808",
+    "entities": {
+        "urls": [
+            {
+                "start": 24,
+                "end": 47,
+                "url": "https://t.co/KmwJ924qlF",
+                "expanded_url": "https://twitter.com/renewfabriccare/status/1245345727766827009/photo/1",
+                "display_url": "pic.twitter.com/KmwJ924qlF"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T13:42:13.000Z",
+    "text": "How is COVID-19 spread? https://t.co/KmwJ924qlF",
+    "id": "1245345727766827009"
+}

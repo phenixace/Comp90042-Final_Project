@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/sRRPQlMdtr",
+                "expanded_url": "https://twitter.com/narendramodi/status/1234762662413660165/photo/1",
+                "display_url": "pic.twitter.com/sRRPQlMdtr"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1234762662413660165",
+    "created_at": "2020-03-03T08:48:54.000Z",
+    "in_reply_to_user_id": "18839785",
+    "text": "There is no need to panic. We need to work together, take small yet important measures to ensure self-protection. https://t.co/sRRPQlMdtr"
+}

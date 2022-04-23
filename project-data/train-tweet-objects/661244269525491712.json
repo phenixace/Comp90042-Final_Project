@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "RawStory",
+                "id": "16041234"
+            }
+        ]
+    },
+    "id": "661244269525491712",
+    "text": "@RawStory duh",
+    "created_at": "2015-11-02T18:11:33.000Z",
+    "in_reply_to_user_id": "16041234"
+}

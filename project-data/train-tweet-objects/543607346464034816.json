@@ -1,0 +1,44 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "entities": {
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/LFyhhEmIOT",
+                "expanded_url": "http://nbcnews.to/1w0HtF0",
+                "display_url": "nbcnews.to/1w0HtF0",
+                "status": 200,
+                "unwound_url": "https://www.nbcnews.com/news/world/new-dog-ma-pope-says-heaven-hounds-too-n267141?hootPostID=8ad5a206c652429c82efce75f6fb55fe"
+            },
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/31opk1EwN9",
+                "expanded_url": "https://twitter.com/NBCNews/status/543586319168196608/photo/1",
+                "display_url": "pic.twitter.com/31opk1EwN9"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 26,
+                "probability": 0.6837,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-12-13T03:24:25.000Z",
+    "text": "“@NBCNews: New dog-ma? Pope says heaven is for hounds, too\n http://t.co/LFyhhEmIOT http://t.co/31opk1EwN9” - was there ever a doubt?",
+    "id": "543607346464034816"
+}

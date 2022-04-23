@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 24,
+                "probability": 0.9974,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@deray @ABC Darren Wilson already raised almost 400,000 in the week that followed the shooting.  $$ for murder",
+    "source": "Twitter for iPhone",
+    "id": "538733103301541888",
+    "created_at": "2014-11-29T16:35:55.000Z",
+    "in_reply_to_user_id": "29417304"
+}

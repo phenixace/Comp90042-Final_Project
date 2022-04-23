@@ -1,0 +1,51 @@
+{
+    "created_at": "2015-09-24T23:43:34.000Z",
+    "id": "647194697400741889",
+    "entities": {
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/yuTyZcn0kG",
+                "expanded_url": "https://twitter.com/erictfextreme/status/647194697400741889/photo/1",
+                "display_url": "pic.twitter.com/yuTyZcn0kG"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 99,
+                "tag": "ProtectOurFutures"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBSNews",
+                "id": "15012486"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "ProtectFutures",
+                "id": "3386311120"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "username": "Facebook",
+                "id": "217804739"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "username": "fake_us_org",
+                "id": "564514223"
+            }
+        ]
+    },
+    "text": "@CBSNews @ProtectFutures @facebook @fake_us_org ArtistsUnitedForInternet Safety  #ProtectOurFutures http://t.co/yuTyZcn0kG",
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "15012486"
+}

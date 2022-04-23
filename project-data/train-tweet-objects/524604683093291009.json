@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/6IYUd43Ign",
+                "expanded_url": "http://nyp.st/1vI07Rj",
+                "display_url": "nyp.st/1vI07Rj"
+            },
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/PkgGcsQzNn",
+                "expanded_url": "https://twitter.com/nypost/status/524586367456919552/photo/1",
+                "display_url": "pic.twitter.com/PkgGcsQzNn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nypost",
+                "id": "17469289"
+            },
+            {
+                "start": 124,
+                "end": 133,
+                "username": "amannn91",
+                "id": "730071209619161089"
+            }
+        ]
+    },
+    "id": "524604683093291009",
+    "text": "“@nypost: Scientist releases this horrifying picture of a puppy-sized spider http://t.co/6IYUd43Ign http://t.co/PkgGcsQzNn” @amannn91 😩😩😩",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-21T16:54:37.000Z",
+    "in_reply_to_user_id": "17469289"
+}

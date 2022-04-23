@@ -1,0 +1,26 @@
+{
+    "text": "@teawithdev It's airborne too...https://t.co/4eggVs1tFs",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "teawithdev",
+                "id": "110341100"
+            }
+        ],
+        "urls": [
+            {
+                "start": 32,
+                "end": 55,
+                "url": "https://t.co/4eggVs1tFs",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019&ved=2ahUKEwiXl9On4f_nAhVRWysKHaeUBT8QFjAAegQIAxAB&usg=AOvVaw2bqm1AADArANglLPqDC5aW",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ]
+    },
+    "id": "1235027919832932352",
+    "created_at": "2020-03-04T02:22:56.000Z",
+    "in_reply_to_user_id": "110341100"
+}

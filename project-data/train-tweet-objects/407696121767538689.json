@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 59,
+                "probability": 0.9975,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "teagadinho",
+                "id": "1240505161"
+            }
+        ]
+    },
+    "text": "“@teagadinho: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous”",
+    "source": "Twitter for iPhone",
+    "id": "407696121767538689",
+    "created_at": "2013-12-03T02:21:44.000Z",
+    "in_reply_to_user_id": "124543920"
+}

@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 103,
+                "end": 126,
+                "url": "https://t.co/ypEGgEJrFk",
+                "expanded_url": "https://twitter.com/YoungIndiaFDN/status/1241250210417795072/photo/1",
+                "display_url": "pic.twitter.com/ypEGgEJrFk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 98,
+                "end": 102,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-03-21T06:28:06.000Z",
+    "source": "Twitter for Android",
+    "id": "1241250210417795072",
+    "text": "How effective are thermal scanners in detecting people infected with the new coronavirus?\nSource: @WHO https://t.co/ypEGgEJrFk"
+}

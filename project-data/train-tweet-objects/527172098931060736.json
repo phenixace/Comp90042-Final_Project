@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 44,
+                "probability": 0.9698,
+                "type": "Place",
+                "normalized_text": "South America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Tristen_Newman4",
+                "id": "399763012"
+            }
+        ]
+    },
+    "id": "527172098931060736",
+    "text": "@Tristen_Newman4 never going to South America.... Ever",
+    "created_at": "2014-10-28T18:56:37.000Z",
+    "in_reply_to_user_id": "399763012"
+}

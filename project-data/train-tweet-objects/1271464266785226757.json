@@ -1,0 +1,18 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-12T15:27:58.000Z",
+    "id": "1271464266785226757",
+    "text": "For more details and references see (in Dutch): \n\nhttps://t.co/c7C9wdIaFg",
+    "entities": {
+        "urls": [
+            {
+                "start": 50,
+                "end": 73,
+                "url": "https://t.co/c7C9wdIaFg",
+                "expanded_url": "https://twitter.com/JPosthumadeBoer/status/1270298290463150082",
+                "display_url": "twitter.com/JPosthumadeBoe…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1259223051742449665"
+}

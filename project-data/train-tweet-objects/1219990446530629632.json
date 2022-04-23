@@ -1,0 +1,89 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 14,
+                "username": "DrTedros",
+                "id": "189868631"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 24,
+                "end": 33,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 52,
+                "end": 63,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 64,
+                "end": 72,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 73,
+                "end": 86,
+                "username": "otsujikanako",
+                "id": "196177081"
+            },
+            {
+                "start": 88,
+                "end": 102,
+                "username": "okada_katsuya",
+                "id": "3016179829"
+            },
+            {
+                "start": 104,
+                "end": 120,
+                "username": "mizuhofukushima",
+                "id": "109519312"
+            },
+            {
+                "start": 122,
+                "end": 130,
+                "username": "ecoyuri",
+                "id": "89631948"
+            },
+            {
+                "start": 132,
+                "end": 145,
+                "username": "noda_seiko93",
+                "id": "872633437248561152"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1219990446530629632",
+    "created_at": "2020-01-22T14:29:23.000Z",
+    "in_reply_to_user_id": "4273065623",
+    "text": "@WHO @DrTedros @WHOWPRO @WHOSEARO @pahowho @WHOEMRO @WHO_Europe @WHOAFRO @otsujikanako \n@okada_katsuya \n@mizuhofukushima \n@ecoyuri \n@noda_seiko93"
+}

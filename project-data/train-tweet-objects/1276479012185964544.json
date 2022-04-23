@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 112,
+                "end": 120,
+                "probability": 0.5362,
+                "type": "Person",
+                "normalized_text": "Drakeford"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "morrismiff",
+                "id": "100340670"
+            },
+            {
+                "start": 21,
+                "end": 37,
+                "username": "WelshGovernment",
+                "id": "41874178"
+            }
+        ]
+    },
+    "text": "@morrismiff @fmwales @WelshGovernment I agree with some of the restrictions, going down the beach is daft , but Drakeford is not helping the economy, it’s gone political now",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-26T11:34:46.000Z",
+    "in_reply_to_user_id": "100340670",
+    "id": "1276479012185964544"
+}

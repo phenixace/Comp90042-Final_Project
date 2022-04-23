@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-18T23:48:52.000Z",
+    "in_reply_to_user_id": "13049362",
+    "text": "@ComplexMag wednesdays my kinda day",
+    "id": "568195474357952512",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

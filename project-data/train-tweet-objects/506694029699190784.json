@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "RoseMCaye",
+                "id": "362073698"
+            },
+            {
+                "start": 18,
+                "end": 29,
+                "username": "ReaI_Tupac",
+                "id": "2757239331"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@RoseMCaye: 👀 RT @ReaI_Tupac: I'm alive, see you soon !”",
+    "id": "506694029699190784",
+    "created_at": "2014-09-02T06:44:05.000Z",
+    "in_reply_to_user_id": "362073698"
+}

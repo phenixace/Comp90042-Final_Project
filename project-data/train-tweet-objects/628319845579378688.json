@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "628319845579378688",
+    "text": "@BuzzFeed If people fall for it, can you blame the sellers?",
+    "created_at": "2015-08-03T21:41:39.000Z",
+    "in_reply_to_user_id": "5695632"
+}

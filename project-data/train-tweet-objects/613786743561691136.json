@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/CCKv5RfARr",
+                "expanded_url": "https://twitter.com/CarlosFugazzi/status/613786743561691136/photo/1",
+                "display_url": "pic.twitter.com/CCKv5RfARr"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theblaze",
+                "id": "10774652"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "10774652",
+    "created_at": "2015-06-24T19:12:17.000Z",
+    "id": "613786743561691136",
+    "source": "Twitter for BlackBerry",
+    "text": "@theblaze @HillaryClinton has she said anything about this? http://t.co/CCKv5RfARr"
+}

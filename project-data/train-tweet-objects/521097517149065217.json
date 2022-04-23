@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 28,
+                "probability": 0.9029,
+                "type": "Person",
+                "normalized_text": "Tupac"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "130834875",
+    "created_at": "2014-10-12T00:38:24.000Z",
+    "id": "521097517149065217",
+    "source": "Twitter for iPhone",
+    "text": "RT “@Scott_Losse: Maybe Tupac is alive and we're dead.”"
+}

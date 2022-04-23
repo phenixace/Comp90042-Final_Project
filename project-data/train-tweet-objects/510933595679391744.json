@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 61,
+                "tag": "ISIS"
+            },
+            {
+                "start": 62,
+                "end": 65,
+                "tag": "IS"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 31,
+                "probability": 0.9057,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 103,
+                "end": 107,
+                "probability": 0.3554,
+                "type": "Person",
+                "normalized_text": "Islam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMirror",
+                "id": "16887175"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-13T23:30:36.000Z",
+    "text": "@DailyMirror Utterly barbaric UK muslims firmly condemn #ISIS #IS and all their actions in the name of Islam.",
+    "id": "510933595679391744",
+    "in_reply_to_user_id": "16887175"
+}

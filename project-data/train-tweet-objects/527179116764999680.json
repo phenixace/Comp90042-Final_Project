@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 35,
+                "probability": 0.6613,
+                "type": "Person",
+                "normalized_text": "adam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 12,
+                "end": 22,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "id": "527179116764999680",
+    "text": "@xBLAiNE187 @UberFacts fuck you adam",
+    "created_at": "2014-10-28T19:24:30.000Z",
+    "in_reply_to_user_id": "267577197"
+}

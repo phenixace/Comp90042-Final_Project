@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27T01:44:01.000Z",
+    "source": "Twitter for iPhone",
+    "id": "614610099596713984",
+    "text": "@FoxNews Wow! So proud to be an American right now. Love conquers hatred",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

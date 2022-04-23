@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 93,
+                "end": 101,
+                "tag": "sarcasm"
+            }
+        ]
+    },
+    "text": "@ABC why not make killing illegal? Put up signs saying \"no killing zone\" that'll work right? #sarcasm",
+    "id": "672170513741910016",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:48:33.000Z"
+}

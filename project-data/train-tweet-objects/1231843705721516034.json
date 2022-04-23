@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T07:30:00.000Z",
+    "id": "1231843705721516034",
+    "text": "@WHO What happened to your daily media conference?",
+    "in_reply_to_user_id": "14499829"
+}

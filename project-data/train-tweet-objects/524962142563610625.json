@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "BREAKING"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "probability": 0.996,
+                "type": "Person",
+                "normalized_text": "Rick Hughes"
+            },
+            {
+                "start": 69,
+                "end": 74,
+                "probability": 0.9788,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 120,
+                "end": 127,
+                "probability": 0.8281,
+                "type": "Place",
+                "normalized_text": "Hamilton"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "524962142563610625",
+    "text": "#BREAKING Rick Hughes at CBC Hamilton: \n\nThe soldier who was shot in Ottawa Wednesday morning is a reservist serving in Hamilton",
+    "created_at": "2014-10-22T16:35:02.000Z"
+}

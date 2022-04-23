@@ -1,0 +1,23 @@
+{
+    "text": "@A_hamad77 @NoahLamar RIP.",
+    "created_at": "2013-12-06T15:30:39.000Z",
+    "id": "408981819825344512",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "a_hamad77",
+                "id": "1286673007788916738"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "NoahLamar",
+                "id": "1362797706075246595"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "216579173",
+    "source": "Twitter for Android"
+}

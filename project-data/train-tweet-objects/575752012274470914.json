@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-03-11T20:15:51.000Z",
+    "in_reply_to_user_id": "16049723",
+    "text": "@Yammer @BldYrNtwrk rt pls? https://t.co/LXUNoRCmhW",
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/LXUNoRCmhW",
+                "expanded_url": "https://twitter.com/Nickibelieverss/status/573980865056882689",
+                "display_url": "twitter.com/Nickibelievers…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "Yammer",
+                "id": "16049723"
+            }
+        ]
+    },
+    "id": "575752012274470914",
+    "source": "Twitter for Android"
+}

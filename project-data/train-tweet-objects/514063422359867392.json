@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T14:47:25.000Z",
+    "text": "And now, starring in your nightmares @JennJanda RT @DailyMail: Florida woman adds third breast to become reality  http://t.co/PRONqxY7BH",
+    "entities": {
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/PRONqxY7BH",
+                "expanded_url": "https://twitter.com/DailyMail/status/514062859987595264/photo/1",
+                "display_url": "pic.twitter.com/PRONqxY7BH"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 69,
+                "probability": 0.9643,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 37,
+                "end": 47,
+                "username": "JennJanda",
+                "id": "241189605"
+            },
+            {
+                "start": 51,
+                "end": 61,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    },
+    "id": "514063422359867392",
+    "in_reply_to_user_id": "380285402"
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-26T23:08:18.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/8h1eSfldTs",
+                "expanded_url": "http://lat.ms/1v0tqdN",
+                "display_url": "lat.ms/1v0tqdN"
+            },
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/8MeqmPrvbt",
+                "expanded_url": "https://twitter.com/latimes/status/526459255147491328/photo/1",
+                "display_url": "pic.twitter.com/8MeqmPrvbt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 37,
+                "probability": 0.9958,
+                "type": "Person",
+                "normalized_text": "Judd Nelson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 24,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "id": "526510661632028672",
+    "text": "I. Love. This. \"@latimes : Judd Nelson didn't die last night. http://t.co/8h1eSfldTs http://t.co/8MeqmPrvbt”",
+    "in_reply_to_user_id": "16664681"
+}

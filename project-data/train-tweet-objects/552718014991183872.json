@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 122,
+                "end": 137,
+                "username": "CarlyValentine",
+                "id": "1225442735420837888"
+            }
+        ],
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/ZG2wGwbBa7",
+                "expanded_url": "http://bzfd.it/1wS10D6",
+                "display_url": "bzfd.it/1wS10D6"
+            }
+        ]
+    },
+    "id": "552718014991183872",
+    "text": "“@BuzzFeed: This dog was abandoned at a Scottish railway station with a suitcase full of his stuff\nhttp://t.co/ZG2wGwbBa7 @CarlyValentine 😭😭",
+    "created_at": "2015-01-07T06:46:58.000Z",
+    "in_reply_to_user_id": "5695632"
+}

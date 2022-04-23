@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "UberFacts",
+                "id": "95023423"
+            },
+            {
+                "start": 37,
+                "end": 45,
+                "username": "durrson",
+                "id": "17836559"
+            }
+        ],
+        "urls": [
+            {
+                "start": 13,
+                "end": 35,
+                "url": "http://t.co/0TLH4cRirz",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "display_url": "pic.twitter.com/0TLH4cRirz"
+            }
+        ]
+    },
+    "id": "527239063431303168",
+    "text": "“@UberFacts: http://t.co/0TLH4cRirz” @durrson",
+    "created_at": "2014-10-28T23:22:43.000Z",
+    "in_reply_to_user_id": "95023423"
+}

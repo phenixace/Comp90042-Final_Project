@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "id": "352082325443584000",
+    "in_reply_to_user_id": "131351549",
+    "created_at": "2013-07-02T15:12:22.000Z",
+    "text": "@denisleary Lawsuit is based on sexual harassment and filed by a white woman",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "denisleary",
+                "id": "131351549"
+            }
+        ]
+    }
+}

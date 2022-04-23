@@ -1,0 +1,32 @@
+{
+    "source": "RedScareBot",
+    "entities": {
+        "mentions": [
+            {
+                "start": 20,
+                "end": 35,
+                "username": "LaureneDiCillo",
+                "id": "316853873"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "probability": 0.6648,
+                "type": "Organization",
+                "normalized_text": "Sputnik"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "316853873",
+    "created_at": "2015-10-19T10:28:22.000Z",
+    "id": "656054273940156417",
+    "text": "Sputnik momentum RT @laurenedicillo: @cnnbrk We do not need a socialist!"
+}

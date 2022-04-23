@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 82,
+                "probability": 0.8084,
+                "type": "Other",
+                "normalized_text": "Confederate Flag Day"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theblaze",
+                "id": "10774652"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 102,
+                "tag": "BillClinton"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "10774652",
+    "created_at": "2015-06-23T04:07:03.000Z",
+    "id": "613196545228341248",
+    "source": "Twitter for Windows Phone",
+    "text": "@theblaze @HillaryClinton Not talking about 8 years supporting Confederate Flag Day while #BillClinton governor either"
+}

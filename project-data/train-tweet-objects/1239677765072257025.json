@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-03-16T22:19:45.000Z",
+    "id": "1239677765072257025",
+    "entities": {
+        "annotations": [
+            {
+                "start": 94,
+                "end": 96,
+                "probability": 0.4157,
+                "type": "Organization",
+                "normalized_text": "UBI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ByronWoodson",
+                "id": "43928216"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "janellekz",
+                "id": "1265433260198375425"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "conways_law",
+                "id": "846368911"
+            }
+        ]
+    },
+    "text": "@ByronWoodson @janellekz @conways_law Do you think the 350M are ready to accept a UBI? If the UBI is able to purchase basic food and housing, why do we need it? Why not remove money entirely? At what level of the collectives should a UBI be established? (Note: I have not said whether I am for or against a UBI.)",
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": "43928216"
+}

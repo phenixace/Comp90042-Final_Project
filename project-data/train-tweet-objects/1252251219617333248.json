@@ -1,0 +1,23 @@
+{
+    "text": "@KegOfGrog @mindtapes ma nn sono quelli i temi su cui si chiede fiducia. Burioni nn fa un claim scientifico da 2 mesi. \"state a casa\" nn è un claim scientifico. E' una opzione di policy con dei pro e dei contro che tra le tante cose ha un effetto sui tassi di contagio se eseguita. Non è scienza /",
+    "id": "1252251219617333248",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KegOfGrog",
+                "id": "1050454997593444359"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "mindtapes",
+                "id": "405539247"
+            }
+        ]
+    },
+    "created_at": "2020-04-20T15:02:11.000Z",
+    "in_reply_to_user_id": "1050454997593444359"
+}

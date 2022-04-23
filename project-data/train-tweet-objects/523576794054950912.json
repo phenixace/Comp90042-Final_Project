@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-18T20:50:09.000Z",
+    "source": "Twitter for iPhone",
+    "id": "523576794054950912",
+    "text": "@70torinoman @azannaphx Okay, fuck them all even more now.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "azannaphx",
+                "id": "40510113"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

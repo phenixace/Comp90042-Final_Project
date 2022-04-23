@@ -1,0 +1,37 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 253,
+                "end": 276,
+                "url": "https://t.co/7lIwP5RRu5",
+                "expanded_url": "http://www.rcpath.org/covid-19-seminars",
+                "display_url": "rcpath.org/covid-19-semin…",
+                "status": 200,
+                "unwound_url": "https://www.rcpath.org/profession/coronavirus-resource-hub/series-2-covid-19-pandemic-video-based-learning.html"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 77,
+                "end": 79,
+                "probability": 0.533,
+                "type": "Organization",
+                "normalized_text": "NHS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 101,
+                "end": 117,
+                "username": "RachaelLiebmann",
+                "id": "934930308"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "869617806",
+    "created_at": "2020-06-10T18:41:26.000Z",
+    "id": "1270788180002906118",
+    "source": "Twitter Web App",
+    "text": "We’ve just closed a fascinating seminar on a hot topic – testing outside the NHS. We’d like to thank @RachaelLiebmann for an engaging talk and our viewers for interesting questions.\n\nIf you missed it, we'll put the recording online soon. Keep an eye on https://t.co/7lIwP5RRu5"
+}

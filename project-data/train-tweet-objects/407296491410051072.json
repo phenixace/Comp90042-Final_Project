@@ -1,0 +1,23 @@
+{
+    "id": "407296491410051072",
+    "in_reply_to_user_id": "76156485",
+    "source": "Twitter Web Client",
+    "text": "good read @dave_schilling @VICE I found myself being pretty callous about his death. i was at a bar and i chuckled, kind of. i regret it.",
+    "created_at": "2013-12-01T23:53:45.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 10,
+                "end": 25,
+                "username": "dave_schilling",
+                "id": "76156485"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "username": "VICE",
+                "id": "23818581"
+            }
+        ]
+    }
+}

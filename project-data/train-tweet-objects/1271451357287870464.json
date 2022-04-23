@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-12T14:36:40.000Z",
+    "in_reply_to_user_id": "1184748027455557632",
+    "text": "@GGSIPUIndia Hey there! When can we expect result of BBA 5th Semester exams??",
+    "id": "1271451357287870464",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "GGSIPUIndia",
+                "id": "1184748027455557632"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

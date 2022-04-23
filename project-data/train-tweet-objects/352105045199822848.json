@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "352105045199822848",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 22,
+                "probability": 0.9937,
+                "type": "Person",
+                "normalized_text": "Paula Deen"
+            },
+            {
+                "start": 100,
+                "end": 116,
+                "probability": 0.9082,
+                "type": "Other",
+                "normalized_text": "How To Cook A Jew"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 119,
+                "end": 139,
+                "tag": "itsfunnybcitsracist"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "denisleary",
+                "id": "131351549"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "131351549",
+    "created_at": "2013-07-02T16:42:39.000Z",
+    "text": "@denisleary: Paula Deen moves to have discrimination suit dismissed. Just in time for her new book \"How To Cook A Jew\" #itsfunnybcitsracist"
+}

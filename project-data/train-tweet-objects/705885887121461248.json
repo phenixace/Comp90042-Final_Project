@@ -1,0 +1,23 @@
+{
+    "id": "705885887121461248",
+    "created_at": "2016-03-04T22:41:24.000Z",
+    "text": "@Gotham3 @Der_Dutschi sieht täuschend echt nach Trumps Frisur aus:-) Wobei seine Frisur das Schönste an ihm ist,was etwas heißen will.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "Der_Dutschi",
+                "id": "172884537"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter Web Client"
+}

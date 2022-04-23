@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676481759865937921",
+    "created_at": "2015-12-14T19:19:54.000Z",
+    "source": "Twitter for Android",
+    "text": "@nycjim I just cringed in unbearable pain",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-19T03:48:34.000Z",
+    "source": "Twitter for iPhone",
+    "id": "523682091154673664",
+    "text": "@70torinoman @timmthelen just curious...where is the source for this?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "timmthelen",
+                "id": "276396066"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 127,
+                "end": 140,
+                "tag": "IMPEACHOBAMA"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 15,
+                "probability": 0.9946,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 50,
+                "end": 61,
+                "probability": 0.3586,
+                "type": "Organization",
+                "normalized_text": "Palestinians"
+            },
+            {
+                "start": 67,
+                "end": 75,
+                "probability": 0.3197,
+                "type": "Organization",
+                "normalized_text": "Islamists"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    },
+    "text": "@AllenWest Obama has sent over a billion $ to the Palestinians and Islamists so far this yr. Guess who's money...? Taxpayers!! #IMPEACHOBAMA",
+    "created_at": "2013-08-14T04:41:55.000Z",
+    "id": "367506344959426562",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web App"
+}

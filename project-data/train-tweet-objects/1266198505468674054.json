@@ -1,0 +1,56 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 25,
+                "username": "Powow22",
+                "id": "3182278088"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "username": "PilgrimBruce",
+                "id": "746632469852495874"
+            },
+            {
+                "start": 40,
+                "end": 53,
+                "username": "ericMstrauss",
+                "id": "608393"
+            },
+            {
+                "start": 54,
+                "end": 60,
+                "username": "Benyc",
+                "id": "1199662548066410496"
+            },
+            {
+                "start": 61,
+                "end": 65,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "username": "AMitrops",
+                "id": "4864972547"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 119,
+                "end": 121,
+                "probability": 0.5385,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "35188480",
+    "created_at": "2020-05-29T02:43:43.000Z",
+    "text": "@DownDistanceFBL @Powow22 @PilgrimBruce @ericMstrauss @benyc @ABC @AMitrops What is your point? Your article refers to CDC serology antibody testing when active cases (what the states are reporting...people who are currently ill) are diagnosed with the nasopharyngeal swab PCR test.",
+    "id": "1266198505468674054",
+    "source": "Twitter for iPhone"
+}

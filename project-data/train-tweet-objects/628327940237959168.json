@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 63,
+                "probability": 0.938,
+                "type": "Person",
+                "normalized_text": "Charlie Kelly"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "GetBullish",
+                "id": "487635873"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "mowgli3",
+                "id": "722787633399787520"
+            }
+        ]
+    },
+    "id": "628327940237959168",
+    "text": "@GetBullish @BuzzFeed @Mowgli3 or take a page from Charlie Kelly's book..... Milk Steak. ✊",
+    "created_at": "2015-08-03T22:13:49.000Z",
+    "in_reply_to_user_id": "487635873"
+}

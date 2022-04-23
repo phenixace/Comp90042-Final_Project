@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T14:56:50.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 270,
+                "end": 279,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "id": "1242465402086551554",
+    "source": "Twitter for Android",
+    "text": "Could you please tell us the difference between Self isolation and Quarantine and why is it important we maintain social/physical distance during this COVID19 period?\n\nPlease shed more light on how can we protect our loved ones from getting infected when self-isolating @Ovdiasis"
+}

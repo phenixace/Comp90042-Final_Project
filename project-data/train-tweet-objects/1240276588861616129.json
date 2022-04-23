@@ -1,0 +1,84 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 64,
+                "end": 83,
+                "tag": "KHKTCoronaCampaign"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 85,
+                "end": 94,
+                "username": "StarPlus",
+                "id": "93825359"
+            },
+            {
+                "start": 95,
+                "end": 108,
+                "username": "BanerjeeStar",
+                "id": "2159194441"
+            },
+            {
+                "start": 109,
+                "end": 118,
+                "username": "STARTVUK",
+                "id": "757166388"
+            },
+            {
+                "start": 119,
+                "end": 134,
+                "username": "SandiipSikcand",
+                "id": "75039581"
+            },
+            {
+                "start": 136,
+                "end": 151,
+                "username": "karanvgrover22",
+                "id": "432202725"
+            },
+            {
+                "start": 152,
+                "end": 162,
+                "username": "ms_dipika",
+                "id": "3244141357"
+            },
+            {
+                "start": 164,
+                "end": 178,
+                "username": "veenaasikcand",
+                "id": "365942134"
+            },
+            {
+                "start": 179,
+                "end": 192,
+                "username": "tellychakkar",
+                "id": "181150439"
+            },
+            {
+                "start": 194,
+                "end": 204,
+                "username": "pinkvilla",
+                "id": "14182050"
+            },
+            {
+                "start": 205,
+                "end": 217,
+                "username": "JustShowbiz",
+                "id": "2349864474"
+            },
+            {
+                "start": 218,
+                "end": 230,
+                "username": "DisneyIndia",
+                "id": "852914215"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1240276588861616129",
+    "text": "These estimates will be updated as more data becomes available \n#KHKTCoronaCampaign \n@StarPlus @Banerjeestar @STARTVUK @SandiipSikcand \n@karanvgrover22 @ms_dipika \n@veenaasikcand @tellychakkar \n@pinkvilla @JustShowbiz\n@DisneyIndia",
+    "created_at": "2020-03-18T13:59:16.000Z",
+    "in_reply_to_user_id": "1237428953930854400"
+}

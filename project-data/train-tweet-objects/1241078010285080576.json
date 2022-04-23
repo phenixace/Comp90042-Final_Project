@@ -1,0 +1,30 @@
+{
+    "id": "1241078010285080576",
+    "text": "#QuestionsCoronavirus \n\nHow deadly is #COVID19? https://t.co/iMUS4xVZc9",
+    "in_reply_to_user_id": "326334621",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 21,
+                "tag": "QuestionsCoronavirus"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/iMUS4xVZc9",
+                "expanded_url": "https://twitter.com/contecinc/status/1241078010285080576/photo/1",
+                "display_url": "pic.twitter.com/iMUS4xVZc9"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-03-20T19:03:50.000Z"
+}

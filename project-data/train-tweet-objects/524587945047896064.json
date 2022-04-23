@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "id": "524587945047896064",
+    "text": "@nypost love of god",
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-21T15:48:07.000Z",
+    "in_reply_to_user_id": "17469289"
+}

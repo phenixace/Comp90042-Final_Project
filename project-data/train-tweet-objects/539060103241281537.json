@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-30T14:15:18.000Z",
+    "source": "Twitter for iPhone",
+    "id": "539060103241281537",
+    "text": "@AbbyMartin @senorchompers No. They didn't pay him. Read. Do some research.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "AbbyMartin",
+                "id": "24258355"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "senorchompers",
+                "id": "1596679669"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "24258355"
+}

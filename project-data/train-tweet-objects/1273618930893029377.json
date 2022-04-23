@@ -1,0 +1,33 @@
+{
+    "in_reply_to_user_id": "45715838",
+    "id": "1273618930893029377",
+    "created_at": "2020-06-18T14:09:50.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 180,
+                "end": 186,
+                "probability": 0.8242,
+                "type": "Person",
+                "normalized_text": "Johnson"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 115,
+                "end": 128,
+                "tag": "HerdImmunity"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "peterjukes",
+                "id": "45715838"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "text": "@peterjukes Was the app another dead cat? To make them look like they were doing something when all along pursuing #HerdImmunity to allow us to emerge as strongest trading nation (Johnson’s Feb speech)? What is all this bullshit actually meant to be distracting us from?"
+}

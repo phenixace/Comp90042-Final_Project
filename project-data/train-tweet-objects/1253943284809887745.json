@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/YeoS1Pc5Iw",
+                "expanded_url": "https://twitter.com/PIB_India/status/1253641327348076544",
+                "display_url": "twitter.com/PIB_India/stat…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 91,
+                "end": 101,
+                "username": "PIB_India",
+                "id": "231033118"
+            },
+            {
+                "start": 102,
+                "end": 112,
+                "username": "ICMRDELHI",
+                "id": "2695241174"
+            },
+            {
+                "start": 113,
+                "end": 125,
+                "username": "MoHFW_INDIA",
+                "id": "2596143056"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "53306736",
+    "created_at": "2020-04-25T07:05:50.000Z",
+    "id": "1253943284809887745",
+    "source": "Twitter for Android",
+    "text": "Have there been any studies on efficacy of treatment thtough plasma of recovered patients. @PIB_India\n@ICMRDELHI @MoHFW_INDIA https://t.co/YeoS1Pc5Iw"
+}

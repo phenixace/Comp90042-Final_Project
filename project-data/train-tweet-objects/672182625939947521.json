@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 130,
+                "end": 134,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 123,
+                "end": 127,
+                "probability": 0.9443,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ]
+    },
+    "text": "Sad the President always jumps face first into anything that can advance his political agenda,He make a fool of himself in Paris\n @ABC",
+    "id": "672182625939947521",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T22:36:41.000Z"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "erikuhh__",
+                "id": "2229950870"
+            }
+        ]
+    },
+    "id": "527167905998188545",
+    "text": "@UberFacts @erikuhh__ fuck no, fuck that",
+    "created_at": "2014-10-28T18:39:57.000Z",
+    "in_reply_to_user_id": "95023423"
+}

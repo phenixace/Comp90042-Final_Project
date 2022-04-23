@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-20T20:20:07.000Z",
+    "text": "@WSJ By Russian rebells!",
+    "id": "490954325946929152",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2015-06-23T18:02:31.000Z",
+    "id": "613406797735444481",
+    "text": "@HuffingtonPost Maybe they were trying to poison him?",
+    "in_reply_to_user_id": "14511951"
+}

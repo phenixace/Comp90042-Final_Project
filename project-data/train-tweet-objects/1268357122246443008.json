@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-04T01:41:17.000Z",
+    "id": "1268357122246443008",
+    "text": "@RunningReform advocated load management (what is now called ACWR) for decades.  But, I find it interesting that the research behind it is just kind of 'meh.  Common sense/decades of experience says \"build slowly\" but the research is um, interesting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RunningReform",
+                "id": "600236839"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "600236839"
+}

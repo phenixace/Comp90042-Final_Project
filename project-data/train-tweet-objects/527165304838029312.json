@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.9807,
+                "type": "Place",
+                "normalized_text": "South America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/17HwrPR0kf",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "display_url": "pic.twitter.com/17HwrPR0kf"
+            }
+        ]
+    },
+    "id": "527165304838029312",
+    "text": "“@UberFacts: A puppy-sized spider was found in South America  http://t.co/17HwrPR0kf” OH HELLLLLL NOOOO",
+    "created_at": "2014-10-28T18:29:37.000Z",
+    "in_reply_to_user_id": "95023423"
+}

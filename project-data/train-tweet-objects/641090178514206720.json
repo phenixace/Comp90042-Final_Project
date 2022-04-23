@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "641090178514206720",
+    "text": "@nytimes very sad",
+    "created_at": "2015-09-08T03:26:24.000Z",
+    "in_reply_to_user_id": "807095"
+}

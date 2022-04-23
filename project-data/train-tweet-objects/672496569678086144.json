@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jboraski55",
+                "id": "1046135256"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 75,
+                "probability": 0.4659,
+                "type": "Person",
+                "normalized_text": "Dem"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1046135256",
+    "created_at": "2015-12-03T19:24:11.000Z",
+    "id": "672496569678086144",
+    "text": "@jboraski55 @Rockprincess818 just like the stock market does better with Dem president fact, this is merely coincidental."
+}

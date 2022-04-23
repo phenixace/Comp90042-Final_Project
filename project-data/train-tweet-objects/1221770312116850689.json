@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 202,
+                "end": 234,
+                "probability": 0.421,
+                "type": "Other",
+                "normalized_text": "Severe Acute Respiratory Syndrome"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/siDjYJbeHJ",
+                "expanded_url": "https://twitter.com/dustandwipes/status/1221770312116850689/photo/1",
+                "display_url": "pic.twitter.com/siDjYJbeHJ"
+            }
+        ]
+    },
+    "id": "1221770312116850689",
+    "created_at": "2020-01-27T12:21:56.000Z",
+    "source": "Twitter for Android",
+    "text": "What is Coronavirus?\nCoronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). https://t.co/siDjYJbeHJ"
+}

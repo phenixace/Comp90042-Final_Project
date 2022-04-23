@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 89,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 278,
+                "end": 295,
+                "tag": "Coronavirustruth"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 57,
+                "probability": 0.984,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "MarshaCollier",
+                "id": "14262772"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1227704469674172416",
+    "text": "@MarshaCollier Absolutely the packages received from China will be safe from #Coronavirus. As virus need food to survive because virus do not prepare its own food, it is dependent on food made by others.\n\nThat's why when the virus enters in humany body we feel less energetic.\n\n#Coronavirustruth",
+    "created_at": "2020-02-12T21:22:09.000Z",
+    "in_reply_to_user_id": "14262772"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "698523479440756736",
+    "entities": {
+        "urls": [
+            {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/9il4tJUfkp",
+                "expanded_url": "https://twitter.com/NightmarEclipse/status/698523479440756736/photo/1",
+                "display_url": "pic.twitter.com/9il4tJUfkp"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "justsomeguyinco",
+                "id": "224349882"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-02-13T15:05:50.000Z",
+    "text": "@justsomeguyinco @robinashe @Gotham3 this book may enlighten you. https://t.co/9il4tJUfkp",
+    "in_reply_to_user_id": "224349882",
+    "source": "Twitter for Android"
+}

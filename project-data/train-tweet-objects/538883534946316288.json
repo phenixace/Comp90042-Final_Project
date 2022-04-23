@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-11-30T02:33:41.000Z",
+    "id": "538883534946316288",
+    "text": "@nickpistor Oh, so we expect the bastard that has lied about EVERYTHING to now tell the truth.  @MTmarilyn2 @ChristineDByers",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nickpistor",
+                "id": "57775464"
+            },
+            {
+                "start": 96,
+                "end": 107,
+                "username": "MTmarilyn2",
+                "id": "239025975"
+            },
+            {
+                "start": 108,
+                "end": 124,
+                "username": "ChristineDByers",
+                "id": "92613268"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "57775464"
+}

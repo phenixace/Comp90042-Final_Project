@@ -1,0 +1,32 @@
+{
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "lindetrain",
+                "id": "36799211"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 35,
+                "probability": 0.2658,
+                "type": "Organization",
+                "normalized_text": "Vegas Luck"
+            }
+        ]
+    },
+    "text": "@lindetrain @theScore the Vegas Luck?",
+    "id": "504423623449251841",
+    "in_reply_to_user_id": "36799211",
+    "created_at": "2014-08-27T00:22:18.000Z"
+}

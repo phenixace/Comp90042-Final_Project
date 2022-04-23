@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 123,
+                "end": 146,
+                "url": "https://t.co/NCA2ajtWO8",
+                "expanded_url": "https://twitter.com/dmerrick04/status/1250264757912760322/photo/1",
+                "display_url": "pic.twitter.com/NCA2ajtWO8"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T03:28:41.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for Android",
+    "text": "@StephenAtHome @DrLaPook I know it was deleted and reposted without the typo, but:\n\n\"What are they, symptoms of COVID-19?\" https://t.co/NCA2ajtWO8",
+    "id": "1250264757912760322"
+}

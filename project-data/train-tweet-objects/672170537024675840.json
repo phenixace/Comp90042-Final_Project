@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC the government should just stop making reasons to disarm the public.",
+    "id": "672170537024675840",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:48:39.000Z"
+}

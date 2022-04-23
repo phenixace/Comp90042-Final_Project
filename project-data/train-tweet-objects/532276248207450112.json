@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "LaCondessa",
+                "id": "20734020"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 70,
+                "end": 84,
+                "tag": "MiamiMemories"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-11T20:58:41.000Z",
+    "text": "@HuffingtonPost @LaCondessa Oh, dear. Best roller skating song. Ever. #MiamiMemories",
+    "in_reply_to_user_id": "14511951",
+    "id": "532276248207450112"
+}

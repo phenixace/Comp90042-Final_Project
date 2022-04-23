@@ -1,0 +1,7 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-12T15:02:52.000Z",
+    "id": "1271457948502495232",
+    "text": "Simplified Epidemic Modelling\nEpidemic models can be conceptualised by a sequence of bins containing persons in different stages of a disease, a one-way transfer is considered, where persons transfer from one bin to the next. The rate at which persons transfer is described by ...",
+    "in_reply_to_user_id": "1259223051742449665"
+}

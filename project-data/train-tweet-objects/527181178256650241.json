@@ -1,0 +1,23 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "MitchyCollins",
+                "id": "22453641"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "id": "527181178256650241",
+    "text": "@MitchyCollins @UberFacts Aragog?",
+    "created_at": "2014-10-28T19:32:42.000Z",
+    "in_reply_to_user_id": "22453641"
+}

@@ -1,0 +1,35 @@
+{
+    "text": "@myfanwy60 @BrynCleat @morrismiff @fmwales @WelshGovernment I never said open everything up ?? But the scientists have said the end of a pandemic, will be through heard immunity?? It sure what you mean by taxes",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "myfanwy60",
+                "id": "3353489548"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "BrynCleat",
+                "id": "1209650152094490636"
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "username": "morrismiff",
+                "id": "100340670"
+            },
+            {
+                "start": 43,
+                "end": 59,
+                "username": "WelshGovernment",
+                "id": "41874178"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T16:30:30.000Z",
+    "in_reply_to_user_id": "3353489548",
+    "id": "1276553435031224321"
+}

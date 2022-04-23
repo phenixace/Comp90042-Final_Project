@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-11-30T08:38:29.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/323suqFAs1",
+                "expanded_url": "http://www.alternet.org/abc-reportedly-paid-darren-wilson-six-figure-fee-interview",
+                "display_url": "alternet.org/abc-reportedly…",
+                "status": 200,
+                "unwound_url": "https://www.alternet.org/2014/11/abc-reportedly-paid-darren-wilson-six-figure-fee-interview/"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 38,
+                "tag": "DarrenWilson"
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "tag": "Ferguson"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 7,
+                "probability": 0.8502,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 115,
+                "end": 129,
+                "username": "senorchompers",
+                "id": "1596679669"
+            }
+        ]
+    },
+    "id": "538975342011363328",
+    "text": "Ugh. ABC reportedly paid #DarrenWilson a 'mid to high' six figure fee for his interview: http://t.co/323suqFAs1 ht @senorchompers #Ferguson",
+    "in_reply_to_user_id": "1596679669"
+}

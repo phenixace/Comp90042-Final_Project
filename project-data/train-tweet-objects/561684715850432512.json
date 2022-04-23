@@ -1,0 +1,29 @@
+{
+    "id": "561684715850432512",
+    "text": "@Mecca_Infidel @Callitspades @Patriotic_Me @glenntu My dozen plus weapons haven't assaulted anyone...they defend me, my family, and friends.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 28,
+                "username": "Callitspades",
+                "id": "2852741687"
+            },
+            {
+                "start": 29,
+                "end": 42,
+                "username": "Patriotic_Me",
+                "id": "35216399"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "username": "glenntu",
+                "id": "39501983"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2996330665",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-02-01T00:37:26.000Z"
+}

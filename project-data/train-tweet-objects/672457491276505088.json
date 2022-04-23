@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "TheTortorian",
+                "id": "112709628"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 111,
+                "end": 115,
+                "probability": 0.9971,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T16:48:54.000Z",
+    "id": "672457491276505088",
+    "text": "@Rockprincess818 @TheTortorian Its hard not to give excuses to anyone, but social cohesion must be part of it. Obama divides."
+}

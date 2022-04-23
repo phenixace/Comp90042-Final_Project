@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-27T18:46:44.000Z",
+    "text": "@NonsoDynasty \n2. How Does COVID-19 spread?\nThe virus that causes COVID-19 probably emerged from an animal source, but is now spreading from person to person. \n\nThe virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet)",
+    "id": "1243610423343157253",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "NonsoDynasty",
+                "id": "992741970148839424"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "992741970148839424"
+}

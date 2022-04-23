@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-03-18T12:03:04.000Z",
+    "text": "@MuraliPriya13 @CarmineSabia @realDonaldTrump Are you kidding me?I never knew I had the power to deceive the world. It’s the truth that there is no evidence shows that the virus originated in a laboratory in China.",
+    "id": "1240247344131493888",
+    "entities": {
+        "annotations": [
+            {
+                "start": 208,
+                "end": 212,
+                "probability": 0.9979,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "MuraliPriya13",
+                "id": "1018579637952303104"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "CarmineSabia",
+                "id": "143169070"
+            },
+            {
+                "start": 29,
+                "end": 45,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1018579637952303104"
+}

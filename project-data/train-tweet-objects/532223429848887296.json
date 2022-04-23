@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 52,
+                "end": 55,
+                "probability": 0.9244,
+                "type": "Person",
+                "normalized_text": "Eric"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/9nijyffiRZ",
+                "expanded_url": "https://twitter.com/suprfinesunshin/status/532223429848887296/photo/1",
+                "display_url": "pic.twitter.com/9nijyffiRZ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T17:28:48.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for Android",
+    "text": "@Eater I imagine the aggrieved Chick-fil-a manager, Eric, looks something like this: http://t.co/9nijyffiRZ",
+    "id": "532223429848887296"
+}

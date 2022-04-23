@@ -1,0 +1,56 @@
+{
+    "id": "749008395458469888",
+    "entities": {
+        "urls": [
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/im6Z35SLHC",
+                "expanded_url": "https://youtu.be/OemqVWi_R0k",
+                "display_url": "youtu.be/OemqVWi_R0k"
+            },
+            {
+                "start": 113,
+                "end": 136,
+                "url": "https://t.co/lxXJwYAHyV",
+                "expanded_url": "https://twitter.com/pizzaboyfry/status/749008395458469888/photo/1",
+                "display_url": "pic.twitter.com/lxXJwYAHyV"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 33,
+                "end": 46,
+                "tag": "TheProducers"
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "tag": "Trump"
+            },
+            {
+                "start": 54,
+                "end": 61,
+                "tag": "Parody"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 87,
+                "end": 95,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 96,
+                "end": 112,
+                "username": "DearUncleBender",
+                "id": "717850792712138753"
+            }
+        ]
+    },
+    "created_at": "2016-07-01T22:34:52.000Z",
+    "text": "What's the flop in the original? #TheProducers #Trump #Parody .https://t.co/im6Z35SLHC @Gotham3 @DearUncleBender https://t.co/lxXJwYAHyV",
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter for iPhone"
+}

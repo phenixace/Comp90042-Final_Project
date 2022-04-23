@@ -1,0 +1,36 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676393455480938496",
+    "created_at": "2015-12-14T13:29:01.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 23,
+                "probability": 0.967,
+                "type": "Place",
+                "normalized_text": "North Carolina"
+            }
+        ],
+        "urls": [
+            {
+                "start": 97,
+                "end": 120,
+                "url": "https://t.co/OxOFjNFaiz",
+                "expanded_url": "http://mashable.com/2015/12/14/town-rejects-solar-panels/#M1q.JH2JG05R",
+                "display_url": "mashable.com/2015/12/14/tow…",
+                "unwound_url": "https://mashable.com/archive/town-rejects-solar-panels"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@nycjim: North Carolina town rejects solar panels for sucking \"up all the energy from the sun.” https://t.co/OxOFjNFaiz NO, REALLY. NOPE. 😳"
+}

@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T04:15:10.000Z",
+    "text": "@NBCNews",
+    "id": "543620117444452352"
+}

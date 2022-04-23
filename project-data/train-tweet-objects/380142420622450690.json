@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/mFbghgn6m1",
+                "expanded_url": "http://eonli.ne/15B465P",
+                "display_url": "eonli.ne/15B465P"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 35,
+                "end": 43,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 69,
+                "probability": 0.8463,
+                "type": "Place",
+                "normalized_text": "Louisiana"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "if you aint down get outta town RT @eonline: Can twerking in Louisiana really get you a \"mandatory 30 days in jail\"?! http://t.co/mFbghgn6m1",
+    "created_at": "2013-09-18T01:33:10.000Z",
+    "id": "380142420622450690",
+    "in_reply_to_user_id": "2883841"
+}

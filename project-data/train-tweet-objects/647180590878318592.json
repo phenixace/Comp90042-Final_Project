@@ -1,0 +1,26 @@
+{
+    "source": "Echofon",
+    "created_at": "2015-09-24T22:47:31.000Z",
+    "text": "Good to see @CNNPolitics finally admitting Sanders place",
+    "id": "647180590878318592",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 49,
+                "probability": 0.9742,
+                "type": "Person",
+                "normalized_text": "Sanders"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13850422"
+}

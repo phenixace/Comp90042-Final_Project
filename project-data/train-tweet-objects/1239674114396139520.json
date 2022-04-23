@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-16T22:05:15.000Z",
+    "id": "1239674114396139520",
+    "text": "@ByronWoodson @janellekz @conways_law The original principle still applies. Some of the roses (for you) or pedals, or cells will be able to adapt - others won’t - trying to make reactions go faster though, tends to result in a smaller yield, I think.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ByronWoodson",
+                "id": "43928216"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "janellekz",
+                "id": "1265433260198375425"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "conways_law",
+                "id": "846368911"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": "169756333"
+}

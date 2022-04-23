@@ -1,0 +1,42 @@
+{
+    "text": "If it's not with a drone, it doesn't count RT @WSJ Amazon's physical store in NYC would offer same-day delivery http://t.co/r9GEx6U4cU",
+    "created_at": "2014-10-09T23:01:30.000Z",
+    "id": "520348358767280128",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 56,
+                "probability": 0.5192,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            },
+            {
+                "start": 78,
+                "end": 80,
+                "probability": 0.9939,
+                "type": "Place",
+                "normalized_text": "NYC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 46,
+                "end": 50,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ],
+        "urls": [
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/r9GEx6U4cU",
+                "expanded_url": "http://on.wsj.com/1v7R78R",
+                "display_url": "on.wsj.com/1v7R78R"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351",
+    "source": "Twitter for iPhone"
+}

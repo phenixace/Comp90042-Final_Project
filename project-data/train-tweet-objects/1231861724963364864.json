@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 7,
+                "end": 30,
+                "url": "https://t.co/QfCKo0ea8J",
+                "expanded_url": "https://twitter.com/AP/status/1231856819028594688?s=19",
+                "display_url": "twitter.com/AP/status/1231…"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T08:41:36.000Z",
+    "id": "1231861724963364864",
+    "text": "@WHO 📌 https://t.co/QfCKo0ea8J",
+    "in_reply_to_user_id": "14499829"
+}

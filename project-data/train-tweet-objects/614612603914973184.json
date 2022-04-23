@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "16311797",
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "WSJPolitics",
+                "id": "16311797"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:53:58.000Z",
+    "text": "@WSJPolitics no puedo creer esta puteria...",
+    "id": "614612603914973184"
+}

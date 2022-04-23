@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-30T08:00:21.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 246,
+                "end": 256,
+                "probability": 0.4214,
+                "type": "Person",
+                "normalized_text": "Coronavirus"
+            }
+        ]
+    },
+    "text": "More evidence is emerging on the significance of T cells, this time from the Karolinska Institutet. I was on their review board for three years, it is world-renowned in the immunology field.\n\nI'm sure that far more people have been infected with Coronavirus than estimated.",
+    "id": "1277874601108877312",
+    "source": "Twitter Web App"
+}

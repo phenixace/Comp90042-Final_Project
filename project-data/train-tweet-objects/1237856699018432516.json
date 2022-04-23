@@ -1,0 +1,32 @@
+{
+    "text": "@WesKinetic @swear_trek is my go to response. https://t.co/FkkCODAFAR",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "WesKinetic",
+                "id": "23089094"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "swear_trek",
+                "id": "752499373989326849"
+            }
+        ],
+        "urls": [
+            {
+                "start": 46,
+                "end": 69,
+                "url": "https://t.co/FkkCODAFAR",
+                "expanded_url": "https://twitter.com/enlaycock/status/1237856699018432516/photo/1",
+                "display_url": "pic.twitter.com/FkkCODAFAR"
+            }
+        ]
+    },
+    "created_at": "2020-03-11T21:43:29.000Z",
+    "in_reply_to_user_id": "23089094",
+    "id": "1237856699018432516"
+}

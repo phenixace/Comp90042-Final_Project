@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17T08:11:22.000Z",
+    "text": "@MysticIntel101 The mosquito element is possible. However still no evidence. They are likely to be carrier.",
+    "id": "1239826648758960128",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MysticIntel101",
+                "id": "1080539466715095040"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1080539466715095040"
+}

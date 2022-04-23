@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2014-10-23T10:35:25.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "525234030283739137",
+    "source": "Twitter Web Client",
+    "text": "@ABC Not a way to go,u gave ur life for your country,May ur soul RIP.\nThe world is full of such guys &amp; it is difficult to be on guard always"
+}

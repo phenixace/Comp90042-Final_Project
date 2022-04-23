@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/f10qWjDBxv",
+                "expanded_url": "http://youtube.com/watch?v=nvzpSvyyZis",
+                "display_url": "youtube.com/watch?v=nvzpSv…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 48,
+                "probability": 0.8758,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 67,
+                "end": 73,
+                "probability": 0.7551,
+                "type": "Product",
+                "normalized_text": "YouTube"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "mscott",
+                "id": "22123727"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "22123727",
+    "text": "@mscott does not seem to work on mobile in the US. What about your YouTube stream? http://t.co/f10qWjDBxv",
+    "created_at": "2014-12-15T00:04:59.000Z",
+    "id": "544281932406599681"
+}

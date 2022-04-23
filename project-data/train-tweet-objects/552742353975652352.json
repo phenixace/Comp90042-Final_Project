@@ -1,0 +1,43 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 83,
+                "end": 100,
+                "tag": "dogsarefamilytoo"
+            },
+            {
+                "start": 101,
+                "end": 106,
+                "tag": "dogs"
+            },
+            {
+                "start": 107,
+                "end": 118,
+                "tag": "FurryTails"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 40,
+                "probability": 0.5684,
+                "type": "Organization",
+                "normalized_text": "SPCA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "552742353975652352",
+    "text": "@BuzzFeed This is so sad. I hope the SPCA does indeed find the person responsible. #dogsarefamilytoo #dogs #FurryTails",
+    "created_at": "2015-01-07T08:23:41.000Z",
+    "in_reply_to_user_id": "5695632"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "IndiaToday",
+                "id": "19897138"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "sardesairajdeep",
+                "id": "56304605"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 284,
+                "end": 286,
+                "probability": 0.8332,
+                "type": "Organization",
+                "normalized_text": "NHS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19897138",
+    "created_at": "2020-04-20T16:51:41.000Z",
+    "id": "1252278779843665921",
+    "text": "@IndiaToday @sardesairajdeep How about practices that are working well as supportive treatment and not curative treatment. Surely techniques like 'proning' that are being tried may b useful. Why is there no website of evolving best practices that medics can share, something like the NHS does 4 its physicians"
+}

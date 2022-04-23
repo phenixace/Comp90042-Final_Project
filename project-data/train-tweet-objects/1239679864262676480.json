@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-03-16T22:28:06.000Z",
+    "id": "1239679864262676480",
+    "entities": {
+        "annotations": [
+            {
+                "start": 56,
+                "end": 66,
+                "probability": 0.5032,
+                "type": "Person",
+                "normalized_text": "Fiona Apple"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ByronWoodson",
+                "id": "43928216"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "janellekz",
+                "id": "1265433260198375425"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "conways_law",
+                "id": "846368911"
+            }
+        ]
+    },
+    "text": "@ByronWoodson @janellekz @conways_law Reminds me of the Fiona Apple line: He said, “It’s all in your head.” I said, “So’s everything but he didn’t get it.” (State change = adaptation.)\n\nOkay. Let’s see how it goes over time. Would be interested in seeing how this group of humanity adapts to that.",
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": "43928216"
+}

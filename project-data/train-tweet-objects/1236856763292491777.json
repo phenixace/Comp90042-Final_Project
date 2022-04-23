@@ -1,0 +1,17 @@
+{
+    "text": "@elonmusk OMG, I don't think I've ever been so disappointed in someone I once held in high esteem. If 40 million get infected (based on flu numbers &amp; COVID19 is even more contagious) a CFR of 3.4% would result in 1,360,000 deaths. Not overhyped.",
+    "id": "1236856763292491777",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "elonmusk",
+                "id": "44196397"
+            }
+        ]
+    },
+    "created_at": "2020-03-09T03:30:06.000Z",
+    "in_reply_to_user_id": "44196397"
+}

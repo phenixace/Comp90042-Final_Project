@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ReaI_Tupac",
+                "id": "2757239331"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "desusnice",
+                "id": "14594844"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 32,
+                "probability": 0.9709,
+                "type": "Place",
+                "normalized_text": "Cuba"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@ReaI_Tupac @desusnice \"from Cuba\"",
+    "id": "506167223585501184",
+    "created_at": "2014-08-31T19:50:44.000Z",
+    "in_reply_to_user_id": "2757239331"
+}

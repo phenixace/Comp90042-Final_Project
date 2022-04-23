@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "2906718340",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "DrGreggKilleen",
+                "id": "2906718340"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:12:07.000Z",
+    "text": "@DrGreggKilleen @NBCNews Really, do you have to be such a douche to deny kids who want to think their pets go to heaven.",
+    "id": "543589149799100416"
+}

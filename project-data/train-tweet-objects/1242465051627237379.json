@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 293,
+                "end": 295,
+                "probability": 0.5415,
+                "type": "Other",
+                "normalized_text": "HIV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "phglobalshapers",
+                "id": "3009264856"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T14:55:26.000Z",
+    "id": "1242465051627237379",
+    "source": "Twitter for Android",
+    "text": "@phglobalshapers @WHO @NCDCgov It is called a pandemic because this previously unknown disease has spread from a particular locality to all over the world... A pandemic is a disease outbreak that has spread over several countries or continents... Another popular disease that is a pandemic is HIV/AIDS."
+}

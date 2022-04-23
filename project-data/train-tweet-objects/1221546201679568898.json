@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 240,
+                "end": 252,
+                "tag": "CoronaVirus"
+            },
+            {
+                "start": 253,
+                "end": 273,
+                "tag": "CoronavirusOutbreak"
+            },
+            {
+                "start": 274,
+                "end": 288,
+                "tag": "VirusOutbreak"
+            }
+        ],
+        "urls": [
+            {
+                "start": 289,
+                "end": 312,
+                "url": "https://t.co/QtHmaBHceP",
+                "expanded_url": "https://twitter.com/Precious_Ajunwa/status/1221546201679568898/photo/1",
+                "display_url": "pic.twitter.com/QtHmaBHceP"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "235771210",
+    "created_at": "2020-01-26T21:31:24.000Z",
+    "id": "1221546201679568898",
+    "text": "Protect others from getting sick:\n3⃣ \n🔺Avoid close contact when you are experiencing fever &amp; cold or flu-like symptoms 🤧.\n🔺Avoid spitting in public.\n🔺Seek medical care 👩🏻‍⚕️👨🏻‍⚕️ if you have a fever 🤒, cough &amp; difficulty breathing.\n#CoronaVirus #CoronavirusOutbreak #VirusOutbreak https://t.co/QtHmaBHceP",
+    "source": "Twitter for Android"
+}

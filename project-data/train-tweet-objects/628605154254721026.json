@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "115245884",
+    "created_at": "2015-08-04T16:35:22.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ledbettercarly",
+                "id": "115245884"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            },
+            {
+                "start": 41,
+                "end": 52,
+                "username": "WholeFoods",
+                "id": "15131310"
+            }
+        ]
+    },
+    "id": "628605154254721026",
+    "source": "Twitter Web Client",
+    "text": "@ledbettercarly @HuffingtonPost $6 LOLOL @WholeFoods"
+}

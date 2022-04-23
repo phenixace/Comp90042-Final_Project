@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "64643056",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 34,
+                "probability": 0.5552,
+                "type": "Person",
+                "normalized_text": "Godzilla"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "RT_com",
+                "id": "64643056"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "username": "momo_915",
+                "id": "3292954622"
+            }
+        ]
+    },
+    "created_at": "2013-08-07T11:47:24.000Z",
+    "text": "@RT_com @momo_915 and then Godzilla was born...",
+    "id": "365076707629203456"
+}

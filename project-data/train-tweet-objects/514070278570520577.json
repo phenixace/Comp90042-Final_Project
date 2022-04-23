@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T15:14:40.000Z",
+    "text": "“@DailyMail: Florida woman surgically adds third breast in bid to become reality TV Star http://t.co/nhlFMtYEci” • The Fuck 😐❗️",
+    "entities": {
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/nhlFMtYEci",
+                "expanded_url": "https://twitter.com/DailyMail/status/514062859987595264/photo/1",
+                "display_url": "pic.twitter.com/nhlFMtYEci"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "probability": 0.9532,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    },
+    "id": "514070278570520577",
+    "in_reply_to_user_id": "380285402"
+}

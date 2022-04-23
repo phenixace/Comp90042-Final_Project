@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T17:14:59.000Z",
+    "text": "@LindaFrum @LeBlancJpl @affanchowdhry good for Vickers",
+    "id": "524972195978964993",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 53,
+                "probability": 0.5455,
+                "type": "Person",
+                "normalized_text": "Vickers"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "LindaFrum",
+                "id": "171606833"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "LeBlancJpl",
+                "id": "1173151501"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "affanchowdhry",
+                "id": "36730252"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "171606833"
+}

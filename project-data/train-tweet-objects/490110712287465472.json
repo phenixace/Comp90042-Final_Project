@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 66,
+                "tag": "damn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    },
+    "text": "@nycjim \"indonesian student\"??? my poor fellow countrymen... #damn you terrorist!",
+    "created_at": "2014-07-18T12:27:54.000Z",
+    "id": "490110712287465472",
+    "in_reply_to_user_id": "14940354",
+    "source": "Twitter for Android"
+}

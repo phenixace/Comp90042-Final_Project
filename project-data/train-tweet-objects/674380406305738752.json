@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "christichat",
+                "id": "1045096472193183744"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 34,
+                "probability": 0.9971,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-09T00:09:52.000Z",
+    "id": "674380406305738752",
+    "text": "@Rockprincess818 @ChristiChat Obama has encouraged mass shootings by politicizing them. Also by being useless defending against Terrorism."
+}

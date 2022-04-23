@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-14T12:47:47.000Z",
+    "text": "@t0nyyates Major unknown factor for me in this is prior immunity from previous coronavirus exposure\n\nI can't make the evidence and theory fit otherwise, and proper epidemiologists like @BallouxFrancois don't rule this out",
+    "id": "1272148731476037633",
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "t0nyyates",
+                "id": "21510888"
+            },
+            {
+                "start": 185,
+                "end": 201,
+                "username": "BallouxFrancois",
+                "id": "1113747629282930688"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "21510888"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "130294479",
+    "created_at": "2015-11-14T02:43:26.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JohnGGalt",
+                "id": "130294479"
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "username": "zuma02",
+                "id": "221642866"
+            }
+        ]
+    },
+    "id": "665359353470259200",
+    "text": "@JohnGGalt @zuma02 wtf is going on here ⁉️⁉️⁉️ there is a storm coming.."
+}

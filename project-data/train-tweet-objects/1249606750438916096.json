@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TrinityUofA",
+                "id": "715777524"
+            }
+        ]
+    },
+    "id": "1249606750438916096",
+    "text": "@TrinityUofA We know, but it has some health implications",
+    "source": "Twitter for Android",
+    "created_at": "2020-04-13T07:54:00.000Z",
+    "in_reply_to_user_id": "715777524"
+}

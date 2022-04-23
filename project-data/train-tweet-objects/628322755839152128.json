@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "628322755839152128",
+    "text": "@BuzzFeed vegetables soaking and sitting in water, is basically just dirty fungus and bacteria filled water...",
+    "created_at": "2015-08-03T21:53:13.000Z",
+    "in_reply_to_user_id": "5695632"
+}

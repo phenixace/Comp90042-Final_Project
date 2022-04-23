@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web App",
+    "text": "@BarbaraLevinbb @Bill_Maxwell_ If vaccines work for the vaccinated, why does it matter if others choose to not vaccinate? If you're vaccines do not work then why bother with them at all?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "BarbaraLevinbb",
+                "id": "3000585419"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "Bill_Maxwell_",
+                "id": "958555581198954497"
+            }
+        ]
+    },
+    "created_at": "2020-06-23T03:16:27.000Z",
+    "id": "1275266439746813955",
+    "in_reply_to_user_id": "3000585419"
+}

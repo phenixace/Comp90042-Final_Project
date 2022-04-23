@@ -1,0 +1,44 @@
+{
+    "id": "1244490261885079559",
+    "text": "HEALTH WATCH SERIES: CORONAVIRUS🦠\nIs COVID-19 airborne?\n\n#SKMCH #Coronavirus #CoronaVirusUpdates #CoronavirusOutbreak #COVID https://t.co/ZPVU7iC6Oy",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 63,
+                "tag": "SKMCH"
+            },
+            {
+                "start": 64,
+                "end": 76,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 77,
+                "end": 96,
+                "tag": "CoronaVirusUpdates"
+            },
+            {
+                "start": 97,
+                "end": 117,
+                "tag": "CoronavirusOutbreak"
+            },
+            {
+                "start": 118,
+                "end": 124,
+                "tag": "COVID"
+            }
+        ],
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/ZPVU7iC6Oy",
+                "expanded_url": "https://twitter.com/SKMCH/status/1244490261885079559/photo/1",
+                "display_url": "pic.twitter.com/ZPVU7iC6Oy"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-03-30T05:02:54.000Z"
+}

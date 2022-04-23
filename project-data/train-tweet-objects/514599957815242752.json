@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "text": ".@MarketWatch To the indoctrinated, Apple will spin it as a feature.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "MarketWatch",
+                "id": "624413"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 40,
+                "probability": 0.8511,
+                "type": "Organization",
+                "normalized_text": "Apple"
+            }
+        ]
+    },
+    "created_at": "2014-09-24T02:19:25.000Z",
+    "id": "514599957815242752",
+    "in_reply_to_user_id": "624413"
+}

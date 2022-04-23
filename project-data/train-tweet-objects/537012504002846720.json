@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "2762590129",
+    "text": "@henhowarth @davidbrogan7 Good for them! We did buy pink Lego for the girls but they often preferred the normal ones.",
+    "source": "Twitter Web Client",
+    "created_at": "2014-11-24T22:38:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "henhowarth",
+                "id": "2762590129"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "Davidbrogan7",
+                "id": "1463798644948283395"
+            }
+        ]
+    },
+    "id": "537012504002846720"
+}

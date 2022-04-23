@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1239772061154902017",
+    "entities": {
+        "urls": [
+            {
+                "start": 49,
+                "end": 72,
+                "url": "https://t.co/Ah752PT9Ge",
+                "expanded_url": "https://twitter.com/RomneySmith/status/1239772061154902017/photo/1",
+                "display_url": "pic.twitter.com/Ah752PT9Ge"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "NickZoller",
+                "id": "1491147244598398982"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1148685457116545031",
+    "created_at": "2020-03-17T04:34:27.000Z",
+    "text": "@NickZoller I had to.....\n\nObviously kidding...🤪 https://t.co/Ah752PT9Ge"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-14T00:32:22.000Z",
+    "text": "@FoxNews Enough talk need action now, They studied us an know what we do, Wait, Talk, Talk wait... Action now, why people think they will",
+    "in_reply_to_user_id": "1367531",
+    "id": "510949139941957632"
+}

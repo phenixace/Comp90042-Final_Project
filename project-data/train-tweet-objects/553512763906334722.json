@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NickK60",
+                "id": "21886391"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "created_at": "2015-01-09T11:25:01.000Z",
+    "text": "@NickK60 @BBCBreaking well said! The media can help here.",
+    "id": "553512763906334722",
+    "in_reply_to_user_id": "21886391",
+    "source": "Twitter for iPhone"
+}

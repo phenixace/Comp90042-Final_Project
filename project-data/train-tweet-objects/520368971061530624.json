@@ -1,0 +1,42 @@
+{
+    "text": "@WSJ: Average storefront rent is $2,749/ft on upper 5th Ave and $775/ft on 34th Street where Amazon opens 1st store. http://t.co/ULKxMYj44u",
+    "created_at": "2014-10-10T00:23:25.000Z",
+    "id": "520368971061530624",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 85,
+                "probability": 0.4842,
+                "type": "Organization",
+                "normalized_text": "34th Street"
+            },
+            {
+                "start": 93,
+                "end": 98,
+                "probability": 0.838,
+                "type": "Organization",
+                "normalized_text": "Amazon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/ULKxMYj44u",
+                "expanded_url": "http://on.wsj.com/1v7R78R",
+                "display_url": "on.wsj.com/1v7R78R"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC how would he know? His record to date has not been great!",
+    "id": "672197722821238784",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T23:36:40.000Z"
+}

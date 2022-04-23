@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "HuffPostUK",
+                "id": "271413771"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 50,
+                "probability": 0.6036,
+                "type": "Organization",
+                "normalized_text": "Malaysia Airlines"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/jdyM5CoawT",
+                "expanded_url": "http://huff.to/1jBI5wx",
+                "display_url": "huff.to/1jBI5wx"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/0yaCPyxGWw",
+                "expanded_url": "https://twitter.com/HuffPostUKPics/status/489794696013967360/photo/1",
+                "display_url": "pic.twitter.com/0yaCPyxGWw"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "271413771",
+    "created_at": "2014-07-17T15:40:40.000Z",
+    "text": "Shot down? @HuffPostUK: BREAKING: Malaysia Airlines plane 'shot down' was carrying 295 people http://t.co/jdyM5CoawT http://t.co/0yaCPyxGWw",
+    "id": "489796836174340096",
+    "source": "Twitter for iPhone"
+}

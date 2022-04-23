@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-12T08:58:07.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for Android",
+    "text": "@Eater @Mals_Al_Ghul this has you written all over it!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Eater",
+                "id": "26329195"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "Mals_Al_Ghul",
+                "id": "3090434847"
+            }
+        ]
+    },
+    "id": "532457300880265216"
+}

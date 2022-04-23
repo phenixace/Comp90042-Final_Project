@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-13T22:34:28.000Z",
+    "text": "@FoxNews Kill them all",
+    "in_reply_to_user_id": "1367531",
+    "id": "510919469137666048"
+}

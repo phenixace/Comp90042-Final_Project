@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552708808837836801",
+    "text": "@BuzzFeed poor luv. Must of been so scared. Wonder if a kid did this fearing kill shelters?",
+    "created_at": "2015-01-07T06:10:23.000Z",
+    "in_reply_to_user_id": "5695632"
+}

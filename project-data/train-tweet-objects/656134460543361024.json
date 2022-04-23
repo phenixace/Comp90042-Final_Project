@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 41,
+                "probability": 0.9984,
+                "type": "Person",
+                "normalized_text": "Clinton"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 83,
+                "end": 91,
+                "tag": "clinton"
+            },
+            {
+                "start": 92,
+                "end": 109,
+                "tag": "DemocraticDebate"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T15:47:00.000Z",
+    "id": "656134460543361024",
+    "text": "@cnnbrk You got to be kidding me.  Clinton spend the.debate defending her actions. #clinton #DemocraticDebate"
+}

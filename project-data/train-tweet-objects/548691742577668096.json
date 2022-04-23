@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "@TheHuzlers BOBBY SHMURDA AINT DEAD",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "TheHuzlers",
+                "id": "2302467404"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 24,
+                "probability": 0.9905,
+                "type": "Person",
+                "normalized_text": "BOBBY SHMURDA"
+            }
+        ]
+    },
+    "created_at": "2014-12-27T04:08:00.000Z",
+    "id": "548691742577668096",
+    "in_reply_to_user_id": "2302467404"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "1224079938824724480",
+    "in_reply_to_user_id": "1005541201",
+    "created_at": "2020-02-02T21:19:34.000Z",
+    "source": "Twitter Web App",
+    "text": "@kandelnirmal It could help prevent infection unless everybody eats it, in which case any benefit will be lost.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "kandelnirmal",
+                "id": "1005541201"
+            }
+        ]
+    }
+}

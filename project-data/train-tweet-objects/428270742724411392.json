@@ -1,0 +1,32 @@
+{
+    "source": "TweetCaster for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 44,
+                "probability": 0.9613,
+                "type": "Person",
+                "normalized_text": "William"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            },
+            {
+                "start": 4,
+                "end": 10,
+                "username": "Sctt_",
+                "id": "742756986807320576"
+            }
+        ]
+    },
+    "id": "428270742724411392",
+    "text": "@AP @Sctt_ and what about his brother William? Is he ok? D:",
+    "created_at": "2014-01-28T20:57:56.000Z",
+    "in_reply_to_user_id": "51241574"
+}

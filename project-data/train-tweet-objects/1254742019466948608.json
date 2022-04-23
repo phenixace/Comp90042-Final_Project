@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 125,
+                "end": 126,
+                "probability": 0.4517,
+                "type": "Product",
+                "normalized_text": "fb"
+            }
+        ]
+    },
+    "created_at": "2020-04-27T11:59:44.000Z",
+    "id": "1254742019466948608",
+    "source": "Twitter for iPhone",
+    "text": "Okay serious question because i just saw a post and i wanna know, do girls really hate not havinf sex for so long? A girl on fb said she hadnt had sex for 2 months and she was going insane 😂 I dont get it but im curious"
+}

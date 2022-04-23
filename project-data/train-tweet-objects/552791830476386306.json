@@ -1,0 +1,26 @@
+{
+    "id": "552791830476386306",
+    "in_reply_to_user_id": "2097571",
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 35,
+                "probability": 0.9799,
+                "type": "Place",
+                "normalized_text": "France"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "text": "@cnni How could this happen?  France has pretty restrictive gun laws.",
+    "created_at": "2015-01-07T11:40:17.000Z"
+}

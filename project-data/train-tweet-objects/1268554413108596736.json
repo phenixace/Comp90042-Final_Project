@@ -1,0 +1,53 @@
+{
+    "created_at": "2020-06-04T14:45:15.000Z",
+    "source": "Twitter Web App",
+    "id": "1268554413108596736",
+    "text": "@Jay_NJ_ @SistahsConnect @RisingTideOrg @AswMcKnight @medinaciti @TaraDowdellGrp @360mpr @GovMurphy The NJEDA is in the process of reviewing applications. We appreciate your patience during this time and suggest that you call (844) 965-1125 to connect with someone who can check on the status of your application. Thank you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 24,
+                "username": "SistahsConnect",
+                "id": "1680530408"
+            },
+            {
+                "start": 25,
+                "end": 39,
+                "username": "RisingTideOrg",
+                "id": "47515035"
+            },
+            {
+                "start": 40,
+                "end": 52,
+                "username": "AswMcKnight",
+                "id": "3347292917"
+            },
+            {
+                "start": 53,
+                "end": 64,
+                "username": "medinaciti",
+                "id": "17124542"
+            },
+            {
+                "start": 65,
+                "end": 80,
+                "username": "TaraDowdellGrp",
+                "id": "309201134"
+            },
+            {
+                "start": 81,
+                "end": 88,
+                "username": "360mpr",
+                "id": "707274052809969664"
+            },
+            {
+                "start": 89,
+                "end": 99,
+                "username": "GovMurphy",
+                "id": "948946378939609089"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1128084298802892800"
+}

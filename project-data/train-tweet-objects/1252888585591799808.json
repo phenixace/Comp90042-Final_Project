@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "418958809",
+    "created_at": "2020-04-22T09:14:51.000Z",
+    "id": "1252888585591799808",
+    "text": "that I fear in reverence is the LORD our GOD.  because even the devil cant destroy a soul and body...but only a body...whats a body..this spirit is willing, and God willing so is the flesh. because fear is a prison. keeping us locked up, broke, an suffering cabin fever..",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 35,
+                "probability": 0.7911,
+                "type": "Other",
+                "normalized_text": "LORD"
+            },
+            {
+                "start": 41,
+                "end": 43,
+                "probability": 0.9828,
+                "type": "Other",
+                "normalized_text": "GOD"
+            },
+            {
+                "start": 161,
+                "end": 163,
+                "probability": 0.9898,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    }
+}

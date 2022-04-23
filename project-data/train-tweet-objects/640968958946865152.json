@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Variety",
+                "id": "17525171"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "BillNigh",
+                "id": "15797425"
+            }
+        ]
+    },
+    "text": "@Variety @BillNigh well that's sad news :(",
+    "id": "640968958946865152",
+    "in_reply_to_user_id": "17525171",
+    "created_at": "2015-09-07T19:24:43.000Z"
+}

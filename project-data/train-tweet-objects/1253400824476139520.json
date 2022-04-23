@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1241354557726371841",
+    "created_at": "2020-04-23T19:10:18.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "syabilazriAS",
+                "id": "1241354557726371841"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "MedCrisis",
+                "id": "2379518905"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 223,
+                "end": 228,
+                "probability": 0.9413,
+                "type": "Place",
+                "normalized_text": "London"
+            }
+        ]
+    },
+    "id": "1253400824476139520",
+    "text": "@syabilazriAS @MedCrisis I checked the chart, the drop is there in the data. The wk 52 median(: 782.5) is not the lowest of the year - that would be for wk 35(: 747.5). If I were to guess, I'd say more people travel out of London the wk between xmas and new year, i.e. fewer deaths are locally recorded?"
+}

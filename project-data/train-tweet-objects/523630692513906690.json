@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-19T00:24:20.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 70,
+                "tag": "SamsHofBrau"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            }
+        ]
+    },
+    "id": "523630692513906690",
+    "text": "@70torinoman @ElJefeofTroy Glad it didn't mean to boycott #SamsHofBrau ! Lol @LASamsHofbrau",
+    "in_reply_to_user_id": "635745335"
+}

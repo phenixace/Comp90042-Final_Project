@@ -1,0 +1,18 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-03-28T12:48:56.000Z",
+    "id": "1243882766380523520",
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\n\nNo - the virus is so new and different that it needs its own vaccine. https://t.co/ohf88gfz39",
+    "entities": {
+        "urls": [
+            {
+                "start": 142,
+                "end": 165,
+                "url": "https://t.co/ohf88gfz39",
+                "expanded_url": "https://twitter.com/AJEnglish/status/1243882766380523520/photo/1",
+                "display_url": "pic.twitter.com/ohf88gfz39"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "4970411"
+}

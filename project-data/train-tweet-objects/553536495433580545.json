@@ -1,0 +1,54 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/ZF6TGUkOdn",
+                "expanded_url": "https://www.youtube.com/watch?v=BFwedk4dBCc",
+                "display_url": "youtube.com/watch?v=BFwedk…"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/501nakgVKN",
+                "expanded_url": "https://twitter.com/FRANCE24/status/553535829017370625/photo/1",
+                "display_url": "pic.twitter.com/501nakgVKN"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.9922,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 12,
+                "username": "FRANCE24",
+                "id": "1994321"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 22,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 107,
+                "end": 117,
+                "tag": "Vincennes"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1994321",
+    "created_at": "2015-01-09T12:59:19.000Z",
+    "id": "553536495433580545",
+    "source": "Twitter for iPhone",
+    "text": "RT @FRANCE24 #BREAKING - At least five hostages in Paris kosher supermarket: (AFP) https://t.co/ZF6TGUkOdn #Vincennes http://t.co/501nakgVKN"
+}

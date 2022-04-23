@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-04T08:17:51.000Z",
+    "text": "@rafiq_only That have not done tests to prove it but it is healthy vegetable that has also been used for colds for thousands of years so it can’t hurt. Crush it raw to unleash the superfood allicin; also put it in all your food. As a bonus, no one will come near you.",
+    "id": "1235117237188476928",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Rafiq_only",
+                "id": "44560660"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "44560660"
+}

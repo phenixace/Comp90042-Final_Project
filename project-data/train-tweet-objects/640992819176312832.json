@@ -1,0 +1,41 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Variety",
+                "id": "17525171"
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "username": "Risha_Roo",
+                "id": "865459556"
+            }
+        ],
+        "urls": [
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/wXEglF4A38",
+                "expanded_url": "http://en.mediamass.net/people/judy-carne/deathhoax.html",
+                "display_url": "en.mediamass.net/people/judy-ca…",
+                "status": 200,
+                "unwound_url": "https://en.mediamass.net/people/judy-carne/deathhoax.html"
+            },
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/sBX5X9wqxs",
+                "expanded_url": "https://www.google.com/?gws_rd=ssl#q=Richard+Nixon+Sock+it+to+me",
+                "display_url": "google.com/?gws_rd=ssl#q=…"
+            }
+        ]
+    },
+    "text": "@Variety @Risha_Roo Hmmm...  look's like maybe somebody's socking it to us: http://t.co/wXEglF4A38  \nhttps://t.co/sBX5X9wqxs",
+    "id": "640992819176312832",
+    "in_reply_to_user_id": "17525171",
+    "created_at": "2015-09-07T20:59:31.000Z"
+}

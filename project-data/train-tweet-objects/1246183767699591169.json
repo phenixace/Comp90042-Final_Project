@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 12,
+                "probability": 0.9962,
+                "type": "Person",
+                "normalized_text": "Trisha Paytas"
+            }
+        ]
+    },
+    "created_at": "2020-04-03T21:12:17.000Z",
+    "text": "Trisha Paytas needs to be banned on all platforms. I'm done. She's lied about being trans, having DID, and now told people that COVID-19 is just like the flu and to leave your house. At first I thought maybe she was really trans, but no. She lied.",
+    "id": "1246183767699591169"
+}

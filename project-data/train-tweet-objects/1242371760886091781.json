@@ -1,0 +1,17 @@
+{
+    "id": "1242371760886091781",
+    "text": "@un_uzbekistan So what are the simptoms",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "un_uzbekistan",
+                "id": "208418560"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "208418560",
+    "created_at": "2020-03-24T08:44:44.000Z"
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-10-26T19:47:25.000Z",
+    "source": "Twitter for Mac",
+    "entities": {
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/KF0XdeW6nA",
+                "expanded_url": "https://twitter.com/latimes/status/526459255147491328/photo/1",
+                "display_url": "pic.twitter.com/KF0XdeW6nA"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 39,
+                "probability": 0.995,
+                "type": "Person",
+                "normalized_text": "Judd Nelson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 27,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "id": "526460106892791808",
+    "text": "He's not moving.\n\n“@latimes: Judd Nelson didn't die last night. He sent us this photo to debunk the rumor. http://t.co/KF0XdeW6nA”",
+    "in_reply_to_user_id": "16664681"
+}

@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 133,
+                "end": 156,
+                "probability": 0.295,
+                "type": "Place",
+                "normalized_text": "Saudi MOH Service Center"
+            }
+        ]
+    },
+    "id": "1237312086239334401",
+    "created_at": "2020-03-10T09:39:24.000Z",
+    "in_reply_to_user_id": "478343699",
+    "text": "When should I see a doctor?\n\nIf you have a fever, cough, or trouble breathing and might have been exposed to COVID-19, call 937 (The Saudi MOH Service Center) immediately.\nYou might have been exposed if either of the following happened within the last 14 days:"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "674992486406889473",
+    "created_at": "2015-12-10T16:42:04.000Z",
+    "text": "@Gotham3 @NiceMangos Ay dios mio!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "NiceMangos",
+                "id": "274651688"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "TweetDeck"
+}

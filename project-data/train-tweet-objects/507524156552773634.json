@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-04T13:42:42.000Z",
+    "source": "Twitter for iPhone",
+    "id": "507524156552773634",
+    "text": "“@HuffingtonPost: No, Internet, Betty White is not dead\" hahahaha😂 wtf? people thought she died",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 42,
+                "probability": 0.9522,
+                "type": "Person",
+                "normalized_text": "Betty White"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14511951"
+}

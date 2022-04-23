@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "16311797",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 60,
+                "probability": 0.6949,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "WSJPolitics",
+                "id": "16311797"
+            }
+        ]
+    },
+    "created_at": "2015-06-28T03:17:19.000Z",
+    "text": "@WSJPolitics Maybe have out first lighting of the White House be in honor of breast cancer awareness, feeding the hungry, racial intolerance",
+    "id": "614995966156894208"
+}

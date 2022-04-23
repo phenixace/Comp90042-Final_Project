@@ -1,0 +1,41 @@
+{
+    "id": "1248609651450507271",
+    "in_reply_to_user_id": "55060090",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 17,
+                "end": 29,
+                "tag": "FoxNewsLies"
+            },
+            {
+                "start": 30,
+                "end": 43,
+                "tag": "FoxNewsKills"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realTuckFrumper",
+                "id": "55060090"
+            },
+            {
+                "start": 44,
+                "end": 52,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 53,
+                "end": 67,
+                "username": "foxandfriends",
+                "id": "15513604"
+            }
+        ]
+    },
+    "created_at": "2020-04-10T13:51:53.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@realTuckFrumper #FoxNewsLies #FoxNewsKills @FoxNews @foxandfriends"
+}

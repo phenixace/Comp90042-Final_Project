@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "28886934",
+    "created_at": "2014-11-13T11:08:27.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephanieRiou",
+                "id": "28886934"
+            }
+        ]
+    },
+    "id": "532852487242264576",
+    "text": "@StephanieRiou awww how sweet 🌈❤"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T17:31:14.000Z",
+    "text": "“@DailyMail: Florida woman surgically adds third breast in bid to become reality TV star” what a fucking twat",
+    "id": "514104650560466944",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "probability": 0.9191,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "380285402"
+}

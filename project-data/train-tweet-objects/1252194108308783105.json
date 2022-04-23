@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "711664070231986176",
+    "text": "@cecilymwhiteley I think knowledge itself lacks value, apart from its relation to other things it entails (like true belief). Which option is that?\n\nMaybe the problem is left unsolved, or maybe it’s trivially solved in some sense – unsure what to say here.",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-20T11:15:14.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "cecilymwhiteley",
+                "id": "711664070231986176"
+            }
+        ]
+    },
+    "id": "1252194108308783105"
+}

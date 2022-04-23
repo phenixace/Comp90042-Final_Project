@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "Godzilla"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 24,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/rAM7y24brb",
+                "expanded_url": "http://reut.rs/16w6oCO",
+                "display_url": "reut.rs/16w6oCO"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "364598105636741121",
+    "text": "#Godzilla “@YourAnonNews: FUKUSHIMA: HIGHLY RADIOACTIVE WATER SEEPING INTO THE OCEAN http://t.co/rAM7y24brb”",
+    "created_at": "2013-08-06T04:05:36.000Z",
+    "in_reply_to_user_id": "279390084"
+}

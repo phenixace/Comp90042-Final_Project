@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 111,
+                "end": 114,
+                "probability": 0.9088,
+                "type": "Place",
+                "normalized_text": "Iran"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T15:48:37.000Z",
+    "id": "1231969186001358849",
+    "text": "@WHO Please monitor the behavior of the Iranian Ministry of Health in relation to coronavirus;\nPlease persuade Iran to quarantine Qom province؛\nPlease persuade the Iranian government to report the actual statistics of coronavirus infections and deaths, not false.\nfrom Iran🇮🇷",
+    "in_reply_to_user_id": "14499829"
+}

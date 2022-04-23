@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/uERfNy1mIC",
+                "expanded_url": "https://twitter.com/CBSNews/status/523863683928457216/photo/1",
+                "display_url": "pic.twitter.com/uERfNy1mIC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 35,
+                "end": 43,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "created_at": "2014-10-19T21:07:54.000Z",
+    "text": "Now he's a one-handed scientist RT @CBSNews: Puppy-sized spider surprises scientist in rainforest http://t.co/uERfNy1mIC",
+    "id": "523943647449198592"
+}

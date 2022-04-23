@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-04-12T21:40:24.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 76,
+                "end": 99,
+                "url": "https://t.co/eAv3bqWHcL",
+                "expanded_url": "https://youtu.be/cEtUe1P0yNQ",
+                "display_url": "youtu.be/cEtUe1P0yNQ",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=cEtUe1P0yNQ&feature=youtu.be"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 100,
+                "end": 105,
+                "tag": "OANN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 106,
+                "end": 121,
+                "username": "JennPellegrino",
+                "id": "19218053"
+            }
+        ]
+    },
+    "id": "1249452333865422849",
+    "text": "Study: Two-thirds of patients showing improvement after treatment with R... https://t.co/eAv3bqWHcL #OANN @JennPellegrino"
+}

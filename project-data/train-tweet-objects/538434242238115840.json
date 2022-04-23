@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 33,
+                "url": "http://t.co/z7i2xcGTb2",
+                "expanded_url": "http://www.dailymail.co.uk/news/article-2851061/Elderly-man-attacked-oxygen-supply-carjacked-run-protesters-Ferguson.html",
+                "display_url": "dailymail.co.uk/news/article-2…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KeeganNYC",
+                "id": "93879982"
+            }
+        ]
+    },
+    "created_at": "2014-11-28T20:48:21.000Z",
+    "in_reply_to_user_id": "93879982",
+    "source": "Twitter for Android",
+    "text": "@KeeganNYC http://t.co/z7i2xcGTb2",
+    "id": "538434242238115840"
+}

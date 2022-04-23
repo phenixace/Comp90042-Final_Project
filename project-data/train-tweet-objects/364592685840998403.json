@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 99,
+                "end": 114,
+                "tag": "sharkafterdark"
+            },
+            {
+                "start": 115,
+                "end": 125,
+                "tag": "SharkWeek"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/nwVNLelJy2",
+                "expanded_url": "http://reut.rs/16w6oCO",
+                "display_url": "reut.rs/16w6oCO"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "364592685840998403",
+    "text": "“@YourAnonNews: FUKUSHIMA: HIGHLY RADIOACTIVE WATER SEEPING INTO THE OCEAN http://t.co/nwVNLelJy2\" #sharkafterdark #SharkWeek",
+    "created_at": "2013-08-06T03:44:04.000Z",
+    "in_reply_to_user_id": "279390084"
+}

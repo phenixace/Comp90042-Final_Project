@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "usweekly",
+                "id": "20012204"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 77,
+                "end": 80,
+                "probability": 0.991,
+                "type": "Person",
+                "normalized_text": "Paul"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T18:30:30.000Z",
+    "id": "407215142321922048",
+    "text": "@usweekly U never heard anything but good about him in the news or in acting.Paul seemed 2 be so grounded.YourworkwasdonehereXOHEAVENawaitsU",
+    "in_reply_to_user_id": "20012204"
+}

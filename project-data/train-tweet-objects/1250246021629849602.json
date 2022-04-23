@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 59,
+                "end": 65,
+                "probability": 0.7312,
+                "type": "Product",
+                "normalized_text": "Twitter"
+            },
+            {
+                "start": 109,
+                "end": 113,
+                "probability": 0.3378,
+                "type": "Person",
+                "normalized_text": "Covid"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 34,
+                "end": 43,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T02:14:14.000Z",
+    "source": "Twitter Web App",
+    "text": "Tonight on the Late Show I've got @DrLaPook answering your Twitter questions like: \"What are the symptoms of Covid-19?\" and \"How much frosting is it medically safe to eat in one sitting?\"",
+    "id": "1250246021629849602"
+}

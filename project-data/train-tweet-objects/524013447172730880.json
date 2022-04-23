@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-20T01:45:16.000Z",
+    "source": "TweetDeck",
+    "id": "524013447172730880",
+    "text": "@70torinoman @luvdadimplez05  BS morons",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "Luvdadimplez05",
+                "id": "753234783111483392"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

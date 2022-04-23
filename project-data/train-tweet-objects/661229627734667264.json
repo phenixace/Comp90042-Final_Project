@@ -1,0 +1,50 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 41,
+                "end": 51,
+                "tag": "Anonymous"
+            },
+            {
+                "start": 99,
+                "end": 105,
+                "tag": "OpKKK"
+            },
+            {
+                "start": 106,
+                "end": 115,
+                "tag": "HoodsOff"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 22,
+                "probability": 0.5791,
+                "type": "Organization",
+                "normalized_text": "Klan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 98,
+                "url": "https://t.co/8EzQZLM0kS",
+                "expanded_url": "http://ow.ly/U8U8h",
+                "display_url": "ow.ly/U8U8h"
+            },
+            {
+                "start": 116,
+                "end": 139,
+                "url": "https://t.co/ERUSX5QgXJ",
+                "expanded_url": "https://twitter.com/RawStory/status/661229627734667264/photo/1",
+                "display_url": "pic.twitter.com/ERUSX5QgXJ"
+            }
+        ]
+    },
+    "source": "Hootsuite",
+    "id": "661229627734667264",
+    "text": "Mayors flatly deny Klan membership after #Anonymous releases names online  https://t.co/8EzQZLM0kS #OpKKK #HoodsOff https://t.co/ERUSX5QgXJ",
+    "created_at": "2015-11-02T17:13:22.000Z"
+}

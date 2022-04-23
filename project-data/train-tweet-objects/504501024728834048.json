@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 29,
+                "probability": 0.5995,
+                "type": "Place",
+                "normalized_text": "Toronto"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "FlyersNation",
+                "id": "493658381"
+            }
+        ]
+    },
+    "id": "504501024728834048",
+    "text": "@FlyersNation a second Toronto team?",
+    "created_at": "2014-08-27T05:29:52.000Z",
+    "in_reply_to_user_id": "493658381"
+}

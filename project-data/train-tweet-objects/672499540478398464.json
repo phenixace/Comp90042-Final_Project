@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "CarmineZozzora",
+                "id": "2167674121"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 66,
+                "end": 72,
+                "probability": 0.9394,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T19:35:59.000Z",
+    "id": "672499540478398464",
+    "text": "@Rockprincess818 @CarmineZozzora Ovamit's climate change - Disarm America and let the terrorists rain bullets and bombs."
+}

@@ -1,0 +1,23 @@
+{
+    "text": "@Dior16795345 @MoonResisting @wtp__2020 herd immunity is not gonna work without death\n\nwhat is wrong with those whitey righties?",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Dior16795345",
+                "id": "1222504113205927937"
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "username": "wtp__2020",
+                "id": "1289031187755937797"
+            }
+        ]
+    },
+    "id": "1270850200962301954",
+    "created_at": "2020-06-10T22:47:53.000Z",
+    "in_reply_to_user_id": "1222504113205927937"
+}

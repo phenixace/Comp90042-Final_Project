@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "puntrdend17",
+                "id": "1150428254"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T22:38:32.000Z",
+    "id": "672545478622384128",
+    "text": "@Rockprincess818 @puntrdend17 The entitlement of the Right. Have their beliefs and position questioned and they lose their shit."
+}

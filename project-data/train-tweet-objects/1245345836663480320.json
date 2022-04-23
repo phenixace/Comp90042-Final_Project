@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "1216641711910391808",
+    "entities": {
+        "urls": [
+            {
+                "start": 135,
+                "end": 158,
+                "url": "https://t.co/p83JuezBhm",
+                "expanded_url": "https://twitter.com/renewfabriccare/status/1245345836663480320/photo/1",
+                "display_url": "pic.twitter.com/p83JuezBhm"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T13:42:39.000Z",
+    "text": "What to do if staff members in your institution are contacts of a confirmed case of COVID-19 who was symptomatic while attending work? https://t.co/p83JuezBhm",
+    "id": "1245345836663480320"
+}

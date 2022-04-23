@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 31,
+                "probability": 0.4661,
+                "type": "Place",
+                "normalized_text": "U.K."
+            }
+        ]
+    },
+    "text": "We all know what a hash the U.K. govt has made of it but surely it’s time to come down on one side of the other. EITHER we all acknowledge that the strategy is herd immunity aka take your chances, OR we do something drastic like testing everyone and isolating accordingly.",
+    "source": "Twitter for Android",
+    "created_at": "2020-06-10T20:06:13.000Z",
+    "id": "1270809516221894663"
+}

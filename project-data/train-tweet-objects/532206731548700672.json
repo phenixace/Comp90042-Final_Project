@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-11T16:22:27.000Z",
+    "in_reply_to_user_id": "13879842",
+    "source": "Twitter for iPhone",
+    "text": "@hedgerows @Eater Manager guy is a thot.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "hedgerows",
+                "id": "13879842"
+            },
+            {
+                "start": 11,
+                "end": 17,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "id": "532206731548700672"
+}

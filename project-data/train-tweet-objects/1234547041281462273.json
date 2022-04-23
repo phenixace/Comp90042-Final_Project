@@ -1,0 +1,23 @@
+{
+    "id": "1234547041281462273",
+    "in_reply_to_user_id": "192060577",
+    "created_at": "2020-03-02T18:32:06.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@oldivory @bobbi2124 Good, because my husband is afraid to open a package.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "oldivory",
+                "id": "192060577"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "bobbi2124",
+                "id": "3294793198"
+            }
+        ]
+    }
+}

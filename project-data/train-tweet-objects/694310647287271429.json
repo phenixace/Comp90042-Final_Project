@@ -1,0 +1,26 @@
+{
+    "id": "694310647287271429",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.9979,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-02-02T00:05:32.000Z",
+    "text": "@Gotham3 I  agree on Trump's anti muslim stance.",
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 51,
+                "probability": 0.7375,
+                "type": "Person",
+                "normalized_text": "Eric Lawson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 30,
+                "end": 33,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/Ty9EOKIT0l",
+                "expanded_url": "http://apne.ws/1jVmXNI",
+                "display_url": "apne.ws/1jVmXNI"
+            }
+        ]
+    },
+    "id": "427694604834447360",
+    "text": "I thought he died in the 90s “@AP: Actor Eric Lawson who portrayed the Marlboro man dies: http://t.co/Ty9EOKIT0l”",
+    "created_at": "2014-01-27T06:48:34.000Z",
+    "in_reply_to_user_id": "51241574"
+}

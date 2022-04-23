@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "username": "6abc",
+                "id": "18391051"
+            }
+        ]
+    },
+    "text": "@ABC @6abc No parallel is right! Americans of all races r disgracing this country! Over stupidest things imaginable!! IT'S A DAMN SHAME!!!",
+    "id": "672171157727002624",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T21:51:06.000Z"
+}

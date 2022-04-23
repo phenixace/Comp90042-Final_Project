@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "672828748643872769",
+    "created_at": "2015-12-04T17:24:08.000Z",
+    "in_reply_to_user_id": "109065990",
+    "text": "@RealAlexJones no for that we need total gun ban"
+}

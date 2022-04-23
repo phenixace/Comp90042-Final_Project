@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-07-18T20:38:23.000Z",
+    "source": "Twitter for Android",
+    "id": "490234148317958144",
+    "text": "@CNN It's sad to see US involved in starting yet another senseless war. This one in the Ukraine.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 22,
+                "probability": 0.9294,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 88,
+                "end": 94,
+                "probability": 0.9891,
+                "type": "Place",
+                "normalized_text": "Ukraine"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

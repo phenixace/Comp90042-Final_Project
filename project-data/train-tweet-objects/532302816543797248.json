@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/N2NRrNaiBv",
+                "expanded_url": "http://tmz.me/KJ7vz4J",
+                "display_url": "tmz.me/KJ7vz4J"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/o1SwhORTFT",
+                "expanded_url": "https://twitter.com/TMZ/status/532275383430041600/photo/1",
+                "display_url": "pic.twitter.com/o1SwhORTFT"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 31,
+                "probability": 0.5596,
+                "type": "Person",
+                "normalized_text": "Sugarhill Gang"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "probability": 0.2277,
+                "type": "Other",
+                "normalized_text": "Big Bank Hank"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 12,
+                "end": 16,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16331010",
+    "created_at": "2014-11-11T22:44:15.000Z",
+    "id": "532302816543797248",
+    "source": "Twitter for iPhone",
+    "text": "Damn RIP RT @TMZ: Sugarhill Gang's Big Bank Hank dies at 57 from cancer http://t.co/N2NRrNaiBv http://t.co/o1SwhORTFT"
+}

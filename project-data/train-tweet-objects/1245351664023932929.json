@@ -1,0 +1,64 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-01T14:05:48.000Z",
+    "id": "1245351664023932929",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 116,
+                "end": 126,
+                "tag": "SafeHands"
+            },
+            {
+                "start": 128,
+                "end": 147,
+                "tag": "SafeHandsChallenge"
+            },
+            {
+                "start": 149,
+                "end": 158,
+                "tag": "StaySafe"
+            },
+            {
+                "start": 159,
+                "end": 178,
+                "tag": "StaySafeHelpOthers"
+            },
+            {
+                "start": 179,
+                "end": 196,
+                "tag": "StaySafeStayHome"
+            },
+            {
+                "start": 197,
+                "end": 213,
+                "tag": "StaySafeNigeria"
+            },
+            {
+                "start": 214,
+                "end": 229,
+                "tag": "StaySafeAtHome"
+            },
+            {
+                "start": 230,
+                "end": 249,
+                "tag": "StaySafeStayStrong"
+            },
+            {
+                "start": 250,
+                "end": 276,
+                "tag": "StayHomeStaySafeSavelives"
+            }
+        ],
+        "urls": [
+            {
+                "start": 277,
+                "end": 300,
+                "url": "https://t.co/UwpzxCoLXK",
+                "expanded_url": "https://twitter.com/TGIDistri/status/1245351664023932929/photo/1",
+                "display_url": "pic.twitter.com/UwpzxCoLXK"
+            }
+        ]
+    },
+    "text": "What are the symptoms of COVID-19?\n\nPlease kindly read carefully and adhere to all precautionary measures by NCDC.\n\n#SafeHands  #SafeHandsChallenge  #StaySafe #StaySafeHelpOthers #StaySafeStayHome #StaySafeNigeria #StaySafeAtHome #StaySafeStayStrong #StayHomeStaySafeSavelives https://t.co/UwpzxCoLXK"
+}

@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DanJoseph78",
+                "id": "17971747"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 53,
+                "tag": "BillO"
+            }
+        ]
+    },
+    "created_at": "2013-10-07T03:16:17.000Z",
+    "id": "387053738881335296",
+    "text": "@DanJoseph78 Quit lying,You'll never get to be #BillO's butt boy by not being convincing when you Lie.",
+    "in_reply_to_user_id": "17971747"
+}

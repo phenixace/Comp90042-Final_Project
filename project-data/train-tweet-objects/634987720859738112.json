@@ -1,0 +1,23 @@
+{
+    "id": "634987720859738112",
+    "created_at": "2015-08-22T07:17:24.000Z",
+    "text": "@seaworldnjh @TheOnion BRUH OOBFJAIDBA",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "seaworldnjh",
+                "id": "2620594636"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "TheOnion",
+                "id": "14075928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2620594636",
+    "source": "Twitter for Android"
+}

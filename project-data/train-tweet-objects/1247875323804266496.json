@@ -1,0 +1,24 @@
+{
+    "created_at": "2020-04-08T13:13:56.000Z",
+    "text": "Drinking alcohol does not protect you against COVID-19 and can be dangerous\n\nFrequent or excessive alcohol consumption can increase your risk of health problems.\n\n#PMKcallsCurfewExtension https://t.co/T2d8zYSkG2",
+    "entities": {
+        "urls": [
+            {
+                "start": 188,
+                "end": 211,
+                "url": "https://t.co/T2d8zYSkG2",
+                "expanded_url": "https://twitter.com/MANIKANDAN1192/status/1247875323804266496/photo/1",
+                "display_url": "pic.twitter.com/T2d8zYSkG2"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 163,
+                "end": 187,
+                "tag": "PMKcallsCurfewExtension"
+            }
+        ]
+    },
+    "id": "1247875323804266496",
+    "source": "Twitter for Android"
+}

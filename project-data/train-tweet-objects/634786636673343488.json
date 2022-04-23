@@ -1,0 +1,23 @@
+{
+    "id": "634786636673343488",
+    "created_at": "2015-08-21T17:58:22.000Z",
+    "text": "@GregWWoods @TheOnion no.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "GregWWoods",
+                "id": "283668905"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "TheOnion",
+                "id": "14075928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "283668905",
+    "source": "Twitter for Android"
+}

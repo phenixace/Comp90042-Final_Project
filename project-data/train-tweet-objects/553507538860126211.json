@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 86,
+                "probability": 0.6029,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ]
+    },
+    "created_at": "2015-01-09T11:04:15.000Z",
+    "text": "@BBCBreaking by any chance does that printing business actually print the Charlie Hebdo newspaper?",
+    "id": "553507538860126211",
+    "in_reply_to_user_id": "5402612",
+    "source": "Twitter for iPad"
+}

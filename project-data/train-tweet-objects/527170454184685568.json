@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JarronSmith",
+                "id": "1132896319"
+            }
+        ]
+    },
+    "id": "527170454184685568",
+    "text": "@JarronSmith \n😳😳😳 omg!!! Look at that mother fucker!!! It's a fucking radioactive goliath spiderdevil!!! It is literally the spawn of satan",
+    "created_at": "2014-10-28T18:50:05.000Z",
+    "in_reply_to_user_id": "1132896319"
+}

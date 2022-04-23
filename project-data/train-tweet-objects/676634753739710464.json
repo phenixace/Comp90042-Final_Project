@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "thisisnafissa",
+                "id": "151896622"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.9993,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 74,
+                "end": 79,
+                "probability": 0.9821,
+                "type": "Person",
+                "normalized_text": "Hitler"
+            }
+        ]
+    },
+    "id": "676634753739710464",
+    "text": "@thisisnafissa While Trump is rather objectionable, your comparing him to Hitler reveals a very superficial assessment of both figures!",
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-15T05:27:51.000Z",
+    "in_reply_to_user_id": "151896622"
+}

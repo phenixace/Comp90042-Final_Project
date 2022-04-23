@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-10-21T02:57:51.000Z",
+    "text": "@johannaihli @TheEconomist why specifically Muslim refugees? the logic about solving homelessness in America makes sense; but why not all?",
+    "id": "656665672013885441",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "johannaihli",
+                "id": "238617719"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "TheEconomist",
+                "id": "5988062"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 101,
+                "end": 107,
+                "probability": 0.9994,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "238617719"
+}

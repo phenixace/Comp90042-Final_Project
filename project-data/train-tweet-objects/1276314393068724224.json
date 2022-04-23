@@ -1,0 +1,37 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 115,
+                "url": "https://t.co/C2qnRfn1Ki",
+                "expanded_url": "https://twitter.com/rwang0/status/1276314393068724224/photo/1",
+                "display_url": "pic.twitter.com/C2qnRfn1Ki"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 7,
+                "end": 17,
+                "username": "BillGates",
+                "id": "50393960"
+            },
+            {
+                "start": 80,
+                "end": 84,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 85,
+                "end": 91,
+                "username": "AC360",
+                "id": "227837742"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T00:40:38.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1276314393068724224",
+    "text": "MyPOV: @BillGates we will get herd immunity at 70% of people taking the vaccine @cnn @AC360 https://t.co/C2qnRfn1Ki"
+}

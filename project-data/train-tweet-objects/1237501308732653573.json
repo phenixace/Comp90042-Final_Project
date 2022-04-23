@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "916169412",
+    "created_at": "2020-03-10T22:11:18.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "OGRyanMullahy",
+                "id": "916169412"
+            }
+        ]
+    },
+    "id": "1237501308732653573",
+    "text": "@OGRyanMullahy No I just hate mosquitos"
+}

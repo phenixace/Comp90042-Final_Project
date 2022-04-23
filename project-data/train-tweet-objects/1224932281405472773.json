@@ -1,0 +1,33 @@
+{
+    "id": "1224932281405472773",
+    "in_reply_to_user_id": "12104642",
+    "source": "Twitter Web App",
+    "text": "RT @SnehaMKoshy \n-A glimpse of how #Kerala is fighting against Coronavirus- \n1) 24x7 call-centre at state Control &amp; Prevention Cell. 24x7 call-centres across all 14 districts. Teams constitute of trained Junior Health Inspectors, doctors &amp; others. \n\nhttps://t.co/bq9PirOW6c",
+    "created_at": "2020-02-05T05:46:28.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 42,
+                "tag": "Kerala"
+            }
+        ],
+        "urls": [
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/bq9PirOW6c",
+                "expanded_url": "https://twitter.com/SnehaMKoshy/status/1224723982277996549",
+                "display_url": "twitter.com/SnehaMKoshy/st…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 15,
+                "username": "SnehaMKoshy",
+                "id": "219923571"
+            }
+        ]
+    }
+}

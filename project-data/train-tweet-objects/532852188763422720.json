@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "in_reply_to_user_id": "28886934",
+    "created_at": "2014-11-13T11:07:16.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephanieRiou",
+                "id": "28886934"
+            }
+        ]
+    },
+    "id": "532852188763422720",
+    "text": "@StephanieRiou really?? that’s awesome ! what’s the movie called?"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "713765429878005762",
+    "created_at": "2016-03-26T16:31:54.000Z",
+    "text": "@Gotham3 Bird &amp; Bird Brain together again",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "Twitter for Android"
+}

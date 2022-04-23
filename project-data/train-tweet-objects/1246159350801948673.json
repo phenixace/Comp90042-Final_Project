@@ -1,0 +1,17 @@
+{
+    "id": "1246159350801948673",
+    "source": "Twitter Web App",
+    "text": "The new coronavirus CANNOT be transmitted through mosquito bites.\n\nTo date there has been no information nor evidence to suggest that the new coronavirus could be transmitted by mosquitoes. https://t.co/1owRdaOOZc",
+    "created_at": "2020-04-03T19:35:16.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 190,
+                "end": 213,
+                "url": "https://t.co/1owRdaOOZc",
+                "expanded_url": "https://twitter.com/pcphsd/status/1246159350801948673/photo/1",
+                "display_url": "pic.twitter.com/1owRdaOOZc"
+            }
+        ]
+    }
+}

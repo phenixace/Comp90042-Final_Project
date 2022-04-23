@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "text": "@Bullitino @JVER1 amen!!##",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 17,
+                "username": "JVER1",
+                "id": "33410754"
+            }
+        ]
+    },
+    "created_at": "2015-11-09T00:51:15.000Z",
+    "id": "663519182311542784",
+    "in_reply_to_user_id": "2998771683"
+}

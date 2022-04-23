@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-26T22:20:40.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 21,
+                "end": 43,
+                "url": "http://t.co/kK0e3UQiFs",
+                "expanded_url": "http://m.youtube.com/watch?v=e8YYYwCO9Ew",
+                "display_url": "m.youtube.com/watch?v=e8YYYw…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "latimes",
+                "id": "16664681"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "raablauren",
+                "id": "327155658"
+            }
+        ]
+    },
+    "id": "526498675787190272",
+    "text": "@latimes @raablauren http://t.co/kK0e3UQiFs",
+    "in_reply_to_user_id": "16664681"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552718848487460864",
+    "text": "@BuzzFeed it makes it all the more sad that they left his stuff with him.  I hope he finds a new family soon, poor little fella.",
+    "created_at": "2015-01-07T06:50:17.000Z",
+    "in_reply_to_user_id": "5695632"
+}

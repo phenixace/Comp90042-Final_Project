@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "17004618",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NickKristof",
+                "id": "17004618"
+            }
+        ]
+    },
+    "created_at": "2014-10-19T21:13:54.000Z",
+    "text": "@NickKristof @HaleyAKnowles cute huh?",
+    "id": "523945158359126016"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "id": "531100653809311744",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "probability": 0.4373,
+                "type": "Person",
+                "normalized_text": "Dewitos"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "created_at": "2014-11-08T15:07:17.000Z",
+    "text": "@BuzzFeed I'll try Dewitos once just to see how it tastes like but idk if I'll like it."
+}

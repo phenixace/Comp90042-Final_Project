@@ -1,0 +1,17 @@
+{
+    "source": "Hootsuite",
+    "created_at": "2015-01-27T02:22:03.000Z",
+    "id": "559899105431126016",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "text": ".@BurgerKing \nA good relationship:\n☑ calls you to just say hi\n☑ wants to see you\n☑ brings you BK\n☑ pays you enough for the work that you do"
+}

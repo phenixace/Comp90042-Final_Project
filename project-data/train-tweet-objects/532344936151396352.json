@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "@ThePoke if that photo had been 10 feet prior, there would've been a lovely white spurt from the top (arrow).",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ThePoke",
+                "id": "143145579"
+            }
+        ]
+    },
+    "created_at": "2014-11-12T01:31:37.000Z",
+    "id": "532344936151396352",
+    "in_reply_to_user_id": "143145579"
+}

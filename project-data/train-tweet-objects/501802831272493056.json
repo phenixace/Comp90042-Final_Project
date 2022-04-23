@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-08-19T18:48:12.000Z",
+    "in_reply_to_user_id": "617825073",
+    "text": "@WillMcAvoyACN: 78, not 31, arrested overnight in #Ferguson. #Time4Truth!! http://t.co/YFgpnM2QqL",
+    "entities": {
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/YFgpnM2QqL",
+                "expanded_url": "http://www.nbcnews.com/storyline/michael-brown-shooting/78-arrested-overnight-most-missouri-arrest-records-show-n184036",
+                "display_url": "nbcnews.com/storyline/mich…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "WillMcAvoyACN",
+                "id": "617825073"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 59,
+                "tag": "Ferguson"
+            },
+            {
+                "start": 61,
+                "end": 72,
+                "tag": "Time4Truth"
+            }
+        ]
+    },
+    "id": "501802831272493056",
+    "source": "Twitter for iPhone"
+}

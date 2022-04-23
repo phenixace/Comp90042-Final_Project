@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "latoya12",
+                "id": "30373705"
+            }
+        ]
+    },
+    "text": "@latoya12 not for it or just mocking chara's mug?",
+    "id": "504421923393372160",
+    "in_reply_to_user_id": "30373705",
+    "created_at": "2014-08-27T00:15:32.000Z"
+}

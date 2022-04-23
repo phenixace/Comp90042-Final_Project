@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "17176025",
+    "text": "@bnjmnwst @FredbirdsB @MattWalshBlog You appear to be conflating removal of statues by government action and by \"mob,\" as you put it.  This thread deals solely with the former.  Equality under the law is not subject to a vote by the majority.  I suspect you agree when it comes to the governmental taking of ...",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-14T01:58:51.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "bnjmnwst",
+                "id": "17176025"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "FredbirdsB",
+                "id": "1153815723699032064"
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "username": "MattWalshBlog",
+                "id": "1500129642"
+            }
+        ]
+    },
+    "id": "1271985421442940930"
+}

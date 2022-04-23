@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 39,
+                "end": 48,
+                "probability": 0.5036,
+                "type": "Place",
+                "normalized_text": "Paddington"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "CegataMariangel",
+                "id": "34310170"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "aljwhite",
+                "id": "24878499"
+            }
+        ]
+    },
+    "id": "552711034621157377",
+    "text": "@CegataMariangel @BuzzFeed @aljwhite   Paddington",
+    "created_at": "2015-01-07T06:19:14.000Z",
+    "in_reply_to_user_id": "34310170"
+}

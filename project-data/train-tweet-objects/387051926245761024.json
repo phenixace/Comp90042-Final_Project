@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DanJoseph78",
+                "id": "17971747"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "corrcomm",
+                "id": "68270085"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 40,
+                "probability": 0.7848,
+                "type": "Person",
+                "normalized_text": "President Betamale"
+            }
+        ]
+    },
+    "created_at": "2013-10-07T03:09:04.000Z",
+    "id": "387051926245761024",
+    "text": "@DanJoseph78 @corrcomm President Betamale will take on congress but not his wife.",
+    "in_reply_to_user_id": "17971747"
+}

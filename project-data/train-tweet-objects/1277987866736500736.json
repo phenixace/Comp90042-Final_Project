@@ -1,0 +1,17 @@
+{
+    "id": "1277987866736500736",
+    "text": "@GutsPublishing Ha, thanks, I’ll keep you posted! Maybe I will craft trophies out of Dreamies...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "GutsPublishing",
+                "id": "1112429500858580992"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1112429500858580992",
+    "created_at": "2020-06-30T15:30:25.000Z"
+}

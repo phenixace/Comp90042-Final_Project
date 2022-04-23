@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 62,
+                "probability": 0.9644,
+                "type": "Person",
+                "normalized_text": "Trayvon Martin"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 134,
+                "end": 138,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@deray 20,000 blacks killed by other black since Trayvon Martin. When blks say Blk lives matter, they mean ones killed by whites only @ABC",
+    "source": "Twitter for iPhone",
+    "id": "538764136721948672",
+    "created_at": "2014-11-29T18:39:14.000Z",
+    "in_reply_to_user_id": "29417304"
+}

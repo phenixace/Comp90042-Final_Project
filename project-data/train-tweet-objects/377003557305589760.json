@@ -1,0 +1,23 @@
+{
+    "id": "377003557305589760",
+    "in_reply_to_user_id": "2425231",
+    "source": "Twitter for iPhone",
+    "text": "@Fact @rubinfefffer 😱😱😱",
+    "created_at": "2013-09-09T09:40:27.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "Fact",
+                "id": "2425231"
+            },
+            {
+                "start": 6,
+                "end": 19,
+                "username": "rubinfefffer",
+                "id": "62140247"
+            }
+        ]
+    }
+}

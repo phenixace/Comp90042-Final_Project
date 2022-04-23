@@ -1,0 +1,52 @@
+{
+    "id": "1237268635846139904",
+    "text": "هل يساعد تناول الثوم في الوقاية من العدوى بفيروس كورونا المستجد؟\nCan eating garlic help prevent infection with the new coronavirus?\n#الوقاية_خير_من_العلاج\n#وعينا_عن_كورونا\n#منظمة_الصحة_العالمية\n#عش_بصحة\n#COVIDー19 https://t.co/pJVMn2vish",
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 213,
+                "end": 236,
+                "url": "https://t.co/pJVMn2vish",
+                "expanded_url": "https://twitter.com/AlbuniDouaa/status/1237268635846139904/photo/1",
+                "display_url": "pic.twitter.com/pJVMn2vish"
+            },
+            {
+                "start": 213,
+                "end": 236,
+                "url": "https://t.co/pJVMn2vish",
+                "expanded_url": "https://twitter.com/AlbuniDouaa/status/1237268635846139904/photo/1",
+                "display_url": "pic.twitter.com/pJVMn2vish"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 132,
+                "end": 154,
+                "tag": "الوقاية_خير_من_العلاج"
+            },
+            {
+                "start": 155,
+                "end": 171,
+                "tag": "وعينا_عن_كورونا"
+            },
+            {
+                "start": 172,
+                "end": 193,
+                "tag": "منظمة_الصحة_العالمية"
+            },
+            {
+                "start": 194,
+                "end": 202,
+                "tag": "عش_بصحة"
+            },
+            {
+                "start": 203,
+                "end": 212,
+                "tag": "COVIDー19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2972181145",
+    "created_at": "2020-03-10T06:46:44.000Z"
+}

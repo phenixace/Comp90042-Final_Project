@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 39,
+                "probability": 0.6152,
+                "type": "Other",
+                "normalized_text": "Godzilla"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "id": "364590947788525568",
+    "text": "@YourAnonNews setup for the new Godzilla movie?",
+    "created_at": "2013-08-06T03:37:10.000Z",
+    "in_reply_to_user_id": "279390084"
+}

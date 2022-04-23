@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ReaI_Tupac",
+                "id": "2757239331"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@ReaI_Tupac Lmao😹",
+    "id": "506357148633559040",
+    "created_at": "2014-09-01T08:25:26.000Z",
+    "in_reply_to_user_id": "2757239331"
+}

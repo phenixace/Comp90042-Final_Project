@@ -1,0 +1,23 @@
+{
+    "id": "634489186268114944",
+    "created_at": "2015-08-20T22:16:24.000Z",
+    "text": "@TheOnion @mtee88 can sea world get any more evil?!?!?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "TheOnion",
+                "id": "14075928"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "username": "mtee88",
+                "id": "2835156525"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14075928",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,44 @@
+{
+    "source": "Hootsuite",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 11,
+                "username": "InStyle",
+                "id": "14934818"
+            }
+        ],
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/XWQyCgn0Fs",
+                "expanded_url": "http://ow.ly/rkLh6",
+                "display_url": "ow.ly/rkLh6",
+                "status": 410,
+                "unwound_url": "https://www.instyle.com/news/co-stars-react-paul-walkers-death-social-media"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 66,
+                "probability": 0.9917,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 84,
+                "end": 98,
+                "tag": "RIPPaulWalker"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14934818",
+    "created_at": "2013-12-01T18:10:40.000Z",
+    "id": "407210153319333888",
+    "text": "RT @InStyle: Celebrities, friends and co-stars react to Paul Walker's tragic death. #RIPPaulWalker http://t.co/XWQyCgn0Fs"
+}

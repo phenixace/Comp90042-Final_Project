@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 25,
+                "end": 37,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 63,
+                "end": 67,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "235771210",
+    "created_at": "2020-01-26T19:18:26.000Z",
+    "id": "1221512742147895298",
+    "text": "What are the symptoms of #coronavirus infection?\n\nAccording to @WHO, it depends on the virus, but common signs incl. respiratory symptoms, fever, cough, shortness of breath &amp; breathing difficulties.\n\nIn more severe cases,it can cause pneumonia, severe acute respiratory syndrome..",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 69,
+                "end": 78,
+                "probability": 0.9879,
+                "type": "Person",
+                "normalized_text": "Dr. LaPook"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T04:34:41.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for iPhone",
+    "text": "@StephenAtHome @DrLaPook I found it unsettling that while talking to Dr. LaPook you took another alcohol drink in the middle of his explanation of potential life saving drugs!  This was disrespectful and inappropriate. Do you have some drinking problem where you must drink while broadcasting your show?",
+    "id": "1250281366576496647"
+}

@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 86,
+                "probability": 0.6855,
+                "type": "Organization",
+                "normalized_text": "Ivy League University"
+            }
+        ]
+    },
+    "created_at": "2020-04-11T12:06:26.000Z",
+    "in_reply_to_user_id": "624949716",
+    "source": "Twitter Web App",
+    "text": "Politicians stole money for development to sponsor their children Ivy League University. \n\nYou Kidnapped your fellow brothers and sister for money to build big mansion.",
+    "id": "1248945500893720576"
+}

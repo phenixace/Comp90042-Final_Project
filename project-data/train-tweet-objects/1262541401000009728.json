@@ -1,0 +1,15 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 59,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "id": "1262541401000009728",
+    "text": "Brain teaser: Assume that 5% of the population has #COVID19 antibodies, and the serology test has a 95% accuracy (specificity=sensitivity=0.95). What is the probability p that I have antibodies if I test positive? (For bonus points explain your answer in comments)",
+    "source": "Twitter Web App",
+    "created_at": "2020-05-19T00:31:41.000Z"
+}

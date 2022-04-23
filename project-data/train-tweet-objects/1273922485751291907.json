@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 104,
+                "end": 116,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Boris Johnson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HarryRashford1",
+                "id": "1226567535706935296"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "TheBoyo10",
+                "id": "1176122509026050049"
+            }
+        ]
+    },
+    "text": "@HarryRashford1 @TheBoyo10 Don’t need a phd to know what herd immunity means.   It’s not a new concept. Boris Johnson said very early the plan was to “let it wash through the population”.   Today they’ve announced its now considered to be “in general circulation”.",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-19T10:16:03.000Z",
+    "in_reply_to_user_id": "1226567535706935296",
+    "id": "1273922485751291907"
+}

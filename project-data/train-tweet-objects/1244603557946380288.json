@@ -1,0 +1,59 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 68,
+                "tag": "SafeHands"
+            },
+            {
+                "start": 69,
+                "end": 83,
+                "tag": "WashYourHands"
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "tag": "pandemic"
+            },
+            {
+                "start": 94,
+                "end": 114,
+                "tag": "coronavirusoutbreak"
+            },
+            {
+                "start": 115,
+                "end": 132,
+                "tag": "coronavirusindia"
+            },
+            {
+                "start": 133,
+                "end": 143,
+                "tag": "covid2019"
+            },
+            {
+                "start": 144,
+                "end": 151,
+                "tag": "corona"
+            },
+            {
+                "start": 152,
+                "end": 166,
+                "tag": "Breakthechain"
+            }
+        ],
+        "urls": [
+            {
+                "start": 167,
+                "end": 190,
+                "url": "https://t.co/VZh0zYn7kz",
+                "expanded_url": "https://twitter.com/olivaclinic/status/1244603557946380288/photo/1",
+                "display_url": "pic.twitter.com/VZh0zYn7kz"
+            }
+        ]
+    },
+    "text": "Are Hand Dryers Effective In Killing The New Coronavirus?\n#SafeHands #WashYourHands #pandemic #coronavirusoutbreak #coronavirusindia #covid2019 #corona #Breakthechain https://t.co/VZh0zYn7kz",
+    "created_at": "2020-03-30T12:33:06.000Z",
+    "id": "1244603557946380288",
+    "source": "Twitter Web App"
+}

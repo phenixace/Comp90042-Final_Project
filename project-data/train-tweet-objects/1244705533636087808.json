@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/jokVFxTuyz",
+                "expanded_url": "https://twitter.com/_Krishna12/status/1244705533636087808/photo/1",
+                "display_url": "pic.twitter.com/jokVFxTuyz"
+            },
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/jokVFxTuyz",
+                "expanded_url": "https://twitter.com/_Krishna12/status/1244705533636087808/photo/1",
+                "display_url": "pic.twitter.com/jokVFxTuyz"
+            },
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/jokVFxTuyz",
+                "expanded_url": "https://twitter.com/_Krishna12/status/1244705533636087808/photo/1",
+                "display_url": "pic.twitter.com/jokVFxTuyz"
+            },
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/jokVFxTuyz",
+                "expanded_url": "https://twitter.com/_Krishna12/status/1244705533636087808/photo/1",
+                "display_url": "pic.twitter.com/jokVFxTuyz"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "🔆Cold weather and snow CANNOT kill the new \n      coronavirus. https://t.co/jokVFxTuyz",
+    "created_at": "2020-03-30T19:18:19.000Z",
+    "id": "1244705533636087808",
+    "in_reply_to_user_id": "971779203740741632"
+}

@@ -1,0 +1,18 @@
+{
+    "source": "Twitter Web App",
+    "id": "1250776389567033344",
+    "entities": {
+        "annotations": [
+            {
+                "start": 58,
+                "end": 61,
+                "probability": 0.4584,
+                "type": "Organization",
+                "normalized_text": "SARS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "875195657371488256",
+    "created_at": "2020-04-16T13:21:44.000Z",
+    "text": "infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003."
+}

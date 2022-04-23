@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-07T18:26:21.000Z",
+    "id": "1247591558809075712",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 28,
+                "username": "ScottAdamsSays",
+                "id": "2853461537"
+            }
+        ],
+        "urls": [
+            {
+                "start": 121,
+                "end": 144,
+                "url": "https://t.co/q77THPLOqa",
+                "expanded_url": "https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca",
+                "display_url": "medium.com/@tomaspueyo/co…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "821728093559803908",
+    "text": "@SnidePrince @ScottAdamsSays I would suggest this article to review the assumptions that COVID-19 is just like the flu.\n\nhttps://t.co/q77THPLOqa"
+}

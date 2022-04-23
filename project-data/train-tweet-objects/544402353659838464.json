@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "544402353659838464",
+    "created_at": "2014-12-15T08:03:30.000Z",
+    "in_reply_to_user_id": "5402612",
+    "text": "@BBCBreaking everyone still has time to Tweet!"
+}

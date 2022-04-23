@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-28T16:33:00.000Z",
+    "in_reply_to_user_id": "93879982",
+    "source": "Twitter for iPhone",
+    "text": "@KeeganNYC but why was she out protesting while pregnant. Damn. Childs safety first.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KeeganNYC",
+                "id": "93879982"
+            }
+        ]
+    },
+    "id": "538369978941341698"
+}

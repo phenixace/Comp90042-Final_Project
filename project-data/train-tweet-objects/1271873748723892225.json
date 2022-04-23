@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "srj68",
+                "id": "15691172"
+            },
+            {
+                "start": 7,
+                "end": 15,
+                "username": "jialanw",
+                "id": "225585481"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15691172",
+    "created_at": "2020-06-13T18:35:06.000Z",
+    "text": "@srj68 @jialanw Right?! Like an impending car collision...instead of hitting the brakes, I’ll speed up, maybe that’ll help my chances of survival. What is wrong with these people?! How do you achieve herd immunity when the herd has no common sense?",
+    "id": "1271873748723892225",
+    "source": "Twitter for iPhone"
+}

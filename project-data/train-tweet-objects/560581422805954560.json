@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-01-28T23:33:20.000Z",
+    "id": "560581422805954560",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 38,
+                "end": 60,
+                "url": "http://t.co/csRQxmCvdx",
+                "expanded_url": "https://twitter.com/Jetjaguar67/status/560581422805954560/photo/1",
+                "display_url": "pic.twitter.com/csRQxmCvdx"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "text": "@BurgerKing Pleease bring me baacccck http://t.co/csRQxmCvdx"
+}

@@ -1,0 +1,49 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "entities": {
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/4Kp0C2PJnG",
+                "expanded_url": "http://nbcnews.to/1w0HtF0",
+                "display_url": "nbcnews.to/1w0HtF0"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/sJeXwFZxSL",
+                "expanded_url": "https://twitter.com/NBCNews/status/543586319168196608/photo/1",
+                "display_url": "pic.twitter.com/sJeXwFZxSL"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 38,
+                "probability": 0.6083,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 21,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "hallelujah"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-12-13T02:52:54.000Z",
+    "text": "#hallelujah!\"@NBCNews: New dog-ma? Pope says heaven is for hounds, too\n http://t.co/4Kp0C2PJnG http://t.co/sJeXwFZxSL”",
+    "id": "543599413877563392"
+}

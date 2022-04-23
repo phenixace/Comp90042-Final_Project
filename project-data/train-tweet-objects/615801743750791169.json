@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-06-30T08:39:11.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 29,
+                "end": 37,
+                "tag": "rainbow"
+            },
+            {
+                "start": 76,
+                "end": 81,
+                "tag": "YHWH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "username": "telkolaly",
+                "id": "567455591"
+            }
+        ]
+    },
+    "id": "615801743750791169",
+    "text": "@FoxNews @telkolaly\nOh\nHoped #rainbow\nwas sign\nWH finally decided to follow #YHWH's desires\nremembering consequences of not\nInstead\nopposite",
+    "in_reply_to_user_id": "1367531"
+}

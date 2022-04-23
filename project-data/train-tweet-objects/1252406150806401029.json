@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-21T01:17:49.000Z",
+    "text": "@MohdShfqIzwn @KKMPutrajaya Warga asing. Last minute no choice kena pegi hospital surrender",
+    "id": "1252406150806401029",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MohdShfqIzwn",
+                "id": "248962511"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "KKMPutrajaya",
+                "id": "531041640"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "248962511"
+}

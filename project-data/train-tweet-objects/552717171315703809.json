@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 25,
+                "username": "mauiHIgirl",
+                "id": "636682049"
+            },
+            {
+                "start": 26,
+                "end": 35,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552717171315703809",
+    "text": "@notqueuebert @mauiHIgirl @BuzzFeed Poor dog....He/she looks so sad...",
+    "created_at": "2015-01-07T06:43:37.000Z",
+    "in_reply_to_user_id": "43818727"
+}

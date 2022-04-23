@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "29465136",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 57,
+                "probability": 0.7032,
+                "type": "Place",
+                "normalized_text": "Chi-Town"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Mediaite",
+                "id": "29465136"
+            }
+        ]
+    },
+    "created_at": "2014-11-28T19:33:31.000Z",
+    "text": "@Mediaite Why does the media not do back story on Chi-Town commies organizing these protests?",
+    "id": "538415411142729728"
+}

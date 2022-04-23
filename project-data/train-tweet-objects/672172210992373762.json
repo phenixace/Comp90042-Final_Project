@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "louiscypher_666",
+                "id": "3178379693"
+            }
+        ]
+    },
+    "text": "@louiscypher_666 you mean the president who has tried repeatedly to regulate military style weapons?",
+    "id": "672172210992373762",
+    "in_reply_to_user_id": "3178379693",
+    "created_at": "2015-12-02T21:55:18.000Z"
+}

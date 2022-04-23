@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-11-05T15:27:31.000Z",
+    "id": "530018582122741760",
+    "text": "@ArmedResearch @Saudi_Aramco Hope it won't affect oil prices :)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 28,
+                "username": "saudi_aramco",
+                "id": "49881357"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2779009591"
+}

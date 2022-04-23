@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 138,
+                "end": 143,
+                "probability": 0.7107,
+                "type": "Place",
+                "normalized_text": "Odisha"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 101,
+                "end": 111,
+                "username": "ICMRDELHI",
+                "id": "2695241174"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "53306736",
+    "created_at": "2020-04-20T15:18:16.000Z",
+    "id": "1252255268437557248",
+    "source": "Twitter for Android",
+    "text": "Q16: Where from these rapid kits have come to the state?\nA16: These rapid kits have been procured by @ICMRDELHI and have been supplied to Odisha."
+}

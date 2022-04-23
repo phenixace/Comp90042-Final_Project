@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T15:18:29.000Z",
+    "text": "@DailyMail @MailOnline - somehow I don't think she's @VictoriasSecret target market.",
+    "id": "514071241880506369",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "MailOnline",
+                "id": "15438913"
+            },
+            {
+                "start": 53,
+                "end": 69,
+                "username": "VictoriasSecret",
+                "id": "16193578"
+            }
+        ]
+    }
+}

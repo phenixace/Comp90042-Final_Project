@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Mac",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T10:04:38.000Z",
+    "id": "656048300253159424",
+    "text": "@cnnbrk perhaps because he did the best in the debate, like the American people have been trying to tell you since it happened? Maybe?"
+}

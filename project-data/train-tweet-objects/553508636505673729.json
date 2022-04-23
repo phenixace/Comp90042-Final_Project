@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "created_at": "2015-01-09T11:08:37.000Z",
+    "text": "@BBCBreaking. Prepared to die as martyrs.?  Wat a joke !  They are murdering heathens. They have no financial Jihadist support either. Odd !",
+    "id": "553508636505673729",
+    "in_reply_to_user_id": "5402612",
+    "source": "Twitter for BlackBerry®"
+}

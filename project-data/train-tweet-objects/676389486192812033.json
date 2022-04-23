@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676389486192812033",
+    "created_at": "2015-12-14T13:13:14.000Z",
+    "source": "Twitter Web Client",
+    "text": "@nycjim That tweet makes it sound like the town's official reasoning was that quote. Not quite accurate.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    }
+}

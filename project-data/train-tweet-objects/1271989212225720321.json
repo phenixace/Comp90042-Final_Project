@@ -1,0 +1,38 @@
+{
+    "in_reply_to_user_id": "41460280",
+    "text": "@KurtRamlo @FredbirdsB @MattWalshBlog I thought this was about the mob, as that's what Matt said in his tweet. Anyway, it's a real stretch to say that something I'm against being left in place causes me to be unequal. Do you know that the equality mentioned in our founding documents refers to equal treatment under",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 87,
+                "end": 90,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Matt"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KurtRamlo",
+                "id": "41460280"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "FredbirdsB",
+                "id": "1153815723699032064"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "MattWalshBlog",
+                "id": "1500129642"
+            }
+        ]
+    },
+    "created_at": "2020-06-14T02:13:55.000Z",
+    "id": "1271989212225720321"
+}

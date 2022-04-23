@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-14T04:00:17.000Z",
+    "text": "@DailyMirror ISIS is a group of COWARDS that Will answer to the Universal Law of KARMA.",
+    "id": "511001465356574720",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 16,
+                "probability": 0.9398,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMirror",
+                "id": "16887175"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16887175"
+}

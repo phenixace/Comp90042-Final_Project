@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-07-14T15:59:13.000Z",
+    "text": "@Pyramidology this is not true! Idiots!!!!",
+    "id": "356442771311165441",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Pyramidology",
+                "id": "56851629"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "56851629"
+}

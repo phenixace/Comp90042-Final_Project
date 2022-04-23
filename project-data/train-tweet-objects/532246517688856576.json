@@ -1,0 +1,42 @@
+{
+    "in_reply_to_user_id": "16312576",
+    "entities": {
+        "urls": [
+            {
+                "start": 57,
+                "end": 79,
+                "url": "http://t.co/F1C9K65MmD",
+                "expanded_url": "http://ow.ly/E85hX",
+                "display_url": "ow.ly/E85hX"
+            },
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/TY9LNaJofP",
+                "expanded_url": "https://twitter.com/EW/status/532231906364911616/photo/1",
+                "display_url": "pic.twitter.com/TY9LNaJofP"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 39,
+                "probability": 0.0993,
+                "type": "Other",
+                "normalized_text": "The Sugarhill Gang's Big Bank Hank"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "EW",
+                "id": "16312576"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-11-11T19:00:33.000Z",
+    "text": "“@EW: The Sugarhill Gang's Big Bank Hank has died at 57: http://t.co/F1C9K65MmD http://t.co/TY9LNaJofP”",
+    "id": "532246517688856576"
+}

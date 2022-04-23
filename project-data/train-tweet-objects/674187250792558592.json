@@ -1,0 +1,33 @@
+{
+    "id": "674187250792558592",
+    "text": "Donald Trump v Adolf Hitler https://t.co/cBEDelmiRV",
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/cBEDelmiRV",
+                "expanded_url": "https://twitter.com/Soc_Imagination/status/674187250792558592/photo/1",
+                "display_url": "pic.twitter.com/cBEDelmiRV"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 11,
+                "probability": 0.9933,
+                "type": "Person",
+                "normalized_text": "Donald Trump"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "probability": 0.987,
+                "type": "Person",
+                "normalized_text": "Adolf Hitler"
+            }
+        ]
+    },
+    "source": "Buffer",
+    "created_at": "2015-12-08T11:22:21.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "created_at": "2014-11-11T21:12:40.000Z",
+    "text": "@HuffingtonPost damn.",
+    "in_reply_to_user_id": "14511951",
+    "id": "532279768415502336"
+}

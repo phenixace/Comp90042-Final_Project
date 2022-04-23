@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-17T05:09:46.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            },
+            {
+                "start": 8,
+                "end": 14,
+                "username": "ndop_",
+                "id": "1242254527052406784"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "534211774959325184",
+    "text": "@PzFeed @ndop_ one of those tried to bite me in 8th grade football practice once",
+    "in_reply_to_user_id": "292777349"
+}

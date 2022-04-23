@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 11,
+                "username": "ejb__",
+                "id": "55719262"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-07T03:51:25.000Z",
+    "id": "552673836039417859",
+    "text": "@ABC @ejb__  I wish there was a train, coming to my house....I would love that sweetie."
+}

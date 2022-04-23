@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 80,
+                "end": 84,
+                "probability": 0.9988,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 148,
+                "end": 152,
+                "probability": 0.9967,
+                "type": "Person",
+                "normalized_text": "TRUMP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TeelaResists",
+                "id": "854320967648260098"
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "username": "wtp__2020",
+                "id": "1289031187755937797"
+            }
+        ]
+    },
+    "text": "@TeelaResists @MoonResisting @wtp__2020 Yup, we broke 2 million today. Where is Trump's plan??? Why are we hearing NOTHING from the WH??? \nOh yeah, TRUMP FAILED w/COVID. No accountability.",
+    "source": "Twitter for Android",
+    "id": "1270843336908300289",
+    "created_at": "2020-06-10T22:20:37.000Z",
+    "in_reply_to_user_id": "854320967648260098"
+}

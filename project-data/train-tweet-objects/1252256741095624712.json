@@ -1,0 +1,23 @@
+{
+    "text": "@LucioMM1 @mindtapes Guarda la sezione \"What can I do to protect myself and prevent the spread of disease?\" nelle FAQ per il pubblico e vedi tutti i suggerimenti che danno alle persone per ridurre al minimo il contagio",
+    "id": "1252256741095624712",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "LucioMM1",
+                "id": "2659183050"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "mindtapes",
+                "id": "405539247"
+            }
+        ]
+    },
+    "created_at": "2020-04-20T15:24:07.000Z",
+    "in_reply_to_user_id": "2659183050"
+}

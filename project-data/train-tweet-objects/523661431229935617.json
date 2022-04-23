@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-19T02:26:29.000Z",
+    "source": "Twitter Web Client",
+    "id": "523661431229935617",
+    "text": "@70torinoman Don't say that Walmart doesn't know who their customers are.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.933,
+                "type": "Organization",
+                "normalized_text": "Walmart"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-10-20T16:46:06.000Z",
+    "source": "Twitter Web Client",
+    "id": "524240151371710464",
+    "text": "@70torinoman @HillaryGuess  Walmart is heinous, for if black people gain  a tad more equality they may OMG ask Wal Mart for a raise?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.652,
+                "type": "Organization",
+                "normalized_text": "Walmart"
+            },
+            {
+                "start": 111,
+                "end": 118,
+                "probability": 0.6187,
+                "type": "Person",
+                "normalized_text": "Wal Mart"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "HillaryGuess",
+                "id": "1119760256"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

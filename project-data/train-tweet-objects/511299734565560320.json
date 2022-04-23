@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-14T23:45:30.000Z",
+    "text": "@DailyMirror http://t.co/MehJQOdzPj",
+    "entities": {
+        "urls": [
+            {
+                "start": 13,
+                "end": 35,
+                "url": "http://t.co/MehJQOdzPj",
+                "expanded_url": "https://twitter.com/marunoye/status/511299734565560320/photo/1",
+                "display_url": "pic.twitter.com/MehJQOdzPj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMirror",
+                "id": "16887175"
+            }
+        ]
+    },
+    "id": "511299734565560320",
+    "in_reply_to_user_id": "16887175"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1260245518548156417",
+    "source": "Sprout Social",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 34,
+                "probability": 0.2765,
+                "type": "Other",
+                "normalized_text": "VoteSafe Act"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 72,
+                "end": 84,
+                "username": "ClyburnSC06",
+                "id": "2389877058"
+            },
+            {
+                "start": 89,
+                "end": 97,
+                "username": "mlfudge",
+                "id": "18829123"
+            }
+        ]
+    },
+    "text": "Excited to announce my VoteSafe Act is being introduced in the House by @ClyburnSC06 and @mlfudge. It: \n→Expands vote-by-mail\n→Ensures in-person voting is safe\n→Requires 20+ days of early voting\n\nPeople shouldn’t have to choose between their health and their right to vote.",
+    "created_at": "2020-05-12T16:28:40.000Z"
+}

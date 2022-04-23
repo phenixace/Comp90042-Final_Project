@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/S816REbAHA",
+                "expanded_url": "http://buff.ly/1xacMgA",
+                "display_url": "buff.ly/1xacMgA"
+            },
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/XnVz0NBTPH",
+                "expanded_url": "https://twitter.com/businessinsider/status/534190494398836739/photo/1",
+                "display_url": "pic.twitter.com/XnVz0NBTPH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 82,
+                "end": 83,
+                "probability": 0.7428,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "created_at": "2014-11-17T06:38:01.000Z",
+    "source": "Twitter for iPhone",
+    "id": "534233980930121728",
+    "text": "“@PzFeed: Disease spread by bugs that bite your face as you sleep is found in the US http://t.co/S816REbAHA http://t.co/XnVz0NBTPH”😳",
+    "in_reply_to_user_id": "292777349"
+}

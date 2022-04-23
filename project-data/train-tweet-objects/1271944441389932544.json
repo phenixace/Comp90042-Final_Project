@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "FreedomWins10",
+                "id": "1251293812535812097"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "MattWalshBlog",
+                "id": "1500129642"
+            },
+            {
+                "start": 30,
+                "end": 43,
+                "username": "brad_polumbo",
+                "id": "848280544152608769"
+            }
+        ]
+    },
+    "created_at": "2020-06-13T23:16:01.000Z",
+    "text": "@FreedomWins10 @MattWalshBlog @brad_polumbo Or if you lived in the suburbs. Or if you're lucky to have a spot on the social ladder where you can break the law and the police isn't up your ass for it. Living in the inner cities is tough enough. Expecting them to have a much higher moral standard than suburbia is ridiculous.",
+    "id": "1271944441389932544",
+    "in_reply_to_user_id": "1251293812535812097",
+    "source": "Twitter Web App"
+}

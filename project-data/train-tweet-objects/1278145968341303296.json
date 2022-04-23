@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 30,
+                "end": 53,
+                "url": "https://t.co/PgcX2muWlX",
+                "expanded_url": "https://twitter.com/camwolfe/status/1278143521229361153",
+                "display_url": "twitter.com/camwolfe/statu…"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T01:58:40.000Z",
+    "id": "1278145968341303296",
+    "text": "Wait until there's a vaccine. https://t.co/PgcX2muWlX",
+    "source": "Twitter for Android"
+}

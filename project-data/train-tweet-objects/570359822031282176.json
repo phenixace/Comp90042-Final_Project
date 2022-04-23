@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-02-24T23:09:13.000Z",
+    "text": "@entwise @JamieDornanBRA RT RT RT vamos subir a tag #JamieEDakotaNoCaldeirao ajuda aí",
+    "id": "570359822031282176",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "entwise",
+                "id": "119384138"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "JamieDornanBRA",
+                "id": "2845520652"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 76,
+                "tag": "JamieEDakotaNoCaldeirao"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "119384138"
+}

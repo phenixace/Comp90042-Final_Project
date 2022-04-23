@@ -1,0 +1,32 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 46,
+                "end": 62,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 63,
+                "end": 77,
+                "username": "TenNamesLater",
+                "id": "743527070"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "probability": 0.7925,
+                "type": "Organization",
+                "normalized_text": "Democrats"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-05T04:34:53.000Z",
+    "id": "672997546113957888",
+    "text": "Links to Democrats AND A Islam are rampant! \n\n@Rockprincess818 @TenNamesLater"
+}

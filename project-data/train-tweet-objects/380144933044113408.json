@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "@KhiaRaquel @eonline If that's true. The entire town of New Smyrna would be on death row. Primarily the ratchets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KhiaRaquel",
+                "id": "267891280"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 65,
+                "probability": 0.9251,
+                "type": "Place",
+                "normalized_text": "New Smyrna"
+            }
+        ]
+    },
+    "created_at": "2013-09-18T01:43:09.000Z",
+    "id": "380144933044113408",
+    "in_reply_to_user_id": "267891280"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 14,
+                "probability": 0.9825,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "created_at": "2015-07-30T07:00:18.000Z",
+    "id": "626648494682451968",
+    "text": "@BuzzFeed China has a lot of escalator accidents. You would think they will learn their lesson."
+}

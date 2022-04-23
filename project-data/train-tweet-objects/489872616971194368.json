@@ -1,0 +1,17 @@
+{
+    "text": "@nycjim Leaked by whom? Or don't you bother verifying sources?",
+    "created_at": "2014-07-17T20:41:47.000Z",
+    "id": "489872616971194368",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14940354",
+    "source": "Twitter Web Client"
+}

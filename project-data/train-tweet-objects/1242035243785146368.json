@@ -1,0 +1,34 @@
+{
+    "source": "Twitter Web App",
+    "text": "Mythbuster: COVID-19 virus can be transmitted in areas with hot and humid climates\nFrom the evidence so far, the COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather. Regardless of climate, adopt protective measures #covid19 #virus #WHO https://t.co/V9uf1lNyyf",
+    "entities": {
+        "urls": [
+            {
+                "start": 275,
+                "end": 298,
+                "url": "https://t.co/V9uf1lNyyf",
+                "expanded_url": "https://twitter.com/social_rural/status/1242035243785146368/photo/1",
+                "display_url": "pic.twitter.com/V9uf1lNyyf"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 254,
+                "end": 262,
+                "tag": "covid19"
+            },
+            {
+                "start": 263,
+                "end": 269,
+                "tag": "virus"
+            },
+            {
+                "start": 270,
+                "end": 274,
+                "tag": "WHO"
+            }
+        ]
+    },
+    "id": "1242035243785146368",
+    "created_at": "2020-03-23T10:27:32.000Z"
+}

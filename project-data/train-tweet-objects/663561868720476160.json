@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "text": "@albertbbbalbert @Laneybaby004 @Bullitino @Babbsgirl2 same can be said about their husband  president...substitute gentleman for elegant!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 30,
+                "username": "Laneybaby004",
+                "id": "387151655"
+            }
+        ]
+    },
+    "created_at": "2015-11-09T03:40:52.000Z",
+    "id": "663561868720476160",
+    "in_reply_to_user_id": "401389464"
+}

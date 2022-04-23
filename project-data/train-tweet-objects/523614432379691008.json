@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-18T23:19:43.000Z",
+    "source": "Twitter Web Client",
+    "id": "523614432379691008",
+    "text": "@70torinoman @snarkylibdem Need proof of this-can't find any...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "snarkylibdem",
+                "id": "517181403"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

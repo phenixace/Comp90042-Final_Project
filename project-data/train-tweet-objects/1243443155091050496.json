@@ -1,0 +1,18 @@
+{
+    "id": "1243443155091050496",
+    "in_reply_to_user_id": "2519585476",
+    "source": "Twitter for Android",
+    "text": "11. Can eating garlic help prevent infection with the new coronavirus? https://t.co/fkqwRDCKaZ",
+    "created_at": "2020-03-27T07:42:04.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 94,
+                "url": "https://t.co/fkqwRDCKaZ",
+                "expanded_url": "https://twitter.com/eteobong_edem/status/1243443155091050496/photo/1",
+                "display_url": "pic.twitter.com/fkqwRDCKaZ"
+            }
+        ]
+    }
+}

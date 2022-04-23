@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-06-27T02:20:18.000Z",
+    "source": "Twitter for iPad",
+    "entities": {
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/WX56nALuj8",
+                "expanded_url": "https://twitter.com/MsTweetMajic/status/614619231456509952/photo/1",
+                "display_url": "pic.twitter.com/WX56nALuj8"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 87,
+                "end": 96,
+                "tag": "LoveWins"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 17,
+                "username": "annie_amountain",
+                "id": "872786449"
+            },
+            {
+                "start": 19,
+                "end": 27,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "614619231456509952",
+    "text": "“@annie_amountain: @FoxNews disgraceful. Tasteless. Just like this POS administration” #LoveWins 🌈💖 http://t.co/WX56nALuj8",
+    "in_reply_to_user_id": "872786449"
+}

@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-27T09:23:34.000Z",
+    "id": "560005183166754816",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 75,
+                "end": 85,
+                "tag": "Gravesend"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "text": "@BurgerKing Food very good but tables and benches + floor need cleaning at #Gravesend BK."
+}

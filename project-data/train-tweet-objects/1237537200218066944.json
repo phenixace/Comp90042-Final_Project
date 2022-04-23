@@ -1,0 +1,18 @@
+{
+    "text": "Dear fellow health care providers  CDC recommends that we \n\nMaintain PRIVACY N CONFIDENTIALITY of Covid19 patients (and the suspected and exposed)\n\nRaise awareness  without causing fear \n\nShare ACCURATE info \n\nSpeak out against negative behaviors/statements on social media",
+    "created_at": "2020-03-11T00:33:55.000Z",
+    "id": "1237537200218066944",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 37,
+                "probability": 0.496,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146615839",
+    "source": "Twitter for Android"
+}

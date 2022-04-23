@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "25898956",
+    "source": "Twitter for Windows Phone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "93101Dianne",
+                "id": "25898956"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "WSJPolitics",
+                "id": "16311797"
+            },
+            {
+                "start": 26,
+                "end": 36,
+                "username": "BretBaier",
+                "id": "18646108"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T02:39:37.000Z",
+    "text": "@93101Dianne @WSJPolitics @BretBaier As did most of the country.",
+    "id": "614624092528836609"
+}

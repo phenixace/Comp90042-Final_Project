@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-26T07:35:37.000Z",
+    "source": "Twitter Web Client",
+    "id": "537509969885528064",
+    "text": "@70torinoman @KelliMaxx they did? really?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "70torinoman",
+                "id": "635745335"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "kellimaxx",
+                "id": "1068836814142693376"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "635745335"
+}

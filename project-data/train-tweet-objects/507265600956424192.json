@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-09-03T20:35:18.000Z",
+    "id": "507265600956424192",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 23,
+                "probability": 0.785,
+                "type": "Organization",
+                "normalized_text": "Tesla Motors"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "probability": 0.9172,
+                "type": "Place",
+                "normalized_text": "Nevada"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/2x2cjWSvrn",
+                "expanded_url": "http://apne.ws/Z7rAPO",
+                "display_url": "apne.ws/Z7rAPO"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 135,
+                "end": 138,
+                "tag": "NV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "text": "“@AP: MORE: Tesla Motors picks Nevada as home of new electric car battery factory, beating 4 other states: http://t.co/2x2cjWSvrn\" FU, #NV.",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "51241574"
+}

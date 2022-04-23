@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for Android",
+    "id": "1231980103015583744",
+    "entities": {
+        "annotations": [
+            {
+                "start": 149,
+                "end": 154,
+                "probability": 0.9929,
+                "type": "Place",
+                "normalized_text": "France"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 80,
+                "tag": "ethcc"
+            }
+        ],
+        "urls": [
+            {
+                "start": 273,
+                "end": 296,
+                "url": "https://t.co/5qK99oZkey",
+                "expanded_url": "https://www.who.int/en/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/en/news-room/q…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JBSchweitzer",
+                "id": "34156194"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2979664342",
+    "created_at": "2020-02-24T16:32:00.000Z",
+    "text": "@JBSchweitzer @EthCC_ For the record:\n-we have no intention of cancelling #ethcc\n-we havent received any warnings from French authorities (coming in France is safe)\n-*WHO recommends not to use mask* if you don't have symptoms. See\n\"Should I wear a mask to protect myself?\"\nhttps://t.co/5qK99oZkey"
+}

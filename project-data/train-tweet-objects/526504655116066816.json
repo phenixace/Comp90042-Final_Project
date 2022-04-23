@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-26T22:44:26.000Z",
+    "source": "Twitter for iPhone",
+    "id": "526504655116066816",
+    "text": "@latimes phew 😃",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "latimes",
+                "id": "16664681"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16664681"
+}

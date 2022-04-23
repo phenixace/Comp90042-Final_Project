@@ -1,0 +1,42 @@
+{
+    "text": "We saw the videos of ...\n~livestock euthanasia \n~dumped milk\n~rotting veggies\n\nDisruptions to food and grocery supply chains.\n\nWithout a plan for a 2nd COVID-19 wave, we’ll face the same!\n\n#TrumpIsTheDisaster\n\n#wtp2020\n@wtp__2020\n\n#wtp342\nhttps://t.co/qeYi7tmV1N",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 219,
+                "end": 229,
+                "username": "wtp__2020",
+                "id": "1289031187755937797"
+            }
+        ],
+        "urls": [
+            {
+                "start": 239,
+                "end": 262,
+                "url": "https://t.co/qeYi7tmV1N",
+                "expanded_url": "https://twitter.com/VotaAzul2020/status/1270132553480056832/photo/1",
+                "display_url": "pic.twitter.com/qeYi7tmV1N"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 189,
+                "end": 208,
+                "tag": "TrumpIsTheDisaster"
+            },
+            {
+                "start": 210,
+                "end": 218,
+                "tag": "wtp2020"
+            },
+            {
+                "start": 231,
+                "end": 238,
+                "tag": "wtp342"
+            }
+        ]
+    },
+    "id": "1270483783649824768",
+    "created_at": "2020-06-09T22:31:53.000Z"
+}

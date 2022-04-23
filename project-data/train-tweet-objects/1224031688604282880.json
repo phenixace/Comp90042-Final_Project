@@ -1,0 +1,32 @@
+{
+    "id": "1224031688604282880",
+    "in_reply_to_user_id": "12104642",
+    "source": "Twitter for Android",
+    "text": "RT @bmj_latest \n\n\"We don’t yet know all of the details of coronavirus. But what we do know is that among the general public there is a grasp for the right information amid an evolving and even bigger epidemic of misinformation\" @AbraarKaran https://t.co/x10Pg675BM",
+    "created_at": "2020-02-02T18:07:50.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 241,
+                "end": 264,
+                "url": "https://t.co/x10Pg675BM",
+                "expanded_url": "http://ow.ly/cT6t50yaX1A",
+                "display_url": "ow.ly/cT6t50yaX1A"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 14,
+                "username": "bmj_latest",
+                "id": "16949344"
+            },
+            {
+                "start": 228,
+                "end": 240,
+                "username": "AbraarKaran",
+                "id": "508591081"
+            }
+        ]
+    }
+}

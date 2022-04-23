@@ -1,0 +1,47 @@
+{
+    "created_at": "2020-05-16T17:51:38.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 77,
+                "end": 83,
+                "probability": 0.8682,
+                "type": "Organization",
+                "normalized_text": "Burnley"
+            },
+            {
+                "start": 223,
+                "end": 229,
+                "probability": 0.6271,
+                "type": "Organization",
+                "normalized_text": "Anfield"
+            },
+            {
+                "start": 235,
+                "end": 242,
+                "probability": 0.8599,
+                "type": "Organization",
+                "normalized_text": "Dortmund"
+            },
+            {
+                "start": 248,
+                "end": 253,
+                "probability": 0.7716,
+                "type": "Organization",
+                "normalized_text": "Celtic"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "daveks88",
+                "id": "270059769"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "631902299",
+    "text": "@daveks88 It doesn’t wind scousers up, it Just’s just funny when people from Burnley etc sing it to them. I almost pity rival fans who sing it. So to that end, I honestly believe that it’s just sung because they hear it at Anfield and Dortmund and Celtic etc, and vicariously want in.",
+    "id": "1261715948958109696",
+    "source": "Twitter for iPhone"
+}

@@ -5,7 +5,11 @@ import os
 
 url = "https://api.twitter.com/2/tweets?ids="
 param = {'tweet.fields': 'created_at,entities,source', 'expansions': 'in_reply_to_user_id'}
-header = {'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAIxRbgEAAAAADvbPSYRAKI04Jjvgn%2BPgNPs36a0%3D3nz80k7S0FuiC47LCnU686DLY4Sot6n71Mlj7aaqL9bFXOIJB2'}
+tokens = ['AAAAAAAAAAAAAAAAAAAAAOc2bwEAAAAApzOw5HyCVzlOoyIC9HvHQ6NG0YE%3D4E5Wvrfwe9m54sX5oMXpHGUEv8vykfkGe2ouh70xUO6OiS2XaJ', 
+'AAAAAAAAAAAAAAAAAAAAAI48bwEAAAAA4ZloeHj3an%2F1Ew7WovKyk1gXBcg%3D6j9bT5smiseBNjnRUpAWjYjPXSsnOZRl2QNfJQsVE4bldo8bmn',
+'AAAAAAAAAAAAAAAAAAAAAIxRbgEAAAAADvbPSYRAKI04Jjvgn%2BPgNPs36a0%3D3nz80k7S0FuiC47LCnU686DLY4Sot6n71Mlj7aaqL9bFXOIJB2']
+index = 0
+header = {'Authorization': 'Bearer '+tokens[index]}
 
 file = './project-data/train.data.txt'
 folder = './project-data/train-tweet-objects/'
@@ -64,8 +68,12 @@ for line in lines:
                 f.write(','.join(errs) + '\n')
             continue
         
+    elif res.status_code == 429:
+        print(res.content)
+        time.sleep(60)
+        index = (index + 1) % 3
+        header = {'Authorization': 'Bearer '+tokens[index]}
     else:
         waiting = []
         print(res.status_code)
         print(res.content)
-        time.sleep(60)

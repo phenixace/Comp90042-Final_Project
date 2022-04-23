@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-02-02T23:10:07.000Z",
+    "text": "The way we live is social, connecting people and information all over the world. Shouldn't we work the same way? http://t.co/k5w3Pu7WcS",
+    "entities": {
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/k5w3Pu7WcS",
+                "expanded_url": "http://ow.ly/IneUh",
+                "display_url": "ow.ly/IneUh"
+            }
+        ]
+    },
+    "id": "562387516964491265",
+    "source": "Hootsuite"
+}

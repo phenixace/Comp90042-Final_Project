@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T09:07:07.000Z",
+    "id": "1231868144240807937",
+    "text": "@WHO WHO would you like to help daegur can drink zam zam water eat qurma fruits",
+    "in_reply_to_user_id": "1231861023889596416"
+}

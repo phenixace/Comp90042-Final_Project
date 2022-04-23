@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 138,
+                "end": 142,
+                "probability": 0.9779,
+                "type": "Person",
+                "normalized_text": "Boris"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bishy369Jason",
+                "id": "882165187511562244"
+            },
+            {
+                "start": 24,
+                "end": 40,
+                "username": "WelshGovernment",
+                "id": "41874178"
+            }
+        ]
+    },
+    "text": "@Bishy369Jason @fmwales @WelshGovernment As much as I want the restrictions to ease I think our government is doing a far better job than Boris and his band of Merry idiots.",
+    "source": "Twitter for iPad",
+    "created_at": "2020-06-26T10:50:39.000Z",
+    "in_reply_to_user_id": "882165187511562244",
+    "id": "1276467908647038980"
+}

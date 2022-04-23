@@ -1,0 +1,39 @@
+{
+    "text": "@griffwitte @washingtonpost Why are they not going to Jordan and then to Saudi, safe harbour but then no government payouts.",
+    "id": "640353042739539968",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "griffwitte",
+                "id": "166002047"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 59,
+                "probability": 0.7803,
+                "type": "Person",
+                "normalized_text": "Jordan"
+            },
+            {
+                "start": 73,
+                "end": 77,
+                "probability": 0.8761,
+                "type": "Place",
+                "normalized_text": "Saudi"
+            }
+        ]
+    },
+    "created_at": "2015-09-06T02:37:17.000Z",
+    "in_reply_to_user_id": "166002047"
+}

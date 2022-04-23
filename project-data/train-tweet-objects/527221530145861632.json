@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 47,
+                "probability": 0.3906,
+                "type": "Person",
+                "normalized_text": "Theraphosa blondi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "filippeliwo",
+                "id": "241464424"
+            }
+        ]
+    },
+    "id": "527221530145861632",
+    "text": "@UberFacts @filippeliwo Ah the Theraphosa blondi.  I think they also hold the record for longest fanged arachnid 2\" long fangs",
+    "created_at": "2014-10-28T22:13:02.000Z",
+    "in_reply_to_user_id": "95023423"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "probability": 0.9968,
+                "type": "Place",
+                "normalized_text": "AMERICA"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "614606753552953344",
+    "created_at": "2015-06-27T01:30:43.000Z",
+    "in_reply_to_user_id": "1917731",
+    "text": "@thehill Sad day in AMERICA"
+}

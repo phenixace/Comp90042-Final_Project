@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@Canoe @ottawasuncom My heart is broken...I am so so sorry..Nathan..God Speed Hero.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Canoe",
+                "id": "6038642"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "ottawasuncom",
+                "id": "27646245"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 65,
+                "probability": 0.8491,
+                "type": "Person",
+                "normalized_text": "Nathan"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T21:30:38.000Z",
+    "id": "525036532013727744",
+    "in_reply_to_user_id": "6038642"
+}

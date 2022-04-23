@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-17T14:16:02.000Z",
+    "id": "523115223285510144",
+    "text": "@joerogan @LEJ83 This makes me sick!!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "joerogan",
+                "id": "18208354"
+            },
+            {
+                "start": 10,
+                "end": 16,
+                "username": "LEJ83",
+                "id": "112190238"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "18208354"
+}

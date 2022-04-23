@@ -1,0 +1,40 @@
+{
+    "in_reply_to_user_id": "16973333",
+    "text": "@Independent I first saw Lego about 58 years ago when visiting Germany. Took a long time to reach UK.",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 28,
+                "probability": 0.4179,
+                "type": "Organization",
+                "normalized_text": "Lego"
+            },
+            {
+                "start": 63,
+                "end": 69,
+                "probability": 0.9886,
+                "type": "Place",
+                "normalized_text": "Germany"
+            },
+            {
+                "start": 98,
+                "end": 99,
+                "probability": 0.9627,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "created_at": "2014-11-24T23:58:49.000Z",
+    "id": "537032621394780160"
+}

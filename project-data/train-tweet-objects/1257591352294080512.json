@@ -1,0 +1,36 @@
+{
+    "id": "1257591352294080512",
+    "text": "FYI those engaging with my tweet re NZ: I am very convinced by Prof Michael Levitt’s logic in this interview- it’s a must watch.  @UnHerd https://t.co/m4zTfd70aY",
+    "entities": {
+        "mentions": [
+            {
+                "start": 130,
+                "end": 137,
+                "username": "unherd",
+                "id": "844169711072002048"
+            }
+        ],
+        "urls": [
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/m4zTfd70aY",
+                "expanded_url": "https://unherd.com/thepost/nobel-prize-winning-scientist-the-covid-19-epidemic-was-never-exponential/?=frpo",
+                "display_url": "unherd.com/thepost/nobel-…",
+                "status": 200,
+                "unwound_url": "https://unherd.com/thepost/nobel-prize-winning-scientist-the-covid-19-epidemic-was-never-exponential/?=frpo"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 81,
+                "probability": 0.7079,
+                "type": "Person",
+                "normalized_text": "Prof Michael Levitt"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-05-05T08:41:57.000Z"
+}

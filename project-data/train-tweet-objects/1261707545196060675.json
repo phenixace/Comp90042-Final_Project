@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-05-16T17:18:14.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "probability": 0.9328,
+                "type": "Organization",
+                "normalized_text": "Chelsea"
+            },
+            {
+                "start": 61,
+                "end": 64,
+                "probability": 0.9692,
+                "type": "Person",
+                "normalized_text": "Zola"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "daveks88",
+                "id": "270059769"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "270059769",
+    "text": "@daveks88 The only Chelsea game I attended was the one where Zola got tactically subbed after you had a player sent off in the 1st half {we won 4-1}, sometime in the late 90s. I was in Kop pretty much middle. I don’t know how old that chant is but I don’t remember hearing it. I wouldn’t...",
+    "id": "1261707545196060675",
+    "source": "Twitter for iPhone"
+}

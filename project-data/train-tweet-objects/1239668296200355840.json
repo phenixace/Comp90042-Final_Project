@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-16T21:42:08.000Z",
+    "id": "1239668296200355840",
+    "text": "@ByronWoodson @AMidKnight I actually just watched that video fairly recently, at @conways_law request. 💜\n\nTo solve these sorts of problems, we definitely need systems thinking. I'm reasonably educated in this area.\n\nAlso spent many years working in semiconductor, on SPC &amp; supply chain infrastructure.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ByronWoodson",
+                "id": "43928216"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "AMidknight",
+                "id": "1079262433858994176"
+            },
+            {
+                "start": 81,
+                "end": 93,
+                "username": "conways_law",
+                "id": "846368911"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "43928216"
+}

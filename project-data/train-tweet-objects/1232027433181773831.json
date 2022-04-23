@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 17,
+                "username": "CDCDirector",
+                "id": "426909329"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T19:40:04.000Z",
+    "id": "1232027433181773831",
+    "text": "@WHO @CDCDirector Declare a pandemic?",
+    "in_reply_to_user_id": "14499829"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "532540358480363520",
+    "in_reply_to_user_id": "2213447547",
+    "created_at": "2014-11-12T14:28:10.000Z",
+    "text": "@_she_lovejones @FOX29philly 😂😂😂😂😂😂 you woulllldddddd. I hate you.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "FOX29philly",
+                "id": "14787713"
+            }
+        ]
+    }
+}

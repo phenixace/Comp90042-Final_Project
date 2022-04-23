@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 35,
+                "probability": 0.5207,
+                "type": "Place",
+                "normalized_text": "Iran Syria"
+            },
+            {
+                "start": 43,
+                "end": 54,
+                "probability": 0.6517,
+                "type": "Place",
+                "normalized_text": "Russia China"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 121,
+                "end": 125,
+                "tag": "ww3"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-13T22:51:48.000Z",
+    "text": "@FoxNews we attack iss on Iran Syria soil. Russia China will get involved saying nah uh didn't ask we say F off and BOOM #ww3",
+    "in_reply_to_user_id": "1367531",
+    "id": "510923831826214914"
+}

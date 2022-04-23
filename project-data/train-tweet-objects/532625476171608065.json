@@ -1,0 +1,23 @@
+{
+    "id": "532625476171608065",
+    "text": "@KatieMoses4 @waff48 stfu 😂😂😂😂",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "katiemoses4",
+                "id": "1269565965009735680"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "waff48",
+                "id": "18058293"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "517043212",
+    "created_at": "2014-11-12T20:06:23.000Z"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "552795069691232258",
+    "in_reply_to_user_id": "2097571",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 11,
+                "end": 13,
+                "probability": 0.9365,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "probability": 0.9918,
+                "type": "Place",
+                "normalized_text": "France"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "text": "@cnni  May God have mercy on our world. Not France this time for these killings",
+    "created_at": "2015-01-07T11:53:09.000Z"
+}

@@ -1,0 +1,42 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/lfkhFEN4ag",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 796
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Coronavirus disease (COVID-19)",
+                "description": "Latest update 13 May 2021 - WHO is continuously monitoring and responding to this pandemic. This Q&A will be updated as more is known about COVID-19, how it spreads and how it is affecting people worldwide. For more information, regularly check the WHO coronavirus pages. https://www.who.int/covid-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19"
+            }
+        ]
+    },
+    "id": "1234336621190729732",
+    "text": "@WHO For more information:\n\nhttps://t.co/lfkhFEN4ag",
+    "created_at": "2020-03-02T04:35:58.000Z",
+    "in_reply_to_user_id": "416836355"
+}

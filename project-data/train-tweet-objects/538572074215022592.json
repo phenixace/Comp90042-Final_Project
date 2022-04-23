@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-29T05:56:03.000Z",
+    "in_reply_to_user_id": "93879982",
+    "source": "Twitter for iPad",
+    "text": "@KeeganNYC ~ plz tell me this is not true?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KeeganNYC",
+                "id": "93879982"
+            }
+        ]
+    },
+    "id": "538572074215022592"
+}

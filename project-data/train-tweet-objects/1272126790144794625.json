@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-14T11:20:36.000Z",
+    "text": "This article intrigued me.  https://t.co/BzjprpNqXr  So, unless I have missed reading something important, the early release of lockdown is precisely what is going to put us into the worst of both worlds.",
+    "id": "1272126790144794625",
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/BzjprpNqXr",
+                "expanded_url": "https://www.theguardian.com/commentisfree/2020/jun/14/even-tories-increasingly-fear-they-have-inflicted-the-worst-of-all-worlds-on-britain",
+                "display_url": "theguardian.com/commentisfree/…"
+            }
+        ]
+    }
+}

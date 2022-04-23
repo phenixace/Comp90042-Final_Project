@@ -1,0 +1,17 @@
+{
+    "source": "Hootsuite",
+    "id": "352082539072077824",
+    "in_reply_to_user_id": "26527734",
+    "created_at": "2013-07-02T15:13:13.000Z",
+    "text": "@melissaegilbert That's really not funny.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "melissaegilbert",
+                "id": "4289475452"
+            }
+        ]
+    }
+}

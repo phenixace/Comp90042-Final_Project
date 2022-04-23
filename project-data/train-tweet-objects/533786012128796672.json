@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "28886934",
+    "created_at": "2014-11-16T00:57:57.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephanieRiou",
+                "id": "28886934"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 47,
+                "probability": 0.995,
+                "type": "Person",
+                "normalized_text": "Harry"
+            },
+            {
+                "start": 53,
+                "end": 57,
+                "probability": 0.9956,
+                "type": "Person",
+                "normalized_text": "Louis"
+            }
+        ]
+    },
+    "id": "533786012128796672",
+    "text": "@StephanieRiou Are their names going to be Harry and Louis? That would be incredible, don't you think?"
+}

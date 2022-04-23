@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 22,
+                "probability": 0.7348,
+                "type": "Person",
+                "normalized_text": "Eric Lawson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            },
+            {
+                "start": 132,
+                "end": 139,
+                "username": "Lauzin",
+                "id": "23498919"
+            }
+        ],
+        "urls": [
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/H0cWBZXzJf",
+                "expanded_url": "http://apne.ws/1jVmXNI",
+                "display_url": "apne.ws/1jVmXNI"
+            }
+        ]
+    },
+    "id": "427783690610282496",
+    "text": "“@AP: Actor Eric Lawson who portrayed the Marlboro man dies from chronic obstructive pulmonary disease: http://t.co/H0cWBZXzJf” RIP @Lauzin",
+    "created_at": "2014-01-27T12:42:34.000Z",
+    "in_reply_to_user_id": "51241574"
+}

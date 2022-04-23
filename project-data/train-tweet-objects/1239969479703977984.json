@@ -1,0 +1,48 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-17T17:38:56.000Z",
+    "id": "1239969479703977984",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "va_shiva",
+                "id": "364214133"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "MIT",
+                "id": "15460048"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 55,
+                "probability": 0.5531,
+                "type": "Other",
+                "normalized_text": "The Hot Zone"
+            },
+            {
+                "start": 147,
+                "end": 149,
+                "probability": 0.9978,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "urls": [
+            {
+                "start": 152,
+                "end": 175,
+                "url": "https://t.co/oVYae8OaRZ",
+                "expanded_url": "https://twitter.com/ddsoffice/status/1239969479703977984/photo/1",
+                "display_url": "pic.twitter.com/oVYae8OaRZ"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "12277922",
+    "text": "@va_shiva @MIT Also, urging people to read 'The Hot Zone' and to google ebola see wikipedia's re: history of how it was handled when it arrived in USA. https://t.co/oVYae8OaRZ"
+}

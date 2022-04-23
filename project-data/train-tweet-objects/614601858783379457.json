@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "id": "614601858783379457",
+    "created_at": "2015-06-27T01:11:16.000Z",
+    "in_reply_to_user_id": "1917731",
+    "text": "@thehill  white house, I M M O R A L ."
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 45,
+                "probability": 0.8642,
+                "type": "Place",
+                "normalized_text": "china"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T07:07:48.000Z",
+    "id": "1231838120359944193",
+    "text": "@WHO This kind of virus is dangerous for china people only, because it was made by human beings against other human beings...",
+    "in_reply_to_user_id": "14499829"
+}

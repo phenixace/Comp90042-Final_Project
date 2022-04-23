@@ -1,0 +1,61 @@
+{
+    "id": "1257603049616531457",
+    "text": "@jamesaknight Well, the pattern of each local epidemic since the first 2 in China, on to South Korea, Iran and Italy have all been very similar. I think it’s very safe to assume that a population which has had that level of exposure of a London or New York won’t have a “second wave”",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "jamesaknight",
+                "id": "21646341"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 76,
+                "end": 80,
+                "probability": 0.9986,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 89,
+                "end": 99,
+                "probability": 0.9371,
+                "type": "Place",
+                "normalized_text": "South Korea"
+            },
+            {
+                "start": 102,
+                "end": 105,
+                "probability": 0.952,
+                "type": "Place",
+                "normalized_text": "Iran"
+            },
+            {
+                "start": 111,
+                "end": 115,
+                "probability": 0.9974,
+                "type": "Place",
+                "normalized_text": "Italy"
+            },
+            {
+                "start": 238,
+                "end": 243,
+                "probability": 0.8942,
+                "type": "Place",
+                "normalized_text": "London"
+            },
+            {
+                "start": 248,
+                "end": 255,
+                "probability": 0.8696,
+                "type": "Place",
+                "normalized_text": "New York"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "21646341",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-05-05T09:28:26.000Z"
+}

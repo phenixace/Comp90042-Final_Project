@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/sfgiQinh16",
+                "expanded_url": "https://twitter.com/WilliamFPeters2/status/1250252302281134080/photo/1",
+                "display_url": "pic.twitter.com/sfgiQinh16"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "created_at": "2020-04-15T02:39:12.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for iPad",
+    "text": "@StephenAtHome @DrLaPook So how much frosting can u eat in one sitting😳🤷‍♂️😝 Asking for a friend..😇😜 https://t.co/sfgiQinh16",
+    "id": "1250252302281134080"
+}

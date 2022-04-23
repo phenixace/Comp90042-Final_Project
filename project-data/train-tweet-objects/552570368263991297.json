@@ -1,0 +1,24 @@
+{
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-06T21:00:16.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 73,
+                "end": 91,
+                "tag": "Goodandlovinghome"
+            }
+        ]
+    },
+    "id": "552570368263991297",
+    "source": "Twitter for Android",
+    "text": "@ABC I hope they find the pathetic owner's.  Sweet dog! He looks so sad. #Goodandlovinghome"
+}

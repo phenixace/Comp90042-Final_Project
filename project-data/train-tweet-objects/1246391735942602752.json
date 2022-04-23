@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 70,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "SpliphDude",
+                "id": "136737072"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "@SpliphDude No evidence that suggest it is vital to fight the #COVID19",
+    "created_at": "2020-04-04T10:58:41.000Z",
+    "id": "1246391735942602752",
+    "in_reply_to_user_id": "136737072"
+}

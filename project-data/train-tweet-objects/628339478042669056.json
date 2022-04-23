@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "probability": 0.983,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "628339478042669056",
+    "text": "@BuzzFeed And America claims it's losing its middle class…",
+    "created_at": "2015-08-03T22:59:40.000Z",
+    "in_reply_to_user_id": "5695632"
+}

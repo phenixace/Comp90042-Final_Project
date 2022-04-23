@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-15T11:30:45.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter Web App",
+    "text": "@StephenAtHome @DrLaPook Tuesday night was Hilarious!  Your team is doing great job producing an entertaining show on the fly.  Sort of like replacing an airplane engine in flight.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "id": "1250386071944388608"
+}

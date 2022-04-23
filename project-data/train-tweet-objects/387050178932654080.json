@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2013-10-07T03:02:08.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.9956,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.5058,
+                "type": "Person",
+                "normalized_text": "Amber"
+            },
+            {
+                "start": 62,
+                "end": 69,
+                "probability": 0.987,
+                "type": "Person",
+                "normalized_text": "Michelle"
+            }
+        ]
+    },
+    "id": "387050178932654080",
+    "text": "Obama has taken down Amber Alert website during shutdown, but Michelle's Let's Move site is still up. At least missing kids won't be thirsty"
+}

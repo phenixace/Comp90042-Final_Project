@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "16311797",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 70,
+                "end": 74,
+                "probability": 0.997,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "WSJPolitics",
+                "id": "16311797"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T10:55:33.000Z",
+    "text": "@WSJPolitics can't believe the SC justices are willing to do shit for Obama after scoffed at them a couple years back.",
+    "id": "614748898633064448"
+}

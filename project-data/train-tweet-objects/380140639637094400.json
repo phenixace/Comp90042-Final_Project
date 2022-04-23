@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/283o5QTllw",
+                "expanded_url": "http://eonli.ne/15B465P",
+                "display_url": "eonli.ne/15B465P"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "eonline",
+                "id": "725665248280236032"
+            },
+            {
+                "start": 112,
+                "end": 127,
+                "username": "mayra_elizabet",
+                "id": "814043738"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 35,
+                "probability": 0.7892,
+                "type": "Place",
+                "normalized_text": "Louisiana"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@eonline: Can twerking in Louisiana really get you a \"mandatory 30 days in jail\"?! http://t.co/283o5QTllw”lmao @mayra_elizabet 😂",
+    "created_at": "2013-09-18T01:26:05.000Z",
+    "id": "380140639637094400",
+    "in_reply_to_user_id": "2883841"
+}

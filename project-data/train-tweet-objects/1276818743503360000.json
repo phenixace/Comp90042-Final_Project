@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web App",
+    "id": "1276818743503360000",
+    "in_reply_to_user_id": "889387541853597696",
+    "created_at": "2020-06-27T10:04:45.000Z",
+    "text": "-at least declare Mains exam dates \n@TheOfficialSBI @rkumar1958 \nAnd sir I regularly check SBI Careers Page last 3 months \nPlease sir it's a humble request 🙏🏻🙏🏻😫😫Please declare SBI clerk pre result  please sir .........",
+    "entities": {
+        "mentions": [
+            {
+                "start": 36,
+                "end": 51,
+                "username": "TheOfficialSBI",
+                "id": "2251588934"
+            },
+            {
+                "start": 52,
+                "end": 63,
+                "username": "rkumar1958",
+                "id": "2539320626"
+            }
+        ]
+    }
+}

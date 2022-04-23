@@ -1,0 +1,37 @@
+{
+    "text": "More evidence of pre-symptomatic transmission of COVID19, which I think we must now regard as the reality we are facing. This paper estimates that 44% of transmission could occur 2-3 days before first symptoms. https://t.co/6mkH9AvtkL via @marcelsalathe #quarantineloophole 30/",
+    "source": "Twitter Web App",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 254,
+                "end": 273,
+                "tag": "quarantineloophole"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 239,
+                "end": 253,
+                "username": "marcelsalathe",
+                "id": "14177696"
+            }
+        ],
+        "urls": [
+            {
+                "start": 211,
+                "end": 234,
+                "url": "https://t.co/6mkH9AvtkL",
+                "expanded_url": "https://www.medrxiv.org/content/10.1101/2020.03.15.20036707v2",
+                "display_url": "medrxiv.org/content/10.110…",
+                "status": 200,
+                "title": "Temporal dynamics in viral shedding and transmissibility of COVID-19",
+                "description": "We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission. ### Competing Interest Statement The authors have declared no competing interest. ### Funding Statement This work was supported by Department of Science and Technology of Guangdong Province (Project No #2020B111108001) and a commissioned grant from the Health and Medical Research Fund from the Government of the Hong Kong Special Administrative Region. ### Author Declarations All relevant ethical guidelines have been followed; any necessary IRB and/",
+                "unwound_url": "https://www.medrxiv.org/content/10.1101/2020.03.15.20036707v2"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T12:31:26.000Z",
+    "in_reply_to_user_id": "788363167",
+    "id": "1240979261604888576"
+}

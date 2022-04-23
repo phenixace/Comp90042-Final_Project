@@ -1,0 +1,17 @@
+{
+    "id": "634472996455903232",
+    "created_at": "2015-08-20T21:12:04.000Z",
+    "text": "Elephants don't drown. @TheOnion",
+    "entities": {
+        "mentions": [
+            {
+                "start": 23,
+                "end": 32,
+                "username": "TheOnion",
+                "id": "14075928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14075928",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for Android",
+    "text": "@Bullitino @Callisto1947 you are what is wrong with the USA you probably belong to the KKK",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 24,
+                "username": "Callisto1947",
+                "id": "208083510"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 58,
+                "probability": 0.9463,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 87,
+                "end": 89,
+                "probability": 0.6651,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ]
+    },
+    "created_at": "2015-11-09T16:02:39.000Z",
+    "id": "663748542708584449",
+    "in_reply_to_user_id": "2998771683"
+}

@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/fo5VFez6OK",
+                "expanded_url": "http://reut.rs/19I9nLn",
+                "display_url": "reut.rs/19I9nLn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 12,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 70,
+                "end": 74,
+                "probability": 0.9857,
+                "type": "Place",
+                "normalized_text": "Japan"
+            },
+            {
+                "start": 87,
+                "end": 95,
+                "probability": 0.6206,
+                "type": "Place",
+                "normalized_text": "Fukushima"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "RT “@Reuters: Highly radioactive water is seeping into the ocean from Japan's crippled Fukushima nuclear plant http://t.co/fo5VFez6OK”",
+    "created_at": "2013-08-05T13:59:59.000Z",
+    "id": "364385298882375680",
+    "in_reply_to_user_id": "1652541"
+}

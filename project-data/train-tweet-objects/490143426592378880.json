@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-07-18T14:37:53.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 32,
+                "end": 54,
+                "url": "http://t.co/iPWeo32Mdg",
+                "expanded_url": "https://twitter.com/sertacdarcan/status/490143426592378880/photo/1",
+                "display_url": "pic.twitter.com/iPWeo32Mdg"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 5,
+                "end": 21,
+                "tag": "GazaUnderAttack"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag": "stop"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "490143426592378880",
+    "text": "@CNN #GazaUnderAttack ! #stop ! http://t.co/iPWeo32Mdg",
+    "in_reply_to_user_id": "759251"
+}

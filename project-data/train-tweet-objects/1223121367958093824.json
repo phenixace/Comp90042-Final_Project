@@ -1,0 +1,42 @@
+{
+    "id": "1223121367958093824",
+    "in_reply_to_user_id": "12104642",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 143,
+                "end": 147,
+                "probability": 0.9823,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "Coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 181,
+                "end": 204,
+                "url": "https://t.co/Jzt731yBLh",
+                "expanded_url": "https://twitter.com/oommen/status/1223121367958093824/photo/1",
+                "display_url": "pic.twitter.com/Jzt731yBLh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 76,
+                "end": 80,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "text": "#Coronavirus declared a public health emergency of international concern by @WHO. \n\nGlobal outbreak includes 98 cases in 18 countries, outside China. \n\ntips on how to stay healthy: https://t.co/Jzt731yBLh",
+    "created_at": "2020-01-31T05:50:33.000Z"
+}

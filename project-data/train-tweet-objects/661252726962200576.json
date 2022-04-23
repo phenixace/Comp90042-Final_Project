@@ -1,0 +1,23 @@
+{
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "RawStory",
+                "id": "16041234"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "newBreedIrons",
+                "id": "2903750502"
+            }
+        ]
+    },
+    "id": "661252726962200576",
+    "text": "@RawStory @newBreedIrons oooh the denials are gonna be good allll day long",
+    "created_at": "2015-11-02T18:45:10.000Z",
+    "in_reply_to_user_id": "16041234"
+}

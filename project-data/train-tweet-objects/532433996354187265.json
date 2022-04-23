@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-12T07:25:31.000Z",
+    "text": "@HuffingtonPost Sad to hear of this...RIP",
+    "in_reply_to_user_id": "14511951",
+    "id": "532433996354187265"
+}

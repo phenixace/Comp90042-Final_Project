@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "text": "@ABC Few social services,wealth disparity,and guns available everywhere -what can we expect from the desperate?",
+    "id": "672213067095142401",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T00:37:38.000Z"
+}

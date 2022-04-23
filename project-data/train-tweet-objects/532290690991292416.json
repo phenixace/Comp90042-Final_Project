@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 34,
+                "probability": 0.4372,
+                "type": "Person",
+                "normalized_text": "Sugarhill Gang"
+            },
+            {
+                "start": 38,
+                "end": 50,
+                "probability": 0.1928,
+                "type": "Other",
+                "normalized_text": "Big Bank Hank"
+            }
+        ],
+        "urls": [
+            {
+                "start": 63,
+                "end": 85,
+                "url": "http://t.co/eL2Mk2xRPa",
+                "expanded_url": "http://huff.to/1u7KodY",
+                "display_url": "huff.to/1u7KodY"
+            },
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/X7SB8eGpGK",
+                "expanded_url": "https://twitter.com/HuffingtonPost/status/532275347413544961/photo/1",
+                "display_url": "pic.twitter.com/X7SB8eGpGK"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-11T21:56:04.000Z",
+    "text": "No! @HuffingtonPost: Sugarhill Gang's Big Bank Hank dies at 57 http://t.co/eL2Mk2xRPa http://t.co/X7SB8eGpGK”",
+    "in_reply_to_user_id": "14511951",
+    "id": "532290690991292416"
+}

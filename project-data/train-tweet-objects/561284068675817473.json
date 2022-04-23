@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-30T22:05:24.000Z",
+    "id": "561284068675817473",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 128,
+                "end": 138,
+                "probability": 0.7502,
+                "type": "Place",
+                "normalized_text": "Middle East"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1379288282",
+    "text": "@peddoc63 @LodiSilverado @AmyMek Tell ya what, Achmed. Ya want to live under sharia law voluntarily, tarry your ass back to the Middle East!"
+}

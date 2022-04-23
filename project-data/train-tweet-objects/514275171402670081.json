@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-23T04:48:50.000Z",
+    "text": "@DailyMail What kind of doctor would do that?",
+    "id": "514275171402670081",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

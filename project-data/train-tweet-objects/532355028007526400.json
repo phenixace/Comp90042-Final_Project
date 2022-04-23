@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "532355028007526400",
+    "in_reply_to_user_id": "14787713",
+    "created_at": "2014-11-12T02:11:44.000Z",
+    "text": "@FOX29philly 😂😂😂😂😂😂😂",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "FOX29philly",
+                "id": "14787713"
+            }
+        ]
+    }
+}

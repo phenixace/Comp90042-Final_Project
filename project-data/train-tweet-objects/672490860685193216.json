@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "ChuckNellis",
+                "id": "315878798"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "715044396",
+    "created_at": "2015-12-03T19:01:30.000Z",
+    "id": "672490860685193216",
+    "text": "@Rockprincess818 @ChuckNellis he's a Muslim"
+}

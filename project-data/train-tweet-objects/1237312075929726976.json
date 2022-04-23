@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 90,
+                "end": 94,
+                "probability": 0.9486,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 97,
+                "end": 101,
+                "probability": 0.4288,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "id": "1237312075929726976",
+    "created_at": "2020-03-10T09:39:21.000Z",
+    "in_reply_to_user_id": "478343699",
+    "text": "How does COVID-19 spread?\n\nInitially, experts believe the virus started out in animals in Wuhan, China; and was then transmitted to humans. The current version of the SARS-CoV-2 spreads from person-to-person, similar to the flu. This usually happens when a sick person coughs or"
+}

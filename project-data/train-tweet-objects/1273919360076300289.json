@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 69,
+                "probability": 0.9792,
+                "type": "Person",
+                "normalized_text": "Johnson"
+            },
+            {
+                "start": 192,
+                "end": 198,
+                "probability": 0.7813,
+                "type": "Person",
+                "normalized_text": "Hancock"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TheBoyo10",
+                "id": "1176122509026050049"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "HarryRashford1",
+                "id": "1226567535706935296"
+            }
+        ]
+    },
+    "text": "@TheBoyo10 @HarryRashford1 Herd immunity was always the plan.  Johnson told us so loud and clear.  If 65,000 died along the way, not a problem apparently.  “A big moment for the country” says Hancock.  Couldn’t make this up",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-19T10:03:38.000Z",
+    "in_reply_to_user_id": "1176122509026050049",
+    "id": "1273919360076300289"
+}

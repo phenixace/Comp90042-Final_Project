@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "14940354",
+    "id": "676433136788590592",
+    "created_at": "2015-12-14T16:06:41.000Z",
+    "source": "Plume for Android",
+    "text": ".@nycjim https://t.co/xv2d4fO2aj",
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/xv2d4fO2aj",
+                "expanded_url": "https://twitter.com/jennrubenstein/status/676433136788590592/photo/1",
+                "display_url": "pic.twitter.com/xv2d4fO2aj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Janetter",
+    "entities": {
+        "mentions": [
+            {
+                "start": 30,
+                "end": 39,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/g1mIJz8oEv",
+                "expanded_url": "http://www.eater.com/2015/8/3/9090797/whole-foods-asparagus-water-wtf",
+                "display_url": "eater.com/2015/8/3/90907…"
+            }
+        ]
+    },
+    "id": "628416654540574720",
+    "text": "ワロタｗ whole foodsだからこそ成せる技ｗ RT @BuzzFeed Whole Foods' $6 asparagus water is just water with three stalks of asparagus http://t.co/g1mIJz8oEv",
+    "created_at": "2015-08-04T04:06:20.000Z",
+    "in_reply_to_user_id": "5695632"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-25T10:06:41.000Z",
+    "in_reply_to_user_id": "788363167",
+    "source": "Twitter for Android",
+    "text": "@NAChristakis @zwinst Yes, IFR of 0.26%.\n\nNone of the newspaper articles link to the study so I can't see for myself, but tested subjects were:\n- 1,259 adults\n- 214 children (&lt;18)\n- 479 households\n\nInterestingly, only 27% of tested children have antibodies (42.4% overall).",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "NAChristakis",
+                "id": "788363167"
+            },
+            {
+                "start": 14,
+                "end": 21,
+                "username": "zwinst",
+                "id": "70502914"
+            }
+        ]
+    },
+    "id": "1276094454563328003"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1237704013065400321",
+    "in_reply_to_user_id": "1201523800094867456",
+    "source": "Twitter Web App",
+    "text": "@kimseokjinnism Correct https://t.co/VunKgwVq6t",
+    "created_at": "2020-03-11T11:36:46.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 24,
+                "end": 47,
+                "url": "https://t.co/VunKgwVq6t",
+                "expanded_url": "https://mobile.twitter.com/search?q=%40CholorecordsAja%20tablets%20&src=typed_query",
+                "display_url": "mobile.twitter.com/search?q=%40Ch…",
+                "status": 200,
+                "title": "@CholorecordsAja tablets - Twitter Search",
+                "description": "The latest Tweets on @CholorecordsAja tablets . Read what people are saying and join the conversation.",
+                "unwound_url": "https://mobile.twitter.com/search?q=%40CholorecordsAja%20tablets%20&src=typed_query"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "kimseokjinnism",
+                "id": "3242322229"
+            }
+        ]
+    }
+}

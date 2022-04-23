@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "1363785974",
+    "entities": {
+        "urls": [
+            {
+                "start": 200,
+                "end": 223,
+                "url": "https://t.co/sZ6EC1iXiU",
+                "expanded_url": "https://twitter.com/gummibear737/status/1276485687752175619?s=20",
+                "display_url": "twitter.com/gummibear737/s…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "EauxSnap",
+                "id": "1363785974"
+            }
+        ]
+    },
+    "created_at": "2020-06-28T17:45:56.000Z",
+    "id": "1277297192575909890",
+    "text": "@EauxSnap I haven’t checked but my suspicion would be no because I think the virus has already burned its way through the northeast. I don’t see it coming back.\n\nI cover that here if you’re interest\n\nhttps://t.co/sZ6EC1iXiU"
+}

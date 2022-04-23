@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "LeslieMarshall",
+                "id": "26350255"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "text": "@ABC @LeslieMarshall only since Obama was elected. Is her trying to generate a situation so he can use Executive Action to control guns?",
+    "id": "672177718260314112",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-02T22:17:11.000Z"
+}

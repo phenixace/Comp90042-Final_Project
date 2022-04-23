@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            },
+            {
+                "start": 6,
+                "end": 15,
+                "username": "PressSec",
+                "id": "1349170292564905988"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 52,
+                "probability": 0.8823,
+                "type": "Organization",
+                "normalized_text": "Republican Party"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@cnni @PressSec @realDonaldTrump The Republican Party doesn't have my permission to broker my vote. My person drops I decide who gets it.",
+    "id": "676056493448384512",
+    "created_at": "2015-12-13T15:10:03.000Z",
+    "in_reply_to_user_id": "2097571"
+}

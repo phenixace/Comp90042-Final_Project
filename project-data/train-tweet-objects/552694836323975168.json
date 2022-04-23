@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-07T05:14:52.000Z",
+    "text": "@Visit_CostaRica @acostaboyy",
+    "id": "552694836323975168",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Visit_CostaRica",
+                "id": "171667875"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "acostaboyy",
+                "id": "741592836"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "171667875"
+}

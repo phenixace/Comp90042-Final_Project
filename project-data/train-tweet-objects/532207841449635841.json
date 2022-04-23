@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-11-11T16:26:52.000Z",
+    "in_reply_to_user_id": "50745212",
+    "source": "Twitter for iPhone",
+    "text": "@jamiesue21 @andrewgorton24 @Eater I'm old. What's a Fleek?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jamiesue21",
+                "id": "50745212"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "andrewgorton24",
+                "id": "181055645"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "id": "532207841449635841"
+}

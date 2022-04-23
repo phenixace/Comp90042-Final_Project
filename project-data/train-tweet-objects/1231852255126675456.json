@@ -1,0 +1,70 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 5,
+                "end": 28,
+                "url": "https://t.co/ZOvGXRPRCJ",
+                "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/summary.html",
+                "display_url": "cdc.gov/coronavirus/20…",
+                "status": 200,
+                "unwound_url": "https://www.cdc.gov/coronavirus/2019-ncov/summary.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 88,
+                "tag": "Pandemic"
+            },
+            {
+                "start": 94,
+                "end": 98,
+                "tag": "USA"
+            },
+            {
+                "start": 99,
+                "end": 111,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 112,
+                "end": 129,
+                "tag": "ChinaCoronaVirus"
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "tag": "COVID_19"
+            },
+            {
+                "start": 140,
+                "end": 146,
+                "tag": "China"
+            },
+            {
+                "start": 147,
+                "end": 153,
+                "tag": "Wuhan"
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "tag": "CDC"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T08:03:58.000Z",
+    "id": "1231852255126675456",
+    "text": "@WHO https://t.co/ZOvGXRPRCJ \n...” it’s very likely that that COVID-19 becomes #Pandemic “... #USA #Coronavirus #ChinaCoronaVirus #COVID_19 #China #Wuhan #CDC",
+    "in_reply_to_user_id": "14499829"
+}

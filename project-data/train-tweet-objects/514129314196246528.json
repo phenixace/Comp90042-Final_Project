@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-22T19:09:15.000Z",
+    "text": "@DailyMail A total Freak-show!!",
+    "id": "514129314196246528",
+    "in_reply_to_user_id": "380285402",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

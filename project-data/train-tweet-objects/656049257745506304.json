@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "428333",
+    "created_at": "2015-10-19T10:08:26.000Z",
+    "id": "656049257745506304",
+    "text": ".@cnnbrk Maybe it's because SHE DIDN'T WIN THE DEBATE. Stop lying to yourselves."
+}

@@ -1,0 +1,18 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-12T15:02:51.000Z",
+    "id": "1271457946657046529",
+    "text": "significantly steeper as compared to ‘no interventions’ curve. Surprisingly, here the slope is even shallower than the ‘maximum control’ slope. This suggests there is a feedback present, which decelerates the spread, in the model used to evaluate these strategic options. https://t.co/l2nlT9xuxM",
+    "entities": {
+        "urls": [
+            {
+                "start": 272,
+                "end": 295,
+                "url": "https://t.co/l2nlT9xuxM",
+                "expanded_url": "https://twitter.com/JPosthumadeBoer/status/1271457946657046529/photo/1",
+                "display_url": "pic.twitter.com/l2nlT9xuxM"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1259223051742449665"
+}

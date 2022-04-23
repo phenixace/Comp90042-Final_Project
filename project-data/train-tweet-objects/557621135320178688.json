@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-01-20T19:30:13.000Z",
+    "text": "Arenal is one of 6 spectacular volcanoes located in #CostaRica. http://t.co/9VysA69Mpe",
+    "id": "557621135320178688",
+    "source": "Twitter Ads",
+    "entities": {
+        "urls": [
+            {
+                "start": 64,
+                "end": 86,
+                "url": "http://t.co/9VysA69Mpe",
+                "expanded_url": "https://twitter.com/Visit_CostaRica/status/557621135320178688/photo/1",
+                "display_url": "pic.twitter.com/9VysA69Mpe"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 62,
+                "tag": "CostaRica"
+            }
+        ]
+    }
+}

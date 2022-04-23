@@ -1,0 +1,52 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 205,
+                "end": 211,
+                "probability": 0.9006,
+                "type": "Organization",
+                "normalized_text": "Rockets"
+            },
+            {
+                "start": 226,
+                "end": 232,
+                "probability": 0.9756,
+                "type": "Person",
+                "normalized_text": "Barkley"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            },
+            {
+                "start": 52,
+                "end": 57,
+                "username": "SHAQ",
+                "id": "17461978"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 249,
+                "end": 260,
+                "tag": "LoveYaShaq"
+            }
+        ]
+    },
+    "created_at": "2020-04-16T13:37:21.000Z",
+    "in_reply_to_user_id": "16303106",
+    "source": "Twitter for Android",
+    "text": "@StephenAtHome @DrLaPook More importantly, what was @SHAQ looking at up and to his right...over and over during that interview?\nA clock?\nAnother samurai sword?\nESPN Highlights of the 11/10/99 game vs. the Rockets where he and Barkley got ejected? 😉\n#LoveYaShaq",
+    "id": "1250780318853992454"
+}

@@ -1,0 +1,59 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 66,
+                "tag": "WuhanCoronavirus"
+            },
+            {
+                "start": 89,
+                "end": 104,
+                "tag": "dissolutionWHO"
+            },
+            {
+                "start": 105,
+                "end": 114,
+                "tag": "中國製造生化武器"
+            },
+            {
+                "start": 115,
+                "end": 132,
+                "tag": "coronaviruschina"
+            },
+            {
+                "start": 134,
+                "end": 154,
+                "tag": "CoronavirusOutbreak"
+            },
+            {
+                "start": 155,
+                "end": 174,
+                "tag": "Ethiopiawillbedead"
+            },
+            {
+                "start": 175,
+                "end": 179,
+                "tag": "習維尼"
+            },
+            {
+                "start": 180,
+                "end": 185,
+                "tag": "中國倒台"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T10:45:31.000Z",
+    "id": "1231892906543206400",
+    "text": "@WHO Q: What can we do to protect the world from #WuhanCoronavirus?\nA: Dissolution WHO.\n\n#dissolutionWHO #中國製造生化武器 #coronaviruschina  #CoronavirusOutbreak #Ethiopiawillbedead\n#習維尼 #中國倒台",
+    "in_reply_to_user_id": "14499829"
+}

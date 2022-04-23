@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-01T14:06:05.000Z",
+    "id": "1245351735473864707",
+    "in_reply_to_user_id": "1034763184211742720",
+    "entities": {
+        "urls": [
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/P5VZcVaUIR",
+                "expanded_url": "https://twitter.com/TGIDistri/status/1245351735473864707/photo/1",
+                "display_url": "pic.twitter.com/P5VZcVaUIR"
+            }
+        ]
+    },
+    "text": "What to do if an employee becomes unwell and show symptoms or believe they have been exposed to COVID-19? https://t.co/P5VZcVaUIR"
+}

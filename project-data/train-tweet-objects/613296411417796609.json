@@ -1,0 +1,36 @@
+{
+    "in_reply_to_user_id": "10774652",
+    "created_at": "2015-06-23T10:43:53.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theblaze",
+                "id": "10774652"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "SonofLiberty357",
+                "id": "72882689"
+            },
+            {
+                "start": 27,
+                "end": 42,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 67,
+                "end": 76,
+                "tag": "Ferguson"
+            }
+        ]
+    },
+    "id": "613296411417796609",
+    "source": "Twitter for iPhone",
+    "text": "@theblaze @SonofLiberty357 @HillaryClinton But she is talking at a #Ferguson African-American audience!"
+}

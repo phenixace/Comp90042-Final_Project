@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-09-13T22:50:01.000Z",
+    "text": "@FoxNews why do these other people insist on going over there is stupid. Prayers for the family.",
+    "in_reply_to_user_id": "1367531",
+    "id": "510923380229701633"
+}

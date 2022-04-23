@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Zonacats1",
+                "id": "478908867"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "lindetrain",
+                "id": "36799211"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 110,
+                "end": 117,
+                "probability": 0.5778,
+                "type": "Place",
+                "normalized_text": "Sin City"
+            }
+        ]
+    },
+    "text": "@Zonacats1 @lindetrain @theScore at least one major sports league has the balls to put a professional team in Sin City",
+    "id": "504425664741924864",
+    "in_reply_to_user_id": "478908867",
+    "created_at": "2014-08-27T00:30:24.000Z"
+}

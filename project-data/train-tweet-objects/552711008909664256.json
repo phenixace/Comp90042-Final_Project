@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 23,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552711008909664256",
+    "text": "@notqueuebert @BuzzFeed who would abandon such a beautiful dog? Just look at that face.",
+    "created_at": "2015-01-07T06:19:08.000Z",
+    "in_reply_to_user_id": "43818727"
+}

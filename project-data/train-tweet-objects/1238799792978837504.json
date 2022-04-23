@@ -1,0 +1,37 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-14T12:11:01.000Z",
+    "id": "1238799792978837504",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 240,
+                "end": 252,
+                "tag": "COVID19FAQs"
+            },
+            {
+                "start": 253,
+                "end": 261,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 262,
+                "end": 285,
+                "url": "https://t.co/3wmZwqL979",
+                "expanded_url": "https://twitter.com/MX3Supplements/status/1238799792978837504/photo/1",
+                "display_url": "pic.twitter.com/3wmZwqL979"
+            },
+            {
+                "start": 262,
+                "end": 285,
+                "url": "https://t.co/3wmZwqL979",
+                "expanded_url": "https://twitter.com/MX3Supplements/status/1238799792978837504/photo/1",
+                "display_url": "pic.twitter.com/3wmZwqL979"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "582695004",
+    "text": "🔍Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness.\n🔍People with fever, cough and difficulty breathing should seek medical attention. \n\n#COVID19FAQs #COVID19 https://t.co/3wmZwqL979"
+}

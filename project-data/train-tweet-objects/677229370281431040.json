@@ -1,0 +1,17 @@
+{
+    "id": "677229370281431040",
+    "created_at": "2015-12-16T20:50:38.000Z",
+    "text": "@Gotham3 LOL!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "126903716",
+    "source": "TweetDeck"
+}

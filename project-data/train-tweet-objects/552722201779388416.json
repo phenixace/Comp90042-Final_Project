@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "KayBurley",
+                "id": "1299769218"
+            }
+        ]
+    },
+    "id": "552722201779388416",
+    "text": "@BuzzFeed @KayBurley - What is wrong with people? He is gorgeous, have RT'd, hope he finds a better home.",
+    "created_at": "2015-01-07T07:03:36.000Z",
+    "in_reply_to_user_id": "5695632"
+}

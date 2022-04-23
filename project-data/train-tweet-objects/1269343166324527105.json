@@ -1,0 +1,56 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "DeSangee",
+                "id": "2591480268"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "104Assam",
+                "id": "1261265852315230208"
+            },
+            {
+                "start": 20,
+                "end": 30,
+                "username": "nhm_assam",
+                "id": "926126009954398208"
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "username": "himantabiswa",
+                "id": "131188226"
+            },
+            {
+                "start": 45,
+                "end": 61,
+                "username": "Pijush_hazarika",
+                "id": "136983808"
+            },
+            {
+                "start": 62,
+                "end": 71,
+                "username": "104Assam",
+                "id": "1261265852315230208"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 97,
+                "end": 107,
+                "probability": 0.9045,
+                "type": "Person",
+                "normalized_text": "Ms Sangeeta"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2591480268",
+    "created_at": "2020-06-06T18:59:28.000Z",
+    "text": "@DeSangee @104Assam @nhm_assam @himantabiswa @Pijush_hazarika @104Assam please get in touch with Ms Sangeeta and revert regarding the call being referred to here.",
+    "id": "1269343166324527105",
+    "source": "Twitter for iPhone"
+}

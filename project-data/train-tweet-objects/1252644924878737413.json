@@ -1,0 +1,17 @@
+{
+    "text": "@WeatherBug This is meant sarcastically, right? Please tell me this is satire. 🤦‍♀️",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "WeatherBug",
+                "id": "35761403"
+            }
+        ]
+    },
+    "created_at": "2020-04-21T17:06:37.000Z",
+    "in_reply_to_user_id": "35761403",
+    "id": "1252644924878737413"
+}

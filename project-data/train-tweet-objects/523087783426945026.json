@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 49,
+                "probability": 0.4604,
+                "type": "Place",
+                "normalized_text": "South American Rainforest"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/NSLpmEcm6X",
+                "expanded_url": "http://feedly.com/e/jW8UCUhV",
+                "display_url": "feedly.com/e/jW8UCUhV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "joerogan",
+                "id": "18208354"
+            },
+            {
+                "start": 129,
+                "end": 139,
+                "username": "manda0x91",
+                "id": "66389265"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-17T12:27:00.000Z",
+    "id": "523087783426945026",
+    "text": "“@joerogan: Man Walks in South American Rainforest at Night, Sees Spider the Size of a Small Puppy  http://t.co/NSLpmEcm6X” nope @manda0x91",
+    "in_reply_to_user_id": "18208354"
+}

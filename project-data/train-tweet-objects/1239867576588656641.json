@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17T10:54:00.000Z",
+    "text": "@MysticIntel101 What about gaumutra ?",
+    "id": "1239867576588656641",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MysticIntel101",
+                "id": "1080539466715095040"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1080539466715095040"
+}

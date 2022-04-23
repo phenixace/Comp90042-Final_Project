@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-30T22:12:56.000Z",
+    "id": "561285964317073408",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 95,
+                "end": 113,
+                "probability": 0.6883,
+                "type": "Person",
+                "normalized_text": "Santa Benji Mr. Fud"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1379288282",
+    "text": "@peddoc63 @LodiSilverado @AmyMek All I see is 4 Cut throat Bastards F your SHARIA law 4 Pigs!! Santa Benji Mr. Fud and the stupid WHITE guy"
+}

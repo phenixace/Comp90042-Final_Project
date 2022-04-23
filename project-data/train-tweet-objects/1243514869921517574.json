@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "NYCMayor",
+                "id": "19834403"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "elonmusk",
+                "id": "44196397"
+            }
+        ],
+        "urls": [
+            {
+                "start": 156,
+                "end": 179,
+                "url": "https://t.co/iGTWQKeDSn",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…"
+            }
+        ]
+    },
+    "created_at": "2020-03-27T12:27:03.000Z",
+    "text": "@NYCMayor @elonmusk Can CoVID-19 be caught from a person who has no symptoms?\nYES! Read this from WHO. Wear a mask! Everyone should! WE PROTECT EACH OTHER  https://t.co/iGTWQKeDSn",
+    "id": "1243514869921517574",
+    "in_reply_to_user_id": "19834403",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 34,
+                "probability": 0.9846,
+                "type": "Place",
+                "normalized_text": "California"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "672829636750024704",
+    "created_at": "2015-12-04T17:27:40.000Z",
+    "in_reply_to_user_id": "109065990",
+    "text": "@RealAlexJones Well, did California try gun control? Surely it must have helped. Those \"gun free zone\" signs are pretty convincing"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "532320477511827456",
+    "in_reply_to_user_id": "14787713",
+    "created_at": "2014-11-11T23:54:26.000Z",
+    "text": "@FOX29philly there's nothing wrong with the staff speaking properly. Not sure how this is news worthy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "FOX29philly",
+                "id": "14787713"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-17T08:21:10.000Z",
+    "text": "@MysticIntel101 dear mystic, if anti biotics are not effective and there is no vaccine and cure for convid19, whats the point of taking patients to hospitals of pakistan.   patients may recover at home but will definitely die in govt hospitals with some other disease or wrong injections",
+    "id": "1239829113122230272",
+    "entities": {
+        "annotations": [
+            {
+                "start": 161,
+                "end": 168,
+                "probability": 0.8817,
+                "type": "Place",
+                "normalized_text": "pakistan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MysticIntel101",
+                "id": "1080539466715095040"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1080539466715095040"
+}

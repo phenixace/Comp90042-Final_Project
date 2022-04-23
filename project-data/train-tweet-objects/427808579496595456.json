@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "id": "427808579496595456",
+    "text": "@AP The world is stunned. (...and by \"stunned\" I mean \"not at all surprised.\")",
+    "created_at": "2014-01-27T14:21:28.000Z",
+    "in_reply_to_user_id": "51241574"
+}

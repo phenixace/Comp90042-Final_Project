@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-20T12:42:54.000Z",
+    "id": "524178946762760192",
+    "text": "@al_friday @TheIndyPeople @Independent thank god",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "al_friday",
+                "id": "1184354939973226496"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "TheIndyPeople",
+                "id": "239825437"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "40944437"
+}

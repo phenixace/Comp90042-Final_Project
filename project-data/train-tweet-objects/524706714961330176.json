@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 58,
+                "end": 74,
+                "probability": 0.6633,
+                "type": "Person",
+                "normalized_text": "Goliath Birdeater"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/M7mMI8ENMt",
+                "expanded_url": "http://eonli.ne/1tb7Bv2",
+                "display_url": "eonli.ne/1tb7Bv2"
+            },
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/xFDBgN6lcl",
+                "expanded_url": "https://twitter.com/eonline/status/524699123971534848/photo/1",
+                "display_url": "pic.twitter.com/xFDBgN6lcl"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ]
+    },
+    "created_at": "2014-10-21T23:40:04.000Z",
+    "in_reply_to_user_id": "2883841",
+    "source": "Twitter for iPhone",
+    "text": "“@eonline: We only have one thing to say about that giant Goliath Birdeater spider: http://t.co/M7mMI8ENMt http://t.co/xFDBgN6lcl” 😭😭😭😭😭",
+    "id": "524706714961330176"
+}

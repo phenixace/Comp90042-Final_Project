@@ -1,0 +1,24 @@
+{
+    "id": "525011666472566784",
+    "in_reply_to_user_id": "24000965",
+    "source": "Twitter for iPhone",
+    "text": "@CBCTheNational my utmost gratitude and thanks to #KevinVickers -Hero hero hero as is the young soldier who lost his life. Prayers for him",
+    "created_at": "2014-10-22T19:51:50.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 63,
+                "tag": "KevinVickers"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "CBCTheNational",
+                "id": "24000965"
+            }
+        ]
+    }
+}

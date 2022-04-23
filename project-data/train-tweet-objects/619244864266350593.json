@@ -1,0 +1,17 @@
+{
+    "id": "619244864266350593",
+    "text": "@CloydRivers We learn from the changing world around us and reevaluate bigoted opinions. Hell yeah! Merica. 👍",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CloydRivers",
+                "id": "466645191"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": "466645191",
+    "created_at": "2015-07-09T20:40:55.000Z"
+}

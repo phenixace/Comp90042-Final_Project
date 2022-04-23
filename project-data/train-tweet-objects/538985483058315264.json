@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-30T09:18:47.000Z",
+    "source": "Twitter Web Client",
+    "id": "538985483058315264",
+    "text": "@AbbyMartin @senorchompers One thing to not charge him... But to financially reward him for this is insane!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "AbbyMartin",
+                "id": "24258355"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "senorchompers",
+                "id": "1596679669"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "24258355"
+}

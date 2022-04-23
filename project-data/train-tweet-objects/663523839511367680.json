@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 40,
+                "end": 63,
+                "url": "https://t.co/vvtSax8Pc3",
+                "expanded_url": "https://twitter.com/Levi17twit/status/663523839511367680/photo/1",
+                "display_url": "pic.twitter.com/vvtSax8Pc3"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@albertbbbalbert @Babbsgirl2 @Bullitino https://t.co/vvtSax8Pc3",
+    "created_at": "2015-11-09T01:09:45.000Z",
+    "id": "663523839511367680",
+    "in_reply_to_user_id": "401389464"
+}

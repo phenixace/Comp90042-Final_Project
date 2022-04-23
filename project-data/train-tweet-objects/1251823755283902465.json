@@ -1,0 +1,17 @@
+{
+    "text": "@Fraslin Bonjour. Une question que je me suis posée cette nuit en me battant avec un moustique (après quelques heures j'ai gagné) : est-ce possible qu'ils transmettent le coronavirus ? J'ai cru entendre que ça pourrait être peut-être une maladie du sang ? Merci.",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Fraslin",
+                "id": "42358454"
+            }
+        ]
+    },
+    "id": "1251823755283902465",
+    "created_at": "2020-04-19T10:43:35.000Z",
+    "in_reply_to_user_id": "42358454"
+}

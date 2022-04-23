@@ -1,0 +1,32 @@
+{
+    "text": "@griffwitte @washingtonpost Matthew 25:35.",
+    "id": "640486304963280896",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "griffwitte",
+                "id": "166002047"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.5498,
+                "type": "Person",
+                "normalized_text": "Matthew"
+            }
+        ]
+    },
+    "created_at": "2015-09-06T11:26:49.000Z",
+    "in_reply_to_user_id": "166002047"
+}

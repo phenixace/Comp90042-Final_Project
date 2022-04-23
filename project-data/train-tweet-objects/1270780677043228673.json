@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 188,
+                "end": 210,
+                "probability": 0.5934,
+                "type": "Organization",
+                "normalized_text": "Francis Crick Institute"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "869617806",
+    "created_at": "2020-06-10T18:11:38.000Z",
+    "id": "1270780677043228673",
+    "source": "Twitter Web App",
+    "text": "Global shortages make procurement a dog-eat-dog world. Related pressures also meant that testing restrictions were in place. New programmes needed to be developed: lighthouse labs and the Francis Crick Institute are two great examples."
+}

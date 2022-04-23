@@ -1,0 +1,32 @@
+{
+    "id": "560918212968058882",
+    "text": "@Patriotic_Me @gentlemanirish in their beliefs women are second class citizens.  Children just some how appeared from Allah.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Patriotic_Me",
+                "id": "35216399"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "gentlemanirish",
+                "id": "159447476"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 118,
+                "end": 122,
+                "probability": 0.9114,
+                "type": "Other",
+                "normalized_text": "Allah"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "35216399",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-29T21:51:37.000Z"
+}

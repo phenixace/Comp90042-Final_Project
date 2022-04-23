@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T12:06:32.000Z",
+    "id": "1231913295638138880",
+    "text": "@WHO The virus can be transferred thru droplets. It can be transmitted through aerosols, if you’re in the same room as some1 &amp; they are breathing the same air, you can get the virus (masks &amp; eyewear are key). It can be transmitted through urine &amp; faeces - don’t use public toilets.",
+    "in_reply_to_user_id": "14499829"
+}

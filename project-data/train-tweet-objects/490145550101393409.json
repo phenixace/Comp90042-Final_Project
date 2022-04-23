@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-07-18T14:46:20.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 126,
+                "end": 131,
+                "tag": "MH17"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "490145550101393409",
+    "text": "@CNN Have investigations as rebels did not confirm missiles was fired by them neither Russian forces yet took responsibility. #MH17",
+    "in_reply_to_user_id": "759251"
+}

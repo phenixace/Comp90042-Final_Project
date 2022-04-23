@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 25,
+                "probability": 0.7569,
+                "type": "Person",
+                "normalized_text": "Pope"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-12-13T02:15:08.000Z",
+    "text": "@NBCNews Nice. If the Pope was a CAT...it would *eat* cardinals. Catholic church upper echelon would decline in number, rather fast.",
+    "id": "543589909421125632"
+}

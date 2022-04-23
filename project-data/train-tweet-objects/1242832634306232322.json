@@ -1,0 +1,33 @@
+{
+    "in_reply_to_user_id": "1052085764480208896",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 108,
+                "end": 111,
+                "probability": 0.4883,
+                "type": "Organization",
+                "normalized_text": "SARS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 223,
+                "end": 227,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 59,
+                "end": 67,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "created_at": "2020-03-25T15:16:05.000Z",
+    "text": "Is COVID-19 the same as SARS?*\n\nNo. \"The virus that causes #COVID19 and the one that caused the outbreak of SARS in 2003 are related to each other genetically, but the diseases they cause are quite different.\" According to @WHO",
+    "id": "1242832634306232322"
+}

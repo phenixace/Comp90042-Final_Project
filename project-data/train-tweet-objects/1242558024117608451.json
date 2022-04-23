@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "84678363",
+    "id": "1242558024117608451",
+    "created_at": "2020-03-24T21:04:53.000Z",
+    "source": "Twitter for Android",
+    "text": "@TNDeptofHealth Can we band travelers coming here from the HOT SPOTS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TNDeptofHealth",
+                "id": "84678363"
+            }
+        ]
+    }
+}

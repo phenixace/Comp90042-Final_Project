@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "thomasfrench28",
+                "id": "727857460648632320"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 40,
+                "probability": 0.9865,
+                "type": "Person",
+                "normalized_text": "Thomas"
+            }
+        ]
+    },
+    "created_at": "2020-02-24T07:12:39.000Z",
+    "id": "1231839340021587968",
+    "text": "@thomasfrench28 @WHO And listen to Thomas, he knows.",
+    "in_reply_to_user_id": "727857460648632320"
+}

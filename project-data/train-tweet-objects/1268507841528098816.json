@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 4,
+                "end": 5,
+                "probability": 0.3585,
+                "type": "Place",
+                "normalized_text": "DC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 63,
+                "end": 71,
+                "username": "Vote4DC",
+                "id": "133819524"
+            }
+        ]
+    },
+    "text": "Any DC folks know when we can expect updated (and/or official) @Vote4DC  results from Tuesday's election? Looks like the tally hasn't been updated since 2 AM yesterday.",
+    "created_at": "2020-06-04T11:40:11.000Z",
+    "id": "1268507841528098816"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "1276779163437993986",
+    "text": "@Daleepdehal @s_daybyday the best of the best. Or also maybe the ones which are not too much affected by general market. Eg some tech company almost certainly will be, while some small biotech/startup waiting for some crucial event in its development might be not.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Daleepdehal",
+                "id": "529791133"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "782230026292981761",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-27T07:27:28.000Z"
+}

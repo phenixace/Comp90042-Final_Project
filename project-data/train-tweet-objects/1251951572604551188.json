@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 23,
+                "probability": 0.572,
+                "type": "Place",
+                "normalized_text": "Colorado"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1052828588666318849",
+    "id": "1251951572604551188",
+    "created_at": "2020-04-19T19:11:29.000Z",
+    "text": "@real_champion_ Colorado Videos for 19 year olds..."
+}

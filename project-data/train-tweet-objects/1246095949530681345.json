@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1246095949530681345",
+    "in_reply_to_user_id": "566757131",
+    "created_at": "2020-04-03T15:23:20.000Z",
+    "text": "@oxyjeeeeeen HAHAHAHAHAHAHA ano ba binabasa nya? Fake news???? Sabagay..... 😂",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "oxyjeeeeeen",
+                "id": "566757131"
+            }
+        ]
+    }
+}

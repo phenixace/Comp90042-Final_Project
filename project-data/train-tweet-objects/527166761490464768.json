@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 65,
+                "probability": 0.977,
+                "type": "Place",
+                "normalized_text": "South America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "Meldrewman",
+                "id": "30190817"
+            }
+        ]
+    },
+    "id": "527166761490464768",
+    "text": "@UberFacts @Meldrewman I am never ever ever going to South America *shudders uncontrollably*",
+    "created_at": "2014-10-28T18:35:24.000Z",
+    "in_reply_to_user_id": "95023423"
+}

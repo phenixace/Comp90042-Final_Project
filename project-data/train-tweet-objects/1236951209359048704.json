@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "drpeachy",
+                "id": "35859054"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 78,
+                "end": 82,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "1236951209359048704",
+    "text": "@drpeachy @WHO Any chance someone could print this out, roll it up, and smack @CNN on the nose with it? They can't stop putting \"runny nose\" at the top of their symptom list, just because it's a corona virus and ergo \"like a cold\" 🙄",
+    "created_at": "2020-03-09T09:45:24.000Z",
+    "in_reply_to_user_id": "35859054"
+}

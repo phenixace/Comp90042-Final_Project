@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-04T17:32:24.000Z",
+    "text": "@ClubFemina Vaccine in 18 months or so",
+    "id": "1235256796245307393",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ClubFemina",
+                "id": "14795291"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14795291"
+}

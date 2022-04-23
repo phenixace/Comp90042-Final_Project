@@ -1,0 +1,17 @@
+{
+    "id": "619242965416816640",
+    "text": "@CloydRivers sadly how it is nowadays",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CloydRivers",
+                "id": "466645191"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "466645191",
+    "created_at": "2015-07-09T20:33:22.000Z"
+}

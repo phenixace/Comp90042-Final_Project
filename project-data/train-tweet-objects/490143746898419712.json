@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-07-18T14:39:10.000Z",
+    "source": "Twitter Web Client",
+    "id": "490143746898419712",
+    "text": "@CNN stop lying... you are USA\"s agent.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 29,
+                "probability": 0.9141,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

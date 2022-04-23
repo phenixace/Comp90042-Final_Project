@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@kateszurley @jbyadig yeah Jordan, slow ya roll.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "KateSzurley",
+                "id": "1504331365034078209"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "jbyadig",
+                "id": "1259448595"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 32,
+                "probability": 0.9386,
+                "type": "Person",
+                "normalized_text": "Jordan"
+            }
+        ]
+    },
+    "created_at": "2013-09-18T02:39:53.000Z",
+    "id": "380159212715642880",
+    "in_reply_to_user_id": "376210739"
+}

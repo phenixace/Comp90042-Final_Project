@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552709290335535104",
+    "text": "@BuzzFeed my heart aches for this dog 😞💔",
+    "created_at": "2015-01-07T06:12:18.000Z",
+    "in_reply_to_user_id": "5695632"
+}

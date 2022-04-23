@@ -1,0 +1,27 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-12T15:02:50.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 167,
+                "end": 169,
+                "probability": 0.5999,
+                "type": "Organization",
+                "normalized_text": "OMT"
+            }
+        ],
+        "urls": [
+            {
+                "start": 185,
+                "end": 208,
+                "url": "https://t.co/Pf4mgSVqws",
+                "expanded_url": "https://www.tweedekamer.nl/downloads/document?id=593ed9de-5eb1-45ad-a516-5a9225361f21&title=PowerPoint%20presentatie%20RIVM%20over%20de%20ontwikkelingen%20rondom%20het%20coronavirus%20.pdf",
+                "display_url": "tweedekamer.nl/downloads/docu…"
+            }
+        ]
+    },
+    "id": "1271457940373934080",
+    "text": "Technical Briefing March 18th \nAn important key in resolving these questions was provided in the parliamentary technical briefing of March 18th 2020. In this briefing OMT chairman ...\n\nhttps://t.co/Pf4mgSVqws",
+    "in_reply_to_user_id": "1259223051742449665"
+}

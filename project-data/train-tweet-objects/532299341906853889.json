@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/Ywr1nlhqvi",
+                "expanded_url": "http://bit.ly/1uYHFoA",
+                "display_url": "bit.ly/1uYHFoA"
+            },
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/sE2DzfDYNf",
+                "expanded_url": "https://twitter.com/Eater/status/532199717594497024/photo/1",
+                "display_url": "pic.twitter.com/sE2DzfDYNf"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 6,
+                "end": 12,
+                "username": "Eater",
+                "id": "26329195"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T22:30:27.000Z",
+    "in_reply_to_user_id": "26329195",
+    "source": "Twitter for iPhone",
+    "text": "Lmao “@Eater: No baes allowed: a Chick-fil-A manager bans 22 hip words http://t.co/Ywr1nlhqvi http://t.co/sE2DzfDYNf”",
+    "id": "532299341906853889"
+}

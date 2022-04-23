@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16331010",
+    "created_at": "2014-10-13T05:44:16.000Z",
+    "id": "521536877875437568",
+    "text": "@TMZ who??"
+}

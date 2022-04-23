@@ -1,0 +1,29 @@
+{
+    "text": "@shamilsh @shinichiroinaba @nycjim ありゃりゃ、もう言い逃れできないわな。",
+    "created_at": "2014-07-18T01:51:45.000Z",
+    "id": "489950620745338880",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "shamilsh",
+                "id": "48020443"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "shinichiroinaba",
+                "id": "87627076"
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "username": "nycjim",
+                "id": "14940354"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "48020443",
+    "source": "Twitter Web Client"
+}

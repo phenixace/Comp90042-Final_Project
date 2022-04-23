@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 252,
+                "end": 263,
+                "probability": 0.8063,
+                "type": "Place",
+                "normalized_text": "Rivers State"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 26,
+                "end": 35,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T15:15:09.000Z",
+    "id": "1242470010477568001",
+    "source": "Twitter for Android",
+    "text": "As a Medical practitioner @Ovdiasis, what suggestions do you have to improve our Preparedness/response to COVID19?\n\nHow can Civil Society, Academia, Government, the Private sector and the general public work together to stem the Outbreak of COVID19 in Rivers State?"
+}

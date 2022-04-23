@@ -1,0 +1,25 @@
+{
+    "id": "1268201378272378883",
+    "text": "So another important data point to review each day is the percent positive of all patients tested, by PCR and Serology test types. What is “percent positive”? Out of the total number of Missourians tested, it is the percentage that have had a positive test result.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 102,
+                "end": 104,
+                "probability": 0.5837,
+                "type": "Person",
+                "normalized_text": "PCR"
+            },
+            {
+                "start": 110,
+                "end": 117,
+                "probability": 0.6723,
+                "type": "Person",
+                "normalized_text": "Serology"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "76761964",
+    "created_at": "2020-06-03T15:22:25.000Z"
+}

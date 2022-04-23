@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 22,
+                "username": "elonmusk",
+                "id": "44196397"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 81,
+                "end": 93,
+                "probability": 0.9152,
+                "type": "Place",
+                "normalized_text": "New York City"
+            }
+        ]
+    },
+    "created_at": "2020-03-27T11:02:07.000Z",
+    "text": "I spoke with @elonmusk late last night. He’s donating hundreds of ventilators to New York City and State, including our public hospitals. We’re deeply grateful. We need every ventilator we can get our hands on these next few weeks to save lives.",
+    "id": "1243493495714840576",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "552838902667804672",
+    "text": "@BuzzFeed 😭😭😭 horrible human beings...😤",
+    "created_at": "2015-01-07T14:47:20.000Z",
+    "in_reply_to_user_id": "5695632"
+}

@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "3242502260",
+    "id": "1278010477579247616",
+    "created_at": "2020-06-30T17:00:16.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 188,
+                "end": 204,
+                "probability": 0.9877,
+                "type": "Person",
+                "normalized_text": "Russell Westbrook"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "Not saying athletes should be forced into that, they then make their own decisions if they wanna opt in to that idea or not. And any means necessary reserve the best medical treatment for Russell Westbrook."
+}

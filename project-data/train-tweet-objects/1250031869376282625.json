@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/5ZJLXG0la6",
+                "expanded_url": "https://twitter.com/EyeRadioJuba/status/1250031869376282625/photo/1",
+                "display_url": "pic.twitter.com/5ZJLXG0la6"
+            }
+        ]
+    },
+    "created_at": "2020-04-14T12:03:16.000Z",
+    "id": "1250031869376282625",
+    "text": "Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19). https://t.co/5ZJLXG0la6"
+}

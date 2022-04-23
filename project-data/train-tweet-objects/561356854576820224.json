@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-31T02:54:38.000Z",
+    "id": "561356854576820224",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            },
+            {
+                "start": 98,
+                "end": 108,
+                "username": "nicoletMg",
+                "id": "720226879"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "text": "“@BurgerKing: A good relationship:\n☑ calls you to just say hi\n☑ wants to see you\n☑ brings you BK” @nicoletMg"
+}

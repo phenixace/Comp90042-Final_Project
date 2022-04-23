@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AshPratte",
+                "id": "455874730"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 38,
+                "end": 41,
+                "probability": 0.8047,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-09-14T04:30:15.000Z",
+    "text": "@AshPratte @FoxNews totally...destroy ISIS!",
+    "in_reply_to_user_id": "455874730",
+    "id": "511009002939875328"
+}

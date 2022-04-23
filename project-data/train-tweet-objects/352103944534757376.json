@@ -1,0 +1,17 @@
+{
+    "source": "Echofon",
+    "id": "352103944534757376",
+    "in_reply_to_user_id": "131351549",
+    "created_at": "2013-07-02T16:38:16.000Z",
+    "text": "@denisleary I wonder if Kosher Jew would tastes better.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "denisleary",
+                "id": "131351549"
+            }
+        ]
+    }
+}

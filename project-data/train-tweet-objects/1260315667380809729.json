@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-05-12T21:07:25.000Z",
+    "in_reply_to_user_id": "1245880732947537921",
+    "source": "Twitter Web App",
+    "text": "@KingDoleVA @joeybalge @kurteichenwald @RandPaul “Mild” also includes people that have trouble breathing, but don’t require hospitalization, along with flu-like symptoms.  Not something you want to go through knowing there may not be a hospital bed available if you suddenly need to go.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KingDoleVA",
+                "id": "1245880732947537921"
+            },
+            {
+                "start": 23,
+                "end": 38,
+                "username": "kurteichenwald",
+                "id": "215207998"
+            },
+            {
+                "start": 39,
+                "end": 48,
+                "username": "RandPaul",
+                "id": "216881337"
+            }
+        ]
+    },
+    "id": "1260315667380809729"
+}

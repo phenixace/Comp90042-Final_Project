@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18T19:31:42.000Z",
+    "source": "Twitter for Android",
+    "id": "490217366455083009",
+    "text": "@CNN",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251"
+}

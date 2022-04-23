@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-17T17:39:34.000Z",
+    "id": "1239969640421265409",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "va_shiva",
+                "id": "364214133"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "MIT",
+                "id": "15460048"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 20,
+                "probability": 0.5824,
+                "type": "Organization",
+                "normalized_text": "Google"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "12277922",
+    "text": "@va_shiva @MIT Google also USAMRIID infection protection."
+}

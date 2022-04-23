@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 23,
+                "end": 28,
+                "tag": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-13T22:49:30.000Z",
+    "text": "@FoxNews MOTHER BLEEP! #ISIS",
+    "in_reply_to_user_id": "1367531",
+    "id": "510923250436931585"
+}

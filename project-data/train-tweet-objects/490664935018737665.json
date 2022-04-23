@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-20T01:10:11.000Z",
+    "text": "@WSJ @k8sietoo Why was the plane flying over a war-zone, where 2 other airplanes were shot down recently?",
+    "id": "490664935018737665",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351"
+}

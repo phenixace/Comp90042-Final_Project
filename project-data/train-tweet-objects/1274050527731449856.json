@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "123946272",
+    "id": "1274050527731449856",
+    "created_at": "2020-06-19T18:44:51.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 125,
+                "end": 135,
+                "probability": 0.4685,
+                "type": "Product",
+                "normalized_text": "Solar Axion"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ryrytal",
+                "id": "123946272"
+            },
+            {
+                "start": 9,
+                "end": 25,
+                "username": "XENONexperiment",
+                "id": "830991267987410944"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@ryrytal @XENONexperiment Both domains of research are still in the theoretical phase. Dark Stars haven’t been observed, and Solar Axion is still a probability not yet fully tested. Also dark matter experiments on earth have to deal with gravity which somehow disturb the outcome."
+}

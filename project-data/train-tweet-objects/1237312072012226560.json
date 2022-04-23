@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 113,
+                "end": 117,
+                "probability": 0.9123,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 120,
+                "end": 124,
+                "probability": 0.4451,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "id": "1237312072012226560",
+    "created_at": "2020-03-10T09:39:20.000Z",
+    "in_reply_to_user_id": "478343699",
+    "text": "In December 2019, a novel coronavirus was identified in emerging clusters of pneumonia (lung infection) cases in Wuhan, China.\nThe virus was previously termed “nCoV-2019”. At the beginning of 2020, the virus was officially named SARS-CoV-2, due to its similarities to the previous"
+}

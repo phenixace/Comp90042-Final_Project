@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ],
+        "urls": [
+            {
+                "start": 10,
+                "end": 32,
+                "url": "http://t.co/RhGDk3ORM4",
+                "expanded_url": "https://twitter.com/the1nkenny/status/504444567694106624/photo/1",
+                "display_url": "pic.twitter.com/RhGDk3ORM4"
+            }
+        ]
+    },
+    "text": "@theScore http://t.co/RhGDk3ORM4",
+    "id": "504444567694106624",
+    "in_reply_to_user_id": "15256225",
+    "created_at": "2014-08-27T01:45:31.000Z"
+}

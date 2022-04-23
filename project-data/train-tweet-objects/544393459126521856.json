@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 31,
+                "probability": 0.3433,
+                "type": "Person",
+                "normalized_text": "Bart Simson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "id": "544393459126521856",
+    "text": "@cnni just send em a Bart Simson flag w/the👉middle finger and a bullet",
+    "created_at": "2014-12-15T07:28:09.000Z",
+    "in_reply_to_user_id": "2097571"
+}

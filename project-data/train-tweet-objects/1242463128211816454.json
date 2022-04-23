@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "3009264856",
+    "created_at": "2020-03-24T14:47:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 68,
+                "end": 77,
+                "username": "Ovdiasis",
+                "id": "609194807"
+            }
+        ]
+    },
+    "id": "1242463128211816454",
+    "source": "Twitter for Android",
+    "text": "What symptoms will an individual infected with COVID19 present with @Ovdiasis?\n\nHow long does it take from infection to presentation of symptoms of COVID 19 and how long can one be contagious?"
+}
