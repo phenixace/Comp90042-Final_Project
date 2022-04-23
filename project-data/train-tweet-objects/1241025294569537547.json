@@ -1,0 +1,29 @@
+{
+    "text": "@globalnews @globalnewsto @JeffSempleGN CONSERVATIVE estimates are that 30% of Canadians will get the virus, 1% of those infected will die. \nThat’s 114,000 people. \nSave yourself, your family and others - STAY AWAY so you can be together later.",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "globalnews",
+                "id": "116502194"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "globalnewsto",
+                "id": "13896552"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "username": "JeffSempleGN",
+                "id": "85381090"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T15:34:22.000Z",
+    "in_reply_to_user_id": "116502194",
+    "id": "1241025294569537547"
+}

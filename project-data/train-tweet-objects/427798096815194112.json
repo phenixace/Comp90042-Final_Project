@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/EcSjX5fGkK",
+                "expanded_url": "http://drudge.tw/1f558IS",
+                "display_url": "drudge.tw/1f558IS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-01-27T13:39:49.000Z",
+    "id": "427798096815194112",
+    "text": "“@DRUDGE_REPORT: Ex-Marlboro Man dies from smoking-related disease... http://t.co/EcSjX5fGkK”",
+    "in_reply_to_user_id": "14669951"
+}

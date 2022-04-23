@@ -1,0 +1,65 @@
+{
+    "in_reply_to_user_id": "544147368",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Smp7665",
+                "id": "544147368"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "annejonesmn",
+                "id": "387769772"
+            },
+            {
+                "start": 27,
+                "end": 35,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 36,
+                "end": 45,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 46,
+                "end": 57,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 58,
+                "end": 66,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 67,
+                "end": 75,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 76,
+                "end": 84,
+                "username": "pahowho",
+                "id": "20629893"
+            }
+        ]
+    },
+    "created_at": "2020-04-18T09:21:12.000Z",
+    "text": "@Smp7665 @WHO @annejonesmn @WHOWPRO @WHOSEARO @WHO_Europe @WHOAFRO @WHOEMRO @pahowho Hope you are tipping well!",
+    "id": "1251440635812491269"
+}

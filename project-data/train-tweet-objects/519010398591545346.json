@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/5GFyH5dbph",
+                "expanded_url": "http://on.wsj.com/Z5UD5E",
+                "display_url": "on.wsj.com/Z5UD5E"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/NnbZzm7xAk",
+                "expanded_url": "https://twitter.com/WSJ/status/518870005677826050/photo/1",
+                "display_url": "pic.twitter.com/NnbZzm7xAk"
+            }
+        ],
+        "cashtags": [
+            {
+                "start": 112,
+                "end": 116,
+                "tag": "HPQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 32,
+                "end": 36,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351",
+    "text": "Bu sefer PC ayrılacskmı sizce? “@WSJ: Hewlett-Packard to split PC and printer business : http://t.co/5GFyH5dbph $HPQ http://t.co/NnbZzm7xAk”",
+    "source": "Twitter for iPad",
+    "created_at": "2014-10-06T06:24:56.000Z",
+    "id": "519010398591545346"
+}

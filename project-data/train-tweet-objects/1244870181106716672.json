@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-03-31T06:12:34.000Z",
+    "id": "1244870181106716672",
+    "text": "“We’ve never closed down the country for the flu,” Trump said last week. “So you say to yourself, what is this all about?”\n\n- President Imbecile.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.9978,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ]
+    }
+}

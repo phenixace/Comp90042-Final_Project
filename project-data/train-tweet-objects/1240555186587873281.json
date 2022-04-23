@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1240555186587873281",
+    "text": "Reference\n📔https://t.co/5AhsScbnBf",
+    "created_at": "2020-03-19T08:26:19.000Z",
+    "in_reply_to_user_id": "1113068191",
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 34,
+                "url": "https://t.co/5AhsScbnBf",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ]
+    }
+}

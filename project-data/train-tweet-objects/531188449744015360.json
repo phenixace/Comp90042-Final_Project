@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "text": "@JuddLegum @BourbonAndBeer EEWWW,,,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JuddLegum",
+                "id": "15464697"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "BourbonAndBeer",
+                "id": "14964639"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T20:56:10.000Z",
+    "id": "531188449744015360",
+    "in_reply_to_user_id": "15464697"
+}

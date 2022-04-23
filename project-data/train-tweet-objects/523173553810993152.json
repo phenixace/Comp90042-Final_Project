@@ -1,0 +1,35 @@
+{
+    "source": "Mobile Web (M2)",
+    "id": "523173553810993152",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 45,
+                "probability": 0.3617,
+                "type": "Organization",
+                "normalized_text": "ISISflag"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/RM37qpcCJQ",
+                "expanded_url": "http://goo.gl/GpCQLy",
+                "display_url": "goo.gl/GpCQLy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T18:07:49.000Z",
+    "text": "@bbcbreaking \nDespite security cover, ISISflag surfaces again in Indian occupiedJammu&amp;kashmir Read details at : http://t.co/RM37qpcCJQ"
+}

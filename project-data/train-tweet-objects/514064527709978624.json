@@ -1,0 +1,23 @@
+{
+    "id": "514064527709978624",
+    "in_reply_to_user_id": "137480382",
+    "source": "Twitter Web Client",
+    "text": "@der_bluthund @DailyMail BLOODY STUPID \"HIEFFER\"\"&gt;&gt;&gt;&gt;",
+    "created_at": "2014-09-22T14:51:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "der_bluthund",
+                "id": "137480382"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T07:47:32.000Z",
+    "text": "Since I haven't seen any of them in my timeline yet, I am taking the liberty to make a thread with all sharepics from the @WHO on #COVID19 Myth Busters https://t.co/R5lgNp1ZIu \n\nLet's go 👇",
+    "id": "1251054673357877250",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 130,
+                "end": 138,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 152,
+                "end": 175,
+                "url": "https://t.co/R5lgNp1ZIu",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 122,
+                "end": 126,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    }
+}

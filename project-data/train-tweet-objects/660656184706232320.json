@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-01T03:14:43.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AnonyAussie",
+                "id": "709289707511750656"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 39,
+                "probability": 0.9408,
+                "type": "Person",
+                "normalized_text": "Charles Kleinert"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "660656184706232320",
+    "text": "@AnonyAussie what about Charles Kleinert",
+    "in_reply_to_user_id": "3224780809"
+}

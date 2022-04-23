@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @Oilersmyth @realDonaldTrump Him, handsome? I've seen his son and although I'm no expert on looks, but he looks UGLY!",
+    "source": "Twitter for iPad",
+    "created_at": "2015-10-10T17:24:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "oilersmyth",
+                "id": "734435984"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "id": "652897583573147648"
+}

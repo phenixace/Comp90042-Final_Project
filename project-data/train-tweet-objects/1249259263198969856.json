@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-04-12T08:53:13.000Z",
+    "text": "@MoCo4Safety @WHO My tweet is for #COVID19 myth only, so to clarify that it’s nothing to do with #5G networks.",
+    "id": "1249259263198969856",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "MoCo4Safety",
+                "id": "1047883724795387904"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 34,
+                "end": 42,
+                "tag": "COVID19"
+            },
+            {
+                "start": 97,
+                "end": 100,
+                "tag": "5G"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1047883724795387904"
+}

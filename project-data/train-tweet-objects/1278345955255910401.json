@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "45989687",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "sethjlevy",
+                "id": "45989687"
+            }
+        ],
+        "urls": [
+            {
+                "start": 60,
+                "end": 83,
+                "url": "https://t.co/WXOo9AGLpU",
+                "expanded_url": "https://twitter.com/Sonata_in_C/status/1278345955255910401/photo/1",
+                "display_url": "pic.twitter.com/WXOo9AGLpU"
+            }
+        ]
+    },
+    "id": "1278345955255910401",
+    "created_at": "2020-07-01T15:13:20.000Z",
+    "text": "@sethjlevy No vaccines if chemists cannot make them “pure.” https://t.co/WXOo9AGLpU"
+}

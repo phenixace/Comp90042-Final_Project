@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-10T09:52:03.000Z",
+    "id": "1237315272148692992",
+    "in_reply_to_user_id": "299035254",
+    "entities": {
+        "urls": [
+            {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/k7KgLnHHes",
+                "expanded_url": "https://twitter.com/AFPFactCheck/status/1237309721566154752?s=19",
+                "display_url": "twitter.com/AFPFactCheck/s…"
+            }
+        ]
+    },
+    "text": "https://t.co/k7KgLnHHes"
+}

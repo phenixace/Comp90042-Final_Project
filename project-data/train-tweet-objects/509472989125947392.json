@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-09T22:46:40.000Z",
+    "text": "@patrickklepek why not use that money to buy Capcom?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 50,
+                "probability": 0.5333,
+                "type": "Product",
+                "normalized_text": "Capcom"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509472989125947392",
+    "source": "Twitter for iPhone"
+}

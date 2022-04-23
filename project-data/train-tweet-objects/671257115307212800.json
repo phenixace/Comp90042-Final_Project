@@ -1,0 +1,43 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-11-30T09:19:02.000Z",
+    "text": "@Bipartisanism @ConstanceJackso REPUBLICANS AND WEAPONIZED HATRED    https://t.co/BRKaZDxhsO",
+    "id": "671257115307212800",
+    "entities": {
+        "urls": [
+            {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/BRKaZDxhsO",
+                "expanded_url": "http://tinyurl.com/oj85hot",
+                "display_url": "tinyurl.com/oj85hot",
+                "status": 200,
+                "unwound_url": "http://bureaucracybuster.com/2015/06/23/republicans-and-weaponized-hatred-part-one-of-four/"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "ConstanceJackso",
+                "id": "393771226"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 42,
+                "probability": 0.8398,
+                "type": "Organization",
+                "normalized_text": "REPUBLICANS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "id": "523126967617732609",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 75,
+                "probability": 0.8963,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T15:02:42.000Z",
+    "text": "@BBCBreaking Let's hope so! Time will tell. Personally I dn trust Boko Haram!"
+}

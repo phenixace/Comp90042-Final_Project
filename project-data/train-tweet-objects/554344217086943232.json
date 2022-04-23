@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 18,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "urls": [
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/XhILh0MMAV",
+                "expanded_url": "http://apne.ws/1BQk0s3",
+                "display_url": "apne.ws/1BQk0s3"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 92,
+                "end": 101,
+                "probability": 0.9977,
+                "type": "Place",
+                "normalized_text": "Mozambique"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T18:28:55.000Z",
+    "text": "@WSJbeerbaron “@AP: A traditional beer poisoned with crocodile bile has killed 56 people in Mozambique: http://t.co/XhILh0MMAV”",
+    "id": "554344217086943232",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter for iPad"
+}

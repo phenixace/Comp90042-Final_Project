@@ -1,0 +1,23 @@
+{
+    "id": "675023741601128448",
+    "text": "@AP_Politics @AP it's about time.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AP_Politics",
+                "id": "426802833"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "426802833",
+    "created_at": "2015-12-10T18:46:15.000Z"
+}

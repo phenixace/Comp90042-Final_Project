@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-11-30T08:03:01.000Z",
+    "text": "@Bipartisanism Given the lack of literacy demonstrated by his supporters here, you think he'd be used to errors. He makes enough himself.",
+    "id": "671237987036868608",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

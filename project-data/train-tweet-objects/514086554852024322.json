@@ -1,0 +1,23 @@
+{
+    "id": "514086554852024322",
+    "in_reply_to_user_id": "380285402",
+    "source": "Twitter for iPhone",
+    "text": "@DailyMail @livingarchitect \n\nCould help if the Duck Dynasty absolutely must procreate.",
+    "created_at": "2014-09-22T16:19:20.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "DailyMail",
+                "id": "380285402"
+            },
+            {
+                "start": 11,
+                "end": 27,
+                "username": "livingarchitect",
+                "id": "57888537"
+            }
+        ]
+    }
+}

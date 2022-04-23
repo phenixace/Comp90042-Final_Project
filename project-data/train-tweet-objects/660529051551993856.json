@@ -1,0 +1,46 @@
+{
+    "created_at": "2015-10-31T18:49:32.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AnonyAussie",
+                "id": "709289707511750656"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "littleangel911",
+                "id": "2204606340"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 37,
+                "probability": 0.8513,
+                "type": "Other",
+                "normalized_text": "GOD"
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "probability": 0.8043,
+                "type": "Organization",
+                "normalized_text": "WIKILEAKS"
+            },
+            {
+                "start": 62,
+                "end": 75,
+                "probability": 0.6453,
+                "type": "Person",
+                "normalized_text": "EDWARD SNOWNED"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "660529051551993856",
+    "text": "@AnonyAussie @littleangel911 THANK GOD 4 ANON ; WIKILEAKS AND EDWARD SNOWNED , WITHOUT THEM  WE WOULD NOT KNOW A DAMN THING ! PERIOD !",
+    "in_reply_to_user_id": "3224780809"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-31T22:30:46.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost @worldwidenieuws wow THATs news!",
+    "id": "528313155743916032",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "worldwidenieuws",
+                "id": "446636030"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

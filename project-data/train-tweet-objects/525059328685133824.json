@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T23:01:13.000Z",
+    "id": "525059328685133824",
+    "entities": {
+        "mentions": [
+            {
+                "start": 39,
+                "end": 49,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag": "HamOnt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 35,
+                "probability": 0.9684,
+                "type": "Place",
+                "normalized_text": "Canada"
+            },
+            {
+                "start": 69,
+                "end": 74,
+                "probability": 0.9908,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/wGQhZwKFEG",
+                "expanded_url": "http://fw.to/8e0qKWi",
+                "display_url": "fw.to/8e0qKWi"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16343974",
+    "text": "Heartbreaking for #HamOnt and Canada. “@Telegraph: Soldier killed in Canada shooting was a young reservist with a son http://t.co/wGQhZwKFEG"
+}

@@ -1,0 +1,59 @@
+{
+    "in_reply_to_user_id": "949189321",
+    "id": "1224802005488734211",
+    "created_at": "2020-02-04T21:08:48.000Z",
+    "source": "Twitter for iPad",
+    "text": "@Muhammaddxb7799 @WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Yes 70% of alcohol 45 seconds",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Muhammaddxb7799",
+                "id": "949189321"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 41,
+                "end": 52,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 53,
+                "end": 61,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 62,
+                "end": 70,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 71,
+                "end": 79,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    }
+}

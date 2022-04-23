@@ -1,0 +1,83 @@
+{
+    "created_at": "2020-03-29T08:38:59.000Z",
+    "text": "@WHONigeria @WHO @WHOAFRO @NCDCgov @UN_Nigeria @BrakaFiona @ibrodoc_03 @CWarigon @Dr_Okudo @DhamariNaidoo Asthma is beginning to get world recognition. I hope this strengthens global response to respiratory disease with regards to awareness and discrimination. \n#CoronaUpdate #CoronaLockdown #",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "WHONigeria",
+                "id": "846724193345527808"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            },
+            {
+                "start": 35,
+                "end": 46,
+                "username": "UN_Nigeria",
+                "id": "2969631215"
+            },
+            {
+                "start": 47,
+                "end": 58,
+                "username": "BrakaFiona",
+                "id": "3256129510"
+            },
+            {
+                "start": 59,
+                "end": 70,
+                "username": "ibrodoc_03",
+                "id": "39782896"
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "username": "CWarigon",
+                "id": "2816035335"
+            },
+            {
+                "start": 81,
+                "end": 90,
+                "username": "Dr_Okudo",
+                "id": "916308509209300992"
+            },
+            {
+                "start": 91,
+                "end": 105,
+                "username": "DhamariNaidoo",
+                "id": "2945911689"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 262,
+                "end": 275,
+                "tag": "CoronaUpdate"
+            },
+            {
+                "start": 276,
+                "end": 291,
+                "tag": "CoronaLockdown"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "846724193345527808",
+    "id": "1244182251950297088",
+    "source": "Twitter for Android"
+}

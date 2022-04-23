@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "WHOLebanon",
+                "id": "2394143648"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2394143648",
+    "created_at": "2020-03-13T07:25:11.000Z",
+    "text": "@WHOLebanon What are your thoughts on anal penetration, pardon my French?",
+    "id": "1238365474179571712",
+    "source": "Twitter for iPhone"
+}

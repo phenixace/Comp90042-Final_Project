@@ -1,0 +1,85 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 35,
+                "end": 43,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 44,
+                "end": 53,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 219,
+                "end": 223,
+                "probability": 0.9786,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 235,
+                "end": 239,
+                "probability": 0.8113,
+                "type": "Place",
+                "normalized_text": "china"
+            },
+            {
+                "start": 312,
+                "end": 316,
+                "probability": 0.9523,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 341,
+                "end": 364,
+                "url": "https://t.co/YA8LqZgG62",
+                "expanded_url": "https://twitter.com/Edmund43915807/status/1240411885461057536/photo/1",
+                "display_url": "pic.twitter.com/YA8LqZgG62"
+            }
+        ]
+    },
+    "text": "@WHO @pahowho @WHO_Europe @WHOEMRO @WHOAFRO @WHOSEARO @WHOWPRO ICTV based on taxonomy has determined that it belongs to the same species as the SARS virus, so they name the virus「SARS-CoV-2」\n\nA serious SARS outbreak in China 2003, and china guarantee to the ppl it  will not happen again. You cover and pleasing China by naming it COVID-19？ https://t.co/YA8LqZgG62",
+    "id": "1240411885461057536",
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-03-18T22:56:53.000Z"
+}

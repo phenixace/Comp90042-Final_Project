@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-27T23:09:23.000Z",
+    "id": "560213004340310016",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "jjauthor",
+                "id": "177584156"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 134,
+                "end": 140,
+                "tag": "Fight"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1379288282",
+    "text": "@peddoc63 @jjauthor @DB10524 @LodiSilverado @AmyMek hmm, hand over treasonist's that supported it; so they can experience oppression. #Fight"
+}

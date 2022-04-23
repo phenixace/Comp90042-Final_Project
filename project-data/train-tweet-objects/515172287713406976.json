@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 43,
+                "probability": 0.9388,
+                "type": "Product",
+                "normalized_text": "iPhone 6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-25T16:13:39.000Z",
+    "id": "515172287713406976",
+    "text": "@UnboxTherapy Do you still use your iPhone 6?",
+    "in_reply_to_user_id": "239672340"
+}

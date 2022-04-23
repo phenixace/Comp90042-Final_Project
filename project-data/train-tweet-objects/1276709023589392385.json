@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 19,
+                "probability": 0.3254,
+                "type": "Place",
+                "normalized_text": "Covid"
+            }
+        ]
+    },
+    "created_at": "2020-06-27T02:48:45.000Z",
+    "id": "1276709023589392385",
+    "source": "Twitter for iPhone",
+    "text": "So the rise in Covid cases is because we’ve opened up and not the massive protests? Ok....I see the new talking point. Ugh. Can we get someone..anyone...to report news and stop with the talking points?"
+}

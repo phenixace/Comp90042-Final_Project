@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/5wocgN8QBu",
+                "expanded_url": "https://twitter.com/Perilrose/status/1245003005490913282/photo/1",
+                "display_url": "pic.twitter.com/5wocgN8QBu"
+            },
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/5wocgN8QBu",
+                "expanded_url": "https://twitter.com/Perilrose/status/1245003005490913282/photo/1",
+                "display_url": "pic.twitter.com/5wocgN8QBu"
+            },
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/5wocgN8QBu",
+                "expanded_url": "https://twitter.com/Perilrose/status/1245003005490913282/photo/1",
+                "display_url": "pic.twitter.com/5wocgN8QBu"
+            },
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/5wocgN8QBu",
+                "expanded_url": "https://twitter.com/Perilrose/status/1245003005490913282/photo/1",
+                "display_url": "pic.twitter.com/5wocgN8QBu"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1091013980414390272",
+    "created_at": "2020-03-31T15:00:22.000Z",
+    "id": "1245003005490913282",
+    "text": "- what is a coronavirus?\n- what are the symptoms of COVID-19?\n- how does covid-19 spread? (parts 1&amp;2) https://t.co/5wocgN8QBu",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "169352264",
+    "entities": {
+        "annotations": [
+            {
+                "start": 237,
+                "end": 238,
+                "probability": 0.5925,
+                "type": "Place",
+                "normalized_text": "NZ"
+            },
+            {
+                "start": 258,
+                "end": 262,
+                "probability": 0.9782,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ranajayghosh",
+                "id": "169352264"
+            }
+        ]
+    },
+    "text": "@ranajayghosh Large complicated democracies had no chance against the virus. Like it or not, it will end up at herd immunity. Clear evidence of only two type of countries being able to eliminate this - strong willed small countries like NZ or autocracy like China.",
+    "created_at": "2020-06-20T13:49:03.000Z",
+    "id": "1274338476209721345"
+}

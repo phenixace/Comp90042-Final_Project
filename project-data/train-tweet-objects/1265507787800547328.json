@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nakamolto1",
+                "id": "1077505251777921024"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "c___f___b",
+                "id": "907591086683684864"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "DavidSonstebo",
+                "id": "3942728055"
+            },
+            {
+                "start": 38,
+                "end": 48,
+                "username": "iotatoken",
+                "id": "1361651420760580097"
+            }
+        ]
+    },
+    "id": "1265507787800547328",
+    "text": "@nakamolto1 @c___f___b @DavidSonstebo @iotatoken Yep. Seems he did not deliver. Big talking about lawsuit and IOBA. He has nothing.",
+    "created_at": "2020-05-27T04:59:03.000Z",
+    "in_reply_to_user_id": "1077505251777921024"
+}

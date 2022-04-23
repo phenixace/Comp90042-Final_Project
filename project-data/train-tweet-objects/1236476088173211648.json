@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236476088173211648",
+    "created_at": "2020-03-08T02:17:26.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly 天朝捐了款，所以删除"
+}

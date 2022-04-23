@@ -1,0 +1,68 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 312,
+                "end": 335,
+                "url": "https://t.co/CgogiyQgx2",
+                "expanded_url": "https://twitter.com/WHO/status/1224016475427655680/photo/1",
+                "display_url": "pic.twitter.com/CgogiyQgx2"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 142,
+                "end": 151,
+                "tag": "2019nCoV"
+            },
+            {
+                "start": 297,
+                "end": 311,
+                "tag": "KnowYourFacts"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 19,
+                "end": 30,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "14499829",
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Can regularly rinsing your nose with saline solution help prevent infection with #2019nCoV?\nA: No. There is no evidence that regularly rinsing the nose with saline solution has protected people from infection with the new coronavirus.\n\n#KnowYourFacts https://t.co/CgogiyQgx2",
+    "created_at": "2020-02-02T17:07:23.000Z",
+    "id": "1224016475427655680"
+}

@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523191166825553920",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "probability": 0.8214,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            }
+        ],
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/DZk1mL85cG",
+                "expanded_url": "http://cnn.it/11DtVTT",
+                "display_url": "cnn.it/11DtVTT"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T19:17:49.000Z",
+    "text": "@BBCBreaking Nigeria Boko Haram reach ceasefire deal kdnpd grls to go free,oficial sy http://t.co/DZk1mL85cG why usng nme f islm shme :/ n u"
+}

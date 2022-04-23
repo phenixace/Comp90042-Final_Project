@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-22T14:50:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CTVNews",
+                "id": "203123011"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "CortneywithnoU",
+                "id": "276189967"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "524935881925603328",
+    "text": "@CTVNews @CortneywithnoU What possesses people to do this sh…?",
+    "in_reply_to_user_id": "203123011"
+}

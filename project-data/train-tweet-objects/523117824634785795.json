@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for BlackBerry",
+    "id": "523117824634785795",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 29,
+                "probability": 0.4967,
+                "type": "Organization",
+                "normalized_text": "IDF"
+            },
+            {
+                "start": 83,
+                "end": 89,
+                "probability": 0.9809,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 80,
+                "tag": "Hamas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:26:23.000Z",
+    "text": "@BBCBreaking Just like the IDF has ever reached a long lasting truce with #Hamas!? Nigeria's government deceiving themselves..."
+}

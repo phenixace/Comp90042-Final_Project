@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 44,
+                "probability": 0.9919,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/64iBsHbzJw",
+                "expanded_url": "http://www.buzzfeed.com/beimengfu/this-is-how-people-in-china-are-riding-escalators-after-a-ho",
+                "display_url": "buzzfeed.com/beimengfu/this…"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/cMC5YqkXrn",
+                "expanded_url": "https://twitter.com/BuzzFeedNews/status/626516248206135296/photo/1",
+                "display_url": "pic.twitter.com/cMC5YqkXrn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 16,
+                "username": "BuzzFeedNews",
+                "id": "1020058453"
+            }
+        ]
+    },
+    "created_at": "2015-07-30T08:07:54.000Z",
+    "in_reply_to_user_id": "1020058453",
+    "source": "Tweetbot for iΟS",
+    "text": "RT @BuzzFeedNews: This Is How People In China Are Riding Escalators After A Horrific Accident http://t.co/64iBsHbzJw http://t.co/cMC5YqkXrn",
+    "id": "626665509421891584"
+}

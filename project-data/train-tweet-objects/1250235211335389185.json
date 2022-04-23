@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15T01:31:17.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "professordarwin",
+                "id": "3497382434"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1250235211335389185",
+    "text": "@professordarwin 🤐  5G bat guano paid for by mega corporations and a respiratory virus...",
+    "in_reply_to_user_id": "3497382434"
+}

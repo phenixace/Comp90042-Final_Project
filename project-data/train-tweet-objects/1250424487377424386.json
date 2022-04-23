@@ -1,0 +1,37 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T14:03:24.000Z",
+    "text": "@SABCNews Then explain this:https://t.co/IrUtuIrSMe\nIn china",
+    "entities": {
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/IrUtuIrSMe",
+                "expanded_url": "https://youtu.be/rPe6lhdQkMg",
+                "display_url": "youtu.be/rPe6lhdQkMg",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=rPe6lhdQkMg&feature=youtu.be"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 59,
+                "probability": 0.8496,
+                "type": "Place",
+                "normalized_text": "china"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "id": "1250424487377424386",
+    "in_reply_to_user_id": "25088746"
+}

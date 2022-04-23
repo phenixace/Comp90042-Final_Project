@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:08:26.000Z",
+    "source": "Twitter Web Client",
+    "id": "524321270599806976",
+    "text": "@AlfredoFlores oh shit",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

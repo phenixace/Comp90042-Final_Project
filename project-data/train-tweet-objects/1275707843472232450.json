@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/yctVHLXs0s",
+                "expanded_url": "https://twitter.com/atrupar/status/1258095848786931712/video/1",
+                "display_url": "pic.twitter.com/yctVHLXs0s"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 47,
+                "end": 63,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 247,
+                "end": 255,
+                "tag": "COVID19"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 10,
+                "probability": 0.6034,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 81,
+                "end": 82,
+                "probability": 0.7667,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T08:30:26.000Z",
+    "id": "1275707843472232450",
+    "text": "10/. The UK govt isn’t all alone.\n\nLast month, @realDonaldTrump was asked if the US “just have to accept the idea that by reopening there will be more death?”\n\n“We have to be warriors. We can't keep our country closed down for years,” he replied. #COVID19 https://t.co/yctVHLXs0s"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-07-22T04:16:04.000Z",
+    "text": "@JayCaruso - Yeah. Boy. I'll bet he was too busy planning the Texas invasion. Probably a gay invasion too!",
+    "id": "623708063166369793",
+    "entities": {
+        "annotations": [
+            {
+                "start": 62,
+                "end": 66,
+                "probability": 0.8864,
+                "type": "Place",
+                "normalized_text": "Texas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayCaruso",
+                "id": "11616202"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "11616202"
+}

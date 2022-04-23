@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-20T22:25:22.000Z",
+    "text": "@OhNy_ Yeah, it is",
+    "id": "1241128726680596480",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "OhNy_",
+                "id": "325153502"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "325153502"
+}

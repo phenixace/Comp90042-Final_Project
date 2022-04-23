@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-11T17:34:55.000Z",
+    "text": "@AdvMachineSC Don’t forget to eat healthy food as well!",
+    "id": "1249028166573871104",
+    "in_reply_to_user_id": "1003697734182952961",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AdvMachineSC",
+                "id": "1003697734182952961"
+            }
+        ]
+    }
+}

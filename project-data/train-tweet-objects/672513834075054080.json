@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "id": "672513834075054080",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T20:32:47.000Z",
+    "text": "@ABC He's right, we need to get rid of these Radical Islamist roaming in our country.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    }
+}

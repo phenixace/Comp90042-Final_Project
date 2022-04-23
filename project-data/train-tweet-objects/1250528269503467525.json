@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T20:55:47.000Z",
+    "text": "@StephenAtHome @DrLaPook My phone is running out of geodatum and some guys tried to trip me in the woods near 711 looking for Walsh so I might not be able to tweet your site. Hug. Can I have another?",
+    "id": "1250528269503467525",
+    "entities": {
+        "annotations": [
+            {
+                "start": 126,
+                "end": 130,
+                "probability": 0.9237,
+                "type": "Person",
+                "normalized_text": "Walsh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

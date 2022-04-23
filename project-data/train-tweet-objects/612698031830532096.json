@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21T19:06:08.000Z",
+    "source": "Twitter Web Client",
+    "id": "612698031830532096",
+    "text": "@Forest__Hump @billy_ionare @ajplus regardless of crimes, police still have a duty of care. Those being detained have to be fed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 27,
+                "username": "billy_ionare",
+                "id": "1961303148"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "username": "ajplus",
+                "id": "110396781"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "840201576"
+}

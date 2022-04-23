@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle It is almost impossible to fire a fed employee of this admin would even want to.",
+    "id": "676101730749325312",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T18:09:48.000Z"
+}

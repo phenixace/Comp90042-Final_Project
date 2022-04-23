@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "48224970",
+    "text": "@nycgirl33 and Renatto tasted a red velvet Starbucks latte recently! Whaaaat!?!?!",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-21T20:35:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "nycgirl33",
+                "id": "48224970"
+            }
+        ]
+    },
+    "id": "513788605375188992"
+}

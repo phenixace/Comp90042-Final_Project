@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 56,
+                "tag": "obamacare"
+            },
+            {
+                "start": 57,
+                "end": 61,
+                "tag": "aca"
+            }
+        ]
+    },
+    "id": "551578641931730944",
+    "text": "@FoxNews @foxnewshealth socialized healthcare #obamacare #aca",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-04T03:19:30.000Z",
+    "in_reply_to_user_id": "1367531"
+}

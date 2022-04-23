@@ -1,0 +1,17 @@
+{
+    "text": "@NBCNews the fact pd feel the need to lie about the numbers, especially when they're easy to find, just adds to the growing lack of trust.",
+    "id": "501793200605245441",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T18:09:56.000Z",
+    "in_reply_to_user_id": "14173315"
+}

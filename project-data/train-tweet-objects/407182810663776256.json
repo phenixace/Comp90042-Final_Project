@@ -1,0 +1,17 @@
+{
+    "text": "@HuffingtonPost Never watched these movies, but I'm sorry for a young guy losing his life.  Just starting to shine!  Drag.",
+    "id": "407182810663776256",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T16:22:01.000Z",
+    "in_reply_to_user_id": "14511951"
+}

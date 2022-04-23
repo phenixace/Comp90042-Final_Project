@@ -1,0 +1,52 @@
+{
+    "id": "525005886272843776",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 12,
+                "probability": 0.9985,
+                "type": "Person",
+                "normalized_text": "Kevin Vickers"
+            },
+            {
+                "start": 55,
+                "end": 69,
+                "probability": 0.6269,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ],
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/sG70iQtfSM",
+                "expanded_url": "http://www.cbc.ca/news/politics/ottawa-shooting-kevin-vickers-hailed-as-hero-who-took-down-attacker-1.2809146",
+                "display_url": "cbc.ca/news/politics/…"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/zuSOkiOzck",
+                "expanded_url": "https://twitter.com/CBCOttawa/status/525005886272843776/photo/1",
+                "display_url": "pic.twitter.com/zuSOkiOzck"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 95,
+                "end": 102,
+                "tag": "cbcOTT"
+            },
+            {
+                "start": 103,
+                "end": 111,
+                "tag": "OTTnews"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T19:28:52.000Z",
+    "text": "Kevin Vickers hailed as hero who took down attacker at Parliament Hill: http://t.co/sG70iQtfSM #cbcOTT #OTTnews http://t.co/zuSOkiOzck",
+    "source": "TweetDeck"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 4,
+                "end": 9,
+                "probability": 0.9581,
+                "type": "Person",
+                "normalized_text": "Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T17:04:44.000Z",
+    "id": "407193557640826881",
+    "text": "@AP Walker was not driving",
+    "in_reply_to_user_id": "51241574"
+}

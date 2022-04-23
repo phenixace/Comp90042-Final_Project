@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for Android",
+    "id": "1240995347788431361",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 69,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 206,
+                "end": 210,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "18730534",
+    "created_at": "2020-03-20T13:35:22.000Z",
+    "text": "2/2 ... Or if you are caring for someone who may be ill with #COVID19.\n\nRemember, a mask should ONLY be used by health workers, care takers, and individuals with respiratory symptoms, such as fever/cough.\n\n@WHO advises RATIONAL use of masks to avoid UNNECESSARY waste &amp; misuse."
+}

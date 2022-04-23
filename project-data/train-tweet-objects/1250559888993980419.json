@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T23:01:26.000Z",
+    "text": "@SABCNews Why should we donate for covid 19 with our airtime to telkom... When telkom is the only big telecommunications and network installer in the country ,are we finding the 5G installation with our airtime in the name of covid19..?",
+    "id": "1250559888993980419",
+    "entities": {
+        "annotations": [
+            {
+                "start": 79,
+                "end": 84,
+                "probability": 0.5186,
+                "type": "Organization",
+                "normalized_text": "telkom"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25088746"
+}

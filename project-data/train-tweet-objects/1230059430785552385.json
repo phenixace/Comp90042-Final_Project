@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-02-19T09:19:56.000Z",
+    "in_reply_to_user_id": "1112557520877322240",
+    "text": "@kiwipebble @WHOWPRO @WHOPhilippines @WHO_Mongolia @takeshi_kasai No proof about that",
+    "id": "1230059430785552385",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "kiwipebble",
+                "id": "1112557520877322240"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 21,
+                "end": 36,
+                "username": "WHOPhilippines",
+                "id": "2218026914"
+            },
+            {
+                "start": 51,
+                "end": 65,
+                "username": "takeshi_kasai",
+                "id": "918829268372635648"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

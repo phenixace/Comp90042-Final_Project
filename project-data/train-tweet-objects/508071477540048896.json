@@ -1,0 +1,23 @@
+{
+    "text": "@cnnbrk @ThisHour I wonder how he likes HELL?",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "username": "ThisHour",
+                "id": "2330415198"
+            }
+        ]
+    },
+    "created_at": "2014-09-06T01:57:34.000Z",
+    "in_reply_to_user_id": "428333",
+    "id": "508071477540048896"
+}

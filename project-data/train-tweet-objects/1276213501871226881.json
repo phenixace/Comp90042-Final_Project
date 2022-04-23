@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:44.000Z",
+    "text": "How could we be protected? It is impossible to tell. Our knowledge about coronaviruses is limited as is true for most science.  Maybe polymorphisms in receptors, immunity, or other ways. We might never know. But we do know evolutionary pathways select\n#COVID19 \n19/x",
+    "id": "1276213501871226881",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 252,
+                "end": 260,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1652541",
+    "created_at": "2015-10-02T15:51:06.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "Pontifex",
+                "id": "500704345"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 49,
+                "probability": 0.9448,
+                "type": "Person",
+                "normalized_text": "Davis"
+            }
+        ]
+    },
+    "id": "649974897905676288",
+    "text": "@Reuters The @Pontifex should regret meeting Davis. I don't regret leaving the church though."
+}

@@ -1,0 +1,71 @@
+{
+    "created_at": "2020-03-28T16:45:42.000Z",
+    "text": "@mattakhide @WHONigeria @WHO @WHOAFRO @NCDCgov @UN_Nigeria @BrakaFiona @CWarigon @Dr_Okudo @DhamariNaidoo COVID-19 cant be spread through surgery, however the hospital will need to maintain very good standard universal precautions and infection prevention and control (IPC) to prevent spread from other patients in the hospital as the virus can spread on surfaces.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mattakhide",
+                "id": "2705029833"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "WHONigeria",
+                "id": "846724193345527808"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "username": "NCDCgov",
+                "id": "705694814612938752"
+            },
+            {
+                "start": 47,
+                "end": 58,
+                "username": "UN_Nigeria",
+                "id": "2969631215"
+            },
+            {
+                "start": 59,
+                "end": 70,
+                "username": "BrakaFiona",
+                "id": "3256129510"
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "username": "CWarigon",
+                "id": "2816035335"
+            },
+            {
+                "start": 81,
+                "end": 90,
+                "username": "Dr_Okudo",
+                "id": "916308509209300992"
+            },
+            {
+                "start": 91,
+                "end": 105,
+                "username": "DhamariNaidoo",
+                "id": "2945911689"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2705029833",
+    "id": "1243942351996948480",
+    "source": "Twitter for Android"
+}

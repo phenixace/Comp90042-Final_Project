@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "id": "672515570357551104",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 37,
+                "probability": 0.9938,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "username": "WNTonight",
+                "id": "4861868667"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T20:39:41.000Z",
+    "text": "@ABC @WNTonight Time to kick ass Obama.If not you will be forever in thoughts and prayers."
+}

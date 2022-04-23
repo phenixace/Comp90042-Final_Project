@@ -1,0 +1,30 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 34,
+                "end": 45,
+                "username": "KennyBurns",
+                "id": "15937499"
+            },
+            {
+                "start": 58,
+                "end": 70,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 128,
+                "end": 144,
+                "tag": "GeorgeZimmerman"
+            }
+        ]
+    },
+    "created_at": "2013-07-14T16:12:23.000Z",
+    "id": "356446083267821569",
+    "text": "Feel like I can finally exhale RT @KennyBurns: Just in... @BarackObama &amp; Department of Justice file Federal Charges against #GeorgeZimmerman",
+    "in_reply_to_user_id": "15937499"
+}

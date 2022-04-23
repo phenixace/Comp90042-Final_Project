@@ -1,0 +1,26 @@
+{
+    "text": "@FunnyPicsDepot \nhttps://t.co/I0M2RlrQ1L",
+    "id": "627063974434107392",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "FunnyPicsDepot",
+                "id": "524657792"
+            }
+        ],
+        "urls": [
+            {
+                "start": 17,
+                "end": 40,
+                "url": "https://t.co/I0M2RlrQ1L",
+                "expanded_url": "https://twitter.com/scrappy_att/status/626891816873242624",
+                "display_url": "twitter.com/scrappy_att/st…"
+            }
+        ]
+    },
+    "created_at": "2015-07-31T10:31:16.000Z",
+    "in_reply_to_user_id": "524657792"
+}

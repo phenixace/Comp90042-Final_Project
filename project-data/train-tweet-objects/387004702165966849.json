@@ -1,0 +1,23 @@
+{
+    "text": "@RepRWilliams @mdj17 Everything he does it at the expense of the citizens.",
+    "created_at": "2013-10-07T00:01:25.000Z",
+    "id": "387004702165966849",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RepRWilliams",
+                "id": "1077446982"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "mdj17",
+                "id": "24935003"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1077446982",
+    "source": "Twitter Web App"
+}

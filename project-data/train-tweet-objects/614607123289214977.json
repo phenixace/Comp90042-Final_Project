@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-06-27T01:32:11.000Z",
+    "text": "Who's paying for this? Who authorized it? @FoxNews",
+    "id": "614607123289214977",
+    "entities": {
+        "mentions": [
+            {
+                "start": 42,
+                "end": 50,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

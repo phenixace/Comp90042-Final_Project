@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "konotarogomame",
+                "id": "104388107"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "WHOThailand",
+                "id": "479264032"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "username": "WHOKobe",
+                "id": "538804810"
+            },
+            {
+                "start": 43,
+                "end": 52,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 53,
+                "end": 61,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-26T04:10:48.000Z",
+    "id": "1221284326727245824",
+    "text": "@WHO @konotarogomame @WHOThailand @WHOKobe @WHOSEARO @WHOWPRO Not enough😷",
+    "source": "Twitter for iPad"
+}

@@ -1,0 +1,42 @@
+{
+    "in_reply_to_user_id": "2883841",
+    "id": "407431150022709248",
+    "created_at": "2013-12-02T08:48:50.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 74,
+                "end": 84,
+                "probability": 0.9787,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 126,
+                "end": 140,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/r8paSnvDPo",
+                "expanded_url": "http://eonli.ne/ID9ygn",
+                "display_url": "eonli.ne/ID9ygn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@eonline: Fast and Furious 7 \"Delayed\" But \"Won't Be Scrapped\" Following Paul Walker's Death: Report http://t.co/r8paSnvDPo” #RIPPaulWalker"
+}

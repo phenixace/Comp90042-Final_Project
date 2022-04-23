@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "14885549",
+    "entities": {
+        "cashtags": [
+            {
+                "start": 113,
+                "end": 116,
+                "tag": "HP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 42,
+                "username": "ForbesTech",
+                "id": "14885549"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/5ov7HbJoTb",
+                "expanded_url": "http://onforb.es/1EpApEY",
+                "display_url": "onforb.es/1EpApEY",
+                "status": 200,
+                "unwound_url": "https://www.forbes.com/sites/maggiemcgrath/2014/10/06/hewlett-packard-confirms-plans-to-split-in-two-cut-an-additional-5000-jobs/?utm_campaign=techtwittersf&utm_medium=social&utm_source=twitter"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/T8CoUK6SUz",
+                "expanded_url": "https://twitter.com/ForbesTech/status/519530210795216896/photo/1",
+                "display_url": "pic.twitter.com/T8CoUK6SUz"
+            }
+        ]
+    },
+    "id": "519679301684191232",
+    "created_at": "2014-10-08T02:42:55.000Z",
+    "text": "Will HP split do any good? MRT @ForbesTech: HP confirmed it's splitting, cutting 5k jobs. http://t.co/5ov7HbJoTb $HP http://t.co/T8CoUK6SUz"
+}

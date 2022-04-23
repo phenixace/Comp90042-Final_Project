@@ -1,0 +1,23 @@
+{
+    "id": "504452603036454912",
+    "in_reply_to_user_id": "2220196014",
+    "created_at": "2014-08-27T02:17:27.000Z",
+    "source": "Twitter Web Client",
+    "text": "@jones012018 @NBCNews  How do you know it was the store owner in that video? Nowhere was it said by police that was the store owner.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "jones012018",
+                "id": "2220196014"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T09:27:08.000Z",
+    "text": "@SABCNews Yall have been instructed to tell us that",
+    "id": "1250354963945082880",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

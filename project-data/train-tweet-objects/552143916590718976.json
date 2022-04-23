@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KirbyLaflare",
+                "id": "128026999"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 39,
+                "probability": 0.9452,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "128026999",
+    "created_at": "2015-01-05T16:45:42.000Z",
+    "id": "552143916590718976",
+    "text": "@KirbyLaflare @XXL because 1. it's Obama's daughter 2. XXL is a Hip Hop website"
+}

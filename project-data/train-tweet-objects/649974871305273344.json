@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1652541",
+    "created_at": "2015-10-02T15:50:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ]
+    },
+    "id": "649974871305273344",
+    "text": "@Reuters Odd the pope doesn't support religious people."
+}

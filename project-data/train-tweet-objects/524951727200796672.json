@@ -1,0 +1,68 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "524951727200796672",
+    "entities": {
+        "annotations": [
+            {
+                "start": 67,
+                "end": 72,
+                "probability": 0.9946,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 130,
+                "end": 138,
+                "tag": "ottnews"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/SRjoo7433h",
+                "expanded_url": "http://bit.ly/1wkhzdx",
+                "display_url": "bit.ly/1wkhzdx"
+            },
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/tAAxoqWZZz",
+                "expanded_url": "https://twitter.com/Joerayment/status/524950339074523137/photo/1",
+                "display_url": "pic.twitter.com/tAAxoqWZZz"
+            },
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/tAAxoqWZZz",
+                "expanded_url": "https://twitter.com/Joerayment/status/524950339074523137/photo/1",
+                "display_url": "pic.twitter.com/tAAxoqWZZz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 15,
+                "username": "Joerayment",
+                "id": "22968158"
+            },
+            {
+                "start": 38,
+                "end": 50,
+                "username": "wcuddington",
+                "id": "195079410"
+            },
+            {
+                "start": 121,
+                "end": 129,
+                "username": "strombo",
+                "id": "18177126"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22968158",
+    "created_at": "2014-10-22T15:53:39.000Z",
+    "text": "RT “@Joerayment: Dramatic photos from @wcuddington on the scene in Ottawa http://t.co/SRjoo7433h http://t.co/tAAxoqWZZz” @strombo #ottnews"
+}

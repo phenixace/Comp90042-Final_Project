@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-02T13:41:39.000Z",
+    "text": "4. Seek medical care early if you or your child has a fever, cough or difficulty breathing\n\n#PEDULIWA19 https://t.co/nEOVHO97kr",
+    "in_reply_to_user_id": "833430048",
+    "entities": {
+        "urls": [
+            {
+                "start": 104,
+                "end": 127,
+                "url": "https://t.co/nEOVHO97kr",
+                "expanded_url": "https://twitter.com/clingqy/status/1245707973957017600/photo/1",
+                "display_url": "pic.twitter.com/nEOVHO97kr"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 92,
+                "end": 103,
+                "tag": "PEDULIWA19"
+            }
+        ]
+    },
+    "id": "1245707973957017600"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "614945520176345088",
+    "text": "@ABC Truly A #SignOfTheTimes...2 pet.2:, Rom. 1:, 2 Tim 3:, &amp; Jude.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 28,
+                "tag": "SignOfTheTimes"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter Web Client",
+    "created_at": "2015-06-27T23:56:51.000Z"
+}

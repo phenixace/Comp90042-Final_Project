@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "id": "651533376822870016",
+    "entities": {
+        "annotations": [
+            {
+                "start": 120,
+                "end": 139,
+                "probability": 0.3634,
+                "type": "Person",
+                "normalized_text": "محمد بن نايف ال سعود"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Starbucks",
+                "id": "30973"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "30973",
+    "created_at": "2015-10-06T23:03:56.000Z",
+    "text": "@Starbucks قهوتن لذيذ من منكم اسمه موركو ....موركو السمكة الكبيرة مخططات اجرامية سعودية تسخدم الاسلام ساتر برعاية الكلب محمد بن نايف ال سعود"
+}

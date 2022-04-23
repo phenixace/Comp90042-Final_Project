@@ -1,0 +1,26 @@
+{
+    "source": "Mobile Web",
+    "created_at": "2015-11-30T04:19:35.000Z",
+    "text": "Desperate Ted Cruz Claims Planned Parenthood Shooter Was Transgender Leftis; Based On Rumor He Read \nhttps://t.co/O5MAo6Ks3W",
+    "id": "671181758692507648",
+    "entities": {
+        "urls": [
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/O5MAo6Ks3W",
+                "expanded_url": "http://bipartisanreport.com/2015/11/29/desperate-cruz-claims-planned-parenthood-shooter-transgender-leftist-based-rumor-read/",
+                "display_url": "bipartisanreport.com/2015/11/29/des…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 17,
+                "probability": 0.9886,
+                "type": "Person",
+                "normalized_text": "Ted Cruz"
+            }
+        ]
+    }
+}

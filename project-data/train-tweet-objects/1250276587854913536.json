@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T04:15:42.000Z",
+    "text": "@StephenAtHome @DrLaPook Wow, Dr. LaPook was great, thank you for being so informative to us poor saps quarantined at home scared sh-tless of this virus",
+    "id": "1250276587854913536",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 39,
+                "probability": 0.9909,
+                "type": "Person",
+                "normalized_text": "Dr. LaPook"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

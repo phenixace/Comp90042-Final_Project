@@ -1,0 +1,30 @@
+{
+    "id": "675020704023224321",
+    "text": "@AP_Politics @AP There will be record sales of guns now in support of #2A",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AP_Politics",
+                "id": "426802833"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 70,
+                "end": 73,
+                "tag": "2A"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "426802833",
+    "created_at": "2015-12-10T18:34:11.000Z"
+}

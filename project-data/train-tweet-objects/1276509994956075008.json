@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 253,
+                "end": 276,
+                "url": "https://t.co/SY6QKdP0I8",
+                "expanded_url": "https://www.metro.news/uk-near-bottom-of-world-league-in-fighting-covid-19/2052606/",
+                "display_url": "metro.news/uk-near-bottom…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 10,
+                "probability": 0.3423,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 112,
+                "end": 113,
+                "probability": 0.8786,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 167,
+                "end": 183,
+                "probability": 0.6059,
+                "type": "Organization",
+                "normalized_text": "Oxford university"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T13:37:53.000Z",
+    "id": "1276509994956075008",
+    "text": "30/. The UK has moved from 4th from bottom to 24th from bottom of a global league in tackling coronavirus.\n\nThe UK is now 155th out of 179 nations in the 2nd study by Oxford university’s Blavatnik School of Govt\n\nThe study looks at the WHO’s six tests.\nhttps://t.co/SY6QKdP0I8"
+}

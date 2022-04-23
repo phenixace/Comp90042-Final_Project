@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-25T09:59:37.000Z",
+    "in_reply_to_user_id": "1712662364",
+    "source": "Twitter Web App",
+    "text": "@JagexAsh Two weeks ago the W45 community was asked to see what people thought about certain topics. We polled those topics and shared the results. When can we expect certain things to come? Like the pvp weapons in particular. (It won by like 85% in polls)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "JagexAsh",
+                "id": "1712662364"
+            }
+        ]
+    },
+    "id": "1276092676102897664"
+}

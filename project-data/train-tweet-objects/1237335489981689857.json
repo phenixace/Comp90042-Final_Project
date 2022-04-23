@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "id": "1237335489981689857",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 27,
+                "probability": 0.858,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "MsWrite2",
+                "id": "1085217182919872513"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1085217182919872513",
+    "created_at": "2020-03-10T11:12:24.000Z",
+    "text": "@MsWrite2 Amen and amen. God bless you"
+}

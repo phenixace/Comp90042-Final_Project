@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "local4priya",
+                "id": "1151188850640920576"
+            },
+            {
+                "start": 27,
+                "end": 40,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 100,
+                "end": 102,
+                "probability": 0.6518,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @Local4Priya @brianstelter Why shouldn't he give the interview to the highest bidder. ABC won.",
+    "id": "538856004558258177",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:44:17.000Z"
+}

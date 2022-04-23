@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-07-17T20:51:43.000Z",
+    "text": "@newscomauHQ Is it just mean who finds these images disturbing. To what length would you have to go to have these passports in your hands?",
+    "id": "489875116906393600",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "newscomauHQ",
+                "id": "15250661"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15250661"
+}

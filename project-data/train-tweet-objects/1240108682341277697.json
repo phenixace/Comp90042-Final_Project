@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-18T02:52:04.000Z",
+    "text": "@kelly_jasper_88 @kelly_rdc @JimInNC Is COVID-19 airborne? I don’t think it is, but it would be good to confirm that. If it’s not, then contact is needed to contract it. If we take precautionary hygiene actions, it will help reduce it’s spread. I’d like incoming travel to stop temporarily. Oz has natural quarantine.",
+    "id": "1240108682341277697",
+    "entities": {
+        "mentions": [
+            {
+                "start": 28,
+                "end": 36,
+                "username": "JimInNC",
+                "id": "35597966"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "957779816928894976"
+}

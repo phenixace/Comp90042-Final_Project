@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "id": "514547985384890368",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 59,
+                "url": "http://t.co/iLbh3jB47a",
+                "expanded_url": "http://www.cbc.ca/news/business/blackberry-passport-priced-to-take-on-apple-samsung-1.2775003",
+                "display_url": "cbc.ca/news/business/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14511951",
+    "created_at": "2014-09-23T22:52:54.000Z",
+    "text": "@HuffingtonPost Or get one that fits http://t.co/iLbh3jB47a"
+}

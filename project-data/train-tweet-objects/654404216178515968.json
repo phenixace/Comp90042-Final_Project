@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for Android",
+    "id": "654404216178515968",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 38,
+                "probability": 0.9938,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            },
+            {
+                "start": 62,
+                "end": 68,
+                "probability": 0.9991,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            },
+            {
+                "start": 77,
+                "end": 83,
+                "probability": 0.9993,
+                "type": "Person",
+                "normalized_text": "Hillary"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "Shadowquine",
+                "id": "572313691"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "434655422",
+    "created_at": "2015-10-14T21:11:38.000Z",
+    "text": "@JustThatGuyBen @Shadowquine but Bernie isn't paying them and Hillary is, so Hillary clearly won"
+}

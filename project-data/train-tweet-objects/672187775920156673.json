@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "1767741",
+    "id": "672187775920156673",
+    "created_at": "2015-12-02T22:57:09.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@NYTNational @nytimes Tougher laws for what.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYTNational",
+                "id": "1767741"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    }
+}

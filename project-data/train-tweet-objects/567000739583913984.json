@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 54,
+                "probability": 0.8551,
+                "type": "Place",
+                "normalized_text": "U.S."
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "created_at": "2015-02-15T16:41:25.000Z",
+    "text": "@assholeofday The bigger problem: large numbers of U.S. citizens vote for people just like him &amp; want our laws to be written by them.",
+    "id": "567000739583913984"
+}

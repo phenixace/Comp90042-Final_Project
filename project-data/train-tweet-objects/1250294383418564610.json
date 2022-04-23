@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T05:26:25.000Z",
+    "text": "@StephenAtHome @DrLaPook Can we give @realDonaldTrump Hydroxychloroquine?",
+    "id": "1250294383418564610",
+    "in_reply_to_user_id": "16303106",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            },
+            {
+                "start": 37,
+                "end": 53,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

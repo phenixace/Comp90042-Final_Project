@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "AdriannaNKF",
+                "id": "476284041"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "ItsThingsInLife",
+                "id": "149655776"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 69,
+                "end": 79,
+                "probability": 0.9971,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "476284041",
+    "created_at": "2013-12-01T15:51:55.000Z",
+    "id": "407175235163942912",
+    "text": "“@AdriannaNKF: “@ItsThingsInLife: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.””👏😔"
+}

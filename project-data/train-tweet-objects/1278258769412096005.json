@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-07-01T09:26:54.000Z",
+    "text": "@kittysf @AlexBerenson That's my question...I live in NC.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "kittysf",
+                "id": "16488387"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 55,
+                "probability": 0.9914,
+                "type": "Place",
+                "normalized_text": "NC"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16488387",
+    "id": "1278258769412096005",
+    "source": "Twitter for Android"
+}

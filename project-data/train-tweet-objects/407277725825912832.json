@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "SPEED",
+                "id": "54060157"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 16,
+                "probability": 0.9444,
+                "type": "Other",
+                "normalized_text": "LORD"
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "probability": 0.5635,
+                "type": "Other",
+                "normalized_text": "GOD"
+            }
+        ]
+    },
+    "id": "407277725825912832",
+    "text": "@SPEED  THE  LORD  needed two more GREAT Guys in HEAVEN ! GOD Be WIth the families  of these Men !  WE WILL MISS VERY MUCH!",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T22:39:11.000Z",
+    "in_reply_to_user_id": "54060157"
+}

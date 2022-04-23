@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "FightinBluHen51",
+                "id": "191889748"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "draesthetics1",
+                "id": "718478935894454272"
+            },
+            {
+                "start": 32,
+                "end": 41,
+                "username": "LRGBEATS",
+                "id": "2198868474"
+            },
+            {
+                "start": 42,
+                "end": 56,
+                "username": "GovLarryHogan",
+                "id": "2987671552"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1271576900562046976",
+    "created_at": "2020-06-12T22:55:32.000Z",
+    "in_reply_to_user_id": "191889748",
+    "text": "@FightinBluHen51 @draesthetics1 @LRGBEATS @GovLarryHogan They're doing it, I've seen adverts for it at urgent care places.  Question is...20 per day?  50?  Couple hundred?"
+}

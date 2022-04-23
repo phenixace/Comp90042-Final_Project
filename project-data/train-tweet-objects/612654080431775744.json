@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-06-21T16:11:29.000Z",
+    "source": "Twitter for iPhone",
+    "id": "612654080431775744",
+    "text": "@flightrisker @winterxlarrys @ajplus @lightskinzayn pretty sure that the stale bread is fucked up and unacceptable but not relevant.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "flightrisker",
+                "id": "39542769"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 37,
+                "end": 51,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39542769"
+}

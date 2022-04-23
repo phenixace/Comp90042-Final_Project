@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-15T15:08:04.000Z",
+    "id": "1250440763751579648",
+    "entities": {
+        "urls": [
+            {
+                "start": 115,
+                "end": 138,
+                "url": "https://t.co/wlzxpWPYZB",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "bindureddy",
+                "id": "6398252"
+            }
+        ]
+    },
+    "text": "@bindureddy WHO does not agree with this: COVID-19 virus can be transmitted in areas with hot and humid climates - https://t.co/wlzxpWPYZB",
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "6398252"
+}

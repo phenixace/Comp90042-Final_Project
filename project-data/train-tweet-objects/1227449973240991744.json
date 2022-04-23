@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "noor_pareesa",
+                "id": "1356736481252024323"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "probability": 0.9192,
+                "type": "Place",
+                "normalized_text": "Pakistan"
+            },
+            {
+                "start": 44,
+                "end": 48,
+                "probability": 0.9588,
+                "type": "Place",
+                "normalized_text": "china"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1225758891427991553",
+    "created_at": "2020-02-12T04:30:53.000Z",
+    "text": "@noor_pareesa Yes Pakistan is standing with china but make sure not with Chinese 😑",
+    "id": "1227449973240991744",
+    "source": "Twitter for iPhone"
+}

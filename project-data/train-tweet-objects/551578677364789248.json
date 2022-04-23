@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/tQ9KgP5zhM",
+                "expanded_url": "http://fxn.ws/1BqPmDh",
+                "display_url": "fxn.ws/1BqPmDh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 117,
+                "end": 131,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ]
+    },
+    "id": "551578677364789248",
+    "text": "“@FoxNews: 19-year-old girl wakes up during brain surgery, asks doctors ‘How’s it going?’ http://t.co/tQ9KgP5zhM via @foxnewshealth” oh no😳",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-04T03:19:39.000Z",
+    "in_reply_to_user_id": "1367531"
+}

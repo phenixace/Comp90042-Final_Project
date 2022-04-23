@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 32,
+                "end": 40,
+                "tag": "Walmart"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "nothingxs",
+                "id": "26316595"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-19T15:50:23.000Z",
+    "id": "523863740819988480",
+    "text": "@SaveJobsGlobal @nothingxs wow. #Walmart sucks? Who would have guessed? I’ve been boycotting them since the 90s.",
+    "source": "Tweetbot for iΟS"
+}

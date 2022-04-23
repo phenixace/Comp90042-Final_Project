@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 21,
+                "probability": 0.8981,
+                "type": "Organization",
+                "normalized_text": "Tesla"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "probability": 0.869,
+                "type": "Place",
+                "normalized_text": "Reno, NV"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/gcux3gb1HT",
+                "expanded_url": "http://bloom.bg/1pJF4XL",
+                "display_url": "bloom.bg/1pJF4XL"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/pYJzElfmXD",
+                "expanded_url": "https://twitter.com/BloombergNews/status/495305620342714369/photo/1",
+                "display_url": "pic.twitter.com/pYJzElfmXD"
+            }
+        ]
+    },
+    "created_at": "2014-08-03T07:10:45.000Z",
+    "in_reply_to_user_id": "34713362",
+    "source": "Twitter for iPhone",
+    "text": "“@BloombergNews: Tesla says it's broken ground near Reno, NV. for a $5 billion battery plant: http://t.co/gcux3gb1HT http://t.co/pYJzElfmXD”",
+    "id": "495829103975862272"
+}

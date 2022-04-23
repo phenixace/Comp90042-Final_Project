@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-07-18T09:54:59.000Z",
+    "id": "490072232535019520",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChrisDYork",
+                "id": "227423066"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "227423066",
+    "text": "@ChrisDYork so horrible and terrifying.never flying malaysian airlines! or any really"
+}

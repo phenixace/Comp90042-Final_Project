@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "LWN_",
+                "id": "611750160"
+            },
+            {
+                "start": 6,
+                "end": 14,
+                "username": "ewarren",
+                "id": "357606935"
+            }
+        ]
+    },
+    "id": "1245126826697072640",
+    "text": "@LWN_ @ewarren Is that what I said? I don't think so. I was referring your stupid comment about our president and crimes against humanity. Dope!! \n\n240000 deaths where??",
+    "created_at": "2020-03-31T23:12:23.000Z",
+    "in_reply_to_user_id": "611750160"
+}

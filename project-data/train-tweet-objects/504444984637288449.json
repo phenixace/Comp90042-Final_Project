@@ -1,0 +1,26 @@
+{
+    "id": "504444984637288449",
+    "text": "@JayOnrait Las Vegas Posse?! That should be the name of the new NHL team.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayOnrait",
+                "id": "22292529"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 66,
+                "probability": 0.9685,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-27T01:47:11.000Z"
+}

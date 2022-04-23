@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-18T02:09:29.000Z",
+    "text": "@adriandix A flat curve is a far longer curve with high chance of 2nd wave.We need more spread of virus for herd immunity but not so much as to overwhelm the hospital system. THAT was the initial goal post, now shifted to what? What is the acceptable ICU or severe case metric per 1M people?",
+    "id": "1273437647583580162",
+    "in_reply_to_user_id": "22997830",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "adriandix",
+                "id": "22997830"
+            }
+        ]
+    }
+}

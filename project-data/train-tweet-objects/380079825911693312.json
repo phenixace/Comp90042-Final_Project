@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BestProNews",
+                "id": "1635754086"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.5385,
+                "type": "Other",
+                "normalized_text": "god"
+            }
+        ]
+    },
+    "id": "380079825911693312",
+    "text": "@BestProNews thank god.",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-09-17T21:24:26.000Z",
+    "in_reply_to_user_id": "1635754086"
+}

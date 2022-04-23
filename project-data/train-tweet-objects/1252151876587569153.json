@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-20T08:27:25.000Z",
+    "text": "#LoEstamosConsiguiendo Eduardo Inda Does WHO recommend that all international mass gatherings be cancelled because of COVID-19?\nNo.",
+    "id": "1252151876587569153",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 22,
+                "tag": "LoEstamosConsiguiendo"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 34,
+                "probability": 0.988,
+                "type": "Person",
+                "normalized_text": "Eduardo Inda"
+            }
+        ]
+    }
+}

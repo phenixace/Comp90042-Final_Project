@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:43.000Z",
+    "text": "The most likely explanation is that there are some mechanisms that have evolved over the course of human/primates/mammal evolution and that there is some possibility of cross-immunity derived from other coronaviruses.\n#COVID19 \n17/x",
+    "id": "1276213499321094145",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 218,
+                "end": 226,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

@@ -1,0 +1,55 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/OUg8yTNMpn",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1276220094549569536/video/1",
+                "display_url": "pic.twitter.com/OUg8yTNMpn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 34,
+                "end": 47,
+                "username": "BorisJohnson",
+                "id": "3131144855"
+            },
+            {
+                "start": 114,
+                "end": 121,
+                "username": "Peston",
+                "id": "14157134"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 87,
+                "end": 100,
+                "tag": "herdimmunity"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.8521,
+                "type": "Place",
+                "normalized_text": "Italy"
+            },
+            {
+                "start": 53,
+                "end": 57,
+                "probability": 0.8626,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T18:25:56.000Z",
+    "id": "1276220094549569536",
+    "text": "28/. Italy’s health minister says @BorisJohnson told Italy’s PM on 13/3 that “he wants #herdimmunity.”\n\nOn 12/ 3, @peston wrote: “The strategy of the govt is to allow the virus to pass through the entire population so that we acquire herd immunity.”\n\nThe govt didn’t correct him. https://t.co/OUg8yTNMpn"
+}

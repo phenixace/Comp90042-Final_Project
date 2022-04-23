@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T02:44:28.000Z",
+    "text": "@FoxNews http://t.co/bBKszoA6ep",
+    "id": "614625312719048706",
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 31,
+                "url": "http://t.co/bBKszoA6ep",
+                "expanded_url": "https://twitter.com/tjharding/status/614625312719048706/photo/1",
+                "display_url": "pic.twitter.com/bBKszoA6ep"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

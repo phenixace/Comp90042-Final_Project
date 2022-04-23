@@ -1,0 +1,37 @@
+{
+    "source": "Hootsuite",
+    "created_at": "2014-10-06T15:45:18.000Z",
+    "id": "519151417811283970",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 14,
+                "username": "ForbesTech",
+                "id": "14885549"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 17,
+                "probability": 0.7057,
+                "type": "Organization",
+                "normalized_text": "HP"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/wvW6YLm1mI",
+                "expanded_url": "http://onforb.es/Z959Ji",
+                "display_url": "onforb.es/Z959Ji",
+                "status": 200,
+                "unwound_url": "https://www.forbes.com/sites/maggiemcgrath/2014/10/06/hewlett-packard-confirms-plans-to-split-in-two-cut-an-additional-5000-jobs/?utm_campaign=techtwittersf&utm_medium=social&utm_source=twitter"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14885549",
+    "text": "RT @ForbesTech: HP confirms that it’s splitting into two companies. And cutting 5,000 jobs. http://t.co/wvW6YLm1mI // ouch!"
+}

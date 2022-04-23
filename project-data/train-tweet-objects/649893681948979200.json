@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 46,
+                "probability": 0.6952,
+                "type": "Organization",
+                "normalized_text": "Catholic Church"
+            }
+        ]
+    },
+    "created_at": "2015-10-02T10:28:22.000Z",
+    "id": "649893681948979200",
+    "text": "@nytimes You all know where the Catholic Church stands on this. Did you think a decision by 5 people changed that?",
+    "in_reply_to_user_id": "807095"
+}

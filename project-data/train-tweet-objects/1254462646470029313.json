@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 40,
+                "end": 55,
+                "username": "PublicHealthRx",
+                "id": "1191041848099266560"
+            }
+        ],
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/bK6EvxJOuU",
+                "expanded_url": "https://twitter.com/jciabujaunity/status/1254462646470029313/photo/1",
+                "display_url": "pic.twitter.com/bK6EvxJOuU"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 75,
+                "end": 95,
+                "tag": "JCIAUKickoutCovid19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "4443586222",
+    "created_at": "2020-04-26T17:29:36.000Z",
+    "text": "Lets go straight to the questions. \nQ1. @PublicHealthRx What is COVID-19 ? #JCIAUKickoutCovid19 https://t.co/bK6EvxJOuU",
+    "id": "1254462646470029313",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump @KyDalePorker 🐸☕️",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-10-10T17:34:38.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 22,
+                "end": 35,
+                "username": "KyDalePorker",
+                "id": "360259217"
+            }
+        ]
+    },
+    "id": "652900056626892800"
+}

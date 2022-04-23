@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-06-21T17:48:06.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 90,
+                "end": 98,
+                "tag": "TheWire"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 49,
+                "probability": 0.4236,
+                "type": "Person",
+                "normalized_text": "Weebay"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 29,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "id": "612678393499357184",
+    "text": "@ChienJenn @TOMREEDNJ @ajplus @theobserver  Weebay got two pit beef sandwiches from Chaps #TheWire",
+    "in_reply_to_user_id": "17195363"
+}

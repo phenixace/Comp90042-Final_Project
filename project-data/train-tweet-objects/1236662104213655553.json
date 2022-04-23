@@ -1,0 +1,34 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-08T14:36:36.000Z",
+    "id": "1236662104213655553",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 50,
+                "probability": 0.8994,
+                "type": "Place",
+                "normalized_text": "Africa"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/mfYhjWT5tP",
+                "expanded_url": "https://www.bbc.com/news/amp/world-africa-51710617",
+                "display_url": "bbc.com/news/amp/world…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "#coronavirus misinformation spreading across Africa\n\n- Beards and Coronavirus\n- Rumoured cures\n- False positives\n\nhttps://t.co/mfYhjWT5tP"
+}

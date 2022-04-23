@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "NatGeo",
+                "id": "17471979"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "616797158155485184",
+    "created_at": "2015-07-03T02:34:36.000Z",
+    "in_reply_to_user_id": "17471979",
+    "text": ".@NatGeo Never mess with a cunning crow..the energy he spend fighting is saved while hitch-hiking!!"
+}

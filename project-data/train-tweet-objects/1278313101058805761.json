@@ -1,0 +1,33 @@
+{
+    "created_at": "2020-07-01T13:02:47.000Z",
+    "text": "@AlexBerenson ￼\n\"New research from Karolinska Institutet and Karolinska University Hospital shows that many people with mild or asymptomatic COVID-19 demonstrate so-called T-cell-mediated immunity to the new coronavirus, even if they have not tested positively for antibodies.\"",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 55,
+                "probability": 0.3491,
+                "type": "Person",
+                "normalized_text": "Karolinska Institutet"
+            },
+            {
+                "start": 61,
+                "end": 90,
+                "probability": 0.6594,
+                "type": "Organization",
+                "normalized_text": "Karolinska University Hospital"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278313101058805761",
+    "source": "Twitter for Android"
+}

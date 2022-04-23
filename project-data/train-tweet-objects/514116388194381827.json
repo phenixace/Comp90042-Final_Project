@@ -1,0 +1,23 @@
+{
+    "text": "@Cosmopolitan @NellieJMat",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "NellieJMat",
+                "id": "305223910"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T18:17:53.000Z",
+    "in_reply_to_user_id": "23482952",
+    "id": "514116388194381827"
+}

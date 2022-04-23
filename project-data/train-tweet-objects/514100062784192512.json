@@ -1,0 +1,40 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "292777349",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            },
+            {
+                "start": 8,
+                "end": 24,
+                "username": "Crispyporkbelly",
+                "id": "2423738520"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 48,
+                "tag": "ISISWasinMyBACKYARD"
+            },
+            {
+                "start": 72,
+                "end": 84,
+                "tag": "UNDERSTAND2"
+            },
+            {
+                "start": 90,
+                "end": 111,
+                "tag": "StillLOTEOfQUESTIONS"
+            }
+        ]
+    },
+    "id": "514100062784192512",
+    "created_at": "2014-09-22T17:13:01.000Z",
+    "text": "@PzFeed @Crispyporkbelly If #ISISWasinMyBACKYARD? I might begin 2 try 2 #UNDERSTAND2? But #StillLOTEOfQUESTIONS?"
+}

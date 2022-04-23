@@ -1,0 +1,49 @@
+{
+    "id": "504445894977417217",
+    "text": "“@JayOnrait: Looking forward to first matchup between Las Vegas NHL expansion team and a Canadian team http://t.co/nAmi3iv8NI” #painful",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "JayOnrait",
+                "id": "22292529"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 127,
+                "end": 135,
+                "tag": "painful"
+            }
+        ],
+        "urls": [
+            {
+                "start": 103,
+                "end": 125,
+                "url": "http://t.co/nAmi3iv8NI",
+                "expanded_url": "http://www.youtube.com/watch?v=KpXzASiXX8U&sns=tw",
+                "display_url": "youtube.com/watch?v=KpXzAS…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 62,
+                "probability": 0.7478,
+                "type": "Organization",
+                "normalized_text": "Las Vegas"
+            },
+            {
+                "start": 64,
+                "end": 66,
+                "probability": 0.7235,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-27T01:50:48.000Z"
+}

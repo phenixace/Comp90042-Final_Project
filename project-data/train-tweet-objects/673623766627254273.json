@@ -1,0 +1,17 @@
+{
+    "id": "673623766627254273",
+    "text": "@DRUDGE_REPORT The new normal for our government",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for Android",
+    "created_at": "2015-12-06T22:03:15.000Z"
+}

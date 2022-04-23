@@ -1,0 +1,44 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 100,
+                "end": 101,
+                "probability": 0.9031,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "jkaccinni",
+                "id": "532285060"
+            },
+            {
+                "start": 21,
+                "end": 36,
+                "username": "_fritobandito_",
+                "id": "986737322246000640"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "text": "@peddoc63 @jkaccinni @_FritoBandito_ @AmyMek  I don't understand, these things are not legal in the US how can this go on?",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-05T03:19:34.000Z",
+    "in_reply_to_user_id": "1379288282",
+    "id": "563175069027823617"
+}

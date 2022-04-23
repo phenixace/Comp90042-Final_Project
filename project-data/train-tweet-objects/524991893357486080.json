@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 11,
+                "end": 15,
+                "tag": "Yet"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19038934",
+    "created_at": "2014-10-22T18:33:15.000Z",
+    "id": "524991893357486080",
+    "text": "@CBCAlerts #Yet"
+}

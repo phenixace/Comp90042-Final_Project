@@ -1,0 +1,54 @@
+{
+    "source": "Hootsuite",
+    "entities": {
+        "mentions": [
+            {
+                "start": 6,
+                "end": 13,
+                "username": "banksy",
+                "id": "955432119240740864"
+            },
+            {
+                "start": 50,
+                "end": 60,
+                "username": "kowalshki",
+                "id": "103619034"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 36,
+                "probability": 0.8875,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            },
+            {
+                "start": 77,
+                "end": 82,
+                "probability": 0.4186,
+                "type": "Place",
+                "normalized_text": "Banksy"
+            }
+        ],
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/YPRBYT7fCT",
+                "expanded_url": "https://twitter.com/kowalshki/status/552966000560578563/photo/1",
+                "display_url": "pic.twitter.com/YPRBYT7fCT"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 84,
+                "end": 98,
+                "tag": "JeSuisCharlie"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T02:33:02.000Z",
+    "id": "553016500492439552",
+    "text": "Great @Banksy homage to Charlie Hebdo victims: RT @kowalshki: Nice work from Banksy #JeSuisCharlie http://t.co/YPRBYT7fCT"
+}

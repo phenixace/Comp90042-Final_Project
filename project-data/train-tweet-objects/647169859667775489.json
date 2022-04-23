@@ -1,0 +1,30 @@
+{
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": "54322823",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 63,
+                "tag": "BIAFRANS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ericbradner",
+                "id": "54322823"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            }
+        ]
+    },
+    "text": "@ericbradner @cnnpolitics support our FREEDOM. we are #BIAFRANS",
+    "created_at": "2015-09-24T22:04:53.000Z",
+    "id": "647169859667775489"
+}

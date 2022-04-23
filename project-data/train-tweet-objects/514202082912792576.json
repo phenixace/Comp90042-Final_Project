@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2014-09-22T23:58:24.000Z",
+    "id": "514202082912792576",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "username": "RSMarsh22",
+                "id": "1280951372"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 53,
+                "probability": 0.8645,
+                "type": "Organization",
+                "normalized_text": "McDonalds"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @RSMarsh22 is this how you'll quit from McDonalds?"
+}

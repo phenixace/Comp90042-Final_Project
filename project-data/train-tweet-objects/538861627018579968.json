@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 16,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "text": "I aint know Obama daughter was pregnant 😩",
+    "created_at": "2014-11-30T01:06:38.000Z",
+    "id": "538861627018579968"
+}

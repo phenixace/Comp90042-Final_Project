@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1238477703243849729",
+    "entities": {
+        "urls": [
+            {
+                "start": 44,
+                "end": 67,
+                "url": "https://t.co/cl7NW3Aodg",
+                "expanded_url": "https://twitter.com/vcbarbie/status/1238477703243849729/photo/1",
+                "display_url": "pic.twitter.com/cl7NW3Aodg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "DeckEntKingpin",
+                "id": "43981904"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "43981904",
+    "created_at": "2020-03-13T14:51:08.000Z",
+    "text": "@DeckEntKingpin We must read. By all means. https://t.co/cl7NW3Aodg"
+}

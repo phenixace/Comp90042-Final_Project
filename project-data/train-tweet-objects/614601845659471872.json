@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "614601845659471872",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 67,
+                "tag": "LegalizeMarijuana"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "WNTonight",
+                "id": "4861868667"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "86141342",
+    "created_at": "2015-06-27T01:11:13.000Z",
+    "text": "@WNTonight is it going to be all green when they #LegalizeMarijuana"
+}

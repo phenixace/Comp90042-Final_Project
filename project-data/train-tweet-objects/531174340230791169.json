@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/N80hfyOeri",
+                "expanded_url": "http://goo.gl/3kZBFr",
+                "display_url": "goo.gl/3kZBFr"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/CTkivJCNCk",
+                "expanded_url": "https://twitter.com/JuddLegum/status/531161914689482752/photo/1",
+                "display_url": "pic.twitter.com/CTkivJCNCk"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 21,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 83,
+                "probability": 0.2204,
+                "type": "Product",
+                "normalized_text": "Doritos-flavored Mountain Dew"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "Nasty. 🙅MT @JuddLegum: CONFIRMED: PepsiCo is making a Doritos-flavored Mountain Dew ... http://t.co/N80hfyOeri http://t.co/CTkivJCNCk",
+    "created_at": "2014-11-08T20:00:06.000Z",
+    "id": "531174340230791169",
+    "in_reply_to_user_id": "15464697"
+}

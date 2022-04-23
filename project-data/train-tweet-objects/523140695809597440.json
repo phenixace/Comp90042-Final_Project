@@ -1,0 +1,30 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523140695809597440",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 104,
+                "tag": "Nigeria"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "tonymarron",
+                "id": "20986497"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "20986497",
+    "created_at": "2014-10-17T15:57:16.000Z",
+    "text": "@tonymarron @BBCBreaking Really hope this is true. Previous truce announcements have collapsed. #Nigeria"
+}

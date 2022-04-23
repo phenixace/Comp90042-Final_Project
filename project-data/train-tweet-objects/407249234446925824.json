@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "2883841",
+    "id": "407249234446925824",
+    "created_at": "2013-12-01T20:45:58.000Z",
+    "source": "Twitter for Android",
+    "text": "@eonline it just won't be the same without him",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ]
+    }
+}

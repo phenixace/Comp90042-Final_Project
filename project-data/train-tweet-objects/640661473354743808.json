@@ -1,0 +1,18 @@
+{
+    "created_at": "2015-09-06T23:02:52.000Z",
+    "id": "640661473354743808",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 47,
+                "probability": 0.6113,
+                "type": "Product",
+                "normalized_text": "playstation controller"
+            }
+        ]
+    },
+    "text": "@MostObviousFact that's a playstation controller",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "2319494544"
+}

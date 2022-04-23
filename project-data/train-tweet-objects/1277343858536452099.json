@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-28T20:51:22.000Z",
+    "text": "@Ham66 They can believe what they like, but the evidence from studies is clear that face masks reduce the spread of #COVID19. https://t.co/54rDjh8meC",
+    "id": "1277343858536452099",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 116,
+                "end": 124,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/54rDjh8meC",
+                "expanded_url": "https://today.tamu.edu/2020/06/12/texas-am-study-face-masks-critical-in-preventing-spread-of-covid-19/",
+                "display_url": "today.tamu.edu/2020/06/12/tex…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1492212426196111360/qGh_e2Rg?format=jpg&name=orig",
+                        "width": 3000,
+                        "height": 2250
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1492212426196111360/qGh_e2Rg?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Texas A&M Study: Face Masks Critical In Preventing Spread Of COVID-19",
+                "description": "Researchers estimate that the measure prevented more than 66,000 infections in New York City in less than a month.",
+                "unwound_url": "https://today.tamu.edu/2020/06/12/texas-am-study-face-masks-critical-in-preventing-spread-of-covid-19/"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "Ham66",
+                "id": "23418450"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "23418450"
+}

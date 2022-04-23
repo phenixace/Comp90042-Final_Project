@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DuncanLindsay",
+                "id": "2535099714"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "coralieandrea",
+                "id": "27746161"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-15T20:20:57.000Z",
+    "text": "@DuncanLindsay @coralieandrea Soaps based on real life and the corona virus is part of lives now.. They don't have to have stats, maybe humour like singing happy birthday while washing hands before serving customers at the cafe 😁.. Just reinforce what government has said 👀",
+    "in_reply_to_user_id": "2535099714",
+    "id": "1239285479062855680"
+}

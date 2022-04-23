@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 108,
+                "end": 119,
+                "tag": "SarahPalin"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 48,
+                "probability": 0.8545,
+                "type": "Organization",
+                "normalized_text": "FoxNews"
+            }
+        ]
+    },
+    "id": "551584221094215680",
+    "text": "@FoxNews @foxnewshealth brain surgery and FoxNews. For a moment I though it might have to do something with #SarahPalin",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-04T03:41:40.000Z",
+    "in_reply_to_user_id": "1367531"
+}

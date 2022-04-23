@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 22,
+                "probability": 0.8897,
+                "type": "Person",
+                "normalized_text": "King O"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-08-18T21:10:00.000Z",
+    "id": "501476126171361281",
+    "text": "@realDonaldTrump King O has no time except for himself, golf and campaigning. The Court Jesters rule the land.",
+    "in_reply_to_user_id": "25073877"
+}

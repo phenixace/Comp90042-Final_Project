@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-06-21T16:15:31.000Z",
+    "source": "Twitter for iPhone",
+    "id": "612655092794142720",
+    "text": "@flightrisker @winterxlarrys @ajplus @lightskinzayn Um, I'm going to ask for a source on the stale bread theory.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "flightrisker",
+                "id": "39542769"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 37,
+                "end": 51,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39542769"
+}

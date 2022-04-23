@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T09:23:02.000Z",
+    "text": "@AlexBerenson Alex, be careful with antibody tests. Body deals usually so easy with the Sars COV 2, that most of people don't even develop antibodies.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 17,
+                "probability": 0.8325,
+                "type": "Person",
+                "normalized_text": "Alex"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278257797575118848",
+    "source": "Twitter for Android"
+}

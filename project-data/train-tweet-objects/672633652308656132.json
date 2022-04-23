@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "jimEastridge1",
+                "id": "537904539"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "WarriorsHart444",
+                "id": "1556853488"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 69,
+                "end": 75,
+                "probability": 0.9953,
+                "type": "Place",
+                "normalized_text": "Chicago"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@jimEastridge1 @WarriorsHart444 Gotta remind him what it was like in Chicago when he was organizing.",
+    "id": "672633652308656132",
+    "created_at": "2015-12-04T04:28:54.000Z",
+    "in_reply_to_user_id": "537904539"
+}

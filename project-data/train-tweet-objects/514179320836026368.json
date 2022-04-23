@@ -1,0 +1,17 @@
+{
+    "text": "@mashable hmmm.. I like my latte tasting latte and my beer tasting beer 😒",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T22:27:57.000Z",
+    "in_reply_to_user_id": "972651",
+    "id": "514179320836026368"
+}

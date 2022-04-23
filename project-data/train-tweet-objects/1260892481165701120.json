@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-05-14T11:19:28.000Z",
+    "text": "Protein linked - through genes - to what ails us. Any last thoughts @metapredict? I am about to flush my career down the loo... 😒 https://t.co/DaoNyF4ZgO",
+    "id": "1260892481165701120",
+    "entities": {
+        "urls": [
+            {
+                "start": 130,
+                "end": 153,
+                "url": "https://t.co/DaoNyF4ZgO",
+                "expanded_url": "https://twitter.com/fleurmeddens/status/1260291646438113280",
+                "display_url": "twitter.com/fleurmeddens/s…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 68,
+                "end": 80,
+                "username": "metapredict",
+                "id": "303972660"
+            }
+        ]
+    }
+}

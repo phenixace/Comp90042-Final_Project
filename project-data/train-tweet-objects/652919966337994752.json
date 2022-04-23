@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump .@realDonaldTrump: \"My looks. I'm very handsome\"- A broken mirror just told him that he is a \"superior American\"",
+    "source": "Twitter for Android",
+    "created_at": "2015-10-10T18:53:45.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 23,
+                "end": 39,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "id": "652919966337994752"
+}

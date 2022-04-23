@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/nXHAvOv6h1",
+                "expanded_url": "http://thefederalist.com/2015/01/21/im-a-stay-at-home-working-mom-and-im-sick-of-being-insulted-by-the-president/",
+                "display_url": "thefederalist.com/2015/01/21/im-…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 23,
+                "username": "JoyPullmann",
+                "id": "736840885"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 134,
+                "end": 139,
+                "tag": "SOTU"
+            }
+        ]
+    },
+    "created_at": "2015-01-21T13:59:46.000Z",
+    "in_reply_to_user_id": "736840885",
+    "source": "Twitter for iPhone",
+    "text": "Well said \"@JoyPullmann: Mr. President, stop mansplaining your \"need\" 2 have government care for *my* children http://t.co/nXHAvOv6h1 #SOTU”",
+    "id": "557900361256935426"
+}

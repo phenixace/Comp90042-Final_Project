@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-29T16:12:05.000Z",
+    "id": "505387419383119872",
+    "text": "@Sportsnet this is idiotic.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T20:02:32.000Z",
+    "id": "514142724942200833",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 31,
+                "end": 42,
+                "probability": 0.5907,
+                "type": "Person",
+                "normalized_text": "Charlo Green"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/9ko0ei19Sn",
+                "expanded_url": "http://cnn.it/1tVUwG4",
+                "display_url": "cnn.it/1tVUwG4"
+            },
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/HUOQFxCVpm",
+                "expanded_url": "https://twitter.com/CNNMoney/status/514102597087526913/photo/1",
+                "display_url": "pic.twitter.com/HUOQFxCVpm"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "“@CNN: …Watch Alaskan reporter Charlo Green quit live on air. http://t.co/9ko0ei19Sn http://t.co/HUOQFxCVpm” Hire her!!!"
+}

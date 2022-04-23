@@ -1,0 +1,26 @@
+{
+    "text": "@HuffingtonPost.  Sincere condolence to the Walker Family on their lost . RIP brother",
+    "id": "407190624983859200",
+    "source": "Twitter for BlackBerry®",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 56,
+                "probability": 0.7128,
+                "type": "Person",
+                "normalized_text": "Walker Family"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T16:53:04.000Z",
+    "in_reply_to_user_id": "14511951"
+}

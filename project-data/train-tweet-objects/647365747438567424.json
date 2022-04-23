@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "54322823",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 42,
+                "probability": 0.914,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "ericbradner",
+                "id": "54322823"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "ItsJustJill",
+                "id": "15656004"
+            }
+        ]
+    },
+    "text": ".@ericbradner @ItsJustJill How's old Bernie's foreign policy. Does he want our military to share their bullet proof vest? How about bullets?",
+    "created_at": "2015-09-25T11:03:16.000Z",
+    "id": "647365747438567424"
+}

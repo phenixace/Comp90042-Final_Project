@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "DrunkPepsi"
+            },
+            {
+                "start": 12,
+                "end": 18,
+                "tag": "nasty"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/0GmBCFCgY2",
+                "expanded_url": "http://goo.gl/3kZBFr",
+                "display_url": "goo.gl/3kZBFr"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/WVTaK1VPuA",
+                "expanded_url": "https://twitter.com/JuddLegum/status/531161914689482752/photo/1",
+                "display_url": "pic.twitter.com/WVTaK1VPuA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 32,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "text": "#DrunkPepsi #nasty MT @JuddLegum PepsiCo is making Doritos-flavored Mntn Dew called \"Dewitos\" http://t.co/0GmBCFCgY2 http://t.co/WVTaK1VPuA",
+    "created_at": "2014-11-08T20:04:08.000Z",
+    "id": "531175355894493184",
+    "in_reply_to_user_id": "15464697"
+}

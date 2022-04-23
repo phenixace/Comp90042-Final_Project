@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-06-27T04:25:14.000Z",
+    "id": "614650671934099456",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 20,
+                "probability": 0.4929,
+                "type": "Organization",
+                "normalized_text": "WH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ]
+    },
+    "text": "@thehill seems the WH knew the ruling before it ever was announced..",
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1917731"
+}

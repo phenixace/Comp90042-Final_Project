@@ -1,0 +1,39 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump Trump is speaking live right now and you're not showing it, CNN! WHY??? 😤",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 26,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 82,
+                "end": 84,
+                "probability": 0.9426,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "created_at": "2015-10-10T16:35:56.000Z",
+    "id": "652885283159957504"
+}

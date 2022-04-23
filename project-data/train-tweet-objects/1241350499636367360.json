@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 123,
+                "end": 127,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 265,
+                "end": 288,
+                "url": "https://t.co/mSLlwMC7BQ",
+                "expanded_url": "https://twitter.com/Pooja_Tripathii/status/1241350499636367360/photo/1",
+                "display_url": "pic.twitter.com/mSLlwMC7BQ"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 91,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1241350499636367360",
+    "created_at": "2020-03-21T13:06:36.000Z",
+    "text": "Who is now spreading this  unscientific claim that pets (cats and dogs) spread #coronavirus and inturn abandoning them!!\n\n @WHO's FAQ section clearly rejects this claim!\n\nPlease don't abandon the sweetest thing that happened to us.\nThey spread happiness, not virus https://t.co/mSLlwMC7BQ"
+}

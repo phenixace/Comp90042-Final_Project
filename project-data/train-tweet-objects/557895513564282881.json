@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-01-21T13:40:30.000Z",
+    "in_reply_to_user_id": "736840885",
+    "source": "Twitter for iPhone",
+    "text": "@JoyPullmann @jonswerens and what of single parents? It seems the author's rights aren't much impeded by others having theirs.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JoyPullmann",
+                "id": "736840885"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "jonswerens",
+                "id": "14301652"
+            }
+        ]
+    },
+    "id": "557895513564282881"
+}

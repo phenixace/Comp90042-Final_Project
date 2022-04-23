@@ -1,0 +1,42 @@
+{
+    "in_reply_to_user_id": "2883841",
+    "id": "407441701662236673",
+    "created_at": "2013-12-02T09:30:46.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 42,
+                "probability": 0.5186,
+                "type": "Other",
+                "normalized_text": "Glee Season Five"
+            },
+            {
+                "start": 50,
+                "end": 62,
+                "probability": 0.9909,
+                "type": "Person",
+                "normalized_text": "Cory Monteith"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/t6vBObqlKy",
+                "expanded_url": "https://twitter.com/eonline/status/407248574099894272",
+                "display_url": "twitter.com/eonline/status…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 76,
+                "end": 84,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "text": "Just like what happened to Glee Season Five after Cory Monteith's death. 😢 \"@eonline https://t.co/t6vBObqlKy\""
+}

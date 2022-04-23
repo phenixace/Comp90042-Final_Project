@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "KarstenKinstler",
+                "id": "417434949"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "KaraCorvus",
+                "id": "4599236569"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "18501574",
+    "created_at": "2020-06-30T10:30:26.000Z",
+    "text": "@KarstenKinstler @KaraCorvus I have a public health degree and a doctorate so maybe I can hope to be your equal -- what is the minimum required immunity rate of a population for bare minimum herd immunity to be achieved?\n\nAnd which of those countries has achieved that?\n\nWe'll wait for your answer",
+    "id": "1277912369973407745",
+    "source": "Twitter for Android"
+}

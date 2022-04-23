@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-03T20:29:08.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "507264048065679360",
+    "text": "@FoxNews @FoxCarReport sorry i don't remote control cars!!!",
+    "in_reply_to_user_id": "1367531"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-12-07T02:14:13.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "DLoesch",
+                "id": "7702542"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "PenguinsFan62",
+                "id": "1955344290"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "673686924205363200",
+    "text": "@DLoesch @PenguinsFan62 easier to keep an eye on them there?",
+    "in_reply_to_user_id": "7702542"
+}

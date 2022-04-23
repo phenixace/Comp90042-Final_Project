@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 38,
+                "end": 46,
+                "tag": "Android"
+            },
+            {
+                "start": 48,
+                "end": 60,
+                "tag": "iPhoneSucks"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "katrinalome",
+                "id": "575853327"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-09-24T02:44:43.000Z",
+    "text": "@katrinalome and that's why I have an #Android. #iPhoneSucks",
+    "id": "514606326287462400",
+    "in_reply_to_user_id": "575853327"
+}

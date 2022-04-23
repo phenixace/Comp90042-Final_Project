@@ -1,0 +1,35 @@
+{
+    "text": "The most dangerous intersection in 2019 was John &amp; Main. Over a 5-year timeline, it's Main &amp; Dundurn\n\nhttps://t.co/nhy4N5womC #HamOnt",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 134,
+                "end": 141,
+                "tag": "HamOnt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 47,
+                "probability": 0.3742,
+                "type": "Person",
+                "normalized_text": "John"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/nhy4N5womC",
+                "expanded_url": "https://www.cbc.ca/news/canada/hamilton/collisions-1.5616176",
+                "display_url": "cbc.ca/news/canada/ha…",
+                "status": 200,
+                "unwound_url": "https://www.cbc.ca/news/canada/hamilton/collisions-1.5616176"
+            }
+        ]
+    },
+    "id": "1273375238408069121",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-17T22:01:29.000Z"
+}

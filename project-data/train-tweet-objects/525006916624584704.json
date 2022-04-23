@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "DamoSpin",
+                "id": "22523382"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19038934",
+    "created_at": "2014-10-22T19:32:57.000Z",
+    "id": "525006916624584704",
+    "text": "@CBCAlerts @DamoSpin  check ballistics of bullet to dead gunmans weapon,  solved"
+}

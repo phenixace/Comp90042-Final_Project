@@ -1,0 +1,40 @@
+{
+    "in_reply_to_user_id": "126903716",
+    "text": "@Gotham3 America is America with the immigrants that started it. The country belonged to the native Indians. Took their land and made it USA",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "probability": 0.9899,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "probability": 0.9879,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 137,
+                "end": 139,
+                "probability": 0.9402,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-07-01T05:29:20.000Z",
+    "id": "748750313704726528"
+}

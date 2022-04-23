@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 22,
+                "probability": 0.9966,
+                "type": "Person",
+                "normalized_text": "Donald"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 87,
+                "tag": "NoRespect"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-18T21:56:54.000Z",
+    "id": "501487930586968064",
+    "text": "@realDonaldTrump Donald you're wrong. It would be a travesty had he attended #NoRespect",
+    "in_reply_to_user_id": "25073877"
+}

@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "jimEastridge1",
+                "id": "537904539"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "username": "mkues65",
+                "id": "714947334"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@jimEastridge1 @mkues65 powerful! Thx 😊",
+    "id": "672526957616095232",
+    "created_at": "2015-12-03T21:24:56.000Z",
+    "in_reply_to_user_id": "537904539"
+}

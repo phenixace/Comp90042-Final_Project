@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-06-22T00:10:43.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 111,
+                "tag": "NonStory"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 8,
+                "end": 20,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "id": "612774683293929472",
+    "text": "@ajplus @theobserver its a customary tactic to make suspects more comfortable and more likely to talk #NonStory",
+    "in_reply_to_user_id": "110396781"
+}

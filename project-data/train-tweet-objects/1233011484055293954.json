@@ -1,0 +1,34 @@
+{
+    "id": "1233011484055293954",
+    "created_at": "2020-02-27T12:50:20.000Z",
+    "source": "Twitter for Android",
+    "text": "Are there any specific medicines to prevent or treat the new coronavirus? #Coronavirus #Covid_19 #WHO https://t.co/JSBEvM5IG0",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 86,
+                "tag": "Coronavirus"
+            },
+            {
+                "start": 87,
+                "end": 96,
+                "tag": "Covid_19"
+            },
+            {
+                "start": 97,
+                "end": 101,
+                "tag": "WHO"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/JSBEvM5IG0",
+                "expanded_url": "https://twitter.com/Netcare911_sa/status/1233011484055293954/photo/1",
+                "display_url": "pic.twitter.com/JSBEvM5IG0"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "text": "@peddoc63 @_FritoBandito_ @AmyMek HI FEISTY.IT'S SUZIQ.YOU ARE 150%CORRECT/RT.GOES COMPLETELY AGAINST U.S. CONSTITUTION!GODBLESSAMERICA SZIQ",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "_fritobandito_",
+                "id": "986737322246000640"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "created_at": "2015-02-05T00:10:34.000Z",
+    "in_reply_to_user_id": "1379288282",
+    "id": "563127504991313920"
+}

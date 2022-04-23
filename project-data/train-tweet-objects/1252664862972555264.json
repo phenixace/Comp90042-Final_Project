@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-04-21T18:25:51.000Z",
+    "id": "1252664862972555264",
+    "entities": {
+        "annotations": [
+            {
+                "start": 144,
+                "end": 150,
+                "probability": 0.9971,
+                "type": "Place",
+                "normalized_text": "Ireland"
+            },
+            {
+                "start": 246,
+                "end": 250,
+                "probability": 0.9868,
+                "type": "Place",
+                "normalized_text": "Spain"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ciarakellydoc",
+                "id": "1449136658612375554"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "username": "Tupp_Ed",
+                "id": "2968541"
+            }
+        ]
+    },
+    "text": "@ciarakellydoc @Tupp_Ed 1/ You don't get it, do you. The app is for when we do start going out and about even more than we are now (lockdown in Ireland has been half-arsed at best; imagine if the govt. had tried to implement protocols similar to Spain's).",
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "2177175701"
+}

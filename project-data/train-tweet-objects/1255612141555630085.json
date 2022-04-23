@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-29T21:37:17.000Z",
+    "text": "@amend4_ I registered online at https://t.co/hm5JlnM7r0 on Sunday and have yet to hear back from anyone. I tried to call the number provided yesterday and after waiting on hold for 5 minutes a voice came on and said, “Hello? Hello? I can’t hear you. We must have a bad connection. Bye.”",
+    "id": "1255612141555630085",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 32,
+                "end": 55,
+                "url": "https://t.co/hm5JlnM7r0",
+                "expanded_url": "http://txcovidtest.org",
+                "display_url": "txcovidtest.org"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1276353157"
+}

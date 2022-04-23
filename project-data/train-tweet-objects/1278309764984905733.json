@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T12:49:32.000Z",
+    "text": "@AlexBerenson Antibody tests are not accurate enough to base any clinical decisions around. Talk to a doctor or someone in the clinical chemistry, molecular, or microbiology field, they will tell you the same thing.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278309764984905733",
+    "source": "TweetDeck"
+}

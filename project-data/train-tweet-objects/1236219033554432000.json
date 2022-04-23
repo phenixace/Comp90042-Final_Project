@@ -1,0 +1,41 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-07T09:16:00.000Z",
+    "id": "1236219033554432000",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 69,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 24,
+                "probability": 0.5571,
+                "type": "Place",
+                "normalized_text": "Egypt"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "probability": 0.8751,
+                "type": "Place",
+                "normalized_text": "Africa"
+            }
+        ],
+        "urls": [
+            {
+                "start": 196,
+                "end": 219,
+                "url": "https://t.co/O2yMSraBbh",
+                "expanded_url": "https://www.euronews.com/2020/02/12/watch-live-who-gives-update-on-covid-19-coronavirus",
+                "display_url": "euronews.com/2020/02/12/wat…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "February 14, 2020\n\n-Egypt records Africa's first case of #coronavirus\n- Health ministry says victim is a foreign national who had not shown any symptoms\n- Was identified based on travel patterns\n\nhttps://t.co/O2yMSraBbh"
+}

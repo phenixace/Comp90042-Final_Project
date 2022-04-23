@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "191058667",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 37,
+                "probability": 0.7546,
+                "type": "Person",
+                "normalized_text": "Trumpers"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "gtconway3d",
+                "id": "471677441"
+            }
+        ]
+    },
+    "text": "@gtconway3d Two more friends, Trumpers both, just told me that’s it’s just like the flu and told me to stop with the fear mongering.",
+    "created_at": "2020-03-11T23:14:49.000Z",
+    "id": "1237879679782092801"
+}

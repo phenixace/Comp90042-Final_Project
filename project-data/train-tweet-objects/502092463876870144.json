@@ -1,0 +1,17 @@
+{
+    "text": "@NBCNews",
+    "id": "502092463876870144",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-20T13:59:06.000Z",
+    "in_reply_to_user_id": "14173315"
+}

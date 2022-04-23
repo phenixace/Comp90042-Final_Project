@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-27T03:19:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ainvvy",
+                "id": "14293240"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 33,
+                "probability": 0.9973,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1276716882725396481",
+    "text": "@ainvvy For herd immunity in India, at least 750M people would have to get infected. We are not even close to it.",
+    "in_reply_to_user_id": "14293240"
+}

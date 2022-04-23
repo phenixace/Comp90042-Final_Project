@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1082694056839397376",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 102,
+                "url": "https://t.co/AK3hqPK4Af",
+                "expanded_url": "https://twitter.com/SenatorBiaggi/status/1238828155131047939/photo/1",
+                "display_url": "pic.twitter.com/AK3hqPK4Af"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 67,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1238828155131047939",
+    "created_at": "2020-03-14T14:03:43.000Z",
+    "text": ".@WHO FACT: taking a hot bath does not prevent the new #coronavirus disease 3/ https://t.co/AK3hqPK4Af"
+}

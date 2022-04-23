@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "extrasexual",
+                "id": "2928124344"
+            },
+            {
+                "start": 97,
+                "end": 110,
+                "username": "mcgill_kylee",
+                "id": "576608857"
+            }
+        ],
+        "urls": [
+            {
+                "start": 73,
+                "end": 95,
+                "url": "http://t.co/Rbre7ZvQXS",
+                "expanded_url": "https://twitter.com/extrasexual/status/536540403109879809/photo/1",
+                "display_url": "pic.twitter.com/Rbre7ZvQXS"
+            }
+        ]
+    },
+    "text": "“@extrasexual: a letter written to parents inside all 1970s Lego sets😳💯  http://t.co/Rbre7ZvQXS” @mcgill_kylee gingers dad wrote this",
+    "id": "536542053824741376",
+    "in_reply_to_user_id": "131752870",
+    "created_at": "2014-11-23T15:29:28.000Z"
+}

@@ -1,0 +1,47 @@
+{
+    "in_reply_to_user_id": "2750467438",
+    "id": "1271428346979721218",
+    "created_at": "2020-06-12T13:05:14.000Z",
+    "source": "Tweetbot for Mac",
+    "text": "@AndreBeltempo @Plibra123 @MoriartyLab @DFisman @ASPphysician @BogochIsaac “You’d think”. That’s the problem in a nut, right there.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AndreBeltempo",
+                "id": "2750467438"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "Plibra123",
+                "id": "1375976088"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "username": "MoriartyLab",
+                "id": "768976342369071105"
+            },
+            {
+                "start": 39,
+                "end": 47,
+                "username": "DFisman",
+                "id": "1096205507348623360"
+            },
+            {
+                "start": 48,
+                "end": 61,
+                "username": "ASPphysician",
+                "id": "1345345074"
+            },
+            {
+                "start": 62,
+                "end": 74,
+                "username": "BogochIsaac",
+                "id": "1093695069176000512"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-03-06T00:13:17.000Z",
+    "text": "@MaryanneChisho2 Don’t open it. Use gloves and put it away. The reason that Coronavirus went stellar in Northern Italy was deliveries of fabric from China for the fashion industry. And I personally believe that the incubation period is up for debate...",
+    "id": "1235720066366242816",
+    "entities": {
+        "annotations": [
+            {
+                "start": 76,
+                "end": 86,
+                "probability": 0.4615,
+                "type": "Person",
+                "normalized_text": "Coronavirus"
+            },
+            {
+                "start": 104,
+                "end": 117,
+                "probability": 0.9087,
+                "type": "Place",
+                "normalized_text": "Northern Italy"
+            },
+            {
+                "start": 149,
+                "end": 153,
+                "probability": 0.996,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "MaryanneChisho2",
+                "id": "1111701057225150465"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1111701057225150465"
+}

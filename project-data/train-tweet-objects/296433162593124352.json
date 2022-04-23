@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "1109500842",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 58,
+                "probability": 0.9903,
+                "type": "Person",
+                "normalized_text": "Octavia Spencer"
+            }
+        ]
+    },
+    "created_at": "2013-01-30T01:42:28.000Z",
+    "text": "@ArenaOfPictures the woman looks a bit like Octavia Spencer.",
+    "id": "296433162593124352"
+}

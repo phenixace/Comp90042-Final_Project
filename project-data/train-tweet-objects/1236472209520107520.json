@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "williamlong",
+                "id": "2786701"
+            }
+        ]
+    },
+    "source": "Twidere for Android",
+    "id": "1236472209520107520",
+    "created_at": "2020-03-08T02:02:01.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly @williamlong 刚刚删。很多推看到有之前的截图"
+}

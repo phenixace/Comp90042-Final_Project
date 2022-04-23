@@ -1,0 +1,17 @@
+{
+    "id": "528347815697993728",
+    "created_at": "2014-11-01T00:48:30.000Z",
+    "text": "@TwitchyTeam : Let the government do it. It will be better for the children. And if you believe that",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TwitchyTeam",
+                "id": "469194846"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "469194846",
+    "source": "Twitter for iPad"
+}

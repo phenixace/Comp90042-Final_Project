@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 260,
+                "end": 283,
+                "url": "https://t.co/5Vo3UC1U9K",
+                "expanded_url": "https://twitter.com/stefsimanowitz/status/1257723489383038977?s=21",
+                "display_url": "twitter.com/stefsimanowitz…"
+            },
+            {
+                "start": 284,
+                "end": 307,
+                "url": "https://t.co/GqeGc7Awc2",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1257723489383038977",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 236,
+                "end": 249,
+                "tag": "HerdImmunity"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 25,
+                "probability": 0.9894,
+                "type": "Person",
+                "normalized_text": "Patrick Vallance"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T11:25:04.000Z",
+    "id": "1276114181838843905",
+    "text": "21/. That Patrick Vallance &amp; no Minister has been able to tell us why this significant change was made, is extraordinary but unsurprising.\n\nBut we don’t actually need them to explain.\n\nThe answer is v clear.\n\nThe govt is pursuing a #HerdImmunity strategy. https://t.co/5Vo3UC1U9K https://t.co/GqeGc7Awc2"
+}

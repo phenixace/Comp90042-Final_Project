@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "514546828571054080",
+    "in_reply_to_user_id": "14511951",
+    "created_at": "2014-09-23T22:48:18.000Z",
+    "text": "@HuffingtonPost iPhone 6 Plus.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "id": "527167513071980544",
+    "text": "@UberFacts A PUPPY SIZED SPIDER?!???????!!!!!!?!??!",
+    "created_at": "2014-10-28T18:38:24.000Z",
+    "in_reply_to_user_id": "95023423"
+}

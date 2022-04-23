@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 61,
+                "probability": 0.882,
+                "type": "Person",
+                "normalized_text": "Wilson"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @brianstelter yes...extensive emphasis on Wilson...info on the physical evidence was \"hidden\" in the coverage...hard to find.",
+    "id": "538859248466137089",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:57:11.000Z"
+}

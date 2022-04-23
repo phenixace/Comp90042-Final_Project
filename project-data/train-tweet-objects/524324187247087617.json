@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-20T22:20:02.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 90,
+                "tag": "EMABiggestFansJustinBieber"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 27,
+                "probability": 0.9964,
+                "type": "Place",
+                "normalized_text": "Brazil"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "id": "524324187247087617",
+    "text": "@AlfredoFlores way to Brazil, way to my house, I understand ...#EMABiggestFansJustinBieber",
+    "in_reply_to_user_id": "19743731"
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-07-01T14:52:23.000Z",
+    "text": "@PeterFaberSP @AlexBerenson @FatEmperor It can’t mutate and disappear, bc literally natural selection. Also Coronavirus family don’t drift antigenically with a rate remotely resembling influenza.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "PeterFaberSP",
+                "id": "2775860961"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "username": "FatEmperor",
+                "id": "2383882980"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2775860961",
+    "id": "1278340679647793153",
+    "source": "Twitter for iPhone"
+}

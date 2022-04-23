@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-01T00:37:50.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "“@washingtonpost: Fanged deer... http://t.co/mwAC2HilfQ http://t.co/6w9wnX70Fm”\nLittle-known cousin of the Toothy Cow? @AndrewPeterson",
+    "entities": {
+        "urls": [
+            {
+                "start": 33,
+                "end": 55,
+                "url": "http://t.co/mwAC2HilfQ",
+                "expanded_url": "http://wapo.st/1wR2vqJ",
+                "display_url": "wapo.st/1wR2vqJ"
+            },
+            {
+                "start": 56,
+                "end": 78,
+                "url": "http://t.co/6w9wnX70Fm",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528312406498635777/photo/1",
+                "display_url": "pic.twitter.com/6w9wnX70Fm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 119,
+                "end": 134,
+                "username": "AndrewPeterson",
+                "id": "9982122"
+            }
+        ]
+    },
+    "id": "528345130718097409",
+    "source": "Twitter for iPhone"
+}

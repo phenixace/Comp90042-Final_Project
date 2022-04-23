@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump i'm Iranian and i like Mr.trump among  other candidates.",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 52,
+                "probability": 0.9162,
+                "type": "Person",
+                "normalized_text": "Mr.trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "created_at": "2015-10-10T16:45:17.000Z",
+    "id": "652887637821227008"
+}

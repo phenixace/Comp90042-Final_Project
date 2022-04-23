@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 48,
+                "probability": 0.9861,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 29,
+                "username": "elaineprettyeye",
+                "id": "423717038"
+            }
+        ]
+    },
+    "id": "614127145502162944",
+    "text": "@NewsWatch33 @elaineprettyeye The root of America's dysfunction: money.   Working to preserve human ownership/domination as a right.",
+    "created_at": "2015-06-25T17:44:56.000Z",
+    "in_reply_to_user_id": "343051698"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "text": "@guardian Shocking news.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ]
+    },
+    "created_at": "2015-01-07T11:58:04.000Z",
+    "id": "552796307627470848",
+    "in_reply_to_user_id": "87818409"
+}

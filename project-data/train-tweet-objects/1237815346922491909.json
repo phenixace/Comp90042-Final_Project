@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-11T18:59:10.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1237815346922491909",
+    "text": "@vktion Ignorance is bliss until it kills you or the ones you love!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "vktion",
+                "id": "1098365028"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1098365028"
+}

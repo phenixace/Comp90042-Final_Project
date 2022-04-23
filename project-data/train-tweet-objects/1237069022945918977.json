@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "938543395735093248",
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/lIPUqBeBpS",
+                "expanded_url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+                "display_url": "gisanddata.maps.arcgis.com/apps/opsdashbo…"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-09T17:33:33.000Z",
+    "text": "This website also provides a detailed map of the cases of COVID-19 around the world: https://t.co/lIPUqBeBpS",
+    "id": "1237069022945918977"
+}

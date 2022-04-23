@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-27T00:06:41.000Z",
+    "source": "Twitter Web Client",
+    "id": "504419694968049664",
+    "text": "@theScore hockey in the desert? smh Bettman you douchebag",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.3732,
+                "type": "Person",
+                "normalized_text": "Bettman"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15256225"
+}

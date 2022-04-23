@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-01T03:41:37.000Z",
+    "in_reply_to_user_id": "2270677056",
+    "text": "@buttergolfer @washingtonpost what the...!",
+    "id": "528391382327889920",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "buttergolfer",
+                "id": "2270677056"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,44 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-27T22:33:20.000Z",
+    "id": "560203935399821312",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Charswebs",
+                "id": "1711473260"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 30,
+                "end": 44,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "urls": [
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/XZYLkoh5Jw",
+                "expanded_url": "https://twitter.com/stupidnotawesom/status/560203935399821312/photo/1",
+                "display_url": "pic.twitter.com/XZYLkoh5Jw"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1711473260",
+    "text": "@Charswebs @peddoc63 @DB10524 @LodiSilverado @AmyMek Don't mess with these ladies! Sharia my ass lol http://t.co/XZYLkoh5Jw"
+}

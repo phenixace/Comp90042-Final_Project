@@ -1,0 +1,30 @@
+{
+    "source": "twicca",
+    "entities": {
+        "mentions": [
+            {
+                "start": 26,
+                "end": 37,
+                "username": "KennyBurns",
+                "id": "15937499"
+            },
+            {
+                "start": 50,
+                "end": 62,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 120,
+                "end": 136,
+                "tag": "GeorgeZimmerman"
+            }
+        ]
+    },
+    "created_at": "2013-07-14T15:25:39.000Z",
+    "id": "356434323697704961",
+    "text": "just what I expected!  RT @KennyBurns: Just in... @BarackObama &amp; Department of Justice file Federal Charges against #GeorgeZimmerman",
+    "in_reply_to_user_id": "15937499"
+}

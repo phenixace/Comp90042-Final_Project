@@ -1,0 +1,53 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/DKBQI5tx4B",
+                "expanded_url": "https://twitter.com/carsonscottLIVE/status/544512672742395904/photo/1",
+                "display_url": "pic.twitter.com/DKBQI5tx4B"
+            },
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/DKBQI5tx4B",
+                "expanded_url": "https://twitter.com/carsonscottLIVE/status/544512672742395904/photo/1",
+                "display_url": "pic.twitter.com/DKBQI5tx4B"
+            },
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/DKBQI5tx4B",
+                "expanded_url": "https://twitter.com/carsonscottLIVE/status/544512672742395904/photo/1",
+                "display_url": "pic.twitter.com/DKBQI5tx4B"
+            },
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/DKBQI5tx4B",
+                "expanded_url": "https://twitter.com/carsonscottLIVE/status/544512672742395904/photo/1",
+                "display_url": "pic.twitter.com/DKBQI5tx4B"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 10,
+                "end": 22,
+                "username": "SkyBusiness",
+                "id": "1424683902594072579"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 66,
+                "tag": "sydneysiege"
+            }
+        ]
+    },
+    "id": "544512676643500033",
+    "text": "BREAKING  @SkyBusiness: freed hostage borne high from #sydneysiege w/c.4 paramedic teams on the scene http://t.co/DKBQI5tx4B ( carsonscottLI",
+    "source": "GroupTweet",
+    "created_at": "2014-12-15T15:21:53.000Z"
+}

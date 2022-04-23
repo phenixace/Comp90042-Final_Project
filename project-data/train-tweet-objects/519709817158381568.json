@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08T04:44:10.000Z",
+    "in_reply_to_user_id": "16331010",
+    "source": "Twitter Web Client",
+    "text": "@TMZ @EvelDick Oh well that's too bad.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            },
+            {
+                "start": 5,
+                "end": 14,
+                "username": "EvelDick",
+                "id": "21999375"
+            }
+        ]
+    },
+    "id": "519709817158381568"
+}

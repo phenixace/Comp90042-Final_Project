@@ -1,0 +1,32 @@
+{
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 69,
+                "end": 76,
+                "username": "Kredo0",
+                "id": "131538331"
+            }
+        ],
+        "urls": [
+            {
+                "start": 41,
+                "end": 64,
+                "url": "https://t.co/lyMi604HSf",
+                "expanded_url": "http://goo.gl/aHI7pl",
+                "display_url": "goo.gl/aHI7pl"
+            },
+            {
+                "start": 77,
+                "end": 100,
+                "url": "https://t.co/8MHkDvWjZK",
+                "expanded_url": "https://twitter.com/FreeBeacon/status/673664899571060736/photo/1",
+                "display_url": "pic.twitter.com/8MHkDvWjZK"
+            }
+        ]
+    },
+    "created_at": "2015-12-07T00:46:42.000Z",
+    "id": "673664899571060736",
+    "text": "72 DHS Employees on Terrorist Watch List https://t.co/lyMi604HSf via @Kredo0 https://t.co/8MHkDvWjZK"
+}

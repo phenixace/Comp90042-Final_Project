@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "972651",
+    "id": "544315385126727681",
+    "created_at": "2014-12-15T02:17:55.000Z",
+    "source": "Twitter for Android",
+    "text": "@mashable keeping it classy!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    }
+}

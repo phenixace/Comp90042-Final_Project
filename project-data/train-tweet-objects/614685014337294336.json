@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-27T06:41:42.000Z",
+    "id": "614685014337294336",
+    "text": "@thehill the only colors that the  WH should bear are red, white, and blue in honor of members of our armed forces and veterans.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1917731"
+}

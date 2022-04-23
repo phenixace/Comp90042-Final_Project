@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-25T12:10:57.000Z",
+    "id": "515111208593412096",
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "probability": 0.8538,
+                "type": "Place",
+                "normalized_text": "Houston"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 45,
+                "end": 69,
+                "tag": "ridiculouswedonthaveone"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "@Sportsnet how bout Houston? We need a team. #ridiculouswedonthaveone",
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

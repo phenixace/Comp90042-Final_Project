@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JorgeCastillaE",
+                "id": "22079479"
+            }
+        ],
+        "urls": [
+            {
+                "start": 16,
+                "end": 39,
+                "url": "https://t.co/TVL4QVzmJC",
+                "expanded_url": "https://twitter.com/kandelnirmal/status/1235652748391129088?s=21",
+                "display_url": "twitter.com/kandelnirmal/s…"
+            },
+            {
+                "start": 40,
+                "end": 63,
+                "url": "https://t.co/3NRtrCa9WE",
+                "expanded_url": "https://twitter.com/kandelnirmal/status/1235652748391129088",
+                "display_url": "twitter.com/kandelnirmal/s…"
+            }
+        ]
+    },
+    "id": "1235653054738939904",
+    "text": "@JorgeCastillaE https://t.co/TVL4QVzmJC https://t.co/3NRtrCa9WE",
+    "created_at": "2020-03-05T19:47:00.000Z",
+    "in_reply_to_user_id": "22079479"
+}

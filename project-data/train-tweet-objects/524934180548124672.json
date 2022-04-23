@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "8736882",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "globeandmail",
+                "id": "8736882"
+            },
+            {
+                "start": 63,
+                "end": 77,
+                "username": "rcmpgrcpolice",
+                "id": "39728435"
+            },
+            {
+                "start": 78,
+                "end": 91,
+                "username": "OttawaPolice",
+                "id": "23937894"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T14:43:56.000Z",
+    "text": "@globeandmail Stay safe police and soldiers protecting us all! @rcmpgrcpolice @OttawaPolice",
+    "id": "524934180548124672"
+}

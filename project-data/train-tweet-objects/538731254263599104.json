@@ -1,0 +1,39 @@
+{
+    "id": "538731254263599104",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 36,
+                "probability": 0.8835,
+                "type": "Person",
+                "normalized_text": "Stephanopoulos"
+            },
+            {
+                "start": 111,
+                "end": 113,
+                "probability": 0.5408,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "created_at": "2014-11-29T16:28:34.000Z",
+    "text": "@deray Because @ABC &amp;  Stephanopoulos made a murderer even richer &amp;should hang their heads in shame\rboycotting ABC &amp; advertisers of the show",
+    "in_reply_to_user_id": "29417304",
+    "source": "Twitter for Windows Phone"
+}

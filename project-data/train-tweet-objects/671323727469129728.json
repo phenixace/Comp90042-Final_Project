@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-11-30T13:43:43.000Z",
+    "text": "@Bipartisanism @Anomaly100 This guy😤 He just follows his farts in the wind. Doesn't matter the direction💨💨💨",
+    "id": "671323727469129728",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "Anomaly100",
+                "id": "27234909"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

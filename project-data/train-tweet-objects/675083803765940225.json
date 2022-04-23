@@ -1,0 +1,56 @@
+{
+    "source": "Tweetbot for iΟS",
+    "in_reply_to_user_id": "14662354",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/exm2j5MJVV",
+                "expanded_url": "http://bit.ly/1NeClEl",
+                "display_url": "bit.ly/1NeClEl"
+            },
+            {
+                "start": 115,
+                "end": 138,
+                "url": "https://t.co/gIqsnDYZwq",
+                "expanded_url": "https://twitter.com/Roscoe_Inglish/status/675083803765940225/photo/1",
+                "display_url": "pic.twitter.com/gIqsnDYZwq"
+            },
+            {
+                "start": 91,
+                "end": 114,
+                "url": "https://t.co/jO42Ivgh18",
+                "expanded_url": "https://twitter.com/WashTimes/status/675043569367982081/photo/1",
+                "display_url": "pic.twitter.com/jO42Ivgh18"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 13,
+                "username": "WashTimes",
+                "id": "14662354"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 41,
+                "tag": "ISIS"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 23,
+                "probability": 0.5921,
+                "type": "Person",
+                "normalized_text": "El Chapo"
+            }
+        ]
+    },
+    "created_at": "2015-12-10T22:44:55.000Z",
+    "id": "675083803765940225",
+    "text": "RT @WashTimes: ‘El Chapo’ threatens #ISIS: My men will destroy you https://t.co/exm2j5MJVV https://t.co/jO42Ivgh18 https://t.co/gIqsnDYZwq"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-06T05:35:55.000Z",
+    "text": "@GininaTeacup1 @MaryanneChisho2 You need to study epidemiology of viruses.  They cannot live outside of a host for an extended period.  Corona viruses cannot persist on a dry surface.  Your claims are unfounded and unscientific rumors designed to scare people.  That is completely unnecessary.",
+    "id": "1235801261884104704",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "GininaTeacup1",
+                "id": "1200446966976700418"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "MaryanneChisho2",
+                "id": "1111701057225150465"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1200446966976700418"
+}

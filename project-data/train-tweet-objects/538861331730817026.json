@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 16,
+                "username": "chriskingstl",
+                "id": "35326924"
+            },
+            {
+                "start": 100,
+                "end": 116,
+                "username": "GStephanopoulos",
+                "id": "17074440"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 19,
+                "probability": 0.9804,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ]
+    },
+    "text": "MT @chriskingstl CNN producer I talked to said doubted they paid. Cred got it // you mean it wasn't @GStephanopoulos's gentle rub and tug?",
+    "id": "538861331730817026",
+    "in_reply_to_user_id": "35326924",
+    "created_at": "2014-11-30T01:05:27.000Z"
+}

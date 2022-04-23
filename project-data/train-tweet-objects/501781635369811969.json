@@ -1,0 +1,26 @@
+{
+    "text": "@NBCNews What was Robert Downey Jr doing there?",
+    "id": "501781635369811969",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 33,
+                "probability": 0.9194,
+                "type": "Person",
+                "normalized_text": "Robert Downey Jr"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T17:23:59.000Z",
+    "in_reply_to_user_id": "14173315"
+}

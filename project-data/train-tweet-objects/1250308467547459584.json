@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T06:22:22.000Z",
+    "text": "@SABCNews Iam sure 5G has its own health issues but there is no link between 5G and covid 19",
+    "id": "1250308467547459584",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

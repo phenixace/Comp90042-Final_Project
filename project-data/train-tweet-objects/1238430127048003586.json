@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 61,
+                "end": 73,
+                "probability": 0.7402,
+                "type": "Organization",
+                "normalized_text": "Spanish River"
+            },
+            {
+                "start": 84,
+                "end": 86,
+                "probability": 0.7549,
+                "type": "Organization",
+                "normalized_text": "FAU"
+            },
+            {
+                "start": 92,
+                "end": 94,
+                "probability": 0.7171,
+                "type": "Organization",
+                "normalized_text": "FIU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "pbcgov",
+                "id": "26534343"
+            }
+        ]
+    },
+    "id": "1238430127048003586",
+    "in_reply_to_user_id": "26534343",
+    "created_at": "2020-03-13T11:42:05.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@pbcgov okay but when are we going to be getting school off? Spanish River student. FAU and FIU and several other schools are on lockdowns."
+}

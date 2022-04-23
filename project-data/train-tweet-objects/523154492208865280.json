@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "523154492208865280",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 24,
+                "probability": 0.5061,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 79,
+                "tag": "BringBackOurGirls"
+            }
+        ],
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/YYyQfW7YeW",
+                "expanded_url": "http://bbc.in/1sQiiTJ",
+                "display_url": "bbc.in/1sQiiTJ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T16:52:05.000Z",
+    "text": "“@BBCBreaking: Boko Haram ceasefire includes release of 200+ #BringBackOurGirls hostages, Nigerian government says http://t.co/YYyQfW7YeW”"
+}

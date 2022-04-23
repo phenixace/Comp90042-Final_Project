@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "638057401766178817",
+    "text": "@CNN This is awkward for me... I thought he had already died a while ago.",
+    "created_at": "2015-08-30T18:35:13.000Z",
+    "in_reply_to_user_id": "759251"
+}

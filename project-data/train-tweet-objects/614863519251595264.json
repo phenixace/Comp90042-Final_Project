@@ -1,0 +1,29 @@
+{
+    "id": "614863519251595264",
+    "text": "@ABC #Whitehouse #rainbow SO INAPPROPRIATE! Not PRESIDENTIAL at all. AGREE OR DISAGREE with the Ruling, this was BAD TASTE!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 5,
+                "end": 16,
+                "tag": "Whitehouse"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "tag": "rainbow"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter for Windows Phone",
+    "created_at": "2015-06-27T18:31:01.000Z"
+}

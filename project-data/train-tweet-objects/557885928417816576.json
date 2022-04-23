@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 12,
+                "probability": 0.5414,
+                "type": "Person",
+                "normalized_text": "Mr. President"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/zJnBuUwZk5",
+                "expanded_url": "http://thefederalist.com/2015/01/21/im-a-stay-at-home-working-mom-and-im-sick-of-being-insulted-by-the-president/",
+                "display_url": "thefederalist.com/2015/01/21/im-…",
+                "status": 200,
+                "unwound_url": "https://thefederalist.com/2015/01/21/im-a-stay-at-home-working-mom-and-im-sick-of-being-insulted-by-the-president/"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 110,
+                "end": 115,
+                "tag": "SOTU"
+            }
+        ]
+    },
+    "created_at": "2015-01-21T13:02:25.000Z",
+    "source": "TweetDeck",
+    "text": "Mr. President, stop mansplaining your \"need\" to have government care for *my* children http://t.co/zJnBuUwZk5 #SOTU",
+    "id": "557885928417816576"
+}

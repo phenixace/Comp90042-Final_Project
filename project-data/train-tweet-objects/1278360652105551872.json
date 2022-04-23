@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-07-01T16:11:44.000Z",
+    "text": "@dr__Pepe__ @CNN I agree !\nLet´s protect the most vulnerable, keeping them at home just like the workers that are vulnerable too",
+    "id": "1278360652105551872",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 16,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "134198718"
+}

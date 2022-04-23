@@ -1,0 +1,17 @@
+{
+    "id": "1256064242572300293",
+    "text": "Had a grown man today tell me: \n1. He refuses to watch news, all liars, all of em\n2. Can’t believe any numbers, all numbers are spun\n3. Yet he has some numbers that he believes, and they demonstrate that Covid 19 is just like the flu \n\nThis is why America is fucked",
+    "entities": {
+        "annotations": [
+            {
+                "start": 248,
+                "end": 254,
+                "probability": 0.9938,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-05-01T03:33:46.000Z"
+}

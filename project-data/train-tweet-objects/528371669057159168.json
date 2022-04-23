@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01T02:23:17.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "Smart deer to hide from humans for so long @washingtonpost",
+    "id": "528371669057159168",
+    "entities": {
+        "mentions": [
+            {
+                "start": 43,
+                "end": 58,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

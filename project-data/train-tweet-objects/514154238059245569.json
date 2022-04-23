@@ -1,0 +1,17 @@
+{
+    "source": "Echofon",
+    "created_at": "2014-09-22T20:48:17.000Z",
+    "id": "514154238059245569",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN she had to have won the lottery. That's the only way you can quit like that...lol"
+}

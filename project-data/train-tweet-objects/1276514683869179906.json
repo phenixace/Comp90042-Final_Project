@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1249186462257434624",
+    "entities": {
+        "urls": [
+            {
+                "start": 258,
+                "end": 281,
+                "url": "https://t.co/xR7cL9Pjw1",
+                "expanded_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7191274/",
+                "display_url": "ncbi.nlm.nih.gov/pmc/articles/P…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 32,
+                "username": "piscesprncess76",
+                "id": "948217380"
+            },
+            {
+                "start": 33,
+                "end": 49,
+                "username": "thedominator939",
+                "id": "923156857"
+            },
+            {
+                "start": 50,
+                "end": 63,
+                "username": "physicsdad23",
+                "id": "4151707301"
+            },
+            {
+                "start": 64,
+                "end": 75,
+                "username": "NYGovCuomo",
+                "id": "232268199"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T13:56:31.000Z",
+    "id": "1276514683869179906",
+    "text": "@FaleciaMaureen @piscesprncess76 @thedominator939 @physicsdad23 @NYGovCuomo 😍🥰research!!!😍🥰😍\n\n“Conclusion:\nThe study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic.”\n\nhttps://t.co/xR7cL9Pjw1"
+}

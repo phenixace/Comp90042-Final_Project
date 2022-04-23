@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "username": "wr_whitney",
+                "id": "314879386"
+            }
+        ],
+        "urls": [
+            {
+                "start": 32,
+                "end": 54,
+                "url": "http://t.co/2hDHeLk9ko",
+                "expanded_url": "http://tinyurl.com/ncapaoz",
+                "display_url": "tinyurl.com/ncapaoz"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-17T20:22:08.000Z",
+    "text": "@jensan1332   look at this url  http://t.co/2hDHeLk9ko    @wr_whitney",
+    "in_reply_to_user_id": "342737639",
+    "id": "512335718757437440"
+}

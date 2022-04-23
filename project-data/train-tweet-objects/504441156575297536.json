@@ -1,0 +1,33 @@
+{
+    "id": "504441156575297536",
+    "text": "Looking forward to first matchup between Las Vegas NHL expansion team and a Canadian team http://t.co/z5AqvpWYft",
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/z5AqvpWYft",
+                "expanded_url": "http://www.youtube.com/watch?v=KpXzASiXX8U&sns=tw",
+                "display_url": "youtube.com/watch?v=KpXzAS…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 49,
+                "probability": 0.7763,
+                "type": "Organization",
+                "normalized_text": "Las Vegas"
+            },
+            {
+                "start": 51,
+                "end": 53,
+                "probability": 0.7208,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "source": "Twitter for Websites",
+    "created_at": "2014-08-27T01:31:58.000Z"
+}

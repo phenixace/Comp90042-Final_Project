@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 60,
+                "end": 75,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Elizabeth Warren"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 117,
+                "end": 146,
+                "tag": "TrumpIsTheWORSTPresidentEVER"
+            },
+            {
+                "start": 147,
+                "end": 158,
+                "tag": "TrumpVirus"
+            }
+        ]
+    },
+    "created_at": "2020-04-04T21:48:49.000Z",
+    "text": "I will support the Democratic nominee despite the fact that Elizabeth Warren, my candidate, will not be the nominee. #TrumpIsTheWORSTPresidentEVER #TrumpVirus",
+    "id": "1246555350058151936"
+}

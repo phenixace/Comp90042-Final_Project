@@ -1,0 +1,17 @@
+{
+    "text": "@emmasvuitton i think it’s a music festival ??? idk",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "emmasvuitton",
+                "id": "1162829718917435394"
+            }
+        ]
+    },
+    "created_at": "2020-03-12T23:16:21.000Z",
+    "in_reply_to_user_id": "1162829718917435394",
+    "id": "1238242455864123397"
+}

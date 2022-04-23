@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web Client",
+    "id": "654402560053280768",
+    "in_reply_to_user_id": "434655422",
+    "created_at": "2015-10-14T21:05:03.000Z",
+    "text": "@JustThatGuyBen @CNNPolitics @CNN @BernieSanders @nytimes \nSTOP DENYING THE PEOPLES CHAMPION!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 34,
+                "end": 48,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 49,
+                "end": 57,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    }
+}

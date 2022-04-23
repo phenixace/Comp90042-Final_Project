@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 246,
+                "end": 269,
+                "url": "https://t.co/7KtB80tmZo",
+                "expanded_url": "http://books.com",
+                "display_url": "books.com"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 142,
+                "end": 152,
+                "probability": 0.733,
+                "type": "Place",
+                "normalized_text": "China Italy"
+            },
+            {
+                "start": 160,
+                "end": 169,
+                "probability": 0.6719,
+                "type": "Place",
+                "normalized_text": "Britain N."
+            },
+            {
+                "start": 174,
+                "end": 181,
+                "probability": 0.8511,
+                "type": "Place",
+                "normalized_text": "S. Korea"
+            },
+            {
+                "start": 219,
+                "end": 224,
+                "probability": 0.4203,
+                "type": "Organization",
+                "normalized_text": "Google"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "Shall I close my front door because Coronavirus might float into my home?Is COVID-19 airborne?  Can it it travel in the wind all the way from China Italy great Britain N. or S. Korea? Huh?  Tell me.  Dime.  TALK TO ME. Google blog libertyjustice https://t.co/7KtB80tmZo. liberty",
+    "created_at": "2020-03-03T23:19:22.000Z",
+    "id": "1234981725349928961"
+}

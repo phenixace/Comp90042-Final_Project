@@ -1,0 +1,17 @@
+{
+    "id": "538956295470981120",
+    "created_at": "2014-11-30T07:22:48.000Z",
+    "text": "@deray Did they?  i understood that none of the networks that discussed an interview with him were paying him??  Is it confirmed he got $$?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "29417304",
+    "source": "Twitter Web Client"
+}

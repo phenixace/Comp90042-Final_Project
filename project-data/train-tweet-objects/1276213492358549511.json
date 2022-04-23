@@ -1,0 +1,34 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:42.000Z",
+    "text": "Similarly, in a recent study of an isolated Alpine community in Austria shows that even in a close-knit community only a fraction of people became infected.\n#COVID19\n11/x\nhttps://t.co/Cm1oOVu6sq",
+    "id": "1276213492358549511",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 157,
+                "end": 165,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 171,
+                "end": 194,
+                "url": "https://t.co/Cm1oOVu6sq",
+                "expanded_url": "https://twitter.com/NAChristakis/status/1276108130125066241?s=20",
+                "display_url": "twitter.com/NAChristakis/s…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 70,
+                "probability": 0.9988,
+                "type": "Place",
+                "normalized_text": "Austria"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

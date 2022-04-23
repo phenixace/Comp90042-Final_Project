@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "serbretas",
+                "id": "2820009808"
+            }
+        ]
+    },
+    "created_at": "2015-10-02T10:40:26.000Z",
+    "id": "649896716368539648",
+    "text": "@serbretas it's rubbish. how cld it be seen as anything other than endorsement? Suggests Vatican didn't appreciate how far they overstepped",
+    "in_reply_to_user_id": "2820009808"
+}

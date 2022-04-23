@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 11,
+                "end": 20,
+                "tag": "BREAKING"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/bKi2wrxquo",
+                "expanded_url": "http://fxn.ws/1rg7oEN",
+                "display_url": "fxn.ws/1rg7oEN"
+            }
+        ]
+    },
+    "text": "“@FoxNews: #BREAKING: Missing Afghan soldiers reportedly found near Canadian border http://t.co/bKi2wrxquo” For weed or healthcare?",
+    "created_at": "2014-09-22T17:44:30.000Z",
+    "id": "514107985451581440",
+    "in_reply_to_user_id": "1367531",
+    "source": "Twitter for iPhone"
+}

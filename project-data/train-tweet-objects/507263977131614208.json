@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-03T20:28:51.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 72,
+                "end": 86,
+                "tag": "bunchofcrooks"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 34,
+                "probability": 0.8566,
+                "type": "Person",
+                "normalized_text": "Senator Reid"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "507263977131614208",
+    "text": "@FoxNews @FoxCarReport Senator Reid's son probably negotiated the deal! #bunchofcrooks",
+    "in_reply_to_user_id": "1367531"
+}

@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 106,
+                "end": 111,
+                "probability": 0.5749,
+                "type": "Person",
+                "normalized_text": "Ed Liu"
+            },
+            {
+                "start": 114,
+                "end": 121,
+                "probability": 0.3171,
+                "type": "Person",
+                "normalized_text": "JAX Pres"
+            },
+            {
+                "start": 134,
+                "end": 148,
+                "probability": 0.9865,
+                "type": "Person",
+                "normalized_text": "Jill Goldthwait"
+            }
+        ],
+        "urls": [
+            {
+                "start": 230,
+                "end": 253,
+                "url": "https://t.co/QTqBXTckPW",
+                "expanded_url": "https://www.jax.org/news-and-insights/2020/march/social-distance-ed-liu",
+                "display_url": "jax.org/news-and-insig…",
+                "status": 200,
+                "unwound_url": "https://www.jax.org/news-and-insights/2020/march/social-distance-ed-liu"
+            }
+        ]
+    },
+    "id": "1243636453474734080",
+    "created_at": "2020-03-27T20:30:10.000Z",
+    "source": "Sprout Social",
+    "text": "Social distancing: what is it, why do we need it, and how do we do it right? 🧐\n\nPart 1️⃣of a series from Ed Liu (JAX Pres &amp; CEO) and Jill Goldthwait (R.N., former Maine Senator, local politician), addressing these questions:\n\nhttps://t.co/QTqBXTckPW"
+}

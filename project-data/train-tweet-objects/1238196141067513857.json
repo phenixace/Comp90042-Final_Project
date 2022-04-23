@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 110,
+                "url": "https://t.co/XKL6T1d8CP",
+                "expanded_url": "https://torontosun.com/news/local-news/braun-pets-so-far-not-affected-by-coronavirus",
+                "display_url": "torontosun.com/news/local-new…",
+                "status": 200,
+                "unwound_url": "https://torontosun.com/news/local-news/braun-pets-so-far-not-affected-by-coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DavidLieber",
+                "id": "43342961"
+            }
+        ]
+    },
+    "created_at": "2020-03-12T20:12:19.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1238196141067513857",
+    "text": "@DavidLieber It’s actually an important bit of misinformation that needs to be busted. https://t.co/XKL6T1d8CP",
+    "in_reply_to_user_id": "43342961"
+}

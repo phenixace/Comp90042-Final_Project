@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "999073224834015235",
+    "created_at": "2020-03-03T21:45:46.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MdFacep",
+                "id": "999073224834015235"
+            }
+        ]
+    },
+    "id": "1234958169383686145",
+    "text": "@MdFacep Incorrect...but I will be patient and we will re-examine this tweet and CDC’s information \nWe’ve seen the cases of people being exposed and didn’t present with s/s up to 28 days"
+}

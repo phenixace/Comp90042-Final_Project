@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-05-24T03:35:20.000Z",
+    "text": "@LifeNewsHQ She doesn't care about the girls.....it's a game for her &amp; BO.",
+    "id": "470045355086995457",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "LifeNewsHQ",
+                "id": "50434933"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50434933"
+}

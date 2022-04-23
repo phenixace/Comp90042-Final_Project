@@ -1,0 +1,44 @@
+{
+    "id": "504442354250842112",
+    "text": "@JayOnrait hey! Maybe we could get @mickelhouse to read the Canadian National Anthem #teshtip #grapefruitnoise",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayOnrait",
+                "id": "22292529"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "username": "mickelhouse",
+                "id": "491705755"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 85,
+                "end": 93,
+                "tag": "teshtip"
+            },
+            {
+                "start": 94,
+                "end": 110,
+                "tag": "grapefruitnoise"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 83,
+                "probability": 0.6985,
+                "type": "Other",
+                "normalized_text": "Canadian National Anthem"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-27T01:36:44.000Z"
+}

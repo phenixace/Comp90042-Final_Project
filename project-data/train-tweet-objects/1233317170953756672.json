@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "742062276757315588",
+    "created_at": "2020-02-28T09:05:02.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "micheal_olainn",
+                "id": "742062276757315588"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "business",
+                "id": "34713362"
+            }
+        ]
+    },
+    "id": "1233317170953756672",
+    "text": "@micheal_olainn @business WHO says coronaviruses, including the one that causes COVID-19, can persist on surfaces for a few hours or up to several days, most likely 5"
+}

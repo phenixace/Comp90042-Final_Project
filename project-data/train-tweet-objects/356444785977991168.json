@@ -1,0 +1,30 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 21,
+                "end": 32,
+                "username": "KennyBurns",
+                "id": "15937499"
+            },
+            {
+                "start": 45,
+                "end": 57,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 115,
+                "end": 131,
+                "tag": "GeorgeZimmerman"
+            }
+        ]
+    },
+    "created_at": "2013-07-14T16:07:14.000Z",
+    "id": "356444785977991168",
+    "text": "This is not true RT “@KennyBurns: Just in... @BarackObama &amp; Department of Justice file Federal Charges against #GeorgeZimmerman”",
+    "in_reply_to_user_id": "15937499"
+}

@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "457984599",
+    "id": "1261693709470633985",
+    "created_at": "2020-05-16T16:23:16.000Z",
+    "source": "Twitter Web App",
+    "text": "@BreitbartNews Thank goodness, have been extremely worried how the pangender-community is dealing with this. Not as much worried, but still concerned about the genderfluid males and females, as well.\nWhen can we expect the results? https://t.co/FSZwSaB9BP",
+    "entities": {
+        "urls": [
+            {
+                "start": 232,
+                "end": 255,
+                "url": "https://t.co/FSZwSaB9BP",
+                "expanded_url": "https://twitter.com/Whoo_HolyHell/status/1261693709470633985/photo/1",
+                "display_url": "pic.twitter.com/FSZwSaB9BP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "BreitbartNews",
+                "id": "457984599"
+            }
+        ]
+    }
+}

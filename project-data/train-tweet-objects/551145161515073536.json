@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ishaantharoor",
+                "id": "44317593"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "drapignata",
+                "id": "155598890"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "44317593",
+    "created_at": "2015-01-02T22:37:00.000Z",
+    "id": "551145161515073536",
+    "text": "@ishaantharoor @drapignata la capelu de la judía! Jajaja!!",
+    "source": "Twitter for iPhone"
+}

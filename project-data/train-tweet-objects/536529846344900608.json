@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-23T14:40:58.000Z",
+    "text": "@BuzzFeedUK @malorieblackman To my mind we are now at least fifty years behind our times and understanding. It's no accident.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "username": "malorieblackman",
+                "id": "77577036"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536529846344900608",
+    "source": "Twitter Web Client"
+}

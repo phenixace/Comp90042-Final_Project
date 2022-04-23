@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@JuddLegum what the fuck...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ]
+    },
+    "created_at": "2015-01-13T03:48:06.000Z",
+    "id": "554847328285102080",
+    "in_reply_to_user_id": "15464697"
+}

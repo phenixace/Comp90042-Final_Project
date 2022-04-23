@@ -1,0 +1,21 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "There is a world-wide shortage of masks, so World Health Organization urges people to use masks wisely.\n\nThe most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of... #COVID19 #FightCOVID19",
+    "id": "1242127932295970816",
+    "in_reply_to_user_id": "279093790",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 250,
+                "end": 258,
+                "tag": "COVID19"
+            },
+            {
+                "start": 259,
+                "end": 272,
+                "tag": "FightCOVID19"
+            }
+        ]
+    },
+    "created_at": "2020-03-23T16:35:51.000Z"
+}

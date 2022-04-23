@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-27T22:44:39.000Z",
+    "id": "560206781293809664",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "username": "jjauthor",
+                "id": "177584156"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "username": "LodiSilverado",
+                "id": "820136761162657792"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 99,
+                "end": 103,
+                "probability": 0.9983,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1379288282",
+    "text": "@peddoc63 @jjauthor @DB10524 @LodiSilverado @AmyMek  Often wonder. If this were any other country, Obama would have been overthrown long ago"
+}

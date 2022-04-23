@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "L_A_Baker",
+                "id": "259096053"
+            }
+        ]
+    },
+    "created_at": "2020-06-28T00:40:58.000Z",
+    "id": "1277039250903633920",
+    "text": "@L_A_Baker I think all the anti vaxxer should buy a huge island and go live there with no science. I don’t need them putting my family at risk.",
+    "in_reply_to_user_id": "259096053"
+}

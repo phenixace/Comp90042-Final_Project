@@ -1,0 +1,39 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T09:00:49.000Z",
+    "text": "@StephenAtHome @DrLaPook whos a bigger pedophile... stephen colbert or steven spielberg?",
+    "id": "1250348340346142720",
+    "entities": {
+        "annotations": [
+            {
+                "start": 52,
+                "end": 66,
+                "probability": 0.9969,
+                "type": "Person",
+                "normalized_text": "stephen colbert"
+            },
+            {
+                "start": 71,
+                "end": 86,
+                "probability": 0.9901,
+                "type": "Person",
+                "normalized_text": "steven spielberg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

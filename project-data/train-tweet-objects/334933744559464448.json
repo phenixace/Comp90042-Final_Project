@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "created_at": "2013-05-16T07:30:02.000Z",
+    "id": "334933744559464448",
+    "text": "@stephenfry",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15439395"
+}

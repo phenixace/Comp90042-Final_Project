@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.9673,
+                "type": "Place",
+                "normalized_text": "South America"
+            },
+            {
+                "start": 78,
+                "end": 109,
+                "probability": 0.4897,
+                "type": "Other",
+                "normalized_text": "South American Goliath Birdeater"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/JoUWcEhBjx",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "display_url": "pic.twitter.com/JoUWcEhBjx"
+            }
+        ]
+    },
+    "id": "527163351621963779",
+    "text": "“@UberFacts: A puppy-sized spider was found in South America and known as the'South American Goliath Birdeater.' http://t.co/JoUWcEhBjx” bye",
+    "created_at": "2014-10-28T18:21:51.000Z",
+    "in_reply_to_user_id": "95023423"
+}

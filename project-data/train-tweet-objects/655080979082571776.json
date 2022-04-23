@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 118,
+                "end": 128,
+                "tag": "Kasich4Us"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 75,
+                "end": 86,
+                "username": "JohnKasich",
+                "id": "18020081"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:00:50.000Z",
+    "id": "655080979082571776",
+    "text": "@CNN @HillaryClinton @BernieSanders \"Terrible dirge\"...they should look at @JohnKasich reforms interestingly reliable #Kasich4Us",
+    "source": "Twitter for Android"
+}

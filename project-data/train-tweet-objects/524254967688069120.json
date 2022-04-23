@@ -1,0 +1,36 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-20T17:44:59.000Z",
+    "id": "524254967688069120",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BoycottAhava",
+                "id": "104815494"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "jvplive",
+                "id": "78706973"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "username": "aicnews",
+                "id": "156658404"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 59,
+                "tag": "BDS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "104815494",
+    "text": "@BoycottAhava @jvplive @aicnews has nothing to do with #BDS,  lies,  lies and more lies."
+}

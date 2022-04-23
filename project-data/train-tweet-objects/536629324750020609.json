@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "16973333",
+    "text": "@Independent pity they mainly sell kits now, to allow unimaginative re-creation of branded stuff",
+    "source": "Twitter for Windows Phone",
+    "created_at": "2014-11-23T21:16:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "id": "536629324750020609"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21184460",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BillHanage",
+                "id": "21184460"
+            },
+            {
+                "start": 128,
+                "end": 143,
+                "username": "HarvardChanSPH",
+                "id": "42651647"
+            }
+        ]
+    },
+    "id": "1270425500490612738",
+    "created_at": "2020-06-09T18:40:17.000Z",
+    "text": "@BillHanage Bill, what is your opinion on recent concern that the serology tests we are using are not sensitive enough? Some at @HarvardChanSPH suggested the tests were validated with controls from patients in hospital. Symptomatic and truly mild cases may not develop dectable antibodies"
+}

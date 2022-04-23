@@ -1,0 +1,34 @@
+{
+    "source": "Recite News",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "username": "LAist",
+                "id": "6487292"
+            }
+        ],
+        "urls": [
+            {
+                "start": 52,
+                "end": 75,
+                "url": "https://t.co/YkAbFbUn2k",
+                "expanded_url": "https://laist.com/2020/05/08/coronavirus-covid19-los-angeles-guide-rules-reopening-closures-tips-advice-where-can-i-go.php",
+                "display_url": "laist.com/2020/05/08/cor…",
+                "status": 200,
+                "unwound_url": "https://laist.com/news/coronavirus-covid19-los-angeles-guide-rules-reopening-closures-tips-advice-where-can-i-go"
+            }
+        ]
+    },
+    "text": "@who Your Tweet was quoted in an article by @LAist  https://t.co/YkAbFbUn2k",
+    "id": "1258809954925936647",
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-05-08T17:24:15.000Z"
+}

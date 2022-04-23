@@ -1,0 +1,24 @@
+{
+    "id": "673621625837854720",
+    "text": "@DRUDGE_REPORT # 72 that are known...\n#THE SHADOW KNOWS (for sure)!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 38,
+                "end": 42,
+                "tag": "THE"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter Web App",
+    "created_at": "2015-12-06T21:54:45.000Z"
+}

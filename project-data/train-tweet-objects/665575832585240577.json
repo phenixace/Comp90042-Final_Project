@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "BAMAPERRY",
+                "id": "43508994"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "BringtheFlag",
+                "id": "49964679"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 82,
+                "end": 89,
+                "tag": "Mizzou"
+            },
+            {
+                "start": 90,
+                "end": 95,
+                "tag": "Yale"
+            },
+            {
+                "start": 99,
+                "end": 113,
+                "tag": "IthacaCollege"
+            }
+        ]
+    },
+    "text": "@BAMAPERRY @BringTheFlag how about giving these young men a good education say at #Mizzou #Yale or #IthacaCollege. They'll be welcomed there",
+    "id": "665575832585240577",
+    "in_reply_to_user_id": "43508994",
+    "created_at": "2015-11-14T17:03:38.000Z"
+}

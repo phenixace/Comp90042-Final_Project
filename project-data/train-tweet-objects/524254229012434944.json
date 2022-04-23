@@ -1,0 +1,51 @@
+{
+    "source": "Twitter for Android Tablets",
+    "created_at": "2014-10-20T17:42:03.000Z",
+    "id": "524254229012434944",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BoycottAhava",
+                "id": "104815494"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "jvplive",
+                "id": "78706973"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "username": "aicnews",
+                "id": "156658404"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 61,
+                "tag": "Jewish"
+            },
+            {
+                "start": 88,
+                "end": 100,
+                "tag": "antisemitic"
+            },
+            {
+                "start": 101,
+                "end": 105,
+                "tag": "BDS"
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "tag": "neveragain"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "104815494",
+    "text": "@BoycottAhava @jvplive @aicnews you would like to see #Jewish people behind those bars! #antisemitic #BDS #neveragain"
+}

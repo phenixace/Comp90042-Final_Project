@@ -1,0 +1,16 @@
+{
+    "text": "@SoftLayer #SoftLayer...! ;)",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 11,
+                "end": 21,
+                "tag": "SoftLayer"
+            }
+        ]
+    },
+    "id": "554478574003322880",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-12T03:22:48.000Z",
+    "in_reply_to_user_id": "19354734"
+}

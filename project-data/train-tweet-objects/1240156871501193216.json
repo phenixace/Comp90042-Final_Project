@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SenatorBiaggi",
+                "id": "1082694056839397376"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1082694056839397376",
+    "created_at": "2020-03-18T06:03:33.000Z",
+    "text": "@SenatorBiaggi @WHO Well a bath is a certainly a stress reducer. Albeit good for the immune system which in turn can defend better against diseases and   the common cold.",
+    "id": "1240156871501193216",
+    "source": "Twitter Web App"
+}

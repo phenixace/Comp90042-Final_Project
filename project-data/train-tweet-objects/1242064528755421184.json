@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23T12:23:54.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "karunanundy",
+                "id": "415860281"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1242064528755421184",
+    "text": "@karunanundy What if droplets from an infected persons sneeze are floating in the air?\n\nThe problem here is because this is a new virus, there are  many contradictory messages floating around. Like, those without symptoms need not wear a mask. But, many infected persons dont have symptoms.",
+    "in_reply_to_user_id": "415860281"
+}

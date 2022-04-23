@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/2mxHqZJMDx",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/2mxHqZJMDx"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-30T15:56:27.000Z",
+    "id": "561191218676514816",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/2mxHqZJMDx”looks gross"
+}

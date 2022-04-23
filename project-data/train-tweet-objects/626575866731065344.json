@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-07-30T02:11:42.000Z",
+    "id": "626575866731065344",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "text": "@BuzzFeed maybe taking the stairs would be a little easier in these cases.."
+}

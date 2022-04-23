@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-08-27T01:02:38.000Z",
+    "source": "Twitter for iPad",
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/H9CJPUB03h",
+                "expanded_url": "http://thesco.re/XQDehK",
+                "display_url": "thesco.re/XQDehK"
+            },
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/X9wst97fJu",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "display_url": "pic.twitter.com/X9wst97fJu"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 16,
+                "probability": 0.957,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "probability": 0.7869,
+                "type": "Place",
+                "normalized_text": "Las Vegas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 12,
+                "username": "theScore",
+                "id": "15256225"
+            }
+        ]
+    },
+    "id": "504433773799145472",
+    "text": "RT @theScore: NHL expansion to Las Vegas is reportedly 'a done deal.' http://t.co/H9CJPUB03h http://t.co/X9wst97fJu",
+    "in_reply_to_user_id": "15256225"
+}

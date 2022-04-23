@@ -1,0 +1,49 @@
+{
+    "in_reply_to_user_id": "8736882",
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/odhUy8kXPZ",
+                "expanded_url": "http://trib.al/leVL91w",
+                "display_url": "trib.al/leVL91w"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/pGcQ8KBZKm",
+                "expanded_url": "https://twitter.com/globeandmail/status/524925215235911680/photo/1",
+                "display_url": "pic.twitter.com/pGcQ8KBZKm"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 62,
+                "probability": 0.7212,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 18,
+                "end": 31,
+                "username": "globeandmail",
+                "id": "8736882"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 13,
+                "tag": "BreakingNews"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T14:27:07.000Z",
+    "text": "#BreakingNews RT “@globeandmail: Shots fired at Parliament Hill. Follow developing story: http://t.co/odhUy8kXPZ http://t.co/pGcQ8KBZKm”",
+    "id": "524929949258768384"
+}

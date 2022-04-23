@@ -1,0 +1,23 @@
+{
+    "id": "1251726412035141632",
+    "text": "@HarshaLuma @DrTedros Don’t have sex with animals.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "HarshaLuma",
+                "id": "1101427114606092288"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "DrTedros",
+                "id": "189868631"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1101427114606092288",
+    "created_at": "2020-04-19T04:16:47.000Z"
+}

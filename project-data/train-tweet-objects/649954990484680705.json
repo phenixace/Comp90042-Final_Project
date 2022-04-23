@@ -1,0 +1,49 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 25,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 10,
+                "probability": 0.9011,
+                "type": "Person",
+                "normalized_text": "Frank"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "probability": 0.9766,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            },
+            {
+                "start": 75,
+                "end": 83,
+                "probability": 0.9967,
+                "type": "Person",
+                "normalized_text": "Kim Davis"
+            }
+        ],
+        "urls": [
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/rsuUtdhXcB",
+                "expanded_url": "http://nyti.ms/1JJbawj",
+                "display_url": "nyti.ms/1JJbawj"
+            }
+        ]
+    },
+    "created_at": "2015-10-02T14:31:59.000Z",
+    "id": "649954990484680705",
+    "text": "GTFOH Frank 😒 RT @nytimes: Pope Francis’ Meeting Wasn’t an Endorsement of Kim Davis, Vatican Says http://t.co/rsuUtdhXcB",
+    "in_reply_to_user_id": "807095"
+}

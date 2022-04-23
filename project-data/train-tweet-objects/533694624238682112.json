@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-15T18:54:48.000Z",
+    "text": "@conspiracystory you can just tell it's fake... Do you not have a brain?",
+    "id": "533694624238682112",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "conspiracystory",
+                "id": "2313227480"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2313227480"
+}

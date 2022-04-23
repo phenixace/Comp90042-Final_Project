@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 23,
+                "tag": "BREAKING"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 12,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/l1hLtqTpoJ",
+                "expanded_url": "http://fxn.ws/1rg7oEN",
+                "display_url": "fxn.ws/1rg7oEN"
+            }
+        ]
+    },
+    "text": "How @FoxNews: #BREAKING: Missing Afghan soldiers reportedly found near Canadian border http://t.co/l1hLtqTpoJ”",
+    "created_at": "2014-09-22T17:43:42.000Z",
+    "id": "514107784896729089",
+    "in_reply_to_user_id": "1367531",
+    "source": "Twitter for iPhone"
+}

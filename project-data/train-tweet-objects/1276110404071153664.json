@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/LmwWvhrs77",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1257711574007132160",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 176,
+                "end": 188,
+                "username": "Jeremy_Hunt",
+                "id": "112398730"
+            },
+            {
+                "start": 195,
+                "end": 210,
+                "username": "uksciencechief",
+                "id": "264124770"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T11:10:03.000Z",
+    "id": "1276110404071153664",
+    "text": "20/. In April, the govt changed the 5th test for easing lockdown from \"ensuring any adjustments will not risk a second peak” to \"adjustments will not overwhelm the NHS.\"\n\nWhen @Jeremy_Hunt asked @uksciencechief why, he said: \"I'm not sure I can tell you\".\nhttps://t.co/LmwWvhrs77"
+}

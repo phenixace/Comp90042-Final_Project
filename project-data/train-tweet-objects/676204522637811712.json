@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle this is worse than stupid. Did they lie to get their job? Or were they appointed by the emporer.",
+    "id": "676204522637811712",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-14T00:58:16.000Z"
+}

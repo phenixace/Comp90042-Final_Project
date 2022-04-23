@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "938543395735093248",
+    "entities": {
+        "urls": [
+            {
+                "start": 189,
+                "end": 212,
+                "url": "https://t.co/ANp7zyeOaK",
+                "expanded_url": "https://twitter.com/RAOstria/status/1237084053385310208/photo/1",
+                "display_url": "pic.twitter.com/ANp7zyeOaK"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-09T18:33:16.000Z",
+    "text": "12. Antibiotics do not work against viruses, only bacteria. The new coronavirus (2019-nCoV) is a virus and, therefore, antibiotics should not be used as a means of prevention or treatment. https://t.co/ANp7zyeOaK",
+    "id": "1237084053385310208"
+}

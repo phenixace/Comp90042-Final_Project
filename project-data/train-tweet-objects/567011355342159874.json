@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 44,
+                "probability": 0.453,
+                "type": "Organization",
+                "normalized_text": "republicans"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "TeaPartyCat",
+                "id": "27754737"
+            }
+        ]
+    },
+    "created_at": "2015-02-15T17:23:36.000Z",
+    "text": "@assholeofday @TeaPartyCat why do republicans hate women SO much?",
+    "id": "567011355342159874"
+}

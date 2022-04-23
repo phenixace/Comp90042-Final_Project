@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-11-30T05:33:34.000Z",
+    "text": "@Bipartisanism @LaCina52 Obviously pushing a false narrative to avoid the real issue. Cruz knows how to do that. \nhttps://t.co/esKG9wvQmC",
+    "id": "671200376843067392",
+    "entities": {
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/esKG9wvQmC",
+                "expanded_url": "https://twitter.com/benson23669/status/671131898912088065",
+                "display_url": "twitter.com/benson23669/st…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "LaCina52",
+                "id": "24064455"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 86,
+                "end": 89,
+                "probability": 0.9885,
+                "type": "Person",
+                "normalized_text": "Cruz"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

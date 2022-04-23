@@ -1,0 +1,26 @@
+{
+    "id": "504443687381004289",
+    "text": "@JayOnrait Ya cuz the NHL needs more empty stadiums to play in front of : ) Miss you on the T.O airwaves.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayOnrait",
+                "id": "22292529"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 24,
+                "probability": 0.9903,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Twitter for Android",
+    "created_at": "2014-08-27T01:42:01.000Z"
+}

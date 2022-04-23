@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-08-27T02:36:15.000Z",
+    "id": "504457335931432960",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 45,
+                "probability": 0.9686,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "probability": 0.8843,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            },
+            {
+                "start": 94,
+                "end": 102,
+                "probability": 0.8471,
+                "type": "Place",
+                "normalized_text": "Las Vegas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/FghcZVmsuP",
+                "expanded_url": "http://ow.ly/AL7VR",
+                "display_url": "ow.ly/AL7VR"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 76,
+                "end": 80,
+                "tag": "NHL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 65,
+                "end": 75,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "What's that saying again! \"Who Skates in Vegas, Scores In Vegas\" @Sportsnet #NHL expansion to Las Vegas ‘a done deal’ http://t.co/FghcZVmsuP",
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "21660529"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "742062276757315588",
+    "created_at": "2020-02-28T09:04:34.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "micheal_olainn",
+                "id": "742062276757315588"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "business",
+                "id": "34713362"
+            }
+        ]
+    },
+    "id": "1233317056134688768",
+    "text": "@micheal_olainn @business The virus can't be stopped"
+}

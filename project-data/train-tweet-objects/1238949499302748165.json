@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1238949499302748165",
+    "text": "This video explains the science behind the Gov strategy, using a plastic bucket, a bottle and water. It’s very effective.  https://t.co/rq3iEvOqpB",
+    "created_at": "2020-03-14T22:05:53.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 123,
+                "end": 146,
+                "url": "https://t.co/rq3iEvOqpB",
+                "expanded_url": "https://youtu.be/nl6tTwxzCi8",
+                "display_url": "youtu.be/nl6tTwxzCi8",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1469642532074184705/8QmXwBQA?format=jpg&name=orig",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1469642532074184705/8QmXwBQA?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Covid 19 UK response",
+                "description": "Just an attempt to explain the UK government response to COVID19. Wasn't expecting it to go \"viral\" or I'd have worn a better shirt. This strategy is not my ...",
+                "unwound_url": "https://www.youtube.com/watch?v=nl6tTwxzCi8&feature=youtu.be"
+            }
+        ]
+    }
+}

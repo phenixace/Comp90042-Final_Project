@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "imaventhere",
+                "id": "767159667931832320"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "Xtinaresists",
+                "id": "1175195629984919554"
+            },
+            {
+                "start": 27,
+                "end": 37,
+                "username": "L_A_Baker",
+                "id": "259096053"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 289,
+                "end": 294,
+                "probability": 0.4106,
+                "type": "Person",
+                "normalized_text": "Chinas"
+            }
+        ]
+    },
+    "created_at": "2020-06-28T14:02:26.000Z",
+    "id": "1277240946216693760",
+    "text": "@imaventhere @Xtinaresists @L_A_Baker xD That's not the real definition during the spanish flu heard immunity was letting people get infected in hopes that the uninfected people would be protected by the infected anti bodies 🙃 And I didnt say I wouldnt take a vaccine for covid, just not Chinas lmao",
+    "in_reply_to_user_id": "767159667931832320"
+}

@@ -1,0 +1,18 @@
+{
+    "created_at": "2015-01-26T19:53:55.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 33,
+                "url": "http://t.co/bRAoPxGPxR",
+                "expanded_url": "https://twitter.com/deportedparents/status/559801428638957569/photo/1",
+                "display_url": "pic.twitter.com/bRAoPxGPxR"
+            }
+        ]
+    },
+    "id": "559801428638957569",
+    "text": "@SoftLayer http://t.co/bRAoPxGPxR",
+    "in_reply_to_user_id": "19354734"
+}

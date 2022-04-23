@@ -1,0 +1,37 @@
+{
+    "id": "643261233056083968",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 33,
+                "probability": 0.9886,
+                "type": "Place",
+                "normalized_text": "Germany"
+            }
+        ],
+        "urls": [
+            {
+                "start": 64,
+                "end": 86,
+                "url": "http://t.co/qVodc5of2g",
+                "expanded_url": "http://bit.ly/1Q5YRyX",
+                "display_url": "bit.ly/1Q5YRyX",
+                "status": 403,
+                "unwound_url": "http://bit.ly/1Q5YRyX"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    },
+    "text": "@AllenWest @jimtstrickland Germany cancels party, closes border http://t.co/qVodc5of2g",
+    "created_at": "2015-09-14T03:13:23.000Z"
+}

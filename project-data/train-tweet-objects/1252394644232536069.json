@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-21T00:32:06.000Z",
+    "id": "1252394644232536069",
+    "entities": {
+        "annotations": [
+            {
+                "start": 71,
+                "end": 75,
+                "probability": 0.4626,
+                "type": "Organization",
+                "normalized_text": "State"
+            },
+            {
+                "start": 105,
+                "end": 123,
+                "probability": 0.4182,
+                "type": "Product",
+                "normalized_text": "Corona Tracking App"
+            }
+        ]
+    },
+    "text": "And so, I find myself in the strange position of asserting that if the State has nothing to hide re it’s Corona Tracking App, it should have nothing to fear from letting everyone know all about it.",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "2968541"
+}

@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-08-27T04:14:09.000Z",
+    "id": "504481972794978304",
+    "text": "@Sportsnet @nucci39 @SnowBrooo @phillipfreedman 😍😍🙌🙌",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "nucci39",
+                "id": "315486248"
+            },
+            {
+                "start": 20,
+                "end": 30,
+                "username": "SnowBrooo",
+                "id": "1025545826"
+            },
+            {
+                "start": 31,
+                "end": 47,
+                "username": "phillipfreedman",
+                "id": "542087003"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "21660529"
+}

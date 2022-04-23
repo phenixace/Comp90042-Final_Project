@@ -1,0 +1,23 @@
+{
+    "id": "1271883873039855616",
+    "text": "@ThisIsMadness5 @Uber What makes you think so?\n\nOk hypothetical question, if you believe that they are more in danger as scientific evidence was convincing enough to you. Would you willing to sacrifice ur autonomy and wear a mask? Or are you more of a believer in survival of fittest?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ThisIsMadness5",
+                "id": "1126570687156629504"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "username": "Uber",
+                "id": "19103481"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1126570687156629504",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-13T19:15:20.000Z"
+}

@@ -1,0 +1,31 @@
+{
+    "created_at": "2015-10-21T16:31:00.000Z",
+    "text": "The 5 most accurate predictions from the decade-jumping adventures in #BackToTheFuture: https://t.co/m2bDjDR3Lb https://t.co/3PCeeBshZL",
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/m2bDjDR3Lb",
+                "expanded_url": "http://onforb.es/1LLyGOM",
+                "display_url": "onforb.es/1LLyGOM"
+            },
+            {
+                "start": 112,
+                "end": 135,
+                "url": "https://t.co/3PCeeBshZL",
+                "expanded_url": "https://twitter.com/Forbes/status/656870311057575936/photo/1",
+                "display_url": "pic.twitter.com/3PCeeBshZL"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 70,
+                "end": 86,
+                "tag": "BackToTheFuture"
+            }
+        ]
+    },
+    "id": "656870311057575936",
+    "source": "Sprinklr"
+}

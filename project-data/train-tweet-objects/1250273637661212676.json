@@ -1,0 +1,39 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T04:03:58.000Z",
+    "text": "@StephenAtHome @DrLaPook I don't appreciate seeing you denigrate Obama endorsing Biden in one of your skits tonight. I used to think that you were funny.",
+    "id": "1250273637661212676",
+    "entities": {
+        "annotations": [
+            {
+                "start": 65,
+                "end": 69,
+                "probability": 0.9979,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 81,
+                "end": 85,
+                "probability": 0.9933,
+                "type": "Person",
+                "normalized_text": "Biden"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

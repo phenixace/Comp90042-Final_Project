@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "MiciNorge",
+                "id": "1936784208"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "badandysoria",
+                "id": "24455916"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "username": "RealTimers",
+                "id": "455288410"
+            },
+            {
+                "start": 37,
+                "end": 47,
+                "username": "billmaher",
+                "id": "19697415"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1936784208",
+    "created_at": "2020-03-17T13:15:42.000Z",
+    "id": "1239903234535428096",
+    "text": "@MiciNorge @badandysoria @RealTimers @billmaher You guys are right that I was too unequivocal and imprecise. Particles do travel in the air. about 5-6 feet. Then they drop. Which is why all pub health officials say the main way the virus spreads is contact. Unless we're close together.",
+    "source": "TweetDeck"
+}

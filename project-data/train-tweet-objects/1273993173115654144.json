@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 45,
+                "probability": 0.5686,
+                "type": "Place",
+                "normalized_text": "Tucson"
+            },
+            {
+                "start": 212,
+                "end": 219,
+                "probability": 0.5526,
+                "type": "Place",
+                "normalized_text": "Chandler"
+            }
+        ]
+    },
+    "created_at": "2020-06-19T14:56:56.000Z",
+    "id": "1273993173115654144",
+    "text": "AZ CITIES &amp; FACE MASK MANDATES:\nTempe😷\nTucson😷 \nFlagstaff😷\nCasa Grande😷\nScottsdale😷 \nAvondale😷\nNogales😷 \nYuma😷 \nEl Mirage🙅🏽‍♀️\nCave Creek🙅🏽‍♀️\nQueen Creek🙅🏽‍♀️\nBullhead city🙅🏽‍♀️\n🗳Phoenix, Mesa, Chandler, Glendale, Goodyear, and Gilbert are among cities that will vote today.",
+    "source": "Twitter for iPhone"
+}

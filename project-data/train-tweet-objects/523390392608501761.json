@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523390392608501761",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 22,
+                "probability": 0.8227,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-18T08:29:28.000Z",
+    "text": "@BBCBreaking Boko Haram have not confirmed this, and wonder if some of girls have been married to their followers?."
+}

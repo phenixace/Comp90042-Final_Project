@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T19:36:33.000Z",
+    "text": "@AlexBerenson The NC study is not randomized. These volunteers are self selected. I haven't requested an antibody test because I don't think I have had the virus. Please stop calling it a randomized study.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278412195785818114",
+    "source": "Twitter for Android"
+}

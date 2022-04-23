@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "NSRoundtable",
+                "id": "569163929"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 55,
+                "probability": 0.9935,
+                "type": "Person",
+                "normalized_text": "Alex Jones"
+            },
+            {
+                "start": 57,
+                "end": 64,
+                "probability": 0.7021,
+                "type": "Product",
+                "normalized_text": "Facebook"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-08T21:19:38.000Z",
+    "text": "@jensan1332 @nsroundtable \nDid that come from Alex Jones Facebook page?",
+    "in_reply_to_user_id": "342737639",
+    "id": "509088697875460096"
+}

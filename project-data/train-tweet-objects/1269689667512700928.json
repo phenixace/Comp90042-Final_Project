@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 38,
+                "end": 61,
+                "url": "https://t.co/MiWLEALKp1",
+                "expanded_url": "https://twitter.com/honestlyvibin/status/1269689667512700928/photo/1",
+                "display_url": "pic.twitter.com/MiWLEALKp1"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "deadbeatsbich",
+                "id": "836764426074226688"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "delaIuna",
+                "id": "1205333554508419072"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "836764426074226688",
+    "text": "@deadbeatsbich @delaIuna I got this 🤩 https://t.co/MiWLEALKp1",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-07T17:56:21.000Z",
+    "id": "1269689667512700928"
+}

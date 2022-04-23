@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:31:56.000Z",
+    "text": "@RespectTroopsUS @FoxNews @megynkelly http://t.co/GLwljWXpgW",
+    "id": "614607058898305024",
+    "entities": {
+        "urls": [
+            {
+                "start": 38,
+                "end": 60,
+                "url": "http://t.co/GLwljWXpgW",
+                "expanded_url": "https://twitter.com/1_punny_dem/status/614607058898305024/photo/1",
+                "display_url": "pic.twitter.com/GLwljWXpgW"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 17,
+                "end": 25,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 26,
+                "end": 37,
+                "username": "megynkelly",
+                "id": "110445334"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3140907105"
+}

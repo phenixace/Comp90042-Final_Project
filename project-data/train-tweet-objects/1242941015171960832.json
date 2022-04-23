@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "2299648468",
+    "text": "@MxMxney i feel like we're the safest and more chill out of the rest of the options okay....that's the only way i can justify it",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-25T22:26:45.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "mxmxney",
+                "id": "1262543119435866117"
+            }
+        ]
+    },
+    "id": "1242941015171960832"
+}

@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T03:43:13.000Z",
+    "text": "@StephenAtHome @DrLaPook You thought America was overweight before the virus. Just “weight” until you wipe frosting away in a few months. https://t.co/K58mhKAFBM",
+    "entities": {
+        "urls": [
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/K58mhKAFBM",
+                "expanded_url": "https://twitter.com/byanwong/status/1250268416146989068/photo/1",
+                "display_url": "pic.twitter.com/K58mhKAFBM"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 43,
+                "probability": 0.9946,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "id": "1250268416146989068",
+    "in_reply_to_user_id": "16303106"
+}

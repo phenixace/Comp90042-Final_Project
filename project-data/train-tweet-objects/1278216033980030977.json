@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T06:37:05.000Z",
+    "text": "@AlexBerenson https://t.co/2Vdvvy7LsB",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/2Vdvvy7LsB",
+                "expanded_url": "https://twitter.com/Thomas1774Paine/status/1278168972567941121?s=19",
+                "display_url": "twitter.com/Thomas1774Pain…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278216033980030977",
+    "source": "Twitter for Android"
+}

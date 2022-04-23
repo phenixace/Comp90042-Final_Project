@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 155,
+                "end": 166,
+                "probability": 0.3054,
+                "type": "Place",
+                "normalized_text": "Wuhan, China"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 171,
+                "end": 182,
+                "tag": "PEDULIWA19"
+            }
+        ]
+    },
+    "created_at": "2020-04-02T13:36:21.000Z",
+    "text": "What is a ‘novel’ coronavirus?\n\nA novel coronavirus (CoV) is a new strain of coronavirus.\n\nThe disease caused by the novel coronavirus first identified in Wuhan, China. \n\n#PEDULIWA19",
+    "in_reply_to_user_id": "833430048",
+    "id": "1245706640172576770"
+}

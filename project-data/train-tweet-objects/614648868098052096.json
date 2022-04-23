@@ -1,0 +1,17 @@
+{
+    "id": "614648868098052096",
+    "in_reply_to_user_id": "2884771",
+    "created_at": "2015-06-27T04:18:04.000Z",
+    "source": "Twitter for Android",
+    "text": "@Newsweek that is not beautiful, but if you closer, it is disgusting",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Newsweek",
+                "id": "2884771"
+            }
+        ]
+    }
+}

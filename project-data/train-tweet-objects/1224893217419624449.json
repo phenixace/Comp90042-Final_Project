@@ -1,0 +1,25 @@
+{
+    "text": "Q: Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?\n\nA: No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus.\n\nMore myth busters: https://t.co/rHDw2CbZcH https://t.co/jRkpzLir1z",
+    "source": "Twitter for Android",
+    "id": "1224893217419624449",
+    "created_at": "2020-02-05T03:11:15.000Z",
+    "in_reply_to_user_id": "2218026914",
+    "entities": {
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/rHDw2CbZcH",
+                "expanded_url": "http://bit.ly/370oKOZ",
+                "display_url": "bit.ly/370oKOZ"
+            },
+            {
+                "start": 275,
+                "end": 298,
+                "url": "https://t.co/jRkpzLir1z",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1224893217419624449/photo/1",
+                "display_url": "pic.twitter.com/jRkpzLir1z"
+            }
+        ]
+    }
+}

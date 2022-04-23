@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMailAU",
+                "id": "1960878613"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "MailOnline",
+                "id": "15438913"
+            }
+        ],
+        "urls": [
+            {
+                "start": 25,
+                "end": 47,
+                "url": "http://t.co/67miotqS6O",
+                "expanded_url": "http://mam-en-pap-zijn-woedend.123website.nl/411950305",
+                "display_url": "mam-en-pap-zijn-woedend.123website.nl/411950305"
+            }
+        ]
+    },
+    "id": "544515461694889985",
+    "text": "@DailyMailAU @MailOnline http://t.co/67miotqS6O",
+    "created_at": "2014-12-15T15:32:57.000Z",
+    "in_reply_to_user_id": "1960878613"
+}

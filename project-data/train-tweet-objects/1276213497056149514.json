@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:43.000Z",
+    "text": "So it seems likely we cannot estimate the fraction of susceptible individuals by merely determining this by the lack of specific SAR-COV-2 protective antibodies.\n#COVID19 \n15/x",
+    "id": "1276213497056149514",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 162,
+                "end": 170,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

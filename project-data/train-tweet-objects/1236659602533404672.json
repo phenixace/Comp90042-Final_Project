@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-08T14:26:39.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KKMPutrajaya",
+                "id": "531041640"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "ShopeeMY",
+                "id": "2989403819"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1236659602533404672",
+    "text": "@KKMPutrajaya @ShopeeMY @WHO I hope this true",
+    "in_reply_to_user_id": "531041640"
+}

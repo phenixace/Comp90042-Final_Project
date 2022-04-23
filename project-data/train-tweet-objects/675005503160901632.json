@@ -1,0 +1,26 @@
+{
+    "id": "675005503160901632",
+    "text": "After mass shootings, Obama seeks to expand background checks for gun sales by executive order to bypass Congress https://t.co/QZCJdTledR",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 26,
+                "probability": 0.9901,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 137,
+                "url": "https://t.co/QZCJdTledR",
+                "expanded_url": "http://apne.ws/1Z1uG1f",
+                "display_url": "apne.ws/1Z1uG1f"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "created_at": "2015-12-10T17:33:47.000Z"
+}

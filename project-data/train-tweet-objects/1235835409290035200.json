@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-06T07:51:36.000Z",
+    "text": "@darren_rodman @MaryanneChisho2 World Health Organisation:\n\n...may live on surfaces from anything from a few hours up to several days. Some coronaviruses have survived between 7-9 days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment).",
+    "id": "1235835409290035200",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "darren_rodman",
+                "id": "865785078663729153"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "MaryanneChisho2",
+                "id": "1111701057225150465"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1200446966976700418"
+}

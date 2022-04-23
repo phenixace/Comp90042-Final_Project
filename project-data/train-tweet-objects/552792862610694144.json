@@ -1,0 +1,23 @@
+{
+    "id": "552792862610694144",
+    "created_at": "2015-01-07T11:44:23.000Z",
+    "text": "@euronews @TradeDesk_Steve A French crime of passion or another heathen moslem atrocity?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "euronews",
+                "id": "25067168"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "TradeDesk_Steve",
+                "id": "316485110"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25067168",
+    "source": "Twitter for Android"
+}

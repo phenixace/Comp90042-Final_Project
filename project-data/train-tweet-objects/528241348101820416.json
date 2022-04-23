@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-31T17:45:26.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost don't tell the stupid masses of \"proud hunters'",
+    "id": "528241348101820416",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-30T18:21:58.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BWGovernment",
+                "id": "316291124"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1244691353487003654",
+    "text": "@BWGovernment @WHO Lockdown is the answer. Prevention is better than cure",
+    "in_reply_to_user_id": "316291124"
+}

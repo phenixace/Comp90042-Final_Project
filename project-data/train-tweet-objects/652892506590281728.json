@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 78,
+                "tag": "DumpTrump"
+            },
+            {
+                "start": 79,
+                "end": 102,
+                "tag": "idioacracyforpresident"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump what an idiot. And those who support him too! #DumpTrump #idioacracyforpresident lol",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-10-10T17:04:38.000Z",
+    "id": "652892506590281728"
+}

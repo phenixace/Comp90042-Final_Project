@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22T22:00:52.000Z",
+    "id": "525044138769924096",
+    "text": "@CBCTheNational which one is he?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "CBCTheNational",
+                "id": "24000965"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": "24000965"
+}

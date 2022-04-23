@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web App",
+    "id": "654421952115908608",
+    "in_reply_to_user_id": "434655422",
+    "created_at": "2015-10-14T22:22:06.000Z",
+    "text": "@JustThatGuyBen @CNNPolitics @CNN @BernieSanders YESSS!!! IVE BEEN LOOKING ALL DAY. THE MEDIA IS RIGGED !!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 28,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 34,
+                "end": 48,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    }
+}

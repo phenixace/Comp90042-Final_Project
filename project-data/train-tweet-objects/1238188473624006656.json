@@ -1,0 +1,38 @@
+{
+    "id": "1238188473624006656",
+    "text": "@cahwerneck @secondtea @giusfontes Ah, que ótima notícia. https://t.co/rCyy4JTiNk",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "cahwerneck",
+                "id": "73959923"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "secondtea",
+                "id": "18434102"
+            },
+            {
+                "start": 23,
+                "end": 34,
+                "username": "giusfontes",
+                "id": "2343934152"
+            }
+        ],
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/rCyy4JTiNk",
+                "expanded_url": "https://twitter.com/ChrisRantin/status/1238188473624006656/photo/1",
+                "display_url": "pic.twitter.com/rCyy4JTiNk"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "73959923",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-12T19:41:51.000Z"
+}

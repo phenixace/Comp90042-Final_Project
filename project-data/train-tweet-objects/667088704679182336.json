@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-11-18T21:15:15.000Z",
+    "in_reply_to_user_id": "241056520",
+    "text": "@USUncut @Pheonix7284 my god we live in evil times.",
+    "id": "667088704679182336",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "USUncut",
+                "id": "840931642961211392"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "Pheonix7284",
+                "id": "15606486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

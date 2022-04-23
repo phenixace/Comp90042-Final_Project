@@ -1,0 +1,17 @@
+{
+    "id": "643596152428998660",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for iPhone",
+    "text": "@AllenWest Someone who is truly hungry will eat whatever. These people seek to live off the backs of others and tell them how it is. Wrong",
+    "created_at": "2015-09-15T01:24:14.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

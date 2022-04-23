@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump OMG now this, he can!t see well",
+    "source": "Twitter Web Client",
+    "created_at": "2015-10-10T17:21:12.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "id": "652896674117881856"
+}

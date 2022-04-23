@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "id": "1244958839633358850",
+    "in_reply_to_user_id": "784560560",
+    "created_at": "2020-03-31T12:04:52.000Z",
+    "text": "@haz1ehal1m Khennnnn?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "haz1ehal1m",
+                "id": "784560560"
+            }
+        ]
+    }
+}

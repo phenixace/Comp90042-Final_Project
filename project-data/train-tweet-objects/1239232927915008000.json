@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DuncanLindsay",
+                "id": "2535099714"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-15T16:52:08.000Z",
+    "text": "@DuncanLindsay Not one soap mentioning corona virus 🤔They usually incorporate world events x",
+    "in_reply_to_user_id": "2535099714",
+    "id": "1239232927915008000"
+}

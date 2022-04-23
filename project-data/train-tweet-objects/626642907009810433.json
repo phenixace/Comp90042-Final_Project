@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-07-30T06:38:06.000Z",
+    "id": "626642907009810433",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "urls": [
+            {
+                "start": 10,
+                "end": 32,
+                "url": "http://t.co/d3jAMJEYZw",
+                "expanded_url": "http://www.amazon.com/s/ref=bl_dp_s_web_15684181?ie=UTF8&field-brandtextbin=MAULEY&node=1568418",
+                "display_url": "amazon.com/s/ref=bl_dp_s_…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "text": "@BuzzFeed http://t.co/d3jAMJEYZw Be careful"
+}

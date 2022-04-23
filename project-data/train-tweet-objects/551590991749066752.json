@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/yczoSgRpyo",
+                "expanded_url": "http://fox.ws/1BqPmDh",
+                "display_url": "fox.ws/1BqPmDh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "551590991749066752",
+    "text": "“@FoxNews: 19 yr old wakes up during brain surgery, asks doctors ‘How’s it going?’ http://t.co/yczoSgRpyo” damnit shepherd!!",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-04T04:08:35.000Z",
+    "in_reply_to_user_id": "1367531"
+}

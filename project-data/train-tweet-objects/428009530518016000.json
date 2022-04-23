@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "htTweets",
+                "id": "36327407"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-01-28T03:39:58.000Z",
+    "text": "@htTweets तम्बाकू और शराब कोई सरकार क्यों  नहीं रोकती ?केजरीवाल भी नहीं",
+    "in_reply_to_user_id": "36327407",
+    "id": "428009530518016000"
+}

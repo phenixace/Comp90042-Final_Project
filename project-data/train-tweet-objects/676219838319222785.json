@@ -1,0 +1,47 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            },
+            {
+                "start": 108,
+                "end": 120,
+                "username": "SpeakerRyan",
+                "id": "18916432"
+            },
+            {
+                "start": 121,
+                "end": 132,
+                "username": "GeorgeWill",
+                "id": "2255182597"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 81,
+                "probability": 0.456,
+                "type": "Organization",
+                "normalized_text": "Washington Free Beacon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/2sS3NzIuBy",
+                "expanded_url": "http://freebeacon.com/national-security/72-dhs-employees-on-terrorist-watch-list/",
+                "display_url": "freebeacon.com/national-secur…"
+            }
+        ]
+    },
+    "text": "“@IngrahamAngle: 72 DHS Employees on Terrorist Watch List - Washington Free Beacon https://t.co/2sS3NzIuBy” @SpeakerRyan @GeorgeWill",
+    "id": "676219838319222785",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-14T01:59:07.000Z"
+}

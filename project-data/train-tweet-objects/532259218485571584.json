@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-11T19:51:01.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jemelehill",
+                "id": "35586563"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "DahnDahlas",
+                "id": "544564632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 90,
+                "end": 100,
+                "probability": 0.3679,
+                "type": "Organization",
+                "normalized_text": "Chick-fil-A"
+            },
+            {
+                "start": 104,
+                "end": 113,
+                "probability": 0.603,
+                "type": "Organization",
+                "normalized_text": "Home Depot"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "532259218485571584",
+    "text": "@jemelehill @DahnDahlas Pretty soon though this will be the law of the land. Hobby Lobby, Chick-fil-A , Home Depot,all churches in disguise.",
+    "in_reply_to_user_id": "35586563"
+}

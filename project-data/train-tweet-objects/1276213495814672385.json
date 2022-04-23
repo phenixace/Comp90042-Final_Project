@@ -1,0 +1,42 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:42.000Z",
+    "text": "Another fascinating study of a ship expedition to the Antarctic showed that even in close proximity a significant faction of people did not become infected.\nH/T @vmontori \n#COVID19 \n14/x\nhttps://t.co/vCU1r6eTpj",
+    "id": "1276213495814672385",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 172,
+                "end": 180,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 187,
+                "end": 210,
+                "url": "https://t.co/vCU1r6eTpj",
+                "expanded_url": "https://twitter.com/VincentRK/status/1275838416236580867?s=20",
+                "display_url": "twitter.com/VincentRK/stat…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 161,
+                "end": 170,
+                "username": "vmontori",
+                "id": "31522489"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 62,
+                "probability": 0.4875,
+                "type": "Place",
+                "normalized_text": "Antarctic"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

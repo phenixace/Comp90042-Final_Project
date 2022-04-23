@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T11:49:22.000Z",
+    "text": "@AlexBerenson New York City antibody results were over 20% two months ago. I would expect that they are much higher now, but there has been silence on that issue.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "probability": 0.6114,
+                "type": "Place",
+                "normalized_text": "New York City"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278294623081967616",
+    "source": "Twitter Web App"
+}

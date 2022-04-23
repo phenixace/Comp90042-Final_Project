@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 5,
+                "tag": "FAQs"
+            },
+            {
+                "start": 61,
+                "end": 69,
+                "tag": "COVID19"
+            },
+            {
+                "start": 232,
+                "end": 241,
+                "tag": "CovidNGR"
+            },
+            {
+                "start": 243,
+                "end": 265,
+                "tag": "StayAtHomeAndStaySafe"
+            }
+        ],
+        "urls": [
+            {
+                "start": 266,
+                "end": 289,
+                "url": "https://t.co/A2LIgi392b",
+                "expanded_url": "https://twitter.com/WHONigeria/status/1252551322919997441/photo/1",
+                "display_url": "pic.twitter.com/A2LIgi392b"
+            }
+        ]
+    },
+    "text": "#FAQs: How should I wash fruit and vegetables in the time of #COVID19?\n\nA: Before handling them, wash your hands with soap and water. Then wash fruit and vegetables🥕🍅🧅🧄🍆🥒 thoroughly with clean water especially if you eat them raw.\n\n#CovidNGR \n#StayAtHomeAndStaySafe https://t.co/A2LIgi392b",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-21T10:54:41.000Z",
+    "id": "1252551322919997441"
+}

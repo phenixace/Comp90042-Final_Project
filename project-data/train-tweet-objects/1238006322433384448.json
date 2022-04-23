@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/LTvnJU3ASM",
+                "expanded_url": "https://twitter.com/RimauXI/status/1238006322433384448/photo/1",
+                "display_url": "pic.twitter.com/LTvnJU3ASM"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 65,
+                "end": 69,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-03-12T07:38:02.000Z",
+    "source": "Twitter for Android",
+    "id": "1238006322433384448",
+    "text": "Taking a hot bath does not prevent the new coronavirus disease\n- @WHO https://t.co/LTvnJU3ASM",
+    "in_reply_to_user_id": "585395940"
+}

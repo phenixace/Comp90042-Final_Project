@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MikeHookemUK",
+                "id": "877444968071213056"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "877444968071213056",
+    "created_at": "2020-06-25T09:06:39.000Z",
+    "id": "1276079349305954304",
+    "text": "@MikeHookemUK This is what you get for ordering your officers to appease and kneel, sack them all at the top not fit for purpose."
+}

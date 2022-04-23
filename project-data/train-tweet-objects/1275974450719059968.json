@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web App",
+    "id": "1275974450719059968",
+    "in_reply_to_user_id": "821917305852436482",
+    "created_at": "2020-06-25T02:09:50.000Z",
+    "text": "@64Hyacinth @DHughesy The \"Human world\" will continue just fine. But when do we move on? There's a popular school of thought that a Vaccine may *never* be found. Are we going to stay inside with the lights off and the Doona on forever, then? Completely skipping over economic repercussions too, but ok.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "64Hyacinth",
+                "id": "821917305852436482"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "DHughesy",
+                "id": "21469205"
+            }
+        ]
+    }
+}

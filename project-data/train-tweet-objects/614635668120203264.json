@@ -1,0 +1,17 @@
+{
+    "id": "614635668120203264",
+    "text": "@ABC This is pretty disgusting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter Web Client",
+    "created_at": "2015-06-27T03:25:37.000Z"
+}

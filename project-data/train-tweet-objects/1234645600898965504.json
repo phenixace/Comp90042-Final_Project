@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ILoveWybie",
+                "id": "1186053357200269312"
+            }
+        ]
+    },
+    "id": "1234645600898965504",
+    "text": "@ILoveWybie Unfortunate.",
+    "source": "Twitter Web App",
+    "created_at": "2020-03-03T01:03:44.000Z",
+    "in_reply_to_user_id": "1186053357200269312"
+}

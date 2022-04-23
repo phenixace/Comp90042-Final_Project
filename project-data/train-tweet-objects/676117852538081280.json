@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 76,
+                "end": 80,
+                "probability": 0.813,
+                "type": "Person",
+                "normalized_text": "Laura"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle Fantastic interview Sunday Morning! You are a Great American Laura!",
+    "id": "676117852538081280",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T19:13:52.000Z"
+}

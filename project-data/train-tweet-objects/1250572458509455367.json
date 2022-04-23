@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-15T23:51:23.000Z",
+    "text": "@Chantblanq Ask Google",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Chantblanq",
+                "id": "2281169793"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 21,
+                "probability": 0.3434,
+                "type": "Organization",
+                "normalized_text": "Google"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2281169793",
+    "id": "1250572458509455367",
+    "source": "Twitter for Android"
+}

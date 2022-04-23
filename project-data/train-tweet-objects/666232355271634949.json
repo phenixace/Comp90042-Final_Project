@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Windows Phone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "NRO",
+                "id": "19417492"
+            }
+        ]
+    },
+    "text": "@NRO then why did he agree in the 1st place?",
+    "id": "666232355271634949",
+    "in_reply_to_user_id": "19417492",
+    "created_at": "2015-11-16T12:32:26.000Z"
+}

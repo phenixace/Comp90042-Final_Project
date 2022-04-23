@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 10,
+                "end": 24,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ]
+    },
+    "id": "551581243759153152",
+    "text": ".@FoxNews @foxnewshealth my worst nightmare.",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-04T03:29:51.000Z",
+    "in_reply_to_user_id": "1367531"
+}

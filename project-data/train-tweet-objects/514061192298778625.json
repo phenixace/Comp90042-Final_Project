@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T14:38:33.000Z",
+    "id": "514061192298778625",
+    "text": "@Cosmopolitan the reaction of the people filming this got us the most! That feeling of trying to hold in laughter 😫😭",
+    "in_reply_to_user_id": "23482952"
+}

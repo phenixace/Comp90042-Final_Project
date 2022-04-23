@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-27T05:19:09.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ainvvy",
+                "id": "14293240"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1276746870468087810",
+    "text": "@ainvvy Only way out.",
+    "in_reply_to_user_id": "14293240"
+}

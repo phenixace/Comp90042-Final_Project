@@ -1,0 +1,49 @@
+{
+    "source": "Tweetbot for iΟS",
+    "in_reply_to_user_id": "14662354",
+    "entities": {
+        "urls": [
+            {
+                "start": 79,
+                "end": 102,
+                "url": "https://t.co/VBxNtd6crO",
+                "expanded_url": "http://bit.ly/1NeClEl",
+                "display_url": "bit.ly/1NeClEl"
+            },
+            {
+                "start": 103,
+                "end": 126,
+                "url": "https://t.co/C7AErQdTxT",
+                "expanded_url": "https://twitter.com/WashTimes/status/675043569367982081/photo/1",
+                "display_url": "pic.twitter.com/C7AErQdTxT"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 21,
+                "username": "WashTimes",
+                "id": "14662354"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 49,
+                "tag": "ISIS"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 31,
+                "probability": 0.5914,
+                "type": "Person",
+                "normalized_text": "El Chapo"
+            }
+        ]
+    },
+    "created_at": "2015-12-10T22:10:14.000Z",
+    "id": "675075073217314816",
+    "text": "Oh shit RT @WashTimes: ‘El Chapo’ threatens #ISIS: ‘My men will destroy you’ - https://t.co/VBxNtd6crO https://t.co/C7AErQdTxT"
+}

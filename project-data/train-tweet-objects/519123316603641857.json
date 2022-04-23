@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-06T13:53:38.000Z",
+    "in_reply_to_user_id": "28785486",
+    "text": "@ABC @Maripuerta @ThisIsFusion Pónganlo traducido al Español, por favor, \nI do not read English",
+    "id": "519123316603641857",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "Maripuerta",
+                "id": "29893765"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "ThisIsFusion",
+                "id": "726088145180217345"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

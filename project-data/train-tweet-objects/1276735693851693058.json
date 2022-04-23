@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "946476162",
+    "created_at": "2020-06-27T04:34:44.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "realcliffcohn",
+                "id": "946476162"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "adamhousley",
+                "id": "16073043"
+            },
+            {
+                "start": 28,
+                "end": 44,
+                "username": "LisaMarieBoothe",
+                "id": "121574367"
+            }
+        ]
+    },
+    "id": "1276735693851693058",
+    "source": "Twitter Web App",
+    "text": "@realcliffcohn @adamhousley @LisaMarieBoothe “More positive cases” doesn’t mean anything at this point. Testing has increased exponentially, and there are duplicate cases reported where people are tested more than once. My mother-in-law In a retirement home was tested at least 4 times with 3 positive results."
+}

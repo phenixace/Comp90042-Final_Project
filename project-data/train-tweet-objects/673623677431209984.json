@@ -1,0 +1,26 @@
+{
+    "id": "673623677431209984",
+    "text": "Shocking @DRUDGE_REPORT: SHOCK:  72 'Homeland Security' Employees on Terrorist Watch List... https://t.co/yUMbLSqkEm”",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 23,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/yUMbLSqkEm",
+                "expanded_url": "http://drudge.tw/1N5fVFm",
+                "display_url": "drudge.tw/1N5fVFm"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-12-06T22:02:54.000Z"
+}

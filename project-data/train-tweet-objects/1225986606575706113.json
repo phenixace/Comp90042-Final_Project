@@ -1,0 +1,25 @@
+{
+    "text": "Q: Does drinking alcohol prevent the new #coronavirus?\n\nA: No, drinking alcohol does not protect you from 2019-nCoV infection. Alcohol should always be consumed in moderation &amp; people who do not drink alcohol should not start drinking in an attempt to prevent 2019-nCoV infection. https://t.co/he0sBpZn0r",
+    "source": "Twitter for Android",
+    "id": "1225986606575706113",
+    "created_at": "2020-02-08T03:35:59.000Z",
+    "in_reply_to_user_id": "2218026914",
+    "entities": {
+        "urls": [
+            {
+                "start": 285,
+                "end": 308,
+                "url": "https://t.co/he0sBpZn0r",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1225986606575706113/photo/1",
+                "display_url": "pic.twitter.com/he0sBpZn0r"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 41,
+                "end": 53,
+                "tag": "coronavirus"
+            }
+        ]
+    }
+}

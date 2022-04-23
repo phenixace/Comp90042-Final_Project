@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.9765,
+                "type": "Place",
+                "normalized_text": "South America"
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "probability": 0.858,
+                "type": "Person",
+                "normalized_text": "Harry Potter"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ],
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/TNihIdgm9T",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "display_url": "pic.twitter.com/TNihIdgm9T"
+            }
+        ]
+    },
+    "id": "527192693961940992",
+    "text": "“@UberFacts: A puppy-sized spider was found in South America http://t.co/TNihIdgm9T”\n\nThis is Aragog from Harry Potter, feel old yet?",
+    "created_at": "2014-10-28T20:18:27.000Z",
+    "in_reply_to_user_id": "95023423"
+}

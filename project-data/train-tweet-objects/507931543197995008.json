@@ -1,0 +1,17 @@
+{
+    "text": "@cnnbrk ..bbb",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-09-05T16:41:31.000Z",
+    "in_reply_to_user_id": "428333",
+    "id": "507931543197995008"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "536814417330339840",
+    "text": "@Independent #lego shame they lost their way later: gender stereotypes in Lego friends range. only just rectifying. http://t.co/J00NORQcvp",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 18,
+                "tag": "lego"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/J00NORQcvp",
+                "expanded_url": "http://m.bbc.co.uk/news/magazine-28660069",
+                "display_url": "m.bbc.co.uk/news/magazine-…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333",
+    "source": "Twitterrific for iOS",
+    "created_at": "2014-11-24T09:31:45.000Z"
+}

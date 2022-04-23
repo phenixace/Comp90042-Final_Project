@@ -1,0 +1,88 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 264,
+                "end": 287,
+                "url": "https://t.co/GUPqd4Zi2T",
+                "expanded_url": "https://twitter.com/stefsimanowitz/status/1274305487404744706?s=21",
+                "display_url": "twitter.com/stefsimanowitz…"
+            },
+            {
+                "start": 288,
+                "end": 311,
+                "url": "https://t.co/KimC9AJJQF",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1276136650956046336/photo/1",
+                "display_url": "pic.twitter.com/KimC9AJJQF"
+            },
+            {
+                "start": 312,
+                "end": 335,
+                "url": "https://t.co/liYTLjD8Ng",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1274305487404744706",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 49,
+                "tag": "HerdImmunity"
+            },
+            {
+                "start": 98,
+                "end": 106,
+                "tag": "COVID19"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 6,
+                "probability": 0.9177,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 61,
+                "end": 66,
+                "probability": 0.964,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            },
+            {
+                "start": 141,
+                "end": 142,
+                "probability": 0.3795,
+                "type": "Organization",
+                "normalized_text": "EU"
+            },
+            {
+                "start": 175,
+                "end": 176,
+                "probability": 0.8321,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 180,
+                "end": 185,
+                "probability": 0.9905,
+                "type": "Place",
+                "normalized_text": "Brazil"
+            },
+            {
+                "start": 251,
+                "end": 252,
+                "probability": 0.9476,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T12:54:21.000Z",
+    "id": "1276136650956046336",
+    "text": "23/. UK isn’t alone in attempting a #HerdImmunity strategy.\n\nSweden was open about it &amp; has a #COVID19 mortality rate 7x higher than rest of EU with cases rising 16x faster.\n\nUS &amp; Brazil have a policy of “opening the economy”.\n\nDutch situation echoes UK.👇\nhttps://t.co/GUPqd4Zi2T https://t.co/KimC9AJJQF https://t.co/liYTLjD8Ng"
+}

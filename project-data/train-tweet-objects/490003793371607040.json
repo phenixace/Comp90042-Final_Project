@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "jamiescoop",
+                "id": "64730073"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "490003793371607040",
+    "created_at": "2014-07-18T05:23:02.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost @jamiescoop Again! Maybe they'll fess up now to what they covered up last time!"
+}

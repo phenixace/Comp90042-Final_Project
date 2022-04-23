@@ -1,0 +1,17 @@
+{
+    "id": "538008987825086464",
+    "in_reply_to_user_id": "215598844",
+    "source": "Twitter for iPhone",
+    "text": "@LeftSentThis ok what's the full story? It's hard to believe she was a innocent bystander.",
+    "created_at": "2014-11-27T16:38:33.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeftSentThis",
+                "id": "215598844"
+            }
+        ]
+    }
+}

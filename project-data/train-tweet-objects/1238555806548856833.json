@@ -1,0 +1,41 @@
+{
+    "id": "1238555806548856833",
+    "entities": {
+        "annotations": [
+            {
+                "start": 83,
+                "end": 106,
+                "probability": 0.4554,
+                "type": "Organization",
+                "normalized_text": "Fire Chief Niles R. Ford"
+            }
+        ],
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/CZ3HJIsEXf",
+                "expanded_url": "https://health.baltimorecity.gov/novel-coronavirus-2019-ncov",
+                "display_url": "health.baltimorecity.gov/novel-coronavi…"
+            },
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/V6zRz0RWP1",
+                "expanded_url": "https://twitter.com/baltimorebudget/status/1238555806548856833/photo/1",
+                "display_url": "pic.twitter.com/V6zRz0RWP1"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 121,
+                "end": 129,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "created_at": "2020-03-13T20:01:30.000Z",
+    "text": "\"If people use the system in an improper way...they could exacerbate our system.” -Fire Chief Niles R. Ford. Use 211 for #COVID19 related calls. If you must dial 911, provide as much accurate information as possible. Get the most up-to-date information at https://t.co/CZ3HJIsEXf https://t.co/V6zRz0RWP1",
+    "in_reply_to_user_id": "455988205",
+    "source": "Twitter Web App"
+}

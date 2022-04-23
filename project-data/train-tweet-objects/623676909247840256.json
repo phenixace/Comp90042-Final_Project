@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-07-22T02:12:17.000Z",
+    "text": "@JayCaruso @GayPatriot stolen from @HarrietBaldwin for your viewing pleasure via @andrewpcurrier http://t.co/diQw2uXVML",
+    "entities": {
+        "urls": [
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/diQw2uXVML",
+                "expanded_url": "https://twitter.com/MotherGoos3/status/623676909247840256/photo/1",
+                "display_url": "pic.twitter.com/diQw2uXVML"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayCaruso",
+                "id": "11616202"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "GayPatriot",
+                "id": "18244206"
+            },
+            {
+                "start": 35,
+                "end": 50,
+                "username": "HarrietBaldwin",
+                "id": "230859523"
+            }
+        ]
+    },
+    "id": "623676909247840256",
+    "in_reply_to_user_id": "11616202"
+}

@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-27T21:38:54.000Z",
+    "text": "@cryptospa1 @tulipan81 @Y_deGaia Да! С нетърпение очаквам деня 😊",
+    "id": "1254887775075172359",
+    "in_reply_to_user_id": "1088390388392624130",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "cryptospa1",
+                "id": "1088390388392624130"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "tulipan81",
+                "id": "172846941"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "username": "Y_deGaia",
+                "id": "1504422946391134209"
+            }
+        ]
+    }
+}

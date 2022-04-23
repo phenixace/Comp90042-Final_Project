@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T08:06:20.000Z",
+    "text": "@AlexBerenson 112 n no a v",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278238495555891202",
+    "source": "Twitter for Android"
+}

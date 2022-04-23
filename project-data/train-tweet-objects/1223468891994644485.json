@@ -1,0 +1,21 @@
+{
+    "id": "1223468891994644485",
+    "created_at": "2020-02-01T04:51:29.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 244,
+                "end": 258,
+                "tag": "coronarovirus"
+            },
+            {
+                "start": 259,
+                "end": 276,
+                "tag": "coronavirusindia"
+            }
+        ]
+    },
+    "text": "6. Can Coronavirus be transmitted from person to person?\n\nA-- Yes, some coronaviruses can be transmitted from person to person, usually after close contact with an infected patient, for example, in a household workplace, or health care centre.\n#coronarovirus\n#coronavirusindia",
+    "in_reply_to_user_id": "164997168",
+    "source": "Twitter for Android"
+}

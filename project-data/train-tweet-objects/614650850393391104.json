@@ -1,0 +1,46 @@
+{
+    "id": "614650850393391104",
+    "entities": {
+        "urls": [
+            {
+                "start": 42,
+                "end": 64,
+                "url": "http://t.co/YpImcdozFG",
+                "expanded_url": "http://goo.gl/Yos0oA",
+                "display_url": "goo.gl/Yos0oA"
+            },
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/BsAJxbpCMK",
+                "expanded_url": "https://twitter.com/thegailygrind/status/614650850393391104/photo/1",
+                "display_url": "pic.twitter.com/BsAJxbpCMK"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 65,
+                "end": 74,
+                "tag": "LoveWIns"
+            },
+            {
+                "start": 75,
+                "end": 86,
+                "tag": "LoveIsLove"
+            },
+            {
+                "start": 87,
+                "end": 102,
+                "tag": "EqualityForAll"
+            },
+            {
+                "start": 103,
+                "end": 108,
+                "tag": "LGBT"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T04:25:57.000Z",
+    "text": "Wow! What a way to end this historic day! http://t.co/YpImcdozFG #LoveWIns #LoveIsLove #EqualityForAll #LGBT http://t.co/BsAJxbpCMK",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 6,
+                "end": 29,
+                "url": "https://t.co/odfYGIPPO9",
+                "expanded_url": "https://twitter.com/SocietyReviews/status/1252649869212299265",
+                "display_url": "twitter.com/SocietyReviews…"
+            }
+        ]
+    },
+    "id": "1252652456040792064",
+    "created_at": "2020-04-21T17:36:33.000Z",
+    "source": "Twitter Web App",
+    "text": "Um no https://t.co/odfYGIPPO9"
+}

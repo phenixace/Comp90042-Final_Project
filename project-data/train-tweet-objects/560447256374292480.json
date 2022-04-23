@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            },
+            {
+                "start": 60,
+                "end": 70,
+                "username": "McDonalds",
+                "id": "71026122"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/XOgJ8b6qRr",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/XOgJ8b6qRr"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-28T14:40:13.000Z",
+    "id": "560447256374292480",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/XOgJ8b6qRr” @McDonalds they stealing yall oatmeal !😩😂😳"
+}

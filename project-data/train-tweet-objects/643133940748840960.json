@@ -1,0 +1,17 @@
+{
+    "id": "643133940748840960",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for Android",
+    "text": "@AllenWest &amp; throwing bottled water on train tracks/people, throwing food on ground provided by other charities, &amp; destroying property, etc",
+    "created_at": "2015-09-13T18:47:34.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

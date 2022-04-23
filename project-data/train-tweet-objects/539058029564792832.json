@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 76,
+                "end": 85,
+                "tag": "Ferguson"
+            },
+            {
+                "start": 87,
+                "end": 97,
+                "tag": "SandyHook"
+            },
+            {
+                "start": 98,
+                "end": 112,
+                "tag": "BostonBombing"
+            },
+            {
+                "start": 113,
+                "end": 122,
+                "tag": "911truth"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "harikondabolu",
+                "id": "30488144"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "text": "@harikondabolu and? What if the whole thing was staged to get ppl riled up? #Ferguson  #SandyHook #BostonBombing #911truth",
+    "created_at": "2014-11-30T14:07:04.000Z",
+    "id": "539058029564792832",
+    "in_reply_to_user_id": "30488144"
+}

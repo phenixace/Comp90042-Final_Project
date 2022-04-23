@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 155,
+                "end": 159,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 121,
+                "tag": "RIFAOagainstCorona"
+            },
+            {
+                "start": 122,
+                "end": 136,
+                "tag": "coronaviruses"
+            },
+            {
+                "start": 137,
+                "end": 154,
+                "tag": "coronaprevention"
+            }
+        ],
+        "urls": [
+            {
+                "start": 160,
+                "end": 183,
+                "url": "https://t.co/Ce6DEszupM",
+                "expanded_url": "https://twitter.com/RifaoRmu/status/1239131492162428929/photo/1",
+                "display_url": "pic.twitter.com/Ce6DEszupM"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "@WHO has declared coronovirus a pandemic with active cases all around the globe. Key sympotms include\n#RIFAOagainstCorona #coronaviruses #coronaprevention\n@WHO https://t.co/Ce6DEszupM",
+    "id": "1239131492162428929",
+    "created_at": "2020-03-15T10:09:04.000Z",
+    "in_reply_to_user_id": "955466356543180800"
+}

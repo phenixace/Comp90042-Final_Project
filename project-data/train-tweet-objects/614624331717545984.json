@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/g4cn8A1osn",
+                "expanded_url": "https://twitter.com/CapehartJ/status/614624331717545984/photo/1",
+                "display_url": "pic.twitter.com/g4cn8A1osn"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 24,
+                "probability": 0.9133,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2015-06-27T02:40:34.000Z",
+    "text": "Live from the White House...in rainbow colors. Hundreds of people...Hundreds http://t.co/g4cn8A1osn",
+    "id": "614624331717545984"
+}

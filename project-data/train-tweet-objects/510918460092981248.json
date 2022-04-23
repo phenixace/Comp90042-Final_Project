@@ -1,0 +1,38 @@
+{
+    "text": "BREAKING “@guardian: A video has been released by #Isis apparently showing the murder of hostage: http://t.co/4xgx537Ojk” #DavidHaines",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 55,
+                "tag": "Isis"
+            },
+            {
+                "start": 122,
+                "end": 134,
+                "tag": "DavidHaines"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 10,
+                "end": 19,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ],
+        "urls": [
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/4xgx537Ojk",
+                "expanded_url": "http://t.gu.com/Bth9T",
+                "display_url": "t.gu.com/Bth9T"
+            }
+        ]
+    },
+    "created_at": "2014-09-13T22:30:27.000Z",
+    "in_reply_to_user_id": "87818409",
+    "id": "510918460092981248"
+}

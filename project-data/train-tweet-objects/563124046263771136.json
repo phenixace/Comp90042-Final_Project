@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 76,
+                "end": 78,
+                "probability": 0.996,
+                "type": "Place",
+                "normalized_text": "NYC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "_fritobandito_",
+                "id": "986737322246000640"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "text": "@peddoc63 @_FritoBandito_ @AmyMek I always thought that shit would begin in NYC.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-04T23:56:49.000Z",
+    "in_reply_to_user_id": "1379288282",
+    "id": "563124046263771136"
+}

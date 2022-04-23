@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-02T10:06:57.000Z",
+    "text": "@AlexBerenson It’s funny seeing people talk about the ins and outs of things like herd immunity and nucleic acid/ anti body test that probably never heard of any of those things 3 months ago.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278631236102225920",
+    "source": "Twitter for iPhone"
+}

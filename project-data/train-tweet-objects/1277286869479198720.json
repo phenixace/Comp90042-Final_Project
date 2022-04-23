@@ -1,0 +1,26 @@
+{
+    "id": "1277286869479198720",
+    "text": "@axelroark There's not enough data for COVID-19 to make a reliable judgement on immunity, but this may provide a clue. https://t.co/4yHojZesNu",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "axelroark",
+                "id": "1056707817082703873"
+            }
+        ],
+        "urls": [
+            {
+                "start": 119,
+                "end": 142,
+                "url": "https://t.co/4yHojZesNu",
+                "expanded_url": "https://twitter.com/jhn6jun/status/1277286869479198720/photo/1",
+                "display_url": "pic.twitter.com/4yHojZesNu"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1056707817082703873",
+    "created_at": "2020-06-28T17:04:55.000Z"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": "54322823",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.5907,
+                "type": "Person",
+                "normalized_text": "lowry"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ericbradner",
+                "id": "54322823"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "RichLowry",
+                "id": "40116885"
+            }
+        ]
+    },
+    "text": "@ericbradner @richlowry \nAre you gay lowry? We were wondering?",
+    "created_at": "2015-09-25T03:16:56.000Z",
+    "id": "647248391143985152"
+}

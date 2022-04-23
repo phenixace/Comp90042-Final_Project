@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1236458072928710656",
+    "created_at": "2020-03-08T01:05:51.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly 你换成全局代理或者大陆白名单在访问看看？现在国内IP访问英文版没有，国外IP访问第二条还在。"
+}

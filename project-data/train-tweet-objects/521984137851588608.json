@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-14T11:21:31.000Z",
+    "text": "@msnbc how is these people are being infected with Ebola why are these people allowed to travel",
+    "id": "521984137851588608",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.4637,
+                "type": "Other",
+                "normalized_text": "Ebola"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MSNBC",
+                "id": "2836421"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": "2836421"
+}

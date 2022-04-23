@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "523144724795121664",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 76,
+                "end": 94,
+                "tag": "BringBackOurGirls"
+            },
+            {
+                "start": 108,
+                "end": 125,
+                "tag": "welcomehomegirls"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "BBCNews",
+                "id": "612473"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T16:13:16.000Z",
+    "text": "@BBCBreaking @BBCNews - wonderful news. Now that's how to start my weekend. #BringBackOurGirls is to become #welcomehomegirls"
+}

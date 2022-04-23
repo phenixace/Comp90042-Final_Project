@@ -1,0 +1,23 @@
+{
+    "source": "Blaq for BlackBerry® 10",
+    "text": "@_David_Edward It's never too soon. @ReformedBroker",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "_David_Edward",
+                "id": "2806325838"
+            },
+            {
+                "start": 36,
+                "end": 51,
+                "username": "reformedbroker",
+                "id": "1457747451394330630"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T19:52:48.000Z",
+    "id": "531172506351468544",
+    "in_reply_to_user_id": "2806325838"
+}

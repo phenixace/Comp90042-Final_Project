@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-11-30T12:56:45.000Z",
+    "text": "@Bipartisanism \nSo now its the LGBT com? \nDidn't C that1\nThought REPUgnants would link it 2 BlkLMatter But its early\nGrill him read it where",
+    "id": "671311905407897601",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-26T07:23:10.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CACCOT1",
+                "id": "813016272439013376"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 24,
+                "probability": 0.7993,
+                "type": "Place",
+                "normalized_text": "Kano"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1254310032705028096",
+    "text": "@CACCOT1 Lockdown in Kano? Na only we Southerners dey obey law bros .",
+    "in_reply_to_user_id": "813016272439013376"
+}

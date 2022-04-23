@@ -1,0 +1,23 @@
+{
+    "id": "525179652965695489",
+    "text": "@carastern @joaniecacc So horrible! :",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "carastern",
+                "id": "24630719"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "joaniecacc",
+                "id": "513434472"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "24630719",
+    "created_at": "2014-10-23T06:59:21.000Z"
+}

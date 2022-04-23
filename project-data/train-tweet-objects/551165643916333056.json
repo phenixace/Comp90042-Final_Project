@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-02T23:58:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "fullofbalogna",
+                "id": "233666428"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 69,
+                "probability": 0.6035,
+                "type": "Person",
+                "normalized_text": "Elly May."
+            }
+        ]
+    },
+    "id": "551165643916333056",
+    "text": "@ABC @fullofbalogna - Not many young girls didn't want to be Elly May. RIP - you did good."
+}

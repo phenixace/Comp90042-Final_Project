@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-20T18:09:36.000Z",
+    "in_reply_to_user_id": "957411",
+    "source": "Twitter for iPhone",
+    "text": "@winjer I was initially “yes, at fucking last some assistance”, but now I’m not so sure. It now seems like it could be a load of hurdles (wages cover), and effectively a 0% loan (VAT deferral) which isn’t nothing, but doesn’t seem super useful in the absence of a economic expansion.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "winjer",
+                "id": "957411"
+            }
+        ]
+    },
+    "id": "1241064362917482496"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 38,
+                "probability": 0.4905,
+                "type": "Person",
+                "normalized_text": "CCEd"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "UniStrathclyde",
+                "id": "23055105"
+            }
+        ]
+    },
+    "id": "1275413499905277955",
+    "in_reply_to_user_id": "23055105",
+    "created_at": "2020-06-23T13:00:49.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@UniStrathclyde when can we expect CCEd results? Our course tutor said they were submitted weeks ago. Thanks."
+}

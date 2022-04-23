@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 67,
+                "tag": "tcot"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RepRWilliams",
+                "id": "1077446982"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "Freedom4USNow",
+                "id": "82144210"
+            }
+        ]
+    },
+    "text": "@RepRWilliams @Freedom4USNow privatize the alert system. NOW! #tcot",
+    "created_at": "2013-10-07T11:39:47.000Z",
+    "id": "387180448721686528",
+    "in_reply_to_user_id": "1077446982",
+    "source": "Twitter for iPad"
+}

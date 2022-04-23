@@ -1,0 +1,34 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-07T09:45:06.000Z",
+    "id": "1236226358658899969",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 47,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 2,
+                "end": 7,
+                "probability": 0.8481,
+                "type": "Place",
+                "normalized_text": "Uganda"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/krqHnEerC0",
+                "expanded_url": "https://twitter.com/qataharraymond/status/1236224027057893376",
+                "display_url": "twitter.com/qataharraymond…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "- Uganda issues travel advisory on #coronavirus\n- travelers from high-risk areas banned\n\nhttps://t.co/krqHnEerC0"
+}

@@ -1,0 +1,19 @@
+{
+    "created_at": "2020-04-22T10:31:40.000Z",
+    "text": "What are the symptoms of COVID-19? Is COVID-19 airborne? Here are the answers to your biggest questions about the coronavirus pandemic https://t.co/IBvQGK2jfU",
+    "entities": {
+        "urls": [
+            {
+                "start": 135,
+                "end": 158,
+                "url": "https://t.co/IBvQGK2jfU",
+                "expanded_url": "https://ti.me/2yAqNhc",
+                "display_url": "ti.me/2yAqNhc",
+                "status": 200,
+                "unwound_url": "https://time.com/5820118/coronavirus-questions-answered/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=health_covid-19&linkId=87071471"
+            }
+        ]
+    },
+    "id": "1252907918963417088",
+    "source": "Sprinklr"
+}

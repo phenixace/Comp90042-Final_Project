@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2020-04-15T04:24:25.000Z",
+    "text": "@StephenAtHome @DrLaPook Can you give the Donald Trump bashing a rest it’s getting so dam old now",
+    "id": "1250278783292076032",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 53,
+                "probability": 0.9962,
+                "type": "Person",
+                "normalized_text": "Donald Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

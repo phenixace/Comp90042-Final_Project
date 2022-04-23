@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:05:04.000Z",
+    "source": "Twitter Web Client",
+    "id": "524320419390554112",
+    "text": "@AlfredoFlores follow me pls fredo guarana",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

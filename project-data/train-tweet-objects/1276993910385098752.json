@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-27T21:40:48.000Z",
+    "text": "@nytimes What is the point?  That it’s not as serious as we thought?  That we are closer to herd immunity?  That we are past the point of lockdowns mattering?",
+    "id": "1276993910385098752",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "807095"
+}

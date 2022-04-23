@@ -1,0 +1,39 @@
+{
+    "source": "TweetDeck",
+    "id": "523207828165509121",
+    "entities": {
+        "annotations": [
+            {
+                "start": 101,
+                "end": 103,
+                "probability": 0.7893,
+                "type": "Person",
+                "normalized_text": "ジョン"
+            },
+            {
+                "start": 105,
+                "end": 107,
+                "probability": 0.6747,
+                "type": "Person",
+                "normalized_text": "レノン"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "minakubota",
+                "id": "155226754"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T20:24:01.000Z",
+    "text": "@BBCBreaking @minakubota \n(◕‿◕✿ฺ) 太平の世を切望する私としては、数多く存在する戦乱の一つとはいえ、停戦同意が結ばれた事は嬉しい限りです。戦争のニュースを観るたびに、私はジョン：レノンのImagineのメロディーとその言葉を思い起こします。"
+}

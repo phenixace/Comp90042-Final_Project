@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18T14:23:05.000Z",
+    "source": "Twitter Web Client",
+    "id": "490139698212261888",
+    "text": "@mashable Are you really talking about money ? A bit early isn't ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "972651"
+}

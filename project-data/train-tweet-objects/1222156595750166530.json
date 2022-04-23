@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "username": "inge_geeb",
+                "id": "36649751"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "WHOThailand",
+                "id": "479264032"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "WHOKobe",
+                "id": "538804810"
+            },
+            {
+                "start": 38,
+                "end": 47,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-28T13:56:53.000Z",
+    "id": "1222156595750166530",
+    "text": "@WHO @inge_geeb @WHOThailand @WHOKobe @WHOSEARO @WHOWPRO And always eat organic.",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "carolinagirl63",
+                "id": "893856362"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "anne_norton",
+                "id": "476140498"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2015-11-20T16:23:07.000Z",
+    "text": "@carolinagirl63 @anne_norton same here I thought he was born here😱",
+    "in_reply_to_user_id": "893856362",
+    "id": "667739963266621441"
+}

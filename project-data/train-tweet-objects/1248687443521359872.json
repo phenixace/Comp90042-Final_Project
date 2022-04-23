@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-10T19:01:00.000Z",
+    "text": "@ochealth 5g breaks down your immune system, thus making you more succepable to sickness. The coronavirus is a common cold, but bombard the body with 5g, killing off it's immune response, and covid19 can be deadly. Seniors are most at risk. \n\nOC needs to shut off 5G!",
+    "id": "1248687443521359872",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ochealth",
+                "id": "36069538"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "36069538"
+}

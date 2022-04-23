@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-09-28T20:18:18.000Z",
+    "text": "Beheading Suspect Attended Same Mosque as 9/11 Terrorist: MOORE, Oklahoma -- Alton Nolen, the man who beheaded... http://t.co/NfpMkOW2eE",
+    "entities": {
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/NfpMkOW2eE",
+                "expanded_url": "http://bit.ly/YxsMLD",
+                "display_url": "bit.ly/YxsMLD"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 62,
+                "probability": 0.5851,
+                "type": "Person",
+                "normalized_text": "MOORE"
+            },
+            {
+                "start": 65,
+                "end": 72,
+                "probability": 0.4632,
+                "type": "Place",
+                "normalized_text": "Oklahoma"
+            },
+            {
+                "start": 77,
+                "end": 87,
+                "probability": 0.3171,
+                "type": "Person",
+                "normalized_text": "Alton Nolen"
+            }
+        ]
+    },
+    "id": "516321020815228929",
+    "source": "twitterfeed"
+}

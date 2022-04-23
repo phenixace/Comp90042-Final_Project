@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1236447808204529665",
+    "created_at": "2020-03-08T00:25:04.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly 给删了而已，有条件可以找历史编辑和历史快照记录自己看"
+}

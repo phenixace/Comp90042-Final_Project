@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-06-29T07:26:49.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "HideColin",
+                "id": "1066675385654525954"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "PickardJE",
+                "id": "69080476"
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "username": "BBCr4today",
+                "id": "8170292"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 113,
+                "end": 114,
+                "probability": 0.9846,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1277503775729692672",
+    "text": "@HideColin @PickardJE @BBCr4today Let's start with where we agree. The handling of the Coronavirus crisis in the UK has been one of the worst in the world.\n\nResults of which can be seen in excess deaths. \n\nDo you feel that this would have been improved if we had not had SAGE?",
+    "in_reply_to_user_id": "1066675385654525954"
+}

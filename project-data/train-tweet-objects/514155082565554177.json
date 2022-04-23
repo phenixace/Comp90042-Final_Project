@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 46,
+                "probability": 0.1239,
+                "type": "Other",
+                "normalized_text": "Ireland Guinness or American Guinness"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "text": "@mashable Ireland Guinness or American Guinness? Huge difference",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T20:51:38.000Z",
+    "in_reply_to_user_id": "972651",
+    "id": "514155082565554177"
+}

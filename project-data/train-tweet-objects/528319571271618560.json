@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-31T22:56:16.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost #Very interesting!! :*",
+    "id": "528319571271618560",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 16,
+                "end": 21,
+                "tag": "Very"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

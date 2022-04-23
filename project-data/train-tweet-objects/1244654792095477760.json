@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-30T15:56:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BWGovernment",
+                "id": "316291124"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 19,
+                "end": 32,
+                "username": "deemah_setso",
+                "id": "249911461"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1244654792095477760",
+    "text": "@BWGovernment @WHO @deemah_setso catch whats yours😂😂",
+    "in_reply_to_user_id": "316291124"
+}

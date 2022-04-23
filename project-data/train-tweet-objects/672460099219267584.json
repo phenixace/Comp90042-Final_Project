@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "715044396",
+    "entities": {
+        "annotations": [
+            {
+                "start": 90,
+                "end": 91,
+                "probability": 0.888,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "username": "hautedamn",
+                "id": "70883367"
+            }
+        ]
+    },
+    "text": "@Rockprincess818 @hautedamn Boy this info is enlightening. The most divisive president in US history has quite a legacy with this stat.",
+    "created_at": "2015-12-03T16:59:16.000Z",
+    "id": "672460099219267584"
+}

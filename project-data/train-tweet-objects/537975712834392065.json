@@ -1,0 +1,17 @@
+{
+    "id": "537975712834392065",
+    "in_reply_to_user_id": "215598844",
+    "source": "Twitter for Android",
+    "text": "@LeftSentThis beautiful young woman should.have stayed home.  He wants a jungle war.. so.. be happy for her. She got.one.",
+    "created_at": "2014-11-27T14:26:19.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeftSentThis",
+                "id": "215598844"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-11-21T13:02:40.000Z",
+    "in_reply_to_user_id": "241056520",
+    "text": "@USUncut https://t.co/LDWlb4JEon",
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/LDWlb4JEon",
+                "expanded_url": "https://twitter.com/artbylynettag/status/668051902538498048/photo/1",
+                "display_url": "pic.twitter.com/LDWlb4JEon"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "USUncut",
+                "id": "840931642961211392"
+            }
+        ]
+    },
+    "id": "668051902538498048",
+    "source": "Twitter for iPad"
+}

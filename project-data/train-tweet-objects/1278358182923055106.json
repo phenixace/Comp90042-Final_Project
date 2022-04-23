@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/9hgcLU8exc",
+                "expanded_url": "https://twitter.com/kishkitsch/status/1278149096637960192?s=19",
+                "display_url": "twitter.com/kishkitsch/sta…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "GormleyAlbany",
+                "id": "46747249"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 19,
+                "probability": 0.9671,
+                "type": "Person",
+                "normalized_text": "Cuomo"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1278358182923055106",
+    "created_at": "2020-07-01T16:01:56.000Z",
+    "in_reply_to_user_id": "21318780",
+    "text": "@GormleyAlbany Cuomo is actively ignoring Science and scientists that make his political decisions look horrendous.\n\nhttps://t.co/9hgcLU8exc"
+}

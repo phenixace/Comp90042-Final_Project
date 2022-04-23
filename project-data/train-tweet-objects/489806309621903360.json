@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 16,
+                "end": 21,
+                "tag": "MH17"
+            },
+            {
+                "start": 129,
+                "end": 135,
+                "tag": "MH370"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 70,
+                "probability": 0.9558,
+                "type": "Place",
+                "normalized_text": "Ukraine"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "489806309621903360",
+    "created_at": "2014-07-17T16:18:19.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost #MH17 Malaysian Airliner confirmed shot down by Ukraine admission. All killed on board by ground to air missile  #MH370"
+}

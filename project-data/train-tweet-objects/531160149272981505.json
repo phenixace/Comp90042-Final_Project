@@ -1,0 +1,32 @@
+{
+    "source": "Plume for Android",
+    "id": "531160149272981505",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 51,
+                "probability": 0.9039,
+                "type": "Organization",
+                "normalized_text": "Wal-Mart"
+            },
+            {
+                "start": 65,
+                "end": 75,
+                "probability": 0.3609,
+                "type": "Organization",
+                "normalized_text": "Wilson fund"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 105,
+                "end": 120,
+                "tag": "BoycottWalmart"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "311660957",
+    "created_at": "2014-11-08T19:03:42.000Z",
+    "text": "@PoloT_TreyG can you give me a reference on Wal-Mart donation to Wilson fund? Want to show it to others  #BoycottWalmart"
+}

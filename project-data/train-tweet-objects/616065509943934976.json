@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "97474887",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 28,
+                "probability": 0.9652,
+                "type": "Person",
+                "normalized_text": "Jonathan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CapehartJ",
+                "id": "97474887"
+            }
+        ]
+    },
+    "created_at": "2015-07-01T02:07:18.000Z",
+    "text": "@CapehartJ Thank You Jonathan for your leadership on gay rights",
+    "id": "616065509943934976"
+}

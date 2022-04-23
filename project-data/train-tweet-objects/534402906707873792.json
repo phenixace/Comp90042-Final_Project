@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333",
+    "created_at": "2014-11-17T17:49:16.000Z",
+    "id": "534402906707873792",
+    "text": "@Independent oh gosh, there goes my midnight snack!"
+}

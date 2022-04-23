@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/C5hzF7diFw",
+                "expanded_url": "https://trib.al/CisTzMG",
+                "display_url": "trib.al/CisTzMG"
+            },
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/B3sxnpuTil",
+                "expanded_url": "https://twitter.com/Oregonian/status/1244232962524184576/photo/1",
+                "display_url": "pic.twitter.com/B3sxnpuTil"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "id": "1244232962524184576",
+    "created_at": "2020-03-29T12:00:29.000Z",
+    "text": "Do hand dryers kill coronavirus? Does garlic protect you? Health experts have answers https://t.co/C5hzF7diFw https://t.co/B3sxnpuTil"
+}

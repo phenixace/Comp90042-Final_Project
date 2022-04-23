@@ -1,0 +1,87 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "CtrlAltDelts",
+                "id": "769345952725536768"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "elenochle",
+                "id": "942618447443144709"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 61,
+                "probability": 0.7762,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            }
+        ],
+        "urls": [
+            {
+                "start": 223,
+                "end": 246,
+                "url": "https://t.co/sL6Y9DrzyE",
+                "expanded_url": "https://www.youtube.com/watch?v=r5pnNLLgvIs",
+                "display_url": "youtube.com/watch?v=r5pnNL…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1477125391705903104/ZsHTcXhC?format=jpg&name=orig",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1477125391705903104/ZsHTcXhC?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Will Your Guns Matter with 5G, AI and Robotics?",
+                "description": "Will your guns, your constitution and the right to bear arms, matter in the coming age of AI, 5G and Robotics? Has the NRA already lost the greatest battle...",
+                "unwound_url": "https://www.youtube.com/watch?v=r5pnNLLgvIs"
+            },
+            {
+                "start": 247,
+                "end": 270,
+                "url": "https://t.co/QGUP1WXI1s",
+                "expanded_url": "https://www.5gcrisis.com/scientific-studies",
+                "display_url": "5gcrisis.com/scientific-stu…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1495993991929769985/jAtucWo-?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 630
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1495993991929769985/jAtucWo-?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "SCIENTIFIC STUDIES | 5G Crisis",
+                "description": "There are more than 1,000 scientific studies conducted by independent researchers from around the world concerning the biological effects of RF radiation. Here we present some of the most recent.",
+                "unwound_url": "https://www.5gcrisis.com/scientific-studies"
+            },
+            {
+                "start": 271,
+                "end": 294,
+                "url": "https://t.co/GMVPoBhp0v",
+                "expanded_url": "https://www.youtube.com/watch?v=ekNC0J3xx1w",
+                "display_url": "youtube.com/watch?v=ekNC0J…"
+            }
+        ]
+    },
+    "created_at": "2020-04-30T18:52:24.000Z",
+    "id": "1255933036937580550",
+    "text": "@CtrlAltDelts @elenochle Why do we need a technology which FDA confirmed there's no studies supporting this is safe? Why we can question anything, but nobody is talking about this in Q? This is the core of the cabal tech!\n\nhttps://t.co/sL6Y9DrzyE\nhttps://t.co/QGUP1WXI1s\nhttps://t.co/GMVPoBhp0v",
+    "in_reply_to_user_id": "769345952725536768"
+}

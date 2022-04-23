@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 26,
+                "tag": "Walmart"
+            },
+            {
+                "start": 46,
+                "end": 59,
+                "tag": "DarrenWilson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 68,
+                "end": 90,
+                "url": "http://t.co/Cxht1M9RP6",
+                "expanded_url": "https://twitter.com/i_AM_theChange/status/523546620495806464/photo/1",
+                "display_url": "pic.twitter.com/Cxht1M9RP6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-18T20:20:51.000Z",
+    "id": "523569418652360704",
+    "text": "“@SaveJobsGlobal: #Walmart donates $10,000 to #DarrenWilson fund... http://t.co/Cxht1M9RP6”",
+    "source": "Twitter for iPhone"
+}

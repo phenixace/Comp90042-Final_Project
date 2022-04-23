@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-09T22:12:38.000Z",
+    "text": "@patrickklepek Facebook is no good, but Microsoft is fine? I guess when that much money is involved, who cares.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 22,
+                "probability": 0.7057,
+                "type": "Organization",
+                "normalized_text": "Facebook"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "probability": 0.7176,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464421735731201",
+    "source": "Twitter Web Client"
+}

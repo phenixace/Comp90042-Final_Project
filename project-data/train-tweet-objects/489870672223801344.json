@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2014-07-17T20:34:04.000Z",
+    "text": "@newscomauHQ @Harriett_Bur it's not authorities...",
+    "id": "489870672223801344",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "newscomauHQ",
+                "id": "15250661"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15250661"
+}

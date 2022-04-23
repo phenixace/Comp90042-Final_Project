@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-18T21:06:04.000Z",
+    "id": "501475139007942656",
+    "text": "@realDonaldTrump it probably would've interfered on his back 9.....",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

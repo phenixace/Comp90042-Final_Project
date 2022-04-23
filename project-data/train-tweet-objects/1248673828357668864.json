@@ -1,0 +1,17 @@
+{
+    "id": "1248673828357668864",
+    "text": "@HoustonHealth OMG",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "HoustonHealth",
+                "id": "37303117"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "37303117",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-10T18:06:54.000Z"
+}

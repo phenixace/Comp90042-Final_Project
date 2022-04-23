@@ -1,0 +1,122 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "Daljeet18078965",
+                "id": "1021420966860214272"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "username": "cmohry",
+                "id": "2919390704"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 38,
+                "end": 50,
+                "username": "rahulkanwal",
+                "id": "75509967"
+            },
+            {
+                "start": 51,
+                "end": 66,
+                "username": "PrannoyRoyNDTV",
+                "id": "83529586"
+            },
+            {
+                "start": 67,
+                "end": 71,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 72,
+                "end": 88,
+                "username": "RajatSharmaLive",
+                "id": "122658025"
+            },
+            {
+                "start": 89,
+                "end": 100,
+                "username": "thewire_in",
+                "id": "3150940290"
+            },
+            {
+                "start": 101,
+                "end": 111,
+                "username": "VinodDua7",
+                "id": "3863857998"
+            },
+            {
+                "start": 112,
+                "end": 128,
+                "username": "sardesairajdeep",
+                "id": "56304605"
+            },
+            {
+                "start": 129,
+                "end": 135,
+                "username": "BDUTT",
+                "id": "19929890"
+            },
+            {
+                "start": 136,
+                "end": 141,
+                "username": "ndtv",
+                "id": "37034483"
+            },
+            {
+                "start": 142,
+                "end": 151,
+                "username": "cnntoday",
+                "id": "2815610751"
+            },
+            {
+                "start": 152,
+                "end": 162,
+                "username": "CNNnews18",
+                "id": "6509832"
+            },
+            {
+                "start": 163,
+                "end": 176,
+                "username": "CNBCTV18News",
+                "id": "631810714"
+            },
+            {
+                "start": 177,
+                "end": 186,
+                "username": "htTweets",
+                "id": "36327407"
+            },
+            {
+                "start": 187,
+                "end": 196,
+                "username": "TimesNow",
+                "id": "240649814"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 294,
+                "end": 298,
+                "probability": 0.5614,
+                "type": "Place",
+                "normalized_text": "india"
+            }
+        ]
+    },
+    "created_at": "2020-04-29T08:17:01.000Z",
+    "text": "@Daljeet18078965 @cmohry @BBCBreaking @rahulkanwal @PrannoyRoyNDTV @ABC @RajatSharmaLive @thewire_in @VinodDua7 @sardesairajdeep @BDUTT @ndtv @cnntoday @CNNnews18 @CNBCTV18News @htTweets @TimesNow Aaj tak, zee news, Republic bharat etc are many more news channel are there. But you choose anti india anti hindu channel. Wah re secularism indian wahhhh...???",
+    "id": "1255410747674431494",
+    "in_reply_to_user_id": "1021420966860214272",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/DK1WoaCLDq",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1269792859743490050",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 213,
+                "end": 226,
+                "tag": "HerdImmunity"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T07:32:39.000Z",
+    "id": "1275693305611812865",
+    "text": "6/. So what is the logic behind easing lockdown early?\n\nCould it be the same logic that was behind the decisions not to screen at airports, not to ban public events in March, to delay lockdown etc.?\n\nThe logic of #HerdImmunity - of “taking it on the chin”!\nhttps://t.co/DK1WoaCLDq"
+}

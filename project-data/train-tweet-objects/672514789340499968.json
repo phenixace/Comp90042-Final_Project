@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "id": "672514789340499968",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T20:36:35.000Z",
+    "text": "@ABC He right !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    }
+}

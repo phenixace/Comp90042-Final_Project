@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-07-01T04:32:13.000Z",
+    "text": "@G8rMom7 @AlexBerenson My bro works for a biotech company who makes Covid tests and because covid mutates so slowly (unlike influenza) there should be lasting immunity. Which also means if enough people get it, it will fade away completely. Just like SARS and MERS (both coronaviruses)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "G8rMom7",
+                "id": "47009788"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 68,
+                "end": 72,
+                "probability": 0.3512,
+                "type": "Person",
+                "normalized_text": "Covid"
+            },
+            {
+                "start": 251,
+                "end": 254,
+                "probability": 0.3895,
+                "type": "Person",
+                "normalized_text": "SARS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "47009788",
+    "id": "1278184610761826308",
+    "source": "Twitter for iPhone"
+}

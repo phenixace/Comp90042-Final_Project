@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "19038934",
+    "text": "@CBCAlerts so sad! He stood unarmed.",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T21:27:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ]
+    },
+    "id": "525035719518322688"
+}

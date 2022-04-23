@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 15,
+                "end": 38,
+                "url": "https://t.co/HYlwr8rpIj",
+                "expanded_url": "https://twitter.com/jeremyphoward/status/1250434162118365184?s=20",
+                "display_url": "twitter.com/jeremyphoward/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AkuseY4Impact",
+                "id": "915501669819064321"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "915501669819064321",
+    "created_at": "2020-04-18T12:58:00.000Z",
+    "id": "1251495194387759104",
+    "text": "@AkuseY4Impact https://t.co/HYlwr8rpIj",
+    "source": "Twitter Web App"
+}

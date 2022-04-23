@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 54,
+                "end": 56,
+                "probability": 0.7788,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Newsweek",
+                "id": "2884771"
+            }
+        ]
+    },
+    "id": "614711990955540480",
+    "in_reply_to_user_id": "2884771",
+    "created_at": "2015-06-27T08:28:54.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@Newsweek misleading of gay approval @ US yesterday . God is alive! I know this$ change to evil desire$"
+}

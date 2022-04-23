@@ -1,0 +1,17 @@
+{
+    "text": "@RepRWilliams",
+    "created_at": "2013-10-07T01:49:22.000Z",
+    "id": "387031866852659201",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RepRWilliams",
+                "id": "1077446982"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1077446982",
+    "source": "Twitter for Websites"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "htTweets",
+                "id": "36327407"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-01-30T07:11:40.000Z",
+    "text": "@htTweets ironical",
+    "in_reply_to_user_id": "36327407",
+    "id": "428787581321347074"
+}

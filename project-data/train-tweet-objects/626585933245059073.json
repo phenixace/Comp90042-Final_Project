@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-07-30T02:51:42.000Z",
+    "id": "626585933245059073",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "text": "@BuzzFeed where are the stairs"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:04:53.000Z",
+    "source": "Twitter Web Client",
+    "id": "524320374301814784",
+    "text": "@AlfredoFlores Hi, follow me pls!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

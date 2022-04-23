@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1652541",
+    "created_at": "2015-10-02T15:54:42.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            },
+            {
+                "start": 126,
+                "end": 135,
+                "username": "Pontifex",
+                "id": "500704345"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 47,
+                "probability": 0.9296,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            }
+        ]
+    },
+    "id": "649975804416421888",
+    "text": "@Reuters let's remember the type of people Jesus hung out with. Society didn't think much of them either. No regrets required @Pontifex"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 36,
+                "probability": 0.7908,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @brianstelter Maybe ABC paid 1 million for the shaving cut that he got😡",
+    "id": "538852902635180032",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:31:58.000Z"
+}

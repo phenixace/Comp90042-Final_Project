@@ -1,0 +1,18 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 152,
+                "end": 155,
+                "probability": 0.9862,
+                "type": "Place",
+                "normalized_text": "Iran"
+            }
+        ]
+    },
+    "id": "1236758551026176000",
+    "created_at": "2020-03-08T20:59:51.000Z",
+    "in_reply_to_user_id": "282371758",
+    "text": "\"death rates would go higher if the hospital system is overwhelmed, as happened in ... Hubei where Covid-19’s spread began and seems to be happening in Iran now. That’s one reason that slowing the spread is important even if it turns out the disease can’t be stopped.\""
+}

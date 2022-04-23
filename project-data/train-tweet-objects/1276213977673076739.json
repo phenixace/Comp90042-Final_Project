@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T18:01:37.000Z",
+    "text": "In the meantime stay safe, use masks in public, quarantine yourself if ill. And remain hopeful.\n#COVID19\n29/x",
+    "id": "1276213977673076739",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 104,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

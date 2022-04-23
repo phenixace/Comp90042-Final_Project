@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/KJYnGV41fM",
+                "expanded_url": "http://trib.al/tEfm9Sz",
+                "display_url": "trib.al/tEfm9Sz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 26,
+                "end": 35,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 64,
+                "probability": 0.9675,
+                "type": "Place",
+                "normalized_text": "Paris"
+            },
+            {
+                "start": 96,
+                "end": 108,
+                "probability": 0.9397,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "Appalling and so tragic. “@guardian: 11 dead in shooting at Paris offices of satirical magazine Charlie Hebdo http://t.co/KJYnGV41fM”",
+    "created_at": "2015-01-07T12:56:00.000Z",
+    "id": "552810884314443776",
+    "in_reply_to_user_id": "87818409"
+}

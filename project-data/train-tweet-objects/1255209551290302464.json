@@ -1,0 +1,29 @@
+{
+    "id": "1255209551290302464",
+    "in_reply_to_user_id": "707668038",
+    "created_at": "2020-04-28T18:57:32.000Z",
+    "source": "Twitter for Android",
+    "text": "@markacasper @JuliaWa88606890 @Mominsweats @jaketapper Again, the flu is not covid-19. You're either being a troll, or willfully ignorant. Which one is it?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "markacasper",
+                "id": "707668038"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "username": "Mominsweats",
+                "id": "726594475"
+            },
+            {
+                "start": 43,
+                "end": 54,
+                "username": "jaketapper",
+                "id": "14529929"
+            }
+        ]
+    }
+}

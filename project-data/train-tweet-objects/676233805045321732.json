@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle Is Congress Paying Attention or do they care, our President has Big Problems and Their turning the other way.I'm Disappointed",
+    "id": "676233805045321732",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-14T02:54:37.000Z"
+}

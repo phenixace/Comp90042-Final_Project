@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Rockmedia",
+                "id": "28833436"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 113,
+                "end": 126,
+                "username": "goldietaylor",
+                "id": "15862440"
+            }
+        ]
+    },
+    "text": "@Rockmedia @WesleyLowery Is routine. But everyone, on both sides, have denied payment. (but see my prior RT from @goldietaylor)",
+    "id": "538857705449222144",
+    "in_reply_to_user_id": "28833436",
+    "created_at": "2014-11-30T00:51:03.000Z"
+}

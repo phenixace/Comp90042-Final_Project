@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-07-22T02:08:11.000Z",
+    "text": "@JayCaruso @LilMissRightie Yes, Whitney Houston received priority.",
+    "id": "623675878858469381",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 46,
+                "probability": 0.9545,
+                "type": "Person",
+                "normalized_text": "Whitney Houston"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayCaruso",
+                "id": "11616202"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "lilmissrightie",
+                "id": "1053417928249479174"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "11616202"
+}

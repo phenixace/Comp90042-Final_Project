@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 77,
+                "end": 81,
+                "probability": 0.9786,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            },
+            {
+                "start": 118,
+                "end": 124,
+                "probability": 0.7219,
+                "type": "Organization",
+                "normalized_text": "Walmart"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 34,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "365359466",
+    "created_at": "2014-10-19T13:32:53.000Z",
+    "id": "523829136302030848",
+    "text": "“@capt_white_dude: @SaveJobsGlobal Hahaha you have a better chance of seeing Jesus then u do of black folk boycotting Walmart” oop",
+    "source": "Twitter for iPhone"
+}

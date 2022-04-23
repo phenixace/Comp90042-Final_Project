@@ -1,0 +1,25 @@
+{
+    "text": "Q: If drinking water alleviates a sore throat, does this also protect against #2019nCoV infection?\n\nA: While staying hydrated by drinking water is important for overall health, it does not prevent coronavirus infection. https://t.co/AWb1wK89Wj",
+    "source": "Twitter for Android",
+    "id": "1225961563594510337",
+    "created_at": "2020-02-08T01:56:28.000Z",
+    "in_reply_to_user_id": "2218026914",
+    "entities": {
+        "urls": [
+            {
+                "start": 220,
+                "end": 243,
+                "url": "https://t.co/AWb1wK89Wj",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1225961563594510337/photo/1",
+                "display_url": "pic.twitter.com/AWb1wK89Wj"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 87,
+                "tag": "2019nCoV"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "SABCNews"
+            },
+            {
+                "start": 71,
+                "end": 83,
+                "tag": "COVID19inSA"
+            },
+            {
+                "start": 84,
+                "end": 100,
+                "tag": "Day20ofLockdown"
+            },
+            {
+                "start": 101,
+                "end": 110,
+                "tag": "SABCNews"
+            }
+        ],
+        "urls": [
+            {
+                "start": 111,
+                "end": 134,
+                "url": "https://t.co/3BuUdhGJ0I",
+                "expanded_url": "https://twitter.com/SABCNews/status/1250302907389333504/photo/1",
+                "display_url": "pic.twitter.com/3BuUdhGJ0I"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T06:00:17.000Z",
+    "text": "#SABCNews Fact of the Day: \n5G mobile networks DO NOT spread COVID-19.\n#COVID19inSA #Day20ofLockdown #SABCNews https://t.co/3BuUdhGJ0I",
+    "id": "1250302907389333504"
+}

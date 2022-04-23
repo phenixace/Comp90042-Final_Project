@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 41,
+                "probability": 0.2813,
+                "type": "Person",
+                "normalized_text": "Fort Hood"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 23,
+                "end": 31,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 103,
+                "end": 125,
+                "url": "http://t.co/WbLdS0vVHS",
+                "expanded_url": "http://fxn.ws/16Mm7PR",
+                "display_url": "fxn.ws/16Mm7PR"
+            }
+        ]
+    },
+    "text": "This shit must stop!  “@FoxNews: Fort Hood shooter reportedly has drawn $278G in salary since massacre http://t.co/WbLdS0vVHS”",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-05-21T18:40:11.000Z",
+    "in_reply_to_user_id": "1367531",
+    "id": "336914332266938368"
+}

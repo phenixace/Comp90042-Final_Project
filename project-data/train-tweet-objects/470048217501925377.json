@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2014-05-24T03:46:42.000Z",
+    "text": "@LifeNewsHQ @Just_a_Texan \nAll this is is a friggin' photo op‼️",
+    "id": "470048217501925377",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "LifeNewsHQ",
+                "id": "50434933"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "Just_a_Texan",
+                "id": "884304968"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50434933"
+}

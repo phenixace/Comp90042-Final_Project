@@ -1,0 +1,24 @@
+{
+    "id": "1244869321110650880",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/HVETfAu4IM",
+                "expanded_url": "https://twitter.com/RaysofHope12/status/1244869321110650880/photo/1",
+                "display_url": "pic.twitter.com/HVETfAu4IM"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 271,
+                "end": 280,
+                "tag": "stayhome"
+            }
+        ]
+    },
+    "created_at": "2020-03-31T06:09:09.000Z",
+    "text": "MYTHBUSTER:\nCan eating garlic help prevent infection with the new coronavirus?\nGarlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.\n#stayhome https://t.co/HVETfAu4IM",
+    "source": "Twitter Web App"
+}

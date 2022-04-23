@@ -1,0 +1,36 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 106,
+                "url": "https://t.co/ZYP2ll68Jj",
+                "expanded_url": "https://bit.ly/2vkT0Hc",
+                "display_url": "bit.ly/2vkT0Hc"
+            },
+            {
+                "start": 107,
+                "end": 130,
+                "url": "https://t.co/MiC5M0EQ9b",
+                "expanded_url": "https://twitter.com/ChinaDaily/status/1227054906546126849/photo/1",
+                "display_url": "pic.twitter.com/MiC5M0EQ9b"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 10,
+                "tag": "FactCheck"
+            },
+            {
+                "start": 69,
+                "end": 81,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1227054906546126849",
+    "text": "#FactCheck Do vaccines against pneumonia protect you against the new #coronavirus? https://t.co/ZYP2ll68Jj https://t.co/MiC5M0EQ9b",
+    "source": "TeamSight Publisher",
+    "created_at": "2020-02-11T02:21:01.000Z"
+}

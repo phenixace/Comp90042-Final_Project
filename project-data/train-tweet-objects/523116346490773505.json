@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "523116346490773505",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 32,
+                "probability": 0.985,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "probability": 0.8195,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/ZfHG8qac3q",
+                "expanded_url": "http://bbc.in/1sQi8M9",
+                "display_url": "bbc.in/1sQi8M9"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:20:30.000Z",
+    "text": "Finally. MT @BBCBreaking: Nigeria's military says truce agreed w/ Boko Haram - abducted schoolgirls will be released http://t.co/ZfHG8qac3q”"
+}

@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "15807157",
+    "text": "@bucketree @EpicBeer @BuzzFeed A watery ass stout? Pass",
+    "source": "Twitter for Android",
+    "created_at": "2014-09-21T20:45:10.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "bucketree",
+                "id": "15807157"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "EpicBeer",
+                "id": "823759"
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "513791064118157313"
+}

@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/Ln6NIRV8OK",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/Ln6NIRV8OK"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 85,
+                "end": 92,
+                "probability": 0.9039,
+                "type": "Person",
+                "normalized_text": "McDonald"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-28T17:21:05.000Z",
+    "id": "560487741876875264",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/Ln6NIRV8OK” so Yall really gone take McDonald's idea like that? Lol"
+}

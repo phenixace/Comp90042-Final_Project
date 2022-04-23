@@ -1,0 +1,29 @@
+{
+    "id": "1272388652920745984",
+    "text": "@JamesKirksey18 @mplngr @EricTopol Lots and lots of ppl would die to get there... well over a million ppl",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JamesKirksey18",
+                "id": "1346589019652694017"
+            },
+            {
+                "start": 16,
+                "end": 23,
+                "username": "mplngr",
+                "id": "112606941"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "username": "EricTopol",
+                "id": "86626845"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1254148465547976705",
+    "created_at": "2020-06-15T04:41:09.000Z"
+}

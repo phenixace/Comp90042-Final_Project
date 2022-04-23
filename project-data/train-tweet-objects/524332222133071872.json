@@ -1,0 +1,51 @@
+{
+    "text": "@DailyMirror http://t.co/pBOlX1rQL8 we are all #banksy #fotoffiti @BanksyArmy http://t.co/2zStKmphQU",
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 54,
+                "tag": "banksy"
+            },
+            {
+                "start": 55,
+                "end": 65,
+                "tag": "fotoffiti"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMirror",
+                "id": "16887175"
+            },
+            {
+                "start": 66,
+                "end": 77,
+                "username": "BanksyArmy",
+                "id": "253345566"
+            }
+        ],
+        "urls": [
+            {
+                "start": 13,
+                "end": 35,
+                "url": "http://t.co/pBOlX1rQL8",
+                "expanded_url": "http://bit.ly/1myBlAW",
+                "display_url": "bit.ly/1myBlAW"
+            },
+            {
+                "start": 78,
+                "end": 100,
+                "url": "http://t.co/2zStKmphQU",
+                "expanded_url": "https://twitter.com/fotoffiti/status/524332222133071872/photo/1",
+                "display_url": "pic.twitter.com/2zStKmphQU"
+            }
+        ]
+    },
+    "created_at": "2014-10-20T22:51:58.000Z",
+    "in_reply_to_user_id": "16887175",
+    "id": "524332222133071872"
+}

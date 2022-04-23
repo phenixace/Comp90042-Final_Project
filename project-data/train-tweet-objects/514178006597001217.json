@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for BlackBerry",
+    "created_at": "2014-09-22T22:22:44.000Z",
+    "id": "514178006597001217",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 8,
+                "end": 12,
+                "probability": 0.9942,
+                "type": "Person",
+                "normalized_text": "Palin"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN if Palin could quite mid term then why not?"
+}

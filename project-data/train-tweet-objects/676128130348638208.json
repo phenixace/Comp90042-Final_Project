@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 65,
+                "probability": 0.9851,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle why doesn't that surprise me. Another crooked Obama appointee",
+    "id": "676128130348638208",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T19:54:42.000Z"
+}

@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1430400949",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 22,
+                "probability": 0.9986,
+                "type": "Place",
+                "normalized_text": "Mexico"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 67,
+                "end": 76,
+                "username": "UsVsTh3m",
+                "id": "1430400949"
+            }
+        ]
+    },
+    "created_at": "2014-10-20T13:55:03.000Z",
+    "text": "That happened in Mexico in the report of the president. Lamentable @UsVsTh3m @woodelijah",
+    "id": "524197104005025793"
+}

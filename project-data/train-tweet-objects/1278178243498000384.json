@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T04:06:55.000Z",
+    "text": "@AlexBerenson Right after the election",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278178243498000384",
+    "source": "Twitter for Android"
+}

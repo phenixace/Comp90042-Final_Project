@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-07-22T00:28:30.000Z",
+    "text": "@JayCaruso http://t.co/mLGHC6rMgU",
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 33,
+                "url": "http://t.co/mLGHC6rMgU",
+                "expanded_url": "https://twitter.com/kidlamy/status/623650792025690116/photo/1",
+                "display_url": "pic.twitter.com/mLGHC6rMgU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayCaruso",
+                "id": "11616202"
+            }
+        ]
+    },
+    "id": "623650792025690116",
+    "in_reply_to_user_id": "11616202"
+}

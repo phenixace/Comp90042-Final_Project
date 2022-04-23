@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-06-29T07:02:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "HideColin",
+                "id": "1066675385654525954"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "PickardJE",
+                "id": "69080476"
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "username": "BBCr4today",
+                "id": "8170292"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 67,
+                "probability": 0.3878,
+                "type": "Person",
+                "normalized_text": "CV19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1277497628973039617",
+    "text": "@HideColin @PickardJE @BBCr4today Surely part of the issue with CV19 was that we created bodies who at first ploughed their own route, when the global community of experts tried to warn us to change steer?\n\n\"Herd immunity\" was an example of disregarding the evidence of what is actually effective.",
+    "in_reply_to_user_id": "1066675385654525954"
+}

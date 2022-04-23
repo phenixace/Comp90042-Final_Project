@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "755556408",
+    "created_at": "2020-05-17T07:31:51.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "EricNjiiru",
+                "id": "755556408"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.6475,
+                "type": "Organization",
+                "normalized_text": "Arsenal"
+            },
+            {
+                "start": 130,
+                "end": 135,
+                "probability": 0.9585,
+                "type": "Person",
+                "normalized_text": "Stevie"
+            }
+        ]
+    },
+    "id": "1261922364876521472",
+    "text": "@EricNjiiru You had to drag Arsenal in here 😂😂😂😂\nMan, what do you mean individual brilliance???\n\nGoals plus assists\n\nLamps vs Stevie 🤭🤭 \n\nHaha, mans whats brilliance without results tho?? Seriously??\nThats why we have Wins, then Goals when ranking these things mate."
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523137032630312960",
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T15:42:42.000Z",
+    "text": "@BBCBreaking @BBCNews I'll believe it when I see the girls alive and well.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "BBCNews",
+                "id": "612473"
+            }
+        ]
+    }
+}

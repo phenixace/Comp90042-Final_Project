@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-05-24T03:08:10.000Z",
+    "text": "@LifeNewsHQ or for U.S. Marine jailed in infamous Mexican prison #FreeAndrewTahmooressi",
+    "id": "470038520867061761",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 65,
+                "end": 87,
+                "tag": "FreeAndrewTahmooressi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "LifeNewsHQ",
+                "id": "50434933"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "probability": 0.504,
+                "type": "Place",
+                "normalized_text": "U.S. Marine"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50434933"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "536879247059845120",
+    "entities": {
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/gelUGPoEUy",
+                "expanded_url": "http://i100.io/AAudGPG",
+                "display_url": "i100.io/AAudGPG"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/1LtPl3MWMk",
+                "expanded_url": "https://twitter.com/thei100/status/536826622725218304/photo/1",
+                "display_url": "pic.twitter.com/1LtPl3MWMk"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 56,
+                "tag": "Lego"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 6,
+                "end": 17,
+                "username": "LEGO_Group",
+                "id": "295325513"
+            },
+            {
+                "start": 20,
+                "end": 28,
+                "username": "thei100",
+                "id": "4924780031"
+            }
+        ]
+    },
+    "created_at": "2014-11-24T13:49:21.000Z",
+    "text": "Bravo @LEGO_Group! “@thei100: Powerful letter from #Lego to parents from the 1970s, it's real http://t.co/gelUGPoEUy http://t.co/1LtPl3MWMk”",
+    "in_reply_to_user_id": "2461887810",
+    "source": "Twitter for iPhone"
+}

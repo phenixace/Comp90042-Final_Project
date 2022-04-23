@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "938543395735093248",
+    "entities": {
+        "urls": [
+            {
+                "start": 47,
+                "end": 70,
+                "url": "https://t.co/fKV18yjNSM",
+                "expanded_url": "https://www.inquirer.net/novel-coronavirus-update",
+                "display_url": "inquirer.net/novel-coronavi…"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-11T17:24:50.000Z",
+    "text": "Inquirer link to all COVID-19-related stories: https://t.co/fKV18yjNSM",
+    "id": "1237791604556984320"
+}

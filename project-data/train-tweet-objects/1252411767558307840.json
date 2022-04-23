@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-21T01:40:08.000Z",
+    "id": "1252411767558307840",
+    "text": "@ciarakellydoc As you say, currently we don’t need an app to track people we meet because for most of us they’re just the people we live with.\n\nThe app is part of a toolkit to allow society to carefully try to restore some normality, even in the absence of a vaccine.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ciarakellydoc",
+                "id": "1449136658612375554"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "2177175701"
+}

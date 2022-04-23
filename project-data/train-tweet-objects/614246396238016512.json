@@ -1,0 +1,18 @@
+{
+    "source": "erased4704146",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 63,
+                "probability": 0.2188,
+                "type": "Organization",
+                "normalized_text": "Charleston Church Shooter Dylann Roof"
+            }
+        ]
+    },
+    "id": "614246396238016512",
+    "text": "Pure Scum RT @NewsWatch33: Charleston Church Shooter Dylann Roof Receives $4 Million in Donations From Supporters",
+    "created_at": "2015-06-26T01:38:47.000Z",
+    "in_reply_to_user_id": "343051698"
+}

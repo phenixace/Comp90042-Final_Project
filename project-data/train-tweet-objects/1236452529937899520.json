@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/WcITV35GCL",
+                "expanded_url": "https://twitter.com/jzxingzhao/status/1236452529937899520/photo/1",
+                "display_url": "pic.twitter.com/WcITV35GCL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1236452529937899520",
+    "created_at": "2020-03-08T00:43:49.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly 昨晚还在，估计应中方要求删了…… https://t.co/WcITV35GCL"
+}

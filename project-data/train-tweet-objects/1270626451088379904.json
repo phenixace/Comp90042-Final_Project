@@ -1,0 +1,18 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 148,
+                "end": 171,
+                "url": "https://t.co/iG7tK7Es0K",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1270626451088379904/photo/1",
+                "display_url": "pic.twitter.com/iG7tK7Es0K"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1545915336",
+    "created_at": "2020-06-10T07:58:47.000Z",
+    "id": "1270626451088379904",
+    "text": "FACT: The prolonged use of medical masks 😷 when properly worn, DOES NOT cause CO2 intoxication nor oxygen deficiency.\n\nRead 👇 for more information. https://t.co/iG7tK7Es0K"
+}

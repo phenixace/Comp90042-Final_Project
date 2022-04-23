@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RichardGarven",
+                "id": "311426447"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "planet_pedro",
+                "id": "1503862627184783361"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 44,
+                "probability": 0.373,
+                "type": "Person",
+                "normalized_text": "Scot Nat"
+            }
+        ]
+    },
+    "text": "@RichardGarven @Planet_Pedro Because Scot Nat masturbation aside it’s real life - it is the actual national level in this case on a number of significant levels. And the detailed devolved briefings are important too. But both are relevant to us.",
+    "id": "1245769054213865472",
+    "in_reply_to_user_id": "311426447",
+    "created_at": "2020-04-02T17:44:22.000Z"
+}

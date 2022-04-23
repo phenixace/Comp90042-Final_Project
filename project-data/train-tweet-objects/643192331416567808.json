@@ -1,0 +1,23 @@
+{
+    "id": "643192331416567808",
+    "in_reply_to_user_id": "874170056",
+    "source": "Twitter Web Client",
+    "text": "@mahliinc @AllenWest At least americans don´t make demands in other countries. Thank god they´re always so nice everywhere they go.",
+    "created_at": "2015-09-13T22:39:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mahliinc",
+                "id": "874170056"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

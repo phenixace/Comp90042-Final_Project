@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 44,
+                "probability": 0.9151,
+                "type": "Place",
+                "normalized_text": "Sydney Cafe"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ],
+        "urls": [
+            {
+                "start": 46,
+                "end": 68,
+                "url": "http://t.co/YiKuQUAAWI",
+                "expanded_url": "http://news.sky.com/story/1391978/live-updates-siege-in-sydney-cafe",
+                "display_url": "news.sky.com/story/1391978/…"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "7587032",
+    "id": "544287943175983104",
+    "created_at": "2014-12-15T00:28:52.000Z",
+    "text": "“@SkyNews: Live Updates: Siege in Sydney Cafe http://t.co/YiKuQUAAWI”"
+}

@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "probability": 0.8533,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 7,
+                "end": 16,
+                "tag": "BendGate"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/DcDLuCUpvI",
+                "expanded_url": "http://ow.ly/BQkw3",
+                "display_url": "ow.ly/BQkw3"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/coOvOXnak8",
+                "expanded_url": "https://twitter.com/smh/status/514555852351479808/photo/1",
+                "display_url": "pic.twitter.com/coOvOXnak8"
+            }
+        ]
+    },
+    "text": "Dubbed #BendGate, iPhone 6 Plus users report the aluminium body is bending in pants pockets http://t.co/DcDLuCUpvI http://t.co/coOvOXnak8",
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-23T23:24:09.000Z",
+    "id": "514555852351479808"
+}

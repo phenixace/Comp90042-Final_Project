@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 60,
+                "end": 62,
+                "probability": 0.7933,
+                "type": "Person",
+                "normalized_text": "Fox"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "created_at": "2015-02-15T19:08:02.000Z",
+    "text": "@assholeofday doesn't appear to have ever missed a meal, so Fox would consider him an expert commentator on the subject",
+    "id": "567037637517508609"
+}

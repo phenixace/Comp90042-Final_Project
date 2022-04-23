@@ -1,0 +1,26 @@
+{
+    "text": "@raghu_iitm World Bank doesnt give aid",
+    "id": "1246280980878376960",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "raghu_iitm",
+                "id": "52619537"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 21,
+                "probability": 0.8616,
+                "type": "Organization",
+                "normalized_text": "World Bank"
+            }
+        ]
+    },
+    "created_at": "2020-04-04T03:38:35.000Z",
+    "in_reply_to_user_id": "52619537"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-23T20:55:01.000Z",
+    "source": "Twitter for Android",
+    "id": "613450209595494400",
+    "text": "@winterxlarrys @ajplus @lightskinzayn yes",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 22,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2335473751"
+}

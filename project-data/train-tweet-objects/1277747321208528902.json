@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-06-29T23:34:35.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 228,
+                "end": 237,
+                "probability": 0.9862,
+                "type": "Person",
+                "normalized_text": "Bill Gates"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "afroinsurgent",
+                "id": "1185352119567568896"
+            },
+            {
+                "start": 15,
+                "end": 20,
+                "username": "ABC7",
+                "id": "16374678"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1185352119567568896",
+    "text": "@afroinsurgent @ABC7 It seems like the hysteria obsession with trying to push the fear in people is gaining momentum. I do not know why the media is doing that or those everyday hear trying to instill fear. If its not them, its Bill Gates and his vaccines.",
+    "id": "1277747321208528902",
+    "source": "Twitter Web App"
+}

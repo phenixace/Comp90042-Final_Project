@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 36,
+                "probability": 0.8419,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            },
+            {
+                "start": 110,
+                "end": 117,
+                "probability": 0.3374,
+                "type": "Other",
+                "normalized_text": "Guinness"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 17,
+                "end": 26,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "text": "Gamechanger! RT: @mashable: Starbucks is experimenting with a beer-flavored latte that reportedly tastes like Guinness",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T20:31:42.000Z",
+    "in_reply_to_user_id": "972651",
+    "id": "514150066609610753"
+}

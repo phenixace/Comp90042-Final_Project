@@ -1,0 +1,32 @@
+{
+    "id": "538726217403219968",
+    "entities": {
+        "annotations": [
+            {
+                "start": 68,
+                "end": 77,
+                "probability": 0.9803,
+                "type": "Person",
+                "normalized_text": "Mike Brown"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "created_at": "2014-11-29T16:08:33.000Z",
+    "text": "@deray @ABC proceeds of crime need to be redistributed to family of Mike Brown",
+    "in_reply_to_user_id": "29417304",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "HomerWhite",
+                "id": "20435808"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 71,
+                "probability": 0.2029,
+                "type": "Place",
+                "normalized_text": "Jason's Deli"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-16T00:30:08.000Z",
+    "text": "@jensan1332 @HomerWhite Yup that was the guy spotted at the Jason's Deli earlier (compare the shoes in both photos).",
+    "in_reply_to_user_id": "342737639",
+    "id": "511673352377733122"
+}

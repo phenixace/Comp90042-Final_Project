@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 63,
+                "probability": 0.9924,
+                "type": "Place",
+                "normalized_text": "Ecuador"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ThisIsNotAlee",
+                "id": "514926775"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "id": "527164671649140736",
+    "text": "@ThisIsNotAlee @UberFacts oh nah better be no where near Ecuador either 🙅🙅",
+    "created_at": "2014-10-28T18:27:06.000Z",
+    "in_reply_to_user_id": "514926775"
+}

@@ -1,0 +1,50 @@
+{
+    "in_reply_to_user_id": "4520137281",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 155,
+                "end": 157,
+                "probability": 0.8903,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mattyice981",
+                "id": "1393301897587609612"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "IslesJetsMets",
+                "id": "2924913860"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "username": "utcobb",
+                "id": "129838027"
+            },
+            {
+                "start": 48,
+                "end": 63,
+                "username": "BillyTwoBagger",
+                "id": "258096392"
+            },
+            {
+                "start": 64,
+                "end": 78,
+                "username": "BarrettSallee",
+                "id": "46260740"
+            }
+        ]
+    },
+    "created_at": "2020-04-01T00:07:54.000Z",
+    "text": "@MattyIce981 @IslesJetsMets @utcobb @SandyGoMan @BillyTwoBagger @BarrettSallee It’s used in emergency situations, and in combination with other drugs. The FDA commissioner and CDC have both said it’s still in trials, but may work. My point is that saying COVID-19 is just like the flu and we have drugs already is reckless at best.",
+    "id": "1245140798456422401"
+}

@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "768701569",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 72,
+                "end": 74,
+                "probability": 0.7634,
+                "type": "Organization",
+                "normalized_text": "IRS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "TimNoEgo",
+                "id": "768701569"
+            }
+        ]
+    },
+    "created_at": "2020-04-05T17:58:08.000Z",
+    "text": "@TimNoEgo What is a coronavirus stimulus check?\n\nThe payment - that the IRS is calling an \"economic impact payment,\" the government has named a \"recovery rebate,\" &amp; many people are calling a \"stimulus check\" - is technically an advance tax credit meant to offset your 2020 fed. income taxes",
+    "id": "1246859682309902339"
+}

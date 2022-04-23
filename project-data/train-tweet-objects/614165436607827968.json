@@ -1,0 +1,17 @@
+{
+    "source": "Tweetbot for Mac",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Appleguysnake",
+                "id": "48461490"
+            }
+        ]
+    },
+    "id": "614165436607827968",
+    "text": "@Appleguysnake @NewsWatch33 yuuppp, hoodwinked",
+    "created_at": "2015-06-25T20:17:05.000Z",
+    "in_reply_to_user_id": "48461490"
+}

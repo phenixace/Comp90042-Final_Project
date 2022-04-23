@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T03:59:35.000Z",
+    "text": "@AlexBerenson Lowest US death total for a Tuesday since March 25. I imagine Team Apocalypse will still be screaming for lockdowns when we hit zero deaths.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 76,
+                "end": 90,
+                "probability": 0.4021,
+                "type": "Other",
+                "normalized_text": "Team Apocalypse"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278176400592252930",
+    "source": "Twitter Web App"
+}

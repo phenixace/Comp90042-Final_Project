@@ -1,0 +1,26 @@
+{
+    "id": "614627383497265153",
+    "text": "@ABC the LGBT DID NOT 'invent' the RAINBOW!  Jesus did, as His PROMISE!\nHis PROMISE to 'RESCUE THE RIGHTEOUS' from WICKEDNESS! \nNow:RAPTURE!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 49,
+                "probability": 0.9359,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T02:52:42.000Z"
+}

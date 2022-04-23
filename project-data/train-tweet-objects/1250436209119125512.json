@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T14:49:58.000Z",
+    "text": "@SABCNews It does kill bees though 🤷‍♀️ Just saying",
+    "id": "1250436209119125512",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

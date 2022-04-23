@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-08-27T03:13:28.000Z",
+    "id": "504466701317341184",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 48,
+                "probability": 0.7234,
+                "type": "Organization",
+                "normalized_text": "Atlanta"
+            },
+            {
+                "start": 62,
+                "end": 64,
+                "probability": 0.9725,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            },
+            {
+                "start": 11,
+                "end": 26,
+                "username": "PeteRuttgaizer",
+                "id": "2153251544"
+            }
+        ]
+    },
+    "text": "@Sportsnet @PeteRuttgaizer I feel bad for Atlanta they lost 2 NHL franchises that were once there and there are no talks of relocating there",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

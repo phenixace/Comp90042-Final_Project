@@ -1,0 +1,27 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/S19aDOmlLX",
+                "expanded_url": "https://twitter.com/SkyNews/status/1275674111155613705/video/1",
+                "display_url": "pic.twitter.com/S19aDOmlLX"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 152,
+                "end": 165,
+                "probability": 0.5775,
+                "type": "Person",
+                "normalized_text": "Sir David King"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T06:41:41.000Z",
+    "id": "1275680477077213190",
+    "text": "3/. “I think it's extraordinarily risky. I don’t think anyone could believe, from the scientific point of view, that this is a wise move.”\n\nFormer CSA, Sir David King, thinks easing lockdown “too quickly\" makes the risk of a second wave \"very significant\". https://t.co/S19aDOmlLX"
+}

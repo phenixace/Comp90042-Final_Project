@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "maness_ian",
+                "id": "1513880884784553985"
+            }
+        ]
+    },
+    "created_at": "2020-03-28T04:07:01.000Z",
+    "text": "@maness_ian Bro do you realize you gotta BUY oxygen tanks when you can just breathe it in for free? They really out her scamming us",
+    "id": "1243751421108834304",
+    "in_reply_to_user_id": "4908255067",
+    "source": "Twitter for iPhone"
+}

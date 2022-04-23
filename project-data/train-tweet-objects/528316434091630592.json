@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-31T22:43:48.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 63,
+                "probability": 0.7502,
+                "type": "Other",
+                "normalized_text": "Halloween"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "olsen_lynn",
+                "id": "883316545"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost @olsen_lynn  Now I'd call that a GREAT Halloween stunt!",
+    "id": "528316434091630592",
+    "source": "Twitter Web Client"
+}

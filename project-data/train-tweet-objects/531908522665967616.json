@@ -1,0 +1,42 @@
+{
+    "in_reply_to_user_id": "53110793",
+    "id": "531908522665967616",
+    "created_at": "2014-11-10T20:37:28.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 32,
+                "probability": 0.9964,
+                "type": "Person",
+                "normalized_text": "Vladimir Putin"
+            }
+        ],
+        "urls": [
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/lG6dIUGp45",
+                "expanded_url": "http://usvsth3m.com/post/putins-motorcade-looks-suspiciously-like-a-massive",
+                "display_url": "usvsth3m.com/post/putins-mo…"
+            },
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/7fUI7JgsBA",
+                "expanded_url": "https://twitter.com/UsVsTh3m/status/531788334851719168/photo/1",
+                "display_url": "pic.twitter.com/7fUI7JgsBA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 17,
+                "username": "adamhillscomedy",
+                "id": "53110793"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@adamhillscomedy: Vladimir Putin’s motorcade looks suspiciously like a massive…\nhttp://t.co/lG6dIUGp45 http://t.co/7fUI7JgsBA””😳"
+}

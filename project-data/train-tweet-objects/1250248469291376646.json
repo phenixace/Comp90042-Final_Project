@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 65,
+                "tag": "natesfault"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Natesfault",
+                "id": "16224784"
+            }
+        ]
+    },
+    "source": "Tweetbot for Mac",
+    "created_at": "2020-04-15T02:23:58.000Z",
+    "text": "@Natesfault Aaand now I want to instacart a frosting. #natesfault",
+    "id": "1250248469291376646",
+    "in_reply_to_user_id": "16224784"
+}

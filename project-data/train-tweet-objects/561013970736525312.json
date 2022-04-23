@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 58,
+                "end": 69,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/uwuTBqzxFU",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/uwuTBqzxFU"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-30T04:12:08.000Z",
+    "id": "561013970736525312",
+    "text": "\"Them mf fruit snacks in that dm oatmeal.\" 💀 @ManiTALKS_ “@BurgerKing: Breakfast all around. http://t.co/uwuTBqzxFU”"
+}

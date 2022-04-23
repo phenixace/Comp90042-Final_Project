@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/WylIVfuTgU",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BTelugabbayi",
+                "id": "1054477144766636032"
+            }
+        ]
+    },
+    "id": "1239238887194554369",
+    "in_reply_to_user_id": "1054477144766636032",
+    "created_at": "2020-03-15T17:15:49.000Z",
+    "source": "Twitter for iPad",
+    "text": "@BTelugabbayi https://t.co/WylIVfuTgU                  Please check this ....COVID-19 virus can be transmitted in areas with hot and humid climates"
+}

@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 36,
+                "probability": 0.3269,
+                "type": "Other",
+                "normalized_text": "Lego in the 1970s"
+            }
+        ],
+        "urls": [
+            {
+                "start": 38,
+                "end": 60,
+                "url": "http://t.co/FrVdH4zFrQ",
+                "expanded_url": "https://twitter.com/ThePoke/status/536808074431184896/photo/1",
+                "display_url": "pic.twitter.com/FrVdH4zFrQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 65,
+                "end": 73,
+                "username": "ThePoke",
+                "id": "143145579"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-24T09:09:45.000Z",
+    "id": "536808880043737090",
+    "text": "Amazing letter from Lego in the 1970s http://t.co/FrVdH4zFrQ via @ThePoke",
+    "in_reply_to_user_id": "143145579"
+}

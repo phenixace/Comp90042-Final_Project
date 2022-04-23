@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "614628235918352384",
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 15,
+                "probability": 0.9739,
+                "type": "Person",
+                "normalized_text": "Chaz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "timd6156",
+                "id": "17187327"
+            },
+            {
+                "start": 37,
+                "end": 48,
+                "username": "Chaz_Zooch",
+                "id": "1371005558"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "17187327",
+    "created_at": "2015-06-27T02:56:05.000Z",
+    "text": "@timd6156   Chaz did you draw this?  @Chaz_Zooch"
+}

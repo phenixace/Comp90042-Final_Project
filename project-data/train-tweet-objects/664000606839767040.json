@@ -1,0 +1,17 @@
+{
+    "text": "@ComplexMag das a cow",
+    "id": "664000606839767040",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ]
+    },
+    "created_at": "2015-11-10T08:44:15.000Z",
+    "in_reply_to_user_id": "13049362"
+}

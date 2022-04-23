@@ -1,0 +1,39 @@
+{
+    "id": "1272183000705519617",
+    "text": "@ThisIsMadness5 @Uber What will happen if we don't wear masks? probably acquire herd immunity in the long run and grow stronger, but that would come at the cost of the lives of elders and immunocompromised. Look at what is happening in Sweden. Look at what happened in Italy back in March..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ThisIsMadness5",
+                "id": "1126570687156629504"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "username": "Uber",
+                "id": "19103481"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 236,
+                "end": 241,
+                "probability": 0.9971,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            },
+            {
+                "start": 269,
+                "end": 273,
+                "probability": 0.99,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "931613614552829958",
+    "source": "Twitter Web App",
+    "created_at": "2020-06-14T15:03:58.000Z"
+}

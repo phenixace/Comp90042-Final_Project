@@ -1,0 +1,17 @@
+{
+    "text": "@cnni what a hell is happening with the world ???!!!",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "id": "614632553153048576",
+    "created_at": "2015-06-27T03:13:14.000Z",
+    "in_reply_to_user_id": "2097571"
+}

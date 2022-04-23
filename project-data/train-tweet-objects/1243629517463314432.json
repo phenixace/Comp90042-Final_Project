@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "maDube_",
+                "id": "310514972"
+            }
+        ]
+    },
+    "id": "1243629517463314432",
+    "text": "@maDube_ On the 27th it will disappear",
+    "created_at": "2020-03-27T20:02:37.000Z",
+    "in_reply_to_user_id": "310514972"
+}

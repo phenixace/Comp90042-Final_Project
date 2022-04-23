@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T06:04:28.000Z",
+    "text": "@SABCNews I don’t know how true this is,but if it is,How then do we curb the spread if departments are telling people to go back to work??",
+    "id": "1250303960742690817",
+    "in_reply_to_user_id": "869554069244977153",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

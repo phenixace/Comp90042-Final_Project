@@ -1,0 +1,42 @@
+{
+    "source": "Twitter Web Client",
+    "id": "655146555465465856",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 71,
+                "probability": 0.991,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 102,
+                "end": 114,
+                "tag": "AidRefugees"
+            }
+        ],
+        "urls": [
+            {
+                "start": 78,
+                "end": 100,
+                "url": "http://t.co/DGsh5jZv5x",
+                "expanded_url": "http://sbux.co/AidRefugees",
+                "display_url": "sbux.co/AidRefugees"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 115,
+                "end": 125,
+                "username": "Starbucks",
+                "id": "30973"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "30973",
+    "created_at": "2015-10-16T22:21:25.000Z",
+    "text": "Help the Red Cross provide food, water &amp; cots for refugees across Europe. http://t.co/DGsh5jZv5x  #AidRefugees @Starbucks"
+}

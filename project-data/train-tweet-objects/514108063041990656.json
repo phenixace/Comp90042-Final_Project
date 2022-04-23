@@ -1,0 +1,17 @@
+{
+    "text": "@FoxNews Looks suspicious as hell, so we'll probably give them sack lunches and send them skipping on their way.",
+    "created_at": "2014-09-22T17:44:48.000Z",
+    "id": "514108063041990656",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "usweekly",
+                "id": "20012204"
+            }
+        ]
+    },
+    "text": "@usweekly So sad he was a force to be reckoned with.Rest in peace you beautiful soul.You will be missed",
+    "id": "407176905314406400",
+    "in_reply_to_user_id": "20012204",
+    "created_at": "2013-12-01T15:58:33.000Z"
+}

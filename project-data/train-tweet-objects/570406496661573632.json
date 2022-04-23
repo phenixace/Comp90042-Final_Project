@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "SRuhle",
+                "id": "382685028"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 29,
+                "probability": 0.9666,
+                "type": "Person",
+                "normalized_text": "Jamie"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "570406496661573632",
+    "created_at": "2015-02-25T02:14:41.000Z",
+    "in_reply_to_user_id": "382685028",
+    "text": "@SRuhle only 2 shades to Jamie 💎"
+}

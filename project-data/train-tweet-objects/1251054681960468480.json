@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T07:47:34.000Z",
+    "text": "🚨Drinking alcohol does not protect you against COVID-19 and can be dangerous🚨\n\nFrequent or excessive alcohol consumption can increase your risk of health problems. \n\n#Covid19 #mythbusters @WHO https://t.co/pWJeGWunsm",
+    "id": "1251054681960468480",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 166,
+                "end": 174,
+                "tag": "Covid19"
+            },
+            {
+                "start": 175,
+                "end": 187,
+                "tag": "mythbusters"
+            }
+        ],
+        "urls": [
+            {
+                "start": 193,
+                "end": 216,
+                "url": "https://t.co/pWJeGWunsm",
+                "expanded_url": "https://twitter.com/lutzmache/status/1251054681960468480/photo/1",
+                "display_url": "pic.twitter.com/pWJeGWunsm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 188,
+                "end": 192,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16958398"
+}

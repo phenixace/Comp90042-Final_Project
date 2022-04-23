@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-22T14:42:54.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CTVNews",
+                "id": "203123011"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 39,
+                "probability": 0.7772,
+                "type": "Person",
+                "normalized_text": "Parlement Hill"
+            },
+            {
+                "start": 84,
+                "end": 94,
+                "probability": 0.7692,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "524933921788923905",
+    "text": "@CTVNews give me a  break Parlement Hill is NOT protected at all, stop the lies lol White House is GARDED and so should be PARLEMENT Hill !",
+    "in_reply_to_user_id": "203123011"
+}

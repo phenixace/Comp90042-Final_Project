@@ -1,0 +1,50 @@
+{
+    "source": "Twitter Web Client",
+    "id": "654408999421497345",
+    "entities": {
+        "annotations": [
+            {
+                "start": 108,
+                "end": 112,
+                "probability": 0.6046,
+                "type": "Organization",
+                "normalized_text": "4chan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "sabxrinaxl",
+                "id": "141380774"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "DaltonKern",
+                "id": "489664520"
+            },
+            {
+                "start": 56,
+                "end": 68,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 69,
+                "end": 73,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 74,
+                "end": 88,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "141380774",
+    "created_at": "2015-10-14T21:30:38.000Z",
+    "text": "@sabxrinaxl @DaltonKern @JustThatGuyBen @Bobbie_Bob_Bob @CNNPolitics @CNN @BernieSanders Lol, The people on 4chan voted him as a joke."
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27T06:25:11.000Z",
+    "id": "504514946131312641",
+    "text": "@Sportsnet",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

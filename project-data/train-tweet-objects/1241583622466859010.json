@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "4120197432",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "id": "1241583622466859010",
+    "created_at": "2020-03-22T04:32:57.000Z",
+    "text": "@RathoreSaab90 @WHO You should"
+}

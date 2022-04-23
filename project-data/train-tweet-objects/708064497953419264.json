@@ -1,0 +1,39 @@
+{
+    "in_reply_to_user_id": "21447013",
+    "text": "@LizzzT @Gotham3    Liz as the president would say you're a Jack ass.",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 22,
+                "probability": 0.9875,
+                "type": "Person",
+                "normalized_text": "Liz"
+            },
+            {
+                "start": 60,
+                "end": 63,
+                "probability": 0.6332,
+                "type": "Person",
+                "normalized_text": "Jack"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "LizzzT",
+                "id": "21447013"
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-03-10T22:58:26.000Z",
+    "id": "708064497953419264"
+}

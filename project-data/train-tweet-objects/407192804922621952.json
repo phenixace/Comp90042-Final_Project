@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T17:01:44.000Z",
+    "id": "407192804922621952",
+    "text": ".@AP I'd guess the majority of folks who drive a 605 hp V10 beast don't obey local traffic laws.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "51241574"
+}

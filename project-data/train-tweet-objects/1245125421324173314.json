@@ -1,0 +1,50 @@
+{
+    "in_reply_to_user_id": "935795533758849026",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 84,
+                "end": 86,
+                "probability": 0.7006,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mattyice981",
+                "id": "1393301897587609612"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "IslesJetsMets",
+                "id": "2924913860"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "username": "utcobb",
+                "id": "129838027"
+            },
+            {
+                "start": 48,
+                "end": 63,
+                "username": "BillyTwoBagger",
+                "id": "258096392"
+            },
+            {
+                "start": 64,
+                "end": 78,
+                "username": "BarrettSallee",
+                "id": "46260740"
+            }
+        ]
+    },
+    "created_at": "2020-03-31T23:06:48.000Z",
+    "text": "@MattyIce981 @IslesJetsMets @utcobb @SandyGoMan @BillyTwoBagger @BarrettSallee “The FDA approved a drug that has no clinical trials nor proof of working for COVID-19 so we’re all good” is a terrible argument.",
+    "id": "1245125421324173314"
+}

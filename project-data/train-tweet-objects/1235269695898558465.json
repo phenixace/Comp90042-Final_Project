@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Marmas110189",
+                "id": "974846751235428353"
+            }
+        ]
+    },
+    "id": "1235269695898558465",
+    "text": "@Marmas110189 Have you asked her about the COVFEFE-45 virus?",
+    "source": "Twitter Web App",
+    "created_at": "2020-03-04T18:23:40.000Z",
+    "in_reply_to_user_id": "974846751235428353"
+}

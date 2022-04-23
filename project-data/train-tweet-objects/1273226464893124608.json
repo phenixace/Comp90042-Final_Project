@@ -1,0 +1,44 @@
+{
+    "id": "1273226464893124608",
+    "in_reply_to_user_id": "1244892413262311425",
+    "source": "erased17385931",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 37,
+                "probability": 0.9962,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 163,
+                "end": 172,
+                "tag": "stayhome"
+            }
+        ],
+        "urls": [
+            {
+                "start": 194,
+                "end": 217,
+                "url": "https://t.co/SVSfNKNx5C",
+                "expanded_url": "http://bit.ly/corona-on-wa",
+                "display_url": "bit.ly/corona-on-wa",
+                "status": 500,
+                "unwound_url": "https://wa.me/919039356788?text=Hi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "COVIDNewsByMIB",
+                "id": "1244892413262311425"
+            }
+        ]
+    },
+    "text": "@COVIDNewsByMIB Corona Update in India!\n\nTotal Confirmed: 355654\nActive Cases: 155725\nTotal Recovered: 187959\nTotal Deaths: 11925\nUpdated at: 17/06/2020 17:05:46\n\n#stayhome\n\nGet it on WhatsApp: https://t.co/SVSfNKNx5C",
+    "created_at": "2020-06-17T12:10:19.000Z"
+}

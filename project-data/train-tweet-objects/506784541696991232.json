@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/yG4pzYFe93",
+                "expanded_url": "http://nbcnews.to/1ntQsa7",
+                "display_url": "nbcnews.to/1ntQsa7"
+            },
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/ghDztejhJr",
+                "expanded_url": "https://twitter.com/NBCNews/status/506784541696991232/photo/1",
+                "display_url": "pic.twitter.com/ghDztejhJr"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 57,
+                "tag": "MH17"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 49,
+                "probability": 0.9942,
+                "type": "Place",
+                "normalized_text": "Ukraine"
+            }
+        ]
+    },
+    "id": "506784541696991232",
+    "text": "47 days after his plane was shot down over Ukraine, #MH17 pilot laid to rest http://t.co/yG4pzYFe93 http://t.co/ghDztejhJr",
+    "source": "Adobe® Social",
+    "created_at": "2014-09-02T12:43:45.000Z"
+}

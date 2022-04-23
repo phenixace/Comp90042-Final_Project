@@ -1,0 +1,35 @@
+{
+    "in_reply_to_user_id": "126903716",
+    "text": "@Gotham3 @calamur Awesome @realDonaldTrump @DonaldJTrumpJr",
+    "source": "Twitter for iPhone",
+    "created_at": "2016-03-07T16:53:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "calamur",
+                "id": "11589192"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 43,
+                "end": 58,
+                "username": "DonaldJTrumpJr",
+                "id": "39344374"
+            }
+        ]
+    },
+    "id": "706885467711475713"
+}

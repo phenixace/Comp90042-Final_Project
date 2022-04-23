@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "NRO",
+                "id": "19417492"
+            }
+        ]
+    },
+    "text": "@NRO A governor no longer has any power in the American governmental system.",
+    "id": "666068318898491393",
+    "in_reply_to_user_id": "19417492",
+    "created_at": "2015-11-16T01:40:36.000Z"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-27T04:46:20.000Z",
+    "id": "504490071181905920",
+    "text": "Hey @Sportsnet where do you guys get your info? You're the only ones reporting this garbage. If it ain't from @TSN_Sports its crap",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 14,
+                "username": "Sportsnet",
+                "id": "21660529"
+            },
+            {
+                "start": 110,
+                "end": 121,
+                "username": "TSN_Sports",
+                "id": "25375962"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

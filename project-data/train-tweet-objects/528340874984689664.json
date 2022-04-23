@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01T00:20:55.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost BambiVamp",
+    "id": "528340874984689664",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

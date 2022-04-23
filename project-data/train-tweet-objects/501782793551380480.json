@@ -1,0 +1,42 @@
+{
+    "text": "WHO CAN TRUST THEM? “@NBCNews: list of o/n arrests in Ferguson shows higher # than reported http://t.co/CTqkGkoDRW http://t.co/T60jE17AKq”",
+    "id": "501782793551380480",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 21,
+                "end": 29,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 61,
+                "probability": 0.5649,
+                "type": "Place",
+                "normalized_text": "Ferguson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/CTqkGkoDRW",
+                "expanded_url": "http://nbcnews.to/Xy2JnO",
+                "display_url": "nbcnews.to/Xy2JnO"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/T60jE17AKq",
+                "expanded_url": "https://twitter.com/NBCNews/status/501768276523761666/photo/1",
+                "display_url": "pic.twitter.com/T60jE17AKq"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T17:28:35.000Z",
+    "in_reply_to_user_id": "14173315"
+}

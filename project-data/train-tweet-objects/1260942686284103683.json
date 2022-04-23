@@ -1,0 +1,26 @@
+{
+    "id": "1260942686284103683",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 19,
+                "probability": 0.9098,
+                "type": "Person",
+                "normalized_text": "Nick"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NickStripe_ONS",
+                "id": "1101487206840057856"
+            }
+        ]
+    },
+    "created_at": "2020-05-14T14:38:58.000Z",
+    "text": "@NickStripe_ONS Nick, when can we expect to see the results of antibody testing? This study did those too, why are we not seeing those results?",
+    "in_reply_to_user_id": "1101487206840057856",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 27,
+                "end": 31,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/EgsbFlQi0H",
+                "expanded_url": "http://bit.ly/1zOfpCr",
+                "display_url": "bit.ly/1zOfpCr"
+            },
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/qn5rLTKbrA",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "display_url": "pic.twitter.com/qn5rLTKbrA"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 48,
+                "probability": 0.9353,
+                "type": "Person",
+                "normalized_text": "President Obama"
+            },
+            {
+                "start": 69,
+                "end": 83,
+                "probability": 0.3067,
+                "type": "Product",
+                "normalized_text": "Pro Era t-shirt"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14629315",
+    "created_at": "2015-01-05T17:55:18.000Z",
+    "id": "552161433182810113",
+    "text": "WOW she knows good music 😊“@XXL: President Obama’s daughter wears a Pro Era t-shirt: http://t.co/EgsbFlQi0H http://t.co/qn5rLTKbrA”"
+}

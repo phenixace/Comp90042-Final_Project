@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T07:47:35.000Z",
+    "text": "🚨The new coronavirus CANNOT be transmitted through mosquito bites🚨\n\nTo date there has been no information nor evidence to suggest that the new coronavirus could be transmitted by mosquitoes.\n\n#Covid19 #mythbusters @WHO https://t.co/1pNhzRzTlq",
+    "id": "1251054688822312960",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 192,
+                "end": 200,
+                "tag": "Covid19"
+            },
+            {
+                "start": 201,
+                "end": 213,
+                "tag": "mythbusters"
+            }
+        ],
+        "urls": [
+            {
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/1pNhzRzTlq",
+                "expanded_url": "https://twitter.com/lutzmache/status/1251054688822312960/photo/1",
+                "display_url": "pic.twitter.com/1pNhzRzTlq"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 214,
+                "end": 218,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16958398"
+}

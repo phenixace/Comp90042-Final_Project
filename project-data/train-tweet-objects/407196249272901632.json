@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 56,
+                "probability": 0.7757,
+                "type": "Place",
+                "normalized_text": "L.A."
+            },
+            {
+                "start": 77,
+                "end": 90,
+                "probability": 0.4801,
+                "type": "Other",
+                "normalized_text": "Fast & Furious"
+            },
+            {
+                "start": 99,
+                "end": 109,
+                "probability": 0.992,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/4R7DeiwXTK",
+                "expanded_url": "http://apne.ws/Ixefrj",
+                "display_url": "apne.ws/Ixefrj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 16,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Plume for Android",
+    "created_at": "2013-12-01T17:15:25.000Z",
+    "id": "407196249272901632",
+    "text": "2 Fast... MT @AP Police say speed was a factor in an L.A. crash that killed \"Fast &amp; Furious\" actor Paul Walker: http://t.co/4R7DeiwXTK",
+    "in_reply_to_user_id": "51241574"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 195,
+                "end": 199,
+                "probability": 0.5312,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-10T00:14:06.000Z",
+    "id": "1237169826919055361",
+    "text": "I don’t understand how people can think COVID-19 is just like the flu...it is a mutation that is only 3 months old and we have nothing to fight it with...there’s a reason that an entire country (Italy) just shut down...this isn’t just the flu and to say so is completely ignorant"
+}

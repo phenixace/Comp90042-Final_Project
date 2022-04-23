@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 151,
+                "end": 162,
+                "probability": 0.3576,
+                "type": "Organization",
+                "normalized_text": "Comet Atlas"
+            }
+        ]
+    },
+    "created_at": "2020-04-10T08:25:53.000Z",
+    "text": "@UKUSpage We do have a couple of large asteroids passing close,\nAnd we are about due another large impact, they are fairly regular throughout history, \nComet Atlas is coming this month.",
+    "in_reply_to_user_id": "1101574949289033729",
+    "id": "1248527608356241408"
+}

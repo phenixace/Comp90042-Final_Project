@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NinjaNezumi",
+                "id": "838920805"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "tha_rami",
+                "id": "17064600"
+            }
+        ],
+        "urls": [
+            {
+                "start": 52,
+                "end": 75,
+                "url": "https://t.co/YwtpOZk5g9",
+                "expanded_url": "https://www.businessinsider.com/italys-doctors-are-forced-to-prioritize-saving-the-young-2020-3",
+                "display_url": "businessinsider.com/italys-doctors…"
+            }
+        ]
+    },
+    "text": "@NinjaNezumi @tha_rami Let me it more clear for you:https://t.co/YwtpOZk5g9",
+    "id": "1240875956543393792",
+    "in_reply_to_user_id": "838920805",
+    "created_at": "2020-03-20T05:40:57.000Z"
+}

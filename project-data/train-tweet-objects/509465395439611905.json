@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:16:30.000Z",
+    "text": "@patrickklepek Can't be Minecraft alone, feels like it's worth a lot more.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509465395439611905",
+    "source": "Twitter for Android Tablets"
+}

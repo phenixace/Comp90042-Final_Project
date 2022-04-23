@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-27T05:32:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ainvvy",
+                "id": "14293240"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1276750202985017346",
+    "text": "@ainvvy Chanting coro-nil, coro-nil repeatedly should reduce the cases to nil, right?\n\n😷",
+    "in_reply_to_user_id": "14293240"
+}

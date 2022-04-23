@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 19,
+                "probability": 0.9901,
+                "type": "Person",
+                "normalized_text": "Wilson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/KdTAdhthTN",
+                "expanded_url": "https://twitter.com/nickpistor/status/538847758032310272",
+                "display_url": "twitter.com/nickpistor/sta…"
+            }
+        ]
+    },
+    "text": "@WesleyLowery Wilson said he wasn't paid. https://t.co/KdTAdhthTN",
+    "id": "538854636296609792",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:38:51.000Z"
+}

@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-24T03:43:00.000Z",
+    "text": "Oh my fuck 😦 \n“@katrinalome: don't put your iphone 6 in your pocket y'all  http://t.co/nIXVEOgx7l http://t.co/22rKvinhfb”",
+    "entities": {
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/nIXVEOgx7l",
+                "expanded_url": "http://m.huffpost.com/us/entry/5869572",
+                "display_url": "m.huffpost.com/us/entry/58695…"
+            },
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/22rKvinhfb",
+                "expanded_url": "https://twitter.com/katrinalome/status/514512849876836352/photo/1",
+                "display_url": "pic.twitter.com/22rKvinhfb"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 52,
+                "probability": 0.8837,
+                "type": "Product",
+                "normalized_text": "iphone 6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 15,
+                "end": 27,
+                "username": "katrinalome",
+                "id": "575853327"
+            }
+        ]
+    },
+    "id": "514620991935619072",
+    "in_reply_to_user_id": "575853327"
+}

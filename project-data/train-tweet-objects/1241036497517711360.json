@@ -1,0 +1,29 @@
+{
+    "text": "@globalnews @Global_Guelph @JeffSempleGN Next research question: what amount of virus qualifies as an infective dose ?",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "globalnews",
+                "id": "116502194"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "Global_Guelph",
+                "id": "997204731868139523"
+            },
+            {
+                "start": 27,
+                "end": 40,
+                "username": "JeffSempleGN",
+                "id": "85381090"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T16:18:53.000Z",
+    "in_reply_to_user_id": "116502194",
+    "id": "1241036497517711360"
+}

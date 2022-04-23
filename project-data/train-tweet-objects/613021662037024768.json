@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Nettaaaaaaaa",
+                "id": "1291770157"
+            }
+        ]
+    },
+    "created_at": "2015-06-22T16:32:08.000Z",
+    "text": "@Nettaaaaaaaa some are saying that it's a way to earn the trust of the shooter, make things easier in interrogation. I still dont agree tho",
+    "id": "613021662037024768",
+    "in_reply_to_user_id": "1291770157",
+    "source": "Twitter for Android"
+}

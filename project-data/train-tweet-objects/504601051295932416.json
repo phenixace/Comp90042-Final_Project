@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-08-27T12:07:20.000Z",
+    "id": "504601051295932416",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 79,
+                "end": 83,
+                "tag": "nhl"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "NHL",
+                "id": "50004938"
+            }
+        ]
+    },
+    "text": "@Sportsnet the @NHL is fucked. Hockey+snow = win. Hockey + sand = lost revenue #nhl",
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

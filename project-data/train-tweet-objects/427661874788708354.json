@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2014-01-27T04:38:31.000Z",
+    "id": "427661874788708354",
+    "text": "@DRUDGE_REPORT  Here's another reason to QUIT SMOKING !",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951"
+}

@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "326909819",
+    "text": "@ijgamba @Txwench @Rockprincess818 @LindaSuhler more than an \"omen\" he is a puppet of evil - pure n' simple.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ijgamba",
+                "id": "326909819"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "Txwench",
+                "id": "1886667756"
+            },
+            {
+                "start": 18,
+                "end": 34,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "username": "LindaSuhler",
+                "id": "347627434"
+            }
+        ]
+    },
+    "created_at": "2015-12-03T19:51:18.000Z",
+    "id": "672503394549030912"
+}

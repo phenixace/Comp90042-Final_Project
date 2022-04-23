@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/ig4wQqDc01",
+                "expanded_url": "http://nycdogs.urgentpodr.org/baisley-a1052808/",
+                "display_url": "nycdogs.urgentpodr.org/baisley-a10528…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 64,
+                "tag": "URGENT"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "649988090296188928",
+    "created_at": "2015-10-02T16:43:31.000Z",
+    "in_reply_to_user_id": "807095",
+    "text": "@nytimes SAVE future friend, BAISLEY A1052808 *CODE RED! #URGENT *NEW HOPE RESCUE ONLY * STARVING, SCARED ON ARRIVAL http://t.co/ig4wQqDc01"
+}

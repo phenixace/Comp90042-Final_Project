@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 72,
+                "probability": 0.9887,
+                "type": "Place",
+                "normalized_text": "Wyoming"
+            },
+            {
+                "start": 79,
+                "end": 90,
+                "probability": 0.9964,
+                "type": "Person",
+                "normalized_text": "Donald Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "techweenie",
+                "id": "15150904"
+            },
+            {
+                "start": 23,
+                "end": 39,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-19T00:05:17.000Z",
+    "id": "501520238119518209",
+    "text": "@WYVeteran @techweenie @realDonaldTrump love too see a veteran in Wyoming call Donald Trump a \"fucking mutant\"",
+    "in_reply_to_user_id": "490936163"
+}

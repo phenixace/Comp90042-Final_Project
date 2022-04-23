@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "CapehartJ",
+                "id": "97474887"
+            },
+            {
+                "start": 25,
+                "end": 38,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 53,
+                "probability": 0.4663,
+                "type": "Person",
+                "normalized_text": "Blacks"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @CapehartJ @brianstelter  We have Blacks in the news that know how to investigate. Let them do their job and report the truth.",
+    "id": "538853827873898496",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:35:38.000Z"
+}

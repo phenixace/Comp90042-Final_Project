@@ -1,0 +1,47 @@
+{
+    "source": "Twitter Web App",
+    "text": "@funnydanny I of course disagree with you about the defense with Jack Del Rio as D-Coordinator,  as well as how the offense will perform. This isn't the Redskins of the past few years Danny! Recognize!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "funnydanny",
+                "id": "31156984"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 76,
+                "probability": 0.9817,
+                "type": "Person",
+                "normalized_text": "Jack Del Rio"
+            },
+            {
+                "start": 81,
+                "end": 93,
+                "probability": 0.6839,
+                "type": "Person",
+                "normalized_text": "D-Coordinator"
+            },
+            {
+                "start": 153,
+                "end": 160,
+                "probability": 0.9735,
+                "type": "Organization",
+                "normalized_text": "Redskins"
+            },
+            {
+                "start": 184,
+                "end": 188,
+                "probability": 0.9627,
+                "type": "Person",
+                "normalized_text": "Danny"
+            }
+        ]
+    },
+    "created_at": "2020-05-13T16:28:08.000Z",
+    "id": "1260607771105538054",
+    "in_reply_to_user_id": "31156984"
+}

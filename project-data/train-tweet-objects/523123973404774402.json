@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "523123973404774402",
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:50:49.000Z",
+    "text": "@BBCBreaking So the military now discuss peace terms for a democratic government. Nigerians wake up!!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    }
+}

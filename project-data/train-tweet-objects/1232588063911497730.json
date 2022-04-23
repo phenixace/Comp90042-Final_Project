@@ -1,0 +1,39 @@
+{
+    "text": "@WHOWPRO @WHO Q: What type of disinfectant can I use to wipe down surfaces to protect against #COVID19?\n\nA: If a surface is dirty, first wipe it down with regular household soap or detergent &amp; rinse with water. Then use a regular household disinfectant like bleach. https://t.co/XFXgdX64Ps",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 270,
+                "end": 293,
+                "url": "https://t.co/XFXgdX64Ps",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1232588063911497730/photo/1",
+                "display_url": "pic.twitter.com/XFXgdX64Ps"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 94,
+                "end": 102,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "id": "1232588063911497730",
+    "created_at": "2020-02-26T08:47:49.000Z",
+    "in_reply_to_user_id": "2218026914"
+}

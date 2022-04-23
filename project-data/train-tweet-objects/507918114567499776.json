@@ -1,0 +1,48 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 34,
+                "probability": 0.9384,
+                "type": "Person",
+                "normalized_text": "Ahmed Abdi Godane"
+            },
+            {
+                "start": 55,
+                "end": 58,
+                "probability": 0.7816,
+                "type": "Place",
+                "normalized_text": "U.S."
+            },
+            {
+                "start": 73,
+                "end": 79,
+                "probability": 0.9879,
+                "type": "Place",
+                "normalized_text": "Somalia"
+            },
+            {
+                "start": 82,
+                "end": 89,
+                "probability": 0.4396,
+                "type": "Place",
+                "normalized_text": "Pentagon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/3g7X7rqTcn",
+                "expanded_url": "http://cnn.it/1qkVcnk",
+                "display_url": "cnn.it/1qkVcnk",
+                "unwound_url": "http://cnn.it/1qkVcnk"
+            }
+        ]
+    },
+    "text": "Al-Shabaab leader Ahmed Abdi Godane killed in Monday's U.S. airstrike in Somalia, Pentagon says. http://t.co/3g7X7rqTcn",
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-05T15:48:09.000Z",
+    "id": "507918114567499776"
+}

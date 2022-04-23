@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BurgerKing",
+                "id": "167421802"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "Reynero97",
+                "id": "2170975184"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-29T02:50:08.000Z",
+    "id": "560630948631285760",
+    "text": "@BurgerKing @Reynero97"
+}

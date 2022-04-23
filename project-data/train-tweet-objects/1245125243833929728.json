@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "mycubiclespace",
+                "id": "51306684"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "ewarren",
+                "id": "357606935"
+            }
+        ],
+        "urls": [
+            {
+                "start": 109,
+                "end": 132,
+                "url": "https://t.co/0D3BaQ2sby",
+                "expanded_url": "https://twitter.com/LWN_/status/1245125243833929728/photo/1",
+                "display_url": "pic.twitter.com/0D3BaQ2sby"
+            }
+        ]
+    },
+    "id": "1245125243833929728",
+    "text": "@mycubiclespace @ewarren Oh look, a fool who still thinks 240,000 deaths from COVID-19 is just like the flu. https://t.co/0D3BaQ2sby",
+    "created_at": "2020-03-31T23:06:06.000Z",
+    "in_reply_to_user_id": "51306684"
+}

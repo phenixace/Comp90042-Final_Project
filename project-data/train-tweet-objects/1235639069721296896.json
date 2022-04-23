@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-05T18:51:25.000Z",
+    "text": "Please don't laugh at me, but I just found out I have a shipment of clothing from Hong Kong that was sent 7 days ago. Corona Virus lives on surfaces for 9 days. Should I wait to open it for two more days?",
+    "id": "1235639069721296896",
+    "entities": {
+        "annotations": [
+            {
+                "start": 82,
+                "end": 90,
+                "probability": 0.9408,
+                "type": "Place",
+                "normalized_text": "Hong Kong"
+            }
+        ]
+    },
+    "source": "Twitter Web App"
+}

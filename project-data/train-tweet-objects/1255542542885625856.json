@@ -1,0 +1,74 @@
+{
+    "id": "1255542542885625856",
+    "text": "@ishtiaqarehman @MansoorGajani @officialFakeera @ImranKhanPTI @OfficialDGISPR @PTIofficial Zia died a long time ago. Musharraf has no power right now. We are talking about what #Zardari has done in the last 12 years to #Sindh since the inception of #18thAmendment. Made sugar mills, diverted water towards sugar production, manipulated sugar price @ cost of farmers 4 $$$",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 30,
+                "username": "MansoorGajani",
+                "id": "96749056"
+            },
+            {
+                "start": 31,
+                "end": 47,
+                "username": "officialFakeera",
+                "id": "1213013177593561089"
+            },
+            {
+                "start": 48,
+                "end": 61,
+                "username": "ImranKhanPTI",
+                "id": "122453931"
+            },
+            {
+                "start": 62,
+                "end": 77,
+                "username": "OfficialDGISPR",
+                "id": "811505937911517184"
+            },
+            {
+                "start": 78,
+                "end": 90,
+                "username": "PTIofficial",
+                "id": "127483019"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 177,
+                "end": 185,
+                "tag": "Zardari"
+            },
+            {
+                "start": 219,
+                "end": 225,
+                "tag": "Sindh"
+            },
+            {
+                "start": 249,
+                "end": 263,
+                "tag": "18thAmendment"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 91,
+                "end": 93,
+                "probability": 0.8722,
+                "type": "Person",
+                "normalized_text": "Zia"
+            },
+            {
+                "start": 117,
+                "end": 125,
+                "probability": 0.6866,
+                "type": "Person",
+                "normalized_text": "Musharraf"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2575183506",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-29T17:00:43.000Z"
+}

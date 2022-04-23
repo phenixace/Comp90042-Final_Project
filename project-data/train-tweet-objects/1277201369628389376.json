@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Gunslinger1127",
+                "id": "448151759"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "Xtinaresists",
+                "id": "1175195629984919554"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "username": "L_A_Baker",
+                "id": "259096053"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 48,
+                "probability": 0.6163,
+                "type": "Product",
+                "normalized_text": "Siri"
+            }
+        ]
+    },
+    "created_at": "2020-06-28T11:25:10.000Z",
+    "id": "1277201369628389376",
+    "text": "@Gunslinger1127 @Xtinaresists @L_A_Baker Hey Siri, what is herd immunity? Oh! It requires everyone able to get vaccinated to do so for the immunocompromised who can’t. And that’s the only way it’ll work? Gotcha",
+    "in_reply_to_user_id": "448151759"
+}

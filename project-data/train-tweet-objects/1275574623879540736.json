@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-23T23:41:04.000Z",
+    "text": "@fToRrEeEsSt I'm not gonna make it! 😂 😂 😂",
+    "id": "1275574623879540736",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "fToRrEeEsSt",
+                "id": "1076916727261220864"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1076916727261220864"
+}

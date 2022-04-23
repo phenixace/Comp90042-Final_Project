@@ -1,0 +1,26 @@
+{
+    "source": "Favstar.FM",
+    "created_at": "2014-09-24T02:28:53.000Z",
+    "text": "@katrinalome Congrats on your 250★ tweet! http://t.co/5AI0HUe5ui",
+    "entities": {
+        "urls": [
+            {
+                "start": 42,
+                "end": 64,
+                "url": "http://t.co/5AI0HUe5ui",
+                "expanded_url": "http://favstar.fm/t/514512849876836352",
+                "display_url": "favstar.fm/t/514512849876…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "katrinalome",
+                "id": "575853327"
+            }
+        ]
+    },
+    "id": "514602340687425536",
+    "in_reply_to_user_id": "575853327"
+}

@@ -1,0 +1,49 @@
+{
+    "in_reply_to_user_id": "972651",
+    "id": "544316432985899008",
+    "created_at": "2014-12-15T02:22:05.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 24,
+                "probability": 0.7565,
+                "type": "Organization",
+                "normalized_text": "Uber"
+            },
+            {
+                "start": 59,
+                "end": 64,
+                "probability": 0.8545,
+                "type": "Place",
+                "normalized_text": "Sydney"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/1QATSLiPvz",
+                "expanded_url": "http://on.mash.to/1GnzYLc",
+                "display_url": "on.mash.to/1GnzYLc"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/xXkNRxAa1a",
+                "expanded_url": "https://twitter.com/neeeda/status/544316432985899008/photo/1",
+                "display_url": "pic.twitter.com/xXkNRxAa1a"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "Oh man. RT @mashable Uber intros surge pricing in downtown Sydney during hostage siege http://t.co/1QATSLiPvz http://t.co/xXkNRxAa1a"
+}

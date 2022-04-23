@@ -1,0 +1,17 @@
+{
+    "text": "🤦‍♂️ Florida, wyd? https://t.co/S5p24f8D3k",
+    "source": "Twitter for iPhone",
+    "id": "1239664821362098176",
+    "created_at": "2020-03-16T21:28:19.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 19,
+                "end": 42,
+                "url": "https://t.co/S5p24f8D3k",
+                "expanded_url": "https://twitter.com/WFLA/status/1239618604255059975",
+                "display_url": "twitter.com/WFLA/status/12…"
+            }
+        ]
+    }
+}

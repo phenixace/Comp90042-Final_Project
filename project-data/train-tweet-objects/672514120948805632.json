@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "id": "672514120948805632",
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "probability": 0.9866,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-12-03T20:33:55.000Z",
+    "text": "@ABC Obama doesn't give a F about America! He has done everything to weaken our Country! He needs to be Impeached for Treason!"
+}

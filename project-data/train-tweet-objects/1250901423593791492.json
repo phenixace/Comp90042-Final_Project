@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-16T21:38:34.000Z",
+    "text": "@SABCNews So 5G networks neither transmit any radiation as well????....this sounds like the quality of lessons we have been receiving through SABC platforms.",
+    "id": "1250901423593791492",
+    "entities": {
+        "annotations": [
+            {
+                "start": 142,
+                "end": 145,
+                "probability": 0.811,
+                "type": "Organization",
+                "normalized_text": "SABC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25088746"
+}

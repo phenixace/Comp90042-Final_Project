@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14629315",
+    "created_at": "2015-01-05T18:02:46.000Z",
+    "id": "552163311945396224",
+    "text": "@XXL Dopeness."
+}

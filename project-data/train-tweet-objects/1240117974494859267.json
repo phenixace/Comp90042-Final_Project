@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-18T03:29:00.000Z",
+    "text": "@kelly_jasper_88 @Butterfly6875 @kelly_rdc YES!  It is airborne and much of the spreading is due to that. We're told to stay a MINIMUM of 3 feet (~1 meter) from other people, and 6 feet is strongly recommended.  When you cough it easily travels 3 feet, 6 feet for a deep cough.  NEVER touch your face.",
+    "id": "1240117974494859267",
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 31,
+                "username": "Butterfly6875",
+                "id": "732622902"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "957779816928894976"
+}

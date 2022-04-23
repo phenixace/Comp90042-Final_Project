@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-25T20:59:07.000Z",
+    "id": "1242918962649870345",
+    "entities": {
+        "urls": [
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/QXMrvjNa85",
+                "expanded_url": "https://bbc.in/2WJ4OPt",
+                "display_url": "bbc.in/2WJ4OPt",
+                "unwound_url": "https://bbc.in/2WJ4OPt"
+            }
+        ]
+    },
+    "text": "口罩，戴还是不戴，成了BBC中文在北美的记者近来最大的纠结之一https://t.co/QXMrvjNa85",
+    "source": "SocialFlow"
+}

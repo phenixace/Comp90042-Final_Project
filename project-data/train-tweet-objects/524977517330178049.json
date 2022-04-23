@@ -1,0 +1,25 @@
+{
+    "id": "524977517330178049",
+    "in_reply_to_user_id": "428333",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 40,
+                "probability": 0.7196,
+                "type": "Person",
+                "normalized_text": "وليد الفراج"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "text": "@cnnbrk اقولك خلي عنك بس وشوف وليد الفراج وش مسوي @Question_arab",
+    "created_at": "2014-10-22T17:36:08.000Z"
+}

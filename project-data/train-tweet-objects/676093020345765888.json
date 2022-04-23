@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle # how can this be",
+    "id": "676093020345765888",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T17:35:11.000Z"
+}

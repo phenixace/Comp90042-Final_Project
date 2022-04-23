@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-23T13:49:14.000Z",
+    "text": "@BuzzFeedUK I think this may be a hoax. The letter is printed in \"Germany\" and not in \"FRG\"\nor \"West Germany\" as it was usual in the 70's.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 66,
+                "end": 72,
+                "probability": 0.9942,
+                "type": "Place",
+                "normalized_text": "Germany"
+            },
+            {
+                "start": 96,
+                "end": 107,
+                "probability": 0.7272,
+                "type": "Place",
+                "normalized_text": "West Germany"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536516827103657984",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/3cRu0vBaKt",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/3cRu0vBaKt"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-28T14:56:37.000Z",
+    "id": "560451384160841729",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/3cRu0vBaKt” nigga Yall make burgers, not oatmeal."
+}

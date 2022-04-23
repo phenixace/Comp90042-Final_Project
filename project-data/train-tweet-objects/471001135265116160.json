@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-05-26T18:53:16.000Z",
+    "text": "@LifeNewsHQ And nothing about the school boys who had their throats cut by Boko Harem prior to the kidnapping of the school girls.#NNigeria",
+    "id": "471001135265116160",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 130,
+                "end": 139,
+                "tag": "NNigeria"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "LifeNewsHQ",
+                "id": "50434933"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 75,
+                "end": 84,
+                "probability": 0.7032,
+                "type": "Person",
+                "normalized_text": "Boko Harem"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50434933"
+}

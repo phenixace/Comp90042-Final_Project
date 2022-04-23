@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-02-27T22:41:49.000Z",
+    "text": "@BanksBasis The virus doesn't survive long on things like letters and packages per @WHO",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BanksBasis",
+                "id": "1184862932708052994"
+            },
+            {
+                "start": 83,
+                "end": 87,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1184862932708052994",
+    "id": "1233160335022002176",
+    "source": "Twitter Web App"
+}

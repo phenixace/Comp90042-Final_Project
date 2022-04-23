@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SpreadButter",
+                "id": "26643566"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "26643566",
+    "created_at": "2015-01-08T20:13:40.000Z",
+    "text": "@SpreadButter What do you expect? She came from crappy sperm going into crappy ovaries.",
+    "id": "553283416905768960",
+    "source": "Twitter for Android"
+}

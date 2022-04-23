@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "KayKEELY",
+                "id": "251676964"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "BenjaminJS",
+                "id": "23258865"
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "username": "SenTedCruz",
+                "id": "1074480192"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "251676964",
+    "created_at": "2020-03-09T01:58:31.000Z",
+    "id": "1236833715579469824",
+    "text": "@KayKEELY @BenjaminJS @SenTedCruz Source? And, again he can be asymptomatic."
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T15:17:28.000Z",
+    "id": "514070985952083970",
+    "text": "@Cosmopolitan MAARRRRYYY MEEEEEEE\n\nHAHAHAHAHAHAHAHAAAAAA\n\nGAAANGSTERRRRR!!!",
+    "in_reply_to_user_id": "23482952"
+}

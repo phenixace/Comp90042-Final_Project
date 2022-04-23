@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "807095",
+    "created_at": "2015-10-02T11:18:01.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 18,
+                "probability": 0.4455,
+                "type": "Organization",
+                "normalized_text": "WH"
+            },
+            {
+                "start": 73,
+                "end": 81,
+                "probability": 0.9982,
+                "type": "Person",
+                "normalized_text": "Kim Davis"
+            }
+        ]
+    },
+    "id": "649906176977604608",
+    "text": "@nytimes  If the WH were spinning this damage control they would've said Kim Davis was needing counsel about entering into her 5th marriage."
+}

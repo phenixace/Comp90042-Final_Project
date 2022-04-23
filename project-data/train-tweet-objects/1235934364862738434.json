@@ -1,0 +1,67 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 26,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 112,
+                "end": 120,
+                "tag": "COVID19"
+            },
+            {
+                "start": 233,
+                "end": 246,
+                "tag": "KnowtheFacts"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 79,
+                "end": 83,
+                "probability": 0.9849,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 207,
+                "end": 230,
+                "url": "https://t.co/TdKoGmWrIr",
+                "expanded_url": "http://bit.ly/COVID19Mythbusters",
+                "display_url": "bit.ly/COVID19Mythbus…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 738
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "COVID-19 Mythbusters – World Health Organization",
+                "description": "Highlighting some of the misinformation circulating on COVID-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+            },
+            {
+                "start": 247,
+                "end": 270,
+                "url": "https://t.co/yiCbtsOM5l",
+                "expanded_url": "https://twitter.com/WHO/status/1235934364862738434/photo/1",
+                "display_url": "pic.twitter.com/yiCbtsOM5l"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-03-06T14:24:49.000Z",
+    "id": "1235934364862738434",
+    "text": "FACT: The new #coronavirus cannot be transmitted through goods manufactured in China or any countries reporting #COVID19 cases.\nIf you think a surface may be contaminated, use a disinfectant to clean it.\n\n👉🏽https://t.co/TdKoGmWrIr \n\n#KnowtheFacts https://t.co/yiCbtsOM5l",
+    "source": "Twitter Web App"
+}

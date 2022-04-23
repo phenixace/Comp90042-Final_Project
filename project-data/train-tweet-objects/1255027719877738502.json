@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-28T06:55:00.000Z",
+    "text": "हरियाणा में रहने वाले प्रत्येक परिवार को अब अलग से मिलेगा पहचान पत्र https://t.co/oU6BdDr6di",
+    "id": "1255027719877738502",
+    "entities": {
+        "urls": [
+            {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/oU6BdDr6di",
+                "expanded_url": "https://twitter.com/cmohry/status/1255027719877738502/photo/1",
+                "display_url": "pic.twitter.com/oU6BdDr6di"
+            }
+        ]
+    },
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            },
+            {
+                "start": 59,
+                "end": 71,
+                "username": "lindsey3095",
+                "id": "372034263"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/IgiJLOVqF8",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/IgiJLOVqF8"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-28T15:27:50.000Z",
+    "id": "560459239064629250",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/IgiJLOVqF8”@lindsey3095 take me here. Sunday. 😍"
+}

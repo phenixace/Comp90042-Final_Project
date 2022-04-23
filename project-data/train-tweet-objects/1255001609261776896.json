@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-04-28T05:11:15.000Z",
+    "text": "@amend4_ Stay home then. Freedom of choice! Fully support opening TX",
+    "id": "1255001609261776896",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 67,
+                "probability": 0.8057,
+                "type": "Place",
+                "normalized_text": "TX"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1276353157"
+}

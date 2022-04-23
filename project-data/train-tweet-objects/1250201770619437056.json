@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-14T23:18:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "professordarwin",
+                "id": "3497382434"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 79,
+                "end": 83,
+                "probability": 0.9898,
+                "type": "Person",
+                "normalized_text": "trump"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1250201770619437056",
+    "text": "@professordarwin idk but both seem to have to do something with old people and trump",
+    "in_reply_to_user_id": "3497382434"
+}

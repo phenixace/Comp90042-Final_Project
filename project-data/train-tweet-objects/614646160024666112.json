@@ -1,0 +1,34 @@
+{
+    "created_at": "2015-06-27T04:07:18.000Z",
+    "id": "614646160024666112",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 23,
+                "end": 31,
+                "tag": "America"
+            },
+            {
+                "start": 32,
+                "end": 50,
+                "tag": "MarriageEquaility"
+            },
+            {
+                "start": 51,
+                "end": 61,
+                "tag": "LovesWins"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ]
+    },
+    "text": "@thehill great day for #America #MarriageEquaility #LovesWins",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1917731"
+}

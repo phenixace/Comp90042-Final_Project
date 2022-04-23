@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidNelsonNews",
+                "id": "219937434"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "MacCocktail",
+                "id": "483195215"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "532254692643209217",
+    "created_at": "2014-11-11T19:33:02.000Z",
+    "in_reply_to_user_id": "219937434",
+    "text": "@DavidNelsonNews @MacCocktail what about the words rat, feces and mold"
+}

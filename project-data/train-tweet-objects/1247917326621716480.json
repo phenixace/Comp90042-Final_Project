@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "riceface11",
+                "id": "175811852"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "SkyNews",
+                "id": "7587032"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 34,
+                "end": 43,
+                "username": "va_shiva",
+                "id": "364214133"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1247917326621716480",
+    "created_at": "2020-04-08T16:00:50.000Z",
+    "in_reply_to_user_id": "175811852",
+    "text": "@riceface11 @SkyNews @piersmorgan @va_shiva Thanks so much appreciate it, apparently it isnt airborne. Reason I asked was cus my cusin her hubby and their 12 yo jus recovered from it. The ONLY time they went out was in their garden to play basketball 🤔"
+}

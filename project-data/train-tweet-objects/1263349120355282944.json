@@ -1,0 +1,59 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 179,
+                "end": 185,
+                "tag": "NZPOL"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 41,
+                "probability": 0.5065,
+                "type": "Organization",
+                "normalized_text": "Colmar Brunton"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "probability": 0.2924,
+                "type": "Organization",
+                "normalized_text": "Labour Party"
+            },
+            {
+                "start": 103,
+                "end": 117,
+                "probability": 0.6062,
+                "type": "Organization",
+                "normalized_text": "National Party"
+            }
+        ],
+        "urls": [
+            {
+                "start": 155,
+                "end": 178,
+                "url": "https://t.co/9Gi4b0HayZ",
+                "expanded_url": "https://www.tvnz.co.nz/content/tvnz/onenews/story/2020/05/21/party.html",
+                "display_url": "tvnz.co.nz/content/tvnz/o…"
+            },
+            {
+                "start": 186,
+                "end": 209,
+                "url": "https://t.co/utcMT3DzMw",
+                "expanded_url": "https://twitter.com/1NewsNZ/status/1263349120355282944/photo/1",
+                "display_url": "pic.twitter.com/utcMT3DzMw"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "id": "1263349120355282944",
+    "text": "#BREAKING\nThe latest 1 NEWS Colmar Brunton Poll results: \nLabour Party - 59% (up 18 percentage points) \nNational Party - 29% (down 17 percentage points). \nhttps://t.co/9Gi4b0HayZ\n#NZPOL https://t.co/utcMT3DzMw",
+    "created_at": "2020-05-21T06:01:16.000Z"
+}

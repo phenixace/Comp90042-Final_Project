@@ -1,0 +1,47 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "471677441",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 43,
+                "probability": 0.5208,
+                "type": "Person",
+                "normalized_text": "Trumper"
+            },
+            {
+                "start": 128,
+                "end": 132,
+                "probability": 0.9994,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 187,
+                "end": 195,
+                "probability": 0.6139,
+                "type": "Person",
+                "normalized_text": "Americans"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 198,
+                "end": 212,
+                "tag": "DumpTrump2020"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "gtconway3d",
+                "id": "471677441"
+            }
+        ]
+    },
+    "text": "@gtconway3d My neighbor, a committed Trumper, told me the cornoravirus [COVID-19] is just like the flu; nothing to worry about. Trump and his enablers have deluded millions of our fellow Americans. #DumpTrump2020",
+    "created_at": "2020-03-11T12:59:28.000Z",
+    "id": "1237724825843572742"
+}

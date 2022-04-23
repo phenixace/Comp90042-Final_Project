@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-22T13:37:42.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 211,
+                "end": 234,
+                "url": "https://t.co/NJyomvn8x5",
+                "expanded_url": "https://twitter.com/ChamakforIndia/status/1241720714035482624/photo/1",
+                "display_url": "pic.twitter.com/NJyomvn8x5"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 16,
+                "tag": "Myths"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "tag": "CoVid19"
+            }
+        ]
+    },
+    "id": "1241720714035482624",
+    "text": "Debunking #Myths about #CoVid19 :-\n\nNo, Snorting Cocaine or Drinking Alchohol does NOT protect against COVID-19. It’s a highly addictive thing that causes serious side effects and is harmful to people’s health! https://t.co/NJyomvn8x5",
+    "in_reply_to_user_id": "1212466860588822528"
+}

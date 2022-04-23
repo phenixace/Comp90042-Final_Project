@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T04:09:25.000Z",
+    "text": "@StephenAtHome @DrLaPook How come donald trump refuses to wear a mask?",
+    "id": "1250275008284225541",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 45,
+                "probability": 0.989,
+                "type": "Person",
+                "normalized_text": "donald trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

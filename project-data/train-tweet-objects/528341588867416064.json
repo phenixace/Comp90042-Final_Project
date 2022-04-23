@@ -1,0 +1,34 @@
+{
+    "id": "528341588867416064",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 17,
+                "probability": 0.9966,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 71,
+                "end": 79,
+                "probability": 0.6916,
+                "type": "Person",
+                "normalized_text": "Americans"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/757kp9HEyJ",
+                "expanded_url": "http://bit.ly/1vqpqmV",
+                "display_url": "bit.ly/1vqpqmV",
+                "unwound_url": "http://twitchy.com/2014/10/31/who-is-we-obama-says-being-a-stay-at-home-mom-not-a-choice-we-want-americans-to-make/?utm_source=autotweet&utm_medium=twitter&utm_campaign=twitter"
+            }
+        ]
+    },
+    "created_at": "2014-11-01T00:23:45.000Z",
+    "text": "'Who is we?' Obama says being a stay-at-home mom 'not a choice we want Americans to make' http://t.co/757kp9HEyJ",
+    "source": "Twitchy.com"
+}

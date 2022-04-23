@@ -1,0 +1,25 @@
+{
+    "id": "1238555803411456005",
+    "entities": {
+        "urls": [
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/CZ3HJIsEXf",
+                "expanded_url": "https://health.baltimorecity.gov/novel-coronavirus-2019-ncov",
+                "display_url": "health.baltimorecity.gov/novel-coronavi…"
+            },
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/6ISwRFVP0i",
+                "expanded_url": "https://twitter.com/baltimorebudget/status/1238555803411456005/photo/1",
+                "display_url": "pic.twitter.com/6ISwRFVP0i"
+            }
+        ]
+    },
+    "created_at": "2020-03-13T20:01:29.000Z",
+    "text": "Planning to host an event? Learn more about the City guidance on events during this time at  https://t.co/CZ3HJIsEXf https://t.co/6ISwRFVP0i",
+    "in_reply_to_user_id": "455988205",
+    "source": "Twitter Web App"
+}

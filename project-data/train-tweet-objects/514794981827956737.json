@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-24T15:14:22.000Z",
+    "text": "@katrinalome hfdfujdf",
+    "id": "514794981827956737",
+    "in_reply_to_user_id": "575853327",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "katrinalome",
+                "id": "575853327"
+            }
+        ]
+    }
+}

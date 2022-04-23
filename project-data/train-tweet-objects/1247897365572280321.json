@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SamMcAlister1",
+                "id": "296314959"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 17,
+                "probability": 0.9206,
+                "type": "Person",
+                "normalized_text": "Sam"
+            }
+        ]
+    },
+    "created_at": "2020-04-08T14:41:31.000Z",
+    "id": "1247897365572280321",
+    "text": "@SamMcAlister1 Sam!! I had no clue you are experiencing symptoms. Are you okay? Please get well and know I’m praying for you! Ughh this sucks 😢. Sending you the BIGGEST hug and so much love 💕",
+    "in_reply_to_user_id": "296314959"
+}

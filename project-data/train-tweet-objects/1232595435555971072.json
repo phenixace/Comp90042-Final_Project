@@ -1,0 +1,48 @@
+{
+    "text": "@WHOWPRO @WHO Q: What should I do if shops are sold out of hand sanitizer?\n\nA: That’s okay. Washing your hands using regular soap and water is also effective against #COVID19. Remember to wash between your fingers, the backs of your hands &amp; around your nails. \n\n📹: https://t.co/XAxAmZ6Wb4 https://t.co/75DZZZfRyb",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/XAxAmZ6Wb4",
+                "expanded_url": "https://youtu.be/AjlKaOFlWf8",
+                "display_url": "youtu.be/AjlKaOFlWf8",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=AjlKaOFlWf8&feature=youtu.be"
+            },
+            {
+                "start": 293,
+                "end": 316,
+                "url": "https://t.co/75DZZZfRyb",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1232595435555971072/photo/1",
+                "display_url": "pic.twitter.com/75DZZZfRyb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 166,
+                "end": 174,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "id": "1232595435555971072",
+    "created_at": "2020-02-26T09:17:07.000Z",
+    "in_reply_to_user_id": "2218026914"
+}

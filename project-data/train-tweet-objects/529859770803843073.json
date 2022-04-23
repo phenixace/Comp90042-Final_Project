@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-11-05T04:56:28.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 37,
+                "probability": 0.8816,
+                "type": "Person",
+                "normalized_text": "President Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "NotKennyRogers",
+                "id": "115557718"
+            },
+            {
+                "start": 83,
+                "end": 98,
+                "username": "WilkowMajority",
+                "id": "44397959"
+            },
+            {
+                "start": 99,
+                "end": 111,
+                "username": "seanhannity",
+                "id": "41634520"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "115557718",
+    "text": "“@NotKennyRogers: Dear President Obama...it looks like Stay-at-home Moms vote too.”@wilkowmajority @seanhannity",
+    "id": "529859770803843073",
+    "source": "Twitter for iPhone"
+}

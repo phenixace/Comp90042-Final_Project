@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T03:52:03.000Z",
+    "text": "@AlexBerenson What about the CDC anti body testing done in late March/early April?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 31,
+                "probability": 0.5672,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278174502179024896",
+    "source": "Echofon"
+}

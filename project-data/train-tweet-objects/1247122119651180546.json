@@ -1,0 +1,23 @@
+{
+    "id": "1247122119651180546",
+    "in_reply_to_user_id": "238115057",
+    "source": "Twitter for Android",
+    "text": "@mtnug @MinofHealthUG MTN thank you so much, you have put effort in sensitizing the community. \nKudos 👏👏👏👏",
+    "created_at": "2020-04-06T11:20:58.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "mtnug",
+                "id": "238115057"
+            },
+            {
+                "start": 7,
+                "end": 21,
+                "username": "MinofHealthUG",
+                "id": "2882328382"
+            }
+        ]
+    }
+}

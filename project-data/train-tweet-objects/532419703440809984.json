@@ -1,0 +1,45 @@
+{
+    "in_reply_to_user_id": "53110793",
+    "id": "532419703440809984",
+    "created_at": "2014-11-12T06:28:43.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 58,
+                "probability": 0.9982,
+                "type": "Place",
+                "normalized_text": "Australia"
+            },
+            {
+                "start": 131,
+                "end": 136,
+                "probability": 0.9975,
+                "type": "Place",
+                "normalized_text": "Russia"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "adamhillscomedy",
+                "id": "53110793"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "username": "CL_LFC",
+                "id": "21746426"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "username": "UsVsTh3m",
+                "id": "1430400949"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@adamhillscomedy @CL_LFC @UsVsTh3m that is not in Australia as we do not drive on the right hand side of the road! I think it's in Russia."
+}

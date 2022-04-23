@@ -1,0 +1,24 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T18:01:37.000Z",
+    "text": "@Vmontori highly recommends I read the A Camus book. Highly descriptive of the current situation.\n#COVID19\n28/x",
+    "id": "1276213976913850368",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 98,
+                "end": 106,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "vmontori",
+                "id": "31522489"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

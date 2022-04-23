@@ -1,0 +1,17 @@
+{
+    "id": "538001078026252289",
+    "in_reply_to_user_id": "215598844",
+    "source": "Twitter for iPhone",
+    "text": "@LeftSentThis @HicklenJeremiah you can't have massive riots and chaos and not expect some casualties...",
+    "created_at": "2014-11-27T16:07:07.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeftSentThis",
+                "id": "215598844"
+            }
+        ]
+    }
+}

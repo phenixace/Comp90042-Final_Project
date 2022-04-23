@@ -1,0 +1,40 @@
+{
+    "id": "643105514100920320",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 39,
+                "end": 43,
+                "probability": 0.9616,
+                "type": "Place",
+                "normalized_text": "Syria"
+            },
+            {
+                "start": 85,
+                "end": 93,
+                "probability": 0.5457,
+                "type": "Person",
+                "normalized_text": "Americans"
+            },
+            {
+                "start": 113,
+                "end": 117,
+                "probability": 0.9855,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    },
+    "text": "@AllenWest these are not refugees from Syria. It is a rouse. A farse orchestrated by Americans public enemy no.1 Obama!",
+    "created_at": "2015-09-13T16:54:37.000Z"
+}

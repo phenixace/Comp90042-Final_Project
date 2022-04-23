@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.9954,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "Ian56789",
+                "id": "403647191"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-19T14:44:02.000Z",
+    "id": "523847042838589440",
+    "text": "@SaveJobsGlobal @Ian56789 Where Obama? Hope and change my ASS!",
+    "source": "Twitter Web Client"
+}

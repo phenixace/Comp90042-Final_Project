@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "TheDailyEdge",
+                "id": "179732982"
+            }
+        ]
+    },
+    "created_at": "2015-02-16T02:04:49.000Z",
+    "text": "@assholeofday @TheDailyEdge WHAT?!",
+    "id": "567142523228139520"
+}

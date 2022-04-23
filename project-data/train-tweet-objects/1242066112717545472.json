@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 18,
+                "end": 41,
+                "url": "https://t.co/DPE0B6FElU",
+                "expanded_url": "https://twitter.com/almast_kashmiri/status/1242066112717545472/photo/1",
+                "display_url": "pic.twitter.com/DPE0B6FElU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "karunanundy",
+                "id": "415860281"
+            }
+        ]
+    },
+    "created_at": "2020-03-23T12:30:12.000Z",
+    "source": "Twitter for Android",
+    "id": "1242066112717545472",
+    "text": "@karunanundy NeJM https://t.co/DPE0B6FElU",
+    "in_reply_to_user_id": "415860281"
+}

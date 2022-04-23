@@ -1,0 +1,34 @@
+{
+    "source": "Hootsuite",
+    "created_at": "2014-09-22T20:00:06.000Z",
+    "id": "514142113601437696",
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 74,
+                "probability": 0.6007,
+                "type": "Person",
+                "normalized_text": "Charlo Green"
+            }
+        ],
+        "urls": [
+            {
+                "start": 94,
+                "end": 116,
+                "url": "http://t.co/zxZuNLcJEn",
+                "expanded_url": "http://cnn.it/1tVUwG4",
+                "display_url": "cnn.it/1tVUwG4",
+                "unwound_url": "http://money.cnn.com/2014/09/22/media/alaska-reporter-quit/index.html?sr=fb092214alaskareporterquits4pvodtoplink"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/gKWzUPLf9E",
+                "expanded_url": "https://twitter.com/CNNMoney/status/514102597087526913/photo/1",
+                "display_url": "pic.twitter.com/gKWzUPLf9E"
+            }
+        ]
+    },
+    "text": "Well, this is one way to quit your job. Watch Alaskan reporter Charlo Green quit live on air. http://t.co/zxZuNLcJEn http://t.co/gKWzUPLf9E"
+}

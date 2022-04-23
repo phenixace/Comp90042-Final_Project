@@ -1,0 +1,39 @@
+{
+    "in_reply_to_user_id": "1767741",
+    "id": "672217699817271296",
+    "created_at": "2015-12-03T00:56:03.000Z",
+    "source": "Echofon",
+    "text": "@NYTNational we're a sick, disturbed society whose citizens have no idea what spirituality and love mean.\n#greed\n#shallow\n#stupid\n#empty",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 112,
+                "tag": "greed"
+            },
+            {
+                "start": 113,
+                "end": 121,
+                "tag": "shallow"
+            },
+            {
+                "start": 122,
+                "end": 129,
+                "tag": "stupid"
+            },
+            {
+                "start": 130,
+                "end": 136,
+                "tag": "empty"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYTNational",
+                "id": "1767741"
+            }
+        ]
+    }
+}

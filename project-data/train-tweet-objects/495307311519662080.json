@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/GVmIePLGkg",
+                "expanded_url": "http://www.savannahcpv.co.uk",
+                "display_url": "savannahcpv.co.uk"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 58,
+                "tag": "develop"
+            },
+            {
+                "start": 67,
+                "end": 74,
+                "tag": "Africa"
+            }
+        ]
+    },
+    "created_at": "2014-08-01T20:37:20.000Z",
+    "in_reply_to_user_id": "34713362",
+    "source": "Twitter for iPad",
+    "text": "@BloombergNews  I am looking for joint venture to #develop 50MW in #Africa http://t.co/GVmIePLGkg",
+    "id": "495307311519662080"
+}

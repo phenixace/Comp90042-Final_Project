@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "maDube_",
+                "id": "310514972"
+            }
+        ]
+    },
+    "id": "1243799117828108288",
+    "text": "@maDube_ Is the hydro chloroquine solution also mythical or we can't afford it?",
+    "created_at": "2020-03-28T07:16:33.000Z",
+    "in_reply_to_user_id": "310514972"
+}

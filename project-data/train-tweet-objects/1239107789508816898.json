@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/kT21qp72S6",
+                "expanded_url": "https://twitter.com/UndergroundUTSC/status/1239107789508816898/photo/1",
+                "display_url": "pic.twitter.com/kT21qp72S6"
+            }
+        ]
+    },
+    "created_at": "2020-03-15T08:34:53.000Z",
+    "source": "Twitter Web App",
+    "id": "1239107789508816898",
+    "text": "Which age-group is affected the heaviest? https://t.co/kT21qp72S6",
+    "in_reply_to_user_id": "1178058806292619266"
+}

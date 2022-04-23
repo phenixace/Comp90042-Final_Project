@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SenatorBiaggi",
+                "id": "1082694056839397376"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 38,
+                "probability": 0.6616,
+                "type": "Other",
+                "normalized_text": "god"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1082694056839397376",
+    "created_at": "2020-03-17T20:15:24.000Z",
+    "text": "@SenatorBiaggi @WHO For the love of god, please tell me no one actually thinks this 🙄🤦🏻‍♂️",
+    "id": "1240008855679049730",
+    "source": "Twitter for iPhone"
+}

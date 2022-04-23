@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN lol",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-10-12T08:07:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "653482202961997824"
+}

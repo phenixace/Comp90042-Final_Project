@@ -1,0 +1,26 @@
+{
+    "id": "615139524566347776",
+    "text": "@ABC Disgrace.God have mercy on our souls.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 16,
+                "probability": 0.8653,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter for Android",
+    "created_at": "2015-06-28T12:47:46.000Z"
+}

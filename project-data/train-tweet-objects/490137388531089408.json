@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-18T14:13:54.000Z",
+    "source": "Trillian",
+    "id": "490137388531089408",
+    "text": "@mashable Fact already?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "972651"
+}

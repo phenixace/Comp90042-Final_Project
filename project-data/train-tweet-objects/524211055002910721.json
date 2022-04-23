@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 21,
+                "end": 28,
+                "tag": "Banksy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "TelegraphNews",
+                "id": "14138785"
+            }
+        ],
+        "urls": [
+            {
+                "start": 51,
+                "end": 73,
+                "url": "http://t.co/piuxSiRIuE",
+                "expanded_url": "http://fw.to/OJ7SPrb",
+                "display_url": "fw.to/OJ7SPrb"
+            },
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/HH0xktuiDM",
+                "expanded_url": "https://twitter.com/TelegraphNews/status/524206851450486785/photo/1",
+                "display_url": "pic.twitter.com/HH0xktuiDM"
+            }
+        ]
+    },
+    "text": "“@TelegraphNews: No, #Banksy has not been arrested http://t.co/piuxSiRIuE http://t.co/HH0xktuiDM”\n\nPhew!",
+    "created_at": "2014-10-20T14:50:29.000Z",
+    "id": "524211055002910721",
+    "in_reply_to_user_id": "14138785",
+    "source": "Twitter for iPad"
+}

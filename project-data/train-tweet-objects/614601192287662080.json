@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:08:37.000Z",
+    "text": "@FoxNews actually it is fitting. The White House is full of rainbow warriors and not military warriors.",
+    "id": "614601192287662080",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 37,
+                "end": 47,
+                "probability": 0.5682,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

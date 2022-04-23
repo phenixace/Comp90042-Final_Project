@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "26953013",
+    "id": "1264265064254771200",
+    "created_at": "2020-05-23T18:40:54.000Z",
+    "source": "Twitter Web App",
+    "text": "@AaronPM03 @KelinWonder @ToriGlass \"Why are all these people still talking about needing to vote, the results were announced already?\" \"Oh, we have to vote AGAIN now?\" \"What do you mean my vote doesn't really count?!?\"\n\nsome bullshirt guys.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AaronPM03",
+                "id": "961125706129342478"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "KelinWonder",
+                "id": "977348811336007680"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "username": "ToriGlass",
+                "id": "123040155"
+            }
+        ]
+    }
+}

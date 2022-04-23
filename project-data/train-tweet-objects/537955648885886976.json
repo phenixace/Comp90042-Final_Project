@@ -1,0 +1,17 @@
+{
+    "id": "537955648885886976",
+    "in_reply_to_user_id": "215598844",
+    "source": "Twitter Web App",
+    "text": "@LeftSentThis The police were to rough in Aug , Mon. To soft, Tues to rough. Verdict was read at a bad time. Damned if u do Damned if u dont",
+    "created_at": "2014-11-27T13:06:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeftSentThis",
+                "id": "215598844"
+            }
+        ]
+    }
+}

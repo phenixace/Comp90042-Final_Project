@@ -1,0 +1,33 @@
+{
+    "source": "Mobile Web (M2)",
+    "id": "523335784028721152",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 22,
+                "probability": 0.6806,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 60,
+                "end": 67,
+                "tag": "united"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-18T04:52:28.000Z",
+    "text": "@bbcbreaking Boko Haram Menace Depicts How The World Is Not #united Against Terrorism"
+}

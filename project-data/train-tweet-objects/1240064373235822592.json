@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SenatorBiaggi",
+                "id": "1082694056839397376"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 35,
+                "probability": 0.4917,
+                "type": "Person",
+                "normalized_text": "Sherlock"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1082694056839397376",
+    "created_at": "2020-03-17T23:56:00.000Z",
+    "text": "@SenatorBiaggi @WHO No shit Sherlock",
+    "id": "1240064373235822592",
+    "source": "Twitter for iPhone"
+}

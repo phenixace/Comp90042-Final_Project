@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-16T05:13:31.000Z",
+    "text": "@StephenAtHome @DrLaPook Can we please start asking more hard pressing questions. Keep this up and the number of Peabody Awards @iamjohnoliver gets will only be increasing.",
+    "id": "1250653526428024832",
+    "entities": {
+        "annotations": [
+            {
+                "start": 113,
+                "end": 126,
+                "probability": 0.5203,
+                "type": "Other",
+                "normalized_text": "Peabody Awards"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            },
+            {
+                "start": 128,
+                "end": 142,
+                "username": "iamjohnoliver",
+                "id": "316389142"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TOIIndiaNews",
+                "id": "29958928"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 34,
+                "probability": 0.9046,
+                "type": "Place",
+                "normalized_text": "Kolkata"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1270439617242771456",
+    "created_at": "2020-06-09T19:36:23.000Z",
+    "in_reply_to_user_id": "29958928",
+    "text": "@TOIIndiaNews Why is pic of Kolkata with a queue for a bus... Any particular reason of using this backdrop to explain \"herd\" concept"
+}

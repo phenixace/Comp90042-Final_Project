@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-10T20:30:07.000Z",
+    "text": "@ochealth Even the military uses 5G as a weapon, and your allowing Verizon and others to so easily instal it in our cities? \n\nhttps://t.co/oYRKVOPuiT",
+    "id": "1248709868132810752",
+    "entities": {
+        "urls": [
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/oYRKVOPuiT",
+                "expanded_url": "https://healthfreedomidaho.org/5g-military-weapon/",
+                "display_url": "healthfreedomidaho.org/5g-military-we…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ochealth",
+                "id": "36069538"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 67,
+                "end": 73,
+                "probability": 0.8709,
+                "type": "Organization",
+                "normalized_text": "Verizon"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "36069538"
+}

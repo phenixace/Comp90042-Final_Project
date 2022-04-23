@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/gyqtRC6fZ4",
+                "expanded_url": "http://ow.ly/DabUf",
+                "display_url": "ow.ly/DabUf",
+                "status": 200,
+                "unwound_url": "https://www.ctvnews.ca/canada/canada-will-never-be-intimidated-harper-says-after-shootings-in-ottawa-1.2065443?hootPostID=8da280b728c4f4aba0417f78b60169de"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "CTVNews",
+                "id": "203123011"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 109,
+                "end": 116,
+                "tag": "Ottawa"
+            },
+            {
+                "start": 117,
+                "end": 121,
+                "tag": "WTF"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 58,
+                "probability": 0.6573,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T15:04:55.000Z",
+    "source": "Twitter for iPhone",
+    "id": "524939464385495040",
+    "text": "“@CTVNews: DEVELOPING story: Shots fired on Parliament Hill, soldier shotWar Memorial http://t.co/gyqtRC6fZ4 #Ottawa #WTF",
+    "in_reply_to_user_id": "203123011"
+}

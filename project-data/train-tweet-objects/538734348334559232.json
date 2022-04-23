@@ -1,0 +1,29 @@
+{
+    "id": "538734348334559232",
+    "created_at": "2014-11-29T16:40:52.000Z",
+    "text": "@deray Yessir bro...you're on it! @ABC &amp; @GStephanopoulos paid that cold-blooded murderer half-a-mill for ratings as a promo for his \"tour\"!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 45,
+                "end": 61,
+                "username": "GStephanopoulos",
+                "id": "17074440"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "29417304",
+    "source": "Twitter Web Client"
+}

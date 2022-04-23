@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ItsThingsInLife",
+                "id": "149655776"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 87,
+                "end": 97,
+                "probability": 0.9091,
+                "type": "Person",
+                "normalized_text": "paul walker"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "149655776",
+    "created_at": "2013-12-01T15:19:28.000Z",
+    "id": "407167068811706368",
+    "text": "@ItsThingsInLife he is a former race car driver also! I think he's famous but not like paul walker"
+}

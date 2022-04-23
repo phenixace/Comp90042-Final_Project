@@ -1,0 +1,17 @@
+{
+    "text": "@RepRWilliams his wifes website is still up and running. Guess the kids aren't as important as he would like us to think.",
+    "created_at": "2013-10-07T03:48:21.000Z",
+    "id": "387061808713838592",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RepRWilliams",
+                "id": "1077446982"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1077446982",
+    "source": "TweetCaster for Android"
+}

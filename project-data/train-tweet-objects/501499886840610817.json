@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 68,
+                "end": 75,
+                "probability": 0.5091,
+                "type": "Place",
+                "normalized_text": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "created_at": "2014-08-18T22:44:25.000Z",
+    "id": "501499886840610817",
+    "text": "@realDonaldTrump I'm surprised you haven't commented on shooting in Ferguson.",
+    "in_reply_to_user_id": "25073877"
+}

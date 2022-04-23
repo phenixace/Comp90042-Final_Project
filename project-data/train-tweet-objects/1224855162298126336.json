@@ -1,0 +1,75 @@
+{
+    "in_reply_to_user_id": "14499829",
+    "id": "1224855162298126336",
+    "created_at": "2020-02-05T00:40:02.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 140,
+                "end": 144,
+                "probability": 0.956,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 249,
+                "end": 253,
+                "probability": 0.5008,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 63,
+                "end": 77,
+                "username": "JustinTrudeau",
+                "id": "14260960"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO @JustinTrudeau \nSo it transmitted from person to person, and u r not suspend China flights? R u risking Canadian's life on this with you? I think you should take some time off and go to Wuhan to understand what's going on there, of course without mask, caz it's for sick person."
+}

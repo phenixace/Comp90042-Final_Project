@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 176,
+                "end": 185,
+                "tag": "RealTime"
+            }
+        ],
+        "urls": [
+            {
+                "start": 187,
+                "end": 210,
+                "url": "https://t.co/rfnkj8Km6b",
+                "expanded_url": "https://twitter.com/RealTimers/status/1238872520771559425/video/1",
+                "display_url": "pic.twitter.com/rfnkj8Km6b"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 135,
+                "end": 143,
+                "username": "dropeik",
+                "id": "19242750"
+            },
+            {
+                "start": 149,
+                "end": 159,
+                "username": "billmaher",
+                "id": "19697415"
+            }
+        ]
+    },
+    "created_at": "2020-03-14T17:00:00.000Z",
+    "id": "1238872520771559425",
+    "text": "Are the experts telling us it's going to be worse so, when it's not as bad, we are pleasantly surprised?\n\nWatch risk psychology expert @dropeik join @BillMaher on last night's #RealTime: https://t.co/rfnkj8Km6b",
+    "source": "Twitter Media Studio"
+}

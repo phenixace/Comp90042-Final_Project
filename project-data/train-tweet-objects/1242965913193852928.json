@@ -1,0 +1,30 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "114816952",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 126,
+                "end": 137,
+                "tag": "BANPALMOIL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KraftHeinzCo",
+                "id": "114816952"
+            },
+            {
+                "start": 97,
+                "end": 111,
+                "username": "NutellaGlobal",
+                "id": "2873945681"
+            }
+        ]
+    },
+    "text": "@KraftHeinzCo I still don’t but your ketchup but finally, no palm oil in your chocolate spread!! @NutellaGlobal take note and #BANPALMOIL",
+    "created_at": "2020-03-26T00:05:41.000Z",
+    "id": "1242965913193852928"
+}

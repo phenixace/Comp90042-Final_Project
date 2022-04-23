@@ -1,0 +1,35 @@
+{
+    "text": "@peddoc63 @Callisto1947 @_FritoBandito_ @AmyMek this is illegal we have federal prisons for this!",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "Callisto1947",
+                "id": "208083510"
+            },
+            {
+                "start": 24,
+                "end": 39,
+                "username": "_fritobandito_",
+                "id": "986737322246000640"
+            },
+            {
+                "start": 40,
+                "end": 47,
+                "username": "AmyMek",
+                "id": "954124423"
+            }
+        ]
+    },
+    "created_at": "2015-02-05T03:09:15.000Z",
+    "in_reply_to_user_id": "1379288282",
+    "id": "563172474632691712"
+}

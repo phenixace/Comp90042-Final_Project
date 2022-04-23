@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Ericflashlight",
+                "id": "221010917"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "Kassebohmer1",
+                "id": "1208365480815349763"
+            },
+            {
+                "start": 45,
+                "end": 59,
+                "username": "AtlantisThief",
+                "id": "1313749489228840960"
+            },
+            {
+                "start": 60,
+                "end": 70,
+                "username": "betablogr",
+                "id": "118016791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "221010917",
+    "created_at": "2020-03-09T18:24:36.000Z",
+    "id": "1237081872255062020",
+    "text": "@Ericflashlight @Kassebohmer1 @Enc_scribbles @AtlantisThief @betablogr Kannst Du das bitte Verlinken. In den \"Krisengebieten\" hier war nicht für 20 % der Infizierten eine klinische Behandlung notwendig.",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26T06:55:45.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CACCOT1",
+                "id": "813016272439013376"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1254303134190632964",
+    "text": "@CACCOT1 Has any official statement being issued about the deaths ??",
+    "in_reply_to_user_id": "813016272439013376"
+}

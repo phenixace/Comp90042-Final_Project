@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14372486",
+    "created_at": "2014-09-10T05:05:11.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "engadget",
+                "id": "14372486"
+            }
+        ]
+    },
+    "id": "509568243086798848",
+    "source": "Twitter for Android",
+    "text": "@engadget oh god why.."
+}

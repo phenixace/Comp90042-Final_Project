@@ -1,0 +1,17 @@
+{
+    "id": "643126888991338496",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web App",
+    "text": "@AllenWest it's not the food they want, its our country",
+    "created_at": "2015-09-13T18:19:33.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

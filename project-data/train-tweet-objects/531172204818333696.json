@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "text": "@JuddLegum @Bro_Pair spew the dew.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JuddLegum",
+                "id": "15464697"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "bro_pair",
+                "id": "1313172305053245440"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T19:51:36.000Z",
+    "id": "531172204818333696",
+    "in_reply_to_user_id": "15464697"
+}

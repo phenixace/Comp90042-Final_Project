@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-30T19:07:22.000Z",
+    "in_reply_to_user_id": "1190641021866184705",
+    "source": "Twitter Web App",
+    "text": "@valkeisaho Onkohan tuota testattu riittävästi. Ainakin muinoin Britit torjuivat onnistuneest malariaa juomalla giniä.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "valkeisaho",
+                "id": "1316732983265689601"
+            }
+        ]
+    },
+    "id": "1244702778943037444"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-20T22:13:38.000Z",
+    "source": "Twitter for iPhone",
+    "id": "524322579138752512",
+    "text": "@AlfredoFlores omfg no way! Banksy😞",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 33,
+                "probability": 0.4734,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

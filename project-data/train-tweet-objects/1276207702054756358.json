@@ -1,0 +1,48 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 288,
+                "end": 311,
+                "url": "https://t.co/ZVfqwFQI4W",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1276207702054756358/video/1",
+                "display_url": "pic.twitter.com/ZVfqwFQI4W"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 14,
+                "end": 28,
+                "username": "RichardBurgon",
+                "id": "545081356"
+            },
+            {
+                "start": 77,
+                "end": 93,
+                "username": "Jacob_Rees_Mogg",
+                "id": "885838630928994304"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 195,
+                "end": 207,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 34,
+                "probability": 0.9591,
+                "type": "Place",
+                "normalized_text": "UK"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T17:36:41.000Z",
+    "id": "1276207702054756358",
+    "text": "26/. Asked by @RichardBurgon why UK has the highest death rate in the world, @Jacob_Rees_Mogg suggests it could be to with the weather.\n\n\"Even things as simple as the weather may have influenced #coronavirus has spread, &amp; so may the practices of individual cultures &amp; societies.” https://t.co/ZVfqwFQI4W"
+}

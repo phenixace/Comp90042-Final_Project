@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "stldavis",
+                "id": "26638198"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 35,
+                "probability": 0.7482,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "text": "@stldavis @brianstelter I agree. ABC needs to come clean. Did they pay anything, if so, for what. They're being silly right now.",
+    "id": "538869313885589504",
+    "in_reply_to_user_id": "26638198",
+    "created_at": "2014-11-30T01:37:10.000Z"
+}

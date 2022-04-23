@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "NadiaRocks",
+                "id": "735677275"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "SkyNews",
+                "id": "7587032"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 34,
+                "end": 43,
+                "username": "va_shiva",
+                "id": "364214133"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1247911848726401027",
+    "created_at": "2020-04-08T15:39:04.000Z",
+    "in_reply_to_user_id": "735677275",
+    "text": "@NadiaRocks @SkyNews @piersmorgan @va_shiva I can't find any reliable sources that state it is airborne. I know it remains on surfaces for hours depending on the material but that's all I can find."
+}

@@ -1,0 +1,23 @@
+{
+    "text": "@june_yasemsky @JoeySalads But were you saying that as influenza ran it's deadly course every year?",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "june_yasemsky",
+                "id": "706521024884412416"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "JoeySalads",
+                "id": "488998711"
+            }
+        ]
+    },
+    "id": "1249791140443746304",
+    "created_at": "2020-04-13T20:06:42.000Z",
+    "in_reply_to_user_id": "706521024884412416"
+}

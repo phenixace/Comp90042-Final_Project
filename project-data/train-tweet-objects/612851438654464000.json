@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-22T05:15:43.000Z",
+    "source": "Twitter for iPad",
+    "id": "612851438654464000",
+    "text": "@ajplus not you but the killer of the African American church",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3340457559"
+}

@@ -1,0 +1,45 @@
+{
+    "created_at": "2014-11-17T21:50:09.000Z",
+    "text": "“@OfficiaITMZNews: 17yr old @KylieJenner says she pregnant by 24yr old rapper @Tyga ➡️ http://t.co/oAbi1wvwZn http://t.co/pJLElyCiPx”LMFAOOO",
+    "id": "534463528217108480",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 17,
+                "username": "OfficiaITMZNews",
+                "id": "2422621896"
+            },
+            {
+                "start": 28,
+                "end": 40,
+                "username": "KylieJenner",
+                "id": "236699098"
+            },
+            {
+                "start": 78,
+                "end": 83,
+                "username": "Tyga",
+                "id": "22733444"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/oAbi1wvwZn",
+                "expanded_url": "http://lnstagrams.com/r/2w4KY",
+                "display_url": "lnstagrams.com/r/2w4KY"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/pJLElyCiPx",
+                "expanded_url": "https://twitter.com/OfficiaITMZNews/status/534461459938304001/photo/1",
+                "display_url": "pic.twitter.com/pJLElyCiPx"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2422621896"
+}

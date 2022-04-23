@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Buffmuff69",
+                "id": "390380183"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "username": "HomerWhite",
+                "id": "20435808"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-16T03:26:15.000Z",
+    "text": "@Buffmuff69 @Jethro1701 @jensan1332 @HomerWhite Anyone who thinks they haven't has a severe personality problem!!!",
+    "in_reply_to_user_id": "390380183",
+    "id": "511717674205077504"
+}

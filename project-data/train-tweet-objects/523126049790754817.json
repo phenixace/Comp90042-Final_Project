@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523126049790754817",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 30,
+                "probability": 0.9223,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "BBCNews",
+                "id": "612473"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:59:04.000Z",
+    "text": "@BBCBreaking @BBCNews Thank God.The girls and their parents will be so in relieved.Only if the deal comes through in actual practice."
+}

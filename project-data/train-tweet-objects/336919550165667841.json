@@ -1,0 +1,17 @@
+{
+    "text": "@FoxNews what the hell that's horrendous  have the politicians gone bonkers",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "created_at": "2013-05-21T19:00:55.000Z",
+    "in_reply_to_user_id": "1367531",
+    "id": "336919550165667841"
+}

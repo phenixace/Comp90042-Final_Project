@@ -1,0 +1,39 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "54322823",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.9826,
+                "type": "Person",
+                "normalized_text": "Sanders"
+            },
+            {
+                "start": 68,
+                "end": 74,
+                "probability": 0.9988,
+                "type": "Place",
+                "normalized_text": "Vermont"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ericbradner",
+                "id": "54322823"
+            },
+            {
+                "start": 123,
+                "end": 138,
+                "username": "reformedbroker",
+                "id": "1457747451394330630"
+            }
+        ]
+    },
+    "text": "@ericbradner perhaps you've noticed Sanders a next door neighbor in Vermont, w similar pol demo, both states No minorities @ReformedBroker",
+    "created_at": "2015-09-24T22:14:42.000Z",
+    "id": "647172331501146112"
+}

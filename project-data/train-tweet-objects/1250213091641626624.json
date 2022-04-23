@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15T00:03:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "professordarwin",
+                "id": "3497382434"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1250213091641626624",
+    "text": "@professordarwin One will be the death of us all, either by exposure or medical debt. The other is a virus.",
+    "in_reply_to_user_id": "3497382434"
+}

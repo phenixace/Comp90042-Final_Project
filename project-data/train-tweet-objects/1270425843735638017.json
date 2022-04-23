@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1084993633009446914",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BillHanage",
+                "id": "21184460"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "HarvardChanSPH",
+                "id": "42651647"
+            }
+        ]
+    },
+    "id": "1270425843735638017",
+    "created_at": "2020-06-09T18:41:39.000Z",
+    "text": "@BillHanage @HarvardChanSPH I’m not suggesting it is lower than the .5-1 % range but maybe we are closer to .5% than 1"
+}

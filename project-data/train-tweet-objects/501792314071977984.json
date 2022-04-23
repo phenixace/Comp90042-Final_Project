@@ -1,0 +1,33 @@
+{
+    "text": "@NBCNews Oh my God, #US riot police should deal peacefully with the peaceful protestors",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 20,
+                "end": 23,
+                "tag": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 17,
+                "probability": 0.7096,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "id": "501792314071977984",
+    "source": "Twitter for Android Tablets",
+    "created_at": "2014-08-19T18:06:25.000Z",
+    "in_reply_to_user_id": "14173315"
+}

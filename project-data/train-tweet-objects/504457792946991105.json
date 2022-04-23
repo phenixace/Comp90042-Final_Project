@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-08-27T02:38:04.000Z",
+    "id": "504457792946991105",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 36,
+                "probability": 0.9641,
+                "type": "Person",
+                "normalized_text": "Gallagher"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "@Sportsnet Ok, a quote from Gallagher is hardly a reliable source. He is mr. Speculation.  Still, it would be awesome...",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

@@ -1,0 +1,17 @@
+{
+    "text": "@NBCNews why cant they just put in a 8PM curfew period.  If you are out in the curfewed area after then you go to jail=[simple.",
+    "id": "501771427557933056",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T16:43:25.000Z",
+    "in_reply_to_user_id": "14173315"
+}

@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "cmpimental",
+                "id": "158064102"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-09-08T23:32:39.000Z",
+    "text": "@jensan1332 @cmpimental arrested?  Not shot?",
+    "in_reply_to_user_id": "342737639",
+    "id": "509122172393385984"
+}

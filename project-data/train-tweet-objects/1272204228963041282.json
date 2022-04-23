@@ -1,0 +1,26 @@
+{
+    "id": "1272204228963041282",
+    "entities": {
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "probability": 0.9652,
+                "type": "Person",
+                "normalized_text": "Adonis"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "eyejosh",
+                "id": "59305661"
+            }
+        ]
+    },
+    "created_at": "2020-06-14T16:28:19.000Z",
+    "text": "@eyejosh Adonis is crooked",
+    "in_reply_to_user_id": "59305661",
+    "source": "Twitter for Android"
+}

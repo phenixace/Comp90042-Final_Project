@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T10:12:59.000Z",
+    "id": "524865997438603264",
+    "entities": {
+        "mentions": [
+            {
+                "start": 2,
+                "end": 13,
+                "username": "jasonrantz",
+                "id": "16193763"
+            },
+            {
+                "start": 107,
+                "end": 111,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16193763",
+    "text": ". @jasonrantz Humans have an unhealthy fascination with the most horrific creature on the planet: spiders. @ABC included."
+}

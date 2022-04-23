@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 114,
+                "end": 123,
+                "tag": "COVIDー19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/hoUEPmiD7H",
+                "expanded_url": "https://twitter.com/RoySparringa/status/1248520771602808832/photo/1",
+                "display_url": "pic.twitter.com/hoUEPmiD7H"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1248520771602808832",
+    "text": "Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (#COVIDー19) https://t.co/hoUEPmiD7H",
+    "created_at": "2020-04-10T07:58:43.000Z",
+    "in_reply_to_user_id": "341567204"
+}

@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Mahdresher1",
+                "id": "983648538663047168"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "WardenKristina",
+                "id": "1363857984133206018"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "username": "maddow",
+                "id": "16129920"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 230,
+                "end": 234,
+                "probability": 0.8552,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "983648538663047168",
+    "created_at": "2020-03-15T06:52:35.000Z",
+    "text": "@Mahdresher1 @WardenKristina @maddow Actually there have been numerous cases of healthy young individuals with no comorbidities contracting the virus and dying. It is a misconception that only the old and sick are affected. Also: Italy didn’t take it very seriously in the beginning and look where they are now",
+    "id": "1239082046724509696",
+    "source": "Twitter for iPhone"
+}

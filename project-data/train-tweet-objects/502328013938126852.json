@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/oaSqeyYT2q",
+                "expanded_url": "http://tmi.me/1eFYeM",
+                "display_url": "tmi.me/1eFYeM"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 33,
+                "username": "chris63414391",
+                "id": "812079846"
+            },
+            {
+                "start": 35,
+                "end": 51,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Plume for Android",
+    "created_at": "2014-08-21T05:35:05.000Z",
+    "id": "502328013938126852",
+    "text": "But no surprise.  “@chris63414391 “@realDonaldTrump The first General killed in a combat zone ... http://t.co/oaSqeyYT2q",
+    "in_reply_to_user_id": "25073877"
+}

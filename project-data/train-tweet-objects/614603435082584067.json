@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-06-27T01:17:32.000Z",
+    "text": "@FoxNews why elect a potus when its clear the court runs the show.",
+    "id": "614603435082584067",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.4992,
+                "type": "Person",
+                "normalized_text": "potus"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

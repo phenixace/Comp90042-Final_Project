@@ -1,0 +1,33 @@
+{
+    "id": "525027171321282560",
+    "in_reply_to_user_id": "19636948",
+    "source": "Twitter for iPhone",
+    "text": "@CP24 #RIPNathanCirillo http://t.co/EkA41ho0UB",
+    "created_at": "2014-10-22T20:53:26.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 6,
+                "end": 23,
+                "tag": "RIPNathanCirillo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 24,
+                "end": 46,
+                "url": "http://t.co/EkA41ho0UB",
+                "expanded_url": "https://twitter.com/fusionrockradio/status/525027171321282560/photo/1",
+                "display_url": "pic.twitter.com/EkA41ho0UB"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ]
+    }
+}

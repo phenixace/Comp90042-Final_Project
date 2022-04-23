@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "3577824986",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "thatdanhanna",
+                "id": "3577824986"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "Johnathan_Wood1",
+                "id": "1250219924"
+            }
+        ]
+    },
+    "id": "1274051980604792832",
+    "created_at": "2020-06-19T18:50:37.000Z",
+    "text": "@thatdanhanna @Johnathan_Wood1 What is the goal of a vaccine? You guessed it. Herd immunity! Not everyone can take a vaccine. People used to have measle and chicken pox parties to get it over with. I’m not saying covid is the same disease but this idea you have to hide until there’s a vaccine is moronic"
+}

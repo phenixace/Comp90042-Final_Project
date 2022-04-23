@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "text": "@ReformedBroker Allahu akbar.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "reformedbroker",
+                "id": "1457747451394330630"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T19:38:54.000Z",
+    "id": "531169006535733248",
+    "in_reply_to_user_id": "22522178"
+}

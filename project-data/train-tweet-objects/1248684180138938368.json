@@ -1,0 +1,31 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-04-10T18:48:02.000Z",
+    "text": "Myth buster: Per the World Health Organization, 5G mobile networks DO NOT spread COVID-19. https://t.co/wqiGleA0K1 #OCCOVID19 https://t.co/Vg51jQf1mi",
+    "id": "1248684180138938368",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 115,
+                "end": 125,
+                "tag": "OCCOVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 114,
+                "url": "https://t.co/wqiGleA0K1",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            },
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/Vg51jQf1mi",
+                "expanded_url": "https://twitter.com/ochealth/status/1248684180138938368/photo/1",
+                "display_url": "pic.twitter.com/Vg51jQf1mi"
+            }
+        ]
+    }
+}

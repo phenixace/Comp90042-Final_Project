@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 161,
+                "end": 184,
+                "url": "https://t.co/fZRv8uPljg",
+                "expanded_url": "http://www.who.int",
+                "display_url": "who.int"
+            },
+            {
+                "start": 187,
+                "end": 210,
+                "url": "https://t.co/VIjJ0ZVEPE",
+                "expanded_url": "https://twitter.com/NMCGH_Official/status/1243070179162103809/photo/1",
+                "display_url": "pic.twitter.com/VIjJ0ZVEPE"
+            }
+        ]
+    },
+    "created_at": "2020-03-26T07:00:00.000Z",
+    "id": "1243070179162103809",
+    "source": "TweetDeck",
+    "text": "Can I catch COVID-19 from the feces of someone with the disease?\nThe risk of catching COVID-19 from the feces of an infected person appears to be low. \n(Source: https://t.co/fZRv8uPljg ) https://t.co/VIjJ0ZVEPE"
+}

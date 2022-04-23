@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "id": "523121057205878784",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 40,
+                "tag": "not"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:39:13.000Z",
+    "text": "@BBCBreaking great if it is true!!! #not trusting"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2014-10-06T14:48:32.000Z",
+    "id": "519137132074786816",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ForbesTech",
+                "id": "14885549"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14885549",
+    "text": "@ForbesTech That’s an *additional* 5,000 jobs.. for a total of 55,000 worldwide!"
+}

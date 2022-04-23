@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "999073224834015235",
+    "created_at": "2020-03-03T22:06:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MdFacep",
+                "id": "999073224834015235"
+            }
+        ]
+    },
+    "id": "1234963359084109825",
+    "text": "@MdFacep Key word being “estimates” \nAlso saying 94% of cases the incubation period is up to 14 days ..that leaves 6% of the cases are longer than 14 days &lt;••that’s a huge impact of spreading nCov19 \nLike I said we will most definitely reevaluate this information in the future"
+}

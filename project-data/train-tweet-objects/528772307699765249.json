@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-02T04:55:16.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost he's an Indian citizen for sure #bordersareforhumansonly :D",
+    "id": "528772307699765249",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 72,
+                "tag": "bordersareforhumansonly"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

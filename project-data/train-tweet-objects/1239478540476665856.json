@@ -1,0 +1,39 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "mrjain_",
+                "id": "13236632"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "BeingPractical",
+                "id": "8806712"
+            }
+        ],
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/8M1X6uZwrl",
+                "expanded_url": "https://health.mcleancountyil.gov/723/COVID-19-Myth-Busters",
+                "display_url": "health.mcleancountyil.gov/723/COVID-19-M…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 120,
+                "end": 139,
+                "tag": "CoronaVirusUpdates"
+            }
+        ]
+    },
+    "created_at": "2020-03-16T09:08:07.000Z",
+    "id": "1239478540476665856",
+    "text": "@mrjain_ @BeingPractical COVID-19 virus can be transmitted in areas with hot and humid climates https://t.co/8M1X6uZwrl #CoronaVirusUpdates",
+    "in_reply_to_user_id": "13236632"
+}

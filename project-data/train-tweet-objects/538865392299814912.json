@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "84432484",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 52,
+                "probability": 0.9985,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "maya_tainelli",
+                "id": "84432484"
+            }
+        ]
+    },
+    "text": "“@maya_tainelli: “@_Lightbright___: I aint know Obama daughter was pregnant 😩”😨😨😨” You have got to be the most stupi.... Nvmd it's twitter",
+    "created_at": "2014-11-30T01:21:35.000Z",
+    "id": "538865392299814912"
+}

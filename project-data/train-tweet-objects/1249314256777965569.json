@@ -1,0 +1,32 @@
+{
+    "text": "@XHNews @WHO https://t.co/sLvmLTxyev\n阿波罗网首席评论员王笃然观察，这两天有几个大事发生，影响到中美关系和港台的国际地位。我们来逐一看看。作家陶杰认为，台北有机会代替香港成为国际城市。德国反对党提交了台湾参加世卫组织的申请。\n\n小川普赞同保守作家呼吁承认台湾 帖文招万人点赞",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "XHNews",
+                "id": "487118986"
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 13,
+                "end": 36,
+                "url": "https://t.co/sLvmLTxyev",
+                "expanded_url": "http://www.aboluowang.com/2020/0411/1435446.html",
+                "display_url": "aboluowang.com/2020/0411/1435…"
+            }
+        ]
+    },
+    "id": "1249314256777965569",
+    "created_at": "2020-04-12T12:31:44.000Z",
+    "in_reply_to_user_id": "487118986"
+}

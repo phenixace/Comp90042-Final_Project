@@ -1,0 +1,17 @@
+{
+    "text": "I applaud Mike Lindell for helping our country during this crisis by using his factories to make 50,000 N95 masks A DAY (!!) for our health care workers in need. This is not political - and you should do some serious soul searching if this act of patriotism is triggering to you.",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 21,
+                "probability": 0.9933,
+                "type": "Person",
+                "normalized_text": "Mike Lindell"
+            }
+        ]
+    },
+    "created_at": "2020-03-30T23:25:53.000Z",
+    "id": "1244767835093639170"
+}

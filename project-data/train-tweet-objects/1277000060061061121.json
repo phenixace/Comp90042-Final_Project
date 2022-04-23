@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-06-27T22:05:14.000Z",
+    "text": "@Poputarian @nytimes ....",
+    "id": "1277000060061061121",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Poputarian",
+                "id": "54947470"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "54947470"
+}

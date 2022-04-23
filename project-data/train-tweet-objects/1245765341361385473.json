@@ -1,0 +1,53 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RichardGarven",
+                "id": "311426447"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "planet_pedro",
+                "id": "1503862627184783361"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 112,
+                "end": 113,
+                "probability": 0.5341,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 135,
+                "end": 141,
+                "probability": 0.6476,
+                "type": "Place",
+                "normalized_text": "England"
+            },
+            {
+                "start": 164,
+                "end": 169,
+                "probability": 0.8243,
+                "type": "Place",
+                "normalized_text": "London"
+            },
+            {
+                "start": 211,
+                "end": 215,
+                "probability": 0.8308,
+                "type": "Place",
+                "normalized_text": "Wales"
+            }
+        ]
+    },
+    "text": "@RichardGarven @Planet_Pedro Because they are giving detailed and helpful information at this level. Using some UK wide stats and some England only stats - &amp; a few London focussed stats on transport. Seeing NI, Wales &amp; Sco figs combined was hv been helpful.",
+    "id": "1245765341361385473",
+    "in_reply_to_user_id": "311426447",
+    "created_at": "2020-04-02T17:29:37.000Z"
+}

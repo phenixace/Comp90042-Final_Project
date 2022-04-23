@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-11T18:42:47.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MASlife",
+                "id": "30084514"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1249045245674823681",
+    "text": "@MASlife At this point, I don’t know how anyone can continue to make that argument. HOW can they still believe it is the same as the flu?!?",
+    "in_reply_to_user_id": "30084514"
+}

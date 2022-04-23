@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T19:58:13.000Z",
+    "text": "@SABCNews Reading the comments with dismay, people actually believe that 5G spread/cause COVID19.\nIgnorance &amp; stupidity should be classified as a disease 🤞🏾 https://t.co/JgQaY2mdFI",
+    "entities": {
+        "urls": [
+            {
+                "start": 161,
+                "end": 184,
+                "url": "https://t.co/JgQaY2mdFI",
+                "expanded_url": "https://twitter.com/PontshoPG1/status/1250513782641766401/photo/1",
+                "display_url": "pic.twitter.com/JgQaY2mdFI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "id": "1250513782641766401",
+    "in_reply_to_user_id": "25088746"
+}

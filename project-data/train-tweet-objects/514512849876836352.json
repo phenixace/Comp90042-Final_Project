@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-23T20:33:17.000Z",
+    "text": "don't put your iphone 6 in your pocket y'all  http://t.co/pp8UsWwd9k http://t.co/PLXYagARMq",
+    "entities": {
+        "urls": [
+            {
+                "start": 46,
+                "end": 68,
+                "url": "http://t.co/pp8UsWwd9k",
+                "expanded_url": "http://m.huffpost.com/us/entry/5869572",
+                "display_url": "m.huffpost.com/us/entry/58695…"
+            },
+            {
+                "start": 69,
+                "end": 91,
+                "url": "http://t.co/PLXYagARMq",
+                "expanded_url": "https://twitter.com/katrinalome/status/514512849876836352/photo/1",
+                "display_url": "pic.twitter.com/PLXYagARMq"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 22,
+                "probability": 0.9004,
+                "type": "Product",
+                "normalized_text": "iphone 6"
+            }
+        ]
+    },
+    "id": "514512849876836352"
+}

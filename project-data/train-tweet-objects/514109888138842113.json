@@ -1,0 +1,24 @@
+{
+    "text": "Alaskan reporter says \"f*ck this,\" quits on live TV — her coworker's reaction is PRICELESS: http://t.co/3STXH7DKRK http://t.co/LFjFYbYNt6",
+    "source": "Sprinklr",
+    "created_at": "2014-09-22T17:52:03.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/3STXH7DKRK",
+                "expanded_url": "http://cosm.ag/6018osfm",
+                "display_url": "cosm.ag/6018osfm"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/LFjFYbYNt6",
+                "expanded_url": "https://twitter.com/Cosmopolitan/status/514109888138842113/photo/1",
+                "display_url": "pic.twitter.com/LFjFYbYNt6"
+            }
+        ]
+    },
+    "id": "514109888138842113"
+}

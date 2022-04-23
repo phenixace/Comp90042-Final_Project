@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T07:06:22.000Z",
+    "text": "@SABCNews Hey wen admin how do you know? 👀😂",
+    "id": "1250319539817988096",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

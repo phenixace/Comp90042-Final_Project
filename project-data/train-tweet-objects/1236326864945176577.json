@@ -1,0 +1,55 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-07T16:24:29.000Z",
+    "id": "1236326864945176577",
+    "entities": {
+        "mentions": [
+            {
+                "start": 22,
+                "end": 26,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 223,
+                "end": 240,
+                "tag": "WuhanCoronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 244,
+                "end": 248,
+                "probability": 0.991,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/SxChWX8p2v",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…"
+            },
+            {
+                "start": 275,
+                "end": 298,
+                "url": "https://t.co/24D7F970ti",
+                "expanded_url": "https://twitter.com/sep_hk/status/1236326864945176577/photo/1",
+                "display_url": "pic.twitter.com/24D7F970ti"
+            },
+            {
+                "start": 275,
+                "end": 298,
+                "url": "https://t.co/24D7F970ti",
+                "expanded_url": "https://twitter.com/sep_hk/status/1236326864945176577/photo/1",
+                "display_url": "pic.twitter.com/24D7F970ti"
+            }
+        ]
+    },
+    "text": "In Chinese edition of @WHO official website, under the question \"is there anything I should not do?\", \"taking traditional herbal remedies\" is REMOVED from the answer.\n\nSo should we take traditional herbal remedies to treat #WuhanCoronavirus in China?\nhttps://t.co/SxChWX8p2v https://t.co/24D7F970ti"
+}

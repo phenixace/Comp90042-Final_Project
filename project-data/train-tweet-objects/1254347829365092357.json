@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-26T09:53:21.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Gasbymalony",
+                "id": "2777586490"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "CACCOT1",
+                "id": "813016272439013376"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 79,
+                "end": 85,
+                "probability": 0.5352,
+                "type": "Place",
+                "normalized_text": "Anambra"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1254347829365092357",
+    "text": "@Gasbymalony @CACCOT1 Everything to these people is business as usual. Look at Anambra yesterday relapsing lockdown .",
+    "in_reply_to_user_id": "2777586490"
+}

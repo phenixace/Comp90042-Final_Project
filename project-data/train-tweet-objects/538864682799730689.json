@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @brianstelter Was he paid for photos?",
+    "id": "538864682799730689",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T01:18:46.000Z"
+}

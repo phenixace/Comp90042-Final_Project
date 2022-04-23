@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "_exhalebieber_",
+                "id": "571107566"
+            }
+        ],
+        "urls": [
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/fg1IGhii3v",
+                "expanded_url": "https://twitter.com/_exhalebieber_/status/436089462326849536/photo/1",
+                "display_url": "pic.twitter.com/fg1IGhii3v"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 78,
+                "probability": 0.7861,
+                "type": "Person",
+                "normalized_text": "ANGELA"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@_exhalebieber_: omFG READ THIS ITS MY PERSONAL EXPERIENCE WITH TALKING ANGELA http://t.co/fg1IGhii3v” aahhhhh! Too scary",
+    "id": "436176186981761024",
+    "created_at": "2014-02-19T16:31:21.000Z",
+    "in_reply_to_user_id": "571107566"
+}

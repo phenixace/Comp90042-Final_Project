@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-18T02:55:55.000Z",
+    "text": "@Butterfly6875 @kelly_rdc @JimInNC Personally I am thinking it is, why else is it spreading like wildfire also it would have just been contained in Wuhan.. I may be wrong but that's my view.",
+    "id": "1240109650831261696",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Butterfly6875",
+                "id": "732622902"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "JimInNC",
+                "id": "35597966"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 148,
+                "end": 152,
+                "probability": 0.7128,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "732622902"
+}

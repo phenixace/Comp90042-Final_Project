@@ -1,0 +1,58 @@
+{
+    "created_at": "2014-11-01T02:36:47.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 51,
+                "probability": 0.9617,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/s97vEcbtlX",
+                "expanded_url": "http://wapo.st/1wR2vqJ",
+                "display_url": "wapo.st/1wR2vqJ",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1492690964649021442/GDKNKIda?format=jpg&name=orig",
+                        "width": 1440,
+                        "height": 958
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1492690964649021442/GDKNKIda?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Fanged deer pops up in Afghanistan, 60 years after its last appearance",
+                "description": "Just in time for Halloween, researchers find that a Vampire-like deer had avoided extinction against all odds.",
+                "unwound_url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2014/10/31/fanged-deer-pops-up-in-afghanistan-60-years-after-its-last-appearance/?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/gW8JNhJhWI",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528312406498635777/photo/1",
+                "display_url": "pic.twitter.com/gW8JNhJhWI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "“@washingtonpost: Fanged deer pops up in Afghanistan, 60 years after its last appearance http://t.co/s97vEcbtlX http://t.co/gW8JNhJhWI”",
+    "id": "528375066233274368",
+    "source": "Twitter for iPhone"
+}

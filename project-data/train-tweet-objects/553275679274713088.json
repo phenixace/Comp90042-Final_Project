@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 44,
+                "end": 57,
+                "username": "SpreadButter",
+                "id": "26643566"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "username": "HomerWhite",
+                "id": "20435808"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 43,
+                "tag": "FutureCommie"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "26643566",
+    "created_at": "2015-01-08T19:42:55.000Z",
+    "text": "Of course she would wear that #FutureCommie @SpreadButter @HomerWhite",
+    "id": "553275679274713088",
+    "source": "Twitter for iPhone"
+}

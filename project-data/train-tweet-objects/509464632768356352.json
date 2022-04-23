@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:13:28.000Z",
+    "text": "@patrickklepek They've been hoisting up those sales numbers like golden idols for years. No shocker, but might as well.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464632768356352",
+    "source": "Twitter for iPhone"
+}

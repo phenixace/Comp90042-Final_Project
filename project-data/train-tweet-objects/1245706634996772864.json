@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-02T13:36:20.000Z",
+    "text": "Coronavirus disease (COVID-19)\n\n#PEDULIWA19 https://t.co/51REszkGe3",
+    "in_reply_to_user_id": "833430048",
+    "entities": {
+        "urls": [
+            {
+                "start": 44,
+                "end": 67,
+                "url": "https://t.co/51REszkGe3",
+                "expanded_url": "https://twitter.com/clingqy/status/1245706634996772864/photo/1",
+                "display_url": "pic.twitter.com/51REszkGe3"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 32,
+                "end": 43,
+                "tag": "PEDULIWA19"
+            }
+        ]
+    },
+    "id": "1245706634996772864"
+}

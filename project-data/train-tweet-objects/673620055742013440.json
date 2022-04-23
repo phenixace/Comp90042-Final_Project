@@ -1,0 +1,17 @@
+{
+    "id": "673620055742013440",
+    "text": "@DRUDGE_REPORT wowwww its this possible why the hell are you guys hiring people on a freaking list",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for Android",
+    "created_at": "2015-12-06T21:48:31.000Z"
+}

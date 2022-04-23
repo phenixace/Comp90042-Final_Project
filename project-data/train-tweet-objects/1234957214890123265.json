@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "999073224834015235",
+    "created_at": "2020-03-03T21:41:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MdFacep",
+                "id": "999073224834015235"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "username": "CDCgov",
+                "id": "146569971"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 134,
+                "end": 141,
+                "probability": 0.5782,
+                "type": "Place",
+                "normalized_text": "S. Korea"
+            }
+        ]
+    },
+    "id": "1234957214890123265",
+    "text": "@MdFacep @Troy_ZeekApp @CDCgov Incorrect..the only country that has provided facts and effective quarantine policies and treatment is S. Korea ..and they have documented cases of 28 days"
+}

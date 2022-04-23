@@ -1,0 +1,17 @@
+{
+    "text": "@AP *checks watch* Need a few more hours for your lawyers to check your facts? lol",
+    "created_at": "2014-12-15T02:39:45.000Z",
+    "id": "544320880113762304",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter Web Client"
+}

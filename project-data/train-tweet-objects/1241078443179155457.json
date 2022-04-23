@@ -1,0 +1,17 @@
+{
+    "id": "1241078443179155457",
+    "text": "@rosierawle All good. Just been working out the new home schooling timetable! 😂",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "rosierawle",
+                "id": "731069484"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "731069484",
+    "created_at": "2020-03-20T19:05:33.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "643140267453861888",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for iPhone",
+    "text": "@AllenWest the Koran states that Muslims are allowed to suspend halal guidelines if their is no halal food available, even told to eat pork.",
+    "created_at": "2015-09-13T19:12:43.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

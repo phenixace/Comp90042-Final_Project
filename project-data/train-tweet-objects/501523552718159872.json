@@ -1,0 +1,35 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 110,
+                "end": 119,
+                "tag": "Ferguson"
+            },
+            {
+                "start": 126,
+                "end": 142,
+                "tag": "MarthasVineyard"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "cmjanmommy5",
+                "id": "391528213"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T00:18:27.000Z",
+    "id": "501523552718159872",
+    "text": "@realDonaldTrump @cmjanmommy5 Don't think I heard him even utter a word of sorrow or condolences, too busy w/ #Ferguson &amp; #MarthasVineyard",
+    "in_reply_to_user_id": "25073877"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-14T23:48:15.000Z",
+    "text": "@SkyNewsAust @liztilley84 so what",
+    "id": "544277721186979840",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "SkyNewsAust",
+                "id": "16834659"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "liztilley84",
+                "id": "1269181292"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16834659"
+}

@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 119,
+                "end": 126,
+                "tag": "turnup"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 107,
+                "end": 116,
+                "probability": 0.9967,
+                "type": "Place",
+                "normalized_text": "Mozambique"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T18:41:04.000Z",
+    "text": "“@AP: A traditional beer that authorities believe was poisoned with crocodile bile has killed 56 people in Mozambique” #turnup",
+    "id": "554347273891872770",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter for iPhone"
+}

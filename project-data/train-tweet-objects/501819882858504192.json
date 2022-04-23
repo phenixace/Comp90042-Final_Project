@@ -1,0 +1,26 @@
+{
+    "text": "@NBCNews I thought that was Robert downy jr at first",
+    "id": "501819882858504192",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 28,
+                "end": 42,
+                "probability": 0.562,
+                "type": "Person",
+                "normalized_text": "Robert downy jr"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T19:55:58.000Z",
+    "in_reply_to_user_id": "14173315"
+}

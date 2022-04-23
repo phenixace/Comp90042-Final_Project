@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "138510846",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/lQPQVMtUJR",
+                "expanded_url": "https://twitter.com/Oando_PLC/status/1242406210663600130/photo/1",
+                "display_url": "pic.twitter.com/lQPQVMtUJR"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 11,
+                "tag": "OandoCares"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "tag": "COVID19NIGERIA"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "tag": "Covid19"
+            }
+        ]
+    },
+    "id": "1242406210663600130",
+    "created_at": "2020-03-24T11:01:38.000Z",
+    "text": "#OandoCares #COVID19NIGERIA #Covid19 https://t.co/lQPQVMtUJR"
+}

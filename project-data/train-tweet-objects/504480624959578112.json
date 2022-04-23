@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27T04:08:48.000Z",
+    "id": "504480624959578112",
+    "text": "@Sportsnet dumb",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

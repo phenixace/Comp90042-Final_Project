@@ -1,0 +1,38 @@
+{
+    "created_at": "2015-02-06T05:34:21.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 38,
+                "probability": 0.3574,
+                "type": "Product",
+                "normalized_text": "Lauch Madden 2016"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "NFL",
+                "id": "19426551"
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "username": "EA",
+                "id": "15234657"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "EAMaddenNFL",
+                "id": "50096544"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19426551",
+    "text": "@nfl @EA @EAMaddenNFL Lauch Madden 2016 for PC",
+    "id": "563571376502874113",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-18T20:32:15.000Z",
+    "id": "523572289502474241",
+    "text": "@SaveJobsGlobal @mitsukitaaaa ok, but this sign sucks, come on.",
+    "source": "Twitter for Android"
+}

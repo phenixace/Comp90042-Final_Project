@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 27,
+                "username": "BilboBagman",
+                "id": "1074278209"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 71,
+                "probability": 0.9936,
+                "type": "Place",
+                "normalized_text": "Indiana"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-11-03T14:45:47.000Z",
+    "text": "@GreenParty_LA @BilboBagman Now, hopefully the parents/people in Indiana will be able to get the CBD oil needed to treat their loved ones.",
+    "in_reply_to_user_id": "427772531",
+    "id": "661554872890736640"
+}

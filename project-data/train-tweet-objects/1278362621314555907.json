@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-07-01T16:19:34.000Z",
+    "text": "@dr__Pepe__ @CNN Workers are vulnerable. \n\nThat´s the major way to get the disease: thru social interaction going to, being in, getting out of the workplace and heading home.\n\nHow do you suppose people get infected ? \n\nWe must stay at home a little longer\n\nWe can afford that",
+    "id": "1278362621314555907",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 16,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "134198718"
+}

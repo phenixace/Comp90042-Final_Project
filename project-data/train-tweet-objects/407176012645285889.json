@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ItsThingsInLife",
+                "id": "149655776"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "pat_obeirne11",
+                "id": "389604060"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 57,
+                "probability": 0.9925,
+                "type": "Person",
+                "normalized_text": "Roger Rodan"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "149655776",
+    "created_at": "2013-12-01T15:55:01.000Z",
+    "id": "407176012645285889",
+    "text": "@ItsThingsInLife @pat_obeirne11 he was famous. Roger Rodan was a former pro driver and did a lot of charity work. Sad sad day"
+}

@@ -1,0 +1,17 @@
+{
+    "text": "@bautista707 @cnnbrk FUCK OFF",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-09-05T15:52:33.000Z",
+    "in_reply_to_user_id": "1920648620",
+    "id": "507919218890006528"
+}

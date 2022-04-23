@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-14T00:33:25.000Z",
+    "text": "BREAKING: Patient being tested for Ebola in Kansas http://t.co/IqasyqcG9E http://t.co/Qky6QUgU9p",
+    "id": "521821037726797824",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 49,
+                "probability": 0.9879,
+                "type": "Place",
+                "normalized_text": "Kansas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 51,
+                "end": 73,
+                "url": "http://t.co/IqasyqcG9E",
+                "expanded_url": "http://on.msnbc.com/1sDgqyV",
+                "display_url": "on.msnbc.com/1sDgqyV"
+            },
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/Qky6QUgU9p",
+                "expanded_url": "https://twitter.com/msnbc/status/521821037726797824/photo/1",
+                "display_url": "pic.twitter.com/Qky6QUgU9p"
+            }
+        ]
+    },
+    "source": "Adobe® Social"
+}

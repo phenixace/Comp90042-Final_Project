@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-09-09T22:14:18.000Z",
+    "text": "@patrickklepek I hope it works out better for them than my old company. We got bought by Microsoft and then utterly destroyed.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 89,
+                "end": 97,
+                "probability": 0.711,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464842290225152",
+    "source": "Twitter for Android"
+}

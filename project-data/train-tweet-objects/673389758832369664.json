@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "SteveStfler",
+                "id": "102325442"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "Seriously_Funn",
+                "id": "188990869"
+            }
+        ]
+    },
+    "text": "@SteveStfler @Seriously_Funn",
+    "id": "673389758832369664",
+    "in_reply_to_user_id": "102325442",
+    "created_at": "2015-12-06T06:33:24.000Z"
+}

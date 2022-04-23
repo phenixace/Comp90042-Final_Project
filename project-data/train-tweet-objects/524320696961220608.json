@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-20T22:06:10.000Z",
+    "source": "Twitter Web Client",
+    "id": "524320696961220608",
+    "text": "@AlfredoFlores Uruguay love you.\nUruguay te ama!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 21,
+                "probability": 0.8854,
+                "type": "Place",
+                "normalized_text": "Uruguay"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "probability": 0.7782,
+                "type": "Place",
+                "normalized_text": "Uruguay"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

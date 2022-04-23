@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 89,
+                "tag": "TrumpMoney"
+            },
+            {
+                "start": 91,
+                "end": 102,
+                "tag": "MakeItRain"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump I Guess Everyone Thinks It's Going To Fall Out The Sky.\n#TrumpMoney \n#MakeItRain 💰💰💰",
+    "source": "Twitter for Android",
+    "created_at": "2015-10-10T17:20:28.000Z",
+    "id": "652896490965336064"
+}

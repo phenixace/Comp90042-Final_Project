@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T02:45:28.000Z",
+    "text": "@StephenAtHome @DrLaPook Giuliani.  He lied too",
+    "id": "1250253881885356032",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 32,
+                "probability": 0.9927,
+                "type": "Person",
+                "normalized_text": "Giuliani"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

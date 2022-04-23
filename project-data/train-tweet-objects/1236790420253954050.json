@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/XGXEa4ozcg",
+                "expanded_url": "https://twitter.com/SenTedCruz/status/1236790420253954050/photo/1",
+                "display_url": "pic.twitter.com/XGXEa4ozcg"
+            }
+        ]
+    },
+    "created_at": "2020-03-08T23:06:29.000Z",
+    "id": "1236790420253954050",
+    "text": "Today I released the following statement: https://t.co/XGXEa4ozcg"
+}

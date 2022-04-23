@@ -1,0 +1,45 @@
+{
+    "created_at": "2015-06-21T16:32:32.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 98,
+                "end": 108,
+                "tag": "JusSaying"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 96,
+                "probability": 0.9321,
+                "type": "Person",
+                "normalized_text": "Uncle Sam"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 8,
+                "end": 21,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            },
+            {
+                "start": 22,
+                "end": 34,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "id": "612659377447796737",
+    "text": "@ajplus @YourAnonNews @theobserver Can all prisoners get the same treatment please? Thx Uncle Sam #JusSaying",
+    "in_reply_to_user_id": "110396781"
+}

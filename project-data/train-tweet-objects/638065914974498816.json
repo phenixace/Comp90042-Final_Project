@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 60,
+                "tag": "Star"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "638065914974498816",
+    "text": "@CNN I knew it. There was no disturbance in the Force. #Star wars",
+    "created_at": "2015-08-30T19:09:03.000Z",
+    "in_reply_to_user_id": "759251"
+}

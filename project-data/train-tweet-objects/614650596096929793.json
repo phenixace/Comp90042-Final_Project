@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 61,
+                "probability": 0.9904,
+                "type": "Place",
+                "normalized_text": "America"
+            },
+            {
+                "start": 100,
+                "end": 102,
+                "probability": 0.954,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "text": "@cnni 50 states of Bum eaters. crazy yankees. Pray for America that it repents so that it can avoid God's wrath on them",
+    "source": "Twitter Web Client",
+    "id": "614650596096929793",
+    "created_at": "2015-06-27T04:24:56.000Z",
+    "in_reply_to_user_id": "2097571"
+}

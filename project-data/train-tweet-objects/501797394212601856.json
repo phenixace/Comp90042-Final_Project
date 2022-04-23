@@ -1,0 +1,17 @@
+{
+    "text": "@NBCNews Police lied? I'm shocked, shocked! *clutches pearls* /s",
+    "id": "501797394212601856",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T18:26:36.000Z",
+    "in_reply_to_user_id": "14173315"
+}

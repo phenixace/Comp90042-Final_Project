@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-06-10T03:14:32.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1270554917820825601",
+    "text": "@ksatnews “Find out how puddle jumping turned into someone needing to jump into action” - Steve aka Mr. Put Money in Bag 😂😂😭 his puns always get me💀",
+    "entities": {
+        "annotations": [
+            {
+                "start": 90,
+                "end": 102,
+                "probability": 0.3274,
+                "type": "Person",
+                "normalized_text": "Steve aka Mr."
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ksatnews",
+                "id": "16425419"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16425419"
+}

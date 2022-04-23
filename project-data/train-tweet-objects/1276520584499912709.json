@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1249186462257434624",
+    "entities": {
+        "urls": [
+            {
+                "start": 269,
+                "end": 292,
+                "url": "https://t.co/HND4VJWJs9",
+                "expanded_url": "https://www.google.com/amp/s/www.bbc.com/news/amp/53108405",
+                "display_url": "google.com/amp/s/www.bbc.…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 32,
+                "username": "piscesprncess76",
+                "id": "948217380"
+            },
+            {
+                "start": 33,
+                "end": 49,
+                "username": "thedominator939",
+                "id": "923156857"
+            },
+            {
+                "start": 50,
+                "end": 63,
+                "username": "physicsdad23",
+                "id": "4151707301"
+            },
+            {
+                "start": 64,
+                "end": 75,
+                "username": "NYGovCuomo",
+                "id": "232268199"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T14:19:58.000Z",
+    "id": "1276520584499912709",
+    "text": "@FaleciaMaureen @piscesprncess76 @thedominator939 @physicsdad23 @NYGovCuomo cool, good thing surgical and cloths masks don’t cause significant hypoxia! ❤️\n\n“The prolonged use of medical masks when properly worn, does not cause CO2 intoxication nor oxygen deficiency.”\n\nhttps://t.co/HND4VJWJs9"
+}

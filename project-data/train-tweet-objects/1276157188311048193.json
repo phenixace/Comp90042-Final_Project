@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-25T14:15:58.000Z",
+    "source": "Twitter for Android",
+    "id": "1276157188311048193",
+    "text": "@KTRTRS Sir.. 3000 tests lo 800 positives. Ante 1/3rd.\nWhat is ur plan for COVID? Herd immunity ki aim chesthunnara? Ante half population ki vasthe migtha half population safe anta.. Adhe na sir plan?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "KTRTRS",
+                "id": "118787224"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "118787224"
+}

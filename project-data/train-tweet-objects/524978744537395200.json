@@ -1,0 +1,17 @@
+{
+    "id": "524978744537395200",
+    "in_reply_to_user_id": "428333",
+    "source": "Twitter for Android",
+    "text": "@cnnbrk Rip.",
+    "created_at": "2014-10-22T17:41:00.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    }
+}

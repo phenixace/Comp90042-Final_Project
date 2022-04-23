@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/ddNpCvZE5G",
+                "expanded_url": "http://bzfd.it/1rtFSp5",
+                "display_url": "bzfd.it/1rtFSp5"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 109,
+                "end": 119,
+                "username": "TomTeazer",
+                "id": "50053258"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 24,
+                "probability": 0.8542,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T19:04:17.000Z",
+    "source": "Twitter for iPhone",
+    "id": "514490454847807489",
+    "text": "“@BuzzFeed: iPhone 6 Plus users are sitting on and bending their enormous new phones\nhttp://t.co/ddNpCvZE5G” @TomTeazer",
+    "in_reply_to_user_id": "5695632"
+}

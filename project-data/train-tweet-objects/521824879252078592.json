@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-14T00:48:40.000Z",
+    "text": "@msnbc this is getting serious by the minute in Kansas it is spreading fast",
+    "id": "521824879252078592",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 53,
+                "probability": 0.9855,
+                "type": "Place",
+                "normalized_text": "Kansas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MSNBC",
+                "id": "2836421"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "2836421"
+}

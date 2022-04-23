@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 35,
+                "probability": 0.9894,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ]
+    },
+    "text": ".@WesleyLowery @brianstelter the CNN producer I talked to said he doubted they paid. No 1 morning show cred got it.",
+    "id": "538858652631699456",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:54:48.000Z"
+}

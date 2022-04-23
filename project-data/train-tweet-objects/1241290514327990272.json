@@ -1,0 +1,25 @@
+{
+    "id": "1241290514327990272",
+    "text": "Cold weather and now kill the #coronavirus? \n\nNo, cold weather and snow CANNOT kill the virus. https://t.co/OqAdCSQaHN",
+    "in_reply_to_user_id": "144175052",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 42,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 118,
+                "url": "https://t.co/OqAdCSQaHN",
+                "expanded_url": "https://twitter.com/RjTaimoor/status/1241290514327990272/photo/1",
+                "display_url": "pic.twitter.com/OqAdCSQaHN"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-21T09:08:15.000Z"
+}

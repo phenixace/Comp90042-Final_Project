@@ -1,0 +1,42 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.9979,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "probability": 0.3966,
+                "type": "Organization",
+                "normalized_text": "Harvard"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "urls": [
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/uavfV3F2XS",
+                "expanded_url": "http://dhabbout-jrana.ovh/?p=1080",
+                "display_url": "dhabbout-jrana.ovh/?p=1080"
+            }
+        ]
+    },
+    "id": "638062148636254208",
+    "text": "@CNN Obama in 1990 On His Election to Harvard Law Review\nSee video ▬▬► http://t.co/uavfV3F2XS",
+    "created_at": "2015-08-30T18:54:05.000Z",
+    "in_reply_to_user_id": "759251"
+}

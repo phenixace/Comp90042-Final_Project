@@ -1,0 +1,54 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 284,
+                "end": 307,
+                "url": "https://t.co/MuacYI7zSj",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1278286078072565760/photo/1",
+                "display_url": "pic.twitter.com/MuacYI7zSj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 227,
+                "end": 241,
+                "username": "NadineDorries",
+                "id": "457060718"
+            },
+            {
+                "start": 251,
+                "end": 264,
+                "username": "stellacreasy",
+                "id": "15580900"
+            },
+            {
+                "start": 269,
+                "end": 283,
+                "username": "justinmadders",
+                "id": "2999868527"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 132,
+                "end": 139,
+                "probability": 0.844,
+                "type": "Organization",
+                "normalized_text": "Deloitte"
+            },
+            {
+                "start": 197,
+                "end": 199,
+                "probability": 0.6076,
+                "type": "Organization",
+                "normalized_text": "PHE"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T11:15:25.000Z",
+    "id": "1278286078072565760",
+    "text": "34/. It wasn’t Data Protection stopping testing info going to councils. The requirement wasn’t in the contract!\n\n\"The contract with Deloitte doesn’t require the company to report positive cases to PHE &amp; local authorities.\"\n@NadineDorries email to @stellacreasy via @justinmadders https://t.co/MuacYI7zSj"
+}

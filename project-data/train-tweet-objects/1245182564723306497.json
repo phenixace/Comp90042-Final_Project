@@ -1,0 +1,41 @@
+{
+    "in_reply_to_user_id": "935795533758849026",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mattyice981",
+                "id": "1393301897587609612"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "IslesJetsMets",
+                "id": "2924913860"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "username": "utcobb",
+                "id": "129838027"
+            },
+            {
+                "start": 48,
+                "end": 63,
+                "username": "BillyTwoBagger",
+                "id": "258096392"
+            },
+            {
+                "start": 64,
+                "end": 78,
+                "username": "BarrettSallee",
+                "id": "46260740"
+            }
+        ]
+    },
+    "created_at": "2020-04-01T02:53:52.000Z",
+    "text": "@MattyIce981 @IslesJetsMets @utcobb @SandyGoMan @BillyTwoBagger @BarrettSallee The treatments for a flu are tested for months or years - chloroquine has JUST STARTED FDA clinical trials for treatment of COVID-19. I hope a treatment is found, no matter where it comes from. I just don’t like the hyping of a drug as the cure when it hasn’t been fully tested.",
+    "id": "1245182564723306497"
+}

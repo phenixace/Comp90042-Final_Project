@@ -1,0 +1,17 @@
+{
+    "id": "537514316707397632",
+    "text": "@Independent wow what a message to behold how time has changed.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333",
+    "source": "Twitter for Android",
+    "created_at": "2014-11-26T07:52:54.000Z"
+}

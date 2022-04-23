@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 87,
+                "end": 89,
+                "probability": 0.9013,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-08-18T21:11:25.000Z",
+    "id": "501476486067417088",
+    "text": "@realDonaldTrump absolutely disgusting,this man is an embarrassment for the office and USA",
+    "in_reply_to_user_id": "25073877"
+}

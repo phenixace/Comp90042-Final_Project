@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ItsThingsInLife",
+                "id": "149655776"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "username": "Zuha25",
+                "id": "111774146"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 58,
+                "end": 63,
+                "probability": 0.9641,
+                "type": "Person",
+                "normalized_text": "Walker"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "149655776",
+    "created_at": "2013-12-01T15:57:47.000Z",
+    "id": "407176709289418752",
+    "text": "@ItsThingsInLife @Zuha25 Rodas(driver) became friend with Walker after meeting at a race track. R.I.P Rodas"
+}

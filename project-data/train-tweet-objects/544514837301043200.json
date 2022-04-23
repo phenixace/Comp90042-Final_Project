@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 56,
+                "end": 78,
+                "url": "http://t.co/HT4HK7x0mL",
+                "expanded_url": "https://twitter.com/David_Herd/status/544514837301043200/photo/1",
+                "display_url": "pic.twitter.com/HT4HK7x0mL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "SkyNewsAust",
+                "id": "16834659"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "SkyBusiness",
+                "id": "1424683902594072579"
+            }
+        ]
+    },
+    "id": "544514837301043200",
+    "text": "@SkyNewsAust @SkyBusiness Why was this mongrel on bail? http://t.co/HT4HK7x0mL",
+    "source": "Twitter Web Client",
+    "created_at": "2014-12-15T15:30:28.000Z",
+    "in_reply_to_user_id": "16834659"
+}

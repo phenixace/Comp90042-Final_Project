@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "extrasexual",
+                "id": "2928124344"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 63,
+                "probability": 0.2988,
+                "type": "Other",
+                "normalized_text": "1970s Lego"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/weEI4DOCtc",
+                "expanded_url": "https://twitter.com/extrasexual/status/536540403109879809/photo/1",
+                "display_url": "pic.twitter.com/weEI4DOCtc"
+            }
+        ]
+    },
+    "text": "“@extrasexual: a letter written to parents inside all 1970s Lego sets😳💯 this is perfect. http://t.co/weEI4DOCtc”",
+    "id": "536541792859344896",
+    "in_reply_to_user_id": "131752870",
+    "created_at": "2014-11-23T15:28:26.000Z"
+}

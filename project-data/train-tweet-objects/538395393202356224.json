@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "verenanz",
+                "id": "540380886"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 26,
+                "probability": 0.3561,
+                "type": "Organization",
+                "normalized_text": "Lego"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333",
+    "created_at": "2014-11-28T18:13:59.000Z",
+    "id": "538395393202356224",
+    "text": "@Independent @verenanz Lego letter so why do they today fall foul need stero' market pink fluffy to girls and macho hard to boys."
+}

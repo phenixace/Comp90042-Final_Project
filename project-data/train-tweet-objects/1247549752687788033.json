@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 214,
+                "end": 237,
+                "url": "https://t.co/uZWhum0ava",
+                "expanded_url": "https://nsdcindia.org/sites/default/files/QP-SPF-Q4004_Physical-Activity-Trainer_v1-13-sep-2017.pdf",
+                "display_url": "nsdcindia.org/sites/default/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "aparanjape",
+                "id": "14175873"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14175873",
+    "created_at": "2020-04-07T15:40:14.000Z",
+    "id": "1247549752687788033",
+    "source": "Twitter Web App",
+    "text": "@aparanjape Physical Activity Trainer is another name for Sports Teacher,\nor Physical Education (PE) Teacher or Physical Training (PT) Teacher. A document from the National Skill Development Corporation about it - https://t.co/uZWhum0ava."
+}

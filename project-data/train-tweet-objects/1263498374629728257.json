@@ -1,0 +1,56 @@
+{
+    "created_at": "2020-05-21T15:54:21.000Z",
+    "id": "1263498374629728257",
+    "entities": {
+        "annotations": [
+            {
+                "start": 268,
+                "end": 271,
+                "probability": 0.912,
+                "type": "Place",
+                "normalized_text": "Ohio"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JMBorchardt",
+                "id": "15973122"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "paikman8",
+                "id": "274796492"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "username": "jackwindsor",
+                "id": "16128098"
+            },
+            {
+                "start": 36,
+                "end": 48,
+                "username": "RandyLudlow",
+                "id": "32461021"
+            },
+            {
+                "start": 49,
+                "end": 62,
+                "username": "laurahancock",
+                "id": "20446424"
+            },
+            {
+                "start": 307,
+                "end": 318,
+                "username": "DrAmyActon",
+                "id": "1135606140971102208"
+            }
+        ]
+    },
+    "text": "@JMBorchardt @paikman8 @jackwindsor @RandyLudlow @laurahancock What is the latest on the serology antibody testing?  As we now know, many AB tests are cutting edge, emergency use only, and MANY are not accurate (too many false positives).  What company and product is Ohio using for the antibody tests that @DrAmyActon mentions?",
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "15973122"
+}

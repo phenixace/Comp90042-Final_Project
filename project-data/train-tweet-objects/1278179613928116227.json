@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T04:12:22.000Z",
+    "text": "@AlexBerenson Governor Polis just shut down bars for 30 days.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 27,
+                "probability": 0.67,
+                "type": "Person",
+                "normalized_text": "Governor Polis"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278179613928116227",
+    "source": "Twitter for iPhone"
+}

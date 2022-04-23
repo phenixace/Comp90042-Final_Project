@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 180,
+                "end": 203,
+                "url": "https://t.co/66uYi4JA9j",
+                "expanded_url": "https://twitter.com/DepthAnesthesia/status/1249493082023870468/photo/1",
+                "display_url": "pic.twitter.com/66uYi4JA9j"
+            }
+        ]
+    },
+    "created_at": "2020-04-13T00:22:19.000Z",
+    "source": "Twitter Web App",
+    "id": "1249493082023870468",
+    "text": "These myths might seem absurd to many of us.\n\nIt's clear though that this kind of misinformation continues to circulate widely (and maybe not in the groups that we are a part of). https://t.co/66uYi4JA9j",
+    "in_reply_to_user_id": "1108443659173793792"
+}

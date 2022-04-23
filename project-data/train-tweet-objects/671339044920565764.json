@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for BlackBerry",
+    "created_at": "2015-11-30T14:44:35.000Z",
+    "text": "@Badass_Abe @DeadNed88 @Bipartisanism  lol, no, it's a hoax. Just say it slowly...: \"I condemn his actions, as a conservative\"",
+    "id": "671339044920565764",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Badass_Abe",
+                "id": "2986956150"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "DeadNed88",
+                "id": "431901486"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2986956150"
+}

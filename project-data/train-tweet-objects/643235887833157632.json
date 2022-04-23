@@ -1,0 +1,17 @@
+{
+    "id": "643235887833157632",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter for Android",
+    "text": "@AllenWest  Looks like the RED \"CHRISTIAN CROSS\" is UPSETTING THE MUSLIMS...Guess They would rather, STARVE than Take Christian, Charity.",
+    "created_at": "2015-09-14T01:32:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            }
+        ]
+    }
+}

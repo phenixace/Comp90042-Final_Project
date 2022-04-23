@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-01-27T04:15:49.000Z",
+    "id": "427656164864561152",
+    "text": "@DRUDGE_REPORT 75% of heavy smokers never contract lung cancer.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951"
+}

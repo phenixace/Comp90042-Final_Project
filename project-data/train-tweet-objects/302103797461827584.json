@@ -1,0 +1,27 @@
+{
+    "in_reply_to_user_id": "1109500842",
+    "entities": {
+        "urls": [
+            {
+                "start": 76,
+                "end": 96,
+                "url": "http://t.co/kNXZ3251",
+                "expanded_url": "https://twitter.com/ArenaOfPictures/status/295944137948151809/photo/1",
+                "display_url": "pic.twitter.com/kNXZ3251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 66,
+                "probability": 0.6711,
+                "type": "Organization",
+                "normalized_text": "KKK"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2013-02-14T17:15:32.000Z",
+    "text": "“@ArenaOfPictures: A photo of black nurses saving the life of a KKK member. http://t.co/kNXZ3251”HA",
+    "id": "302103797461827584"
+}

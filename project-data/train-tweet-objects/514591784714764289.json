@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 33,
+                "probability": 0.8548,
+                "type": "Product",
+                "normalized_text": "Apple 6"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 107,
+                "end": 114,
+                "tag": "auspol"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "smh",
+                "id": "16675569"
+            },
+            {
+                "start": 55,
+                "end": 69,
+                "username": "TonyAbbottMHR",
+                "id": "1137661725040209921"
+            }
+        ]
+    },
+    "text": ".@smh Seems like buying an Apple 6+ is like voting for @TonyAbbottMHR &amp; Co; all show but no substance. #auspol",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-24T01:46:56.000Z",
+    "in_reply_to_user_id": "16675569",
+    "id": "514591784714764289"
+}

@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web Client",
+    "id": "523165392462942208",
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T17:35:24.000Z",
+    "text": "@BBCBreaking @girlmuseum @BBOG_Nigeria Please let it happen soon and be true!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "girlmuseum",
+                "id": "378808894"
+            },
+            {
+                "start": 25,
+                "end": 38,
+                "username": "BBOG_Nigeria",
+                "id": "2476873176"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "@bonick0 @JoeySalads Are you implying COVID-19 is just like the flu?",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 20,
+                "username": "JoeySalads",
+                "id": "488998711"
+            }
+        ]
+    },
+    "id": "1249804284155191296",
+    "created_at": "2020-04-13T20:58:56.000Z",
+    "in_reply_to_user_id": "886053495501017090"
+}

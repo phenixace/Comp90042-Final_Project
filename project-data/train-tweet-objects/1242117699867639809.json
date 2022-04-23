@@ -1,0 +1,52 @@
+{
+    "created_at": "2020-03-23T15:55:11.000Z",
+    "text": "#Covid_19 myths busted by @WHO \nKindly avoid spreading #FakeNews and turn to authentic medium for information\n#StayHomeStaySafe #KeepInformed\n#SayNoToFakeNews\nhttps://t.co/zhOAz8djmB",
+    "entities": {
+        "urls": [
+            {
+                "start": 159,
+                "end": 182,
+                "url": "https://t.co/zhOAz8djmB",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 26,
+                "end": 30,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "Covid_19"
+            },
+            {
+                "start": 55,
+                "end": 64,
+                "tag": "FakeNews"
+            },
+            {
+                "start": 110,
+                "end": 127,
+                "tag": "StayHomeStaySafe"
+            },
+            {
+                "start": 128,
+                "end": 141,
+                "tag": "KeepInformed"
+            },
+            {
+                "start": 142,
+                "end": 158,
+                "tag": "SayNoToFakeNews"
+            }
+        ]
+    },
+    "id": "1242117699867639809",
+    "source": "Twitter for Android"
+}

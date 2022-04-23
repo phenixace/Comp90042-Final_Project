@@ -1,0 +1,36 @@
+{
+    "id": "1240502802625048578",
+    "created_at": "2020-03-19T04:58:10.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 175,
+                "end": 186,
+                "tag": "coronvirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "liofaber",
+                "id": "1249873999"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "MinisteroSalute",
+                "id": "1904010924"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "EMA_News",
+                "id": "116716199"
+            }
+        ]
+    },
+    "text": "@liofaber @MinisteroSalute @EMA_News La letteratura scientifica dice questo. Fra l'altro, avrei dubbi sulle competenze del ministro francese, vista la gestione dell'emergenza #coronvirus...",
+    "in_reply_to_user_id": "1249873999",
+    "source": "Twitter for Android"
+}

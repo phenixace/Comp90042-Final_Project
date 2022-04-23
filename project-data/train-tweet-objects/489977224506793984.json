@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-07-18T03:37:28.000Z",
+    "text": "@WSJ A-1402 base 29 JUN: Donetsk militia takes control of Ukrainian anti-air installation http://t.co/avKumEwZii http://t.co/S4IhORHBfH",
+    "id": "489977224506793984",
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/avKumEwZii",
+                "expanded_url": "http://voiceofrussia.com/news/2014_06_29/Donetsk-militia-takes-control-of-Ukrainian-anti-air-installation-1561/",
+                "display_url": "voiceofrussia.com/news/2014_06_2…"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/S4IhORHBfH",
+                "expanded_url": "https://twitter.com/natsecwatson/status/489977224506793984/photo/1",
+                "display_url": "pic.twitter.com/S4IhORHBfH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351"
+}

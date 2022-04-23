@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ErrycarM",
+                "id": "1229346923573841920"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-23T10:25:44.000Z",
+    "text": "@ErrycarM What a condom prevents is not airborne!!",
+    "in_reply_to_user_id": "1229346923573841920",
+    "id": "1253268813287735296"
+}

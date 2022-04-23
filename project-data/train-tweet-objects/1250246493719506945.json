@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T02:16:07.000Z",
+    "text": "@StephenAtHome @DrLaPook here.. you might need this. https://t.co/ikwcVubkh0",
+    "entities": {
+        "urls": [
+            {
+                "start": 53,
+                "end": 76,
+                "url": "https://t.co/ikwcVubkh0",
+                "expanded_url": "https://twitter.com/CatherineBadin/status/1250246493719506945/photo/1",
+                "display_url": "pic.twitter.com/ikwcVubkh0"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "id": "1250246493719506945",
+    "in_reply_to_user_id": "16303106"
+}

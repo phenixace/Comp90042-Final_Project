@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "id": "552590912824811521",
+    "text": "@ABC Sometimes I like animals more than people!",
+    "created_at": "2015-01-06T22:21:54.000Z",
+    "in_reply_to_user_id": "28785486"
+}

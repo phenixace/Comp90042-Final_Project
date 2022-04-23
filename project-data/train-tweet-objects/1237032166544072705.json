@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "id": "1237032166544072705",
+    "in_reply_to_user_id": "90050567",
+    "created_at": "2020-03-09T15:07:06.000Z",
+    "text": "@MrsSJHanna Amen",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "MrsSJHanna",
+                "id": "90050567"
+            }
+        ]
+    }
+}

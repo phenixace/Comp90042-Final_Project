@@ -1,0 +1,40 @@
+{
+    "in_reply_to_user_id": "97474887",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CapehartJ",
+                "id": "97474887"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "MarthaMyrick",
+                "id": "21039830"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 59,
+                "tag": "AdrianRogers"
+            },
+            {
+                "start": 121,
+                "end": 127,
+                "tag": "POTUS"
+            },
+            {
+                "start": 128,
+                "end": 135,
+                "tag": "SCOTUS"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T03:34:20.000Z",
+    "text": "@CapehartJ @MarthaMyrick Really great to hear #AdrianRogers sermon this evening. Truly timely selection. Book of Judges. #POTUS #SCOTUS",
+    "id": "614637862105911296"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-26T09:40:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CACCOT1",
+                "id": "813016272439013376"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 121,
+                "end": 133,
+                "probability": 0.4792,
+                "type": "Person",
+                "normalized_text": "Nigbayen lori"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1254344532973453314",
+    "text": "@CACCOT1 They are seeing it as a joke until victims starts crossing to neighboring states and it spread beyond control . Nigbayen lori won a pe.",
+    "in_reply_to_user_id": "813016272439013376"
+}

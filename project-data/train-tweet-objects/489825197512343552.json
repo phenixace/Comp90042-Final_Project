@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-07-17T17:33:22.000Z",
+    "id": "489825197512343552",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChrisDYork",
+                "id": "227423066"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "227423066",
+    "text": "@ChrisDYork  this is so heartbreaking"
+}

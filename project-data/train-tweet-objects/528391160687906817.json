@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-01T03:40:44.000Z",
+    "text": "@andersonDrLJA America doesn't want a spineless, soulless President either. You sir are a professional vacationer and freeloader.",
+    "id": "528391160687906817",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 21,
+                "probability": 0.9895,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "andersonDrLJA",
+                "id": "2316246829"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "2316246829"
+}

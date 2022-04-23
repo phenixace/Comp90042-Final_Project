@@ -1,0 +1,17 @@
+{
+    "text": "@faizaalmaas We shouldn't try to act as experts about things we know absolutely nothing!",
+    "created_at": "2020-06-10T13:09:25.000Z",
+    "id": "1270704623649804288",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "faizaalmaas",
+                "id": "446713715"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "446713715",
+    "source": "Twitter for Android"
+}

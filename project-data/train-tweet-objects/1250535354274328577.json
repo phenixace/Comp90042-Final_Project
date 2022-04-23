@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T21:23:56.000Z",
+    "text": "@StephenAtHome @DrLaPook Mitt iissss tthttheerree. Aa mmmassskkk that cacaxan hhhellp pppeepole who whwho stststudderrr?",
+    "id": "1250535354274328577",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 28,
+                "probability": 0.7563,
+                "type": "Person",
+                "normalized_text": "Mitt"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

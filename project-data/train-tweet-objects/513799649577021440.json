@@ -1,0 +1,54 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 103,
+                "end": 113,
+                "tag": "itsnotbad"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/gLMRUGbUa8",
+                "expanded_url": "http://www.buzzfeed.com/ryankincaid/starbucks-dark-barrel-latte?utm_term=5yw8cz?bftw=main",
+                "display_url": "buzzfeed.com/ryankincaid/st…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 20,
+                "probability": 0.5,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            },
+            {
+                "start": 114,
+                "end": 120,
+                "username": "kew75",
+                "id": "25597379"
+            },
+            {
+                "start": 121,
+                "end": 134,
+                "username": "SatOnMeeting",
+                "id": "1530865422"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5695632",
+    "text": "“@BuzzFeed: Starbucks Is Testing A New Latte That Tastes Exactly Like Guinness http://t.co/gLMRUGbUa8” #itsnotbad @kew75 @SatOnMeeting",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-21T21:19:17.000Z",
+    "id": "513799649577021440"
+}

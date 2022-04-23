@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 24,
+                "end": 47,
+                "url": "https://t.co/f8WQjfY4p6",
+                "expanded_url": "https://twitter.com/inroading/status/1236439339904544768?s=19",
+                "display_url": "twitter.com/inroading/stat…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "mainroadly",
+                "id": "1700808344"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1236481221414146049",
+    "created_at": "2020-03-08T02:37:50.000Z",
+    "in_reply_to_user_id": "1700808344",
+    "text": "@mainroadly 请求证后再发言 谢谢\n\nhttps://t.co/f8WQjfY4p6"
+}

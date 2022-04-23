@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-12T18:52:18.000Z",
+    "source": "Twitter for Android",
+    "id": "1238176006050959360",
+    "text": "@DrCSWilliam Can you direct just an EMT to the best info you've found?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DrCSWilliam",
+                "id": "298619241"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "298619241"
+}

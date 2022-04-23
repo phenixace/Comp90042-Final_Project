@@ -1,0 +1,42 @@
+{
+    "created_at": "2020-02-19T01:53:26.000Z",
+    "in_reply_to_user_id": "3794682452",
+    "text": "FACT: The risk of being infected with the new #coronavirus by touching coins, banknotes, credit cards and other objects, is very low https://t.co/BOuqHUDjwL\n\n#COVID19 #KnowtheFacts https://t.co/CkrTYNanV5",
+    "entities": {
+        "urls": [
+            {
+                "start": 133,
+                "end": 156,
+                "url": "https://t.co/BOuqHUDjwL",
+                "expanded_url": "http://bit.ly/COVID19Mythbusters",
+                "display_url": "bit.ly/COVID19Mythbus…"
+            },
+            {
+                "start": 181,
+                "end": 204,
+                "url": "https://t.co/CkrTYNanV5",
+                "expanded_url": "https://twitter.com/WHOWPRO/status/1229947064093593600/photo/1",
+                "display_url": "pic.twitter.com/CkrTYNanV5"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 58,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 158,
+                "end": 166,
+                "tag": "COVID19"
+            },
+            {
+                "start": 167,
+                "end": 180,
+                "tag": "KnowtheFacts"
+            }
+        ]
+    },
+    "id": "1229947064093593600",
+    "source": "Twitter Web App"
+}

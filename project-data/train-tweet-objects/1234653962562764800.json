@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 138,
+                "end": 161,
+                "url": "https://t.co/dfUy1ISAln",
+                "expanded_url": "https://twitter.com/MdFacep/status/1234653962562764800/photo/1",
+                "display_url": "pic.twitter.com/dfUy1ISAln"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 40,
+                "end": 47,
+                "username": "CDCgov",
+                "id": "146569971"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 92,
+                "tag": "physicians"
+            },
+            {
+                "start": 116,
+                "end": 127,
+                "tag": "Covid19usa"
+            },
+            {
+                "start": 128,
+                "end": 137,
+                "tag": "COVIDー19"
+            }
+        ]
+    },
+    "created_at": "2020-03-03T01:36:58.000Z",
+    "id": "1234653962562764800",
+    "text": "So many patients need to be tested.\nOur @CDCgov lost 3 Critical weeks to do what #physicians know needs to be done.\n#Covid19usa #COVIDー19 https://t.co/dfUy1ISAln"
+}

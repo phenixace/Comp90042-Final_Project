@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 26,
+                "username": "HalfJewish",
+                "id": "62885479"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "187610733",
+    "created_at": "2015-01-05T17:04:18.000Z",
+    "id": "552148595844329472",
+    "text": "@theisaiahbell @HalfJewish @XXL actually it's news to rap/hip hop. Hence why it's in xxl."
+}

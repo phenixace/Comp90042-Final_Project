@@ -1,0 +1,44 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "selfagency",
+                "id": "10904"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "username": "brianstelter",
+                "id": "14515799"
+            },
+            {
+                "start": 40,
+                "end": 54,
+                "username": "ChuckCJohnson",
+                "id": "25198840"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 57,
+                "probability": 0.7411,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "text": "@selfagency @WesleyLowery @brianstelter @ChuckCJohnson ABC won't make a definitive public statement though. Why?",
+    "id": "538853372917735424",
+    "in_reply_to_user_id": "10904",
+    "created_at": "2014-11-30T00:33:50.000Z"
+}

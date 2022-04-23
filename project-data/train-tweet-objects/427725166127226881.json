@@ -1,0 +1,33 @@
+{
+    "source": "TweetDeck",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "probability": 0.9902,
+                "type": "Person",
+                "normalized_text": "Eric Lawson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/6k1vPEoFjr",
+                "expanded_url": "http://read.ht/bMH",
+                "display_url": "read.ht/bMH"
+            },
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/U1v5S2LIp6",
+                "expanded_url": "https://twitter.com/htTweets/status/427725166127226881/photo/1",
+                "display_url": "pic.twitter.com/U1v5S2LIp6"
+            }
+        ]
+    },
+    "created_at": "2014-01-27T08:50:01.000Z",
+    "text": "Eric Lawson, former 'Marlboro man' in cigarette ads dies of smoking-related disease http://t.co/6k1vPEoFjr http://t.co/U1v5S2LIp6",
+    "id": "427725166127226881"
+}

@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 48,
+                "probability": 0.6159,
+                "type": "Organization",
+                "normalized_text": "Gop"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle I can understand the dems, but Gop the worst. Spineless and corrupted",
+    "id": "676068099192315904",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T15:56:10.000Z"
+}

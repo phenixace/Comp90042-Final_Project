@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1243862687198654466",
+    "id": "1245348732260024320",
+    "created_at": "2020-04-01T13:54:09.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 26,
+                "probability": 0.4281,
+                "type": "Other",
+                "normalized_text": "Corona Virus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "reslifeatalc",
+                "id": "1243862687198654466"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@reslifeatalc “Corona Virus only spreads at night, so it’s safe to leave the house during the day just come back home by 6pm”"
+}

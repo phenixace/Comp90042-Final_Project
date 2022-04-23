@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-16T16:48:04.000Z",
+    "text": "@StephenAtHome @DrLaPook Enjoying A Late Show! Really like the \"home show\"! And can hear and enjoy the musicians so much better! CBS is doing a great job to keep this all going forward!",
+    "id": "1250828315222519809",
+    "entities": {
+        "annotations": [
+            {
+                "start": 129,
+                "end": 131,
+                "probability": 0.9323,
+                "type": "Organization",
+                "normalized_text": "CBS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

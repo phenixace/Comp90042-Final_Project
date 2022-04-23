@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1955317428",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 51,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "text": "“@OGtoyouhoes_: “@_Lightbright___: I aint know Obama daughter was pregnant 😩” WHAT THE ACTUAL FUCK 😳” 😳 TF",
+    "created_at": "2014-11-30T01:40:28.000Z",
+    "id": "538870143036575744"
+}

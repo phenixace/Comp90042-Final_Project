@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "@JuddLegum nope. nope. nope.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T23:10:48.000Z",
+    "id": "531222331331710976",
+    "in_reply_to_user_id": "15464697"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T06:10:39.000Z",
+    "text": "@SABCNews Don't forget to inform thes masses about the amount of radiation it gives off &amp; the effects it'll have on their health, we'll then come back for conspiracy theories.",
+    "id": "1250305516984619016",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

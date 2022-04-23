@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-23T17:49:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AnneWalters",
+                "id": "371581365"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "514471726860996608",
+    "text": "@AnneWalters why would t the 6 also do this since it's also the same thickness? This is exactly why I'm waiting to decide what I get!",
+    "in_reply_to_user_id": "371581365"
+}

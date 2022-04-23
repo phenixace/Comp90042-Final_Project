@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-27T21:32:21.000Z",
+    "text": "@cryptovaleria @tulipan81 @Y_deGaia Хей! Супер!",
+    "id": "1254886126244040708",
+    "in_reply_to_user_id": "1027643918530306048",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "CryptoValeria",
+                "id": "1384835665045729282"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "tulipan81",
+                "id": "172846941"
+            },
+            {
+                "start": 26,
+                "end": 35,
+                "username": "Y_deGaia",
+                "id": "1504422946391134209"
+            }
+        ]
+    }
+}

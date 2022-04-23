@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-09-03T20:30:04.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "CatholicismUSA",
+                "id": "3224595697"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 113,
+                "end": 124,
+                "tag": "BundyRanch"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "507264284406333440",
+    "text": "@CatholicismUSA @FoxNews I wonder how many of those precious desert tortoises will have to die for this factory? #BundyRanch",
+    "in_reply_to_user_id": "452385637"
+}

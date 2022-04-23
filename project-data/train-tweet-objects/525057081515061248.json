@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-22T22:52:17.000Z",
+    "id": "525057081515061248",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 20,
+                "probability": 0.9724,
+                "type": "Person",
+                "normalized_text": "Nathan"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16343974",
+    "text": "@Telegraph RIP Nathan,, we love you"
+}

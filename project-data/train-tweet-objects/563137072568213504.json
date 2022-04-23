@@ -1,0 +1,46 @@
+{
+    "created_at": "2015-02-05T00:48:35.000Z",
+    "in_reply_to_user_id": "19426551",
+    "text": "“@nfl: .@EAMaddenNFL successfully predicted the final score of #SB49.\nYES, it's true: http://t.co/NgPXpr9Ue4 http://t.co/KCGKJNdlEP”",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/NgPXpr9Ue4",
+                "expanded_url": "http://at.nfl.com/4PTsAf3",
+                "display_url": "at.nfl.com/4PTsAf3"
+            },
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/KCGKJNdlEP",
+                "expanded_url": "https://twitter.com/nfl/status/563117355254161408/photo/1",
+                "display_url": "pic.twitter.com/KCGKJNdlEP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "NFL",
+                "id": "19426551"
+            },
+            {
+                "start": 8,
+                "end": 20,
+                "username": "EAMaddenNFL",
+                "id": "50096544"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 68,
+                "tag": "SB49"
+            }
+        ]
+    },
+    "id": "563137072568213504",
+    "source": "Twitter for iPhone"
+}

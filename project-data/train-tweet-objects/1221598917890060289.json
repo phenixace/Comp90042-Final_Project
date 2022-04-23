@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 17,
+                "username": "WHOThailand",
+                "id": "479264032"
+            },
+            {
+                "start": 18,
+                "end": 26,
+                "username": "WHOKobe",
+                "id": "538804810"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 37,
+                "end": 45,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 71,
+                "end": 75,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-27T01:00:52.000Z",
+    "id": "1221598917890060289",
+    "text": "@WHO @WHOThailand @WHOKobe @WHOSEARO @WHOWPRO The question is what can @WHO do to protect us?  Nothing yet.",
+    "source": "Twitter for iPhone"
+}

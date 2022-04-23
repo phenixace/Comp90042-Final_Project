@@ -1,0 +1,41 @@
+{
+    "in_reply_to_user_id": "935795533758849026",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mattyice981",
+                "id": "1393301897587609612"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "IslesJetsMets",
+                "id": "2924913860"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "username": "utcobb",
+                "id": "129838027"
+            },
+            {
+                "start": 48,
+                "end": 63,
+                "username": "BillyTwoBagger",
+                "id": "258096392"
+            },
+            {
+                "start": 64,
+                "end": 78,
+                "username": "BarrettSallee",
+                "id": "46260740"
+            }
+        ]
+    },
+    "created_at": "2020-03-31T23:21:38.000Z",
+    "text": "@MattyIce981 @IslesJetsMets @utcobb @SandyGoMan @BillyTwoBagger @BarrettSallee Opium isn’t a new drug either. Just because a drug has been used for one thing doesn’t mean it will work on another - and there is currently zero proof chloraquine will kill off COVID-19. So assuming everything will be fine because of said drug is dangerous.",
+    "id": "1245129154237956096"
+}

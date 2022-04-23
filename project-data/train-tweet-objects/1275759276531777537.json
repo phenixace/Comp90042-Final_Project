@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 256,
+                "end": 279,
+                "url": "https://t.co/37fjEdfBjS",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1264677359728410624",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 53,
+                "end": 66,
+                "tag": "HerdImmunity"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T11:54:48.000Z",
+    "id": "1275759276531777537",
+    "text": "13/. Lack of transparency means little hard proof of #HerdImmunity plans, but a leaked document shows on 23/3 Faculty – contracted with Palantir to build NHSX platform - proposed a simulation to assess the impact of “targeted herd immunity” (an oxymoron).\nhttps://t.co/37fjEdfBjS"
+}

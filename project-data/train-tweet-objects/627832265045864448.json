@@ -1,0 +1,17 @@
+{
+    "id": "627832265045864448",
+    "in_reply_to_user_id": "5695632",
+    "source": "Twitter for Android",
+    "text": "@BuzzFeed here's an idea... take the stairs",
+    "created_at": "2015-08-02T13:24:11.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    }
+}

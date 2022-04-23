@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-21T19:05:53.000Z",
+    "source": "Twitter for iPhone",
+    "id": "612697967364075521",
+    "text": "@ajplus that bastard shouldn't get food",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110396781"
+}

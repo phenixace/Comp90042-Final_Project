@@ -1,0 +1,17 @@
+{
+    "id": "1275415166973288448",
+    "in_reply_to_user_id": "1053219832815120384",
+    "created_at": "2020-06-23T13:07:26.000Z",
+    "source": "Falcon Social Media Management ",
+    "text": "@mmehlwilson Hi there - thanks for your tweet! Unfortunately, the social media team aren't able to advise on exam results so it's best to keep in touch directly with your academic department for updates. Good luck 😊",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mmehlwilson",
+                "id": "1053219832815120384"
+            }
+        ]
+    }
+}

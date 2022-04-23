@@ -1,0 +1,35 @@
+{
+    "text": "@PoliticalPAW @NBCNews @ariannahuff @HuffingtonPost It's going to be legal across the country eventually.  THC stays in the system for weeks",
+    "id": "501775577783603200",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "PoliticalPAW",
+                "id": "116871871"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "username": "ariannahuff",
+                "id": "21982720"
+            },
+            {
+                "start": 36,
+                "end": 51,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T16:59:54.000Z",
+    "in_reply_to_user_id": "116871871"
+}

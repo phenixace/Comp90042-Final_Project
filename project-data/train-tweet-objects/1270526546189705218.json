@@ -1,0 +1,19 @@
+{
+    "source": "Echobox",
+    "created_at": "2020-06-10T01:21:48.000Z",
+    "text": "What is herd immunity, and could it work with COVID-19? Here's what you need to know. https://t.co/rvxgBsHsHf",
+    "id": "1270526546189705218",
+    "entities": {
+        "urls": [
+            {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/rvxgBsHsHf",
+                "expanded_url": "https://st.news/3cHOKBO",
+                "display_url": "st.news/3cHOKBO",
+                "status": 200,
+                "unwound_url": "https://www.seattletimes.com/seattle-news/health/what-is-herd-immunity-and-could-it-work-with-covid-19/?utm_medium=social&utm_campaign=owned_echobox_tw_m&utm_source=Twitter#Echobox=1591739932"
+            }
+        ]
+    }
+}

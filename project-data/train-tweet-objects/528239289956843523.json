@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-31T17:37:15.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 51,
+                "probability": 0.9602,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "“@washingtonpost: Fanged deer pops up in Afghanistan, 60 years after its last appearance\" photoshopped for sure!",
+    "id": "528239289956843523",
+    "source": "Twitter for iPhone"
+}

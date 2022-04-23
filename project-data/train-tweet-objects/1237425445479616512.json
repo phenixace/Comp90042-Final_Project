@@ -1,0 +1,31 @@
+{
+    "created_at": "2020-03-10T17:09:51.000Z",
+    "text": "Many ways to cuddle https://t.co/vyPdzGN4a1",
+    "id": "1237425445479616512",
+    "entities": {
+        "urls": [
+            {
+                "start": 20,
+                "end": 43,
+                "url": "https://t.co/vyPdzGN4a1",
+                "expanded_url": "https://twitter.com/AparnaKarthi/status/1237425445479616512/photo/1",
+                "display_url": "pic.twitter.com/vyPdzGN4a1"
+            },
+            {
+                "start": 20,
+                "end": 43,
+                "url": "https://t.co/vyPdzGN4a1",
+                "expanded_url": "https://twitter.com/AparnaKarthi/status/1237425445479616512/photo/1",
+                "display_url": "pic.twitter.com/vyPdzGN4a1"
+            },
+            {
+                "start": 20,
+                "end": 43,
+                "url": "https://t.co/vyPdzGN4a1",
+                "expanded_url": "https://twitter.com/AparnaKarthi/status/1237425445479616512/photo/1",
+                "display_url": "pic.twitter.com/vyPdzGN4a1"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

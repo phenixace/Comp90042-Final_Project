@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.5537,
+                "type": "Product",
+                "normalized_text": "Porsche"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T17:25:31.000Z",
+    "id": "407198791272382464",
+    "text": "@AP Speed a factor in the death of someone driving a Porsche on a dry sunny day is not news.",
+    "in_reply_to_user_id": "51241574"
+}

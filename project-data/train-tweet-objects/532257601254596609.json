@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-11T19:44:35.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jemelehill",
+                "id": "35586563"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "DahnDahlas",
+                "id": "544564632"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "532257601254596609",
+    "text": "@jemelehill @DahnDahlas Insubordinate. And churlish.",
+    "in_reply_to_user_id": "35586563"
+}

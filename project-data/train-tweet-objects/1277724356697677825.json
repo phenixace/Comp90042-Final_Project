@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-06-29T22:03:20.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 59,
+                "probability": 0.9458,
+                "type": "Place",
+                "normalized_text": "Los Angeles County"
+            }
+        ],
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/y4EnQyQO91",
+                "expanded_url": "http://abc7.la/38aZNTe",
+                "display_url": "abc7.la/38aZNTe",
+                "status": 200,
+                "unwound_url": "https://abc7.com/hospital-beds-hospitals-coronavirus-covid19/6282080/"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 100,
+                "end": 112,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "text": "#BREAKING Officials warn hospital beds in Los Angeles County may not meet demand in coming weeks as #coronavirus cases surge https://t.co/y4EnQyQO91",
+    "id": "1277724356697677825",
+    "source": "TweetDeck"
+}

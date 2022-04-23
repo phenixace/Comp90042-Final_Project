@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T07:36:09.000Z",
+    "text": "@StephenAtHome @DrLaPook Assume you saw the chyron guy who labeled everything being said in 45's briefings with an overlay of truth?",
+    "id": "1250327032396800001",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 49,
+                "probability": 0.5072,
+                "type": "Person",
+                "normalized_text": "chyron"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

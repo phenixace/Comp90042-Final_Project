@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-02T13:41:33.000Z",
+    "text": "How can I protect myself and others from COVID-19?\n\n#PEDULIWA19",
+    "in_reply_to_user_id": "833430048",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 63,
+                "tag": "PEDULIWA19"
+            }
+        ]
+    },
+    "id": "1245707948669595651"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1239757877616807936",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 55,
+                "probability": 0.7992,
+                "type": "Place",
+                "normalized_text": "Sierra Leone"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "UNGeneva",
+                "id": "164263382"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "164263382",
+    "created_at": "2020-03-17T03:38:06.000Z",
+    "text": "@UNGeneva @WHO Some robust measures here in Sierra Leone by the current Administration, including buying into the expertise of past National Ebola Response Team Leads; to the admiration of all citizens!"
+}

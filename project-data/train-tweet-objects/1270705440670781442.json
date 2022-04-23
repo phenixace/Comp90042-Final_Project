@@ -1,0 +1,42 @@
+{
+    "text": "@fourvoyagers U're right.We dont know anything۔What we know is pakistan has crossed 1 lac confirmed cases.That's y I am https://t.co/gEmJiZkAdw a citizen of Pakistan,I'm concerned about my country and its ppl.",
+    "created_at": "2020-06-10T13:12:40.000Z",
+    "id": "1270705440670781442",
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 70,
+                "probability": 0.8758,
+                "type": "Place",
+                "normalized_text": "pakistan"
+            },
+            {
+                "start": 157,
+                "end": 164,
+                "probability": 0.9617,
+                "type": "Place",
+                "normalized_text": "Pakistan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "fourvoyagers",
+                "id": "289216351"
+            }
+        ],
+        "urls": [
+            {
+                "start": 120,
+                "end": 143,
+                "url": "https://t.co/gEmJiZkAdw",
+                "expanded_url": "http://asking.As",
+                "display_url": "asking.As"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "289216351",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,47 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T03:07:25.000Z",
+    "text": "@FoxNews Obama just put his middke finger to God. now may God strike down that White House.",
+    "id": "614631088594518016",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 13,
+                "probability": 0.9975,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 45,
+                "end": 47,
+                "probability": 0.9772,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "probability": 0.9493,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 79,
+                "end": 89,
+                "probability": 0.8945,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

@@ -1,0 +1,23 @@
+{
+    "text": "@Donmeca @gimbakakanda It's just to give the egg extra bitty texture",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Donmeca",
+                "id": "92934079"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "gimbakakanda",
+                "id": "64144208"
+            }
+        ]
+    },
+    "created_at": "2020-04-10T16:31:11.000Z",
+    "in_reply_to_user_id": "92934079",
+    "id": "1248649740973232128"
+}

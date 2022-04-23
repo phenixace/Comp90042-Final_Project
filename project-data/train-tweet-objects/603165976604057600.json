@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-05-26T11:49:09.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 35,
+                "probability": 0.5176,
+                "type": "Place",
+                "normalized_text": "usa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "UniversalPics_",
+                "id": "1272614882337345540"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1571502440",
+    "text": "@universalpics_ i don care about usa",
+    "id": "603165976604057600",
+    "source": "Mobile Web (M2)"
+}

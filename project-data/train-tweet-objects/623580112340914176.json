@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 91,
+                "tag": "SilverLinings"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayCaruso",
+                "id": "11616202"
+            },
+            {
+                "start": 65,
+                "end": 76,
+                "username": "EdDriscoll",
+                "id": "18378801"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-07-21T19:47:38.000Z",
+    "text": "@JayCaruso At least we can get a good sense of their priorities. @EdDriscoll #SilverLinings",
+    "id": "623580112340914176",
+    "in_reply_to_user_id": "11616202"
+}

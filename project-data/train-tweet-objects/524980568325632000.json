@@ -1,0 +1,17 @@
+{
+    "id": "524980568325632000",
+    "in_reply_to_user_id": "428333",
+    "source": "Twitter for BlackBerry®",
+    "text": "@cnnbrk I am so sad for this young mans family and am praying for the safety of all our military",
+    "created_at": "2014-10-22T17:48:15.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    }
+}

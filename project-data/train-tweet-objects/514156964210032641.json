@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T20:59:07.000Z",
+    "id": "514156964210032641",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN She'll never get another on air job again!"
+}

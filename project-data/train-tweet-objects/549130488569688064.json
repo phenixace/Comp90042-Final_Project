@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-12-28T09:11:25.000Z",
+    "text": "@Independent certainly sounds like a quirky tradition, but that just adds something to the people.",
+    "id": "549130488569688064",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16973333"
+}

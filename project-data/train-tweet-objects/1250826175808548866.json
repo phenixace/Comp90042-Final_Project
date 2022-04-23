@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2020-04-16T16:39:34.000Z",
+    "text": "@StephenAtHome @DrLaPook Stephen, thank you for the laughs each night. You are one of the few bright lights these days.",
+    "id": "1250826175808548866",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 31,
+                "probability": 0.9474,
+                "type": "Person",
+                "normalized_text": "Stephen"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

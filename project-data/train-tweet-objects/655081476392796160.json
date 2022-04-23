@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/QZN7WvP1fH",
+                "expanded_url": "https://twitter.com/ylleKhtenneK/status/655081476392796160/photo/1",
+                "display_url": "pic.twitter.com/QZN7WvP1fH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:02:49.000Z",
+    "id": "655081476392796160",
+    "text": "@CNN @HillaryClinton @BernieSanders now wait, what happened to this poll though 😴😴😴 http://t.co/QZN7WvP1fH",
+    "source": "Twitter for iPhone"
+}

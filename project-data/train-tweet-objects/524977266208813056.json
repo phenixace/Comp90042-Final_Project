@@ -1,0 +1,16 @@
+{
+    "id": "524977266208813056",
+    "in_reply_to_user_id": "428333",
+    "text": "@cnnbrk تبي ينلحس مخك ؟ تعال هالحساب - @Question_arab",
+    "created_at": "2014-10-22T17:35:08.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    }
+}

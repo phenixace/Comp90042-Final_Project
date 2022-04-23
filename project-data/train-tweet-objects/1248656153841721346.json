@@ -1,0 +1,23 @@
+{
+    "text": "@cheffatimah_ @gimbakakanda I tried eggs today, normal. Guess I'll have to add milk next time.\n\nBut no vex o. Is it powdered, condensed or evaporated milk?",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "cheffatimah_",
+                "id": "891957867414159360"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "gimbakakanda",
+                "id": "64144208"
+            }
+        ]
+    },
+    "created_at": "2020-04-10T16:56:40.000Z",
+    "in_reply_to_user_id": "891957867414159360",
+    "id": "1248656153841721346"
+}

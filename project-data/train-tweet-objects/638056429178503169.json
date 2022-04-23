@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 15,
+                "probability": 0.9504,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "638056429178503169",
+    "text": "@CNN This is CNN",
+    "created_at": "2015-08-30T18:31:21.000Z",
+    "in_reply_to_user_id": "759251"
+}

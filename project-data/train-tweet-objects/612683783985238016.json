@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-21T18:09:31.000Z",
+    "source": "Twitter for iPad",
+    "id": "612683783985238016",
+    "text": "@ajplus enough",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110396781"
+}

@@ -1,0 +1,46 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "carolinagirl63",
+                "id": "893856362"
+            },
+            {
+                "start": 16,
+                "end": 32,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 60,
+                "probability": 0.9985,
+                "type": "Place",
+                "normalized_text": "Denmark"
+            },
+            {
+                "start": 103,
+                "end": 113,
+                "probability": 0.4595,
+                "type": "Person",
+                "normalized_text": "4immigrants"
+            },
+            {
+                "start": 120,
+                "end": 121,
+                "probability": 0.6386,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-11-19T22:31:59.000Z",
+    "text": "@carolinagirl63 @realDonaldTrump \nSomething rotten in Denmark folks when ur President has more concern 4immigrants then US citizens IMPEACH",
+    "in_reply_to_user_id": "893856362",
+    "id": "667470401027637248"
+}

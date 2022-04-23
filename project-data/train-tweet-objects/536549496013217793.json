@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-23T15:59:03.000Z",
+    "text": "@BuzzFeedUK An obvious fake",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536549496013217793",
+    "source": "Twitter Web Client"
+}

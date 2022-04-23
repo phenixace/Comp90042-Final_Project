@@ -1,0 +1,31 @@
+{
+    "id": "1235267210974613504",
+    "text": "My grandmother watches Fox so she thinks the CoVID-19 is “just like the flu.” \n\nIt’s 34x more deadly, 148x more deadly to people her age. \n\nTrump is waging a disinformation campaign instead of protecting the US. It’s infuriating.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 25,
+                "probability": 0.8223,
+                "type": "Person",
+                "normalized_text": "Fox"
+            },
+            {
+                "start": 140,
+                "end": 144,
+                "probability": 0.9681,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 208,
+                "end": 209,
+                "probability": 0.872,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-03-04T18:13:47.000Z"
+}

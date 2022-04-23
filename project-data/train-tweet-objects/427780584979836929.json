@@ -1,0 +1,34 @@
+{
+    "source": "Hootsuite",
+    "entities": {
+        "mentions": [
+            {
+                "start": 80,
+                "end": 94,
+                "username": "guardianworld",
+                "id": "156651229"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 26,
+                "probability": 0.9771,
+                "type": "Person",
+                "normalized_text": "Eric Lawson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 57,
+                "end": 79,
+                "url": "http://t.co/WDvB6Tg5d8",
+                "expanded_url": "http://gu.com/p/3m7q4/tw",
+                "display_url": "gu.com/p/3m7q4/tw"
+            }
+        ]
+    },
+    "text": "Marlboro ad man Eric Lawson dies of chronic lung disease http://t.co/WDvB6Tg5d8 @guardianworld",
+    "id": "427780584979836929",
+    "created_at": "2014-01-27T12:30:13.000Z"
+}

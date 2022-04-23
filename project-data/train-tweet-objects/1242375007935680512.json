@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "1187615901438230528",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MANASA96592377",
+                "id": "1187615901438230528"
+            }
+        ]
+    },
+    "created_at": "2020-03-24T08:57:38.000Z",
+    "text": "@MANASA96592377 Keep your hands clean and be safe",
+    "id": "1242375007935680512"
+}

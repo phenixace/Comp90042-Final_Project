@@ -1,0 +1,51 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1068121346",
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/gdpr4k0K0f",
+                "expanded_url": "http://www.buzzfeed.com/alanwhite/this-powerful-cartoon-about-the-charlie-hebdo-attack-is-not?bftw&utm_term=4ldqpgm#4ldqpgm",
+                "display_url": "buzzfeed.com/alanwhite/this…",
+                "status": 200,
+                "unwound_url": "https://www.buzzfeed.com/alanwhite/this-powerful-cartoon-about-the-charlie-hebdo-attack-is-not?bftw&utm_term=4ldqpgm"
+            },
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/S5CTkTyNGC",
+                "expanded_url": "https://twitter.com/BuzzFeedUK/status/553115168084074497/photo/1",
+                "display_url": "pic.twitter.com/S5CTkTyNGC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 58,
+                "probability": 0.7975,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            },
+            {
+                "start": 77,
+                "end": 83,
+                "probability": 0.5428,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T10:08:34.000Z",
+    "id": "553131137283809281",
+    "text": "“@BuzzFeedUK: This powerful cartoon about the Charlie Hebdo attack is not by Banksy\nhttp://t.co/gdpr4k0K0f http://t.co/S5CTkTyNGC”"
+}

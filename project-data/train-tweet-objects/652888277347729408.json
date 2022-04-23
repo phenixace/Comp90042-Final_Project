@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 49,
+                "end": 71,
+                "url": "http://t.co/pGUKfoaOhm",
+                "expanded_url": "https://twitter.com/EmilioDazCervan/status/652888277347729408/photo/1",
+                "display_url": "pic.twitter.com/pGUKfoaOhm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump VERY,VERY,VERY HANDSOME... http://t.co/pGUKfoaOhm",
+    "source": "Twitter Web Client",
+    "created_at": "2015-10-10T16:47:50.000Z",
+    "id": "652888277347729408"
+}

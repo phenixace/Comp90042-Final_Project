@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-14T01:36:53.000Z",
+    "text": "More Ebola-mania...\r\r'@msnbc: BREAKING: Patient being tested for Ebola in Kansas http://t.co/IjHARFIOQP http://t.co/QQjoVyx3uD\"",
+    "id": "521837009808396288",
+    "entities": {
+        "annotations": [
+            {
+                "start": 74,
+                "end": 79,
+                "probability": 0.9862,
+                "type": "Place",
+                "normalized_text": "Kansas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 28,
+                "username": "MSNBC",
+                "id": "2836421"
+            }
+        ],
+        "urls": [
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/IjHARFIOQP",
+                "expanded_url": "http://on.msnbc.com/1sDgqyV",
+                "display_url": "on.msnbc.com/1sDgqyV"
+            },
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/QQjoVyx3uD",
+                "expanded_url": "https://twitter.com/msnbc/status/521821037726797824/photo/1",
+                "display_url": "pic.twitter.com/QQjoVyx3uD"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": "2836421"
+}

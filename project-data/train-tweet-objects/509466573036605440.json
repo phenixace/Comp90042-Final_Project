@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:21:11.000Z",
+    "text": "@Doomlaser for a studio with one successful game past its peak? Not really, good for notch, bad investment for Ms",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Doomlaser",
+                "id": "790036"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "790036",
+    "id": "509466573036605440",
+    "source": "Twitter for Android Tablets"
+}

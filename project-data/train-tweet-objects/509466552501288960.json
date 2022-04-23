@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 46,
+                "probability": 0.8867,
+                "type": "Product",
+                "normalized_text": "ps4"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "engadget",
+                "id": "14372486"
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "username": "F1sT",
+                "id": "13317162"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14372486",
+    "created_at": "2014-09-09T22:21:06.000Z",
+    "id": "509466552501288960",
+    "source": "Twitter for Mac",
+    "text": "@engadget @f1st looks like no mine craft on ps4"
+}

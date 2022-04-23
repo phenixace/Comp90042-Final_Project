@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 58,
+                "probability": 0.6933,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus Bend Test"
+            }
+        ],
+        "urls": [
+            {
+                "start": 62,
+                "end": 84,
+                "url": "http://t.co/4STCDcB2go",
+                "expanded_url": "http://youtu.be/znK652H6yQM",
+                "display_url": "youtu.be/znK652H6yQM"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 6,
+                "end": 16,
+                "tag": "poorApple"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 21,
+                "end": 34,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-09-24T04:14:38.000Z",
+    "id": "514628953776996352",
+    "text": "Lolol #poorApple RT \"@UnboxTherapy: iPhone 6 Plus Bend Test - http://t.co/4STCDcB2go”",
+    "in_reply_to_user_id": "239672340"
+}

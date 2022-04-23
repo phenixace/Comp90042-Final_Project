@@ -1,0 +1,58 @@
+{
+    "in_reply_to_user_id": "14499829",
+    "entities": {
+        "urls": [
+            {
+                "start": 74,
+                "end": 97,
+                "url": "https://t.co/PKzKaO2yfK",
+                "expanded_url": "http://bit.ly/2tMEBmu",
+                "display_url": "bit.ly/2tMEBmu",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 796
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Coronavirus disease (COVID-19)",
+                "description": "Latest update 13 May 2021 - WHO is continuously monitoring and responding to this pandemic. This Q&A will be updated as more is known about COVID-19, how it spreads and how it is affecting people worldwide. For more information, regularly check the WHO coronavirus pages. https://www.who.int/covid-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19"
+            },
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/WiwHFZJr4w",
+                "expanded_url": "https://twitter.com/WHO/status/1252238542656417792/photo/1",
+                "display_url": "pic.twitter.com/WiwHFZJr4w"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 57,
+                "end": 65,
+                "tag": "COVID19"
+            },
+            {
+                "start": 99,
+                "end": 111,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 112,
+                "end": 125,
+                "tag": "KnowtheFacts"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-20T14:11:48.000Z",
+    "text": "Q: How should I wash fruit and vegetables in the time of #COVID19?\n\nMore: https://t.co/PKzKaO2yfK\n\n#coronavirus #KnowtheFacts https://t.co/WiwHFZJr4w",
+    "id": "1252238542656417792"
+}

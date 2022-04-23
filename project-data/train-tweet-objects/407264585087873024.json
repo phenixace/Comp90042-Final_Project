@@ -1,0 +1,17 @@
+{
+    "text": "@HuffingtonPost WHAT!",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T21:46:58.000Z",
+    "in_reply_to_user_id": "14511951",
+    "id": "407264585087873024"
+}

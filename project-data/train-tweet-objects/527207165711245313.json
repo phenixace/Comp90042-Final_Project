@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "username": "DanielHenzi",
+                "id": "1173260750"
+            }
+        ]
+    },
+    "id": "527207165711245313",
+    "text": "@UberFacts @DanielHenzi just punched my ticket on the NopeTrain",
+    "created_at": "2014-10-28T21:15:58.000Z",
+    "in_reply_to_user_id": "95023423"
+}

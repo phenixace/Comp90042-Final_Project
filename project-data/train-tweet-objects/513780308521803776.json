@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "5695632",
+    "text": "@BuzzFeed ########______  SO IF U DRINK THIS STUFF ULL TURN N 2 A GINNEA PIG ,I DONT NOOOOO LATER GENNIE PIG TASTERS TATERS OXOXOXOXOXOXXXXX",
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-21T20:02:25.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "513780308521803776"
+}

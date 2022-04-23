@@ -1,0 +1,26 @@
+{
+    "created_at": "2015-01-09T11:48:34.000Z",
+    "text": "@NBCNews so much for Local and Int'l Media adhering to a NO Publish of the building. Brilliant idiots as usual NBC",
+    "id": "553518690872745985",
+    "entities": {
+        "annotations": [
+            {
+                "start": 111,
+                "end": 113,
+                "probability": 0.7819,
+                "type": "Organization",
+                "normalized_text": "NBC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "14173315"
+}

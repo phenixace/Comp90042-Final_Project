@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-10T01:18:27.000Z",
+    "id": "1237186021416189953",
+    "text": "@thepost15 YES. I always knew you were intelligent. I don’t know how many times I’ve said that to people and they still don’t understand",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "thepost15",
+                "id": "52531053"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "52531053"
+}

@@ -1,0 +1,92 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 317,
+                "end": 340,
+                "url": "https://t.co/1qc2hcZmuH",
+                "expanded_url": "http://jagatgururampalji.org",
+                "display_url": "jagatgururampalji.org"
+            },
+            {
+                "start": 341,
+                "end": 364,
+                "url": "https://t.co/HLeQT1mZ5P",
+                "expanded_url": "https://twitter.com/GhanshyamDahal5/status/1224167380131037184/photo/1",
+                "display_url": "pic.twitter.com/HLeQT1mZ5P"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 99,
+                "end": 101,
+                "probability": 0.9816,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 215,
+                "end": 219,
+                "probability": 0.9989,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 282,
+                "end": 284,
+                "probability": 0.9762,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "14499829",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO When the organism breaks the law of God and starts arbitrary, then it has to suffer its consequences, this is happening now, due to the corona virus in China, they are forced to close their meat.  In the legislation of God, eating meat is a great sin.\n👇\nhttps://t.co/1qc2hcZmuH https://t.co/HLeQT1mZ5P",
+    "created_at": "2020-02-03T03:07:02.000Z",
+    "id": "1224167380131037184"
+}

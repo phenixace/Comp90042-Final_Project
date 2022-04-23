@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 60,
+                "end": 68,
+                "tag": "Walmart"
+            },
+            {
+                "start": 88,
+                "end": 101,
+                "tag": "DarrenWilson"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 36,
+                "probability": 0.4553,
+                "type": "Organization",
+                "normalized_text": "Walmart"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/1AXBbbYv3c",
+                "expanded_url": "https://twitter.com/i_AM_theChange/status/523546620495806464/photo/1",
+                "display_url": "pic.twitter.com/1AXBbbYv3c"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 43,
+                "end": 58,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-18T20:23:20.000Z",
+    "id": "523570045319151617",
+    "text": "Another reason NOT to shop  @ Walmart. MT \"@SaveJobsGlobal: #Walmart donates $10,000 to #DarrenWilson fund http://t.co/1AXBbbYv3c”",
+    "source": "Twitter for iPhone"
+}

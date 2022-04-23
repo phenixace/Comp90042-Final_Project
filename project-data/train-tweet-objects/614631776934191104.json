@@ -1,0 +1,26 @@
+{
+    "text": "@cnni https://t.co/owDlx8qih3",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ],
+        "urls": [
+            {
+                "start": 6,
+                "end": 29,
+                "url": "https://t.co/owDlx8qih3",
+                "expanded_url": "https://twitter.com/LorenzoLopezMer/status/614627199014957056",
+                "display_url": "twitter.com/LorenzoLopezMe…"
+            }
+        ]
+    },
+    "id": "614631776934191104",
+    "created_at": "2015-06-27T03:10:09.000Z",
+    "in_reply_to_user_id": "2097571"
+}

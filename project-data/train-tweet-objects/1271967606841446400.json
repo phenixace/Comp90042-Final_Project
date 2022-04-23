@@ -1,0 +1,58 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1271967606841446400",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 95,
+                "end": 103,
+                "tag": "COVID19"
+            },
+            {
+                "start": 135,
+                "end": 147,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 148,
+                "end": 161,
+                "tag": "KnowTheFacts"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/TdKoGmWrIr",
+                "expanded_url": "http://bit.ly/COVID19Mythbusters",
+                "display_url": "bit.ly/COVID19Mythbus…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 738
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1514229032996454409/5QZlMuvC?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "COVID-19 Mythbusters – World Health Organization",
+                "description": "Highlighting some of the misinformation circulating on COVID-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+            },
+            {
+                "start": 162,
+                "end": 185,
+                "url": "https://t.co/xVWQX1x7AD",
+                "expanded_url": "https://twitter.com/WHO/status/1271967606841446400/photo/1",
+                "display_url": "pic.twitter.com/xVWQX1x7AD"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-06-14T00:48:04.000Z",
+    "text": "FACT: Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent #COVID19\n\nMore https://t.co/TdKoGmWrIr\n\n#coronavirus #KnowTheFacts https://t.co/xVWQX1x7AD"
+}

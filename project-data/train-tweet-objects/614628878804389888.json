@@ -1,0 +1,29 @@
+{
+    "id": "614628878804389888",
+    "text": "Communist Goals RT @sergeantcarter: @ABC @RupintaABC11 this is the insanity you get when you elect a socialist",
+    "entities": {
+        "mentions": [
+            {
+                "start": 19,
+                "end": 34,
+                "username": "SergeantCarter",
+                "id": "55671134"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 41,
+                "end": 54,
+                "username": "RupintaABC11",
+                "id": "44099900"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "55671134",
+    "source": "RedScareBot",
+    "created_at": "2015-06-27T02:58:38.000Z"
+}

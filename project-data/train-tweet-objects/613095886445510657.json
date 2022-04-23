@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-06-22T21:27:04.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 99,
+                "end": 114,
+                "tag": "TheMoreYouKnow"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 22,
+                "end": 34,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "id": "613095886445510657",
+    "text": "@ajplus @Massood_Sama @theobserver Remember Kids. Don't trust White People with Bowl Cut Haircuts. #TheMoreYouKnow",
+    "in_reply_to_user_id": "110396781"
+}

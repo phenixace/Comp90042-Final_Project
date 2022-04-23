@@ -1,0 +1,23 @@
+{
+    "id": "1272196584265129985",
+    "text": "@smalltroll1 @Uber Sorry but I've heard all these arguments debunked numerous times that I wouldn't even know where to start. If you think this virus is so dangerous then I'm sorry but you've been had. False death certificates and people dying of other causes is just the tip of the iceberg",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "smalltroll1",
+                "id": "931613614552829958"
+            },
+            {
+                "start": 13,
+                "end": 18,
+                "username": "Uber",
+                "id": "19103481"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "931613614552829958",
+    "source": "Twitter for Android",
+    "created_at": "2020-06-14T15:57:56.000Z"
+}

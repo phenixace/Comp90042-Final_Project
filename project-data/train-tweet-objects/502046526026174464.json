@@ -1,0 +1,33 @@
+{
+    "text": "@NBCNews \nWe urge the US government to calm down in respect of what is happening as a result of events in the state of Missouri.",
+    "id": "502046526026174464",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 23,
+                "probability": 0.8406,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 119,
+                "end": 126,
+                "probability": 0.9685,
+                "type": "Place",
+                "normalized_text": "Missouri"
+            }
+        ]
+    },
+    "created_at": "2014-08-20T10:56:34.000Z",
+    "in_reply_to_user_id": "14173315"
+}

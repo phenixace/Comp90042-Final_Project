@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T12:24:25.000Z",
+    "text": "What to do if a case of COVID-19 is confirmed in your workplace? https://t.co/T1z2XEzXsG",
+    "entities": {
+        "urls": [
+            {
+                "start": 65,
+                "end": 88,
+                "url": "https://t.co/T1z2XEzXsG",
+                "expanded_url": "https://twitter.com/corysanhandwash/status/1245326149485461505/photo/1",
+                "display_url": "pic.twitter.com/T1z2XEzXsG"
+            }
+        ]
+    },
+    "id": "1245326149485461505",
+    "in_reply_to_user_id": "1216709367581552640"
+}

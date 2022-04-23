@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "551630842976813056",
+    "text": "@FoxNews i hope everything was ok and she is fine.",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-04T06:46:56.000Z",
+    "in_reply_to_user_id": "1367531"
+}

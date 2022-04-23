@@ -1,0 +1,18 @@
+{
+    "created_at": "2015-09-25T15:14:00.000Z",
+    "id": "647428848422813696",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 35,
+                "probability": 0.4419,
+                "type": "Organization",
+                "normalized_text": "sony"
+            }
+        ]
+    },
+    "text": "@MostObviousFact im pretty sure sony makes those",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "2319494544"
+}

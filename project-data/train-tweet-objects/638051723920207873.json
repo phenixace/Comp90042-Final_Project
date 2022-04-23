@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "638051723920207873",
+    "text": "@CNN he was great in the Matrix",
+    "created_at": "2015-08-30T18:12:40.000Z",
+    "in_reply_to_user_id": "759251"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T03:50:27.000Z",
+    "text": "@AlexBerenson Compare to other countries -- if we are so far behind then other countries must assuredly be ahead of us.\n\nI don't think it's that easy.   In the early stages the virus is too spotty go get a grip on it for something useful.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278174101174202368",
+    "source": "Twitter Web App"
+}

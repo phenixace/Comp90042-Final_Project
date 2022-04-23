@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 66,
+                "probability": 0.4398,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus Bend Test"
+            }
+        ],
+        "urls": [
+            {
+                "start": 70,
+                "end": 92,
+                "url": "http://t.co/GySOSLPUDi",
+                "expanded_url": "http://youtu.be/znK652H6yQM",
+                "display_url": "youtu.be/znK652H6yQM"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 29,
+                "end": 42,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "created_at": "2014-09-23T20:50:37.000Z",
+    "id": "514517213022543872",
+    "text": "2,000,000 views incoming… RT @UnboxTherapy: iPhone 6 Plus Bend Test - http://t.co/GySOSLPUDi",
+    "in_reply_to_user_id": "239672340"
+}

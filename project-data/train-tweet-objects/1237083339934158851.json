@@ -1,0 +1,18 @@
+{
+    "in_reply_to_user_id": "938543395735093248",
+    "entities": {
+        "urls": [
+            {
+                "start": 178,
+                "end": 201,
+                "url": "https://t.co/nVuG2haHuJ",
+                "expanded_url": "https://twitter.com/RAOstria/status/1237083339934158851/photo/1",
+                "display_url": "pic.twitter.com/nVuG2haHuJ"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-09T18:30:26.000Z",
+    "text": "7. Thermal scanners are effective in detecting people who have developed a fever (i.e. have a higher than normal body temperature) because of infection with the new coronavirus. https://t.co/nVuG2haHuJ",
+    "id": "1237083339934158851"
+}

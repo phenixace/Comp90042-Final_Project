@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "652347505552723968",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 57,
+                "probability": 0.8329,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            },
+            {
+                "start": 102,
+                "end": 110,
+                "probability": 0.8787,
+                "type": "Place",
+                "normalized_text": "Palestine"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 16,
+                "end": 26,
+                "username": "Starbucks",
+                "id": "30973"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "20554825",
+    "created_at": "2015-10-09T04:59:00.000Z",
+    "text": "@SBUX75DEVILDOG @Starbucks it would be better if Starbucks don't send money to help the occupation in Palestine too."
+}

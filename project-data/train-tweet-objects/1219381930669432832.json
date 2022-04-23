@@ -1,0 +1,52 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 157,
+                "end": 180,
+                "url": "https://t.co/Mgn6efB6eY",
+                "expanded_url": "https://www.bloomberg.com/news/articles/2020-01-20/china-s-food-markets-can-be-breeding-grounds-for-deadly-viruses",
+                "display_url": "bloomberg.com/news/articles/…",
+                "status": 200,
+                "unwound_url": "https://www.bloomberg.com/news/articles/2020-01-20/china-s-food-markets-can-be-breeding-grounds-for-deadly-viruses"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 17,
+                "username": "WHOThailand",
+                "id": "479264032"
+            },
+            {
+                "start": 18,
+                "end": 26,
+                "username": "WHOKobe",
+                "id": "538804810"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 37,
+                "end": 45,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-01-20T22:11:21.000Z",
+    "id": "1219381930669432832",
+    "text": "@WHO @WHOThailand @WHOKobe @WHOSEARO @WHOWPRO How about end the practice of “wet markets”.  This unsanitary practice is the ground zero of global pandemics  https://t.co/Mgn6efB6eY",
+    "source": "Twitter for iPhone"
+}

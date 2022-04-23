@@ -1,0 +1,17 @@
+{
+    "text": "@guardian Another fake beheading video",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ]
+    },
+    "created_at": "2014-09-14T01:47:51.000Z",
+    "in_reply_to_user_id": "87818409",
+    "id": "510968135290454016"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-05T04:48:24.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 19,
+                "probability": 0.9157,
+                "type": "Person",
+                "normalized_text": "President Obama"
+            }
+        ]
+    },
+    "text": "Dear President Obama...it looks like Stay-at-home Moms vote too.",
+    "id": "529857740059860992",
+    "source": "Twitter Web Client"
+}

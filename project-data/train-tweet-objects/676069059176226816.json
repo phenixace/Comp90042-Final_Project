@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 36,
+                "probability": 0.7661,
+                "type": "Organization",
+                "normalized_text": "DHS"
+            },
+            {
+                "start": 67,
+                "end": 74,
+                "probability": 0.8701,
+                "type": "Place",
+                "normalized_text": "Americas"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle That makes me sure DHS is working day and night for Americas safety,based on averages,at least one of these is doubtful.",
+    "id": "676069059176226816",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T15:59:59.000Z"
+}

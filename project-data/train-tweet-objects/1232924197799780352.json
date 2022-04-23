@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-02-27T07:03:30.000Z",
+    "text": "Can an ultraviolet disinfection lamp kill the new coronavirus? https://t.co/yTCsKJYAcF",
+    "in_reply_to_user_id": "14196465",
+    "entities": {
+        "urls": [
+            {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/yTCsKJYAcF",
+                "expanded_url": "https://twitter.com/fursid/status/1232924197799780352/photo/1",
+                "display_url": "pic.twitter.com/yTCsKJYAcF"
+            }
+        ]
+    },
+    "id": "1232924197799780352"
+}

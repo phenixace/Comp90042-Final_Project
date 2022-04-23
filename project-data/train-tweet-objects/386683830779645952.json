@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "mmfa",
+                "id": "13493302"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 42,
+                "probability": 0.3978,
+                "type": "Person",
+                "normalized_text": "Fox"
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "probability": 0.5646,
+                "type": "Person",
+                "normalized_text": "Christians"
+            }
+        ]
+    },
+    "created_at": "2013-10-06T02:46:24.000Z",
+    "id": "386683830779645952",
+    "text": "@mmfa All Muslims are not our enemy and Fox wonders why Christians are killed in the middle east. How can U expect thm not to hate if We do?",
+    "in_reply_to_user_id": "13493302"
+}

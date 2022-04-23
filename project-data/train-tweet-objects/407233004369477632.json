@@ -1,0 +1,37 @@
+{
+    "text": "@ComedyOnIy RT if you are a true PAUL WALKER FAN\n\nhttps://t.co/p6LI9kitsW",
+    "id": "407233004369477632",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ComedyOnIy",
+                "id": "495605961"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 33,
+                "end": 43,
+                "probability": 0.9406,
+                "type": "Person",
+                "normalized_text": "PAUL WALKER"
+            }
+        ],
+        "urls": [
+            {
+                "start": 50,
+                "end": 73,
+                "url": "https://t.co/p6LI9kitsW",
+                "expanded_url": "https://www.youtube.com/watch?v=biOfgpdvvFQ",
+                "display_url": "youtube.com/watch?v=biOfgp…",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=biOfgpdvvFQ"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T19:41:28.000Z",
+    "in_reply_to_user_id": "495605961"
+}

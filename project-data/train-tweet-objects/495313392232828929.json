@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-01T21:01:29.000Z",
+    "in_reply_to_user_id": "34713362",
+    "source": "Twitter for Android",
+    "text": "@BloombergNews @DAVIDMDRAIMAN been hearing about this for a while, stoked to have it here!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 29,
+                "username": "davidmdraiman",
+                "id": "3255215282"
+            }
+        ]
+    },
+    "id": "495313392232828929"
+}

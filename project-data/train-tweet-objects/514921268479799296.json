@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 83,
+                "end": 105,
+                "probability": 0.5208,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus Bend Test"
+            }
+        ],
+        "urls": [
+            {
+                "start": 109,
+                "end": 131,
+                "url": "http://t.co/yMJ1MO63NW",
+                "expanded_url": "http://youtu.be/znK652H6yQM",
+                "display_url": "youtu.be/znK652H6yQM"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 37,
+                "username": "MKBHD",
+                "id": "29873662"
+            },
+            {
+                "start": 68,
+                "end": 81,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "source": "Talon (Classic)",
+    "created_at": "2014-09-24T23:36:11.000Z",
+    "id": "514921268479799296",
+    "text": "Looks like this fell short ;) \"@MKBHD: 2,000,000 views incoming… RT @UnboxTherapy: iPhone 6 Plus Bend Test - http://t.co/yMJ1MO63NW\"",
+    "in_reply_to_user_id": "29873662"
+}

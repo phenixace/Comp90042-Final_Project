@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/ttHp35uWPq",
+                "expanded_url": "http://bzfd.it/1rtFSp5",
+                "display_url": "bzfd.it/1rtFSp5"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 30,
+                "end": 39,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 53,
+                "probability": 0.7981,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T18:13:03.000Z",
+    "source": "Twitter for iPhone",
+    "id": "514477561066565632",
+    "text": "Why? Why would you sit on it?“@BuzzFeed: iPhone 6 Plus users are sitting on and bending their enormous new phones\nhttp://t.co/ttHp35uWPq”",
+    "in_reply_to_user_id": "5695632"
+}

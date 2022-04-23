@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "dropeik",
+                "id": "19242750"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "badandysoria",
+                "id": "24455916"
+            },
+            {
+                "start": 23,
+                "end": 34,
+                "username": "RealTimers",
+                "id": "455288410"
+            },
+            {
+                "start": 35,
+                "end": 45,
+                "username": "billmaher",
+                "id": "19697415"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19242750",
+    "created_at": "2020-03-17T07:46:36.000Z",
+    "id": "1239820414601302016",
+    "text": "@dropeik @badandysoria @RealTimers @billmaher Yes, this is true, but how are respiratory droplets spread? People cough them into the air and then they move. Through the air. They literally spread in the air.",
+    "source": "Twitter Web App"
+}

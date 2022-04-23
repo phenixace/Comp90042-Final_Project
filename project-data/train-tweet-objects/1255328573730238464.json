@@ -1,0 +1,29 @@
+{
+    "text": "@futbolfan05 @CityofHoboken @RaviBhalla The curve is flat. We have a single digit daily case count for over a week in a city of 50k people. If that isn't flat please tell me what is?",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "futbolfan05",
+                "id": "857023707532976129"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "CityofHoboken",
+                "id": "39868135"
+            },
+            {
+                "start": 28,
+                "end": 39,
+                "username": "RaviBhalla",
+                "id": "40788497"
+            }
+        ]
+    },
+    "id": "1255328573730238464",
+    "created_at": "2020-04-29T02:50:29.000Z",
+    "in_reply_to_user_id": "857023707532976129"
+}

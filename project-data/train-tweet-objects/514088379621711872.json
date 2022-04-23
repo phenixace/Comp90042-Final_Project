@@ -1,0 +1,42 @@
+{
+    "id": "514088379621711872",
+    "in_reply_to_user_id": "380285402",
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "probability": 0.9405,
+                "type": "Place",
+                "normalized_text": "Florida"
+            }
+        ],
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/8BUcxQQFEo",
+                "expanded_url": "http://dailym.ai/1paDRZS",
+                "display_url": "dailym.ai/1paDRZS"
+            },
+            {
+                "start": 112,
+                "end": 134,
+                "url": "http://t.co/zJxBapOprI",
+                "expanded_url": "https://twitter.com/DailyMail/status/514062859987595264/photo/1",
+                "display_url": "pic.twitter.com/zJxBapOprI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    },
+    "text": "“@DailyMail: Florida woman surgically adds third breast in bid to become reality TV star http://t.co/8BUcxQQFEo http://t.co/zJxBapOprI” 👀😂",
+    "created_at": "2014-09-22T16:26:35.000Z"
+}

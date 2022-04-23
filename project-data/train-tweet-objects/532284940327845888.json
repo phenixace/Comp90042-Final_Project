@@ -1,0 +1,24 @@
+{
+    "text": "@MyFoxTampaBay The manager deserves a promotion. #TrueDat",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "myfoxtampabay",
+                "id": "596725883"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 57,
+                "tag": "TrueDat"
+            }
+        ]
+    },
+    "id": "532284940327845888",
+    "created_at": "2014-11-11T21:33:13.000Z",
+    "in_reply_to_user_id": "15750898"
+}

@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "probability": 0.8941,
+                "type": "Person",
+                "normalized_text": "collins"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "TMZ",
+                "id": "16331010"
+            },
+            {
+                "start": 6,
+                "end": 19,
+                "username": "MaryForbes14",
+                "id": "822663973"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 52,
+                "tag": "CHR"
+            },
+            {
+                "start": 66,
+                "end": 82,
+                "tag": "nationofsadists"
+            },
+            {
+                "start": 83,
+                "end": 87,
+                "tag": "TMZ"
+            }
+        ]
+    },
+    "created_at": "2014-10-08T04:37:46.000Z",
+    "in_reply_to_user_id": "16331010",
+    "source": "Twitter for iPhone",
+    "text": ".@TMZ @MaryForbes14 collins is an episcopalian. #CHR 2 easf 90th. #nationofsadists #TMZ all wannabe failure creeps.",
+    "id": "519708205815828480"
+}

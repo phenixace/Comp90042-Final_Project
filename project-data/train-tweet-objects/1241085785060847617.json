@@ -1,0 +1,33 @@
+{
+    "id": "1241085785060847617",
+    "text": "@rosierawle Best timetable I've heard about! Apart from 'Minecraft is bad'. I respect your opinion, but you're wrong. -Natasha",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 65,
+                "probability": 0.3943,
+                "type": "Product",
+                "normalized_text": "Minecraft"
+            },
+            {
+                "start": 119,
+                "end": 125,
+                "probability": 0.9622,
+                "type": "Person",
+                "normalized_text": "Natasha"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "rosierawle",
+                "id": "731069484"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "731069484",
+    "created_at": "2020-03-20T19:34:44.000Z"
+}

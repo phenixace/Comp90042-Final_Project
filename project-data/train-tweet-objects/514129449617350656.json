@@ -1,0 +1,26 @@
+{
+    "text": "@FoxNews sounds like a lot of hocus pocus to me in that once more the general public is not being told the whole truth",
+    "created_at": "2014-09-22T19:09:47.000Z",
+    "id": "514129449617350656",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 34,
+                "probability": 0.6103,
+                "type": "Other",
+                "normalized_text": "hocus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531",
+    "source": "Twitter for iPhone"
+}

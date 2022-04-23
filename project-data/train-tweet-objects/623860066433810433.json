@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-07-22T14:20:05.000Z",
+    "text": "@olretiree @JayCaruso @chrizzy100 Obama's speech there yesterday was total pandering. I saw pictures where vets turned their back on him.",
+    "id": "623860066433810433",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.9972,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "olretiree",
+                "id": "64072619"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "JayCaruso",
+                "id": "11616202"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "64072619"
+}

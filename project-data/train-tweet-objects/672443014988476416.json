@@ -1,0 +1,30 @@
+{
+    "created_at": "2015-12-03T15:51:22.000Z",
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 42,
+                "tag": "MoreObamaLies"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "JohnRLottJr",
+                "id": "539566673"
+            }
+        ]
+    },
+    "id": "672443014988476416",
+    "text": "@IngrahamAngle @JohnRLottJr #MoreObamaLies",
+    "in_reply_to_user_id": "50769180"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 28,
+                "end": 41,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 54,
+                "probability": 0.9966,
+                "type": "Person",
+                "normalized_text": "Wesley Lowery"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @MomMilkshake @brianstelter Wesley Lowery seeking credible reporting? ROTFLMAO!!!",
+    "id": "538859882053910529",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:59:42.000Z"
+}

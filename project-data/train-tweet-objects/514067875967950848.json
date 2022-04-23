@@ -1,0 +1,23 @@
+{
+    "id": "514067875967950848",
+    "in_reply_to_user_id": "61566960",
+    "source": "Twitter for Android",
+    "text": "@MarkinHD i was about to dig into my steak 😢 eww @DailyMail",
+    "created_at": "2014-09-22T15:05:07.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "MarkinHD",
+                "id": "61566960"
+            },
+            {
+                "start": 49,
+                "end": 59,
+                "username": "DailyMail",
+                "id": "380285402"
+            }
+        ]
+    }
+}

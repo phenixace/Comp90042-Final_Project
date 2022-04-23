@@ -1,0 +1,29 @@
+{
+    "id": "524984190522388482",
+    "in_reply_to_user_id": "428333",
+    "source": "Twitter for Android",
+    "text": "@cnnbrk RIP our thoughts n prayers r with u #Ottawa #Canada",
+    "created_at": "2014-10-22T18:02:39.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 51,
+                "tag": "Ottawa"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "tag": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    }
+}

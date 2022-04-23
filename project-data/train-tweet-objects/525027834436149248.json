@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "19038934",
+    "text": "@CBCAlerts @cbcnewsbc Saddened by this loss. A horrible day but our nation remains strong thanks to such brave souls.",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T20:56:04.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "cbcnewsbc",
+                "id": "17138582"
+            }
+        ]
+    },
+    "id": "525027834436149248"
+}

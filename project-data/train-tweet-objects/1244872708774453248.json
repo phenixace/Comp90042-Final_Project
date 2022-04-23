@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "278030569",
+    "created_at": "2020-03-31T06:22:37.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "misosusanowa",
+                "id": "278030569"
+            }
+        ]
+    },
+    "id": "1244872708774453248",
+    "text": "@misosusanowa And because he keeps saying things like that, there are still a lot of people that think that COVID-19 _is_ just like the flu. They are unable or unwilling to think about the numbers."
+}

@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 49,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 55,
+                "end": 62,
+                "probability": 0.904,
+                "type": "Organization",
+                "normalized_text": "Fox News"
+            },
+            {
+                "start": 102,
+                "end": 107,
+                "probability": 0.3151,
+                "type": "Person",
+                "normalized_text": "Sharia"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "251881119",
+    "created_at": "2015-12-12T01:49:23.000Z",
+    "id": "675492613076574208",
+    "source": "Twitter for iPhone",
+    "text": "@Maestrouzy this is very good news But I bet Trump and Fox News will start saying she is going to use Sharia law as her rulings"
+}

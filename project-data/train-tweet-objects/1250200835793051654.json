@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-14T23:14:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "professordarwin",
+                "id": "3497382434"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1250200835793051654",
+    "text": "@professordarwin Please tell me the location of the rock you live under. It sounds way nicer than the surface.",
+    "in_reply_to_user_id": "3497382434"
+}

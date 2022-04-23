@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "249340848",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 21,
+                "username": "SkyNews",
+                "id": "7587032"
+            }
+        ]
+    },
+    "id": "544308203044216832",
+    "created_at": "2014-12-15T01:49:23.000Z",
+    "text": "@nadia_ageli @SkyNews Thats is such a horrible thing to hear praying every one will be ok  ++++"
+}

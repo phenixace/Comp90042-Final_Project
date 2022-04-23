@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "DavidNelsonNews",
+                "id": "219937434"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "532349587387088896",
+    "created_at": "2014-11-12T01:50:06.000Z",
+    "in_reply_to_user_id": "219937434",
+    "text": "@DavidNelsonNews you got trolled....this same list was posted the other day claiming to be in a HS classroom"
+}

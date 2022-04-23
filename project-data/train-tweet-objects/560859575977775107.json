@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 38,
+                "probability": 0.91,
+                "type": "Person",
+                "normalized_text": "Bart"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-29T17:58:37.000Z",
+    "id": "560859575977775107",
+    "text": ".@BurgerKing No thanks.  My cousin Bart shit himself during an important business meeting."
+}

@@ -1,0 +1,23 @@
+{
+    "id": "673661015498883072",
+    "text": "@DRUDGE_REPORT @GayPatriot not SHOCKED, Muslim brotherhood!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "GayPatriot",
+                "id": "18244206"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-12-07T00:31:16.000Z"
+}

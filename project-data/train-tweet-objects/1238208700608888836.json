@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-12T21:02:13.000Z",
+    "in_reply_to_user_id": "73959923",
+    "source": "Twitter for iPhone",
+    "text": "@cahwerneck 🙏🏻🙏🏻🙏🏻 ah bom \nagora tá suave",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "cahwerneck",
+                "id": "73959923"
+            }
+        ]
+    },
+    "id": "1238208700608888836"
+}

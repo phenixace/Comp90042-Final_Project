@@ -1,0 +1,48 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-09T08:25:51.000Z",
+    "id": "1236931190369792000",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 31,
+                "end": 43,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 2,
+                "end": 6,
+                "probability": 0.5732,
+                "type": "Place",
+                "normalized_text": "Egypt"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "probability": 0.6781,
+                "type": "Place",
+                "normalized_text": "Africa"
+            },
+            {
+                "start": 112,
+                "end": 116,
+                "probability": 0.9725,
+                "type": "Place",
+                "normalized_text": "Egypt"
+            }
+        ],
+        "urls": [
+            {
+                "start": 136,
+                "end": 159,
+                "url": "https://t.co/Yt6WTugnod",
+                "expanded_url": "https://m.news24.com/Africa/News/tourist-in-egypt-becomes-first-confirmed-coronavirus-death-in-africa-20200309",
+                "display_url": "m.news24.com/Africa/News/to…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "- Egypt records Africa's first #coronavirus death\n- 60-year-old German tourist succumbed on Sunday\n- Arrived in Egypt about a week ago\n\nhttps://t.co/Yt6WTugnod"
+}

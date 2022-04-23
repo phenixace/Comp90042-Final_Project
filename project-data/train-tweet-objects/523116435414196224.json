@@ -1,0 +1,42 @@
+{
+    "source": "Plume for Android",
+    "id": "523116435414196224",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "probability": 0.9777,
+                "type": "Place",
+                "normalized_text": "Nigeria"
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "probability": 0.8891,
+                "type": "Person",
+                "normalized_text": "Boko Haram"
+            }
+        ],
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/qM5EpX2H1Z",
+                "expanded_url": "http://tmi.me/1eO4Vm",
+                "display_url": "tmi.me/1eO4Vm"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:20:51.000Z",
+    "text": "“@BBCBreaking Nigeria's military says truce agreed with militant group Boko Haram and abducted ... http://t.co/qM5EpX2H1Z"
+}

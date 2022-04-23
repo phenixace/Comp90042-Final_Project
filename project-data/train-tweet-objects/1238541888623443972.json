@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.9975,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "urls": [
+            {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/tIt1sTuuoI",
+                "expanded_url": "https://twitter.com/maddow/status/1238541888623443972/video/1",
+                "display_url": "pic.twitter.com/tIt1sTuuoI"
+            }
+        ]
+    },
+    "created_at": "2020-03-13T19:06:11.000Z",
+    "text": "A 68 second snapshot of how the Trump presidency will be remembered. https://t.co/tIt1sTuuoI",
+    "id": "1238541888623443972",
+    "source": "Twitter Web App"
+}

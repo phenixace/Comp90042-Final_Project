@@ -1,0 +1,35 @@
+{
+    "text": "@jgrovum @NBCNews Hey,  they're arresting whites??!! Now I'm getting pissed! #Ferguson #fb",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 86,
+                "tag": "Ferguson"
+            },
+            {
+                "start": 87,
+                "end": 90,
+                "tag": "fb"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "jgrovum",
+                "id": "16115811"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "id": "501791187557425152",
+    "source": "Twitter for Android",
+    "created_at": "2014-08-19T18:01:56.000Z",
+    "in_reply_to_user_id": "16115811"
+}

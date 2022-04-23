@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 53,
+                "end": 76,
+                "url": "https://t.co/KOc2aeqMu8",
+                "expanded_url": "https://twitter.com/x__mariah/status/1234721328072216576/photo/1",
+                "display_url": "pic.twitter.com/KOc2aeqMu8"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 52,
+                "tag": "Tuskegee_RYS20"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-03T06:04:39.000Z",
+    "id": "1234721328072216576",
+    "text": "Can I catch COVID-19 from my pets? \n\n#Tuskegee_RYS20 https://t.co/KOc2aeqMu8",
+    "in_reply_to_user_id": "373650008"
+}

@@ -1,0 +1,30 @@
+{
+    "created_at": "2014-10-31T18:32:59.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost @OmarShabbi they came back as justice is coming back\n#Taliban justice",
+    "id": "528253317374562304",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "OmarShabbi",
+                "id": "2563699940"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 69,
+                "end": 77,
+                "tag": "Taliban"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

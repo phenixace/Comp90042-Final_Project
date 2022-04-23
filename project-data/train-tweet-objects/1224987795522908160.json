@@ -1,0 +1,39 @@
+{
+    "text": "@ndmaindia @WHO A company in bangalore has developed a patented product to boost immunity against Coronavirus there published papers on it",
+    "created_at": "2020-02-05T09:27:04.000Z",
+    "id": "1224987795522908160",
+    "entities": {
+        "annotations": [
+            {
+                "start": 29,
+                "end": 37,
+                "probability": 0.9656,
+                "type": "Place",
+                "normalized_text": "bangalore"
+            },
+            {
+                "start": 98,
+                "end": 108,
+                "probability": 0.378,
+                "type": "Organization",
+                "normalized_text": "Coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "ndmaindia",
+                "id": "2611134289"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2611134289",
+    "source": "Twitter Web App"
+}

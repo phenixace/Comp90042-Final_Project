@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 143,
+                "end": 162,
+                "tag": "TakeResponsibility"
+            },
+            {
+                "start": 163,
+                "end": 179,
+                "tag": "GetItTogetherNG"
+            },
+            {
+                "start": 180,
+                "end": 194,
+                "tag": "GetIttogether"
+            },
+            {
+                "start": 195,
+                "end": 204,
+                "tag": "StaySafe"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "4876605003",
+    "text": "Pregnant women and women who have recently delivered – including those affected by COVID-19 - should attend their routine care appointments. \n\n#TakeResponsibility\n#GetItTogetherNG\n#GetIttogether\n#StaySafe",
+    "source": "Twitter Web App",
+    "created_at": "2020-03-31T19:17:22.000Z",
+    "id": "1245067684536029187"
+}

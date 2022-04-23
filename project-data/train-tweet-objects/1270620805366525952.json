@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "MaxDelvallee",
+                "id": "631664880"
+            }
+        ]
+    },
+    "text": "@MaxDelvallee Hi, thanks. It's a classic placebo-controlled randomized trial. We use moderate doses of both drugs (200 mg x2 HC). We have recruited 75 patients of 226 planned=33%. Right now few covid19 payients in DK, so asking sites in other countries.",
+    "id": "1270620805366525952",
+    "in_reply_to_user_id": "631664880",
+    "created_at": "2020-06-10T07:36:21.000Z"
+}

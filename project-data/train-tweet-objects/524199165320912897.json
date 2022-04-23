@@ -1,0 +1,30 @@
+{
+    "text": "TOO BAD - #TEAMROBBO @DailyMirror @BiancaJagger",
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag": "TEAMROBBO"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 21,
+                "end": 33,
+                "username": "DailyMirror",
+                "id": "16887175"
+            },
+            {
+                "start": 34,
+                "end": 47,
+                "username": "BiancaJagger",
+                "id": "122448174"
+            }
+        ]
+    },
+    "created_at": "2014-10-20T14:03:15.000Z",
+    "in_reply_to_user_id": "16887175",
+    "id": "524199165320912897"
+}

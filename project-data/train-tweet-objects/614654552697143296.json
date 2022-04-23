@@ -1,0 +1,23 @@
+{
+    "id": "614654552697143296",
+    "in_reply_to_user_id": "30767360",
+    "created_at": "2015-06-27T04:40:39.000Z",
+    "source": "Twitter for Android",
+    "text": "@ggonzalez03 @Newsweek Oh yeah how much rent do you pay?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "GGonzalez03",
+                "id": "1390150726727438343"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "Newsweek",
+                "id": "2884771"
+            }
+        ]
+    }
+}

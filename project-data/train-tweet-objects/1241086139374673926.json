@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 237,
+                "end": 260,
+                "url": "https://t.co/335x5x3kBm",
+                "expanded_url": "https://www.bbc.co.uk/news/business-51982005",
+                "display_url": "bbc.co.uk/news/business-…"
+            },
+            {
+                "start": 261,
+                "end": 284,
+                "url": "https://t.co/Grwi74MKRX",
+                "expanded_url": "https://twitter.com/simonwheatley/status/1241086139374673926/photo/1",
+                "display_url": "pic.twitter.com/Grwi74MKRX"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T19:36:08.000Z",
+    "in_reply_to_user_id": "4371541",
+    "source": "Twitter for iPhone",
+    "text": "Does this mean employers have to go through a redundancy process and then shout “Psych! Not really! Gonna get a government grant, but you’re taking a salary cut”? Again: what is the test for this? Really interested in the details here…\n\nhttps://t.co/335x5x3kBm https://t.co/Grwi74MKRX",
+    "id": "1241086139374673926"
+}

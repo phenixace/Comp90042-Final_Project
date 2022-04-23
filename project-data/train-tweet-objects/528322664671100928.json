@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-31T23:08:33.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 65,
+                "probability": 0.8841,
+                "type": "Other",
+                "normalized_text": "Halloween"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost This is too coincidental to publish on a Halloween day. I don't believe this article.",
+    "id": "528322664671100928",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 79,
+                "end": 102,
+                "url": "https://t.co/XJImWlY3j8",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            },
+            {
+                "start": 103,
+                "end": 126,
+                "url": "https://t.co/OOKb1WjyUI",
+                "expanded_url": "https://twitter.com/DepthAnesthesia/status/1249493080677507079/photo/1",
+                "display_url": "pic.twitter.com/OOKb1WjyUI"
+            }
+        ]
+    },
+    "created_at": "2020-04-13T00:22:19.000Z",
+    "source": "Twitter Web App",
+    "id": "1249493080677507079",
+    "text": "Here's another one fighting against the myth that garlic prevents infection. \n\nhttps://t.co/XJImWlY3j8 https://t.co/OOKb1WjyUI",
+    "in_reply_to_user_id": "1108443659173793792"
+}

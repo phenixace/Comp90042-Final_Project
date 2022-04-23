@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "carolinagirl63",
+                "id": "893856362"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "bartmckinley",
+                "id": "1356992605"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-11-19T22:23:30.000Z",
+    "text": "@carolinagirl63 @bartmckinley I thought he grew up here - am I mistaken?",
+    "in_reply_to_user_id": "893856362",
+    "id": "667468268396011521"
+}

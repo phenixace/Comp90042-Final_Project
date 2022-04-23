@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-23T20:54:10.000Z",
+    "id": "514518105910161408",
+    "text": "@KojiFox @MKBHD @UnboxTherapy looks like a LG Flex gone wrong",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "KojiFox",
+                "id": "605058099"
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "username": "MKBHD",
+                "id": "29873662"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "605058099"
+}

@@ -1,0 +1,17 @@
+{
+    "text": "@NBCNews And all of them were unjustified. Free speech is a RIGHT, not a ZONE.",
+    "id": "501769750322905089",
+    "source": "TweetDeck",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T16:36:45.000Z",
+    "in_reply_to_user_id": "14173315"
+}

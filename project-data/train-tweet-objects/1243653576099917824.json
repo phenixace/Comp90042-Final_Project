@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "maDube_",
+                "id": "310514972"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "Mavhure",
+                "id": "123982938"
+            }
+        ]
+    },
+    "id": "1243653576099917824",
+    "text": "@maDube_ @Mavhure I have actually treated children with Covid",
+    "created_at": "2020-03-27T21:38:13.000Z",
+    "in_reply_to_user_id": "310514972"
+}

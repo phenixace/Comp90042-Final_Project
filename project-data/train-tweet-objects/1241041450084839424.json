@@ -1,0 +1,17 @@
+{
+    "id": "1241041450084839424",
+    "text": "Excellent. https://t.co/9XHsNRL0Xx",
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 11,
+                "end": 34,
+                "url": "https://t.co/9XHsNRL0Xx",
+                "expanded_url": "https://twitter.com/rosierawle/status/1241041450084839424/photo/1",
+                "display_url": "pic.twitter.com/9XHsNRL0Xx"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T16:38:33.000Z"
+}

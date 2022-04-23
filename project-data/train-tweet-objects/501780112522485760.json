@@ -1,0 +1,38 @@
+{
+    "text": "@NBCNews Are racists involved in attacking #FergusonPolice in an effort to exacerbate conditions in #Ferguson? http://t.co/mMgzzDFutR",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 43,
+                "end": 58,
+                "tag": "FergusonPolice"
+            },
+            {
+                "start": 100,
+                "end": 109,
+                "tag": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/mMgzzDFutR",
+                "expanded_url": "https://twitter.com/ProCentralists/status/501768083900334080/photo/1",
+                "display_url": "pic.twitter.com/mMgzzDFutR"
+            }
+        ]
+    },
+    "id": "501780112522485760",
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-19T17:17:56.000Z",
+    "in_reply_to_user_id": "14173315"
+}

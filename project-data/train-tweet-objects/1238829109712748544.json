@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1082694056839397376",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/sdYyrXB8c0",
+                "expanded_url": "https://twitter.com/SenatorBiaggi/status/1238829109712748544/photo/1",
+                "display_url": "pic.twitter.com/sdYyrXB8c0"
+            }
+        ]
+    },
+    "id": "1238829109712748544",
+    "created_at": "2020-03-14T14:07:30.000Z",
+    "text": ".@WHO FACT: UV lamps should not be used to sterilize hands or skin 6/ https://t.co/sdYyrXB8c0"
+}

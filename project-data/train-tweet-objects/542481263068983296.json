@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "PerezHilton",
+                "id": "19329393"
+            }
+        ]
+    },
+    "created_at": "2014-12-10T00:49:46.000Z",
+    "text": "@PerezHilton thank god!!! She should rot in there till she dies!!!",
+    "id": "542481263068983296",
+    "in_reply_to_user_id": "19329393",
+    "source": "Twitter for Android"
+}

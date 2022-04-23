@@ -1,0 +1,50 @@
+{
+    "id": "1240954653371781120",
+    "entities": {
+        "urls": [
+            {
+                "start": 200,
+                "end": 223,
+                "url": "https://t.co/WtmUH3roH3",
+                "expanded_url": "https://twitter.com/WHO/status/1240409217997189128/photo/1",
+                "display_url": "pic.twitter.com/WtmUH3roH3"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 56,
+                "tag": "ibuprofen"
+            },
+            {
+                "start": 88,
+                "end": 96,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "liofaber",
+                "id": "1249873999"
+            },
+            {
+                "start": 10,
+                "end": 26,
+                "username": "MinisteroSalute",
+                "id": "1904010924"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "username": "EMA_News",
+                "id": "116716199"
+            }
+        ]
+    },
+    "created_at": "2020-03-20T10:53:39.000Z",
+    "text": "@liofaber @MinisteroSalute @EMA_News Q: Could #ibuprofen worsen disease for people with #COVID19?\n\nA: Based on currently available information, WHO does not recommend against the use of of ibuprofen. https://t.co/WtmUH3roH3",
+    "in_reply_to_user_id": "1249873999",
+    "source": "Twitter for Android"
+}

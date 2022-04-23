@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1082694056839397376",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 113,
+                "end": 136,
+                "url": "https://t.co/uZySw7r7CE",
+                "expanded_url": "https://twitter.com/SenatorBiaggi/status/1238829817900011521/photo/1",
+                "display_url": "pic.twitter.com/uZySw7r7CE"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 97,
+                "end": 109,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1238829817900011521",
+    "created_at": "2020-03-14T14:10:19.000Z",
+    "text": ".@WHO FACT: thermal scanners are effective in detecting people who have developed a fever due to #coronavirus 7/ https://t.co/uZySw7r7CE"
+}

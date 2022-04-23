@@ -1,0 +1,46 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "544308033246220288",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 44,
+                "probability": 0.59,
+                "type": "Organization",
+                "normalized_text": "Twitter"
+            },
+            {
+                "start": 47,
+                "end": 49,
+                "probability": 0.9857,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 85,
+                "end": 94,
+                "probability": 0.9982,
+                "type": "Person",
+                "normalized_text": "Ted Turner"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "shayne571",
+                "id": "25890025"
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "username": "PzFeed",
+                "id": "810605923702079494"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25890025",
+    "created_at": "2014-12-15T01:48:42.000Z",
+    "text": "@shayne571 @PzFeed Thank goodness for Twitter! CNN has on a show about viral videos. Ted Turner needs to rescue his baby."
+}

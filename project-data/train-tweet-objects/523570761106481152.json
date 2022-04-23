@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 83,
+                "end": 89,
+                "probability": 0.6434,
+                "type": "Organization",
+                "normalized_text": "walmart"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SaveJobsGlobal",
+                "id": "944425148"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "YourAnonNews",
+                "id": "279390084"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "944425148",
+    "created_at": "2014-10-18T20:26:11.000Z",
+    "id": "523570761106481152",
+    "text": "@SaveJobsGlobal @YourAnonNews they prolly made 10gs that night in that store alone walmart throwing down 10k is like jay a throwing .25$ tip",
+    "source": "Twitter for iPhone"
+}

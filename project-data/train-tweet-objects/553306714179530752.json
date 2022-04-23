@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SpreadButter",
+                "id": "26643566"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "ItsJustJill",
+                "id": "15656004"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "26643566",
+    "created_at": "2015-01-08T21:46:15.000Z",
+    "text": "@SpreadButter @ItsJustJill - in cases like this I fully support the wearing of the burkha.",
+    "id": "553306714179530752",
+    "source": "Twitter for iPad"
+}

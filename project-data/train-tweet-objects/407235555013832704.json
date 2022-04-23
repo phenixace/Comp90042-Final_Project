@@ -1,0 +1,26 @@
+{
+    "text": "@Cosmopolitan RIP! God Bless his soul too young and too soon!",
+    "created_at": "2013-12-01T19:51:37.000Z",
+    "id": "407235555013832704",
+    "entities": {
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.6446,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "23482952",
+    "source": "Twitter Web Client"
+}

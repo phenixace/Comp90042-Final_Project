@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-27T02:23:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ainvvy",
+                "id": "14293240"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1276702664571514880",
+    "text": "@ainvvy The initial lockdown was used to build up hospital capacity and resources-ppes, medicines, beds, ventilators. I think, now the plan is to open it all and see what happens. Our country can't afford many lockdowns.",
+    "in_reply_to_user_id": "14293240"
+}

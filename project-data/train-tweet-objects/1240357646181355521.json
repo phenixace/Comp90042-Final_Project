@@ -1,0 +1,50 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 154,
+                "end": 177,
+                "url": "https://t.co/15MffGzjb4",
+                "expanded_url": "http://www.ochealthinfo.com/novel_coronavirus",
+                "display_url": "ochealthinfo.com/novel_coronavi…"
+            },
+            {
+                "start": 235,
+                "end": 258,
+                "url": "https://t.co/oMogTNPbfo",
+                "expanded_url": "https://twitter.com/OCDAToddSpitzer/status/1240357646181355521/photo/1",
+                "display_url": "pic.twitter.com/oMogTNPbfo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 181,
+                "end": 194,
+                "username": "ochealthinfo",
+                "id": "11779232"
+            },
+            {
+                "start": 195,
+                "end": 202,
+                "username": "CDCgov",
+                "id": "146569971"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 203,
+                "end": 211,
+                "tag": "COVID19"
+            },
+            {
+                "start": 212,
+                "end": 234,
+                "tag": "OCDAInformationUpdate"
+            }
+        ]
+    },
+    "created_at": "2020-03-18T19:21:22.000Z",
+    "id": "1240357646181355521",
+    "source": "Twitter for iPhone",
+    "text": "What are the symptoms of COVID-19?\nCurrent symptoms reported have included mild to severe raspatory illness with fever, cough, and difficulty breathing.\n(https://t.co/15MffGzjb4)\n \n@ochealthinfo @CDCgov #COVID19 #OCDAInformationUpdate https://t.co/oMogTNPbfo"
+}

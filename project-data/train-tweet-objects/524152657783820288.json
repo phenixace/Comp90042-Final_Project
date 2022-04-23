@@ -1,0 +1,34 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 97,
+                "end": 119,
+                "url": "http://t.co/kEQY26G3Vx",
+                "expanded_url": "http://nationalreport.net/banksy-arrested-identity-revealed/",
+                "display_url": "nationalreport.net/banksy-arreste…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 40,
+                "probability": 0.9753,
+                "type": "Place",
+                "normalized_text": "London"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 124,
+                "end": 131,
+                "username": "wpusta",
+                "id": "172615153"
+            }
+        ]
+    },
+    "text": "Graffiti Artist Banksy Arrested In London; Identity Revealed - National Report | National Report http://t.co/kEQY26G3Vx via @wpusta",
+    "source": "Twitter for Android",
+    "created_at": "2014-10-20T10:58:26.000Z",
+    "id": "524152657783820288"
+}

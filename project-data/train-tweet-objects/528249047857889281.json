@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-31T18:16:02.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 56,
+                "probability": 0.9707,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/sDGD6hlg04",
+                "expanded_url": "http://wapo.st/1wQy4Rk",
+                "display_url": "wapo.st/1wQy4Rk"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/IfumGn1Vqg",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528237933661544448/photo/1",
+                "display_url": "pic.twitter.com/IfumGn1Vqg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 7,
+                "end": 22,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "ohai RT@washingtonpost:Fanged deer pops up in Afghanistan, 60 yrs after its last appearance http://t.co/sDGD6hlg04 http://t.co/IfumGn1Vqg",
+    "id": "528249047857889281",
+    "source": "Talon (Classic)"
+}

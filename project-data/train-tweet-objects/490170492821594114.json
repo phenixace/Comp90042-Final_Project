@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-07-18T16:25:27.000Z",
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 41,
+                "tag": "MH17"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "id": "490170492821594114",
+    "text": "@mashable Not if the route flown by #MH17 was a safe route. The same route was used by other airlines until yesterday",
+    "in_reply_to_user_id": "972651"
+}

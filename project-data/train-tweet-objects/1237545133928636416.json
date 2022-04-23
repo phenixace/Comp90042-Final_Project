@@ -1,0 +1,25 @@
+{
+    "in_reply_to_user_id": "822570512",
+    "entities": {
+        "urls": [
+            {
+                "start": 223,
+                "end": 246,
+                "url": "https://t.co/IXpTh4oRt4",
+                "expanded_url": "https://twitter.com/sattykrosse/status/1237545133928636416/photo/1",
+                "display_url": "pic.twitter.com/IXpTh4oRt4"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 215,
+                "end": 222,
+                "tag": "Corona"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-03-11T01:05:27.000Z",
+    "text": "8. Thermal scanners are effective in detecting people who have developed a fever  because of infection with the new coronavirus. However, they cannot detect people who are infected but are not yet sick with fever. \n#Corona https://t.co/IXpTh4oRt4",
+    "id": "1237545133928636416"
+}

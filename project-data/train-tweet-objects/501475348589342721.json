@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-08-18T21:06:54.000Z",
+    "id": "501475348589342721",
+    "text": "@realDonaldTrump atravesty",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

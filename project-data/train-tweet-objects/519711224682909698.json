@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 42,
+                "probability": 0.9936,
+                "type": "Person",
+                "normalized_text": "Stephen Collins"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/gtBqRGdAX2",
+                "expanded_url": "http://dlvr.it/77jG2r",
+                "display_url": "dlvr.it/77jG2r"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 26,
+                "username": "TMZ",
+                "id": "16331010"
+            }
+        ]
+    },
+    "created_at": "2014-10-08T04:49:46.000Z",
+    "in_reply_to_user_id": "16331010",
+    "source": "Twitter for iPhone",
+    "text": "Omg false alarm? Lol “@TMZ: Stephen Collins -- Cops Swarm Home After Suicide Report ... False Alarm http://t.co/gtBqRGdAX2”",
+    "id": "519711224682909698"
+}

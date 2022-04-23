@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-07T09:01:26.000Z",
+    "id": "1236215368328318977",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag": "Coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 163,
+                "end": 186,
+                "url": "https://t.co/58sKdXCTM4",
+                "expanded_url": "https://www.youtube.com/watch?v=OZcRD9fV7jo&feature=emb_title",
+                "display_url": "youtube.com/watch?v=OZcRD9…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "@WHO Q &amp; A on #Coronavirus\n\n- What is a coronavirus?\n- Where do coronaviruses come from?\n- How can I protect myself from a coronavirus?\n- Is there treatment?\n\nhttps://t.co/58sKdXCTM4"
+}

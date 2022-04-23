@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-27T04:55:32.000Z",
+    "id": "504492386127327232",
+    "text": "@Sportsnet @MattSchewe Las Vegas lynx?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "MattSchewe",
+                "id": "1494249936"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

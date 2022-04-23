@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 118,
+                "tag": "sydneysiege"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/xheuclMCmj",
+                "expanded_url": "http://dailym.ai/1wzJFSs",
+                "display_url": "dailym.ai/1wzJFSs",
+                "status": 200,
+                "unwound_url": "https://www.dailymail.co.uk/news/article-2873855/Gunman-takes-hostages-cafe-Sydney.html"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "id": "544514564407427072",
+    "text": "Police seem relaxed, suggesting all hostages are out and gunman no longer a threat http://t.co/xheuclMCmj #sydneysiege",
+    "created_at": "2014-12-15T15:29:23.000Z"
+}

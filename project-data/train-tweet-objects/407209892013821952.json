@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 16,
+                "probability": 0.9165,
+                "type": "Person",
+                "normalized_text": "Roger Rodas"
+            },
+            {
+                "start": 40,
+                "end": 50,
+                "probability": 0.9938,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/ZNMEeJtfGu",
+                "expanded_url": "https://twitter.com/LiamOfficiial/status/407198615137181696/photo/1",
+                "display_url": "pic.twitter.com/ZNMEeJtfGu"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 83,
+                "end": 97,
+                "tag": "RIPPaulWalker"
+            },
+            {
+                "start": 99,
+                "end": 113,
+                "tag": "RIPRogerRodas"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T18:09:38.000Z",
+    "id": "407209892013821952",
+    "text": "R.I.P Roger Rodas the man who died with Paul Walker that everybody forgot about..\n\n#RIPPaulWalker \n#RIPRogerRodas http://t.co/ZNMEeJtfGu"
+}

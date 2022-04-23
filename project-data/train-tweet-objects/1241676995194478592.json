@@ -1,0 +1,32 @@
+{
+    "text": "How do we prevent the spread of COVID-19? https://t.co/SPrBhepgXy",
+    "id": "1241676995194478592",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-22T10:43:59.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/SPrBhepgXy",
+                "expanded_url": "https://twitter.com/porkvest/status/1241676995194478592/photo/1",
+                "display_url": "pic.twitter.com/SPrBhepgXy"
+            },
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/SPrBhepgXy",
+                "expanded_url": "https://twitter.com/porkvest/status/1241676995194478592/photo/1",
+                "display_url": "pic.twitter.com/SPrBhepgXy"
+            },
+            {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/SPrBhepgXy",
+                "expanded_url": "https://twitter.com/porkvest/status/1241676995194478592/photo/1",
+                "display_url": "pic.twitter.com/SPrBhepgXy"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1180243068852883457"
+}

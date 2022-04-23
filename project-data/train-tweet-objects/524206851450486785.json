@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 11,
+                "tag": "Banksy"
+            }
+        ],
+        "urls": [
+            {
+                "start": 34,
+                "end": 56,
+                "url": "http://t.co/jLVSb6jxAJ",
+                "expanded_url": "http://fw.to/OJ7SPrb",
+                "display_url": "fw.to/OJ7SPrb"
+            },
+            {
+                "start": 57,
+                "end": 79,
+                "url": "http://t.co/IzX7ON3hE8",
+                "expanded_url": "https://twitter.com/TelegraphNews/status/524206851450486785/photo/1",
+                "display_url": "pic.twitter.com/IzX7ON3hE8"
+            }
+        ]
+    },
+    "text": "No, #Banksy has not been arrested http://t.co/jLVSb6jxAJ http://t.co/IzX7ON3hE8",
+    "created_at": "2014-10-20T14:33:47.000Z",
+    "id": "524206851450486785",
+    "source": "TweetDeck"
+}

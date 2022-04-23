@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "CapehartJ",
+                "id": "97474887"
+            },
+            {
+                "start": 25,
+                "end": 38,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @CapehartJ @brianstelter Yeah right, networks don't pay 4 interviews but it's a shell game, pay for use of images instead",
+    "id": "538902856116355072",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T03:50:27.000Z"
+}

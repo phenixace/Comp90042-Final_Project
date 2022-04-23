@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T18:56:51.000Z",
+    "text": "@AP Do the people of such a great nation need to be drinking beer?",
+    "id": "554351248153923584",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter for iPad"
+}

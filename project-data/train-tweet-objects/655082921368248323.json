@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 19,
+                "end": 30,
+                "username": "signguy999",
+                "id": "632785985"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 37,
+                "end": 52,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 53,
+                "end": 67,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "632785985",
+    "created_at": "2015-10-16T18:08:33.000Z",
+    "id": "655082921368248323",
+    "text": "Exit stage left RT @signguy999: @CNN @HillaryClinton @BernieSanders a socialist &amp;amp; a criminal walk into a bar...who pays?",
+    "source": "RedScareBot"
+}

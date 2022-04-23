@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-11-19T03:20:46.000Z",
+    "text": "@OfficiaITMZNews @ForeignGAWDESS @KylieJenner @Tyga jail time 😂😂😂😂",
+    "id": "534909116272345089",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "OfficiaITMZNews",
+                "id": "2422621896"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "ForeignGawdess",
+                "id": "1015636328"
+            },
+            {
+                "start": 33,
+                "end": 45,
+                "username": "KylieJenner",
+                "id": "236699098"
+            },
+            {
+                "start": 46,
+                "end": 51,
+                "username": "Tyga",
+                "id": "22733444"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2422621896"
+}

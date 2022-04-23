@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-19T05:33:47.000Z",
+    "text": "The new coronavirus CANNOT be transmitted through mosquito bites.\nSource: @WHO https://t.co/TUAjiWRBfi",
+    "entities": {
+        "urls": [
+            {
+                "start": 79,
+                "end": 102,
+                "url": "https://t.co/TUAjiWRBfi",
+                "expanded_url": "https://twitter.com/YoungIndiaFDN/status/1240511766041223169/photo/1",
+                "display_url": "pic.twitter.com/TUAjiWRBfi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 74,
+                "end": 78,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "id": "1240511766041223169"
+}

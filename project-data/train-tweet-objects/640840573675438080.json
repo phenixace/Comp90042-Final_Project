@@ -1,0 +1,24 @@
+{
+    "created_at": "2015-09-07T10:54:33.000Z",
+    "id": "640840573675438080",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 15,
+                "end": 32,
+                "tag": "broinsafmaingame"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "HairieShahrin",
+                "id": "244903519"
+            }
+        ]
+    },
+    "text": "@HairieShahrin #broinsafmaingame",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "244903519"
+}

@@ -1,0 +1,37 @@
+{
+    "created_at": "2014-09-23T15:09:22.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/1WRpAnZI7e",
+                "expanded_url": "http://www.cp24.com/world/police-officers-deliver-the-pie-after-pizza-hut-driver-injured-in-crash-1.2020115#ixzz3E9Hwxwsf",
+                "display_url": "cp24.com/world/police-o…",
+                "status": 200,
+                "unwound_url": "https://www.cp24.com/world/police-officers-deliver-the-pie-after-pizza-hut-driver-injured-in-crash-1.2020115"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 76,
+                "end": 84,
+                "probability": 0.7605,
+                "type": "Organization",
+                "normalized_text": "Pizza Hut"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 36,
+                "username": "CP24",
+                "id": "19636948"
+            }
+        ]
+    },
+    "id": "514431336057430016",
+    "text": "Not a pun attempt. Literally. “@CP24: Police officers deliver the pie after Pizza Hut driver injured in crash http://t.co/1WRpAnZI7e”",
+    "in_reply_to_user_id": "19636948"
+}

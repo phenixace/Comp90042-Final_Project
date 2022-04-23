@@ -1,0 +1,38 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @brianstelter @realDonaldTrump Hah! Awesome - He has the BALLS to admit it while Barry wears his conceit on his shirt sleeve.",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 86,
+                "end": 90,
+                "probability": 0.9898,
+                "type": "Person",
+                "normalized_text": "Barry"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "username": "brianstelter",
+                "id": "14515799"
+            },
+            {
+                "start": 19,
+                "end": 35,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "created_at": "2015-10-10T16:31:30.000Z",
+    "id": "652884168536256512"
+}

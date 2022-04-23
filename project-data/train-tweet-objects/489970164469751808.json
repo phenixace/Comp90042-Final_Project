@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 62,
+                "end": 67,
+                "tag": "MH17"
+            }
+        ],
+        "urls": [
+            {
+                "start": 68,
+                "end": 90,
+                "url": "http://t.co/MjswmQhwI8",
+                "expanded_url": "http://www.theage.com.au/world/malaysia-airlines-flight-mh17-shot-down-over-ukraine-near-russian-border-20140718-3c4nl.html",
+                "display_url": "theage.com.au/world/malaysia…"
+            },
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/1bP78hLPBH",
+                "expanded_url": "https://twitter.com/tommckendrick/status/489970164469751808/photo/1",
+                "display_url": "pic.twitter.com/1bP78hLPBH"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 49,
+                "end": 56,
+                "username": "theage",
+                "id": "32201814"
+            },
+            {
+                "start": 57,
+                "end": 61,
+                "username": "smh",
+                "id": "16675569"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "text": "Current passenger breakdown by nationality - via @theage @smh #MH17 http://t.co/MjswmQhwI8 http://t.co/1bP78hLPBH",
+    "created_at": "2014-07-18T03:09:25.000Z",
+    "id": "489970164469751808"
+}

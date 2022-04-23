@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-31T18:54:52.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 59,
+                "end": 69,
+                "probability": 0.9661,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/mxw0LSugRn",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528237933661544448/photo/1",
+                "display_url": "pic.twitter.com/mxw0LSugRn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 34,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 15,
+                "tag": "HappyHalloween"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "#HappyHalloween RT @washingtonpost: Fanged deer pops up in Afghanistan, 60 years after its last appearance http://t.co/mxw0LSugRn",
+    "id": "528258820670496768",
+    "source": "Twitter for Android"
+}

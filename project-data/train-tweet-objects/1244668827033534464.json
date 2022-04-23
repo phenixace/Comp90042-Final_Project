@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-30T16:52:27.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BWGovernment",
+                "id": "316291124"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1244668827033534464",
+    "text": "@BWGovernment @WHO Any update on the corona virus tests so far ?",
+    "in_reply_to_user_id": "316291124"
+}

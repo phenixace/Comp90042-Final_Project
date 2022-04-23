@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-17T21:46:32.000Z",
+    "text": "The f-king idiots are out in full mode everywhere. https://t.co/twX2bZErcZ",
+    "id": "1251265813958602755",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 51,
+                "end": 74,
+                "url": "https://t.co/twX2bZErcZ",
+                "expanded_url": "https://twitter.com/ErikSandoval/status/1251227129716539393",
+                "display_url": "twitter.com/ErikSandoval/s…"
+            }
+        ]
+    }
+}

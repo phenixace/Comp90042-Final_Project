@@ -1,0 +1,34 @@
+{
+    "id": "524976526891417600",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 44,
+                "probability": 0.5565,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "probability": 0.9972,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/q98AMohu7T",
+                "expanded_url": "http://bit.ly/ZNPRdO",
+                "display_url": "bit.ly/ZNPRdO",
+                "unwound_url": "http://cnnworldlive.cnn.com/Event/Canada_Shooting"
+            }
+        ]
+    },
+    "text": "The Canadian soldier shot at the War Memorial in Ottawa has died, according to two members of Parliament. Live blog: http://t.co/q98AMohu7T",
+    "created_at": "2014-10-22T17:32:12.000Z"
+}

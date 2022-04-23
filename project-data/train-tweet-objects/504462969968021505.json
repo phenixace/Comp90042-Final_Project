@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27T02:58:39.000Z",
+    "id": "504462969968021505",
+    "text": "@Sportsnet Slot machines and hockey. What a combination lol Is this a joke?\nWhy not another Canadian team?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "21660529"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "537913349338435584",
+    "source": "Twitter for Android",
+    "text": "This young woman was shot with a nerf bullet by a #Ferguson police officer, she lost her eye.  http://t.co/Gwz0wnuRX7",
+    "created_at": "2014-11-27T10:18:31.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 59,
+                "tag": "Ferguson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/Gwz0wnuRX7",
+                "expanded_url": "https://twitter.com/Meet_Nallah/status/537670019925422080/photo/1",
+                "display_url": "pic.twitter.com/Gwz0wnuRX7"
+            }
+        ]
+    }
+}

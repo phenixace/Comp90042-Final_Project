@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-05-21T09:56:57.000Z",
+    "in_reply_to_user_id": "1571502440",
+    "text": "@universalpics_  I really wish we had pictures showing 85% of deforested European lands by the late 1400's!!",
+    "id": "601325801850556416",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "UniversalPics_",
+                "id": "1272614882337345540"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)"
+}

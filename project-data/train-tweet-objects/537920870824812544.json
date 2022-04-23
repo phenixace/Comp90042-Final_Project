@@ -1,0 +1,17 @@
+{
+    "id": "537920870824812544",
+    "in_reply_to_user_id": "215598844",
+    "source": "Twitter for Android",
+    "text": "@LeftSentThis What the fuck is a 'nerf bullet'?",
+    "created_at": "2014-11-27T10:48:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeftSentThis",
+                "id": "215598844"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-11-23T13:14:20.000Z",
+    "text": "@BuzzFeedUK @OwensDamien Either Lego were a bunch of amateurs in the 70s of this is a fake.  My money's on fake.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "OwensDamien",
+                "id": "67725191"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 35,
+                "probability": 0.2207,
+                "type": "Organization",
+                "normalized_text": "Lego"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536508046936387584",
+    "source": "Twitter Web Client"
+}

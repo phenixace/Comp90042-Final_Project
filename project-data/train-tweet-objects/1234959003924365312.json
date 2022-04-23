@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "999073224834015235",
+    "entities": {
+        "urls": [
+            {
+                "start": 120,
+                "end": 143,
+                "url": "https://t.co/oc0qSAZhYp",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "detox_purple",
+                "id": "1138301816540499970"
+            }
+        ]
+    },
+    "created_at": "2020-03-03T21:49:05.000Z",
+    "id": "1234959003924365312",
+    "text": "@detox_purple As we collect more data, this will be updated. No one knows the final answer, but consensus is 1-14 day!\n\nhttps://t.co/oc0qSAZhYp"
+}

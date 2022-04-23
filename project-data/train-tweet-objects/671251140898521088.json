@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-11-30T08:55:17.000Z",
+    "text": "@Bipartisanism Sorry, Ted. RWNJ ENCOURAGED By LIES Put Out By FOX n Repeated By U n GOP Candidates Get ALL CREDIT 4 This. BLOOD ON UR HANDS!",
+    "id": "671251140898521088",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Bipartisanism",
+                "id": "487600344"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 24,
+                "probability": 0.8769,
+                "type": "Person",
+                "normalized_text": "Ted"
+            },
+            {
+                "start": 84,
+                "end": 86,
+                "probability": 0.7115,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "487600344"
+}

@@ -1,0 +1,26 @@
+{
+    "text": "@RealJohnBravo @Nzallblack Who do I look like....Christopher Columbo??",
+    "id": "501784990901100544",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealJohnBravo",
+                "id": "3372249734"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 67,
+                "probability": 0.9831,
+                "type": "Person",
+                "normalized_text": "Christopher Columbo"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T17:37:19.000Z",
+    "in_reply_to_user_id": "1109386315"
+}

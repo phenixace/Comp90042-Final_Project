@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-01T17:23:21.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1234167355221004289",
+    "text": "@LacyFCorbett1 @LanceMBerland @ZubyMusic Q: What is a novel coronavirus? \n\nA: A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "LacyFCorbett1",
+                "id": "1224294595376439296"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "LanceMBerland",
+                "id": "1173759590015602688"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "username": "ZubyMusic",
+                "id": "57441414"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1224294595376439296"
+}

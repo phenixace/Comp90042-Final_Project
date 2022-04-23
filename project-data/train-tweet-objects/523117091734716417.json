@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for  Android",
+    "id": "523117091734716417",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 35,
+                "probability": 0.9248,
+                "type": "Person",
+                "normalized_text": "Gen Buhari"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:23:28.000Z",
+    "text": "@BBCBreaking  \nin fear of Gen Buhari's declaration; the crooks are starting another deception"
+}

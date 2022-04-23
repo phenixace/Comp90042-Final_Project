@@ -1,0 +1,58 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-13T02:53:59.000Z",
+    "id": "1249531246679482368",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "kirstenjoyweiss",
+                "id": "1432148730807918592"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "MattFabrication",
+                "id": "2855207114"
+            },
+            {
+                "start": 34,
+                "end": 45,
+                "username": "prestone85",
+                "id": "2369887531"
+            },
+            {
+                "start": 46,
+                "end": 55,
+                "username": "ldsknack",
+                "id": "1394124170951282690"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 76,
+                "probability": 0.9392,
+                "type": "Other",
+                "normalized_text": "God"
+            },
+            {
+                "start": 116,
+                "end": 120,
+                "probability": 0.9436,
+                "type": "Person",
+                "normalized_text": "Jesus"
+            },
+            {
+                "start": 176,
+                "end": 181,
+                "probability": 0.4784,
+                "type": "Other",
+                "normalized_text": "Christ"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1181055570",
+    "text": "@Kirstenjoyweiss @MattFabrication @prestone85 @ldsknack It’s an insult to God almighty to not take Him at his word. Jesus said “It Is Finished”. There is no other testament of Christ."
+}

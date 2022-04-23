@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "1944929960",
+    "text": "@GlennHarrisRytr @CNN @realDonaldTrump best.tweet.ever.💯👊🏼😁",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-10-10T16:28:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "GlennHarrisRytr",
+                "id": "1944929960"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 22,
+                "end": 38,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "id": "652883505970442241"
+}

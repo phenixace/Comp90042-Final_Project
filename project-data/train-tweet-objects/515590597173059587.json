@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "id": "515590597173059587",
+    "entities": {
+        "annotations": [
+            {
+                "start": 89,
+                "end": 91,
+                "probability": 0.96,
+                "type": "Organization",
+                "normalized_text": "DOJ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TwitchyTeam",
+                "id": "469194846"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "prfekrdumbrella",
+                "id": "209941571"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "469194846",
+    "created_at": "2014-09-26T19:55:52.000Z",
+    "text": "@TwitchyTeam @prfekrdumbrella I'll just bet the women he attacked were white. But if the DOJ is involved it's work place violence."
+}

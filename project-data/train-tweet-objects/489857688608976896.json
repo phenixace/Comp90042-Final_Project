@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-07-17T19:42:28.000Z",
+    "id": "489857688608976896",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChrisDYork",
+                "id": "227423066"
+            }
+        ],
+        "urls": [
+            {
+                "start": 12,
+                "end": 34,
+                "url": "http://t.co/AodBcyHRn7",
+                "expanded_url": "http://www.youtube.com/watch?v=V5E8kDo2n6g&feature=youtu.be",
+                "display_url": "youtube.com/watch?v=V5E8kD…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "227423066",
+    "text": "@ChrisDYork http://t.co/AodBcyHRn7"
+}

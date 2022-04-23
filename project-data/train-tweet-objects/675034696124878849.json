@@ -1,0 +1,35 @@
+{
+    "id": "675034696124878849",
+    "text": "Obama says \"Fuck the Constitution!\" will bypass Congress, use executive order to strip you of 2A rights @AP_Politics https://t.co/EEhsHUKfDY",
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "probability": 0.9964,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 104,
+                "end": 116,
+                "username": "AP_Politics",
+                "id": "426802833"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 140,
+                "url": "https://t.co/EEhsHUKfDY",
+                "expanded_url": "https://twitter.com/LeftyBollocks/status/675034696124878849/photo/1",
+                "display_url": "pic.twitter.com/EEhsHUKfDY"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "426802833",
+    "created_at": "2015-12-10T19:29:47.000Z"
+}

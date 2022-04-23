@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-06-27T02:06:55.000Z",
+    "text": "@FoxNews. I'll be so glad when he's out.",
+    "id": "614615863421878274",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

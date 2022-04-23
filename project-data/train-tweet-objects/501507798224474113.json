@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 83,
+                "probability": 0.8752,
+                "type": "Person",
+                "normalized_text": "Americans"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-18T23:15:51.000Z",
+    "id": "501507798224474113",
+    "text": "@realDonaldTrump @lynn9353 No one wanted that SOB in attendance, only real Americans were welcome",
+    "in_reply_to_user_id": "25073877"
+}

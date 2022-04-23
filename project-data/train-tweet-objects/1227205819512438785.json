@@ -1,0 +1,39 @@
+{
+    "text": "@WHOWPRO @WHO Q: Does #2019nCoV spread through the air (e.g. through air conditioning or via e-cigarette emissions)?\n\nA: Current evidence suggests the new coronavirus spreads primarily through close contact with an infected person or the droplets released when they cough or sneeze. https://t.co/6gyFW07dkf",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 283,
+                "end": 306,
+                "url": "https://t.co/6gyFW07dkf",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1227205819512438785/photo/1",
+                "display_url": "pic.twitter.com/6gyFW07dkf"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 22,
+                "end": 31,
+                "tag": "2019nCoV"
+            }
+        ]
+    },
+    "id": "1227205819512438785",
+    "created_at": "2020-02-11T12:20:42.000Z",
+    "in_reply_to_user_id": "2218026914"
+}

@@ -1,0 +1,29 @@
+{
+    "text": "@SamCraggsCBC So..... Now we have documentation that Main St, a oneway 5 LANE freeway, results in a higher rate of collisions, injuries and fatalities. When can we expect city council to start making changes to improve safety, slow down vehicles and save lives? @cityofhamilton @FredEisenberger",
+    "id": "1273396772036100096",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "SamCraggsCBC",
+                "id": "496508829"
+            },
+            {
+                "start": 262,
+                "end": 277,
+                "username": "cityofhamilton",
+                "id": "44699893"
+            },
+            {
+                "start": 278,
+                "end": 294,
+                "username": "FredEisenberger",
+                "id": "171343229"
+            }
+        ]
+    },
+    "created_at": "2020-06-17T23:27:03.000Z",
+    "in_reply_to_user_id": "496508829"
+}

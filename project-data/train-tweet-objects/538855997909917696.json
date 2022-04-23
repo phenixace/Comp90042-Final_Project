@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            }
+        ]
+    },
+    "text": "@WesleyLowery: agreed. news, as you know, doesn't pay for interviews.  But there are other, more oblique ways subjects are compensated",
+    "id": "538855997909917696",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T00:44:16.000Z"
+}

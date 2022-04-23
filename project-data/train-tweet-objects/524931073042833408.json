@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "id": "524931073042833408",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 67,
+                "probability": 0.7164,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "CBCTheNational",
+                "id": "24000965"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "CBCRadioCanada",
+                "id": "70964484"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "24000965",
+    "created_at": "2014-10-22T14:31:35.000Z",
+    "text": "@CBCTheNational @CBCRadioCanada 30 shots reported on Parliament Hill."
+}

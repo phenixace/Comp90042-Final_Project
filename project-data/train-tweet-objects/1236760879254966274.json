@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-08T21:09:06.000Z",
+    "id": "1236760879254966274",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 70,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/PYn3ixSd46",
+                "expanded_url": "https://twitter.com/africanews/status/1236326223539777536?s=19",
+                "display_url": "twitter.com/africanews/sta…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "African countries issue tougher travel guidelines as more #coronavirus cases are confirmed on the continent.\n\nhttps://t.co/PYn3ixSd46"
+}

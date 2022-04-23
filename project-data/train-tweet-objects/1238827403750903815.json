@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 237,
+                "end": 241,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 246,
+                "end": 269,
+                "url": "https://t.co/H8EAmEFtKH",
+                "expanded_url": "https://twitter.com/SenatorBiaggi/status/1238827403750903815/photo/1",
+                "display_url": "pic.twitter.com/H8EAmEFtKH"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 126,
+                "tag": "CoronavirusOutbreak"
+            }
+        ]
+    },
+    "created_at": "2020-03-14T14:00:44.000Z",
+    "text": "THREAD: There have been a lot of misconceptions swirling around about what is or isn’t true regarding the #CoronavirusOutbreak.\n\nAlways check with trusted sources and medical experts. Here are some myth-busters on COVID-19 directly from @WHO 👇1/ https://t.co/H8EAmEFtKH",
+    "id": "1238827403750903815",
+    "source": "Twitter for iPhone"
+}

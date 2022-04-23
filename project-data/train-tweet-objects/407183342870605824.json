@@ -1,0 +1,24 @@
+{
+    "text": "@HuffingtonPost  So Sad... #RIPPaulWalker",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 27,
+                "end": 41,
+                "tag": "RIPPaulWalker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "id": "407183342870605824",
+    "source": "Twitter Web App",
+    "created_at": "2013-12-01T16:24:08.000Z",
+    "in_reply_to_user_id": "14511951"
+}

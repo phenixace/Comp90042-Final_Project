@@ -1,0 +1,59 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 11,
+                "username": "pedvr",
+                "id": "33286822"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 31,
+                "end": 42,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 52,
+                "end": 60,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 61,
+                "end": 69,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-03-14T17:37:26.000Z",
+    "id": "1238881938833920008",
+    "text": "@WHO @pedvr @WHOEMRO @WHOSEARO @WHO_Europe @WHOWPRO @pahowho @WHOAFRO What happened to a simple nod? Needs no unnecessary hand movements or activity...",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-15T03:04:05.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMailAU",
+                "id": "1960878613"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "MailOnline",
+                "id": "15438913"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "544327005471526912",
+    "text": "@DailyMailAU @MailOnline  Looks like clean sniper shot.  Should have take him out.  Pigs, scum, low life losers.  All terrorists are evil.",
+    "in_reply_to_user_id": "1960878613"
+}

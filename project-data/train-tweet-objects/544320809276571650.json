@@ -1,0 +1,17 @@
+{
+    "text": "@AP Australian Govt language specialists defined these words as all-encompassing meaning any action perpetrated against Australian citizens",
+    "created_at": "2014-12-15T02:39:28.000Z",
+    "id": "544320809276571650",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter Web Client"
+}

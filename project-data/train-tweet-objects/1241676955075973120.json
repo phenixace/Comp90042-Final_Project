@@ -1,0 +1,18 @@
+{
+    "text": "How does COVID-19 spread? https://t.co/xVWhH8wtQV",
+    "id": "1241676955075973120",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-22T10:43:49.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/xVWhH8wtQV",
+                "expanded_url": "https://twitter.com/porkvest/status/1241676955075973120/photo/1",
+                "display_url": "pic.twitter.com/xVWhH8wtQV"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1180243068852883457"
+}

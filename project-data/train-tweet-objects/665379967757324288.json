@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 20,
+                "end": 24,
+                "probability": 0.9919,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 68,
+                "end": 78,
+                "probability": 0.9302,
+                "type": "Place",
+                "normalized_text": "New Orleans"
+            }
+        ],
+        "urls": [
+            {
+                "start": 115,
+                "end": 138,
+                "url": "https://t.co/pKp3oBHenu",
+                "expanded_url": "http://theconservativetreehouse.com/2015/11/13/ironic-timing-today-first-load-of-10000-syrian-refugees-has-arrived-in-new-orleans-all-single-males-18-30-years-old/",
+                "display_url": "theconservativetreehouse.com/2015/11/13/iro…"
+            }
+        ]
+    },
+    "text": "Today First load of Obama's 10,000 Syrian “Refugees” Has Arrived in New Orleans – All Single Males 18-30 Years Old https://t.co/pKp3oBHenu",
+    "id": "665379967757324288",
+    "created_at": "2015-11-14T04:05:21.000Z"
+}

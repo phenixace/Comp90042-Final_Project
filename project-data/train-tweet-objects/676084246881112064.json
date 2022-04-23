@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 29,
+                "probability": 0.5626,
+                "type": "Organization",
+                "normalized_text": "fox news"
+            },
+            {
+                "start": 52,
+                "end": 62,
+                "probability": 0.9623,
+                "type": "Person",
+                "normalized_text": "neil cavuto"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle why is fox news turning liberal like neil cavuto???",
+    "id": "676084246881112064",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T17:00:20.000Z"
+}

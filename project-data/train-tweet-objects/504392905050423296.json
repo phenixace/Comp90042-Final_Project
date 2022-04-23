@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "id": "504392905050423296",
+    "in_reply_to_user_id": "14173315",
+    "created_at": "2014-08-26T22:20:14.000Z",
+    "source": "Twitter Web Client",
+    "text": "@NBCNews Holder will get it changed to fit his and Obama's  agenda"
+}

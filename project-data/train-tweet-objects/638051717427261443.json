@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "638051717427261443",
+    "text": "@CNN good news",
+    "created_at": "2015-08-30T18:12:38.000Z",
+    "in_reply_to_user_id": "759251"
+}

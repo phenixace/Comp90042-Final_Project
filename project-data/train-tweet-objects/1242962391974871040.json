@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-25T23:51:42.000Z",
+    "id": "1242962391974871040",
+    "text": "@Qian39660965 @bbcchinese Learn more think more, make the best decision",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Qian39660965",
+                "id": "1239576269236383745"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "bbcchinese",
+                "id": "791197"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1239576269236383745"
+}

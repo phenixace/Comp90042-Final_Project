@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:44.000Z",
+    "text": "This study was small but very provocative. If confirmed, this means that these individuals with such reactivity would need to be subtracted from the \"S\" (as in susceptible). In other words, you can be functionally \"immune\" even if not exposed\n#COVID19\n21/x\nhttps://t.co/SiVFzgVaK5",
+    "id": "1276213504341610496",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 243,
+                "end": 251,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/SiVFzgVaK5",
+                "expanded_url": "https://twitter.com/Rfonsi1/status/1264572313900441606?s=20",
+                "display_url": "twitter.com/Rfonsi1/status…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

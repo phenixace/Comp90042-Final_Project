@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-08T13:45:14.000Z",
+    "id": "1247883203827859456",
+    "text": "To all those people who said “COVID-19 is just like the flu”...🙄🤬. https://t.co/Vy4uGrJY8t",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/Vy4uGrJY8t",
+                "expanded_url": "https://twitter.com/lindsaywise/status/1247719173901484033",
+                "display_url": "twitter.com/lindsaywise/st…"
+            }
+        ]
+    }
+}

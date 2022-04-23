@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 3,
+                "probability": 0.9591,
+                "type": "Place",
+                "normalized_text": "アメリカ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 28,
+                "end": 35,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "text": "アメリカのソマリア空爆でアル・シャバブのリーダーが死亡。@cnnbrk Al-Shabaab leader Ahmed Abdi Godane killed in Monday's U.S. airstrike in Somalia, Pentagon says.",
+    "source": "Keitai Web",
+    "created_at": "2014-09-05T23:20:23.000Z",
+    "in_reply_to_user_id": "428333",
+    "id": "508031922413400064"
+}

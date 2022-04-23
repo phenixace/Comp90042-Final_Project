@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-06-27T01:23:25.000Z",
+    "text": "@FoxNews the country is swirling in the bowl, and it's not #1",
+    "id": "614604916531818496",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

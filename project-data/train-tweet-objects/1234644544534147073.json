@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/BUHso3fcr5",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "display_url": "who.int/emergencies/di…"
+            },
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/B7DvnQSONh",
+                "expanded_url": "https://twitter.com/ai6yrham/status/1234644544534147073/photo/1",
+                "display_url": "pic.twitter.com/B7DvnQSONh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ILoveWybie",
+                "id": "1186053357200269312"
+            }
+        ]
+    },
+    "id": "1234644544534147073",
+    "text": "@ILoveWybie Nope.   Do vaccines against pneumonia protect you against the new coronavirus? No. Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, do not provide protection against the new coronavirus. https://t.co/BUHso3fcr5 https://t.co/B7DvnQSONh",
+    "source": "Twitter Web App",
+    "created_at": "2020-03-03T00:59:32.000Z",
+    "in_reply_to_user_id": "1186053357200269312"
+}

@@ -1,0 +1,39 @@
+{
+    "created_at": "2015-12-03T14:42:05.000Z",
+    "source": "Twitter for iPhone",
+    "id": "672425577744375808",
+    "text": "@IngrahamAngle @JohnRLottJr Obama not having  facts or stats correct is nothing new for Obonehead. He is a well dressed snake oil salesman.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 32,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 88,
+                "end": 96,
+                "probability": 0.4601,
+                "type": "Person",
+                "normalized_text": "Obonehead"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "JohnRLottJr",
+                "id": "539566673"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50769180"
+}

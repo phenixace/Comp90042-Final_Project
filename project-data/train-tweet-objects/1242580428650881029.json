@@ -1,0 +1,17 @@
+{
+    "id": "1242580428650881029",
+    "created_at": "2020-03-24T22:33:54.000Z",
+    "text": "@deray They think it's like chicken pox, get it and get it over with.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "deray",
+                "id": "29417304"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "29417304",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "807095",
+    "created_at": "2015-10-02T10:13:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "649889966068207616",
+    "text": "@nytimes this is breaking news?"
+}

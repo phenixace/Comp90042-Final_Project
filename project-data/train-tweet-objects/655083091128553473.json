@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 74,
+                "end": 76,
+                "probability": 0.9662,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 102,
+                "url": "https://t.co/fAtGfCyc1X",
+                "expanded_url": "https://youtu.be/Bkln6bEwQjs",
+                "display_url": "youtu.be/Bkln6bEwQjs"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:09:14.000Z",
+    "id": "655083091128553473",
+    "text": "@CNN @HillaryClinton @BernieSanders why should I believe anything you say CNN? https://t.co/fAtGfCyc1X",
+    "source": "Twitter Web Client"
+}

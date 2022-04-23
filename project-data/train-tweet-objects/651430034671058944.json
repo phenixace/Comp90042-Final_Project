@@ -1,0 +1,72 @@
+{
+    "source": "Twitter Web Client",
+    "id": "651430034671058944",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 26,
+                "probability": 0.8244,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            },
+            {
+                "start": 58,
+                "end": 63,
+                "probability": 0.9827,
+                "type": "Place",
+                "normalized_text": "Europe"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 89,
+                "end": 95,
+                "tag": "Hamas"
+            },
+            {
+                "start": 96,
+                "end": 108,
+                "tag": "Palestinian"
+            },
+            {
+                "start": 109,
+                "end": 115,
+                "tag": "Arabs"
+            }
+        ],
+        "urls": [
+            {
+                "start": 65,
+                "end": 87,
+                "url": "http://t.co/OpvUQ7Z0GU",
+                "expanded_url": "http://tripeilat.blogspot.com/2015/09/isis-terrorists-infiltrating-refugee.html",
+                "display_url": "tripeilat.blogspot.com/2015/09/isis-t…"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/tedAHNJ0YA",
+                "expanded_url": "https://twitter.com/me4_ana/status/651430034671058944/photo/1",
+                "display_url": "pic.twitter.com/tedAHNJ0YA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Starbucks",
+                "id": "30973"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "WhiteHouse",
+                "id": "1323730225067339784"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "30973",
+    "created_at": "2015-10-06T16:13:17.000Z",
+    "text": "@Starbucks @WhiteHouse ISIS infiltrating refugee boats to Europe\nhttp://t.co/OpvUQ7Z0GU \n#Hamas #Palestinian #Arabs http://t.co/tedAHNJ0YA"
+}

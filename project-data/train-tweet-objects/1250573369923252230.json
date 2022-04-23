@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15T23:55:00.000Z",
+    "text": "@Chantblanq Harassment Stalkers words.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Chantblanq",
+                "id": "2281169793"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2281169793",
+    "id": "1250573369923252230",
+    "source": "Twitter for iPhone"
+}

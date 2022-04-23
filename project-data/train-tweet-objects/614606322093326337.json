@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2015-06-27T01:29:00.000Z",
+    "text": "@FoxNews Obama is solidifying his legacy as the worst president the country has ever seen. Disgraceful.",
+    "id": "614606322093326337",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 13,
+                "probability": 0.9981,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

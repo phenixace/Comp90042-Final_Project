@@ -1,0 +1,34 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/Krw3EZnkzj",
+                "expanded_url": "https://twitter.com/WHOLebanon/status/1238365204880273408/photo/1",
+                "display_url": "pic.twitter.com/Krw3EZnkzj"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 63,
+                "end": 75,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 78,
+                "end": 91,
+                "tag": "KnowtheFacts"
+            },
+            {
+                "start": 92,
+                "end": 100,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "created_at": "2020-03-13T07:24:07.000Z",
+    "text": "Q: How should I greet another person to avoid catching the new #coronavirus?\n\n#KnowtheFacts #COVID19 https://t.co/Krw3EZnkzj",
+    "id": "1238365204880273408",
+    "source": "Twitter Web App"
+}

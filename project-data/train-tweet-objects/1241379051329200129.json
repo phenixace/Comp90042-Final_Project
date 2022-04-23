@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 249,
+                "end": 272,
+                "url": "https://t.co/uriMLuBzu5",
+                "expanded_url": "https://twitter.com/jeanjuniorj/status/1241379051329200129/photo/1",
+                "display_url": "pic.twitter.com/uriMLuBzu5"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 36,
+                "end": 48,
+                "probability": 0.7815,
+                "type": "Person",
+                "normalized_text": "Danilo Medina"
+            }
+        ]
+    },
+    "created_at": "2020-03-21T15:00:04.000Z",
+    "id": "1241379051329200129",
+    "source": "Twitter for Android",
+    "text": "Photo: Dominican Republic President Danilo Medina \n\nAccording to WHO guidelines!\n\n😷Should I wear a mask to protect myself?\n\nOnly wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. https://t.co/uriMLuBzu5"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-11T18:32:18.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1237808584827772928",
+    "text": "@jargfar @robertcaruso I appreciate you saying that and totally get it! Hopefully your daughters tweets or recommendations can reach my mom some how 😉\n\nIt's a funny little phenomenon that often happens with healthcare professionals &amp; their families \n\nSo thank you for saying that ❤️",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "jargfar",
+                "id": "4877021170"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "robertcaruso",
+                "id": "114085514"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "4877021170"
+}

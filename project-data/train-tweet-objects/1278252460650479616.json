@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 91,
+                "end": 121,
+                "probability": 0.5295,
+                "type": "Person",
+                "normalized_text": "Beaufort Mayor Billy Keyserling"
+            }
+        ],
+        "urls": [
+            {
+                "start": 124,
+                "end": 147,
+                "url": "https://t.co/6HvZbSJrkw",
+                "expanded_url": "https://trib.al/P65Q9Sx",
+                "display_url": "trib.al/P65Q9Sx",
+                "status": 200,
+                "unwound_url": "https://www.thestate.com/news/coronavirus/article243870277.html"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T09:01:50.000Z",
+    "text": "“We’re basically on our own to try to figure out what we can do to avoid the spread,” said Beaufort Mayor Billy Keyserling. https://t.co/6HvZbSJrkw",
+    "id": "1278252460650479616",
+    "source": "SocialFlow"
+}

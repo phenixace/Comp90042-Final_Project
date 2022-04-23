@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T06:05:41.000Z",
+    "text": "@SABCNews We know you are paid to say that but guess what, where there’s a smoke there’s fire.",
+    "id": "1250304269346951170",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

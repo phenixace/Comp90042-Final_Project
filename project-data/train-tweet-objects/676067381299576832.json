@@ -1,0 +1,28 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 64,
+                "probability": 0.7348,
+                "type": "Organization",
+                "normalized_text": "Washington Free Beacon"
+            }
+        ],
+        "urls": [
+            {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/pu8UCWYayJ",
+                "expanded_url": "http://freebeacon.com/national-security/72-dhs-employees-on-terrorist-watch-list/",
+                "display_url": "freebeacon.com/national-secur…",
+                "status": 200,
+                "unwound_url": "https://freebeacon.com/national-security/72-dhs-employees-on-terrorist-watch-list/"
+            }
+        ]
+    },
+    "text": "72 DHS Employees on Terrorist Watch List - Washington Free Beacon https://t.co/pu8UCWYayJ",
+    "id": "676067381299576832",
+    "created_at": "2015-12-13T15:53:19.000Z"
+}

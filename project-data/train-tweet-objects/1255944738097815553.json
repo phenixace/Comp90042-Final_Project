@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "trumpgender",
+                "id": "1194658529589833729"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "CtrlAltDelts",
+                "id": "769345952725536768"
+            },
+            {
+                "start": 27,
+                "end": 37,
+                "username": "elenochle",
+                "id": "942618447443144709"
+            }
+        ]
+    },
+    "created_at": "2020-04-30T19:38:54.000Z",
+    "id": "1255944738097815553",
+    "text": "@trumpgender @CtrlAltDelts @elenochle Do you want to have driverless cars above any study that confirms this technology to be safe? Do you really think that is all at stake here while we are on the verge of world war? Please think, who benefits from this? Average people of big corporation who will enslave us?",
+    "in_reply_to_user_id": "1194658529589833729"
+}

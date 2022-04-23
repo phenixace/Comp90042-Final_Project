@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-05-07T22:04:43.000Z",
+    "source": "Twitter for Android",
+    "id": "1258518148061425664",
+    "text": "@RichiMontana @greensdc @HugoAlves1972 That's not how companies should treat their shareholders.  Financial forecasts and communication with investors, not just institutions is important.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "RichiMontana",
+                "id": "1216112603602345986"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "greensdc",
+                "id": "2568960259"
+            },
+            {
+                "start": 24,
+                "end": 38,
+                "username": "HugoAlves1972",
+                "id": "1408042326"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1216112603602345986"
+}

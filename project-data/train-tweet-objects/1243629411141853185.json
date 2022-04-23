@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "maDube_",
+                "id": "310514972"
+            }
+        ]
+    },
+    "id": "1243629411141853185",
+    "text": "@maDube_ Another myth... It's the twin brother of ED",
+    "created_at": "2020-03-27T20:02:11.000Z",
+    "in_reply_to_user_id": "310514972"
+}

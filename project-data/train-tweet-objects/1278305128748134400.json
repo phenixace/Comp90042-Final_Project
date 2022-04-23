@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-07-01T12:31:07.000Z",
+    "text": "@AlexBerenson @MarcLobliner Pharmaceutical industrial complex",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "MarcLobliner",
+                "id": "328801479"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278305128748134400",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-19T18:31:41.000Z",
+    "source": "Twitter for Android",
+    "id": "1251941555490914304",
+    "text": "@tv_hashi Boss",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "tv_hashi",
+                "id": "1226821109070409729"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1226821109070409729"
+}

@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            },
+            {
+                "start": 4,
+                "end": 17,
+                "username": "martinssempa",
+                "id": "20127594"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T18:29:44.000Z",
+    "text": "@AP @martinssempa Ohhhhh noooo my country",
+    "id": "554344422390104064",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter for Android"
+}

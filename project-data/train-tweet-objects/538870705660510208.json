@@ -1,0 +1,46 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 73,
+                "end": 86,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 35,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Darren Wilson"
+            },
+            {
+                "start": 45,
+                "end": 47,
+                "probability": 0.9514,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            },
+            {
+                "start": 64,
+                "end": 66,
+                "probability": 0.6752,
+                "type": "Organization",
+                "normalized_text": "ABC"
+            }
+        ]
+    },
+    "text": "“@WesleyLowery: tweets Darren Wilson paid by ABC for interview. ABC told @brianstelter not true &amp; I've seen no credible report to contrary”",
+    "id": "538870705660510208",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T01:42:42.000Z"
+}

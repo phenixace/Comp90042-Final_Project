@@ -1,0 +1,28 @@
+{
+    "id": "1261644909104320512",
+    "created_at": "2020-05-16T13:09:21.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 12,
+                "probability": 0.8818,
+                "type": "Person",
+                "normalized_text": "Tom Wolf"
+            }
+        ],
+        "urls": [
+            {
+                "start": 132,
+                "end": 155,
+                "url": "https://t.co/xJoEjneoC7",
+                "expanded_url": "https://trib.al/CNTI2Io",
+                "display_url": "trib.al/CNTI2Io",
+                "status": 200,
+                "unwound_url": "https://www.breitbart.com/politics/2020/05/15/pennsylvanias-transgender-health-secretary-focusing-on-gender-identity-in-collection-of-coronavirus-data/?utm_medium=social&utm_source=facebook"
+            }
+        ]
+    },
+    "source": "SocialFlow",
+    "text": "Gov. Tom Wolf’s (D) office said the health department is focusing on gender identity in the state’s collection of coronavirus data. https://t.co/xJoEjneoC7"
+}

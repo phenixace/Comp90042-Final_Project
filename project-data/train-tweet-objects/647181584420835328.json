@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "54322823",
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 46,
+                "probability": 0.9872,
+                "type": "Person",
+                "normalized_text": "Biden"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ericbradner",
+                "id": "54322823"
+            }
+        ]
+    },
+    "text": "@ericbradner @politicsnhiphop And without Biden?",
+    "created_at": "2015-09-24T22:51:28.000Z",
+    "id": "647181584420835328"
+}

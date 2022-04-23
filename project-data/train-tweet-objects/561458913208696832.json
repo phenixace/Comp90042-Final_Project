@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ],
+        "urls": [
+            {
+                "start": 36,
+                "end": 58,
+                "url": "http://t.co/hSEGwpP222",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "display_url": "pic.twitter.com/hSEGwpP222"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 72,
+                "end": 79,
+                "probability": 0.8928,
+                "type": "Person",
+                "normalized_text": "McDonald"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-31T09:40:10.000Z",
+    "id": "561458913208696832",
+    "text": "“@BurgerKing: Breakfast all around. http://t.co/hSEGwpP222”you wanna be McDonald's so bad"
+}

@@ -1,0 +1,34 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 124,
+                "end": 138,
+                "tag": "brightwhiteae"
+            },
+            {
+                "start": 139,
+                "end": 148,
+                "tag": "Covid_19"
+            },
+            {
+                "start": 149,
+                "end": 156,
+                "tag": "كورونا"
+            }
+        ],
+        "urls": [
+            {
+                "start": 157,
+                "end": 180,
+                "url": "https://t.co/gkryEJD7Jg",
+                "expanded_url": "https://twitter.com/BrightWhiteae/status/1251516655764746243/photo/1",
+                "display_url": "pic.twitter.com/gkryEJD7Jg"
+            }
+        ]
+    },
+    "text": "Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease COVID-19.\n\n#brightwhiteae #Covid_19 #كورونا https://t.co/gkryEJD7Jg",
+    "id": "1251516655764746243",
+    "created_at": "2020-04-18T14:23:17.000Z"
+}

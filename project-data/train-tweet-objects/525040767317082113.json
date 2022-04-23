@@ -1,0 +1,33 @@
+{
+    "source": "SocialFlow",
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 11,
+                "probability": 0.8559,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 45,
+                "end": 64,
+                "probability": 0.8263,
+                "type": "Person",
+                "normalized_text": "Michael Zehaf-Bibeau"
+            }
+        ],
+        "urls": [
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/Y7l0QLT94d",
+                "expanded_url": "http://apne.ws/1wl8Sj6",
+                "display_url": "apne.ws/1wl8Sj6"
+            }
+        ]
+    },
+    "id": "525040767317082113",
+    "text": "MORE: Ottawa shootings suspect identified as Michael Zehaf-Bibeau, 32; unclear if there are other shooters: http://t.co/Y7l0QLT94d",
+    "created_at": "2014-10-22T21:47:28.000Z"
+}

@@ -1,0 +1,54 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 16,
+                "probability": 0.9958,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            },
+            {
+                "start": 47,
+                "end": 62,
+                "probability": 0.885,
+                "type": "Other",
+                "normalized_text": "Fast and Furious"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/uFfaAMCxVq",
+                "expanded_url": "http://ow.ly/rkOAC",
+                "display_url": "ow.ly/rkOAC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "EW",
+                "id": "16312576"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 103,
+                "end": 107,
+                "tag": "OMG"
+            },
+            {
+                "start": 111,
+                "end": 125,
+                "tag": "Descanseenpaz"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T17:00:36.000Z",
+    "in_reply_to_user_id": "16312576",
+    "source": "Twitter for iPhone",
+    "text": "“@EW: Paul Walker remembered: Celebs react to 'Fast and Furious' star's death\n http://t.co/uFfaAMCxVq” #OMG:(\n #Descanseenpaz",
+    "id": "407192518758248448"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-05-24T16:41:30.000Z",
+    "text": "@LifeNewsHQ @Stips620 http://t.co/P4rPVJcBvR",
+    "id": "470243199684837376",
+    "entities": {
+        "urls": [
+            {
+                "start": 22,
+                "end": 44,
+                "url": "http://t.co/P4rPVJcBvR",
+                "expanded_url": "https://twitter.com/g3vol/status/470243199684837376/photo/1",
+                "display_url": "pic.twitter.com/P4rPVJcBvR"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "LifeNewsHQ",
+                "id": "50434933"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "Stips620",
+                "id": "21308831"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50434933"
+}

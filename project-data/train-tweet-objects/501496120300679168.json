@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-18T22:29:27.000Z",
+    "id": "501496120300679168",
+    "text": "@realDonaldTrump  he's the Golfer-in-Chief not the Commander, just ask anyone in the military",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

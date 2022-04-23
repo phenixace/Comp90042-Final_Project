@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "stgold72",
+                "id": "294160125"
+            }
+        ]
+    },
+    "id": "1273807132933214208",
+    "text": "@stgold72 Quick answer. I'm going to wear a mask in public and will avoid establishments that don't require it. The point I'm making is an economics/demand point. I'm not a doctor and don't claim to be one.",
+    "created_at": "2020-06-19T02:37:41.000Z",
+    "in_reply_to_user_id": "294160125"
+}

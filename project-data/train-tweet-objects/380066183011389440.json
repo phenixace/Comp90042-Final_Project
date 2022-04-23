@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "BestProNews",
+                "id": "1635754086"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 33,
+                "probability": 0.8684,
+                "type": "Place",
+                "normalized_text": "Louisiana"
+            },
+            {
+                "start": 126,
+                "end": 128,
+                "probability": 0.9077,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "id": "380066183011389440",
+    "text": "“@BestProNews: A city in Louisiana has made \"twerking\" illegal, imposing a punishment of 30 days in jail for a first offense” God Bless",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-09-17T20:30:13.000Z",
+    "in_reply_to_user_id": "1635754086"
+}

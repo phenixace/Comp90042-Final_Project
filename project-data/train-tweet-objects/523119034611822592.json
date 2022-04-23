@@ -1,0 +1,17 @@
+{
+    "source": "Mobile Web (M2)",
+    "id": "523119034611822592",
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T14:31:11.000Z",
+    "text": "@bbcbreaking I said negotiations were the only way.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    }
+}

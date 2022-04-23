@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 62,
+                "end": 71,
+                "username": "madsburk",
+                "id": "2858241472"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 60,
+                "tag": "HerdImmunity"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/fnNRmL0fYD",
+                "expanded_url": "http://specne.ws/Yf2As9",
+                "display_url": "specne.ws/Yf2As9",
+                "status": 200,
+                "unwound_url": "https://spectrumnews1.com/wi/milwaukee/news/2020/07/01/understanding-herd-immunity-and-covid-19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "Interested in learning more about COVID-19 and #HerdImmunity? @madsburk has more here⤵️\nhttps://t.co/fnNRmL0fYD",
+    "id": "1278459250482860032",
+    "created_at": "2020-07-01T22:43:32.000Z",
+    "in_reply_to_user_id": "1047152531388936192"
+}

@@ -1,0 +1,36 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 52,
+                "end": 64,
+                "tag": "FeelTheBern"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:00:58.000Z",
+    "id": "655081011693252608",
+    "text": "@CNN @HillaryClinton @BernieSanders Haha! Bullshit. #FeelTheBern",
+    "source": "Twitter for iPhone"
+}

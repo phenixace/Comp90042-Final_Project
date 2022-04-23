@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 54,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 126,
+                "end": 149,
+                "url": "https://t.co/AP1Z2K7kNv",
+                "expanded_url": "https://twitter.com/RoySparringa/status/1248521266199269381/photo/1",
+                "display_url": "pic.twitter.com/AP1Z2K7kNv"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1248521266199269381",
+    "text": "You can recover from the coronavirus disease (#COVID19). Catching the new coronavirus DOES NOT mean you will have it for life https://t.co/AP1Z2K7kNv",
+    "created_at": "2020-04-10T08:00:40.000Z",
+    "in_reply_to_user_id": "341567204"
+}

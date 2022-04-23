@@ -1,0 +1,42 @@
+{
+    "in_reply_to_user_id": "53110793",
+    "id": "531913166431604736",
+    "created_at": "2014-11-10T20:55:56.000Z",
+    "source": "Twitter for iPad",
+    "text": "@natenpaul @CL_LFC @UsVsTh3m @adamhillscomedy Just when you thought #trucknutz were finally, mercifully dead...",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 78,
+                "tag": "trucknutz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "natenpaul",
+                "id": "586580893"
+            },
+            {
+                "start": 11,
+                "end": 18,
+                "username": "CL_LFC",
+                "id": "21746426"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "username": "UsVsTh3m",
+                "id": "1430400949"
+            },
+            {
+                "start": 29,
+                "end": 45,
+                "username": "adamhillscomedy",
+                "id": "53110793"
+            }
+        ]
+    }
+}

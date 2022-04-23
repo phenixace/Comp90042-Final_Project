@@ -1,0 +1,25 @@
+{
+    "created_at": "2015-09-08T00:40:25.000Z",
+    "id": "641048410427142144",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 25,
+                "probability": 0.7766,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "probability": 0.831,
+                "type": "Product",
+                "normalized_text": "Xbox"
+            }
+        ]
+    },
+    "text": "@MostObviousFact Microsoft makes Xbox lol but the pictures of a playstion controller",
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "2319494544"
+}

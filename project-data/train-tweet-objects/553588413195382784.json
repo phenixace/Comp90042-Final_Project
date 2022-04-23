@@ -1,0 +1,33 @@
+{
+    "id": "553588413195382784",
+    "in_reply_to_user_id": "428333",
+    "source": "Twitter for iPhone",
+    "text": "Thank G-d! RT @cnnbrk: Police taking people out of #Paris grocery where hostages were being held. http://t.co/58wMc6M6Jf",
+    "created_at": "2015-01-09T16:25:37.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 57,
+                "tag": "Paris"
+            }
+        ],
+        "urls": [
+            {
+                "start": 98,
+                "end": 120,
+                "url": "http://t.co/58wMc6M6Jf",
+                "expanded_url": "http://cnn.it/1Ds26xN",
+                "display_url": "cnn.it/1Ds26xN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 14,
+                "end": 21,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    }
+}

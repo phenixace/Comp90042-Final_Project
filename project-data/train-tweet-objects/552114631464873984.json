@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 25,
+                "username": "DavidRuleWalrus",
+                "id": "2839070148"
+            }
+        ]
+    },
+    "id": "552114631464873984",
+    "text": "@FoxNews @DavidRuleWalrus umm. Well that's not good.",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-05T14:49:20.000Z",
+    "in_reply_to_user_id": "1367531"
+}

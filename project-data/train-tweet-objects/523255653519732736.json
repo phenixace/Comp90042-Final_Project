@@ -1,0 +1,29 @@
+{
+    "source": "Twitter for Android",
+    "id": "523255653519732736",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 24,
+                "end": 34,
+                "tag": "BokoHaram"
+            },
+            {
+                "start": 101,
+                "end": 119,
+                "tag": "BringBackOurGirls"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T23:34:04.000Z",
+    "text": "@BBCBreaking dream on!  #BokoHaram &amp; ilks can't be trusted. Seeing is believing; not until then! #BringBackOurGirls"
+}

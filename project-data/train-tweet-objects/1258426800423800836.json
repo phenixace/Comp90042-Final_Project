@@ -1,0 +1,43 @@
+{
+    "created_at": "2020-05-07T16:01:44.000Z",
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 224,
+                "end": 247,
+                "url": "https://t.co/tPgfvyROK2",
+                "expanded_url": "https://twitter.com/ImperialBrands/status/1255127933946957825",
+                "display_url": "twitter.com/ImperialBrands…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 82,
+                "end": 90,
+                "tag": "Nerudia"
+            },
+            {
+                "start": 207,
+                "end": 219,
+                "tag": "thisisAuxly"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 30,
+                "end": 45,
+                "username": "ImperialBrands",
+                "id": "21746573"
+            },
+            {
+                "start": 62,
+                "end": 77,
+                "username": "FontemVentures",
+                "id": "1960661028"
+            }
+        ]
+    },
+    "id": "1258426800423800836",
+    "text": "Big milestone for our partner @ImperialBrands and our friends @FontemVentures and #Nerudia, who continue to take a leading global position in vapor technology and commercialization.  Congratulations!!  🍾🍾🍾\n\n#thisisAuxly\n🤜💥🤛 https://t.co/tPgfvyROK2"
+}

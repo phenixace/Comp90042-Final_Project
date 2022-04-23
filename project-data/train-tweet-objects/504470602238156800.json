@@ -1,0 +1,49 @@
+{
+    "created_at": "2014-08-27T03:28:58.000Z",
+    "id": "504470602238156800",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 74,
+                "probability": 0.9175,
+                "type": "Place",
+                "normalized_text": "Las Vegas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/6NGvUS8sSX",
+                "expanded_url": "http://ow.ly/AL7VR",
+                "display_url": "ow.ly/AL7VR"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/wVStKOzuwb",
+                "expanded_url": "https://twitter.com/Sportsnet/status/504453071041482753/photo/1",
+                "display_url": "pic.twitter.com/wVStKOzuwb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 52,
+                "tag": "NHL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 28,
+                "end": 38,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "Expansion, not relocation? \"@Sportsnet: Report: #NHL expansion to Las Vegas ‘a done deal’ http://t.co/6NGvUS8sSX http://t.co/wVStKOzuwb”",
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "21660529"
+}

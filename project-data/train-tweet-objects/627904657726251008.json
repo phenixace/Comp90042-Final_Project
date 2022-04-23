@@ -1,0 +1,42 @@
+{
+    "id": "627904657726251008",
+    "in_reply_to_user_id": "5695632",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 42,
+                "probability": 0.9987,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/UAnI2DOqTX",
+                "expanded_url": "http://bzfd.it/1IsJbF2",
+                "display_url": "bzfd.it/1IsJbF2"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/ptdQbU0N2p",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/627828211003469825/photo/1",
+                "display_url": "pic.twitter.com/ptdQbU0N2p"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 5,
+                "end": 14,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "text": "Lol \"@BuzzFeed: This is how people in China are riding escalators after a horrific accident http://t.co/UAnI2DOqTX http://t.co/ptdQbU0N2p\"",
+    "created_at": "2015-08-02T18:11:50.000Z"
+}

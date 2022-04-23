@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "lavienseok",
+                "id": "1193993960072593410"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-03-17T16:23:57.000Z",
+    "text": "@lavienseok They say its cough,fever,sneeze and feels like pneumonia.",
+    "in_reply_to_user_id": "1193993960072593410",
+    "id": "1239950609551253504"
+}

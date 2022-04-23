@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "zEDUnho",
+                "id": "1076711693550530560"
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "username": "ErrycarM",
+                "id": "1229346923573841920"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-23T14:34:42.000Z",
+    "text": "@zEDUnho @ErrycarM No. But air is  a medium through which it travels",
+    "in_reply_to_user_id": "1076711693550530560",
+    "id": "1253331468941574144"
+}

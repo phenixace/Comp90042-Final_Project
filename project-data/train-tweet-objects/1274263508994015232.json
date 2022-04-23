@@ -1,0 +1,71 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "wolvesnsheeple",
+                "id": "1355735712"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "BroomheadShow",
+                "id": "819746210428792833"
+            },
+            {
+                "start": 31,
+                "end": 47,
+                "username": "JUSTHEREFORAGO2",
+                "id": "1273088402821222401"
+            },
+            {
+                "start": 48,
+                "end": 59,
+                "username": "ali_vetnar",
+                "id": "1468827203165388800"
+            },
+            {
+                "start": 60,
+                "end": 68,
+                "username": "KTAR923",
+                "id": "18563796"
+            },
+            {
+                "start": 69,
+                "end": 80,
+                "username": "PhxPDChief",
+                "id": "788416593239826432"
+            },
+            {
+                "start": 81,
+                "end": 95,
+                "username": "PhoenixPolice",
+                "id": "39799109"
+            },
+            {
+                "start": 96,
+                "end": 112,
+                "username": "CityofPhoenixAZ",
+                "id": "518082918"
+            },
+            {
+                "start": 113,
+                "end": 127,
+                "username": "broomheadKTAR",
+                "id": "121543274"
+            },
+            {
+                "start": 128,
+                "end": 142,
+                "username": "GaydosAndChad",
+                "id": "1218295613155995648"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1355735712",
+    "created_at": "2020-06-20T08:51:09.000Z",
+    "id": "1274263508994015232",
+    "text": "@wolvesnsheeple @BroomheadShow @JUSTHEREFORAGO2 @Ali_Vetnar @KTAR923 @PhxPDChief @PhoenixPolice @CityofPhoenixAZ @broomheadKTAR @GaydosAndChad There may not be any herd immunity. Folks who have had it and recovered are getting it again. There may never be a vaccine if folks are susceptible to it more than once",
+    "source": "Twitter for Android"
+}

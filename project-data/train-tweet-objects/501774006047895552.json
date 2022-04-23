@@ -1,0 +1,23 @@
+{
+    "text": "@NBCNews @emptywheel they meant WHITES... You thought people?!  Lol right.",
+    "id": "501774006047895552",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "emptywheel",
+                "id": "15985111"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T16:53:40.000Z",
+    "in_reply_to_user_id": "14173315"
+}

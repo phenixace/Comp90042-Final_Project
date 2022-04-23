@@ -1,0 +1,57 @@
+{
+    "source": "Twitter Web Client",
+    "id": "651481504414060544",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 57,
+                "probability": 0.7129,
+                "type": "Place",
+                "normalized_text": "Gulf States"
+            },
+            {
+                "start": 61,
+                "end": 66,
+                "probability": 0.94,
+                "type": "Place",
+                "normalized_text": "Israel"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 90,
+                "tag": "migrants"
+            },
+            {
+                "start": 91,
+                "end": 100,
+                "tag": "refugees"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Starbucks",
+                "id": "30973"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "WhiteHouse",
+                "id": "1323730225067339784"
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "username": "UN",
+                "id": "14159148"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "30973",
+    "created_at": "2015-10-06T19:37:49.000Z",
+    "text": "@Starbucks @WhiteHouse @UN Why not ask wealthy Gulf States + Israel to take some #migrants #refugees ? They have take none, why ?"
+}

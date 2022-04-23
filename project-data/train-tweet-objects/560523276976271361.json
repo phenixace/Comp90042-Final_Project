@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 4,
+                "end": 15,
+                "username": "BurgerKing",
+                "id": "167421802"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "167421802",
+    "created_at": "2015-01-28T19:42:17.000Z",
+    "id": "560523276976271361",
+    "text": "So, @BurgerKing has oatmeal for breakfast. What do yall think? Will you drive thru for that?"
+}

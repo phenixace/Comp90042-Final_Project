@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-11-23T13:05:41.000Z",
+    "text": "@BuzzFeedUK @sisterspooky But now it's all about tie-ins to movies where one can only build one thing, as @badbadpoet pointed out to me.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "sisterspooky",
+                "id": "1267119429919350792"
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "username": "badbadpoet",
+                "id": "383300202"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536505866439376896",
+    "source": "Twitter for iPad"
+}

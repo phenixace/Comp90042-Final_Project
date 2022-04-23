@@ -1,0 +1,32 @@
+{
+    "created_at": "2015-12-03T14:58:37.000Z",
+    "source": "Twitter for iPhone",
+    "id": "672429738250657792",
+    "text": "@IngrahamAngle @JohnRLottJr and how many in America were gang related? Bet a majority. But again Libs do nothing about gang violence/crime.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 50,
+                "probability": 0.9987,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "JohnRLottJr",
+                "id": "539566673"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "50769180"
+}

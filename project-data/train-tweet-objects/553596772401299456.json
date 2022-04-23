@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 87,
+                "end": 91,
+                "tag": "AFP"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/M54YAHG6kO",
+                "expanded_url": "https://twitter.com/AFPphoto/status/553589051044151296/photo/1",
+                "display_url": "pic.twitter.com/M54YAHG6kO"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "AFPphoto",
+                "id": "868112707"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 64,
+                "probability": 0.993,
+                "type": "Place",
+                "normalized_text": "Paris"
+            },
+            {
+                "start": 73,
+                "end": 85,
+                "probability": 0.958,
+                "type": "Person",
+                "normalized_text": "Thomas Samson"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@AFPphoto: Several hostages freed at Jewish supermarket in Paris. Photo Thomas Samson #AFP http://t.co/M54YAHG6kO”",
+    "created_at": "2015-01-09T16:58:50.000Z",
+    "id": "553596772401299456",
+    "in_reply_to_user_id": "868112707"
+}

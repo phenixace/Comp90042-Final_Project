@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 46,
+                "end": 50,
+                "probability": 0.5616,
+                "type": "Organization",
+                "normalized_text": "Hamas"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 20,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "text": "@bautista707 @cnnbrk we killed 4 of the top 6 Hamas leaders. That's pretty good strike rate in my opinion.",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-05T15:56:24.000Z",
+    "in_reply_to_user_id": "1920648620",
+    "id": "507920187988119552"
+}

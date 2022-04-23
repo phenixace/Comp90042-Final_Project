@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 43,
+                "probability": 0.928,
+                "type": "Other",
+                "normalized_text": "Halloween"
+            }
+        ]
+    },
+    "id": "527167303566491648",
+    "text": "@charlcoffeyy that would make good Halloween costume",
+    "created_at": "2014-10-28T18:37:34.000Z",
+    "in_reply_to_user_id": "86798338"
+}

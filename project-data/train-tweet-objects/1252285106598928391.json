@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 66,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "id": "1252285106598928391",
+    "text": "@TIME Look-Listen-and-Learn .. critical life saving Info  #COVID19 pandemic: unclear how long this festering threat will be around:( Wise to follow all recommendations!!! Stay Safe.",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-20T17:16:50.000Z",
+    "in_reply_to_user_id": "14293310"
+}

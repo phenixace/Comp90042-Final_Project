@@ -1,0 +1,62 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 35,
+                "end": 43,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 44,
+                "end": 53,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ],
+        "urls": [
+            {
+                "start": 136,
+                "end": 159,
+                "url": "https://t.co/cHf2bwfObT",
+                "expanded_url": "http://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ]
+    },
+    "text": "@WHO @pahowho @WHO_Europe @WHOEMRO @WHOAFRO @WHOSEARO @WHOWPRO I don't see any information about the  use of ibuporfen on your web site https://t.co/cHf2bwfObT. \nAre you going to post an update on this topic?",
+    "id": "1244628580740599813",
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-03-30T14:12:32.000Z"
+}

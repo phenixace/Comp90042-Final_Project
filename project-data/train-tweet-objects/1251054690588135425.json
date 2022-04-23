@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T07:47:36.000Z",
+    "text": "🚨Are hand dryers effective in killing the new coronavirus?🚨\n\nNo. Hand dryers are not effective in killing the 2019-nCoV.\n\n#Covid19 #mythbusters @WHO https://t.co/mNHRqsahqu",
+    "id": "1251054690588135425",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 122,
+                "end": 130,
+                "tag": "Covid19"
+            },
+            {
+                "start": 131,
+                "end": 143,
+                "tag": "mythbusters"
+            }
+        ],
+        "urls": [
+            {
+                "start": 149,
+                "end": 172,
+                "url": "https://t.co/mNHRqsahqu",
+                "expanded_url": "https://twitter.com/lutzmache/status/1251054690588135425/photo/1",
+                "display_url": "pic.twitter.com/mNHRqsahqu"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 144,
+                "end": 148,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16958398"
+}

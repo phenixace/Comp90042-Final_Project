@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "@morningmoneyben @JuddLegum Doritos should develop a Mountain Dew flavored chip to close the circle.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "morningmoneyben",
+                "id": "135575282"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 78,
+                "probability": 0.4963,
+                "type": "Product",
+                "normalized_text": "Mountain Dew flavored chip"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T20:27:38.000Z",
+    "id": "531181272060919808",
+    "in_reply_to_user_id": "135575282"
+}

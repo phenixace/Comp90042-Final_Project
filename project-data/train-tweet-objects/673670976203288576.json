@@ -1,0 +1,45 @@
+{
+    "id": "673670976203288576",
+    "text": "@DRUDGE_REPORT @TheVeni1 Obama says they're hard at work to protect the US... Oops!!",
+    "withheld": {
+        "copyright": false,
+        "country_codes": [
+            "TR"
+        ]
+    },
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "theveni1",
+                "id": "822202648355074049"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 29,
+                "probability": 0.998,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 72,
+                "end": 73,
+                "probability": 0.7865,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for iPad",
+    "created_at": "2015-12-07T01:10:51.000Z"
+}

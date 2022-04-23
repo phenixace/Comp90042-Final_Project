@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21T16:49:04.000Z",
+    "source": "Twitter Web Client",
+    "id": "612663535730974720",
+    "text": "@ajplus @ChienJenn @theobserver That is an Interrogation tactic, used to build a rapport with the subject, to make confession more likely.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 19,
+                "end": 31,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110396781"
+}

@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "created_at": "2015-02-16T23:13:35.000Z",
+    "text": "@assholeofday And this guy knows about meat, women, not so much.",
+    "id": "567461818335895552"
+}

@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "241356766",
+    "text": "@nospin_43 @latimeralder Please tell me where you're getting your information, I'd just like to know.",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-08T22:49:32.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "nospin_43",
+                "id": "241356766"
+            },
+            {
+                "start": 11,
+                "end": 24,
+                "username": "latimeralder",
+                "id": "98583506"
+            }
+        ]
+    },
+    "id": "1248020177234440194"
+}

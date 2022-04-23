@@ -1,0 +1,29 @@
+{
+    "id": "673690464835399683",
+    "text": "@DRUDGE_REPORT @instapundit Hey @POTUS get your own freaking house in order, ok?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "instapundit",
+                "id": "1096049238671273984"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "username": "POTUS",
+                "id": "1349149096909668363"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for iPad",
+    "created_at": "2015-12-07T02:28:18.000Z"
+}

@@ -1,0 +1,30 @@
+{
+    "in_reply_to_user_id": "1767741",
+    "id": "672183103025250304",
+    "created_at": "2015-12-02T22:38:34.000Z",
+    "source": "Twitter for Android",
+    "text": "@NYTNational @nytimes  Criminals don't follow any laws. So we the people have to give up #gunrights cause of criminals. HELL NO!",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 89,
+                "end": 99,
+                "tag": "gunrights"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYTNational",
+                "id": "1767741"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 49,
+                "probability": 0.9947,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 52,
+                "end": 57,
+                "probability": 0.9541,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            },
+            {
+                "start": 85,
+                "end": 90,
+                "probability": 0.9934,
+                "type": "Person",
+                "normalized_text": "Hilary"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:05:23.000Z",
+    "id": "655082121946624000",
+    "text": "@CNN @HillaryClinton @BernieSanders watching in UK. Bernie's speech about E mails to Hilary. It was a,lovefest",
+    "source": "Twitter for Windows Phone"
+}

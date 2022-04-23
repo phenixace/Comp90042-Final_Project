@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/RPokwFDk9S",
+                "expanded_url": "https://twitter.com/KaraCorvus/status/1277862599946678272/photo/1",
+                "display_url": "pic.twitter.com/RPokwFDk9S"
+            }
+        ]
+    },
+    "created_at": "2020-06-30T07:12:40.000Z",
+    "text": "It's almost like reopening public spaces while the pandemic is still in full force was a... bad idea? https://t.co/RPokwFDk9S",
+    "id": "1277862599946678272",
+    "source": "Twitter for Android"
+}

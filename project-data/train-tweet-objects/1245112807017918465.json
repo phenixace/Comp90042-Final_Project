@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 30,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ewarren",
+                "id": "357606935"
+            }
+        ]
+    },
+    "id": "1245112807017918465",
+    "text": "@ewarren Can we prosecute Trump and his admin for crimes against humanity?",
+    "created_at": "2020-03-31T22:16:40.000Z",
+    "in_reply_to_user_id": "357606935"
+}

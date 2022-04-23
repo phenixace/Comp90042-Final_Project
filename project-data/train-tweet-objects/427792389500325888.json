@@ -1,0 +1,32 @@
+{
+    "source": "Tweetian for Symbian",
+    "entities": {
+        "mentions": [
+            {
+                "start": 25,
+                "end": 34,
+                "username": "guardian",
+                "id": "87818409"
+            },
+            {
+                "start": 116,
+                "end": 130,
+                "username": "guardianworld",
+                "id": "156651229"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/p3WveEKy9b",
+                "expanded_url": "http://gu.com/p/3m7q4/tw",
+                "display_url": "gu.com/p/3m7q4/tw"
+            }
+        ]
+    },
+    "text": "Fumar faz mal a saúde RT @guardian: Marlboro ad man Eric Lawson dies of chronic lung disease http://t.co/p3WveEKy9b @guardianworld",
+    "id": "427792389500325888",
+    "in_reply_to_user_id": "87818409",
+    "created_at": "2014-01-27T13:17:08.000Z"
+}

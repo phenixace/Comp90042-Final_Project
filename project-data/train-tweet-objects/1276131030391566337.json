@@ -1,0 +1,30 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/y6WeuLepQT",
+                "expanded_url": "https://twitter.com/stefsimanowitz/status/1252354324136521736?s=21",
+                "display_url": "twitter.com/stefsimanowitz…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 60,
+                "tag": "HerdImmunity"
+            },
+            {
+                "start": 234,
+                "end": 253,
+                "tag": "HerdImmunitScandal"
+            }
+        ]
+    },
+    "created_at": "2020-06-25T12:32:01.000Z",
+    "id": "1276131030391566337",
+    "text": "22/. The fact the govt never diverted from the #HerdImmunity strategy, makes the thinking behind their often inexplicable (in)actions, fall into place.\n\nThe bewildering multiplicity of scandals are all part of one single scandal: the #HerdImmunitScandal.\nhttps://t.co/y6WeuLepQT"
+}

@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:45.000Z",
+    "text": "Importantly, and somewhat obvious, they will not have typical SAR-CoV-2 antibodies. But they may still have protective cross-reactive antibodies against other coronaviruses.\n#COVID19 \n22/x",
+    "id": "1276213505566420992",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 174,
+                "end": 182,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

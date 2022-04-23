@@ -1,0 +1,26 @@
+{
+    "id": "673622184271724544",
+    "text": "“@DRUDGE_REPORT: SHOCK:  72 'Homeland Security' Employees on Terrorist Watch List... https://t.co/tF6tPmZgWx”. Control totally lost.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 108,
+                "url": "https://t.co/tF6tPmZgWx",
+                "expanded_url": "http://drudge.tw/1N5fVFm",
+                "display_url": "drudge.tw/1N5fVFm"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter for iPad",
+    "created_at": "2015-12-06T21:56:58.000Z"
+}

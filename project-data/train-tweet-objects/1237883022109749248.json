@@ -1,0 +1,29 @@
+{
+    "id": "1237883022109749248",
+    "text": "@EvrytngElszTakn @DrJulienArbor @CBCAlerts Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "EvrytngElszTakn",
+                "id": "118587344"
+            },
+            {
+                "start": 17,
+                "end": 31,
+                "username": "DrJulienArbor",
+                "id": "877662547"
+            },
+            {
+                "start": 32,
+                "end": 42,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "450710734",
+    "created_at": "2020-03-11T23:28:05.000Z"
+}

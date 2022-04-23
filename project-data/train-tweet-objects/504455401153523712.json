@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-08-27T02:28:34.000Z",
+    "id": "504455401153523712",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 25,
+                "probability": 0.9633,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "probability": 0.8628,
+                "type": "Place",
+                "normalized_text": "Victoria"
+            },
+            {
+                "start": 75,
+                "end": 83,
+                "probability": 0.9913,
+                "type": "Place",
+                "normalized_text": "Vancouver"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "@Sportsnet Flying to Vegas from Victoria is almost cheaper than driving to Vancouver on BC Ferries! Perfect!",
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": "21660529"
+}

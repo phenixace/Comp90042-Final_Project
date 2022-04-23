@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-25T21:11:32.000Z",
+    "id": "1242922087309881351",
+    "text": "@bbcchinese How many of us have checked ourselves what is a virus, what is a coronavirus and how it get spread? If we could understand these, we may know better ourselves if we should wear a mask or not, and not rely on everything on authority like WHO or something else.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "bbcchinese",
+                "id": "791197"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "791197"
+}

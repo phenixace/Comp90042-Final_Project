@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-26T06:56:13.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "official_ihunze",
+                "id": "2306493556"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1254303251090018304",
+    "text": "@official_ihunze They are typing it.",
+    "in_reply_to_user_id": "2306493556"
+}

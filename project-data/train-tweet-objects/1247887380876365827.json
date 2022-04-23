@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 158,
+                "end": 166,
+                "username": "SkyNews",
+                "id": "7587032"
+            },
+            {
+                "start": 167,
+                "end": 179,
+                "username": "piersmorgan",
+                "id": "216299334"
+            },
+            {
+                "start": 180,
+                "end": 189,
+                "username": "va_shiva",
+                "id": "364214133"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1247887380876365827",
+    "created_at": "2020-04-08T14:01:50.000Z",
+    "text": "Can I get some reliable sources please, is COVID-19 airborne? There has been alot of talk abt not even going in our own backyards. Surely THAT should be ok?! @SkyNews @piersmorgan @va_shiva"
+}

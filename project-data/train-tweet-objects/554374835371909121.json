@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 54,
+                "probability": 0.9518,
+                "type": "Place",
+                "normalized_text": "Africa"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T20:30:35.000Z",
+    "text": "@AP Aids, famine, ebola, crocodile bile how does Africa have any people left? If we leave them alone maybe they really will just go away.",
+    "id": "554374835371909121",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-12T12:54:22.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1238085928528330757",
+    "text": "@DrCSWilliam @MichaelGalvezMD I’ll definitely admit I was wrong about it after seeing more data and to recognize that we young sans comorbidities are the vectors!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DrCSWilliam",
+                "id": "298619241"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "MichaelGalvezMD",
+                "id": "4504034958"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "298619241"
+}

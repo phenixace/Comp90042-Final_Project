@@ -1,0 +1,40 @@
+{
+    "id": "1272204269928792066",
+    "entities": {
+        "annotations": [
+            {
+                "start": 14,
+                "end": 21,
+                "probability": 0.9485,
+                "type": "Person",
+                "normalized_text": "Cummings"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "probability": 0.8025,
+                "type": "Person",
+                "normalized_text": "Johnson"
+            },
+            {
+                "start": 111,
+                "end": 116,
+                "probability": 0.7093,
+                "type": "Organization",
+                "normalized_text": "Labour"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "eyejosh",
+                "id": "59305661"
+            }
+        ]
+    },
+    "created_at": "2020-06-14T16:28:29.000Z",
+    "text": "@eyejosh This Cummings/Johnson government is so evil, corrupt and murderous it amazes me there is silence from Labour. It's like they condone this criminal government.",
+    "in_reply_to_user_id": "59305661",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "in_reply_to_user_id": "54322823",
+    "text": "@ericbradner That’s a big margin of error, too. Curious to see how the actual voting goes.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ericbradner",
+                "id": "54322823"
+            }
+        ]
+    },
+    "created_at": "2015-09-24T22:13:30.000Z",
+    "id": "647172028794044416"
+}

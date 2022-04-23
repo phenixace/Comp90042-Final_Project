@@ -1,0 +1,34 @@
+{
+    "created_at": "2020-03-28T15:25:26.000Z",
+    "text": "#COVID19 \n#FAQs\nQ: Who is at risk of developing severe illness?\nA: While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions,  appear to develop serious illness more often than others. \n\n#COVID19Nigeria https://t.co/Xdne6B0dA9",
+    "entities": {
+        "urls": [
+            {
+                "start": 273,
+                "end": 296,
+                "url": "https://t.co/Xdne6B0dA9",
+                "expanded_url": "https://twitter.com/WHONigeria/status/1243922149842325504/photo/1",
+                "display_url": "pic.twitter.com/Xdne6B0dA9"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 8,
+                "tag": "COVID19"
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "tag": "FAQs"
+            },
+            {
+                "start": 257,
+                "end": 272,
+                "tag": "COVID19Nigeria"
+            }
+        ]
+    },
+    "id": "1243922149842325504",
+    "source": "Twitter Web App"
+}

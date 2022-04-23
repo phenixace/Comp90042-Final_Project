@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "Nettaaaaaaaa",
+                "id": "1291770157"
+            }
+        ],
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/IMr4GRoGku",
+                "expanded_url": "http://thesource.com/2015/06/21/police-chief-says-dylann-roof-was-taken-to-burger-king-shortly-after-arrest/",
+                "display_url": "thesource.com/2015/06/21/pol…"
+            }
+        ]
+    },
+    "created_at": "2015-06-22T17:41:57.000Z",
+    "text": "“@Nettaaaaaaaa: Police Chief Says Dylann Roof Was Taken to Burger King Shortly After Arrest http://t.co/IMr4GRoGku”    WHAT the HELL?!?",
+    "id": "613039231183769600",
+    "in_reply_to_user_id": "1291770157",
+    "source": "Twitter for iPhone"
+}

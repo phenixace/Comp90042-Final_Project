@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JamaicaGleaner",
+                "id": "40954616"
+            }
+        ]
+    },
+    "id": "1249693332797820932",
+    "text": "@JamaicaGleaner Brah, you shouldn’t be out here giving myth busters. You have been called out so many times for your own myths. Just stop while you’re behind",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-13T13:38:03.000Z",
+    "in_reply_to_user_id": "40954616"
+}

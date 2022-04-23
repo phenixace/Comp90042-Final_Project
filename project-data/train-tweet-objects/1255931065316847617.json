@@ -1,0 +1,46 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "JulianSunny79",
+                "id": "2489591196"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "elenochle",
+                "id": "942618447443144709"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 31,
+                "probability": 0.5095,
+                "type": "Organization",
+                "normalized_text": "Huawei"
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "probability": 0.3663,
+                "type": "Organization",
+                "normalized_text": "ZTE"
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "probability": 0.9307,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ]
+    },
+    "created_at": "2020-04-30T18:44:34.000Z",
+    "id": "1255931065316847617",
+    "text": "@JulianSunny79 @elenochle Huawei and ZTE is not stepping their foot in US. That was the big concern in my opinion. Agreed 5-Gee not needed now, we're already in good shape.",
+    "in_reply_to_user_id": "2489591196"
+}

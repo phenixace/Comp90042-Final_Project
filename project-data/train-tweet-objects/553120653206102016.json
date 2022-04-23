@@ -1,0 +1,44 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "1068121346",
+    "entities": {
+        "urls": [
+            {
+                "start": 53,
+                "end": 75,
+                "url": "http://t.co/ennEJgcoyO",
+                "expanded_url": "http://www.buzzfeed.com/alanwhite/this-powerful-cartoon-about-the-charlie-hebdo-attack-is-not?bftw&utm_term=4ldqpgm#4ldqpgm",
+                "display_url": "buzzfeed.com/alanwhite/this…",
+                "status": 200,
+                "unwound_url": "https://www.buzzfeed.com/alanwhite/this-powerful-cartoon-about-the-charlie-hebdo-attack-is-not?bftw&utm_term=4ldqpgm"
+            },
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/RpWAhxQCBi",
+                "expanded_url": "https://twitter.com/BuzzFeedUK/status/553115168084074497/photo/1",
+                "display_url": "pic.twitter.com/RpWAhxQCBi"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 52,
+                "probability": 0.492,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T09:26:54.000Z",
+    "id": "553120653206102016",
+    "text": "“@BuzzFeedUK: This powerful cartoon is not by Banksy\nhttp://t.co/ennEJgcoyO http://t.co/RpWAhxQCBi”  It is indeed elegantly powerful."
+}

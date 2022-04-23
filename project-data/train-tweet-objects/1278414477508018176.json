@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "text": "@youdrownoceans Exactly. We don't know enough about COVID-19 to even discuss herd immunity, but most folks who refuse to accept this don't understand science so much. That hasn't stopped them from spreading disinformation that could prove deadly.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "youdrownoceans",
+                "id": "992419545024352257"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T19:45:37.000Z",
+    "id": "1278414477508018176",
+    "in_reply_to_user_id": "992419545024352257"
+}

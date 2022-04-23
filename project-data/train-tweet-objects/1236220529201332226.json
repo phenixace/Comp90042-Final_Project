@@ -1,0 +1,42 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-07T09:21:56.000Z",
+    "id": "1236220529201332226",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "PaulKagame",
+                "id": "37601149"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 50,
+                "end": 62,
+                "tag": "Coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 2,
+                "end": 7,
+                "probability": 0.7282,
+                "type": "Place",
+                "normalized_text": "Rwanda"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/iHB6p7pt6q",
+                "expanded_url": "https://www.africanews.com/2020/03/04/african-presidents-lead-anti-coronavirus-efforts/",
+                "display_url": "africanews.com/2020/03/04/afr…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "- Rwanda's @PaulKagame fires health minister over #Coronavirus \n- Minister is said to have lied about the number of testing kits available in the country\n- ''You leaders, you cannot even speak the truth; how do you expect to solve problems?''\n\nhttps://t.co/iHB6p7pt6q"
+}

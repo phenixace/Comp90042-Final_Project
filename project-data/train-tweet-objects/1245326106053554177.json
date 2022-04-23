@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T12:24:15.000Z",
+    "text": "What to do if an employee becomes unwell and show symptoms or believe they have been exposed to COVID-19? https://t.co/sZBuGkBCUj",
+    "entities": {
+        "urls": [
+            {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/sZBuGkBCUj",
+                "expanded_url": "https://twitter.com/corysanhandwash/status/1245326106053554177/photo/1",
+                "display_url": "pic.twitter.com/sZBuGkBCUj"
+            }
+        ]
+    },
+    "id": "1245326106053554177",
+    "in_reply_to_user_id": "1216709367581552640"
+}

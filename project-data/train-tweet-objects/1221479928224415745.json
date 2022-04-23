@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 170,
+                "end": 182,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 183,
+                "end": 206,
+                "url": "https://t.co/OOTxnaTrx6",
+                "expanded_url": "https://twitter.com/WHOEMRO/status/1221479928224415745/photo/1",
+                "display_url": "pic.twitter.com/OOTxnaTrx6"
+            }
+        ]
+    },
+    "text": "Wash your 🖐🏼 with 🧼 and running water when hands are visibly dirty.\n\nIf your 🖐🏼 are not visibly dirty, wash them with 🧼 and water or use an alcohol-based hand cleanser.\n\n#coronavirus https://t.co/OOTxnaTrx6",
+    "created_at": "2020-01-26T17:08:03.000Z",
+    "id": "1221479928224415745",
+    "in_reply_to_user_id": "259372802",
+    "source": "Twitter Web Client"
+}

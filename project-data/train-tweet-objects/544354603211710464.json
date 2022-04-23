@@ -1,0 +1,48 @@
+{
+    "id": "544354603211710464",
+    "in_reply_to_user_id": "6017542",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 53,
+                "end": 64,
+                "probability": 0.9355,
+                "type": "Place",
+                "normalized_text": "Martin Place"
+            },
+            {
+                "start": 67,
+                "end": 78,
+                "probability": 0.5284,
+                "type": "Place",
+                "normalized_text": "Sydney, café"
+            }
+        ],
+        "urls": [
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/JulXUuiJAu",
+                "expanded_url": "http://www.breakingnews.com/t/Z5R",
+                "display_url": "breakingnews.com/t/Z5R"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 16,
+                "username": "BreakingNews",
+                "id": "6017542"
+            },
+            {
+                "start": 106,
+                "end": 114,
+                "username": "abcnews",
+                "id": "2768501"
+            }
+        ]
+    },
+    "text": "MT @BreakingNews: Three people appear to escape from Martin Place, Sydney, café, amid hostage situation - @ABCNews http://t.co/JulXUuiJAu”",
+    "created_at": "2014-12-15T04:53:45.000Z"
+}

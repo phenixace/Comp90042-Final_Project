@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-02T13:44:25.000Z",
+    "text": "Sumber : https://t.co/BAqEL6BnRN",
+    "in_reply_to_user_id": "833430048",
+    "entities": {
+        "urls": [
+            {
+                "start": 9,
+                "end": 32,
+                "url": "https://t.co/BAqEL6BnRN",
+                "expanded_url": "https://www.unicef.org/stories/novel-coronavirus-outbreak-what-parents-should-know",
+                "display_url": "unicef.org/stories/novel-…"
+            }
+        ]
+    },
+    "id": "1245708670098239488"
+}

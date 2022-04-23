@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Xtinaresists",
+                "id": "1175195629984919554"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "L_A_Baker",
+                "id": "259096053"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 176,
+                "end": 180,
+                "probability": 0.9637,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "created_at": "2020-06-28T02:20:41.000Z",
+    "id": "1277064347643076608",
+    "text": "@Xtinaresists @L_A_Baker They won't be putting your family at risk if you take vaccines , if anything you'll be a risk to them so chill. Also Im not taking no Vaccines made by China lmao",
+    "in_reply_to_user_id": "1175195629984919554"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-23T16:10:02.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "karunanundy",
+                "id": "415860281"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1242121437168594946",
+    "text": "@karunanundy Covid-19 is mRNA virus disease and quite similar to SARS virus. Apart from respiratory droplets infections, this virus has got other high infectious properties. It can enter your body through nose, eyes, mouth hence social distancing and regular hand wash is very important.",
+    "in_reply_to_user_id": "415860281"
+}

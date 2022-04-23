@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-19T05:51:56.000Z",
+    "text": "@SABCNews If 5g is not a prblm y America destroyed it y Chinese was destroying it y u wana make yo self rich with a blood of poor people mxm",
+    "id": "1251750357715357698",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 39,
+                "probability": 0.9752,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25088746"
+}

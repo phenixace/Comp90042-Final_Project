@@ -1,0 +1,23 @@
+{
+    "text": "@ComplexMag @lovebrittanyb3 !!!",
+    "id": "664001412913872896",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "lovebrittanyb3",
+                "id": "306500250"
+            }
+        ]
+    },
+    "created_at": "2015-11-10T08:47:28.000Z",
+    "in_reply_to_user_id": "13049362"
+}

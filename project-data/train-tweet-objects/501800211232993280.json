@@ -1,0 +1,45 @@
+{
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "2512264104",
+    "created_at": "2014-08-19T18:37:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "FergusonUnity",
+                "id": "1376334719281991682"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "errollouis",
+                "id": "16376937"
+            },
+            {
+                "start": 102,
+                "end": 116,
+                "username": "GersonBorrero",
+                "id": "268950193"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 91,
+                "end": 100,
+                "tag": "Ferguson"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 55,
+                "probability": 0.4147,
+                "type": "Organization",
+                "normalized_text": "Guardian Angels"
+            }
+        ]
+    },
+    "id": "501800211232993280",
+    "text": "@FergusonUnity @errollouis Where are the Guardian Angels? Not in general, I mean as far as #Ferguson. @GersonBorrero"
+}

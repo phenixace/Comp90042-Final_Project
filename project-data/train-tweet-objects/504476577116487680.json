@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-08-27T03:52:43.000Z",
+    "id": "504476577116487680",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.7254,
+                "type": "Place",
+                "normalized_text": "Vegas"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 43,
+                "end": 49,
+                "tag": "Vegas"
+            },
+            {
+                "start": 72,
+                "end": 83,
+                "tag": "NHLSeattle"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "@Sportsnet wow! Vegas! Really? Didn't know #Vegas was a hockey got bed. #NHLSeattle",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-10-22T18:59:03.000Z",
+    "id": "524998384357486592",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 52,
+                "probability": 0.9939,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            }
+        ],
+        "urls": [
+            {
+                "start": 77,
+                "end": 99,
+                "url": "http://t.co/78zyWAgGfF",
+                "expanded_url": "http://on.wsj.com/1tfMp7g",
+                "display_url": "on.wsj.com/1tfMp7g"
+            },
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/CFHMVlSAsT",
+                "expanded_url": "https://twitter.com/WSJ/status/524998384357486592/photo/1",
+                "display_url": "pic.twitter.com/CFHMVlSAsT"
+            }
+        ]
+    },
+    "text": "Canadian government offices are locked down in Ottawa after an armed attack: http://t.co/78zyWAgGfF http://t.co/CFHMVlSAsT",
+    "source": "SocialFlow"
+}

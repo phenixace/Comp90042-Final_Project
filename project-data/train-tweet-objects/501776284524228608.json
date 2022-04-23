@@ -1,0 +1,32 @@
+{
+    "text": "@NBCNews @Yamiche Who was the one who had the Colt 45 Molotov Cocktail?",
+    "id": "501776284524228608",
+    "source": "Twitterrific for iOS",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "username": "Yamiche",
+                "id": "89887215"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 46,
+                "end": 69,
+                "probability": 0.823,
+                "type": "Product",
+                "normalized_text": "Colt 45 Molotov Cocktail"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T17:02:43.000Z",
+    "in_reply_to_user_id": "14173315"
+}

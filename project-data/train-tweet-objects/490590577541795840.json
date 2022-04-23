@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-07-19T20:14:43.000Z",
+    "text": "@newscomauHQ why are they in such good condition reminiscent of the ones found on 9/11",
+    "id": "490590577541795840",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "newscomauHQ",
+                "id": "15250661"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15250661"
+}

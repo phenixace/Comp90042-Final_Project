@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SweetChariot30",
+                "id": "706668452"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-03-15T19:41:16.000Z",
+    "text": "@SweetChariot30 It's too hard to with the situation changing several times  daily. The insert they film could be out of date by the time it goes out. They probably have other things to worry about like keeping the shows running and the staff and procedures safe and don't need the extra work",
+    "in_reply_to_user_id": "706668452",
+    "id": "1239275493645520899"
+}

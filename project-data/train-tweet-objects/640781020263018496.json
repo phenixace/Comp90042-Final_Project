@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-09-07T06:57:55.000Z",
+    "id": "640781020263018496",
+    "text": "@tacticaljamie @MostObviousFact @IAmJohnDevine that the only flaw there is it tactical man?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "tacticaljamie",
+                "id": "2903893350"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "2903893350"
+}

@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for BlackBerry",
+    "created_at": "2014-10-22T23:31:14.000Z",
+    "id": "525066880219115520",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 123,
+                "end": 136,
+                "tag": "CanadaStrong"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16343974",
+    "text": "@Telegraph this is the real tragedy. Lovely young man doing the right thing brought down by cowardly terrorists. Shameful. #CanadaStrong"
+}

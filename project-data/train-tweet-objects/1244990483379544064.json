@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1186951271049129985",
+    "text": "@IndiaNeighbors Follow the  rules  &amp; protect urself",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IndiaNeighbors",
+                "id": "1186951271049129985"
+            }
+        ]
+    },
+    "created_at": "2020-03-31T14:10:36.000Z",
+    "id": "1244990483379544064"
+}

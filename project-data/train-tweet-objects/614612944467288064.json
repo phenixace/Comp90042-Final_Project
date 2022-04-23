@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:55:19.000Z",
+    "text": "@FoxNews @LordLouis3 comments prove that America may be big and powerful, but the puritan streak prevents it from being great.",
+    "id": "614612944467288064",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "username": "LordLouis3",
+                "id": "2260150651"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 47,
+                "probability": 0.9865,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01T09:27:02.000Z",
+    "text": "@andersonDrLJA that use to be the norm for most women",
+    "id": "528478308535918592",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "andersonDrLJA",
+                "id": "2316246829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2316246829"
+}

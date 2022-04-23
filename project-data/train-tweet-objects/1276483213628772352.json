@@ -1,0 +1,27 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/8qPUnelKUc",
+                "expanded_url": "https://schoolsweek.co.uk/suspected-covid-19-outbreaks-in-schools-almost-doubles/",
+                "display_url": "schoolsweek.co.uk/suspected-covi…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 91,
+                "end": 111,
+                "probability": 0.6188,
+                "type": "Organization",
+                "normalized_text": "Public Health England"
+            }
+        ]
+    },
+    "created_at": "2020-06-26T11:51:28.000Z",
+    "id": "1276483213628772352",
+    "text": "29/ The number of suspected coronavirus outbreaks in schools almost doubled last week, new Public Health England figures show.\n\nThere number of “acute respiratory outbreaks” in schools rose from 24 to 44 – 16 more outbreaks than were recorded at hospitals.\nhttps://t.co/8qPUnelKUc"
+}

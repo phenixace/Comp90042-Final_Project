@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "SenatorBiaggi",
+                "id": "1082694056839397376"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1082694056839397376",
+    "created_at": "2020-03-18T04:35:32.000Z",
+    "text": "@SenatorBiaggi @WHO You mean to tell me ppl bathe in cold/lukewarm water? 🤦🏾‍♀️",
+    "id": "1240134718382899205",
+    "source": "Twitter for iPhone"
+}

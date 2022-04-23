@@ -1,0 +1,49 @@
+{
+    "in_reply_to_user_id": "972651",
+    "id": "544314781901918208",
+    "created_at": "2014-12-15T02:15:31.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 25,
+                "probability": 0.8536,
+                "type": "Organization",
+                "normalized_text": "Uber"
+            },
+            {
+                "start": 60,
+                "end": 65,
+                "probability": 0.8711,
+                "type": "Place",
+                "normalized_text": "Sydney"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/M2Rs36xnnP",
+                "expanded_url": "http://on.mash.to/1GnzYLc",
+                "display_url": "on.mash.to/1GnzYLc"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/pJBBKh3k0f",
+                "expanded_url": "https://twitter.com/mashable/status/544314234541469696/photo/1",
+                "display_url": "pic.twitter.com/pJBBKh3k0f"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "Horrible. \"@mashable: Uber intros surge pricing in downtown Sydney during hostage siege http://t.co/M2Rs36xnnP http://t.co/pJBBKh3k0f”"
+}

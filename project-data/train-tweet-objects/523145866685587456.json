@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "523145866685587456",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 24,
+                "end": 42,
+                "tag": "BringBackOurGirls"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T16:17:48.000Z",
+    "text": "@BBCBreaking yes please #BringBackOurGirls. This horrific \"thing\" that we let happen for so long is ugly indelible stain on all of us!"
+}

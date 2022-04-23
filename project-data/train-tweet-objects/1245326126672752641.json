@@ -1,0 +1,18 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-01T12:24:20.000Z",
+    "text": "What to do if there is a case of suspected COVID-19 in your workplace? https://t.co/gXlJXpvFEN",
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 94,
+                "url": "https://t.co/gXlJXpvFEN",
+                "expanded_url": "https://twitter.com/corysanhandwash/status/1245326126672752641/photo/1",
+                "display_url": "pic.twitter.com/gXlJXpvFEN"
+            }
+        ]
+    },
+    "id": "1245326126672752641",
+    "in_reply_to_user_id": "1216709367581552640"
+}

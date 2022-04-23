@@ -1,0 +1,46 @@
+{
+    "id": "1255534620084404225",
+    "text": "@ishtiaqarehman @MansoorGajani @officialFakeera I am not here to advocate for @ImranKhanPTI but #Zardari has a big carnage that is non-negotiable because #Pakistan has collectively suffered at all levels.There is absolutely no sympathy to be found to allow the devil to abuse #18thAmendment @ cost of democratic rights of masses",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 30,
+                "username": "MansoorGajani",
+                "id": "96749056"
+            },
+            {
+                "start": 31,
+                "end": 47,
+                "username": "officialFakeera",
+                "id": "1213013177593561089"
+            },
+            {
+                "start": 78,
+                "end": 91,
+                "username": "ImranKhanPTI",
+                "id": "122453931"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 104,
+                "tag": "Zardari"
+            },
+            {
+                "start": 154,
+                "end": 163,
+                "tag": "Pakistan"
+            },
+            {
+                "start": 276,
+                "end": 290,
+                "tag": "18thAmendment"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2575183506",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-29T16:29:14.000Z"
+}

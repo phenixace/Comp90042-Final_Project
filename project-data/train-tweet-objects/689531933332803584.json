@@ -1,0 +1,23 @@
+{
+    "created_at": "2016-01-19T19:36:38.000Z",
+    "id": "689531933332803584",
+    "text": "@WorstFact @WowSoPunny I see what you did there. 3 Levels, impressive.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "WorstFact",
+                "id": "2319494544"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "WowSoPunny",
+                "id": "3436684095"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "2319494544"
+}

@@ -1,0 +1,63 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/e29r8mJhYn",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1275828173469614080/photo/1",
+                "display_url": "pic.twitter.com/e29r8mJhYn"
+            },
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/e29r8mJhYn",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1275828173469614080/photo/1",
+                "display_url": "pic.twitter.com/e29r8mJhYn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 173,
+                "end": 185,
+                "username": "GregClarkMP",
+                "id": "224655400"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 67,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 90,
+                "end": 91,
+                "probability": 0.9674,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 141,
+                "end": 142,
+                "probability": 0.6029,
+                "type": "Place",
+                "normalized_text": "UK"
+            },
+            {
+                "start": 213,
+                "end": 215,
+                "probability": 0.3742,
+                "type": "Organization",
+                "normalized_text": "PHE"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T16:28:34.000Z",
+    "id": "1275828173469614080",
+    "text": "18/. Today there were another 154 reported deaths from #coronavirus.\n\nOn the day that the UK finally locked down on 23 March, there were 102\nUK Covid deaths.\n\nRe: Tweet 17👆 @GregClarkMP could you tell us whether PHE have submitted the document they said they would, 3 months ago? https://t.co/e29r8mJhYn"
+}

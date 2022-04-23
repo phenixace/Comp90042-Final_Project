@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 63,
+                "probability": 0.5766,
+                "type": "Organization",
+                "normalized_text": "Malaysia Airlines"
+            }
+        ],
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/a6SHqAWx0Y",
+                "expanded_url": "http://huff.to/1jBI5wx",
+                "display_url": "huff.to/1jBI5wx",
+                "status": 200,
+                "unwound_url": "https://www.huffingtonpost.co.uk/2014/07/17/malaysia-airlines-mh17-passenger-jet-crashes-ukraine-near-russian-border_n_5595450.html?1405610947"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/bQkx3x55EZ",
+                "expanded_url": "https://twitter.com/HuffPostUK/status/489796998615547904/photo/1",
+                "display_url": "pic.twitter.com/bQkx3x55EZ"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 41,
+                "end": 46,
+                "tag": "MH17"
+            }
+        ]
+    },
+    "id": "489798219283857408",
+    "created_at": "2014-07-17T15:46:10.000Z",
+    "source": "TweetDeck",
+    "text": "Ukrainian minister says rebels shot down #MH17 Malaysia Airlines plane  http://t.co/a6SHqAWx0Y http://t.co/bQkx3x55EZ"
+}

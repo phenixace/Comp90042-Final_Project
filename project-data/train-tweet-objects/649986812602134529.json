@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 34,
+                "probability": 0.9828,
+                "type": "Person",
+                "normalized_text": "Pope Francis"
+            },
+            {
+                "start": 83,
+                "end": 91,
+                "probability": 0.9873,
+                "type": "Person",
+                "normalized_text": "Kim Davis"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "649986812602134529",
+    "created_at": "2015-10-02T16:38:26.000Z",
+    "in_reply_to_user_id": "807095",
+    "text": "@nytimes No one forced Pope Francis, yuk, to meet with would be \"christian\" martyr Kim Davis. He knew what he was doing. Double yuk."
+}

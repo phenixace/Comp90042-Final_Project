@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-04-08T13:20:55.000Z",
+    "text": "Once again with the help of our designer @ArsalaanQamar we have designed a fun information graphic to continue to help raise awareness of about the coronavirus. During the lockdown we are hoping to release a graphic or meme everyday so please check them out and share them widely. https://t.co/2Fi52QfxK7",
+    "id": "1247877081507209216",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 41,
+                "end": 55,
+                "username": "ArsalaanQamar",
+                "id": "1558350697"
+            }
+        ],
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/2Fi52QfxK7",
+                "expanded_url": "https://twitter.com/UsmanAhmad_iam/status/1247877081507209216/photo/1",
+                "display_url": "pic.twitter.com/2Fi52QfxK7"
+            }
+        ]
+    }
+}

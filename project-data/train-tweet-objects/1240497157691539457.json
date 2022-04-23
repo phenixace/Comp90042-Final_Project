@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-19T04:35:44.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 159,
+                "end": 163,
+                "probability": 0.9969,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 221,
+                "end": 232,
+                "probability": 0.9378,
+                "type": "Place",
+                "normalized_text": "Saudi Arabia"
+            }
+        ]
+    },
+    "id": "1240497157691539457",
+    "text": "Can humans become infected with a novel coronavirus of animal source?\nDetailed investigations found that SARS-CoV was transmitted from civet cats to humans in China in 2002 and MERS-CoV from dromedary camels to humans in Saudi Arabia in 2012.",
+    "in_reply_to_user_id": "340400173"
+}

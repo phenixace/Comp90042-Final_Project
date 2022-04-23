@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-06-21T17:09:47.000Z",
+    "source": "Twitter for Android Tablets",
+    "id": "612668749229916160",
+    "text": "@ajplus I absolutely HATE straight, mid 40s, white people BYE!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110396781"
+}

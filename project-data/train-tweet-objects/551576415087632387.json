@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 23,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ]
+    },
+    "id": "551576415087632387",
+    "text": "@FoxNews @foxnewshealth This is super uncomfortable. If I woke up I'd freak the hell out.",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-04T03:10:39.000Z",
+    "in_reply_to_user_id": "1367531"
+}

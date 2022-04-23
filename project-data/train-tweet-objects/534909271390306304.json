@@ -1,0 +1,36 @@
+{
+    "created_at": "2014-11-19T03:21:23.000Z",
+    "text": "@OfficiaITMZNews @KylieJenner @Tyga very sad!! #teamblacchyna",
+    "id": "534909271390306304",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "OfficiaITMZNews",
+                "id": "2422621896"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "KylieJenner",
+                "id": "236699098"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "username": "Tyga",
+                "id": "22733444"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 61,
+                "tag": "teamblacchyna"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2422621896"
+}

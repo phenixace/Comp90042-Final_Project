@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Cosmopolitan",
+                "id": "23482952"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T16:31:19.000Z",
+    "id": "514089570153943040",
+    "text": "@Cosmopolitan 😂😩",
+    "in_reply_to_user_id": "23482952"
+}

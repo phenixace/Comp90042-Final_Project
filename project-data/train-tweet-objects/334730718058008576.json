@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2013-05-15T18:03:16.000Z",
+    "id": "334730718058008576",
+    "text": "@stephenfry @elvis717  don't suppose he got much of a buzz out of it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "elvis717",
+                "id": "17986456"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15439395"
+}

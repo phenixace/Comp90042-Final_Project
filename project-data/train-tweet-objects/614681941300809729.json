@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T06:29:29.000Z",
+    "text": "@FoxNews we have fought for this for so long. Be rid of, homophobic losers💁",
+    "id": "614681941300809729",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

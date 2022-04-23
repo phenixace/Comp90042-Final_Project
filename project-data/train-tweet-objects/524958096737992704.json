@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "524958096737992704",
+    "in_reply_to_user_id": "22968158",
+    "created_at": "2014-10-22T16:18:58.000Z",
+    "text": "@Joerayment @wcuddington",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Joerayment",
+                "id": "22968158"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "wcuddington",
+                "id": "195079410"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "created_at": "2020-04-06T03:30:34.000Z",
+    "in_reply_to_user_id": "26953117",
+    "text": "@flrcld @Yamiche @MomentumAdvice @VelshiRuhle @Varneyco @cnnfinance1 @FoxBusiness @MariaBartiromo I would look into that to make sure it's true before making any decision. I don't think that's true.",
+    "id": "1247003740852432896",
+    "entities": {
+        "mentions": [
+            {
+                "start": 8,
+                "end": 16,
+                "username": "Yamiche",
+                "id": "89887215"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "MomentumAdvice",
+                "id": "877997825472294912"
+            },
+            {
+                "start": 33,
+                "end": 45,
+                "username": "VelshiRuhle",
+                "id": "1292902200713392146"
+            },
+            {
+                "start": 46,
+                "end": 55,
+                "username": "Varneyco",
+                "id": "281610530"
+            },
+            {
+                "start": 56,
+                "end": 68,
+                "username": "cnnfinance1",
+                "id": "137387652"
+            },
+            {
+                "start": 69,
+                "end": 81,
+                "username": "FoxBusiness",
+                "id": "56413858"
+            },
+            {
+                "start": 82,
+                "end": 97,
+                "username": "MariaBartiromo",
+                "id": "208155240"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

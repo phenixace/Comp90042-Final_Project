@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27T03:27:41.000Z",
+    "id": "504470279918469120",
+    "text": "@Sportsnet why did they not just move the coyotes there! well expansion always travels in pairs so anxious to see 2nd location",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "21660529"
+}

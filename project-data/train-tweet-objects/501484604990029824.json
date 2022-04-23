@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-18T21:43:41.000Z",
+    "id": "501484604990029824",
+    "text": "@realDonaldTrump The President doesn't go to soldiers funerals because you shouldn't give more weight to one soldiers death over another.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

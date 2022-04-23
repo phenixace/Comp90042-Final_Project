@@ -1,0 +1,42 @@
+{
+    "text": "MT @NBCNews: List of overnight arrests in Ferguson shows much higher # than officials reported http://t.co/pn64Kvw4FT http://t.co/pcWMdZiUux",
+    "id": "501779892615512065",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 11,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 49,
+                "probability": 0.8624,
+                "type": "Place",
+                "normalized_text": "Ferguson"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/pn64Kvw4FT",
+                "expanded_url": "http://nbcnews.to/Xy2JnO",
+                "display_url": "nbcnews.to/Xy2JnO"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/pcWMdZiUux",
+                "expanded_url": "https://twitter.com/NBCNews/status/501768276523761666/photo/1",
+                "display_url": "pic.twitter.com/pcWMdZiUux"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T17:17:03.000Z",
+    "in_reply_to_user_id": "14173315"
+}

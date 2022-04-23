@@ -1,0 +1,26 @@
+{
+    "source": "dlvr.it",
+    "entities": {
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/FekY2EjWyC",
+                "expanded_url": "http://eonli.ne/1qeaeeA",
+                "display_url": "eonli.ne/1qeaeeA"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "probability": 0.7256,
+                "type": "Person",
+                "normalized_text": "Betty White"
+            }
+        ]
+    },
+    "created_at": "2014-09-04T02:28:44.000Z",
+    "id": "507354546041925632",
+    "text": "Betty White Is Victim of Death Hoax After Fans Misread Satirical Story About 92-Year-Old's Dye Job http://t.co/FekY2EjWyC"
+}

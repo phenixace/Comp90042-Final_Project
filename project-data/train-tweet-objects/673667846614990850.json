@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "FreeBeacon",
+                "id": "455764741"
+            },
+            {
+                "start": 12,
+                "end": 19,
+                "username": "Kredo0",
+                "id": "131538331"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 31,
+                "end": 42,
+                "probability": 0.4042,
+                "type": "Person",
+                "normalized_text": "Evil Johnson"
+            }
+        ]
+    },
+    "created_at": "2015-12-07T00:58:25.000Z",
+    "id": "673667846614990850",
+    "text": "@FreeBeacon @Kredo0 Jeh See No Evil Johnson. What a guy!",
+    "in_reply_to_user_id": "455764741"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-07-29T22:53:52.000Z",
+    "in_reply_to_user_id": "1020058453",
+    "source": "Twitter for iPhone",
+    "text": "@BuzzFeedNews @BuzzFeed I don't blame them, I'd be doing the same thing!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BuzzFeedNews",
+                "id": "1020058453"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "BuzzFeed",
+                "id": "5695632"
+            }
+        ]
+    },
+    "id": "626526078899744770"
+}

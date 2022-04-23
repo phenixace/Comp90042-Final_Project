@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 30,
+                "end": 45,
+                "probability": 0.9754,
+                "type": "Person",
+                "normalized_text": "James Earl Jones"
+            }
+        ],
+        "urls": [
+            {
+                "start": 60,
+                "end": 82,
+                "url": "http://t.co/YvjRhI5zJk",
+                "expanded_url": "http://cnn.it/1KmuNRF",
+                "display_url": "cnn.it/1KmuNRF"
+            },
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/AZDBL29d3I",
+                "expanded_url": "https://twitter.com/CNN/status/638050997340893184/photo/1",
+                "display_url": "pic.twitter.com/AZDBL29d3I"
+            }
+        ]
+    },
+    "id": "638050997340893184",
+    "text": "In celebrity death hoax news, James Earl Jones is not dead. http://t.co/YvjRhI5zJk http://t.co/AZDBL29d3I",
+    "created_at": "2015-08-30T18:09:46.000Z"
+}

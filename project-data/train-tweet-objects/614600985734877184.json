@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:07:48.000Z",
+    "text": "@FoxNews I'm as offended at this picture as if it were a Confederate flag. #SadDayforAmerica",
+    "id": "614600985734877184",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 75,
+                "end": 92,
+                "tag": "SadDayforAmerica"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

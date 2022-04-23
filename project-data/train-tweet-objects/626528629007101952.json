@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-07-29T23:04:00.000Z",
+    "in_reply_to_user_id": "1020058453",
+    "source": "Twitter Web Client",
+    "text": "@BuzzFeedNews @galileo44 哈..哈..哈...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BuzzFeedNews",
+                "id": "1020058453"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "Galileo44",
+                "id": "1467583902"
+            }
+        ]
+    },
+    "id": "626528629007101952"
+}

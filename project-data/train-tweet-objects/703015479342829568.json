@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "126903716",
+    "text": "@Gotham3 @JackieJackielg Deep stuff there. Can't disagree with the first 3 but the last 3 for Trump is bit of a stretch especially last one",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 94,
+                "end": 98,
+                "probability": 0.9987,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-02-26T00:35:26.000Z",
+    "id": "703015479342829568"
+}

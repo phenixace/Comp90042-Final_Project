@@ -1,0 +1,54 @@
+{
+    "id": "614620518969405445",
+    "text": "@ABC But how's this going down w/ radical extremist crusaders of #DeepState mil contractor #OpChaos? concerned jrno http://t.co/a94wJvDnTL",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 65,
+                "end": 75,
+                "tag": "DeepState"
+            },
+            {
+                "start": 91,
+                "end": 99,
+                "tag": "OpChaos"
+            }
+        ],
+        "urls": [
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/a94wJvDnTL",
+                "expanded_url": "http://viclivingston.blogspot.com/2013/12/weekend-of-fatal-accidents-op-chaos.html",
+                "display_url": "viclivingston.blogspot.com/2013/12/weeken…",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1473910653224108038/5wAKFJ-v?format=jpg&name=orig",
+                        "width": 948,
+                        "height": 498
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1473910653224108038/5wAKFJ-v?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "WEEKEND OF FATAL 'ACCIDENTS': OP CHAOS RADIO FREQ WEAPONEERS SEND CHILLING MESSAGE OF COVERT HI-TECH POWER GRAB?",
+                "description": "Veteran journalist Vic Livingston. DONATE: USPS/ WESTERN UNION MONEY ORDER ONLY PAYABLE TO VIC LIVINGSTON, P.O. BOX 91, MORRISVILLE, PA 19067.",
+                "unwound_url": "http://viclivingston.blogspot.com/2013/12/weekend-of-fatal-accidents-op-chaos.html"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "TweetDeck",
+    "created_at": "2015-06-27T02:25:25.000Z"
+}

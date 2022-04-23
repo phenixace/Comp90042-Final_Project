@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "NRO",
+                "id": "19417492"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "LyndaG1963",
+                "id": "478157435"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 68,
+                "probability": 0.8035,
+                "type": "Person",
+                "normalized_text": "MI Gov Snyder"
+            }
+        ]
+    },
+    "text": "@NRO @LyndaG1963 All an act. Why didn't he stop it like MI Gov Snyder did. He could have, now he cries about it? BS",
+    "id": "666215989693046784",
+    "in_reply_to_user_id": "19417492",
+    "created_at": "2015-11-16T11:27:24.000Z"
+}

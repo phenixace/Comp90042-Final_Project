@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "652207782930857984",
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 31,
+                "probability": 0.8422,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            },
+            {
+                "start": 101,
+                "end": 109,
+                "probability": 0.8089,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Starbucks",
+                "id": "30973"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "30973",
+    "created_at": "2015-10-08T19:43:47.000Z",
+    "text": "@Starbucks why doesn't Starbucks support US troops by sending them coffee. That's ok I won't support Starbucks anymore"
+}

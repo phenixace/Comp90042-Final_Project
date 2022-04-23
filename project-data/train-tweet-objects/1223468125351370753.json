@@ -1,0 +1,25 @@
+{
+    "id": "1223468125351370753",
+    "entities": {
+        "annotations": [
+            {
+                "start": 131,
+                "end": 135,
+                "probability": 0.9978,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 147,
+                "end": 158,
+                "probability": 0.8571,
+                "type": "Place",
+                "normalized_text": "Saudi Arabia"
+            }
+        ]
+    },
+    "created_at": "2020-02-01T04:48:26.000Z",
+    "text": "4. Q—Can Humans become infected with a novel coronavirus of animal source?\n\nA—Yes, such instances have happened in past in 2002 in China &amp; 2012 in Saudi Arabia. But with different virus",
+    "in_reply_to_user_id": "164997168",
+    "source": "Twitter for Android"
+}

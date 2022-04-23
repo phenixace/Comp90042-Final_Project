@@ -1,0 +1,47 @@
+{
+    "id": "1255513061101842436",
+    "text": "@officialFakeera Good vdo but dear Fakeera;autonomy of provinces under a leader like Jinnah compared to autonomy of Sindh under a crook like Zardari are two different entities. Its a double edged sword that has been used to kill millions of Sindhis not help them. Aziz Memon's killers remain free.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "officialFakeera",
+                "id": "1213013177593561089"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 85,
+                "end": 90,
+                "probability": 0.5659,
+                "type": "Person",
+                "normalized_text": "Jinnah"
+            },
+            {
+                "start": 116,
+                "end": 120,
+                "probability": 0.6054,
+                "type": "Place",
+                "normalized_text": "Sindh"
+            },
+            {
+                "start": 141,
+                "end": 147,
+                "probability": 0.4895,
+                "type": "Person",
+                "normalized_text": "Zardari"
+            },
+            {
+                "start": 264,
+                "end": 273,
+                "probability": 0.9541,
+                "type": "Person",
+                "normalized_text": "Aziz Memon"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1213013177593561089",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-29T15:03:34.000Z"
+}

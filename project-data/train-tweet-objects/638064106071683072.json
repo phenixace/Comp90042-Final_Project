@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "id": "638064106071683072",
+    "text": "@CNN Good to hear because it would be sad to loose such a talented man.",
+    "created_at": "2015-08-30T19:01:52.000Z",
+    "in_reply_to_user_id": "759251"
+}

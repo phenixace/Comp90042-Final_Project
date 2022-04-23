@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle This just shows that that This President is a real BOOB",
+    "id": "676068071187050497",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T15:56:03.000Z"
+}

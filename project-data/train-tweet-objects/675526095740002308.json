@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "251881119",
+    "created_at": "2015-12-12T04:02:26.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 23,
+                "username": "palestyria",
+                "id": "1311248862"
+            }
+        ]
+    },
+    "id": "675526095740002308",
+    "source": "Twitter Web Client",
+    "text": "@Maestrouzy @palestyria Sharia law will cause death. Then I will."
+}

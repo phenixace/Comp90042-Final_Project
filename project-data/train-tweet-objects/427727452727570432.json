@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "htTweets",
+                "id": "36327407"
+            }
+        ],
+        "urls": [
+            {
+                "start": 32,
+                "end": 54,
+                "url": "http://t.co/ZW5LhEzS7c",
+                "expanded_url": "http://timetomakesupercomputer.blogspot.com/2014/01/mega-science-on-sale.html",
+                "display_url": "timetomakesupercomputer.blogspot.com/2014/01/mega-s…"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-01-27T08:59:06.000Z",
+    "text": "@htTweets Mega Science- Bid now http://t.co/ZW5LhEzS7c",
+    "in_reply_to_user_id": "36327407",
+    "id": "427727452727570432"
+}

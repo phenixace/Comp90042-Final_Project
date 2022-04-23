@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T20:56:45.000Z",
+    "id": "514156369889341440",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.2972,
+                "type": "Place",
+                "normalized_text": "Alaskan"
+            },
+            {
+                "start": 70,
+                "end": 81,
+                "probability": 0.656,
+                "type": "Person",
+                "normalized_text": "Charlo Green"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "text": "“@CNN: Well, this is one way to quit your job. Watch Alaskan reporter Charlo Green quit live on air.\" What a way to quit a job..."
+}

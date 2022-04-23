@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "id": "1244197984490815489",
+    "entities": {
+        "annotations": [
+            {
+                "start": 204,
+                "end": 209,
+                "probability": 0.4975,
+                "type": "Place",
+                "normalized_text": "saline"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "UNGeneva",
+                "id": "164263382"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "164263382",
+    "created_at": "2020-03-29T09:41:30.000Z",
+    "text": "@UNGeneva @WHO \"No. There is no evidence that ...rinsing the nose with saline has protected people from infection with the new coronavirus.\"\nHas it been tested? In a laboratory, does the virus survive in saline?"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "gayssandra",
+                "id": "1281085631167295490"
+            }
+        ]
+    },
+    "id": "614113547711164416",
+    "text": "@gayssandra @NewsWatch33 I CANT BELIEVE THIS ISN'T A JOKE",
+    "created_at": "2015-06-25T16:50:54.000Z",
+    "in_reply_to_user_id": "508245806"
+}

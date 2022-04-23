@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "GormleyAlbany",
+                "id": "46747249"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1278357477881450496",
+    "created_at": "2020-07-01T15:59:08.000Z",
+    "in_reply_to_user_id": "46747249",
+    "text": "@GormleyAlbany What is the purpose other than to increase case count?\n\nIf this is to get an understanding of population % infected, do serological testing. (btw, Science suggests herd immunity in the 20% - 30% range)"
+}

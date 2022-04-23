@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 56,
+                "probability": 0.896,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "Lisaanderson1",
+                "id": "20268643"
+            }
+        ]
+    },
+    "id": "552575505430765568",
+    "text": "@ABC @Lisaanderson1 This needs to be a law here in the US!!",
+    "created_at": "2015-01-06T21:20:41.000Z",
+    "in_reply_to_user_id": "28785486"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "528342877890691072",
+    "created_at": "2014-11-01T00:28:52.000Z",
+    "text": "@TwitchyTeam So the \"State\" should raise my children? Hell no.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TwitchyTeam",
+                "id": "469194846"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "469194846",
+    "source": "Twitter for iPhone"
+}

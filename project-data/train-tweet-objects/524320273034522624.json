@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:04:29.000Z",
+    "source": "TweetDeck",
+    "id": "524320273034522624",
+    "text": "@AlfredoFlores you're going to yawn when you read this 🔮",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

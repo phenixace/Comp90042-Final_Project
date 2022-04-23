@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21T20:47:27.000Z",
+    "source": "Twitter for iPhone",
+    "id": "612723529348444160",
+    "text": "@winterxlarrys @ajplus @lightskinzayn what's wrong w. dog food for him?&amp; u talk about humanity. He has none so why should they have it w him",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 22,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2335473751"
+}

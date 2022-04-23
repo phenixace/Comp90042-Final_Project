@@ -1,0 +1,24 @@
+{
+    "created_at": "2020-03-04T10:13:43.000Z",
+    "id": "1235146394769518594",
+    "entities": {
+        "urls": [
+            {
+                "start": 241,
+                "end": 264,
+                "url": "https://t.co/2M4xRZekjt",
+                "expanded_url": "https://twitter.com/Alumx_mlp/status/1235146394769518594/photo/1",
+                "display_url": "pic.twitter.com/2M4xRZekjt"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 125,
+                "end": 137,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "text": "damn, every single store I've been to is out or rubbing alcohol and hand sanitizer\n\nseems like people are stacking up due to #coronavirus\n\nluckily I managed to mac gyver something out (spay with rubbing alcohol for hands) , stay safe y'all! https://t.co/2M4xRZekjt",
+    "source": "Twitter for Android"
+}

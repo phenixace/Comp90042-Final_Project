@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-05-03T22:54:59.000Z",
+    "text": "@AndCripple Έτοιμα τα είχα. Γενικά όντας ομάδα υψηλού κινδύνου τα κοιτάω καθημερινά",
+    "id": "1257081248943689728",
+    "in_reply_to_user_id": "1249905966117781505",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "AndCripple",
+                "id": "1249905966117781505"
+            }
+        ]
+    }
+}

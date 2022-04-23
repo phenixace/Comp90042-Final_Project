@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T12:20:58.000Z",
+    "text": "@AlexBerenson And two months ago they said that’s what needed to happen, more testing to identify and isolate cases and those people with no symptoms.  Now they are saying that’s bad bad because, well that’s a lot of cases.  I feel like we are being punked.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2284193047",
+    "id": "1278302576723755013",
+    "source": "Twitter for iPhone"
+}

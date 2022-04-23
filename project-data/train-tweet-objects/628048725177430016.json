@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "TheKnowledge",
+                "id": "73593143"
+            },
+            {
+                "start": 31,
+                "end": 46,
+                "username": "TheSlyStallone",
+                "id": "183310940"
+            }
+        ],
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/VyKzdDxLPt",
+                "expanded_url": "https://twitter.com/gfmete/status/628048725177430016/photo/1",
+                "display_url": "pic.twitter.com/VyKzdDxLPt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 23,
+                "end": 28,
+                "probability": 0.4645,
+                "type": "Person",
+                "normalized_text": "Butkus"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "73593143",
+    "created_at": "2015-08-03T03:44:19.000Z",
+    "id": "628048725177430016",
+    "text": "@TheKnowledge You sold Butkus? @TheSlyStallone http://t.co/VyKzdDxLPt"
+}

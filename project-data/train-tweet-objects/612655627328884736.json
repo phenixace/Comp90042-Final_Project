@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-06-21T16:17:38.000Z",
+    "source": "Twitter for iPhone",
+    "id": "612655627328884736",
+    "text": "@winterxlarrys @ajplus @lightskinzayn what prisoners usually get is worse than dog food",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 22,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2335473751"
+}

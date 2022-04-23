@@ -1,0 +1,40 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-02-25T02:51:14.000Z",
+    "text": "@christlike911 @WHO From the WHO, on January 30th 2020, when there were already 10 000 people infected and 213 deaths in China and 118 people infected outside China :\n\"The Committee does not recommend any travel or trade restriction based on the current information available. \"\nNow, who is crazy?...",
+    "id": "1232135940199436289",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 121,
+                "end": 125,
+                "probability": 0.9989,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 159,
+                "end": 163,
+                "probability": 0.9636,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 168,
+                "end": 180,
+                "probability": 0.5244,
+                "type": "Organization",
+                "normalized_text": "The Committee"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "997725925864366080"
+}

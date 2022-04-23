@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-10T06:33:00.000Z",
+    "text": "@patrickklepek only 2 billion?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509590342547804160",
+    "source": "Plume for Android"
+}

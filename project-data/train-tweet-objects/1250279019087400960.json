@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T04:25:21.000Z",
+    "text": "@StephenAtHome @DrLaPook 😂😂 watching you change into pajamas for Cate Blanchett was hilarious!! I love it when you have her as a Guest. She is soooooo intelligent and funny. What a great pajama party!! 🤣",
+    "id": "1250279019087400960",
+    "entities": {
+        "annotations": [
+            {
+                "start": 67,
+                "end": 80,
+                "probability": 0.9983,
+                "type": "Person",
+                "normalized_text": "Cate Blanchett"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

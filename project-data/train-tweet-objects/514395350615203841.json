@@ -1,0 +1,26 @@
+{
+    "id": "514395350615203841",
+    "source": "SocialFlow",
+    "text": "Reporter Charlo Green quit on air to start a marijuana business http://t.co/vkDUy6nn8P Will quitting on TV pay off? http://t.co/ESEzaE312o",
+    "created_at": "2014-09-23T12:46:23.000Z",
+    "entities": {
+        "urls": [
+            {
+                "start": 64,
+                "end": 86,
+                "url": "http://t.co/vkDUy6nn8P",
+                "expanded_url": "http://bbc.in/1sVVZrF",
+                "display_url": "bbc.in/1sVVZrF",
+                "status": 200,
+                "unwound_url": "https://www.bbc.co.uk/news/blogs-trending-29314722?ocid=socialflow_twitter"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/ESEzaE312o",
+                "expanded_url": "https://twitter.com/BBCtrending/status/514395350615203841/photo/1",
+                "display_url": "pic.twitter.com/ESEzaE312o"
+            }
+        ]
+    }
+}

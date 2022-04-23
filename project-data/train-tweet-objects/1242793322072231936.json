@@ -1,0 +1,39 @@
+{
+    "text": "#COVID19 \n✅ It can be transmitted in areas with hot and humid climates.\n✅Cold weather and snow CANNOT kill the new coronavirus.\n✅The new coronavirus CANNOT be transmitted through mosquito bites.\n\nMore facts here from @WHO: https://t.co/nLMJBEPuoF https://t.co/EomGI1C1Q8",
+    "source": "SocialFlow",
+    "entities": {
+        "mentions": [
+            {
+                "start": 217,
+                "end": 221,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 223,
+                "end": 246,
+                "url": "https://t.co/nLMJBEPuoF",
+                "expanded_url": "https://bit.ly/2WFg3rT",
+                "display_url": "bit.ly/2WFg3rT"
+            },
+            {
+                "start": 247,
+                "end": 270,
+                "url": "https://t.co/EomGI1C1Q8",
+                "expanded_url": "https://twitter.com/UNEP/status/1242793322072231936/photo/1",
+                "display_url": "pic.twitter.com/EomGI1C1Q8"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 8,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "id": "1242793322072231936",
+    "created_at": "2020-03-25T12:39:52.000Z"
+}

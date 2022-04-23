@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 52,
+                "end": 64,
+                "probability": 0.9951,
+                "type": "Person",
+                "normalized_text": "Carly Fiorina"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ForbesTech",
+                "id": "14885549"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 87,
+                "end": 94,
+                "tag": "Compaq"
+            },
+            {
+                "start": 104,
+                "end": 112,
+                "tag": "hpsplit"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "14885549",
+    "id": "519855516416495616",
+    "created_at": "2014-10-08T14:23:08.000Z",
+    "text": "@ForbesTech OK now they are doing this just to give Carly Fiorina the finger: Remember #Compaq, anyone? #hpsplit"
+}

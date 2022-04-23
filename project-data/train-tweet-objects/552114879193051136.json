@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "stone_brenna",
+                "id": "2839069128"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 23,
+                "end": 37,
+                "username": "foxnewshealth",
+                "id": "262326533"
+            }
+        ]
+    },
+    "id": "552114879193051136",
+    "text": "@stone_brenna @FoxNews @foxnewshealth Wow that is incredible. It makes me wonder about the dosage of anesthesia.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-05T14:50:19.000Z",
+    "in_reply_to_user_id": "2839069128"
+}

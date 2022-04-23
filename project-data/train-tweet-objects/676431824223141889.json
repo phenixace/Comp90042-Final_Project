@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "251881119",
+    "created_at": "2015-12-14T16:01:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "AbdulNasirJ",
+                "id": "21251225"
+            }
+        ]
+    },
+    "id": "676431824223141889",
+    "source": "Twitter for BlackBerry",
+    "text": "@Maestrouzy @AbdulNasirJ  Alhamdulilah"
+}

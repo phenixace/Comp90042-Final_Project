@@ -1,0 +1,42 @@
+{
+    "id": "504442183760748545",
+    "text": "“@JayOnrait:Looking forward to first matchup between Las Vegas NHL expansion team and a Canadian team http://t.co/pYgCdGVstx”&lt;~Nailed It! RT",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "JayOnrait",
+                "id": "22292529"
+            }
+        ],
+        "urls": [
+            {
+                "start": 102,
+                "end": 124,
+                "url": "http://t.co/pYgCdGVstx",
+                "expanded_url": "http://www.youtube.com/watch?v=KpXzASiXX8U&sns=tw",
+                "display_url": "youtube.com/watch?v=KpXzAS…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 61,
+                "probability": 0.7386,
+                "type": "Organization",
+                "normalized_text": "Las Vegas"
+            },
+            {
+                "start": 63,
+                "end": 65,
+                "probability": 0.7155,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Twitter for iPad",
+    "created_at": "2014-08-27T01:36:03.000Z"
+}

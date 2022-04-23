@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 66,
+                "probability": 0.7454,
+                "type": "Product",
+                "normalized_text": "iPhone 11 Pro Max"
+            }
+        ]
+    },
+    "created_at": "2020-03-27T04:14:07.000Z",
+    "text": "Can someone please convince me not to purchase an iPhone 11 Pro Max... I’m on the edge . Who spends that much on a phone ....",
+    "id": "1243390819723120643"
+}

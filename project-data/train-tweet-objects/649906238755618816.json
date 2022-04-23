@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "807095",
+    "created_at": "2015-10-02T11:18:16.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "649906238755618816",
+    "text": "@nytimes Slap in face to gays."
+}

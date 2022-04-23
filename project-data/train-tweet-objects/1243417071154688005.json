@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-27T05:58:25.000Z",
+    "text": "Same Setup BN down by 800 points https://t.co/kJz46zRvhB",
+    "id": "1243417071154688005",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 33,
+                "end": 56,
+                "url": "https://t.co/kJz46zRvhB",
+                "expanded_url": "https://twitter.com/asitbaran/status/1243417071154688005/photo/1",
+                "display_url": "pic.twitter.com/kJz46zRvhB"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "79626923"
+}

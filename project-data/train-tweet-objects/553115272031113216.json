@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "14173315",
+    "created_at": "2015-01-08T09:05:31.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "id": "553115272031113216",
+    "source": "Twitter for Android",
+    "text": "@NBCNews"
+}

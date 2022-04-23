@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 36,
+                "probability": 0.9809,
+                "type": "Person",
+                "normalized_text": "Roger Rodas"
+            },
+            {
+                "start": 67,
+                "end": 77,
+                "probability": 0.9942,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            },
+            {
+                "start": 113,
+                "end": 121,
+                "probability": 0.5318,
+                "type": "Person",
+                "normalized_text": "Santa Ana"
+            },
+            {
+                "start": 124,
+                "end": 134,
+                "probability": 0.5044,
+                "type": "Person",
+                "normalized_text": "El Salvador"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 17,
+                "username": "SalvadoranPride",
+                "id": "867212870"
+            }
+        ]
+    },
+    "text": "“@SalvadoranPride: R.I.P. Roger Rodas, The CEO/Racer who died with Paul Walker yesterday. He was originally from Santa Ana, El Salvador.”💙🙏",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T15:38:44.000Z",
+    "in_reply_to_user_id": "867212870",
+    "id": "407171917914058752"
+}

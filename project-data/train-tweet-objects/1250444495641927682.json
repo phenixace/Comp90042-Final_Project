@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-15T15:22:54.000Z",
+    "id": "1250444495641927682",
+    "text": "@enginutkan Of course, you can get it but the rate of transmission slows...Also exposing yourself to the sun like is shown in the photo definitely won't work",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "enginutkan",
+                "id": "188507027"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "188507027"
+}

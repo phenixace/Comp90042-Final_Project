@@ -1,0 +1,17 @@
+{
+    "text": "Are you seriously surprised!! What what more lies coming from the officials? Noooo it can't be...@NBCNews",
+    "id": "501814913137123328",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 97,
+                "end": 105,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T19:36:13.000Z",
+    "in_reply_to_user_id": "14173315"
+}

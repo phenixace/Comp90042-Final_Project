@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 28,
+                "probability": 0.9967,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "urls": [
+            {
+                "start": 75,
+                "end": 97,
+                "url": "http://t.co/8uUugJiGPM",
+                "expanded_url": "http://huff.to/1cg5o8u",
+                "display_url": "huff.to/1cg5o8u"
+            }
+        ]
+    },
+    "text": "“@HuffingtonPost: Paul Walker was \"so happy\" hours before his tragic death http://t.co/8uUugJiGPM”",
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T21:49:28.000Z",
+    "in_reply_to_user_id": "14511951",
+    "id": "407265214850015232"
+}

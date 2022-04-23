@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 40,
+                "end": 52,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/zApEQ1jrHu",
+                "expanded_url": "http://bit.ly/2tMEBmu",
+                "display_url": "bit.ly/2tMEBmu"
+            },
+            {
+                "start": 82,
+                "end": 105,
+                "url": "https://t.co/ssr6rP5TAM",
+                "expanded_url": "https://twitter.com/WHOEMRO/status/1221423008809725952/photo/1",
+                "display_url": "pic.twitter.com/ssr6rP5TAM"
+            }
+        ]
+    },
+    "text": "Q: What can I do to protect myself from #coronavirus?\n\nA: https://t.co/zApEQ1jrHu https://t.co/ssr6rP5TAM",
+    "created_at": "2020-01-26T13:21:52.000Z",
+    "id": "1221423008809725952",
+    "source": "Twitter Web Client"
+}

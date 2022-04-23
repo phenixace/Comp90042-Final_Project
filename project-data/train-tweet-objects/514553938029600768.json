@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPad",
+    "id": "514553938029600768",
+    "entities": {
+        "annotations": [
+            {
+                "start": 61,
+                "end": 69,
+                "probability": 0.913,
+                "type": "Product",
+                "normalized_text": "iPad Mini"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14511951",
+    "created_at": "2014-09-23T23:16:33.000Z",
+    "text": "@HuffingtonPost; Cheap body shell? The same can happen to an iPad Mini it can warp along the length."
+}

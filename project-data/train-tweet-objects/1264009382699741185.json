@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "977348811336007680",
+    "id": "1264009382699741185",
+    "created_at": "2020-05-23T01:44:55.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 176,
+                "end": 187,
+                "probability": 0.8004,
+                "type": "Other",
+                "normalized_text": "Election Day"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "KelinWonder",
+                "id": "977348811336007680"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "ToriGlass",
+                "id": "123040155"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@KelinWonder @ToriGlass My dad also made me a copy of his ballot when I was 6 I think so I could vote with them, answered my questions and let me fill it out and everything... Election Day was our Super Bowl lol"
+}

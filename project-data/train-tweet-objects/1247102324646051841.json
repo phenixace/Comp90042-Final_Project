@@ -1,0 +1,17 @@
+{
+    "text": "@WGME Apparently, you can give it to a tiger.",
+    "created_at": "2020-04-06T10:02:18.000Z",
+    "id": "1247102324646051841",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "WGME",
+                "id": "20605217"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "20605217",
+    "source": "Twitter for iPhone"
+}

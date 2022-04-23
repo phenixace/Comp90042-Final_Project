@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:59:58.000Z",
+    "text": "@emtothea @FoxNews  LOL! Poor Fox News😢",
+    "id": "614614113663107072",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "emtothea",
+                "id": "90472293"
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 30,
+                "end": 37,
+                "probability": 0.8674,
+                "type": "Organization",
+                "normalized_text": "Fox News"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "90472293"
+}

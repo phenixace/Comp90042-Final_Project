@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "109065990",
+    "created_at": "2015-01-12T11:33:51.000Z",
+    "id": "554602149460848640",
+    "text": "@RealAlexJones How convenient.."
+}

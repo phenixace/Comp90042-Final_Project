@@ -1,0 +1,50 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 112,
+                "end": 124,
+                "tag": "feelthebern"
+            },
+            {
+                "start": 125,
+                "end": 136,
+                "tag": "bernie2016"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 59,
+                "probability": 0.9916,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "759251",
+    "created_at": "2015-10-16T18:08:20.000Z",
+    "id": "655082864472518656",
+    "text": "@CNN @HillaryClinton @BernieSanders Another made up poll CNN??? BOYCOTT BOYCOTT BOYCOTT BOYCOTT BOYCOTT BOYCOTT #feelthebern #bernie2016",
+    "source": "Twitter Web Client"
+}

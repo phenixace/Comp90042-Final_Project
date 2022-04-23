@@ -1,0 +1,17 @@
+{
+    "text": "@mashable Give us a freaking break ... only Guinness tastes like Guinness!",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T20:29:56.000Z",
+    "in_reply_to_user_id": "972651",
+    "id": "514149619392331776"
+}

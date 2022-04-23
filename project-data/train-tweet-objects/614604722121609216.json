@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T01:22:39.000Z",
+    "text": "@FoxNews agree with the vote, but not lighting up the White House like this.",
+    "id": "614604722121609216",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 54,
+                "end": 64,
+                "probability": 0.9073,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

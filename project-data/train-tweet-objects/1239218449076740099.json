@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "RealTimers",
+                "id": "455288410"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "dropeik",
+                "id": "19242750"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "username": "billmaher",
+                "id": "19697415"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "455288410",
+    "created_at": "2020-03-15T15:54:36.000Z",
+    "id": "1239218449076740099",
+    "text": "@RealTimers @dropeik @billmaher sadly, this guy was supposed to be an expert on risk and he was saying rather ignorantly that folks on planes and airplanes could be safe if they didn’t touch things but the virus is mostly airborne. that’s dangerously misleading at the most important time. stay say out there!",
+    "source": "Twitter for iPhone"
+}

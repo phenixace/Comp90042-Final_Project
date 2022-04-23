@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 44,
+                "probability": 0.8595,
+                "type": "Organization",
+                "normalized_text": "Isis"
+            },
+            {
+                "start": 95,
+                "end": 106,
+                "probability": 0.9894,
+                "type": "Person",
+                "normalized_text": "David Haines"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ]
+    },
+    "text": "“@guardian: A video has been released by Isis apparently showing the murder of British hostage David Haines. Disgusting!",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-14T00:31:37.000Z",
+    "in_reply_to_user_id": "87818409",
+    "id": "510948949046603776"
+}

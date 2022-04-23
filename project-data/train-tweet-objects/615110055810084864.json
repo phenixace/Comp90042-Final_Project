@@ -1,0 +1,17 @@
+{
+    "id": "615110055810084864",
+    "text": "@ABC celebrate a disgusting thing is disgusting !!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-28T10:50:40.000Z"
+}

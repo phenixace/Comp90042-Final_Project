@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "entities": {
+        "urls": [
+            {
+                "start": 31,
+                "end": 53,
+                "url": "http://t.co/rUZxj8z8y0",
+                "expanded_url": "https://twitter.com/EarlNash/status/567018113263493120/photo/1",
+                "display_url": "pic.twitter.com/rUZxj8z8y0"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-15T17:50:27.000Z",
+    "text": "@assholeofday spake the pig... http://t.co/rUZxj8z8y0",
+    "id": "567018113263493120"
+}

@@ -1,0 +1,53 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-15T04:30:46.000Z",
+    "text": "@StephenAtHome @DrLaPook Are you Rivers Cuomo? He's cute too either way. I went to a Weezer concert in Tampa but he looked short. I didn't go to the one at FSU that was free. I was a Law Student also.",
+    "id": "1250280380248125440",
+    "entities": {
+        "annotations": [
+            {
+                "start": 33,
+                "end": 44,
+                "probability": 0.9758,
+                "type": "Person",
+                "normalized_text": "Rivers Cuomo"
+            },
+            {
+                "start": 85,
+                "end": 90,
+                "probability": 0.4295,
+                "type": "Organization",
+                "normalized_text": "Weezer"
+            },
+            {
+                "start": 103,
+                "end": 107,
+                "probability": 0.9899,
+                "type": "Place",
+                "normalized_text": "Tampa"
+            },
+            {
+                "start": 156,
+                "end": 158,
+                "probability": 0.8311,
+                "type": "Organization",
+                "normalized_text": "FSU"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16303106"
+}

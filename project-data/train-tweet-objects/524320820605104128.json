@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:06:39.000Z",
+    "source": "Twitter Web Client",
+    "id": "524320820605104128",
+    "text": "@AlfredoFlores you will follow me and answer me with ''eu te amo, dani'' 🔮",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

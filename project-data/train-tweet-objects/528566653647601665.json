@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-01T15:18:05.000Z",
+    "text": "In plain sight RT @hardaspie: @andersonDrLJA @chooseliferacer F#@!ing Commie dictator POS. Worst excuse for a human being I have ever seen.",
+    "id": "528566653647601665",
+    "source": "RedScareBot",
+    "entities": {
+        "mentions": [
+            {
+                "start": 30,
+                "end": 44,
+                "username": "andersonDrLJA",
+                "id": "2316246829"
+            },
+            {
+                "start": 45,
+                "end": 61,
+                "username": "chooseliferacer",
+                "id": "1635503748"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "286708292"
+}

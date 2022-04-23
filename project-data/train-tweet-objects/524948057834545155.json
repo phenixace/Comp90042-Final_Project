@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22T15:39:04.000Z",
+    "in_reply_to_user_id": "6433472",
+    "source": "Twitter Web App",
+    "text": "@CBCNews bet he's a Muslim convert",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "CBCNews",
+                "id": "6433472"
+            }
+        ]
+    },
+    "id": "524948057834545155"
+}

@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 6,
+                "end": 16,
+                "probability": 0.9965,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            },
+            {
+                "start": 47,
+                "end": 62,
+                "probability": 0.8008,
+                "type": "Other",
+                "normalized_text": "Fast and Furious"
+            },
+            {
+                "start": 118,
+                "end": 128,
+                "probability": 0.9909,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/lhVt4kVjhf",
+                "expanded_url": "http://ow.ly/rkOAC",
+                "display_url": "ow.ly/rkOAC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "EW",
+                "id": "16312576"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T17:37:20.000Z",
+    "in_reply_to_user_id": "16312576",
+    "source": "Twitter for iPhone",
+    "text": "“@EW: Paul Walker remembered: Celebs react to 'Fast and Furious' star's death\n http://t.co/lhVt4kVjhf”--WTF? When did Paul Walker die??!",
+    "id": "407201764149329920"
+}

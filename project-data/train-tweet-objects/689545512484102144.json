@@ -1,0 +1,32 @@
+{
+    "created_at": "2016-01-19T20:30:35.000Z",
+    "id": "689545512484102144",
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 53,
+                "probability": 0.4423,
+                "type": "Organization",
+                "normalized_text": "microsoft"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "WorstFact",
+                "id": "2319494544"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "WowSoPunny",
+                "id": "3436684095"
+            }
+        ]
+    },
+    "text": "@WorstFact @WowSoPunny that's from sony, not microsoft, keep trying though.",
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "2319494544"
+}

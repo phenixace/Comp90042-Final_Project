@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "14662354",
+    "entities": {
+        "urls": [
+            {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/eYCAO2oJbq",
+                "expanded_url": "http://bit.ly/1NeClEl",
+                "display_url": "bit.ly/1NeClEl"
+            },
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/v6AcPFtlJ9",
+                "expanded_url": "https://twitter.com/WashTimes/status/675043569367982081/photo/1",
+                "display_url": "pic.twitter.com/v6AcPFtlJ9"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "WashTimes",
+                "id": "14662354"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 34,
+                "end": 39,
+                "tag": "ISIS"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 21,
+                "probability": 0.6208,
+                "type": "Person",
+                "normalized_text": "El Chapo"
+            }
+        ]
+    },
+    "created_at": "2015-12-11T00:37:48.000Z",
+    "id": "675112210256035840",
+    "text": "“@WashTimes: ‘El Chapo’ threatens #ISIS: ‘My men will destroy you’ - https://t.co/eYCAO2oJbq https://t.co/v6AcPFtlJ9” 👀👀😂😂😂"
+}

@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 80,
+                "end": 102,
+                "url": "http://t.co/yb0x9Ey8dT",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "display_url": "fxn.ws/1t2ePlj"
+            },
+            {
+                "start": 103,
+                "end": 125,
+                "url": "http://t.co/NlhQpNKYN6",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "display_url": "pic.twitter.com/NlhQpNKYN6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "fxnscitech",
+                "id": "840878926700400640"
+            },
+            {
+                "start": 65,
+                "end": 77,
+                "username": "LiveScience",
+                "id": "15428397"
+            },
+            {
+                "start": 126,
+                "end": 139,
+                "username": "whitneyella_",
+                "id": "173505015"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "107114063",
+    "text": "@fxnscitech:Puppy-sized spider surprises scientist in rainforest @LiveScience | http://t.co/yb0x9Ey8dT http://t.co/NlhQpNKYN6”@whitneyella_",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-20T13:59:35.000Z",
+    "id": "524198247301414912"
+}

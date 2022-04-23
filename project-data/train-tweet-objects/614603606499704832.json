@@ -1,0 +1,32 @@
+{
+    "source": "Twitterrific for iOS",
+    "id": "614603606499704832",
+    "entities": {
+        "urls": [
+            {
+                "start": 22,
+                "end": 44,
+                "url": "http://t.co/KfMQ5Z1bZM",
+                "expanded_url": "https://twitter.com/timd6156/status/614603606499704832/photo/1",
+                "display_url": "pic.twitter.com/KfMQ5Z1bZM"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "WNTonight",
+                "id": "4861868667"
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "username": "ABC57News",
+                "id": "236481275"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "86141342",
+    "created_at": "2015-06-27T01:18:13.000Z",
+    "text": "@WNTonight @ABC57News http://t.co/KfMQ5Z1bZM"
+}

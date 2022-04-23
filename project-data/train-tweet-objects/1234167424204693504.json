@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-01T17:23:38.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1234167424204693504",
+    "text": "@LacyFCorbett1 @LanceMBerland @ZubyMusic ...the common cold.\n\nA diagnosis with coronavirus 229E, NL63, OC43, or HKU1 is not the same as a COVID-19 diagnosis. Patients with COVID-19 will be evaluated and cared for differently than patients with common coronavirus diagnosis.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "LacyFCorbett1",
+                "id": "1224294595376439296"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "LanceMBerland",
+                "id": "1173759590015602688"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "username": "ZubyMusic",
+                "id": "57441414"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "35785364"
+}

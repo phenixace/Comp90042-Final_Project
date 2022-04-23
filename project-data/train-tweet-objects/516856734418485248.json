@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-09-30T07:47:02.000Z",
+    "text": "@KTHopkins @kfc When I worked for a US co, everyone very PC about not mentioning Xmas. I moved to Mid East and they go mad about it.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KTHopkins",
+                "id": "21439144"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "kfc",
+                "id": "15392391"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 81,
+                "end": 84,
+                "probability": 0.9091,
+                "type": "Other",
+                "normalized_text": "Xmas"
+            },
+            {
+                "start": 98,
+                "end": 105,
+                "probability": 0.578,
+                "type": "Place",
+                "normalized_text": "Mid East"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "21439144",
+    "id": "516856734418485248",
+    "source": "Twitter for iPad"
+}

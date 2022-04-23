@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-08-18T22:16:33.000Z",
+    "id": "501492877143601152",
+    "text": "@realDonaldTrump why? It won't bring him back or make it any easier? It doesn't help me any ?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Ace_ofHeARTS",
+                "id": "221048785"
+            }
+        ]
+    },
+    "id": "1246610799294111745",
+    "text": "@Ace_ofHeARTS Yeah that’s what I thought but somebody just showed me a study that said that there’s evidence that it can be airborne but Idk 😕",
+    "created_at": "2020-04-05T01:29:10.000Z",
+    "in_reply_to_user_id": "221048785"
+}

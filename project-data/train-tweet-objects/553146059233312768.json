@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/SW74Z2JLeQ",
+                "expanded_url": "http://huff.to/1xHncVt",
+                "display_url": "huff.to/1xHncVt"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 124,
+                "end": 138,
+                "tag": "JeSuisCharlie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "probability": 0.444,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            },
+            {
+                "start": 64,
+                "end": 76,
+                "probability": 0.8379,
+                "type": "Person",
+                "normalized_text": "Charlie Hebdo"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "553146059233312768",
+    "created_at": "2015-01-08T11:07:52.000Z",
+    "in_reply_to_user_id": "14511951",
+    "text": "“@HuffingtonPost: Banksy shares simple but beautiful tribute to Charlie Hebdo cartoonists http://t.co/SW74Z2JLeQ” Classic!! #JeSuisCharlie"
+}

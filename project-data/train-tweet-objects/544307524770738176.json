@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-12-15T01:46:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMailAU",
+                "id": "1960878613"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "DailyMailUK",
+                "id": "111556423"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "id": "544307524770738176",
+    "text": "@DailyMailAU @DailyMailUK  somebody crossed their leg and show him the bottom of their shoe",
+    "in_reply_to_user_id": "1960878613"
+}

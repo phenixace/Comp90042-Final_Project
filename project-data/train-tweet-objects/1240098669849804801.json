@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-18T02:12:17.000Z",
+    "text": "@JimInNC @kelly_rdc @Butterfly6875 yes it's true, although I still can not understand why schools are going to be open.",
+    "id": "1240098669849804801",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "JimInNC",
+                "id": "35597966"
+            },
+            {
+                "start": 20,
+                "end": 34,
+                "username": "Butterfly6875",
+                "id": "732622902"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "35597966"
+}

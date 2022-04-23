@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "28785486",
+    "created_at": "2015-01-02T22:27:25.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 13,
+                "probability": 0.9762,
+                "type": "Person",
+                "normalized_text": "Ellie"
+            }
+        ]
+    },
+    "id": "551142749055889408",
+    "text": "@ABC Bye Ellie May"
+}

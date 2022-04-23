@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "in_reply_to_user_id": "9296352",
+    "created_at": "2020-03-31T06:28:40.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "brouhaha",
+                "id": "9296352"
+            }
+        ]
+    },
+    "id": "1244874233857093635",
+    "text": "@brouhaha He's been bad longtime. But after accusing doctors and nurses of stealing masks...\n\nthat's it. no one can explain that to me.\nhe is inhuman. Subhuman. A demon."
+}

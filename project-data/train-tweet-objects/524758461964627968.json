@@ -1,0 +1,42 @@
+{
+    "source": "Twitter for Mac",
+    "created_at": "2014-10-22T03:05:41.000Z",
+    "id": "524758461964627968",
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 13,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 24,
+                "end": 45,
+                "probability": 0.2974,
+                "type": "Other",
+                "normalized_text": "South American Goliath"
+            }
+        ],
+        "urls": [
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/0vgarobxG7",
+                "expanded_url": "http://abcn.ws/1wsBVlR",
+                "display_url": "abcn.ws/1wsBVlR"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/dPbtismtmd",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "display_url": "pic.twitter.com/dPbtismtmd"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "28785486",
+    "text": "Oh nah. “@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: http://t.co/0vgarobxG7 http://t.co/dPbtismtmd”"
+}

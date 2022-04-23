@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "carolinagirl63",
+                "id": "893856362"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 49,
+                "end": 54,
+                "probability": 0.7893,
+                "type": "Organization",
+                "normalized_text": "Google"
+            },
+            {
+                "start": 115,
+                "end": 120,
+                "probability": 0.5642,
+                "type": "Person",
+                "normalized_text": "Jordan"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-11-21T11:54:13.000Z",
+    "text": "@carolinagirl63 Seriously? It takes 2 seconds to Google him and find he was an American Citizen and a MIGRANT from Jordan. Not a refugee.",
+    "in_reply_to_user_id": "893856362",
+    "id": "668034679275134976"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "489803170491539456",
+    "in_reply_to_user_id": "760639303",
+    "created_at": "2014-07-17T16:05:50.000Z",
+    "source": "Twitter for Android",
+    "text": "@EmbryEthan @HuffPostUK damn,  I really didn't want it to be intentional.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "EmbryEthan",
+                "id": "760639303"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "HuffPostUK",
+                "id": "271413771"
+            }
+        ]
+    }
+}

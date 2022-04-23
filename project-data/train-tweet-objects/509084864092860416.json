@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-08T21:04:24.000Z",
+    "text": "@jensan1332 Arrested for what? Is there a link?",
+    "in_reply_to_user_id": "342737639",
+    "id": "509084864092860416"
+}

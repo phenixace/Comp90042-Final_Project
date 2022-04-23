@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 68,
+                "end": 71,
+                "probability": 0.7372,
+                "type": "Place",
+                "normalized_text": "L.A."
+            },
+            {
+                "start": 127,
+                "end": 137,
+                "probability": 0.9891,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 17,
+                "end": 20,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-01T17:40:36.000Z",
+    "id": "407202587231158272",
+    "text": "2fast, 2furious? @AP: AP VIDEO: Police say speed was a factor in an L.A. crash that killed 2, including \"Fast &amp; Furious\" actor Paul Walker",
+    "in_reply_to_user_id": "51241574"
+}

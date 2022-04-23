@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 45,
+                "probability": 0.9654,
+                "type": "Place",
+                "normalized_text": "Southern Africa"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "maDube_",
+                "id": "310514972"
+            }
+        ]
+    },
+    "id": "1243730187512152067",
+    "text": "@maDube_ And when is spring in Southern Africa? August/September 🤔🤔🤔",
+    "created_at": "2020-03-28T02:42:38.000Z",
+    "in_reply_to_user_id": "310514972"
+}

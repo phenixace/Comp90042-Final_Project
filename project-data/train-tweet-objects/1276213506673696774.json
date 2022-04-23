@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:45.000Z",
+    "text": "It would be fascinating to test for such immunity and antibodies in close contacts of infected individuals who did not become sick. Low hanging fruit!\n#COVID19\n23/x https://t.co/uEjyNC7O3w",
+    "id": "1276213506673696774",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 151,
+                "end": 159,
+                "tag": "COVID19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 165,
+                "end": 188,
+                "url": "https://t.co/uEjyNC7O3w",
+                "expanded_url": "https://twitter.com/Rfonsi1/status/1276213506673696774/photo/1",
+                "display_url": "pic.twitter.com/uEjyNC7O3w"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

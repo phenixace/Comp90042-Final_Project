@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "betablogr",
+                "id": "118016791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "118016791",
+    "created_at": "2020-03-09T11:37:46.000Z",
+    "id": "1236979487792926721",
+    "text": "@betablogr Nette Grafik, leider ist hier das echte Szenario nicht dabei.",
+    "source": "Twitter Web App"
+}

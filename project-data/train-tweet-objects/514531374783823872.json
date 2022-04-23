@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-23T21:46:53.000Z",
+    "id": "514531374783823872",
+    "text": "@UnboxTherapy ppl have a lot more faith in themselves than me running a phone w/o a case. I have never run a phone caseless. Dont trust it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "239672340"
+}

@@ -1,0 +1,29 @@
+{
+    "in_reply_to_user_id": "1377719425",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 49,
+                "tag": "fall"
+            },
+            {
+                "start": 51,
+                "end": 59,
+                "tag": "Jerkoff"
+            }
+        ]
+    },
+    "created_at": "2015-02-15T23:11:52.000Z",
+    "text": "@assholeofday And what part of the meat you #fall? #Jerkoff",
+    "id": "567098999220752384"
+}

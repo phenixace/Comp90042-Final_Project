@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01T01:35:04.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost finally deer hunting with better odds for the deer",
+    "id": "528359535585808384",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

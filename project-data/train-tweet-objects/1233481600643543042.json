@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "25122710",
+    "created_at": "2020-02-28T19:58:25.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "WILLEMVANDUVEL",
+                "id": "25122710"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "business",
+                "id": "34713362"
+            }
+        ]
+    },
+    "id": "1233481600643543042",
+    "text": "@WILLEMVANDUVEL @business Useful and important to know."
+}

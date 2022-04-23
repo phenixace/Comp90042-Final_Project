@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": "3332044263",
+    "text": "@Johnatsrs1949 @Jim_Peoples_ \nIs there media or press coverage somewhere of this?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Johnatsrs1949",
+                "id": "3332044263"
+            }
+        ]
+    },
+    "created_at": "2015-12-08T02:51:29.000Z",
+    "id": "674058688559251456"
+}

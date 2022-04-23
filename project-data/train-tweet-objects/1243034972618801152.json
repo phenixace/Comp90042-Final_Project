@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-26T04:40:06.000Z",
+    "id": "1243034972618801152",
+    "text": "@Qian39660965 @bbcchinese good. Flu kill more people than sars 2.0. But we know flu how spread , will kill what number even kill who , we know what time flu will disappear, so we don't fear flu .",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Qian39660965",
+                "id": "1239576269236383745"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "bbcchinese",
+                "id": "791197"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "1239576269236383745"
+}

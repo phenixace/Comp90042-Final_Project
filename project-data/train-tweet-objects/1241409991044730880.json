@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-21T17:03:00.000Z",
+    "text": "@OhNy_ Hospitals are treating it like it’s airborne.  Suspected covid - 19 patients are placed in negative pressure rooms &amp; the nurses are wearing n95 masks",
+    "id": "1241409991044730880",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "OhNy_",
+                "id": "325153502"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "325153502"
+}

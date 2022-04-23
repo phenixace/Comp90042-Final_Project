@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 91,
+                "end": 97,
+                "probability": 0.7724,
+                "type": "Person",
+                "normalized_text": "Hussein"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2014-08-18T21:21:19.000Z",
+    "id": "501478977228505093",
+    "text": "@realDonaldTrump The purging of cmbt tested Com Staff almost complete, \"Yes men\" in place, Hussein is very close to declaring mart law.",
+    "in_reply_to_user_id": "25073877"
+}

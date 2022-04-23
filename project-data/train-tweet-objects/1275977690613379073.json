@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "id": "1275977690613379073",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 30,
+                "probability": 0.9557,
+                "type": "Person",
+                "normalized_text": "Bob"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "BobShtoive",
+                "id": "954642065597521920"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "DHughesy",
+                "id": "21469205"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "954642065597521920",
+    "created_at": "2020-06-25T02:22:42.000Z",
+    "text": "@BobShtoive @DHughesy ahhhh Bob... I should have read your Bio earlier ..\n\nYou don't have a high concern about many others at all .... do you?\n\nand to answer your question ..\nI would go 12 months...\na horrid long drawn out but necessary 12 months..\n\nIt's been said HERD IMMUNITY doesn't apply to COVID"
+}

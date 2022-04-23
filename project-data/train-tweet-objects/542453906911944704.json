@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "PerezHilton",
+                "id": "19329393"
+            }
+        ]
+    },
+    "created_at": "2014-12-09T23:01:04.000Z",
+    "text": "@PerezHilton good for her",
+    "id": "542453906911944704",
+    "in_reply_to_user_id": "19329393",
+    "source": "Twitter for iPhone"
+}

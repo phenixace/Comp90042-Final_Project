@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.9502,
+                "type": "Person",
+                "normalized_text": "PUTIN"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "489803031937298432",
+    "created_at": "2014-07-17T16:05:17.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost PUTIN JUST KILLED 295 EU CITIZENS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+}

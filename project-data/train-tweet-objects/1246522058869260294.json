@@ -1,0 +1,29 @@
+{
+    "id": "1246522058869260294",
+    "in_reply_to_user_id": "238115057",
+    "source": "Twitter for iPhone",
+    "text": "@mtnug @MinofHealthUG @mtnug am losing patience wtf is wrong with your network, it’s not like the MTN I know",
+    "created_at": "2020-04-04T19:36:32.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "mtnug",
+                "id": "238115057"
+            },
+            {
+                "start": 7,
+                "end": 21,
+                "username": "MinofHealthUG",
+                "id": "2882328382"
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "username": "mtnug",
+                "id": "238115057"
+            }
+        ]
+    }
+}

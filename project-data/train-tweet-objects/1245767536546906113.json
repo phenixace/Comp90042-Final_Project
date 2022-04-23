@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RichardGarven",
+                "id": "311426447"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "planet_pedro",
+                "id": "1503862627184783361"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 119,
+                "end": 126,
+                "probability": 0.8174,
+                "type": "Place",
+                "normalized_text": "Scotland"
+            }
+        ]
+    },
+    "text": "@RichardGarven @Planet_Pedro Because that lot and the scientific modelling and strategising is directly influential on Scotland and is a relevant briefing at the national level which should include all jurisdictions. The national and devolved strstegy complementv each other &amp; so should presentations.",
+    "id": "1245767536546906113",
+    "in_reply_to_user_id": "311426447",
+    "created_at": "2020-04-02T17:38:20.000Z"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-27T02:40:47.000Z",
+    "source": "Twitter for iPhone",
+    "id": "504458476446547968",
+    "text": "@theScore @markxgallant",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "theScore",
+                "id": "15256225"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "markxgallant",
+                "id": "444229299"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "15256225"
+}

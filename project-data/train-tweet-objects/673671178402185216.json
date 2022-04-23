@@ -1,0 +1,23 @@
+{
+    "id": "673671178402185216",
+    "text": "@DRUDGE_REPORT @instapundit do ppl on the list know they are on the list?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DRUDGE_REPORT",
+                "id": "14887069"
+            },
+            {
+                "start": 15,
+                "end": 27,
+                "username": "instapundit",
+                "id": "1096049238671273984"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14669951",
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-07T01:11:39.000Z"
+}

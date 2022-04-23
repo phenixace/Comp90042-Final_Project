@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "3332044263",
+    "entities": {
+        "annotations": [
+            {
+                "start": 26,
+                "end": 27,
+                "probability": 0.9267,
+                "type": "Place",
+                "normalized_text": "MI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Johnatsrs1949",
+                "id": "3332044263"
+            }
+        ]
+    },
+    "text": "@Johnatsrs1949 I live  in MI.",
+    "created_at": "2015-12-08T03:44:10.000Z",
+    "id": "674071946649300994"
+}

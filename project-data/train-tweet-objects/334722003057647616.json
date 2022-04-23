@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/IEd2IiWSqX",
+                "expanded_url": "http://m.ibtimes.co.uk/man-sweden-dies-sex-hornet-s-nest-467900.html",
+                "display_url": "m.ibtimes.co.uk/man-sweden-die…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 89,
+                "end": 98,
+                "username": "elvis717",
+                "id": "17986456"
+            }
+        ]
+    },
+    "source": "Safari on iOS",
+    "created_at": "2013-05-15T17:28:39.000Z",
+    "id": "334722003057647616",
+    "text": "This is just about the weirdest fetish I've ever heard of. What was he THINKING of? (via @elvis717) http://t.co/IEd2IiWSqX"
+}

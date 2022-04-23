@@ -1,0 +1,52 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-14T00:17:43.000Z",
+    "id": "510945454528692224",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Razarumi",
+                "id": "9397732"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "username": "katejb",
+                "id": "13315032"
+            },
+            {
+                "start": 18,
+                "end": 28,
+                "username": "SCClemons",
+                "id": "16172991"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 29,
+                "end": 32,
+                "probability": 0.9357,
+                "type": "Person",
+                "normalized_text": "Kate"
+            },
+            {
+                "start": 72,
+                "end": 76,
+                "probability": 0.9762,
+                "type": "Person",
+                "normalized_text": "Peter"
+            },
+            {
+                "start": 96,
+                "end": 101,
+                "probability": 0.982,
+                "type": "Place",
+                "normalized_text": "Egipto"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "9397732",
+    "text": "@Razarumi @katejb @SCClemons Kate, es terrible, querida. Nuestro colega Peter está condenado en Egipto. El mundo está en guerra..."
+}

@@ -1,0 +1,44 @@
+{
+    "in_reply_to_user_id": "2584501496",
+    "text": "@hollyammon @LdyGuin @CNN @realDonaldTrump well said, Holly",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 54,
+                "end": 58,
+                "probability": 0.9723,
+                "type": "Person",
+                "normalized_text": "Holly"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "hollyammon",
+                "id": "2584501496"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "LdyGuin",
+                "id": "3309829364"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "created_at": "2015-10-10T17:52:03.000Z",
+    "id": "652904439511056384"
+}

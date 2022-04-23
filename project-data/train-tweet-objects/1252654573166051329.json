@@ -1,0 +1,29 @@
+{
+    "id": "1252654573166051329",
+    "in_reply_to_user_id": "30706102",
+    "created_at": "2020-04-21T17:44:58.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@kreees @Hsweeney_4 @benshapiro So you’re saying everyone with covid-19 dies? What’s the mortality rate? And what’s the rate of those not elderly or in nursing homes?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "kreees",
+                "id": "30706102"
+            },
+            {
+                "start": 8,
+                "end": 19,
+                "username": "Hsweeney_4",
+                "id": "818287591191674881"
+            },
+            {
+                "start": 20,
+                "end": 31,
+                "username": "benshapiro",
+                "id": "17995040"
+            }
+        ]
+    }
+}

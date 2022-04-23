@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-12T19:50:14.000Z",
+    "in_reply_to_user_id": "73959923",
+    "source": "Twitter for iPhone",
+    "text": "@cahwerneck to levando pra mim que eles tbm são imunes \nPldds meu bb doente 😰😰😰😰 nem quero imaginar",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "cahwerneck",
+                "id": "73959923"
+            }
+        ]
+    },
+    "id": "1238190584222961664"
+}

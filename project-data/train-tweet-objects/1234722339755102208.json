@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/KVIxII2MDd",
+                "expanded_url": "https://twitter.com/x__mariah/status/1234722339755102208/photo/1",
+                "display_url": "pic.twitter.com/KVIxII2MDd"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 263,
+                "end": 278,
+                "tag": "Tuskegee_RYS20"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-03T06:08:40.000Z",
+    "id": "1234722339755102208",
+    "text": "Is it safe to recieve a package from where the virus has been reported? \n\nYes. The chance of an infected person contaminating commercial goods is low and the risk of catching it from a package that travelled, and exposed to diff. conditions and temps is also low #Tuskegee_RYS20 https://t.co/KVIxII2MDd",
+    "in_reply_to_user_id": "373650008"
+}

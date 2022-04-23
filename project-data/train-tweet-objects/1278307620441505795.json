@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-07-01T12:41:01.000Z",
+    "text": "@AlexBerenson https://t.co/nxm60x6kei has FDA EUA approved Covid- 19 antibody tests available for immediate delivery to approved government and healthcare facilities! This will help identify those with antibodies!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/nxm60x6kei",
+                "expanded_url": "http://Www.aytubio.com",
+                "display_url": "aytubio.com",
+                "status": 200,
+                "title": "Home - Aytu BioPharma",
+                "unwound_url": "https://aytubio.com/"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 48,
+                "probability": 0.5841,
+                "type": "Organization",
+                "normalized_text": "FDA EUA"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278307620441505795",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,17 @@
+{
+    "text": "@raghu_iitm Coz there is a capital expedt tht needs to be upfronted. Thats how capex is funded usually",
+    "id": "1246286402301472769",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "raghu_iitm",
+                "id": "52619537"
+            }
+        ]
+    },
+    "created_at": "2020-04-04T04:00:07.000Z",
+    "in_reply_to_user_id": "52619537"
+}

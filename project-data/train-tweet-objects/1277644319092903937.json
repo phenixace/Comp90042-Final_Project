@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "probability": 0.8806,
+                "type": "Place",
+                "normalized_text": "Arizona"
+            }
+        ],
+        "urls": [
+            {
+                "start": 46,
+                "end": 69,
+                "url": "https://t.co/EJumYAHLBE",
+                "expanded_url": "https://twitter.com/ianmSC/status/1277644319092903937/photo/1",
+                "display_url": "pic.twitter.com/EJumYAHLBE"
+            }
+        ]
+    },
+    "text": "Arizona is at it again. 31 cases on 16 tests. https://t.co/EJumYAHLBE",
+    "source": "Twitter for Mac",
+    "id": "1277644319092903937",
+    "created_at": "2020-06-29T16:45:17.000Z"
+}

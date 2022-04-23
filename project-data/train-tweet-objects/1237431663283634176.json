@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "SivaYp",
+                "id": "1343940042"
+            }
+        ],
+        "urls": [
+            {
+                "start": 219,
+                "end": 242,
+                "url": "https://t.co/s00rkLRDsM",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…"
+            }
+        ]
+    },
+    "created_at": "2020-03-10T17:34:33.000Z",
+    "text": "@SivaYp No. Pls refer to WHO website: \"Can I catch COVID-19 from my pet?\nNo. There is no evidence that companion animals or pets such as cats and dogs have been infected or could spread the virus that causes COVID-19.\" https://t.co/s00rkLRDsM",
+    "id": "1237431663283634176",
+    "in_reply_to_user_id": "1343940042",
+    "source": "Twitter for Android"
+}

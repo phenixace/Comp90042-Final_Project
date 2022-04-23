@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-07-18T03:55:41.000Z",
+    "text": "Restricting air space only at certain altitude makes no sense. It's either open or closed. Kiev regime is grasping at straws. @WSJ",
+    "id": "489981807907991552",
+    "entities": {
+        "mentions": [
+            {
+                "start": 126,
+                "end": 130,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 91,
+                "end": 94,
+                "probability": 0.5792,
+                "type": "Place",
+                "normalized_text": "Kiev"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3108351"
+}

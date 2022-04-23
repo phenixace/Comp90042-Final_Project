@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "IngrahamAngle",
+                "id": "50769180"
+            }
+        ]
+    },
+    "text": "@IngrahamAngle Alway a fanatic follower but today Double Up my expectation. Very agree your point MEDIA BUZZ. Establishment or Oligarchy..",
+    "id": "676173862392975360",
+    "in_reply_to_user_id": "50769180",
+    "created_at": "2015-12-13T22:56:26.000Z"
+}

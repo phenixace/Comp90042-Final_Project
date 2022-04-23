@@ -1,0 +1,47 @@
+{
+    "created_at": "2020-05-11T23:25:10.000Z",
+    "id": "1259987946838646785",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 127,
+                "end": 137,
+                "tag": "CAGOnline"
+            },
+            {
+                "start": 138,
+                "end": 146,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 147,
+                "end": 160,
+                "username": "AmirMAbdulla",
+                "id": "755107730021548032"
+            },
+            {
+                "start": 161,
+                "end": 176,
+                "username": "AminaJMohammed",
+                "id": "3066095291"
+            },
+            {
+                "start": 177,
+                "end": 189,
+                "username": "unicefchief",
+                "id": "950824252562903040"
+            },
+            {
+                "start": 190,
+                "end": 199,
+                "username": "DrTedros",
+                "id": "189868631"
+            }
+        ]
+    },
+    "text": "It is particularly important that children avoid contact with older people and others who are at risk of more severe disease. \n#CAGOnline #COVID19 @AmirMAbdulla @AminaJMohammed @unicefchief @DrTedros",
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "1165537424518406145"
+}

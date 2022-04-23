@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-07-01T16:17:24.000Z",
+    "text": "@AlexBerenson Alex, what’s happening in N.C. haven’t seen any stats. Their website is not much help. No actual number for hospitalization and nothing about antibodies.\ncc: @RoyCooperNC @DanForestNC",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 172,
+                "end": 184,
+                "username": "RoyCooperNC",
+                "id": "1712960918"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 14,
+                "end": 17,
+                "probability": 0.954,
+                "type": "Person",
+                "normalized_text": "Alex"
+            },
+            {
+                "start": 40,
+                "end": 43,
+                "probability": 0.9346,
+                "type": "Place",
+                "normalized_text": "N.C."
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278362074830299136",
+    "source": "Twitter for iPhone"
+}

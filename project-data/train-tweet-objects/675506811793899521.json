@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "251881119",
+    "created_at": "2015-12-12T02:45:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 12,
+                "end": 24,
+                "username": "nabilhuzein",
+                "id": "70321196"
+            }
+        ]
+    },
+    "id": "675506811793899521",
+    "source": "Twitter Web Client",
+    "text": "@Maestrouzy @nabilhuzein mom"
+}

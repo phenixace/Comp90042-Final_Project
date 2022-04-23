@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-20T22:05:00.000Z",
+    "source": "Twitter for Android",
+    "id": "524320404538540033",
+    "text": "@AlfredoFlores follow me Alfredo",
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 31,
+                "probability": 0.7539,
+                "type": "Person",
+                "normalized_text": "Alfredo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "AlfredoFlores",
+                "id": "19743731"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "19743731"
+}

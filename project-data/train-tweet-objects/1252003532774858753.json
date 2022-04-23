@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14293310",
+    "created_at": "2020-04-19T22:37:57.000Z",
+    "id": "1252003532774858753",
+    "text": "@TIME A very nice FAQ. 🙂",
+    "source": "Twitter for Android"
+}

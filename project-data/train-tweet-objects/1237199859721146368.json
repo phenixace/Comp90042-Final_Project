@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1237199859721146368",
+    "in_reply_to_user_id": "2828767904",
+    "created_at": "2020-03-10T02:13:27.000Z",
+    "text": "@harrison3rd_c Amen! 🕯",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "harrison3rd_c",
+                "id": "2828767904"
+            }
+        ]
+    }
+}

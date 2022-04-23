@@ -1,0 +1,69 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-07T09:42:46.000Z",
+    "id": "1236225770844033024",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 68,
+                "tag": "coronavirus"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "probability": 0.9141,
+                "type": "Place",
+                "normalized_text": "Senegal"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "probability": 0.9482,
+                "type": "Place",
+                "normalized_text": "Tunisia"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "probability": 0.9613,
+                "type": "Place",
+                "normalized_text": "Morocco"
+            },
+            {
+                "start": 92,
+                "end": 103,
+                "probability": 0.8748,
+                "type": "Place",
+                "normalized_text": "South Africa"
+            },
+            {
+                "start": 141,
+                "end": 148,
+                "probability": 0.9149,
+                "type": "Place",
+                "normalized_text": "Cameroon"
+            },
+            {
+                "start": 151,
+                "end": 154,
+                "probability": 0.575,
+                "type": "Place",
+                "normalized_text": "Togo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 244,
+                "end": 267,
+                "url": "https://t.co/7aF1QvoMGj",
+                "expanded_url": "https://www.africanews.com/2020/03/06/coronavirus-south-africa-confirms-first-case/",
+                "display_url": "africanews.com/2020/03/06/cor…"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "299035254",
+    "text": "- March 2, 2020: Senegal, Tunisia, Morocco record first #coronavirus cases\n- March 5, 2020: South Africa records first case\n- March 6, 2020: Cameroon, Togo confirm first cases\n- Here's rolling coverage of the outbreak on the African continent\n\nhttps://t.co/7aF1QvoMGj"
+}

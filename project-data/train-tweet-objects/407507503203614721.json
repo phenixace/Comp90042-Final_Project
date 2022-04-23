@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ItsThingsInLife",
+                "id": "149655776"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "stills65",
+                "id": "944587850"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 39,
+                "end": 49,
+                "probability": 0.9857,
+                "type": "Person",
+                "normalized_text": "Roger Rodas"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "149655776",
+    "created_at": "2013-12-02T13:52:14.000Z",
+    "id": "407507503203614721",
+    "text": "@ItsThingsInLife @stills65 Hi name was Roger Rodas"
+}

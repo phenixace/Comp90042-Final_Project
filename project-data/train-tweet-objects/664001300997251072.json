@@ -1,0 +1,26 @@
+{
+    "text": "@complexmag hope it aint one of those fake photos like that of the fallen angel found in England.",
+    "id": "664001300997251072",
+    "source": "Mobile Web (M2)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "complexmag",
+                "id": "784467"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 89,
+                "end": 95,
+                "probability": 0.9837,
+                "type": "Place",
+                "normalized_text": "England"
+            }
+        ]
+    },
+    "created_at": "2015-11-10T08:47:01.000Z",
+    "in_reply_to_user_id": "13049362"
+}

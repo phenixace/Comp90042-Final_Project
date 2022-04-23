@@ -1,0 +1,30 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 160,
+                "end": 173,
+                "tag": "betternormal"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T02:17:28.000Z",
+    "text": "@StephenAtHome @DrLaPook After just a few weeks our skies are clearer and the water is cleaner. Maybe we could plan to return to a different and better normal. #betternormal",
+    "id": "1250246834632544256",
+    "in_reply_to_user_id": "16303106"
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-03T23:19:59.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 43,
+                "probability": 0.6179,
+                "type": "Organization",
+                "normalized_text": "uber"
+            },
+            {
+                "start": 71,
+                "end": 75,
+                "probability": 0.886,
+                "type": "Organization",
+                "normalized_text": "Tesla"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "507307045545340929",
+    "text": "@FoxNews @FoxCarReport Another loss for uber-liberal CA.  Good move by Tesla.",
+    "in_reply_to_user_id": "1367531"
+}

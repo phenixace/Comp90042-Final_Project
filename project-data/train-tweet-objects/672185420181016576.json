@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "1767741",
+    "id": "672185420181016576",
+    "created_at": "2015-12-02T22:47:47.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@NYTNational @nytimes We also have a President who's ignorance is paralleled no where else in the world.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYTNational",
+                "id": "1767741"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 51,
+                "end": 66,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 6,
+                "end": 13,
+                "probability": 0.6621,
+                "type": "Organization",
+                "normalized_text": "Facebook"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "489800803637796865",
+    "created_at": "2014-07-17T15:56:26.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "Check Facebook for any possible local tea parties, @washingtonpost."
+}

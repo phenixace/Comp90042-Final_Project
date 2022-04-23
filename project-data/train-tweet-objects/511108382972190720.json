@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 69,
+                "end": 72,
+                "probability": 0.8369,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ]
+    },
+    "text": "@guardian and by tweeting so fervently, we witlessly do the work the ISIS scum ask!",
+    "source": "Hootsuite",
+    "created_at": "2014-09-14T11:05:09.000Z",
+    "in_reply_to_user_id": "87818409",
+    "id": "511108382972190720"
+}

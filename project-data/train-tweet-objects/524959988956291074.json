@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "428333",
+    "created_at": "2014-10-22T16:26:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 8,
+                "end": 27,
+                "probability": 0.4618,
+                "type": "Other",
+                "normalized_text": "War Memorial Soldier"
+            }
+        ]
+    },
+    "id": "524959988956291074",
+    "text": "@cnnbrk War Memorial Soldier pronounced dead just now."
+}

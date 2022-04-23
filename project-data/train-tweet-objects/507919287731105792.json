@@ -1,0 +1,17 @@
+{
+    "text": "@cnnbrk only one word fits: Good.",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-09-05T15:52:49.000Z",
+    "in_reply_to_user_id": "428333",
+    "id": "507919287731105792"
+}

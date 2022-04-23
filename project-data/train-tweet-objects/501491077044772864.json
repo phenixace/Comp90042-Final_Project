@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2014-08-18T22:09:24.000Z",
+    "id": "501491077044772864",
+    "text": "@LoreleiJP @mileswynn3 as a matter of fact he did.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "LoreleiJP",
+                "id": "306277683"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "mileswynn3",
+                "id": "1598880560"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "306277683"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "614650715340828672",
+    "in_reply_to_user_id": "2884771",
+    "created_at": "2015-06-27T04:25:24.000Z",
+    "source": "Twitter for Android",
+    "text": "@Newsweek shame on them",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Newsweek",
+                "id": "2884771"
+            }
+        ]
+    }
+}

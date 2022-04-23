@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 49,
+                "end": 71,
+                "url": "http://t.co/N5nQZCtbeH",
+                "expanded_url": "http://gotnews.com",
+                "display_url": "gotnews.com"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "harikondabolu",
+                "id": "30488144"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 80,
+                "end": 92,
+                "probability": 0.9978,
+                "type": "Person",
+                "normalized_text": "Chuck Johnson"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@harikondabolu The only source for this claim is http://t.co/N5nQZCtbeH, run by Chuck Johnson, a RWNJ and serial liar. He is trolling.",
+    "created_at": "2014-11-30T05:44:02.000Z",
+    "id": "538931437492133889",
+    "in_reply_to_user_id": "30488144"
+}

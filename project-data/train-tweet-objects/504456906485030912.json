@@ -1,0 +1,56 @@
+{
+    "created_at": "2014-08-27T02:34:33.000Z",
+    "id": "504456906485030912",
+    "entities": {
+        "annotations": [
+            {
+                "start": 27,
+                "end": 29,
+                "probability": 0.619,
+                "type": "Organization",
+                "normalized_text": "NHL"
+            },
+            {
+                "start": 69,
+                "end": 77,
+                "probability": 0.9233,
+                "type": "Place",
+                "normalized_text": "Las Vegas"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/S6nVnwM6fG",
+                "expanded_url": "http://ow.ly/AL7VR",
+                "display_url": "ow.ly/AL7VR"
+            },
+            {
+                "start": 116,
+                "end": 138,
+                "url": "http://t.co/p0pMqkmIMy",
+                "expanded_url": "https://twitter.com/Sportsnet/status/504453071041482753/photo/1",
+                "display_url": "pic.twitter.com/p0pMqkmIMy"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 51,
+                "end": 55,
+                "tag": "NHL"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 31,
+                "end": 41,
+                "username": "Sportsnet",
+                "id": "21660529"
+            }
+        ]
+    },
+    "text": "And this is what's wrong w/NHL @Sportsnet: Report: #NHL expansion to Las Vegas ‘a done deal’ http://t.co/S6nVnwM6fG http://t.co/p0pMqkmIMy”",
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "21660529"
+}

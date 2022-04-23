@@ -1,0 +1,17 @@
+{
+    "id": "1275459885342351360",
+    "in_reply_to_user_id": "46504936",
+    "created_at": "2020-06-23T16:05:08.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@samuelmarsden Whats happening with barcagate? When can we expect result of audit?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "samuelmarsden",
+                "id": "46504936"
+            }
+        ]
+    }
+}

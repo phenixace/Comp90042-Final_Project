@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T07:47:32.000Z",
+    "text": "🚨Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent COVID-19🚨\n\nYou can catch COVID-19, no matter how sunny or hot the weather is.\n\n#Covid19 #mythbusters @WHO https://t.co/G8ZFqAE1we",
+    "id": "1251054676440690694",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 169,
+                "end": 177,
+                "tag": "Covid19"
+            },
+            {
+                "start": 178,
+                "end": 190,
+                "tag": "mythbusters"
+            }
+        ],
+        "urls": [
+            {
+                "start": 196,
+                "end": 219,
+                "url": "https://t.co/G8ZFqAE1we",
+                "expanded_url": "https://twitter.com/lutzmache/status/1251054676440690694/photo/1",
+                "display_url": "pic.twitter.com/G8ZFqAE1we"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 191,
+                "end": 195,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "16958398"
+}

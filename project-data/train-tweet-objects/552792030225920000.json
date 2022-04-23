@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "text": "@guardian @Flap muslims,,this is the magazine that published the Mohamed cartoon a few years ago",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "guardian",
+                "id": "87818409"
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "username": "Flap",
+                "id": "5511332"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 65,
+                "end": 71,
+                "probability": 0.6345,
+                "type": "Person",
+                "normalized_text": "Mohamed"
+            }
+        ]
+    },
+    "created_at": "2015-01-07T11:41:05.000Z",
+    "id": "552792030225920000",
+    "in_reply_to_user_id": "87818409"
+}

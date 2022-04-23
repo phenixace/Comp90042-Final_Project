@@ -1,0 +1,39 @@
+{
+    "id": "643192948633505792",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 41,
+                "end": 45,
+                "probability": 0.8209,
+                "type": "Place",
+                "normalized_text": "Syria"
+            },
+            {
+                "start": 95,
+                "end": 98,
+                "probability": 0.7833,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "JDjwhite54",
+                "id": "1736108306"
+            }
+        ]
+    },
+    "text": "@AllenWest @JDjwhite54 1/2 population of Syria has escaped, therefore, the only one's left are ISIS, why don't we just go get them",
+    "created_at": "2015-09-13T22:42:03.000Z"
+}

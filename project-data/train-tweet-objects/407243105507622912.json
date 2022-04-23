@@ -1,0 +1,56 @@
+{
+    "in_reply_to_user_id": "25701904",
+    "entities": {
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/jyzENuUOIb",
+                "expanded_url": "http://gossipcop.com/dqdqr",
+                "display_url": "gossipcop.com/dqdqr"
+            },
+            {
+                "start": 121,
+                "end": 143,
+                "url": "http://t.co/D2erPRdSPk",
+                "expanded_url": "https://twitter.com/GossipCop/status/407167258452971520/photo/1",
+                "display_url": "pic.twitter.com/D2erPRdSPk"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 12,
+                "end": 22,
+                "probability": 0.9855,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            },
+            {
+                "start": 35,
+                "end": 44,
+                "probability": 0.9895,
+                "type": "Person",
+                "normalized_text": "Vin Diesel"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "gossipcop",
+                "id": "1434007529256857601"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 120,
+                "tag": "RIPPaulWalker"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2013-12-01T20:21:37.000Z",
+    "text": "“@GossipCop:Paul Walker Mourned By Vin Diesel and More Fast &amp; Furious Co-Stars http://t.co/jyzENuUOIb #RIPPaulWalker http://t.co/D2erPRdSPk”",
+    "id": "407243105507622912"
+}

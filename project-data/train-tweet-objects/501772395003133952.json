@@ -1,0 +1,26 @@
+{
+    "text": "@NBCNews funny how they are arresting everyone under the moon but not the cop that shot Mike Brown.",
+    "id": "501772395003133952",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 97,
+                "probability": 0.988,
+                "type": "Person",
+                "normalized_text": "Mike Brown"
+            }
+        ]
+    },
+    "created_at": "2014-08-19T16:47:16.000Z",
+    "in_reply_to_user_id": "14173315"
+}

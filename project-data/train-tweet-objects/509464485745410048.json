@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:12:53.000Z",
+    "text": "@patrickklepek I hope this isn't true. They'll kill it faster than...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464485745410048",
+    "source": "Twitter for iPhone"
+}

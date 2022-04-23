@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "“@JessicaValenti: The end is nigh RT @JuddLegum CONFIRMED: PepsiCo is making a Doritos-flavored Mountain Dew called \"Dewitos\"” ewwwitos 🙊😹",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "JessicaValenti",
+                "id": "4099171"
+            },
+            {
+                "start": 37,
+                "end": 47,
+                "username": "JuddLegum",
+                "id": "15464697"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 79,
+                "end": 107,
+                "probability": 0.2684,
+                "type": "Product",
+                "normalized_text": "Doritos-flavored Mountain Dew"
+            }
+        ]
+    },
+    "created_at": "2014-11-08T19:16:26.000Z",
+    "id": "531163350823346176",
+    "in_reply_to_user_id": "4099171"
+}

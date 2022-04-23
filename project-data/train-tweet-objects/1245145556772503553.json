@@ -1,0 +1,63 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "dankyankees",
+                "id": "1197586096529399808"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "Jayson588",
+                "id": "1018360257872048128"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "username": "Chetclark21",
+                "id": "943643431435464704"
+            },
+            {
+                "start": 37,
+                "end": 49,
+                "username": "WithRaccoon",
+                "id": "1126912928727412736"
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "username": "mdb2",
+                "id": "29247827"
+            },
+            {
+                "start": 56,
+                "end": 66,
+                "username": "eshaLegal",
+                "id": "2465958361"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 101,
+                "end": 109,
+                "tag": "COVID19"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 217,
+                "end": 219,
+                "probability": 0.8017,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "@dankyankees @Jayson588 @Chetclark21 @WithRaccoon @mdb2 @eshaLegal 1/2 Yes, the specific use case of #COVID19 tests that are sensitive and reliable, which are both preconditions to being medically useful. The current FDA processes for proving test function are adequate.",
+    "id": "1245145556772503553",
+    "created_at": "2020-04-01T00:26:49.000Z",
+    "in_reply_to_user_id": "1197586096529399808"
+}

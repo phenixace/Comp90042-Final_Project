@@ -1,0 +1,38 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-20T17:37:19.000Z",
+    "id": "524253037771386880",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BoycottAhava",
+                "id": "104815494"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "jvplive",
+                "id": "78706973"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "username": "aicnews",
+                "id": "156658404"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 66,
+                "probability": 0.9311,
+                "type": "Person",
+                "normalized_text": "Macy"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "104815494",
+    "text": "@BoycottAhava @jvplive @aicnews That's great to hear. Good for Macy's!"
+}

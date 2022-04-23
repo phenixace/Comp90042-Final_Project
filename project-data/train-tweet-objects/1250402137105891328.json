@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T12:34:35.000Z",
+    "text": "@SABCNews Tell us wat it does then! We need to knw its disadvantages too...u are a public broadcaster sont just make a statement without explaining",
+    "id": "1250402137105891328",
+    "in_reply_to_user_id": "25088746",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    }
+}

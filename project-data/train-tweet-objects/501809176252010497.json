@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "2512264104",
+    "created_at": "2014-08-19T19:13:25.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "FergusonUnity",
+                "id": "1376334719281991682"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "1DancingCrane",
+                "id": "558058097"
+            }
+        ]
+    },
+    "id": "501809176252010497",
+    "text": "@FergusonUnity @1DancingCrane This article seems to contradict what police officials are saying about \"outsiders\" stirring up trouble."
+}

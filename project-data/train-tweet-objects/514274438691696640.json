@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 11,
+                "end": 19,
+                "probability": 0.5064,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "text": ".@mashable Starbucks:  Combing favorite addictions since 1971.",
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-23T04:45:55.000Z",
+    "in_reply_to_user_id": "972651",
+    "id": "514274438691696640"
+}

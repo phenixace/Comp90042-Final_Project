@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-10-08T04:25:52.000Z",
+    "in_reply_to_user_id": "16331010",
+    "source": "Twitter Web Client",
+    "text": "@TMZ @stranahan  tv actors tweeting... can the world get any more MIPS. baywatch gal calls out 7th heaven dad/  sigh",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "TMZ",
+                "id": "16331010"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "username": "stranahan",
+                "id": "5820642"
+            }
+        ]
+    },
+    "id": "519705209392488448"
+}

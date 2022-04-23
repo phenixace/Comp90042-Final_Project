@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-02T14:50:35.000Z",
+    "in_reply_to_user_id": "1186955065216520192",
+    "text": "@social_rural Be safe from corona virus",
+    "id": "1245725320398770179",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "social_rural",
+                "id": "1186955065216520192"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

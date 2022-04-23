@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-06-27T01:51:54.000Z",
+    "text": "@FoxNews @jenzambardi Oh! For a minute I thought it was Bob Marley's birthday",
+    "id": "614612083229863936",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "JenZambardi",
+                "id": "1220166088585089025"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 56,
+                "end": 65,
+                "probability": 0.9891,
+                "type": "Person",
+                "normalized_text": "Bob Marley"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

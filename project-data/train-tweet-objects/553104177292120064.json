@@ -1,0 +1,41 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "DEADLINE",
+                "id": "586032653"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "JamesFHall",
+                "id": "22620918"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "username": "banksy",
+                "id": "955432119240740864"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "username": "kowalshki",
+                "id": "103619034"
+            },
+            {
+                "start": 53,
+                "end": 66,
+                "username": "LucilleClerc",
+                "id": "994994552"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T08:21:26.000Z",
+    "id": "553104177292120064",
+    "text": "@Deadline @JamesFHall @banksy @kowalshki actually by @LucilleClerc",
+    "in_reply_to_user_id": "586032653"
+}

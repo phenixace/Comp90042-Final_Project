@@ -1,0 +1,18 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 255,
+                "end": 265,
+                "probability": 0.627,
+                "type": "Person",
+                "normalized_text": "Blackshirts"
+            }
+        ]
+    },
+    "id": "1252291510135111682",
+    "in_reply_to_user_id": "1085538858538811393",
+    "created_at": "2020-04-20T17:42:17.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@brain_warrior Bartering. You’re trading goods for services. But under Capitalism, you don’t own your labor power. And if you wish to know how it relates to political ideology, consider reading “Manufacturing Consent.” Or, if you’re feeling adventurous, “Blackshirts and Reds.”"
+}

@@ -1,0 +1,24 @@
+{
+    "text": "@Rios559 #TeamPW refers to his public relations team you idiot. Have some respect for the dead. He was a very caring and charitable man.",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag": "TeamPW"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Rios559",
+                "id": "25240085"
+            }
+        ]
+    },
+    "id": "407203039594819584",
+    "source": "Twitter for Android",
+    "created_at": "2013-12-01T17:42:24.000Z",
+    "in_reply_to_user_id": "25240085"
+}

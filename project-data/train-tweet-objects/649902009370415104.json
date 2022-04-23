@@ -1,0 +1,26 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ],
+        "urls": [
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/smxfM113PQ",
+                "expanded_url": "http://www.shirthappened.com/cool-shirt-cat-pope-papa-feles-mens",
+                "display_url": "shirthappened.com/cool-shirt-cat…"
+            }
+        ]
+    },
+    "created_at": "2015-10-02T11:01:28.000Z",
+    "id": "649902009370415104",
+    "text": "@nytimes He wasn't asking her for advice, surely. Having a Cat Pope would make more sense than that. http://t.co/smxfM113PQ",
+    "in_reply_to_user_id": "807095"
+}

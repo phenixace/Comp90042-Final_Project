@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "16973333",
+    "text": "@Independent",
+    "source": "Twitter for Android",
+    "created_at": "2014-11-23T16:27:40.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "id": "536556697834115073"
+}

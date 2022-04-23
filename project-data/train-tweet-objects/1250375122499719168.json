@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-15T10:47:14.000Z",
+    "text": "@SABCNews https://t.co/m4U09VJWOg",
+    "entities": {
+        "urls": [
+            {
+                "start": 10,
+                "end": 33,
+                "url": "https://t.co/m4U09VJWOg",
+                "expanded_url": "https://twitter.com/kenkelly1/status/1250363641662255104?s=21",
+                "display_url": "twitter.com/kenkelly1/stat…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SABCNews",
+                "id": "25088746"
+            }
+        ]
+    },
+    "id": "1250375122499719168",
+    "in_reply_to_user_id": "25088746"
+}

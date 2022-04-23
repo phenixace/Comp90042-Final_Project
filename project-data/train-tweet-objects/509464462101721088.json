@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:12:47.000Z",
+    "text": "@patrickklepek The creators of the game released on every platform out there… including the game boy!? Eh?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464462101721088",
+    "source": "TweetDeck"
+}

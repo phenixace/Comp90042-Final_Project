@@ -1,0 +1,23 @@
+{
+    "created_at": "2015-07-29T23:59:31.000Z",
+    "in_reply_to_user_id": "1020058453",
+    "source": "Twitter for Android",
+    "text": "@BuzzFeedNews @gsmancho jajajajajjaja",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BuzzFeedNews",
+                "id": "1020058453"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "gsmancho",
+                "id": "188207275"
+            }
+        ]
+    },
+    "id": "626542601349541888"
+}

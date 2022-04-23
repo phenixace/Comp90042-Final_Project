@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-10-31T22:29:37.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 60,
+                "end": 70,
+                "probability": 0.9598,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ],
+        "urls": [
+            {
+                "start": 72,
+                "end": 94,
+                "url": "http://t.co/smxRhDv02i",
+                "expanded_url": "http://wapo.st/1wR2vqJ",
+                "display_url": "wapo.st/1wR2vqJ"
+            },
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/CUIxN3I57E",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528312406498635777/photo/1",
+                "display_url": "pic.twitter.com/CUIxN3I57E"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 35,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "2467791",
+    "text": "What the Christ. MT @washingtonpost: Fanged deer pops up in Afghanistan http://t.co/smxRhDv02i http://t.co/CUIxN3I57E”",
+    "id": "528312864671399936",
+    "source": "Twitter for iPhone"
+}

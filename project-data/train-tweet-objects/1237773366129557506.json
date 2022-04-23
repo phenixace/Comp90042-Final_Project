@@ -1,0 +1,27 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-11T16:12:21.000Z",
+    "id": "1237773366129557506",
+    "in_reply_to_user_id": "299035254",
+    "entities": {
+        "annotations": [
+            {
+                "start": 81,
+                "end": 91,
+                "probability": 0.3663,
+                "type": "Organization",
+                "normalized_text": "Ivory Coast"
+            }
+        ],
+        "urls": [
+            {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/z7KNc3aoIf",
+                "expanded_url": "https://www.africanews.com/2020/03/11/ivory-coast-records-first-coronavirus-case/",
+                "display_url": "africanews.com/2020/03/11/ivo…"
+            }
+        ]
+    },
+    "text": "- Ivory Coast records index case\n- 45 year-old Ivorian national\n\nVia Africanews: Ivory Coast confirms first coronavirus case\nhttps://t.co/z7KNc3aoIf"
+}

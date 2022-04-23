@@ -1,0 +1,39 @@
+{
+    "text": "@WHO @WHOWPRO We answer more rumours and myths about the 2019 novel #coronavirus.\n\nQ: Can the new coronavirus (2019-nCoV) survive in hot and humid climates?\n\nA: Yes, 2019-nCoV has spread to countries with both hot and humid climates, as well as cold and dry. https://t.co/W2hIkPusin",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            }
+        ],
+        "urls": [
+            {
+                "start": 259,
+                "end": 282,
+                "url": "https://t.co/W2hIkPusin",
+                "expanded_url": "https://twitter.com/WHOPhilippines/status/1225956082847109122/photo/1",
+                "display_url": "pic.twitter.com/W2hIkPusin"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 68,
+                "end": 80,
+                "tag": "coronavirus"
+            }
+        ]
+    },
+    "id": "1225956082847109122",
+    "created_at": "2020-02-08T01:34:41.000Z",
+    "in_reply_to_user_id": "2218026914"
+}

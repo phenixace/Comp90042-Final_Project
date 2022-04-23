@@ -1,0 +1,26 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T02:00:30.000Z",
+    "text": "@FoxNews Stay classy White House.",
+    "id": "614614247394398208",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 31,
+                "probability": 0.7933,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1367531"
+}

@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/3zrFqPXEbt",
+                "expanded_url": "https://twitter.com/stefsimanowitz/status/1269807813511036928?s=21",
+                "display_url": "twitter.com/stefsimanowitz…"
+            },
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/lD4Nzul1sH",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1269807813511036928",
+                "display_url": "twitter.com/StefSimanowitz…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 95,
+                "end": 102,
+                "username": "Peston",
+                "id": "14157134"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 4,
+                "end": 17,
+                "tag": "Herdimmunity"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T07:48:02.000Z",
+    "id": "1275697176476254211",
+    "text": "7/. #Herdimmunity makes sense as an outcome NOT as a strategy...but on 12/3, briefed by No.10, @Peston wrote: “The strategy of the govt is to allow the virus to pass through the entire population so we acquire herd immunity.”\n\nHas this goal really changed?\nhttps://t.co/3zrFqPXEbt https://t.co/lD4Nzul1sH"
+}

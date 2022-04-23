@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-29T16:52:15.000Z",
+    "text": "Q: How does Covid-19 spread? \n\n#Covid19 is a disease that can spread from one person to another to bodily fluids, or droplets from the nose or mouth of a sick person through coughing or sneezing onto a surface or another person. https://t.co/EHRg95Artb",
+    "in_reply_to_user_id": "1203270809994825728",
+    "entities": {
+        "urls": [
+            {
+                "start": 229,
+                "end": 252,
+                "url": "https://t.co/EHRg95Artb",
+                "expanded_url": "https://twitter.com/The80Community/status/1244306388484001792/photo/1",
+                "display_url": "pic.twitter.com/EHRg95Artb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 31,
+                "end": 39,
+                "tag": "Covid19"
+            }
+        ]
+    },
+    "id": "1244306388484001792"
+}

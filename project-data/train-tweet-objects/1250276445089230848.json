@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-04-15T04:15:08.000Z",
+    "text": "@StephenAtHome @DrLaPook Or",
+    "id": "1250276445089230848",
+    "in_reply_to_user_id": "849742756796923908",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "StephenAtHome",
+                "id": "16303106"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "DrLaPook",
+                "id": "21373560"
+            }
+        ]
+    }
+}

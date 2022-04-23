@@ -1,0 +1,17 @@
+{
+    "text": "@FoxNews burn him at the stake!",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "created_at": "2013-05-21T18:50:23.000Z",
+    "in_reply_to_user_id": "1367531",
+    "id": "336916899063537666"
+}

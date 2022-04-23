@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-16T01:47:18.000Z",
+    "text": "@SpencerJCox @UtahCoronavirus Oops, I meant “would help?” I appreciate the updates:)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "SpencerJCox",
+                "id": "69663100"
+            },
+            {
+                "start": 13,
+                "end": 29,
+                "username": "UtahCoronavirus",
+                "id": "1234536299421302784"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "235809405",
+    "id": "1239367608475865088",
+    "source": "Twitter Web App"
+}

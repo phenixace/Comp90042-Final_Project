@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "brianstelter",
+                "id": "14515799"
+            }
+        ],
+        "urls": [
+            {
+                "start": 38,
+                "end": 60,
+                "url": "http://t.co/SR4JmRGly5",
+                "expanded_url": "http://www.alternet.org/abc-reportedly-paid-darren-wilson-six-figures-interview",
+                "display_url": "alternet.org/abc-reportedly…"
+            }
+        ]
+    },
+    "text": "@WesleyLowery @brianstelter Alternet? http://t.co/SR4JmRGly5",
+    "id": "538906333567651840",
+    "in_reply_to_user_id": "14849562",
+    "created_at": "2014-11-30T04:04:16.000Z"
+}

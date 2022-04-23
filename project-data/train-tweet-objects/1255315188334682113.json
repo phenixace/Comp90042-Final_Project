@@ -1,0 +1,32 @@
+{
+    "text": "Update from Mayor @RaviBhalla on COVID-19:\n\n-7 new cases Monday, adjusted total of 473 known, confirmed COVID-19 cases\n\n-Riverside facility now able to test residents, frontline workers both with and without symptoms\n\n-Regional approach to re-opening parks with 6 municipalities https://t.co/zDJjc9qlsu",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 18,
+                "end": 29,
+                "username": "RaviBhalla",
+                "id": "40788497"
+            }
+        ],
+        "urls": [
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/zDJjc9qlsu",
+                "expanded_url": "https://twitter.com/CityofHoboken/status/1255315188334682113/photo/1",
+                "display_url": "pic.twitter.com/zDJjc9qlsu"
+            },
+            {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/zDJjc9qlsu",
+                "expanded_url": "https://twitter.com/CityofHoboken/status/1255315188334682113/photo/1",
+                "display_url": "pic.twitter.com/zDJjc9qlsu"
+            }
+        ]
+    },
+    "id": "1255315188334682113",
+    "created_at": "2020-04-29T01:57:18.000Z"
+}

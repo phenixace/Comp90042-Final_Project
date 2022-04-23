@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "215650354",
+    "entities": {
+        "urls": [
+            {
+                "start": 19,
+                "end": 41,
+                "url": "http://t.co/NbmtkgHoAN",
+                "expanded_url": "http://www.upworthy.com/there-are-6-scriptures-about-homosexuality-in-the-bible-heres-what-they-really-say?c=ufb4",
+                "display_url": "upworthy.com/there-are-6-sc…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "obssee",
+                "id": "215650354"
+            },
+            {
+                "start": 8,
+                "end": 18,
+                "username": "CapehartJ",
+                "id": "97474887"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2015-07-02T02:31:11.000Z",
+    "text": "@obssee @CapehartJ http://t.co/NbmtkgHoAN",
+    "id": "616433908335407104"
+}

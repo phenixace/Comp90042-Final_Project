@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 72,
+                "end": 84,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/x13oO9xmla",
+                "expanded_url": "https://threadreaderapp.com/thread/1218229883484155913.html",
+                "display_url": "threadreaderapp.com/thread/1218229…",
+                "status": 200,
+                "unwound_url": "https://threadreaderapp.com/thread/1218229883484155913.html"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "HariIndi",
+                "id": "1100059176074731521"
+            },
+            {
+                "start": 53,
+                "end": 57,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1100059176074731521",
+    "created_at": "2020-02-02T10:07:25.000Z",
+    "id": "1223910788550791168",
+    "text": "@HariIndi Hallo, the unroll you asked for: Thread by @WHO: Q: What is a #coronavirus? A: Coronaviruses are a large family of viruses that are known to cause… https://t.co/x13oO9xmla. Talk to you soon. 🤖",
+    "source": "ThreadReaderApp"
+}

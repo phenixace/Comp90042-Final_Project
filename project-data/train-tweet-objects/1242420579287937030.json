@@ -1,0 +1,37 @@
+{
+    "id": "1242420579287937030",
+    "in_reply_to_user_id": "242745740",
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 188,
+                "end": 192,
+                "probability": 0.7694,
+                "type": "Place",
+                "normalized_text": "Lagos"
+            },
+            {
+                "start": 214,
+                "end": 225,
+                "probability": 0.6075,
+                "type": "Person",
+                "normalized_text": "Lai Mohammed"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 194,
+                "end": 200,
+                "tag": "COVID"
+            },
+            {
+                "start": 204,
+                "end": 213,
+                "tag": "Covidout"
+            }
+        ]
+    },
+    "text": "alcohol-based hand rub or wash them with soap and water. Once your hands are cleaned, you should dry them thoroughly by using paper towels or a warm air dryer.\nAbba Kyari Buhari Abuja and Lagos #COVID-19 #Covidout Lai Mohammed",
+    "created_at": "2020-03-24T11:58:43.000Z"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-07-01T11:52:18.000Z",
+    "text": "@AlexBerenson My guess is the real antibody results in NYC are much higher, which is good news, not bad news, of course, because it leads to herd immunity.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 57,
+                "probability": 0.9913,
+                "type": "Place",
+                "normalized_text": "NYC"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278295362982350848",
+    "source": "Twitter Web App"
+}

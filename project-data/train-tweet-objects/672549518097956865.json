@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": "23171317",
+    "text": "@davedollar @Todd_C_Meyer @Rockprincess818 @JohnRLottJr cause there wasn't much social media like there is today",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "davedollar",
+                "id": "23171317"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "Rockprincess818",
+                "id": "715044396"
+            },
+            {
+                "start": 43,
+                "end": 55,
+                "username": "JohnRLottJr",
+                "id": "539566673"
+            }
+        ]
+    },
+    "created_at": "2015-12-03T22:54:35.000Z",
+    "id": "672549518097956865"
+}

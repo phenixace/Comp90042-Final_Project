@@ -1,0 +1,29 @@
+{
+    "id": "504442534995984384",
+    "text": "@JayOnrait !!!!!!!! #YES #westandonguardFOORRRTHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JayOnrait",
+                "id": "22292529"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 20,
+                "end": 24,
+                "tag": "YES"
+            },
+            {
+                "start": 25,
+                "end": 89,
+                "tag": "westandonguardFOORRRTHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "22292529",
+    "source": "Echofon",
+    "created_at": "2014-08-27T01:37:27.000Z"
+}

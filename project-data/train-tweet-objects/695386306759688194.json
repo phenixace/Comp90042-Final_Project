@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "126903716",
+    "text": "@Gotham3 throw Ted Cruz in their too. That guy is a psycho",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 15,
+                "end": 22,
+                "probability": 0.9942,
+                "type": "Person",
+                "normalized_text": "Ted Cruz"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "created_at": "2016-02-04T23:19:49.000Z",
+    "id": "695386306759688194"
+}

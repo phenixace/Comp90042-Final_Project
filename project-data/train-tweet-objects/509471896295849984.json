@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:42:20.000Z",
+    "text": "@patrickklepek I can understand why they don't want to have to worry about the business side as much, but MS? The only thing they offer...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509471896295849984",
+    "source": "TweetDeck"
+}

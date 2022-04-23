@@ -1,0 +1,17 @@
+{
+    "text": "@cnni hey morning",
+    "source": "Twitter for BlackBerry®",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "cnni",
+                "id": "2097571"
+            }
+        ]
+    },
+    "id": "614669270082027520",
+    "created_at": "2015-06-27T05:39:08.000Z",
+    "in_reply_to_user_id": "2097571"
+}

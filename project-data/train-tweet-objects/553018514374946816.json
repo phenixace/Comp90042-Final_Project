@@ -1,0 +1,36 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "DEADLINE",
+                "id": "586032653"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "username": "banksy",
+                "id": "955432119240740864"
+            },
+            {
+                "start": 18,
+                "end": 28,
+                "username": "kowalshki",
+                "id": "103619034"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 100,
+                "end": 115,
+                "tag": "checkyourfacts"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T02:41:03.000Z",
+    "id": "553018514374946816",
+    "text": "@Deadline @banksy @kowalshki It's not a real Banksy instagram. Fan/fake account w/terrible quality. #checkyourfacts",
+    "in_reply_to_user_id": "586032653"
+}

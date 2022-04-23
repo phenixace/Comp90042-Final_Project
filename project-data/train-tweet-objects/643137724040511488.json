@@ -1,0 +1,23 @@
+{
+    "id": "643137724040511488",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client",
+    "text": "@AllenWest @peddoc63  I saw 1 or 2 kids, mostly men, yes, let them starve, WTF are we doing, they are coming here ppl, just a matter of time",
+    "created_at": "2015-09-13T19:02:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "peddoc63",
+                "id": "893041820824997888"
+            }
+        ]
+    }
+}

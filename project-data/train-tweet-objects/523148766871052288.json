@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "id": "523148766871052288",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 65,
+                "probability": 0.6902,
+                "type": "Person",
+                "normalized_text": "Boko Harams"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 13,
+                "end": 31,
+                "tag": "BringBackOurGirls"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "5402612",
+    "created_at": "2014-10-17T16:29:20.000Z",
+    "text": "@BBCBreaking #BringBackOurGirls What are the plans for Boko Harams' de armament, cessation of firm on what condition?"
+}

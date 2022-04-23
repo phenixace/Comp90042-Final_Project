@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20T22:04:26.000Z",
+    "source": "Twitter Web Client",
+    "entities": {
+        "urls": [
+            {
+                "start": 25,
+                "end": 47,
+                "url": "http://t.co/1AT6TiTVGG",
+                "expanded_url": "http://nationalreport.net/banksy-arrested-identity-revealed/",
+                "display_url": "nationalreport.net/banksy-arreste…"
+            }
+        ]
+    },
+    "id": "524320261667950592",
+    "text": "I feel some type of way. http://t.co/1AT6TiTVGG"
+}

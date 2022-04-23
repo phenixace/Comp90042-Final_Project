@@ -1,0 +1,23 @@
+{
+    "id": "643109889733226496",
+    "in_reply_to_user_id": "237403203",
+    "source": "Twitter Web Client",
+    "text": "@AllenWest @mefbama Are those bullet-proof vests? I think I'll read this story...it can't be warm &amp; cozy.",
+    "created_at": "2015-09-13T17:12:00.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AllenWest",
+                "id": "237403203"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "mefbama",
+                "id": "381308128"
+            }
+        ]
+    }
+}

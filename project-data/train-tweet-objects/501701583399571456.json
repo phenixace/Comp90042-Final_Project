@@ -1,0 +1,23 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-19T12:05:53.000Z",
+    "id": "501701583399571456",
+    "text": "@realDonaldTrump @ReinsuranceM it's his little way of showing contempt for the people who keep him in power.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "ReinsuranceM",
+                "id": "238197580"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "25073877"
+}

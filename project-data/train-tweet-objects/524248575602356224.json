@@ -1,0 +1,38 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 88,
+                "end": 99,
+                "probability": 0.4887,
+                "type": "Person",
+                "normalized_text": "LennonLounge"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 28,
+                "end": 35,
+                "tag": "Banksy"
+            },
+            {
+                "start": 107,
+                "end": 115,
+                "tag": "NewYork"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DailyMirror",
+                "id": "16887175"
+            }
+        ]
+    },
+    "text": "@DailyMirror Even if I knew #Banksy no way I'd unmask him, I want him to lay his art on LennonLounge, it's #NewYork who want him arrested!",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-20T17:19:35.000Z",
+    "in_reply_to_user_id": "16887175",
+    "id": "524248575602356224"
+}

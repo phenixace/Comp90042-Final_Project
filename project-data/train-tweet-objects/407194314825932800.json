@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2013-12-01T17:07:44.000Z",
+    "id": "407194314825932800",
+    "text": "@DVFlorencio too soon",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "DVFlorencio",
+                "id": "41894721"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "41894721"
+}

@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 52,
+                "probability": 0.863,
+                "type": "Organization",
+                "normalized_text": "Isis"
+            },
+            {
+                "start": 103,
+                "end": 114,
+                "probability": 0.9871,
+                "type": "Person",
+                "normalized_text": "David Haines"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 9,
+                "end": 18,
+                "username": "guardian",
+                "id": "87818409"
+            }
+        ],
+        "urls": [
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/TwEiK2pj1u",
+                "expanded_url": "http://t.gu.com/Bth9T",
+                "display_url": "t.gu.com/Bth9T"
+            }
+        ]
+    },
+    "text": "Urgh. RT @guardian: A video has been released by Isis apparently showing the murder of British hostage David Haines: http://t.co/TwEiK2pj1u",
+    "source": "Twitter for iPad",
+    "created_at": "2014-09-13T22:25:35.000Z",
+    "in_reply_to_user_id": "87818409",
+    "id": "510917231417753600"
+}

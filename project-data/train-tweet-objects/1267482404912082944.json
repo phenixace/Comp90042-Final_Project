@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 181,
+                "end": 197,
+                "probability": 0.8018,
+                "type": "Person",
+                "normalized_text": "African Americans"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JefferyColeman5",
+                "id": "2448218680"
+            }
+        ]
+    },
+    "created_at": "2020-06-01T15:45:28.000Z",
+    "in_reply_to_user_id": "2448218680",
+    "source": "Twitter for iPhone",
+    "text": "@JefferyColeman5 Dude multiple cops have died as a result of these riots, what do you mean tell you what cop has died?? They are out there looting and rioting stores owned by other African Americans but yet claiming that they are doing it to fight for their rights. Makes ZERO sense.. also when u",
+    "id": "1267482404912082944"
+}

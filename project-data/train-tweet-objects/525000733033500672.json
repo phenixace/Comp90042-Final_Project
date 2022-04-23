@@ -1,0 +1,47 @@
+{
+    "id": "525000733033500672",
+    "in_reply_to_user_id": "428333",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 54,
+                "probability": 0.6027,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            },
+            {
+                "start": 59,
+                "end": 64,
+                "probability": 0.9981,
+                "type": "Place",
+                "normalized_text": "Ottawa"
+            },
+            {
+                "start": 90,
+                "end": 95,
+                "probability": 0.9879,
+                "type": "Place",
+                "normalized_text": "Canada"
+            },
+            {
+                "start": 133,
+                "end": 137,
+                "probability": 0.509,
+                "type": "Place",
+                "normalized_text": "South"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "text": "“@cnnbrk: The Canadian soldier shot at the War Memorial in Ottawa has died.\" So sad. Dang Canada, don't be like your neighbor to the South.",
+    "created_at": "2014-10-22T19:08:23.000Z"
+}

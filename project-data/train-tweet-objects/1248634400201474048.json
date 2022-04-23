@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 47,
+                "probability": 0.6023,
+                "type": "Person",
+                "normalized_text": "Gimba"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "gimbakakanda",
+                "id": "64144208"
+            }
+        ]
+    },
+    "text": "@gimbakakanda No, you're not being pranked Gimba. Adding milk to the egg before frying makes it fluffy.",
+    "source": "Twitter for Android",
+    "created_at": "2020-04-10T15:30:14.000Z",
+    "in_reply_to_user_id": "64144208",
+    "id": "1248634400201474048"
+}

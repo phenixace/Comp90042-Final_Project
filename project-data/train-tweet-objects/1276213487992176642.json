@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-06-25T17:59:41.000Z",
+    "text": "A ubiquitous assumption made is, that at the start, all in the population are susceptible if exposed to a new virus such as SAR-CoV-2. But is this assumption always correct?\n#COVID19\n7/x",
+    "id": "1276213487992176642",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 174,
+                "end": 182,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "146995555"
+}

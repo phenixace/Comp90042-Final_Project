@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "SkyNewsAust",
+                "id": "16834659"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "SkyBusiness",
+                "id": "1424683902594072579"
+            }
+        ]
+    },
+    "id": "544522331939274752",
+    "text": "@SkyNewsAust @SkyBusiness you guys had the slowest report commentary in the world. Worst coverage of such a important part in our history :(",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-12-15T16:00:15.000Z",
+    "in_reply_to_user_id": "16834659"
+}

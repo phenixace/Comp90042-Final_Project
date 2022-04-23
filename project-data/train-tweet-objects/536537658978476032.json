@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-11-23T15:12:00.000Z",
+    "text": "“@BuzzFeedUK: Letter to parents from a 1970s Lego set is years ahead of its time http://t.co/YTxlABAntQ http://t.co/HELBcoMQRS” @LEGO_Group",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "BuzzFeedUK",
+                "id": "1068121346"
+            },
+            {
+                "start": 128,
+                "end": 139,
+                "username": "LEGO_Group",
+                "id": "295325513"
+            }
+        ],
+        "urls": [
+            {
+                "start": 81,
+                "end": 103,
+                "url": "http://t.co/YTxlABAntQ",
+                "expanded_url": "http://www.buzzfeed.com/jobarrow/its-the-imagination-that-counts?bftw=uk",
+                "display_url": "buzzfeed.com/jobarrow/its-t…",
+                "status": 200,
+                "unwound_url": "https://www.buzzfeed.com/jobarrow/its-the-imagination-that-counts?bftw=uk"
+            },
+            {
+                "start": 104,
+                "end": 126,
+                "url": "http://t.co/HELBcoMQRS",
+                "expanded_url": "https://twitter.com/BuzzFeedUK/status/536504515843727361/photo/1",
+                "display_url": "pic.twitter.com/HELBcoMQRS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1068121346",
+    "id": "536537658978476032",
+    "source": "Twitter for iPad"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-27T04:15:18.000Z",
+    "id": "504482261111033856",
+    "text": "@raspberryberet3 Woah, really?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "raspberryberet3",
+                "id": "427572119"
+            }
+        ]
+    },
+    "source": "TweetDeck",
+    "in_reply_to_user_id": "427572119"
+}

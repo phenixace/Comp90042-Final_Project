@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 172,
+                "end": 195,
+                "url": "https://t.co/jMCLY9XbKE",
+                "expanded_url": "https://www.statnews.com/2020/03/16/coronavirus-can-become-aerosol-doesnt-mean-doomed/",
+                "display_url": "statnews.com/2020/03/16/cor…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "karunanundy",
+                "id": "415860281"
+            }
+        ]
+    },
+    "created_at": "2020-03-23T14:12:57.000Z",
+    "source": "Twitter for Android",
+    "id": "1242091969951588353",
+    "text": "@karunanundy yes it is the official advise that i was questioning. however on reading this very comprehensive article i just found on the issue, i think it is indeed sound\nhttps://t.co/jMCLY9XbKE",
+    "in_reply_to_user_id": "415860281"
+}

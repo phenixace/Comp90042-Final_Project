@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-02-04T23:40:36.000Z",
+    "in_reply_to_user_id": "145755670",
+    "text": "@KingRudy_ @nfl @EAMaddenNFL ah bin vé c'est un film",
+    "id": "563119962718760960",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "KingRudy_",
+                "id": "145755670"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "NFL",
+                "id": "19426551"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "EAMaddenNFL",
+                "id": "50096544"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

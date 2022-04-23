@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "PerezHilton",
+                "id": "19329393"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 19,
+                "end": 21,
+                "probability": 0.7361,
+                "type": "Other",
+                "normalized_text": "GOD"
+            }
+        ]
+    },
+    "created_at": "2014-12-09T23:50:26.000Z",
+    "text": "@PerezHilton THANK GOD",
+    "id": "542466332306853889",
+    "in_reply_to_user_id": "19329393",
+    "source": "Twitter for iPhone"
+}

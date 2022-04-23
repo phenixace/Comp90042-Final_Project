@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T03:38:32.000Z",
+    "text": "@AlexBerenson Antibody tests are important if for no other reason, they still don't know how long the antibodies last and/or resist reinfection.  No one has yet to be able to answer that but I assume they are still testing to determine? Who knows?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278171099784785921",
+    "source": "Twitter Web App"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "BAMAPERRY",
+                "id": "43508994"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "luv_tennessee",
+                "id": "255257430"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 58,
+                "probability": 0.7843,
+                "type": "Place",
+                "normalized_text": "DC"
+            }
+        ]
+    },
+    "text": "@BAMAPERRY @luv_tennessee why not settle them all around DC ?",
+    "id": "676920472580263936",
+    "in_reply_to_user_id": "43508994",
+    "created_at": "2015-12-16T00:23:11.000Z"
+}

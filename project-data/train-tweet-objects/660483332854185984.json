@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-31T15:47:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "AnonyAussie",
+                "id": "709289707511750656"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "660483332854185984",
+    "text": "@AnonyAussie WILLCO 11/16",
+    "in_reply_to_user_id": "3224780809"
+}

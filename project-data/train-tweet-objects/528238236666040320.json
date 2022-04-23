@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-10-31T17:33:04.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost How convenient lol. #happyhalloween!",
+    "id": "528238236666040320",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 51,
+                "tag": "happyhalloween"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

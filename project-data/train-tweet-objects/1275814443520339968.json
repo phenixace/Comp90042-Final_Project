@@ -1,0 +1,33 @@
+{
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": "115393565",
+    "entities": {
+        "urls": [
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/pREgJ3KhOQ",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1275814443520339968/photo/1",
+                "display_url": "pic.twitter.com/pREgJ3KhOQ"
+            },
+            {
+                "start": 281,
+                "end": 304,
+                "url": "https://t.co/pREgJ3KhOQ",
+                "expanded_url": "https://twitter.com/StefSimanowitz/status/1275814443520339968/photo/1",
+                "display_url": "pic.twitter.com/pREgJ3KhOQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 264,
+                "end": 273,
+                "username": "HuffPost",
+                "id": "14511951"
+            }
+        ]
+    },
+    "created_at": "2020-06-24T15:34:01.000Z",
+    "id": "1275814443520339968",
+    "text": "16/. \"[This document] should be in the public domain. There’s nothing in it that justifies secrecy...The fact we have to ask if we can share these things is crazy. It’s even crazier we might be told no....PHE are unable to publish anything [without govt say so].\" @HuffPost source https://t.co/pREgJ3KhOQ"
+}

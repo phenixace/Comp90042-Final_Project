@@ -1,0 +1,39 @@
+{
+    "created_at": "2020-07-01T03:34:27.000Z",
+    "text": "@CentristMadness @AlexBerenson NYC seroprevalence is around 25% and we see immunity playing a huge role. Not abolishing the virus as herd would, but it’s ability to spread is extremely limited in NY.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "CentristMadness",
+                "id": "922663407567998977"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 31,
+                "end": 33,
+                "probability": 0.8183,
+                "type": "Place",
+                "normalized_text": "NYC"
+            },
+            {
+                "start": 196,
+                "end": 197,
+                "probability": 0.9426,
+                "type": "Place",
+                "normalized_text": "NY"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "922663407567998977",
+    "id": "1278170073409224705",
+    "source": "Twitter for iPhone"
+}

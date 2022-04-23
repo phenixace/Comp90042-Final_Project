@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 58,
+                "end": 60,
+                "probability": 0.7633,
+                "type": "Organization",
+                "normalized_text": "SBI"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TheOfficialSBI",
+                "id": "2251588934"
+            }
+        ]
+    },
+    "text": "@TheOfficialSBI Sir please let me know when we can expect SBI clerk prelims exam result?",
+    "source": "Twitter for Android",
+    "created_at": "2020-05-13T12:36:33.000Z",
+    "in_reply_to_user_id": "2251588934",
+    "id": "1260549493696708608"
+}

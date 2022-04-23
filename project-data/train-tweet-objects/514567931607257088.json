@@ -1,0 +1,51 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 25,
+                "end": 37,
+                "probability": 0.8776,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 23,
+                "tag": "BendGate"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 9,
+                "end": 13,
+                "username": "smh",
+                "id": "16675569"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/xwkcxTnyo2",
+                "expanded_url": "http://ow.ly/BQkw3",
+                "display_url": "ow.ly/BQkw3",
+                "status": 200,
+                "unwound_url": "https://www.smh.com.au/technology/bendgate-apple-iphone-6-plus-found-bending-in-pants-pockets-20140924-10l5qm.html"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/E2og2UpuxK",
+                "expanded_url": "https://twitter.com/smh/status/514555852351479808/photo/1",
+                "display_url": "pic.twitter.com/E2og2UpuxK"
+            }
+        ]
+    },
+    "text": "Whoops! “@smh:#BendGate, iPhone 6 Plus: reports aluminium body is bending in pants pockets http://t.co/xwkcxTnyo2 http://t.co/E2og2UpuxK”",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-24T00:12:09.000Z",
+    "in_reply_to_user_id": "16675569",
+    "id": "514567931607257088"
+}

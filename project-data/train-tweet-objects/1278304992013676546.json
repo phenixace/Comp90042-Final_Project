@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-07-01T12:30:34.000Z",
+    "text": "@AlexBerenson Nefarious? They want this to continue? Or incompetence?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "87679233",
+    "id": "1278304992013676546",
+    "source": "Twitter for Android"
+}

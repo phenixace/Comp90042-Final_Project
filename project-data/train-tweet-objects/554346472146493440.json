@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 3,
+                "username": "AP",
+                "id": "51241574"
+            },
+            {
+                "start": 4,
+                "end": 16,
+                "username": "SousLeRadar",
+                "id": "253541729"
+            }
+        ]
+    },
+    "created_at": "2015-01-11T18:37:52.000Z",
+    "text": "@AP @SousLeRadar A reason to stop drinking beer.",
+    "id": "554346472146493440",
+    "in_reply_to_user_id": "51241574",
+    "source": "Twitter Web App"
+}

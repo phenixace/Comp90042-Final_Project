@@ -1,0 +1,17 @@
+{
+    "in_reply_to_user_id": "798968970468622340",
+    "created_at": "2020-03-29T07:29:35.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "NMCGH_Official",
+                "id": "798968970468622340"
+            }
+        ]
+    },
+    "id": "1244164789225521153",
+    "source": "Twitter for iPhone",
+    "text": "@NMCGH_Official Which health facility??...the health facilities without Personal Protective Equipment??..Shame on you guys"
+}

@@ -1,0 +1,32 @@
+{
+    "in_reply_to_user_id": "759251",
+    "text": "@CNN @realDonaldTrump he courts the hateful and racist base of Republican Party. I'm ready for the nonsense to end.",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 63,
+                "end": 78,
+                "probability": 0.8362,
+                "type": "Organization",
+                "normalized_text": "Republican Party"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "created_at": "2015-10-10T17:00:25.000Z",
+    "id": "652891447687909376"
+}

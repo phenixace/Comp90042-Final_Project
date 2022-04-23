@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-09T22:14:09.000Z",
+    "text": "@patrickklepek This does not conform to my world view.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "patrickklepek",
+                "id": "13461662"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "13461662",
+    "id": "509464805296455680",
+    "source": "Twitter Web Client"
+}

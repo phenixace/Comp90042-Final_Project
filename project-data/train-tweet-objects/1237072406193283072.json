@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Ericflashlight",
+                "id": "221010917"
+            },
+            {
+                "start": 16,
+                "end": 29,
+                "username": "Kassebohmer1",
+                "id": "1208365480815349763"
+            },
+            {
+                "start": 45,
+                "end": 59,
+                "username": "AtlantisThief",
+                "id": "1313749489228840960"
+            },
+            {
+                "start": 60,
+                "end": 70,
+                "username": "betablogr",
+                "id": "118016791"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "221010917",
+    "created_at": "2020-03-09T17:46:59.000Z",
+    "id": "1237072406193283072",
+    "text": "@Ericflashlight @Kassebohmer1 @Enc_scribbles @AtlantisThief @betablogr Genau darum geht es in der Graphik: Wenn die 9,6 Mio gleichzeitig krank sind, ist es etwas ganz anderes, als wenn sich das über Monate verteilt.",
+    "source": "Twitter Web App"
+}

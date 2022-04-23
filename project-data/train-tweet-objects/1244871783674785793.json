@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-31T06:18:56.000Z",
+    "in_reply_to_user_id": "4297831041",
+    "source": "Twitter for Android",
+    "text": "@xxxeerh Itse asiassa se oli gin tonicin tonic-vesi, joka sisälsi aikoinaan merkittävän määrän kiniiniä eli yhtä malarialääkettä. Juomaan lisättiin giniä, jotta se menisi paremmin alas. Itse en pysty juomaan edes nykyistä tonic-vettä. Kiiniiniä sisältävä tuskin menisi edes ginin kanssa.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "xxxeerh",
+                "id": "4297831041"
+            }
+        ]
+    },
+    "id": "1244871783674785793"
+}

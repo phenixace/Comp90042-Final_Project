@@ -1,0 +1,17 @@
+{
+    "id": "1241071269954686976",
+    "text": "@lynneSimpkin Haha yeah all good on this end 🙂. Hope same for you and the team!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "lynneSimpkin",
+                "id": "421041857"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": "421041857",
+    "created_at": "2020-03-20T18:37:03.000Z"
+}

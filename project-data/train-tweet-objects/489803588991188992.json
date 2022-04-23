@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 27,
+                "probability": 0.9869,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 101,
+                "end": 104,
+                "probability": 0.7511,
+                "type": "Organization",
+                "normalized_text": "MH17"
+            },
+            {
+                "start": 119,
+                "end": 121,
+                "probability": 0.9463,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            },
+            {
+                "start": 130,
+                "end": 133,
+                "probability": 0.3832,
+                "type": "Person",
+                "normalized_text": "Wolf"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "id": "489803588991188992",
+    "created_at": "2014-07-17T16:07:30.000Z",
+    "in_reply_to_user_id": "2467791",
+    "text": "@washingtonpost Where is CNN on this, surely they will have every (ex)pert on the why's and how's of MH17 demise. Have CNN called Wolf?"
+}

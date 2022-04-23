@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for Android",
+    "text": "@harikondabolu absolutely despicable. Ugh. How much has the family gotten? Ugh.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "harikondabolu",
+                "id": "30488144"
+            }
+        ]
+    },
+    "created_at": "2014-11-30T07:11:23.000Z",
+    "id": "538953419449327616",
+    "in_reply_to_user_id": "30488144"
+}

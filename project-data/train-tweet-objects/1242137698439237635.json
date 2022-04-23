@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "id": "1242137698439237635",
+    "created_at": "2020-03-23T17:14:39.000Z",
+    "text": "Can I catch COVID-19 from my pet?\n\nTake our #COVID19 quiz to see how well versed you are on the facts. We’ll be revealing the answers tomorrow! \n\n#OandoCares #COVID19NIGERIA",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 52,
+                "tag": "COVID19"
+            },
+            {
+                "start": 146,
+                "end": 157,
+                "tag": "OandoCares"
+            },
+            {
+                "start": 158,
+                "end": 173,
+                "tag": "COVID19NIGERIA"
+            }
+        ]
+    }
+}

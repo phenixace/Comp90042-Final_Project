@@ -1,0 +1,32 @@
+{
+    "source": "twicca",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "KennyBurns",
+                "id": "15937499"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "necolebitchie",
+                "id": "100554060"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 27,
+                "end": 32,
+                "probability": 0.6592,
+                "type": "Organization",
+                "normalized_text": "Google"
+            }
+        ]
+    },
+    "created_at": "2013-07-14T16:11:28.000Z",
+    "id": "356445851394117633",
+    "text": "@KennyBurns @necolebitchie Google doesn't know about this yet, apparently.",
+    "in_reply_to_user_id": "15937499"
+}

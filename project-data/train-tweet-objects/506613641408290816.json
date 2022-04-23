@@ -1,0 +1,44 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 89,
+                "end": 111,
+                "url": "http://t.co/ouAM5V5dCv",
+                "expanded_url": "http://m.youtube.com/watch?v=dkRqOewE1T8",
+                "display_url": "m.youtube.com/watch?v=dkRqOe…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 112,
+                "end": 125,
+                "tag": "RIPMIKEBROWN"
+            },
+            {
+                "start": 126,
+                "end": 135,
+                "tag": "FERGUSON"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Maliheh_",
+                "id": "61567598"
+            },
+            {
+                "start": 10,
+                "end": 23,
+                "username": "SuzyBlueLady",
+                "id": "2222248950"
+            }
+        ]
+    },
+    "id": "506613641408290816",
+    "in_reply_to_user_id": "61567598",
+    "created_at": "2014-09-02T01:24:39.000Z",
+    "source": "Twitter for Android",
+    "text": "@Maliheh_ @SuzyBlueLady DISE - SURRENDER (FERGUSON POLICE DISS)\nA MUST SEE!!! CLICK HERE\nhttp://t.co/ouAM5V5dCv\n#RIPMIKEBROWN #FERGUSON"
+}

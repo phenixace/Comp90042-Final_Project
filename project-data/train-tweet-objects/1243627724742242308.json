@@ -1,0 +1,15 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 12,
+                "end": 20,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "id": "1243627724742242308",
+    "text": "Myths about #COVID19\n\nOnly older adults are infected\nChildren cannot catch COVID-19\nCOVID-19 is just like the flu\nEveryone with COVID-19 does\nAntibiotics kill coronavirus\nGarlic protects against the viruses\nThe virus will die off when temperatures rise in the spring",
+    "created_at": "2020-03-27T19:55:29.000Z"
+}

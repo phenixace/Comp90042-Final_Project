@@ -1,0 +1,38 @@
+{
+    "created_at": "2020-03-22T13:37:48.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 259,
+                "end": 282,
+                "url": "https://t.co/C1Kx3kdkSI",
+                "expanded_url": "https://twitter.com/ChamakforIndia/status/1241720737401933825/photo/1",
+                "display_url": "pic.twitter.com/C1Kx3kdkSI"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 16,
+                "tag": "Myths"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "tag": "CoVid19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 117,
+                "end": 121,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "id": "1241720737401933825",
+    "text": "Debunking #Myths about #CoVid19 :-\n\nGargling with Salt water can ease a sore throat but it won’t kill the virus. The @WHO has said that there is no evidence that regularly rinsing your nose with saline is likely to prevent infection with the new coronavirus. https://t.co/C1Kx3kdkSI",
+    "in_reply_to_user_id": "1212466860588822528"
+}

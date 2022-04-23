@@ -1,0 +1,26 @@
+{
+    "in_reply_to_user_id": "1240193760706863104",
+    "id": "1240583951137353729",
+    "created_at": "2020-03-19T10:20:37.000Z",
+    "source": "Twitter Web App",
+    "text": "ranging from the common cold to more severe diseases such as Middle East RespiratorySyndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19. (2/2) , #HackCovid19 #CoronaVirusNamibia #NUSTHackathon",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 232,
+                "end": 244,
+                "tag": "HackCovid19"
+            },
+            {
+                "start": 245,
+                "end": 264,
+                "tag": "CoronaVirusNamibia"
+            },
+            {
+                "start": 265,
+                "end": 279,
+                "tag": "NUSTHackathon"
+            }
+        ]
+    }
+}
