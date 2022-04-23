@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-12T06:44:26.000Z",
+    "text": "@mernin @WHO Sentences like „Are hand dryers effective in killing the new coronavirus?“ make the website look like scam. Are people really asking these questions?",
+    "id": "1237992831584743425",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "mernin",
+                "id": "39760276"
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39760276"
+}

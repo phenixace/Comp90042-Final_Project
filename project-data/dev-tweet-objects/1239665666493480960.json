@@ -1,0 +1,23 @@
+{
+    "id": "1239665666493480960",
+    "in_reply_to_user_id": "450850603",
+    "source": "Twitter Web App",
+    "text": "@MudbloodWolfie @TrU3Ta1ent Hey 😁\n\nDevs have all the data they want. Showing some extra intel to killers would suddenly decide them to act on SWF ?\n\nAlso, I do not get how this data could be abused ?",
+    "created_at": "2020-03-16T21:31:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "MudbloodWolfie",
+                "id": "450850603"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "username": "TrU3Ta1ent",
+                "id": "112323166"
+            }
+        ]
+    }
+}

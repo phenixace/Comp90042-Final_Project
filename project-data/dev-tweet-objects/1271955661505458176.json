@@ -1,0 +1,32 @@
+{
+    "text": "@tonywpy27 @DrDenaGrayson The common cold is a corona https://t.co/Ixp4FXbybQ receive a little protection after you contract it  , generally 3-6 months . This is why you can catch a cold every season. There is no heard immunity for the common cold for this reason. Covid 19 could be/is similar",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "tonywpy27",
+                "id": "2852376769"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "DrDenaGrayson",
+                "id": "1651522832"
+            }
+        ],
+        "urls": [
+            {
+                "start": 54,
+                "end": 77,
+                "url": "https://t.co/Ixp4FXbybQ",
+                "expanded_url": "http://virus.You",
+                "display_url": "virus.You"
+            }
+        ]
+    },
+    "created_at": "2020-06-14T00:00:36.000Z",
+    "in_reply_to_user_id": "2852376769",
+    "id": "1271955661505458176"
+}

@@ -1,0 +1,23 @@
+{
+    "text": "@WadeJohnstone1 @DrDenaGrayson Thx.   No one fears death from the common corona cold virus.",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "WadeJohnstone1",
+                "id": "1186573438439190528"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "DrDenaGrayson",
+                "id": "1651522832"
+            }
+        ]
+    },
+    "created_at": "2020-06-14T00:32:05.000Z",
+    "in_reply_to_user_id": "1186573438439190528",
+    "id": "1271963585510596608"
+}

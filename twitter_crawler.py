@@ -20,11 +20,11 @@ non_tweets = []
 for line in lists:
     non_tweets += line.strip('\n').split(',')
 
+waiting = []
 for line in lines:
 
     temp = line.strip('\n').split(',')
     # check if already exists
-    waiting = []
     for unit in temp:
         if os.path.exists(folder+unit+'.json'):
             print(unit+'.json', 'already exists')
@@ -32,26 +32,41 @@ for line in lines:
             pass
         else:
             waiting.append(unit)
+    
     if len(waiting) == 0:
         continue
+    elif len(waiting) > 100:
+        waiting = waiting[:100]
+        remains = waiting[100:]
     else:
-        temp_url = url + ','.join(waiting)
+        remains = []
+
+    temp_url = url + ','.join(waiting)
+
     print('Crawling from', temp_url)
     res = requests.get(url=temp_url,params=param, headers=header)
 
     if res.status_code == 200:       
         items = json.loads(res.content)
-        if 'errors' in items.keys():
-            print('Error Message', items)
-            with open('./project-data/logs.txt', 'a+') as f:
-                f.write(','.join(waiting)+'\n')
-            continue
+        waiting = remains
+        if 'data' in items.keys():
+            for item in items['data']:
+                with open(folder+item['id']+'.json', 'w+', encoding='utf-8') as f:
+                    print('downloading', item['id']+'.json')
+                    f.write(json.dumps(item, indent=4, ensure_ascii=False))
 
-        for item in items['data']:
-            with open(folder+item['id']+'.json', 'w+', encoding='utf-8') as f:
-                print('downloading', item['id']+'.json')
-                f.write(json.dumps(item, indent=4, ensure_ascii=False))
+        if 'errors' in items.keys():
+            print('Error Message', items['errors'])
+            errs = []
+            for item in items['errors']:
+                errs.append(item['value'])
+            with open('./project-data/logs.txt', 'a+') as f:
+                f.write(','.join(errs) + '\n')
+            continue
+        
     else:
+        waiting = []
         print(res.status_code)
         print(res.content)
         time.sleep(5)
+    break

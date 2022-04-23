@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-03-12T19:07:18.000Z",
+    "text": "@heiko_braun @WHO I'm afraid they probably are, as shocking as it may seem :-|",
+    "id": "1238179781084143617",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "heiko_braun",
+                "id": "78961895"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "78961895"
+}

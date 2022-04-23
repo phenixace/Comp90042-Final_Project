@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 0,
+                "end": 2,
+                "probability": 0.6276,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "id": "1257247393583476737",
+    "created_at": "2020-05-04T09:55:11.000Z",
+    "source": "Twitter for iPhone",
+    "text": "God I’m so annoyed. Tl look away, I just want to get this off my chest. WE KNOW OK?? We KNOW the results we have right now is not enough to get a comfortable win, that’s why we’re working as hard as we can, double time to catch up. I know it’s fucking stupid to say “we’re doing"
+}

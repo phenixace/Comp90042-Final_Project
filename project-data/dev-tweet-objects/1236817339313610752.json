@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "text": "7) Thermal scanners are effective in detecting fever but CANNOT detect people w/ coronavirus who are infected but not yet sick with fever. \n\n8) Spraying alcohol/chlorine all over your body will NOT kill viruses that have already ENTERED your body. https://t.co/VLkMIbAgOM",
+    "entities": {
+        "urls": [
+            {
+                "start": 248,
+                "end": 271,
+                "url": "https://t.co/VLkMIbAgOM",
+                "expanded_url": "https://twitter.com/doktora_ging/status/1236817339313610752/photo/1",
+                "display_url": "pic.twitter.com/VLkMIbAgOM"
+            },
+            {
+                "start": 248,
+                "end": 271,
+                "url": "https://t.co/VLkMIbAgOM",
+                "expanded_url": "https://twitter.com/doktora_ging/status/1236817339313610752/photo/1",
+                "display_url": "pic.twitter.com/VLkMIbAgOM"
+            }
+        ]
+    },
+    "id": "1236817339313610752",
+    "in_reply_to_user_id": "1512421651",
+    "created_at": "2020-03-09T00:53:27.000Z"
+}
