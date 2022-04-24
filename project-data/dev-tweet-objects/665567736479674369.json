@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "AdamBaldwin",
+                "id": "91279573"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "username": "jubals",
+                "id": "14866985"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@lauderdaleagent @AdamBaldwin @jubals Well they voted for it...wait they didn't?",
+    "id": "665567736479674369",
+    "created_at": "2015-11-14T16:31:28.000Z"
+}

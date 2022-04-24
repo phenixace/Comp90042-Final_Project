@@ -1,0 +1,22 @@
+{
+    "created_at": "2015-11-17T16:56:53.000Z",
+    "text": "@BBCWorld @BBCtrending Moderate muslim isn't a myth. Nuclear bomb wasn't first created by muslim scientists. 😔",
+    "id": "666661295731535872",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BBCWorld",
+                "id": "742143"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "BBCtrending",
+                "id": "1562935142"
+            }
+        ]
+    }
+}

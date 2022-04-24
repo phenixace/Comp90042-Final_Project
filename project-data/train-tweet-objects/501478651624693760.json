@@ -1,0 +1,16 @@
+{
+    "created_at": "2014-08-18T21:20:02.000Z",
+    "id": "501478651624693760",
+    "text": "@realDonaldTrump A travesty of what? Besides, if he HAD attended, people would just complain that he was ignoring his other duties right?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

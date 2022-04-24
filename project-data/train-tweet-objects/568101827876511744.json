@@ -1,0 +1,45 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "username": "Eykis",
+                "id": "19038210"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 92,
+                "end": 96,
+                "tag": "GOP"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 22,
+                "end": 32,
+                "probability": 0.6933,
+                "type": "Place",
+                "normalized_text": "S. Carolina"
+            },
+            {
+                "start": 97,
+                "end": 102,
+                "probability": 0.7184,
+                "type": "Person",
+                "normalized_text": "Corbin"
+            }
+        ]
+    },
+    "id": "568101827876511744",
+    "text": "@assholeofday @Eykis .S. Carolina supermarkets to replace all \"lesser cuts of women meat\" w #GOP Corbin prime dick.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-18T17:36:45.000Z"
+}

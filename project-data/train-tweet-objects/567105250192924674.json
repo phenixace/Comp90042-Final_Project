@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "PedestrianError",
+                "id": "63157671"
+            }
+        ]
+    },
+    "id": "567105250192924674",
+    "text": "@assholeofday @PedestrianError How could that be for Hell has no furry like a Woman's scorn.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-15T23:36:42.000Z"
+}

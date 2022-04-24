@@ -1,0 +1,51 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 89,
+                "end": 99,
+                "probability": 0.4264,
+                "type": "Other",
+                "normalized_text": "Wuhan Virus"
+            },
+            {
+                "start": 136,
+                "end": 140,
+                "probability": 0.8569,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 143,
+                "end": 147,
+                "probability": 0.3664,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BrobanGrian",
+                "id": "1227677444670468096"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "M8mouse",
+                "id": "21953360"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "1245129891932225538",
+    "text": "@BrobanGrian @M8mouse @nytimes Because coronavirus has something behind it. What good is Wuhan Virus? The virus was first discovered in Wuhan, China? What good does that do anyone? At least when someone asks 'what is a coronavirus?' some info can be given on that.",
+    "created_at": "2020-03-31T23:24:34.000Z"
+}

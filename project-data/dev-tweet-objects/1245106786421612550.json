@@ -1,0 +1,37 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 190,
+                "end": 191,
+                "probability": 0.968,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BrobanGrian",
+                "id": "1227677444670468096"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "M8mouse",
+                "id": "21953360"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "1245106786421612550",
+    "text": "@BrobanGrian @M8mouse @nytimes Technically coronavirus is more correct given that it IS a type of coronavirus. Calling the Wuhan Virus is useless, uninformative and given the climate in the US just invites more trouble for Asian Americans.",
+    "created_at": "2020-03-31T21:52:45.000Z"
+}

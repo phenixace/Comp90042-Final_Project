@@ -1,0 +1,31 @@
+{
+    "text": "@davidg18019 @defethyst you can find out your personality type on 16personalities and then go to the website to see what characters have the same personality type!!",
+    "id": "1256271482835140611",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "davidg18019",
+                "id": "1073430183720431617"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "defethyst",
+                "id": "1331400735079206916"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 66,
+                "end": 80,
+                "probability": 0.549,
+                "type": "Product",
+                "normalized_text": "16personalities"
+            }
+        ]
+    },
+    "created_at": "2020-05-01T17:17:16.000Z"
+}

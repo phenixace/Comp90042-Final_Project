@@ -1,0 +1,16 @@
+{
+    "created_at": "2014-10-17T16:59:25.000Z",
+    "source": "Twitter Web Client",
+    "text": "@Channel4News; what's the source of this news?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Channel4News",
+                "id": "14569869"
+            }
+        ]
+    },
+    "id": "523156339997306882"
+}

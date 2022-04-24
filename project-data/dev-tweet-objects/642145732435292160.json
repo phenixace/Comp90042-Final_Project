@@ -1,0 +1,47 @@
+{
+    "text": "Poll: @HillaryClinton's lead over @BernieSanders shrinks as her edge over GOP vanishes http://t.co/TaMch3jQ2s http://t.co/BGz6wgRMQY",
+    "created_at": "2015-09-11T01:20:47.000Z",
+    "id": "642145732435292160",
+    "entities": {
+        "annotations": [
+            {
+                "start": 74,
+                "end": 76,
+                "probability": 0.7703,
+                "type": "Organization",
+                "normalized_text": "GOP"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 6,
+                "end": 21,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 34,
+                "end": 48,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ],
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/TaMch3jQ2s",
+                "expanded_url": "http://cnn.it/1NsDRVu",
+                "display_url": "cnn.it/1NsDRVu"
+            },
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/BGz6wgRMQY",
+                "expanded_url": "https://twitter.com/CNN/status/642145732435292160/photo/1",
+                "display_url": "pic.twitter.com/BGz6wgRMQY"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

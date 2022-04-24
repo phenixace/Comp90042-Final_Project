@@ -1,0 +1,16 @@
+{
+    "id": "672219858818359296",
+    "text": "@ABC Thoughts and prayers go out to all the victims and their families.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-03T01:04:38.000Z"
+}

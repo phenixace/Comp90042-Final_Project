@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-07-01T14:38:42.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "5sandytoes",
+                "id": "789274485073600513"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "id": "1278337236535087105",
+    "text": "@5sandytoes @AlexBerenson Hundo p"
+}

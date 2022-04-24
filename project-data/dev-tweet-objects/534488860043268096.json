@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 41,
+                "probability": 0.3393,
+                "type": "Person",
+                "normalized_text": "Hersey"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "marieosmond",
+                "id": "18538268"
+            }
+        ]
+    },
+    "created_at": "2014-11-17T23:30:49.000Z",
+    "id": "534488860043268096",
+    "source": "Twitter for iPhone",
+    "text": "@marieosmond i keep a candy bowl of Hersey choc"
+}

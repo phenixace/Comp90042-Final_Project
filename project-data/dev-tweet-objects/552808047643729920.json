@@ -1,0 +1,54 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 50,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 86,
+                "end": 108,
+                "url": "http://t.co/12N9CSHS8k",
+                "expanded_url": "http://usat.ly/1IpqNci",
+                "display_url": "usat.ly/1IpqNci"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/oAxuw70c9e",
+                "expanded_url": "https://twitter.com/USATODAY/status/552806757672964097/photo/1",
+                "display_url": "pic.twitter.com/oAxuw70c9e"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 61,
+                "end": 65,
+                "probability": 0.998,
+                "type": "Place",
+                "normalized_text": "Paris"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "USATODAY",
+                "id": "15754281"
+            },
+            {
+                "start": 68,
+                "end": 71,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "text": "“@USATODAY: 12 now confirmed dead in #CharlieHebdo attack in Paris, @AP is reporting: http://t.co/12N9CSHS8k (AP) http://t.co/oAxuw70c9e”",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-07T12:44:43.000Z",
+    "id": "552808047643729920"
+}

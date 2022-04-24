@@ -1,0 +1,22 @@
+{
+    "created_at": "2013-05-15T17:58:55.000Z",
+    "source": "Twitter for Android",
+    "id": "334729624011567105",
+    "text": "@stephenfry @elvis717 It is not real mr. Ståfrähs means having a boner.  :-)",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "elvis717",
+                "id": "17986456"
+            }
+        ]
+    }
+}

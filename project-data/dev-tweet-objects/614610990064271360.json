@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "amandapalmer",
+                "id": "10798802"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:47:33.000Z",
+    "text": "@hunterschwarz @amandapalmer okay I thought it was photoshoped. Its actually rainbow? That is so cool.",
+    "id": "614610990064271360"
+}

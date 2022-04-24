@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "RepublicanSwine",
+                "id": "238862918"
+            }
+        ]
+    },
+    "id": "580929977748721664",
+    "text": "@assholeofday @RepublicanSwine Yeah,he looks like he gets laid all the time.He probably has to climb 20 feet of pussy to get into his house.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-03-26T03:11:14.000Z"
+}

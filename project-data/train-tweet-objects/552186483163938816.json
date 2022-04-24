@@ -1,0 +1,16 @@
+{
+    "text": "@jbsmoovee96 @XXL I saw this she so sick",
+    "source": "Twitter for Android",
+    "created_at": "2015-01-05T19:34:51.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 17,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ]
+    },
+    "id": "552186483163938816"
+}

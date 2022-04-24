@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-07-01T10:51:50.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 87,
+                "tag": "CovidiotInChief"
+            }
+        ]
+    },
+    "id": "1278280144130637824",
+    "text": "@AlexBerenson madness, we are in the hands of luddites,  cretins &amp; #CovidiotInChief"
+}

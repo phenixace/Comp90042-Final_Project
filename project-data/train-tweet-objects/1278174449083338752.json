@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-07-01T03:51:50.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "GertzJack1",
+                "id": "1055551387130507264"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 43,
+                "probability": 0.7566,
+                "type": "Person",
+                "normalized_text": "Birx"
+            }
+        ]
+    },
+    "id": "1278174449083338752",
+    "text": "@GertzJack1 @AlexBerenson Remember when Birx said on April 1, 2020,”there is no more flu”. After that day any flu deaths were counted as Covid. We stupidly went along and believed anything they said."
+}

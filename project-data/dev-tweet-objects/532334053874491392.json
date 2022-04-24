@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/ZJha9Thi71",
+                "expanded_url": "http://nyp.st/1synaZ7",
+                "display_url": "nyp.st/1synaZ7"
+            },
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/wfFUqRBptO",
+                "expanded_url": "https://twitter.com/nypost/status/532284831783460864/photo/1",
+                "display_url": "pic.twitter.com/wfFUqRBptO"
+            }
+        ]
+    },
+    "created_at": "2014-11-12T00:48:23.000Z",
+    "id": "532334053874491392",
+    "text": "“@nypost: Irritated Chick-fil-A mgr makes list of slang his employees are forbidden to use http://t.co/ZJha9Thi71 http://t.co/wfFUqRBptO” 😂"
+}

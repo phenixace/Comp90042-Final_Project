@@ -1,0 +1,16 @@
+{
+    "id": "672230586648543232",
+    "text": "@ABC \nSoon he will announce a special TRACK, \nCzar, to head up:\n-Total\n-Response\n-Access with\n-Collaborative\n-Knowledge\n\n...just suggesting",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2015-12-03T01:47:15.000Z"
+}

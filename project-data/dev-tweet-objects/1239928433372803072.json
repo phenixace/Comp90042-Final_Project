@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 188,
+                "end": 211,
+                "url": "https://t.co/STmJgCu2fX",
+                "expanded_url": "http://ms.spr.ly/6017TdB0Z",
+                "display_url": "ms.spr.ly/6017TdB0Z"
+            },
+            {
+                "start": 212,
+                "end": 235,
+                "url": "https://t.co/vRr49arwzQ",
+                "expanded_url": "https://twitter.com/UChicagoMed/status/1239928433372803072/photo/1",
+                "display_url": "pic.twitter.com/vRr49arwzQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 123,
+                "end": 139,
+                "username": "AllisonBartlet1",
+                "id": "576497602"
+            }
+        ]
+    },
+    "text": "What are the symptoms of COVID-19? When are symptoms severe enough to require a hospital visit? Infectious diseases expert @AllisonBartlet1 explains the best way to stay healthy and safe.\nhttps://t.co/STmJgCu2fX https://t.co/vRr49arwzQ",
+    "source": "Sprinklr Publishing",
+    "created_at": "2020-03-17T14:55:49.000Z",
+    "id": "1239928433372803072"
+}

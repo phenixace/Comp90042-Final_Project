@@ -1,0 +1,27 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "urls": [
+            {
+                "start": 14,
+                "end": 37,
+                "url": "https://t.co/Kuf0NvTvBR",
+                "expanded_url": "https://www.bbc.com/news/amp/health-53248660",
+                "display_url": "bbc.com/news/amp/healt…",
+                "status": 200,
+                "unwound_url": "https://www.bbc.com/news/health-53248660.amp"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "created_at": "2020-07-02T19:02:38.000Z",
+    "id": "1278766048334893057",
+    "text": "@AlexBerenson https://t.co/Kuf0NvTvBR\n\nAnother day another article. ..\n\nNow they say test for T-cells and not for antibodies. ..\n\n\" For every person testing positive for antibodies, two were found to have specific T-cells which identify and destroy infected cells.\"\n\nDo we know what to test ?"
+}

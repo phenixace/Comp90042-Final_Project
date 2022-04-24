@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 87,
+                "end": 99,
+                "tag": "FeelTheBern"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "text": "@CNN @BernieSanders @HillaryClinton thats what you get for trying to whip and nae nae. #FeelTheBern bishhhh",
+    "created_at": "2015-09-11T03:55:29.000Z",
+    "id": "642184663662989312",
+    "source": "Twitter for iPhone"
+}

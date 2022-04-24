@@ -1,0 +1,46 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 12,
+                "end": 15,
+                "probability": 0.9706,
+                "type": "Organization",
+                "normalized_text": "Uber"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "probability": 0.9891,
+                "type": "Place",
+                "normalized_text": "Sydney"
+            },
+            {
+                "start": 118,
+                "end": 121,
+                "probability": 0.4997,
+                "type": "Organization",
+                "normalized_text": "Uber"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 108,
+                "end": 120,
+                "tag": "SydneySiege"
+            }
+        ]
+    },
+    "text": "“@mashable: Uber says it has hiked prices in Sydney to \"encourage more drivers to come online &amp; pick up #SydneySiege” Uber=ugly opportunism!",
+    "source": "Twitter for iPhone",
+    "id": "544326091519700992",
+    "created_at": "2014-12-15T03:00:27.000Z"
+}

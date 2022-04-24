@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "username": "terri_georgia",
+                "id": "49021031"
+            }
+        ]
+    },
+    "id": "567351002727477248",
+    "text": "@assholeofday @terri_georgia This, coming from a rump roast.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-16T15:53:14.000Z"
+}

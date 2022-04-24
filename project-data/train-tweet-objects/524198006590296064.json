@@ -1,0 +1,17 @@
+{
+    "id": "524198006590296064",
+    "created_at": "2014-10-20T13:58:38.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 61,
+                "end": 65,
+                "probability": 0.538,
+                "type": "Place",
+                "normalized_text": "chile"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@QueenBadeen that's not even ok... Don't tell me that's from chile!!"
+}

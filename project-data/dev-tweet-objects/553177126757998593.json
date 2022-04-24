@@ -1,0 +1,48 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/KnGDtRDZF4",
+                "expanded_url": "http://huff.to/1KnGqVv",
+                "display_url": "huff.to/1KnGqVv"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/1Dj9ZHRuz5",
+                "expanded_url": "https://twitter.com/HuffPostArts/status/553008832784642048/photo/1",
+                "display_url": "pic.twitter.com/1Dj9ZHRuz5"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 39,
+                "probability": 0.3337,
+                "type": "Person",
+                "normalized_text": "Banksy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 32,
+                "username": "HuffPostArts",
+                "id": "129051309"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 14,
+                "tag": "JeSuisCharlie"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T13:11:19.000Z",
+    "id": "553177126757998593",
+    "source": "Twitter for iPhone",
+    "text": "#JeSuisCharlie MT “@HuffPostArts: Banksy shares simple but beautiful tribute to cartoonists http://t.co/KnGDtRDZF4 http://t.co/1Dj9ZHRuz5”"
+}

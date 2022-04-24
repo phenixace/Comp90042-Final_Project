@@ -1,0 +1,34 @@
+{
+    "text": "“@MailOnline: Dogs of Canadian reservist killed at National War Memorial wait for him to return home http://t.co/xaWNkyjdHg” 😭😭😭😭",
+    "created_at": "2014-10-23T22:13:30.000Z",
+    "id": "525409707700551681",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 71,
+                "probability": 0.3522,
+                "type": "Organization",
+                "normalized_text": "National War Memorial"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "MailOnline",
+                "id": "15438913"
+            }
+        ],
+        "urls": [
+            {
+                "start": 101,
+                "end": 123,
+                "url": "http://t.co/xaWNkyjdHg",
+                "expanded_url": "https://twitter.com/MailOnline/status/525408908484280321/photo/1",
+                "display_url": "pic.twitter.com/xaWNkyjdHg"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

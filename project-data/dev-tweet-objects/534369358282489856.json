@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/ju8DCyswnt",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/RcCv5MFEX4",
+                "expanded_url": "https://twitter.com/Independent/status/534364937939062784/photo/1",
+                "display_url": "pic.twitter.com/RcCv5MFEX4"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 25,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 49,
+                "end": 59,
+                "tag": "chocolate"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "created_at": "2014-11-17T15:35:57.000Z",
+    "text": "Panic!!! 😭 \r\"@Independent: We are running out of #chocolate, warns largest manufacturer\nhttp://t.co/ju8DCyswnt http://t.co/RcCv5MFEX4\"",
+    "id": "534369358282489856"
+}

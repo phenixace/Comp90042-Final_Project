@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-29T09:39:12.000Z",
+    "source": "Twitter for iPhone",
+    "id": "1244197406557667328",
+    "text": "@neolitterature Maintenant ma réponse est oui. il y a quelques cas récents mais on ne sais pas comment ils sont infectés.Un expert en biologie crois qu’ils sont liés à la viande décongelée\nMalgré une explication non officielle\ndonc il faut laver de la viande avant de faire entrer dans le frigo",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "neolitterature",
+                "id": "3111383093"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "annotations": [
+            {
+                "start": 47,
+                "end": 53,
+                "probability": 0.9953,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 31,
+                "username": "DeborahLovesUSA",
+                "id": "1862610973"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:48:51.000Z",
+    "text": "@hunterschwarz @DeborahLovesUSA  A sad day for America! Legalizing filth !",
+    "id": "614596218832850944"
+}

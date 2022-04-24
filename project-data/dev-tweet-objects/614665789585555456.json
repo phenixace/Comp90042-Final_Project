@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "bellinger_ja",
+                "id": "2909373557"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T05:25:18.000Z",
+    "text": "@hunterschwarz @bellinger_ja  I am just waiting for the Skittles to come out of the sky. As they used to say: \"Taste the rainbow.\"",
+    "id": "614665789585555456"
+}

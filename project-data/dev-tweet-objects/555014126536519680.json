@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-01-13T14:50:54.000Z",
+    "id": "555014126536519680",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "text": "@FoxNews I'm going to build one right now!"
+}

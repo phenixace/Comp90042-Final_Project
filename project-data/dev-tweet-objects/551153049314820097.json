@@ -1,0 +1,55 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 96,
+                "end": 119,
+                "url": "https://t.co/BQ2rXoaOE2",
+                "expanded_url": "https://medium.com/@LoriHandrahan2/daycares-pre-schools-child-porn-a0aa2cf28825",
+                "display_url": "medium.com/@LoriHandrahan…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 120,
+                "end": 134,
+                "tag": "OpDeathEaters"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 13,
+                "end": 31,
+                "probability": 0.48,
+                "type": "Person",
+                "normalized_text": "President Berendzen"
+            },
+            {
+                "start": 74,
+                "end": 80,
+                "probability": 0.9947,
+                "type": "Place",
+                "normalized_text": "Chicago"
+            },
+            {
+                "start": 84,
+                "end": 90,
+                "probability": 0.9217,
+                "type": "Place",
+                "normalized_text": "Detroit"
+            }
+        ]
+    },
+    "created_at": "2015-01-02T23:08:21.000Z",
+    "id": "551153049314820097",
+    "text": ".@FoxNews AU President Berendzen described going to sex slave auctions in Chicago &amp; Detroit https://t.co/BQ2rXoaOE2 #OpDeathEaters"
+}

@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "LostMyBibleBelt",
+                "id": "2471807564"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 52,
+                "end": 55,
+                "probability": 0.4537,
+                "type": "Person",
+                "normalized_text": "Imam"
+            }
+        ]
+    },
+    "id": "569297215103102976",
+    "text": "@assholeofday @LostMyBibleBelt Been listening to an Imam who said the same thing?",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-22T00:46:47.000Z"
+}

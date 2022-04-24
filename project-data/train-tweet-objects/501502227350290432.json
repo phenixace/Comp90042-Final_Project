@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-18T22:53:43.000Z",
+    "id": "501502227350290432",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 129,
+                "end": 137,
+                "tag": "choices"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump The President is more concerned with his golf game and vacation. Very sad. Sends a bad message to the military. #choices",
+    "source": "Twitter for iPhone"
+}

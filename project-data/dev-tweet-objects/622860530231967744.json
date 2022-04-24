@@ -1,0 +1,25 @@
+{
+    "text": ".@sammyrhodes \"I closed every Chick-Fil-A in the land every Sunday, and yet you did not return to me,\" said the Lord",
+    "created_at": "2015-07-19T20:08:17.000Z",
+    "id": "622860530231967744",
+    "entities": {
+        "annotations": [
+            {
+                "start": 112,
+                "end": 115,
+                "probability": 0.7113,
+                "type": "Other",
+                "normalized_text": "Lord"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "sammyrhodes",
+                "id": "1354818992930611200"
+            }
+        ]
+    },
+    "source": "TweetDeck"
+}

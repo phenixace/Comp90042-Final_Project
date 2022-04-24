@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "BiasedGirl",
+                "id": "18205761"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:58:54.000Z",
+    "text": "@hunterschwarz @BiasedGirl Isn't that special. I think I'll got out in front of my house and light up a cigar.",
+    "id": "614598747272708096"
+}

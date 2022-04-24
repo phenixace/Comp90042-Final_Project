@@ -1,0 +1,53 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 23,
+                "end": 28,
+                "probability": 0.727,
+                "type": "Place",
+                "normalized_text": "Kerala"
+            }
+        ],
+        "urls": [
+            {
+                "start": 280,
+                "end": 303,
+                "url": "https://t.co/qkRkRtPjEh",
+                "expanded_url": "https://twitter.com/oommen/status/1223586586912145408/photo/1",
+                "display_url": "pic.twitter.com/qkRkRtPjEh"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 116,
+                "end": 128,
+                "tag": "coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 54,
+                "end": 67,
+                "username": "KeralaHealth",
+                "id": "1002933776832319488"
+            },
+            {
+                "start": 254,
+                "end": 266,
+                "username": "MoHFW_INDIA",
+                "id": "2596143056"
+            },
+            {
+                "start": 267,
+                "end": 279,
+                "username": "nvbdcpmohfw",
+                "id": "832580039514271745"
+            }
+        ]
+    },
+    "id": "1223586586912145408",
+    "created_at": "2020-02-01T12:39:10.000Z",
+    "source": "Twitter for Android",
+    "text": "For the last one week, Kerala's  department of health @KeralaHealth has been publishing detailed daily bulletins on #coronavirus and the district level update. \n\nIs MoHFW, NVBDCP or National Centre for Disease Control(NDMC)  publishing anything similar? @MoHFW_INDIA @nvbdcpmohfw https://t.co/qkRkRtPjEh"
+}

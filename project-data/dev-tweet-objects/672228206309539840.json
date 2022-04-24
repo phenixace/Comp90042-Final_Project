@@ -1,0 +1,16 @@
+{
+    "id": "672228206309539840",
+    "text": "@ABC It is a PATTERN n its becoming the NORM so do something about it DOMESTIC Terrorism is WORST than foreign because they are already HERE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-03T01:37:48.000Z"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 86,
+                "end": 91,
+                "probability": 0.9673,
+                "type": "Place",
+                "normalized_text": "Canada"
+            },
+            {
+                "start": 97,
+                "end": 102,
+                "probability": 0.9916,
+                "type": "Place",
+                "normalized_text": "Mexico"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:04:58.000Z",
+    "text": "@hunterschwarz That cannot be real. Ashamed to be an American today. I want to move 2 Canada. Or Mexico. I'll take drug cartels over this.",
+    "id": "614600274116771841"
+}

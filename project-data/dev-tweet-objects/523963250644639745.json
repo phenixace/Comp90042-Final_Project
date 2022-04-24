@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "JamesTylerESPN",
+                "id": "39141877"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "margarita",
+                "id": "58524428"
+            },
+            {
+                "start": 27,
+                "end": 35,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ]
+    },
+    "id": "523963250644639745",
+    "text": "@JamesTylerESPN @margarita @CBSNews Just what I need to see before going to sleep",
+    "source": "Twitter for Android Tablets",
+    "created_at": "2014-10-19T22:25:48.000Z"
+}

@@ -1,0 +1,31 @@
+{
+    "source": "TweetCaster for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.8472,
+                "type": "Person",
+                "normalized_text": "Satan"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "richeisen",
+                "id": "34701524"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:53:51.000Z",
+    "text": "@richeisen @hunterschwarz or as Satan calls him, Son.",
+    "id": "614597475660247040"
+}

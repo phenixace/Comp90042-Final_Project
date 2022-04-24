@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 50,
+                "end": 73,
+                "url": "https://t.co/3SkVXHFiEi",
+                "expanded_url": "https://www.facebook.com/ClashHackTool/likes",
+                "display_url": "facebook.com/ClashHackTool/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 20,
+                "username": "USATODAY",
+                "id": "15754281"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "text": "@seb746138 @USATODAY @AP seb746138 SEE that -&gt; https://t.co/3SkVXHFiEi",
+    "source": "BBotMaker - Bot à mots-clés",
+    "created_at": "2015-01-07T12:55:40.000Z",
+    "id": "552810800164139008"
+}

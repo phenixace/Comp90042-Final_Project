@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-02T23:14:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 104,
+                "end": 109,
+                "probability": 0.99,
+                "type": "Place",
+                "normalized_text": "Poland"
+            }
+        ]
+    },
+    "id": "551154670962343936",
+    "text": "@FoxNews Some brain surgeries need the patient to be awake. Don't know about this one. Girl is fine \"in Poland.\". How does it affect youall?"
+}

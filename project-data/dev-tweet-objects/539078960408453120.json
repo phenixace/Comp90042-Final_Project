@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 40,
+                "end": 41,
+                "probability": 0.9115,
+                "type": "Place",
+                "normalized_text": "US"
+            },
+            {
+                "start": 76,
+                "end": 80,
+                "probability": 0.3543,
+                "type": "Place",
+                "normalized_text": "Dabiq"
+            },
+            {
+                "start": 121,
+                "end": 126,
+                "probability": 0.9227,
+                "type": "Place",
+                "normalized_text": "Israel"
+            }
+        ]
+    },
+    "source": "Tweetbot for iΟS",
+    "id": "539078960408453120",
+    "created_at": "2014-11-30T15:30:14.000Z",
+    "text": "@IsraelHatzolah @CarthaBylone provoking US has not recruited enough2 fulfil Dabiq ‘Hadith’ so Daddy invest$ in provoking Israel involvement"
+}

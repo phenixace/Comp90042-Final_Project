@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.9939,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 52,
+                "end": 62,
+                "probability": 0.9983,
+                "type": "Place",
+                "normalized_text": "Philippines"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/O2ugb996ZZ",
+                "expanded_url": "https://www.theguardian.com/global-development/2020/feb/02/coronavirus-deaths-hong-kong-health-workers-to-strike-china-border-",
+                "display_url": "theguardian.com/global-develop…"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "Coronavirus"
+            }
+        ]
+    },
+    "id": "1224025335559143429",
+    "created_at": "2020-02-02T17:42:35.000Z",
+    "source": "Twitter for Android",
+    "text": "#Coronavirus: first death outside China recorded in Philippines as total fatalities pass 300 https://t.co/O2ugb996ZZ"
+}

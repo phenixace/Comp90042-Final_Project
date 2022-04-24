@@ -1,0 +1,49 @@
+{
+    "text": "@KamieSherice1 @suzsu @CNN @HillaryClinton @BernieSanders Bernie casts no shade.  50 years in politics &amp; he's stood for the same things.  :)",
+    "created_at": "2015-09-11T10:15:24.000Z",
+    "id": "642280272399044609",
+    "entities": {
+        "annotations": [
+            {
+                "start": 58,
+                "end": 63,
+                "probability": 0.9542,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "KamieSherice1",
+                "id": "397799307"
+            },
+            {
+                "start": 15,
+                "end": 21,
+                "username": "suzsu",
+                "id": "24828703"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 27,
+                "end": 42,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 43,
+                "end": 57,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

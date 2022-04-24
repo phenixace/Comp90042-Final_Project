@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-07-01T03:55:24.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "id": "1278175343958847488",
+    "text": "@AlexBerenson So what is the end game here, who is benefitting from falsely keeping us all in panic ? The only semblance of  malice I can think of is that some public health experts have a tiny bit more amount of fame."
+}

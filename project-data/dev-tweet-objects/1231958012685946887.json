@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-02-24T15:04:13.000Z",
+    "text": "@WHO Say its a pandemic immediately.   People are not getting that it is BAD.  People need to know and things need to be cancelled.   Wth are u doing????",
+    "id": "1231958012685946887",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    }
+}

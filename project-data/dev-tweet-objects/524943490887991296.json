@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 49,
+                "probability": 0.8844,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 86,
+                "end": 93,
+                "tag": "cbcOTT"
+            },
+            {
+                "start": 94,
+                "end": 102,
+                "tag": "OTTnews"
+            }
+        ]
+    },
+    "id": "524943490887991296",
+    "created_at": "2014-10-22T15:20:55.000Z",
+    "source": "TweetDeck",
+    "text": "CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. #cbcOTT #OTTnews"
+}

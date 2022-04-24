@@ -1,0 +1,16 @@
+{
+    "id": "427764242557964288",
+    "created_at": "2014-01-27T11:25:17.000Z",
+    "text": "@NBCNews he lived a long life. What is the average age a man lives?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

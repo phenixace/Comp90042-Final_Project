@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TheLastRefuge2",
+                "id": "594886554"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "HouseCracka",
+                "id": "16190478"
+            }
+        ]
+    },
+    "created_at": "2015-11-14T03:47:47.000Z",
+    "id": "665375548600942593",
+    "text": "@TheLastRefuge2 @HouseCracka You mean \"pioneers.\""
+}

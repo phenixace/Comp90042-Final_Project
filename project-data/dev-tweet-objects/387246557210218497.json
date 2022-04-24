@@ -1,0 +1,16 @@
+{
+    "text": "@SteveWorks4You @unicornmajik Oops. Confusion. How about when in doubt declare it essential?",
+    "source": "Twitter Web Client",
+    "created_at": "2013-10-07T16:02:28.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "SteveWorks4You",
+                "id": "1059240924"
+            }
+        ]
+    },
+    "id": "387246557210218497"
+}

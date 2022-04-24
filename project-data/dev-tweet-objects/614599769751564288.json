@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "Callisto1947",
+                "id": "208083510"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:02:58.000Z",
+    "text": "@hunterschwarz @Callisto1947 Have nothing against gay marriage but isn't this a little much?",
+    "id": "614599769751564288"
+}

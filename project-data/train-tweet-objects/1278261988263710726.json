@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-07-01T09:39:41.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "barnes_law",
+                "id": "2301990517"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 48,
+                "end": 55,
+                "probability": 0.6541,
+                "type": "Organization",
+                "normalized_text": "OAN NEWS"
+            }
+        ]
+    },
+    "id": "1278261988263710726",
+    "text": "@AlexBerenson @Barnes_Law So I heard someone on OAN NEWS said that the numbers of new cases are being cooked but my thought is what if it's worse than that what if they are using MANIPULATED TEST KITS SOMEHOW IT'S SURELY POSSIBLE EVERY OTHER THING GOING ON?"
+}

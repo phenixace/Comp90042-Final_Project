@@ -1,0 +1,29 @@
+{
+    "id": "1240887304320716800",
+    "created_at": "2020-03-20T06:26:02.000Z",
+    "source": "Twitter Web App",
+    "text": "6⃣ At home🏡or at a public place🏨avoid touching your eyes, nose and mouth\n\nLet us all work together in combating #COVID19\n#coronavirus https://t.co/Hr3InkQEXU",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 112,
+                "end": 120,
+                "tag": "COVID19"
+            },
+            {
+                "start": 121,
+                "end": 133,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 134,
+                "end": 157,
+                "url": "https://t.co/Hr3InkQEXU",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1240887304320716800/photo/1",
+                "display_url": "pic.twitter.com/Hr3InkQEXU"
+            }
+        ]
+    }
+}

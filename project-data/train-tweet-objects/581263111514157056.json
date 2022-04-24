@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "WriterMaven",
+                "id": "108706692"
+            }
+        ]
+    },
+    "id": "581263111514157056",
+    "text": "@assholeofday @WriterMaven Says a big fat balding lard bucket.",
+    "source": "Twitter for BlackBerry",
+    "created_at": "2015-03-27T01:14:59.000Z"
+}

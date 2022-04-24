@@ -1,0 +1,16 @@
+{
+    "created_at": "2015-01-09T13:45:42.000Z",
+    "source": "Twitter for Android",
+    "id": "553548166629691392",
+    "text": "@BklynMiddleton It's that kind of day. The kind where you want to go back to bed with some fiction to distract.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "BklynMiddleton",
+                "id": "747822822"
+            }
+        ]
+    }
+}

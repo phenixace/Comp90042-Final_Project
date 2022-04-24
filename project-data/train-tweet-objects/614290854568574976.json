@@ -1,0 +1,31 @@
+{
+    "source": "Tweetbot for iΟS",
+    "entities": {
+        "annotations": [
+            {
+                "start": 72,
+                "end": 74,
+                "probability": 0.9075,
+                "type": "Organization",
+                "normalized_text": "NSA"
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "probability": 0.8302,
+                "type": "Organization",
+                "normalized_text": "CIA"
+            },
+            {
+                "start": 82,
+                "end": 84,
+                "probability": 0.987,
+                "type": "Organization",
+                "normalized_text": "FBI"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 WTF is wrong with people? These are the type of people the NSA, CIA, FBI needs to be looking into!",
+    "id": "614290854568574976",
+    "created_at": "2015-06-26T04:35:27.000Z"
+}

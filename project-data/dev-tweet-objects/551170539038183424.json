@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for  Android",
+    "created_at": "2015-01-03T00:17:51.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "551170539038183424",
+    "text": "@FoxNews Thats crazy"
+}

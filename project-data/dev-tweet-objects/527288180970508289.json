@@ -1,0 +1,22 @@
+{
+    "text": "@EricRogersLA @cnnbrk @CNN Is anybody really surprised? He already shot himself in the foot a long time ago.",
+    "id": "527288180970508289",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 21,
+                "username": "cnnbrk",
+                "id": "428333"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "username": "CNN",
+                "id": "759251"
+            }
+        ]
+    },
+    "created_at": "2014-10-29T02:37:53.000Z"
+}

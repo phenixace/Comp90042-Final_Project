@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-07-01T05:25:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "id": "1278198094904131584",
+    "text": "@AlexBerenson Might wanna do a bit more research on antibody testing"
+}

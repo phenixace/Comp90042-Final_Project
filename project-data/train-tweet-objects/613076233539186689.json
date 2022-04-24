@@ -1,0 +1,35 @@
+{
+    "created_at": "2015-06-22T20:08:59.000Z",
+    "id": "613076233539186689",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 61,
+                "end": 66,
+                "tag": "QTNA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "username": "DevcNy",
+                "id": "1031962283428069376"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "theobserver",
+                "id": "8695932"
+            }
+        ]
+    },
+    "text": "@ajplus @DevCNY @theobserver do the tax payers pay for that? #QTNA",
+    "source": "Twitter Web Client"
+}

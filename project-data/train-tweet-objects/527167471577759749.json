@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 11,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 59,
+                "probability": 0.9847,
+                "type": "Place",
+                "normalized_text": "South America"
+            }
+        ]
+    },
+    "text": "“@UberFacts: A puppy-sized spider was found in South America\" \n-didn't want to live on this planet anyways!",
+    "id": "527167471577759749",
+    "created_at": "2014-10-28T18:38:14.000Z"
+}

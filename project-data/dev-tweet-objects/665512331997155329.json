@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Windows",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TheLastRefuge2",
+                "id": "594886554"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 99,
+                "end": 103,
+                "probability": 0.522,
+                "type": "Person",
+                "normalized_text": "0bama"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 105,
+                "end": 113,
+                "tag": "scumbag"
+            }
+        ]
+    },
+    "created_at": "2015-11-14T12:51:19.000Z",
+    "id": "665512331997155329",
+    "text": "@TheLastRefuge2 When you send them to high crime areas, their crimes won’t be noticed… well played 0bama #scumbag"
+}

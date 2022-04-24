@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-07-01T12:11:10.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "id": "1278300110561083392",
+    "text": "@AlexBerenson We will not see a widespread, accurate antibody test because each person who tests positive is one less customer for a vaccine shot."
+}

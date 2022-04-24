@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-05-08T14:08:16.000Z",
+    "id": "1258760635699146752",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 24,
+                "username": "AJEnglish",
+                "id": "4970411"
+            }
+        ]
+    },
+    "text": "@Tone62464745 @AJEnglish There's a huge distinction between viruses and bacteria, which one typically learns about in high school biology.  If not before."
+}

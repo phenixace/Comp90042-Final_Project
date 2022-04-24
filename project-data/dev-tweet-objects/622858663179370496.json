@@ -1,0 +1,16 @@
+{
+    "text": "@sammyrhodes &amp; in heaven, every day is Sunday.",
+    "created_at": "2015-07-19T20:00:52.000Z",
+    "id": "622858663179370496",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "sammyrhodes",
+                "id": "1354818992930611200"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

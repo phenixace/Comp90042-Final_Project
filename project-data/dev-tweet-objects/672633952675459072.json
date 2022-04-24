@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-04T04:30:05.000Z",
+    "id": "672633952675459072",
+    "text": "@NatShupe @GreggHenson Now do the same tally for airplanes flown into buildings.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "NatShupe",
+                "id": "158060289"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "gregghenson",
+                "id": "11177172"
+            }
+        ]
+    }
+}

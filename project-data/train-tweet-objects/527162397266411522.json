@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "text": "@UberFacts RIDE IT BACK TO TOWN!",
+    "id": "527162397266411522",
+    "created_at": "2014-10-28T18:18:04.000Z"
+}

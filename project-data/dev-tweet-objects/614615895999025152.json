@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag": "sodom"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T02:07:03.000Z",
+    "id": "614615895999025152",
+    "text": "@thehill #sodom"
+}

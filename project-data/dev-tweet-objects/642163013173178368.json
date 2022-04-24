@@ -1,0 +1,37 @@
+{
+    "text": "@CNN @BernieSanders @HillaryClinton Be not stunned by your progress which reflects America's desire for sincere service. Steward our faith.",
+    "created_at": "2015-09-11T02:29:27.000Z",
+    "id": "642163013173178368",
+    "entities": {
+        "annotations": [
+            {
+                "start": 83,
+                "end": 89,
+                "probability": 0.9784,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

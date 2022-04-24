@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-08-27T20:23:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "alsassociation",
+                "id": "21416670"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "Hrbie14",
+                "id": "1447736215"
+            }
+        ]
+    },
+    "id": "504725914240815104",
+    "source": "Twitter for iPhone",
+    "text": "@alsassociation @Hrbie14 that's great! Is it enough to finally bring this killer down??"
+}

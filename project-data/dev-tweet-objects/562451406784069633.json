@@ -1,0 +1,48 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 123,
+                "end": 130,
+                "username": "Forbes",
+                "id": "91478624"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/HyAVG2YRf2",
+                "expanded_url": "http://onforb.es/1BU8P0v",
+                "display_url": "onforb.es/1BU8P0v"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 1,
+                "end": 13,
+                "probability": 0.2338,
+                "type": "Product",
+                "normalized_text": "Madden NFL 15"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "probability": 0.992,
+                "type": "Organization",
+                "normalized_text": "Patriots"
+            },
+            {
+                "start": 50,
+                "end": 57,
+                "probability": 0.996,
+                "type": "Organization",
+                "normalized_text": "Seahawks"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "\"Madden NFL 15\" predicted a Patriots victory over Seahawks, and predicted the final score of 28-24: http://t.co/HyAVG2YRf2 @Forbes",
+    "id": "562451406784069633",
+    "created_at": "2015-02-03T03:23:59.000Z"
+}

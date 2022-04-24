@@ -1,0 +1,22 @@
+{
+    "created_at": "2013-05-18T15:57:30.000Z",
+    "source": "Twitter for Websites",
+    "id": "335786228039426048",
+    "text": "@stephenfry @elvis717 Agh bit of a sting in the tail!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "elvis717",
+                "id": "17986456"
+            }
+        ]
+    }
+}

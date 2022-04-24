@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "wtfnewsamerica",
+                "id": "3427200023"
+            }
+        ]
+    },
+    "id": "695064461921505280",
+    "created_at": "2016-02-04T02:00:56.000Z",
+    "text": "@Gotham3 @wtfnewsamerica LOL!!!!!!!!  I tried not to..really...."
+}

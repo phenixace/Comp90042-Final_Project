@@ -1,0 +1,32 @@
+{
+    "source": "Sprinklr",
+    "entities": {
+        "urls": [
+            {
+                "start": 81,
+                "end": 104,
+                "url": "https://t.co/Fyq4A9aYLO",
+                "expanded_url": "http://on.forbes.com/60181seow",
+                "display_url": "on.forbes.com/60181seow"
+            },
+            {
+                "start": 122,
+                "end": 145,
+                "url": "https://t.co/cjZkCiybij",
+                "expanded_url": "https://twitter.com/ForbesTech/status/1240036440832126978/photo/1",
+                "display_url": "pic.twitter.com/cjZkCiybij"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 108,
+                "end": 121,
+                "username": "TheAlexKnapp",
+                "id": "297422541"
+            }
+        ]
+    },
+    "created_at": "2020-03-17T22:05:00.000Z",
+    "id": "1240036440832126978",
+    "text": "What are the symptoms of COVID-19 coronavirus, and when should you see a doctor?\nhttps://t.co/Fyq4A9aYLO By @TheAlexKnapp https://t.co/cjZkCiybij"
+}

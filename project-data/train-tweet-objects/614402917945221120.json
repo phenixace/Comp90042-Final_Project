@@ -1,0 +1,46 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "bimmerella",
+                "id": "41984111"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "co_kmaldonado4",
+                "id": "722630438565605376"
+            },
+            {
+                "start": 28,
+                "end": 43,
+                "username": "SeriousOne1975",
+                "id": "325275379"
+            },
+            {
+                "start": 44,
+                "end": 55,
+                "username": "Soul_Be_It",
+                "id": "2160199430"
+            },
+            {
+                "start": 56,
+                "end": 63,
+                "username": "SDavld",
+                "id": "2437574094"
+            },
+            {
+                "start": 64,
+                "end": 73,
+                "username": "DanteB4u",
+                "id": "63144098"
+            }
+        ]
+    },
+    "text": "@bimmerella @co_kmaldonado4 @SeriousOne1975 @Soul_Be_It @SDavld @DanteB4u Have a great trip!",
+    "id": "614402917945221120",
+    "created_at": "2015-06-26T12:00:45.000Z"
+}

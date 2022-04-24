@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "Callisto1947",
+                "id": "208083510"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:02:30.000Z",
+    "text": "@hunterschwarz @Callisto1947 gay marriage is one thing; this is disgraceful to we the people that OWN that house. Mother of gay daughter",
+    "id": "614599654282412032"
+}

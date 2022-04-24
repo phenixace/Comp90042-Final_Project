@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 24,
+                "probability": 0.9766,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T02:50:39.000Z",
+    "id": "614626869514772480",
+    "text": "@thehill Well, it's Obama's house, that's what he told us. Not ours anymore. The whack jobs have taken over. Now go defend us overseas!"
+}

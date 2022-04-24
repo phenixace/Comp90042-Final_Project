@@ -1,0 +1,16 @@
+{
+    "text": "@Telegraph - exactly my feelings",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T10:52:58.000Z",
+    "id": "553142310347612161"
+}

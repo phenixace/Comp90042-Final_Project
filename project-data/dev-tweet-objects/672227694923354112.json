@@ -1,0 +1,16 @@
+{
+    "id": "672227694923354112",
+    "text": "@RyanBLeslie that's not on his agenda, none of those vote",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "RyanBLeslie",
+                "id": "22435220"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2015-12-03T01:35:46.000Z"
+}

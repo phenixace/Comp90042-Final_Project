@@ -1,0 +1,28 @@
+{
+    "text": "@silencepl @CNN @HillaryClinton You can't win the race of you're running backwards.",
+    "created_at": "2015-09-11T01:29:20.000Z",
+    "id": "642147884482338816",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "silencepl",
+                "id": "175778161"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

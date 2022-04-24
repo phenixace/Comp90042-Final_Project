@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-07-01T03:53:05.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 80,
+                "end": 87,
+                "probability": 0.9627,
+                "type": "Place",
+                "normalized_text": "New York"
+            },
+            {
+                "start": 90,
+                "end": 94,
+                "probability": 0.9201,
+                "type": "Place",
+                "normalized_text": "Italy"
+            }
+        ]
+    },
+    "id": "1278174765056839680",
+    "text": "@AlexBerenson And T-Cell immunity seems to be more widespread than antibodies.  New York, Italy, etc seems to show that we're nearing herd immunity, like it or not."
+}

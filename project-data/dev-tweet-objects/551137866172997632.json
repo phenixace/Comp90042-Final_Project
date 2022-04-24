@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-01-02T22:08:01.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 101,
+                "end": 103,
+                "probability": 0.5441,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "id": "551137866172997632",
+    "text": "@FoxNews No, No, No! I've had 4 brain surgeries. My first one was when I was 15. This freaks me out. God Bless her, I wish her the best!!"
+}

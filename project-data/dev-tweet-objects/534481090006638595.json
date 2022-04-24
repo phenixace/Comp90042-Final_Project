@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 47,
+                "end": 69,
+                "url": "http://t.co/zCN6Bmyt0B",
+                "expanded_url": "http://purdys.com",
+                "display_url": "purdys.com"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 78,
+                "end": 83,
+                "probability": 0.9716,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "marieosmond",
+                "id": "18538268"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 115,
+                "tag": "sweetgeorgiabrowns"
+            }
+        ]
+    },
+    "created_at": "2014-11-17T22:59:56.000Z",
+    "id": "534481090006638595",
+    "source": "Twitter Web Client",
+    "text": "@marieosmond @CBSNews There's lots and lots at http://t.co/zCN6Bmyt0B Come to Canada and enjoy. #sweetgeorgiabrowns will wow you!"
+}

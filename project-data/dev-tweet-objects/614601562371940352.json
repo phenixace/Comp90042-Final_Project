@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 59,
+                "probability": 0.1442,
+                "type": "Other",
+                "normalized_text": "Sodom and Gomorrah 2"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "username": "Callisto1947",
+                "id": "208083510"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:10:05.000Z",
+    "text": "@hunterschwarz @Callisto1947 sickening. Sodom and Gomorrah 2.0",
+    "id": "614601562371940352"
+}

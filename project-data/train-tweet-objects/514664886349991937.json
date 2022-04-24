@@ -1,0 +1,28 @@
+{
+    "id": "514664886349991937",
+    "text": "@MKBHD @UnboxTherapy @adrianbenea  Just like your LG G FLEX test..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "MKBHD",
+                "id": "29873662"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "username": "UnboxTherapy",
+                "id": "239672340"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "adrianbenea",
+                "id": "47938414"
+            }
+        ]
+    },
+    "source": "Talon (Classic)",
+    "created_at": "2014-09-24T06:37:25.000Z"
+}

@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "username": "MaryForbes14",
+                "id": "822663973"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 31,
+                "end": 33,
+                "probability": 0.7942,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "text": "@lauderdaleagent @MaryForbes14 God help us",
+    "id": "665364717846818816",
+    "created_at": "2015-11-14T03:04:45.000Z"
+}

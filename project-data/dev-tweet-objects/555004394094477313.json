@@ -1,0 +1,34 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T14:12:13.000Z",
+    "id": "555004394094477313",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 132,
+                "end": 137,
+                "probability": 0.9791,
+                "type": "Place",
+                "normalized_text": "Arabia"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/cgpbc2lrNa",
+                "expanded_url": "http://fxn.ws/14QnOxx",
+                "display_url": "fxn.ws/14QnOxx"
+            }
+        ]
+    },
+    "text": "“@FoxNews: A Saudi cleric has declared that the building of snowmen as being anti-Islamic. http://t.co/cgpbc2lrNa” Well, no snow in Arabia"
+}

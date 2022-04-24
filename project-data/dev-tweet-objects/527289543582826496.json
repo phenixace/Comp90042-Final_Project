@@ -1,0 +1,25 @@
+{
+    "text": "@Megpie9389 ha! I'm so glad you sent me this news Meg!",
+    "id": "527289543582826496",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Megpie9389",
+                "id": "414178996"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 52,
+                "probability": 0.8632,
+                "type": "Person",
+                "normalized_text": "Meg"
+            }
+        ]
+    },
+    "created_at": "2014-10-29T02:43:18.000Z"
+}

@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 65,
+                "end": 87,
+                "url": "http://t.co/WbsxkSe1Ci",
+                "expanded_url": "http://bit.ly/1zOfpCr",
+                "display_url": "bit.ly/1zOfpCr"
+            },
+            {
+                "start": 88,
+                "end": 110,
+                "url": "http://t.co/eddbebUdpI",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "display_url": "pic.twitter.com/eddbebUdpI"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 29,
+                "probability": 0.8392,
+                "type": "Person",
+                "normalized_text": "President Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 7,
+                "end": 11,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ]
+    },
+    "text": "😍😩 RT “@XXL: President Obama’s daughter wears a Pro Era t-shirt: http://t.co/WbsxkSe1Ci http://t.co/eddbebUdpI”",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-05T16:16:52.000Z",
+    "id": "552136659681042432"
+}

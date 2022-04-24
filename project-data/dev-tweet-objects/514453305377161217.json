@@ -1,0 +1,16 @@
+{
+    "created_at": "2014-09-23T16:36:40.000Z",
+    "text": "@WillianMax pelo menos assim corrige a câmera pulada e meio que deixa o telefone equilibrado de novo quando colocado na mesa.",
+    "id": "514453305377161217",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "WillianMax",
+                "id": "8114792"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

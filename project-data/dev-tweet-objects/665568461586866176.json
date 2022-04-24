@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "username": "voxday",
+                "id": "28954941"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 50,
+                "end": 60,
+                "probability": 0.9896,
+                "type": "Place",
+                "normalized_text": "New Orleans"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@lauderdaleagent @voxday what are the gun laws in New Orleans?",
+    "id": "665568461586866176",
+    "created_at": "2015-11-14T16:34:21.000Z"
+}

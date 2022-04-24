@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/61kU4M6eMa",
+                "expanded_url": "http://fxn.ws/1BrAUe8",
+                "display_url": "fxn.ws/1BrAUe8"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 119,
+                "end": 127,
+                "tag": "SayWhat"
+            }
+        ]
+    },
+    "created_at": "2015-01-02T22:01:01.000Z",
+    "id": "551136105685209088",
+    "text": "“@FoxNews: 19-year-old girl wakes up during brain surgery to ask doctors: ‘How’s it going?’ http://t.co/61kU4M6eMa”... #SayWhat"
+}

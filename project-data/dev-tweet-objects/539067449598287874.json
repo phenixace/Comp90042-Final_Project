@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IsraelHatzolah",
+                "id": "322572436"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "SimyBenarroch",
+                "id": "104967278"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 110,
+                "end": 113,
+                "probability": 0.9443,
+                "type": "Organization",
+                "normalized_text": "ISIS"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "id": "539067449598287874",
+    "created_at": "2014-11-30T14:44:30.000Z",
+    "text": "@IsraelHatzolah @SimyBenarroch ¿ya es normal que anuncien su nacionalidad? Supongo que debe de ser pq los del ISIS ya lo saben..."
+}

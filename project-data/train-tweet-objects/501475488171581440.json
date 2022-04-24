@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-08-18T21:07:28.000Z",
+    "id": "501475488171581440",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 61,
+                "probability": 0.9966,
+                "type": "Person",
+                "normalized_text": "Trump"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump no excuse, not even if he was playing a Trump course!  He should be removed from office immediately!",
+    "source": "Twitter for iPhone"
+}

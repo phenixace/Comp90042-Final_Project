@@ -1,0 +1,28 @@
+{
+    "text": "@CNN @HillaryClinton @Bernip pl lot pl",
+    "created_at": "2015-09-12T14:34:25.000Z",
+    "id": "642707844299685889",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "username": "bernip",
+                "id": "27528900"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

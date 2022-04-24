@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 85,
+                "end": 99,
+                "probability": 0.9675,
+                "type": "Person",
+                "normalized_text": "Colleen Hufford"
+            }
+        ]
+    },
+    "text": "Let's stop calling her the lady who was beheaded, etc. That dehumanizes her. She was Colleen Hufford.  People loved her. She had a life.",
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-27T04:21:52.000Z",
+    "id": "515717938025078784"
+}

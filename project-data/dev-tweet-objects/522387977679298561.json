@@ -1,0 +1,34 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 17,
+                "end": 25,
+                "username": "CBSNews",
+                "id": "15012486"
+            },
+            {
+                "start": 26,
+                "end": 37,
+                "username": "charbhardy",
+                "id": "122599470"
+            },
+            {
+                "start": 38,
+                "end": 53,
+                "username": "MontagueBrench",
+                "id": "332160349"
+            },
+            {
+                "start": 93,
+                "end": 107,
+                "username": "anna_lebedewa",
+                "id": "1189181460"
+            }
+        ]
+    },
+    "id": "522387977679298561",
+    "created_at": "2014-10-15T14:06:14.000Z",
+    "text": "@SeptembersSong9 @CBSNews @charbhardy @MontagueBrench @kathbrooksoz @ChezLeeInOz @NadiaEstel @anna_lebedewa Take care.. be safe..."
+}

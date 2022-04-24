@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-12-15T15:41:16.000Z",
+    "id": "544517553427865601",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 12,
+                "end": 21,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 54,
+                "end": 66,
+                "tag": "SydneySiege"
+            },
+            {
+                "start": 76,
+                "end": 82,
+                "tag": "9News"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "9NewsSyd",
+                "id": "171802941"
+            }
+        ]
+    },
+    "text": "“@9NewsSyd: #BREAKING: Police have confirmed that the #SydneySiege is over. #9News” so glad to hear, this was unreal!",
+    "source": "Twitter for iPhone"
+}

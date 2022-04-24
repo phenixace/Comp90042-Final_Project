@@ -1,0 +1,22 @@
+{
+    "id": "652890651923615744",
+    "created_at": "2015-10-10T16:57:16.000Z",
+    "source": "Twitter for Android",
+    "text": "@CNN @realDonaldTrump look at that face",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

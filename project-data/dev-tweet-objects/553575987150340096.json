@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 33,
+                "probability": 0.6791,
+                "type": "Person",
+                "normalized_text": "Bansky"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "HuffPostArts",
+                "id": "129051309"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "jodotcom",
+                "id": "16256826"
+            }
+        ]
+    },
+    "created_at": "2015-01-09T15:36:14.000Z",
+    "id": "553575987150340096",
+    "source": "TweetDeck",
+    "text": "@HuffPostArts @jodotcom NOT Bansky"
+}

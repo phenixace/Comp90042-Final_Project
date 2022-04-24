@@ -1,0 +1,33 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "barrycunningham",
+                "id": "14336645"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 92,
+                "end": 102,
+                "tag": "microsoft"
+            },
+            {
+                "start": 103,
+                "end": 109,
+                "tag": "adobe"
+            },
+            {
+                "start": 110,
+                "end": 117,
+                "tag": "Google"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@barrycunningham If you are going based on looks you could have said that about the CEOs of #microsoft #adobe #Google and yea me too :)",
+    "id": "665383505891737600",
+    "created_at": "2015-11-14T04:19:24.000Z"
+}

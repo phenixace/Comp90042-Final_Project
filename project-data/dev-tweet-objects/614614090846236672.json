@@ -1,0 +1,31 @@
+{
+    "text": "@UKBleedingBlue @politico If you agree with the Westboro Baptist Church on something, please reevaluate your life choices.",
+    "created_at": "2015-06-27T01:59:52.000Z",
+    "id": "614614090846236672",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 70,
+                "probability": 0.682,
+                "type": "Organization",
+                "normalized_text": "Westboro Baptist Church"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "UKBleedingBlue",
+                "id": "246983237"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

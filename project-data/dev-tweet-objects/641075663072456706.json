@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-09-08T02:28:43.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "zerohedge",
+                "id": "18856867"
+            }
+        ]
+    },
+    "id": "641075663072456706",
+    "text": "@zerohedge aw a supply side view of the world.  Cause you know laying off your own workers is always smart."
+}

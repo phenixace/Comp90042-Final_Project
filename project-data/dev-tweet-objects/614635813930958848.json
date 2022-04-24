@@ -1,0 +1,32 @@
+{
+    "text": "“@politico: White House set aglow with rainbow pride http://t.co/HZhtolpvsp | AP Photo http://t.co/MYemedvsKY”",
+    "created_at": "2015-06-27T03:26:12.000Z",
+    "id": "614635813930958848",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ],
+        "urls": [
+            {
+                "start": 53,
+                "end": 75,
+                "url": "http://t.co/HZhtolpvsp",
+                "expanded_url": "http://politi.co/1e97vzC",
+                "display_url": "politi.co/1e97vzC"
+            },
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/MYemedvsKY",
+                "expanded_url": "https://twitter.com/politico/status/614610364702044164/photo/1",
+                "display_url": "pic.twitter.com/MYemedvsKY"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

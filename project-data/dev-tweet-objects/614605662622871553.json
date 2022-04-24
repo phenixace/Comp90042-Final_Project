@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "RosieTRiveter",
+                "id": "2602441790"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:26:23.000Z",
+    "text": "@hunterschwarz @RosieTRiveter I love it, so beautiful! And apparently there are a lot of folks who'll be leaving soon... :)",
+    "id": "614605662622871553"
+}

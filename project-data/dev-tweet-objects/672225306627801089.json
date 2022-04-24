@@ -1,0 +1,25 @@
+{
+    "id": "672225306627801089",
+    "text": "@ABC what is the cause? and how can we fix it? real answers here - https://t.co/UJMyzww60q",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/UJMyzww60q",
+                "expanded_url": "http://painefultruth76.blogspot.com/2015/09/guns-and-root-of-americas-problem-with.html",
+                "display_url": "painefultruth76.blogspot.com/2015/09/guns-a…"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-03T01:26:17.000Z"
+}

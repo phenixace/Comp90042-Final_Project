@@ -1,0 +1,34 @@
+{
+    "id": "1264596832090566661",
+    "created_at": "2020-05-24T16:39:14.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@StreamSenseless @cherkeygrl @JHWalz32 @Alyssa_Milano Well hello 🐑. Doctors do not suggest that people wear masks because it’s unhealthy. If you are running or exercising while wearing a mask, you are endangering your life. The only people who should wear masks are those WITH COVID.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "StreamSenseless",
+                "id": "3278409344"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "cherkeygrl",
+                "id": "85735261"
+            },
+            {
+                "start": 29,
+                "end": 38,
+                "username": "JHWalz32",
+                "id": "198276191"
+            },
+            {
+                "start": 39,
+                "end": 53,
+                "username": "Alyssa_Milano",
+                "id": "26642006"
+            }
+        ]
+    }
+}

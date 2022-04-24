@@ -1,0 +1,16 @@
+{
+    "id": "672222235738939392",
+    "text": "@ABC we all should be able to carry guns so if it's going to go down. At least you can defend yourself. Not wait on cops.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2015-12-03T01:14:04.000Z"
+}

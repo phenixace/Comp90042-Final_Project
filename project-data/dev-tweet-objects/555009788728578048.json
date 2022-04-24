@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-01-13T14:33:39.000Z",
+    "id": "555009788728578048",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 43,
+                "end": 54,
+                "probability": 0.8843,
+                "type": "Place",
+                "normalized_text": "Saudi Arabia"
+            }
+        ]
+    },
+    "text": "@FoxNews Is he serious? There's no snow in Saudi Arabia!"
+}

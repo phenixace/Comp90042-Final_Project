@@ -1,0 +1,25 @@
+{
+    "source": "Favstar.FM",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "catrincooper",
+                "id": "416418985"
+            }
+        ],
+        "urls": [
+            {
+                "start": 43,
+                "end": 65,
+                "url": "http://t.co/8NKXD33FDI",
+                "expanded_url": "http://favstar.fm/t/536105045545472000",
+                "display_url": "favstar.fm/t/536105045545…"
+            }
+        ]
+    },
+    "id": "536260520144154624",
+    "text": "@catrincooper Congrats on your 250★ tweet! http://t.co/8NKXD33FDI",
+    "created_at": "2014-11-22T20:50:45.000Z"
+}

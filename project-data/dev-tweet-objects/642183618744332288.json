@@ -1,0 +1,37 @@
+{
+    "text": "@CNN @BernieSanders @HillaryClinton As long as she is still in the lead Bernie will sleep well,",
+    "created_at": "2015-09-11T03:51:20.000Z",
+    "id": "642183618744332288",
+    "entities": {
+        "annotations": [
+            {
+                "start": 72,
+                "end": 77,
+                "probability": 0.9744,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,37 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 250,
+                "end": 254,
+                "probability": 0.9997,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "KeralaHealth",
+                "id": "1002933776832319488"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "MoHFW_INDIA",
+                "id": "2596143056"
+            },
+            {
+                "start": 27,
+                "end": 39,
+                "username": "nvbdcpmohfw",
+                "id": "832580039514271745"
+            }
+        ]
+    },
+    "id": "1223684410861506561",
+    "created_at": "2020-02-01T19:07:53.000Z",
+    "source": "Twitter Web App",
+    "text": "@KeralaHealth @MoHFW_INDIA @nvbdcpmohfw -the health condition of all symptomatic persons under isolation are stable. Those who've arrived from orona affected countries should remain under strict home isolation for 28 days from the date of arrival in India, irrespective of whether they are symptomatic or asymptomatic-"
+}

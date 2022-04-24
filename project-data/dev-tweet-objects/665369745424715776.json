@@ -1,0 +1,45 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TheLastRefuge2",
+                "id": "594886554"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "BalconyBreeze",
+                "id": "475690797"
+            }
+        ],
+        "urls": [
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/o286AADImY",
+                "expanded_url": "https://twitter.com/ms23143/status/665369745424715776/photo/1",
+                "display_url": "pic.twitter.com/o286AADImY"
+            },
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/o286AADImY",
+                "expanded_url": "https://twitter.com/ms23143/status/665369745424715776/photo/1",
+                "display_url": "pic.twitter.com/o286AADImY"
+            },
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/o286AADImY",
+                "expanded_url": "https://twitter.com/ms23143/status/665369745424715776/photo/1",
+                "display_url": "pic.twitter.com/o286AADImY"
+            }
+        ]
+    },
+    "created_at": "2015-11-14T03:24:43.000Z",
+    "id": "665369745424715776",
+    "text": "@TheLastRefuge2 @BalconyBreeze https://t.co/o286AADImY"
+}

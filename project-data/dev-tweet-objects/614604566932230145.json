@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "JustConservativ",
+                "id": "455151827"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:22:02.000Z",
+    "text": "@JustConservativ I hope so",
+    "id": "614604566932230145"
+}

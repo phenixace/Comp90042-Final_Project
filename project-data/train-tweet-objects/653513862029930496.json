@@ -1,0 +1,31 @@
+{
+    "id": "653513862029930496",
+    "created_at": "2015-10-12T10:13:41.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 89,
+                "end": 91,
+                "probability": 0.9734,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@CNN @realDonaldTrump I'd like to see the clip of those black guys addressing the press. CNN? Is there a reason you didn't share THAT?"
+}

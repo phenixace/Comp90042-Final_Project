@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-07-01T17:50:21.000Z",
+    "text": "@hector_drummond Elimination - of a functioning economy, that is, and probably quite a few innocent people in the process.",
+    "id": "1278385466883137540",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "hector_drummond",
+                "id": "931651609456717827"
+            }
+        ]
+    }
+}

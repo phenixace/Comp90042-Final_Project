@@ -1,0 +1,37 @@
+{
+    "created_at": "2014-10-17T14:21:00.000Z",
+    "text": "Fingers crossed... MT @BBCBreaking: #Nigeria says truce agreed with #BokoHaram, abducted schoolgirls will be released http://t.co/EN2zCKDoEx",
+    "entities": {
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/EN2zCKDoEx",
+                "expanded_url": "http://bbc.in/1sQi8M9",
+                "display_url": "bbc.in/1sQi8M9"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 22,
+                "end": 34,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 44,
+                "tag": "Nigeria"
+            },
+            {
+                "start": 68,
+                "end": 78,
+                "tag": "BokoHaram"
+            }
+        ]
+    },
+    "id": "523116471426498560",
+    "source": "Twitter for iPhone"
+}

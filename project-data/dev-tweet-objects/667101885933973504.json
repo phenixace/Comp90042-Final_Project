@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "TheLastRefuge2",
+                "id": "594886554"
+            },
+            {
+                "start": 16,
+                "end": 31,
+                "username": "JessieJaneDuff",
+                "id": "478855762"
+            }
+        ]
+    },
+    "created_at": "2015-11-18T22:07:38.000Z",
+    "id": "667101885933973504",
+    "text": "@TheLastRefuge2 @JessieJaneDuff doesn't look like too many women or children. Hmmm."
+}

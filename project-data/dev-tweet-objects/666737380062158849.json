@@ -1,0 +1,31 @@
+{
+    "created_at": "2015-11-17T21:59:13.000Z",
+    "text": "@BBCWorld @mflynny When you've lost BBC...",
+    "id": "666737380062158849",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 38,
+                "probability": 0.6867,
+                "type": "Organization",
+                "normalized_text": "BBC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BBCWorld",
+                "id": "742143"
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "username": "mflynny",
+                "id": "818430674868707328"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

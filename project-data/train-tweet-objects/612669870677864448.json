@@ -1,0 +1,16 @@
+{
+    "created_at": "2015-06-21T17:14:14.000Z",
+    "id": "612669870677864448",
+    "text": "@winterxlarrys @flightrisker a murderer shouldn't be going to a fast food place that everyday ppl go to right after arrest! That's the issue",
+    "entities": {
+        "mentions": [
+            {
+                "start": 15,
+                "end": 28,
+                "username": "flightrisker",
+                "id": "39542769"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

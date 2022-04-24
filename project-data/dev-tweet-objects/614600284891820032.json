@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "mattsinger",
+                "id": "16130403"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:05:01.000Z",
+    "text": "@hunterschwarz @mattsinger  One small step for mankind...",
+    "id": "614600284891820032"
+}

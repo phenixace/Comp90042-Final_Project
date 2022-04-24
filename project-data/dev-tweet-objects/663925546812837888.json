@@ -1,0 +1,24 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2015-11-10T03:46:00.000Z",
+    "id": "663925546812837888",
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 48,
+                "probability": 0.9042,
+                "type": "Organization",
+                "normalized_text": "Starbucks"
+            },
+            {
+                "start": 71,
+                "end": 79,
+                "probability": 0.9877,
+                "type": "Other",
+                "normalized_text": "Christmas"
+            }
+        ]
+    },
+    "text": "Solo cups have been red for decades. If Starbucks was taking a shot at Christmas, Solo shot first."
+}

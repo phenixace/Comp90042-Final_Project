@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "urls": [
+            {
+                "start": 169,
+                "end": 192,
+                "url": "https://t.co/yRAhlX2S2Z",
+                "expanded_url": "https://jbhandleyblog.com/home/2020/6/28/secondwave",
+                "display_url": "jbhandleyblog.com/home/2020/6/28…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T13:47:15.000Z",
+    "id": "1278324289792405504",
+    "text": "@AlexBerenson Confirmation for all the “just wait two weeks” ninnies, Karens, and NPCs. They are gonna fight hard, but keep sharing the data. Can’t hide from the truth:\nhttps://t.co/yRAhlX2S2Z"
+}

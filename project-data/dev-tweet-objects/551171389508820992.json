@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/RfZPQT3iRo",
+                "expanded_url": "http://fxn.ws/1BrAUe8",
+                "display_url": "fxn.ws/1BrAUe8"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "created_at": "2015-01-03T00:21:14.000Z",
+    "id": "551171389508820992",
+    "text": "“@FoxNews: 19-year-old girl wakes up during brain surgery to ask doctors: ‘How’s it going?’ http://t.co/RfZPQT3iRo” The mind is interesting"
+}

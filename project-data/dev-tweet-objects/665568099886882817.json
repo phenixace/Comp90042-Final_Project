@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "AdamBaldwin",
+                "id": "91279573"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 47,
+                "end": 52,
+                "probability": 0.9842,
+                "type": "Person",
+                "normalized_text": "Barack"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "@lauderdaleagent @AdamBaldwin excellent timing Barack! 👍👏",
+    "id": "665568099886882817",
+    "created_at": "2015-11-14T16:32:55.000Z"
+}

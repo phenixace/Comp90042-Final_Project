@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-07-01T12:18:08.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 18,
+                "end": 20,
+                "probability": 0.6955,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            },
+            {
+                "start": 238,
+                "end": 240,
+                "probability": 0.4518,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            }
+        ]
+    },
+    "id": "1278301862907822081",
+    "text": "@AlexBerenson The CDC has shown itself to be another incompetent, self perpetuating Government bureaucracy.  Random Covid19 testing should have started in January 2020.   Without random testing you have no idea of what’s happening.   The CDC is clueless."
+}

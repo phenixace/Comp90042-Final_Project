@@ -1,0 +1,46 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 195,
+                "end": 211,
+                "username": "TeamPakGuardian",
+                "id": "1223702247844040704"
+            }
+        ],
+        "urls": [
+            {
+                "start": 245,
+                "end": 268,
+                "url": "https://t.co/CkVYiP1ynM",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507679617245184/photo/1",
+                "display_url": "pic.twitter.com/CkVYiP1ynM"
+            },
+            {
+                "start": 245,
+                "end": 268,
+                "url": "https://t.co/CkVYiP1ynM",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507679617245184/photo/1",
+                "display_url": "pic.twitter.com/CkVYiP1ynM"
+            },
+            {
+                "start": 245,
+                "end": 268,
+                "url": "https://t.co/CkVYiP1ynM",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507679617245184/photo/1",
+                "display_url": "pic.twitter.com/CkVYiP1ynM"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 227,
+                "end": 244,
+                "tag": "جومحدود_وہ_محفوظ"
+            }
+        ]
+    },
+    "text": "How effective are thermal scanners in detecting people infected with the new coronavirus?\nThermal scanners are effective in detecting people who have developed a fever (i.e. have a higher than\n1\n@TeamPakGuardian \n@JabeenJuned \n#جومحدود_وہ_محفوظ https://t.co/CkVYiP1ynM",
+    "id": "1244507679617245184",
+    "created_at": "2020-03-30T06:12:07.000Z"
+}

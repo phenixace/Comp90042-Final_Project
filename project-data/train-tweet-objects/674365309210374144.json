@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ],
+        "urls": [
+            {
+                "start": 16,
+                "end": 39,
+                "url": "https://t.co/a9UkC3Uu0Y",
+                "expanded_url": "https://twitter.com/Carlos_S01/status/674365309210374144/photo/1",
+                "display_url": "pic.twitter.com/a9UkC3Uu0Y"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag": "Trump"
+            }
+        ]
+    },
+    "id": "674365309210374144",
+    "created_at": "2015-12-08T23:09:53.000Z",
+    "text": "@Gotham3 #Trump https://t.co/a9UkC3Uu0Y"
+}

@@ -1,0 +1,16 @@
+{
+    "created_at": "2013-05-15T17:43:28.000Z",
+    "source": "Twitter Web Client",
+    "id": "334725734235009024",
+    "text": "@stephenfry Name of neighbour \"Ståhfrääs\" might have tipped u off if fluent in swedish. Translates to Hard-on, boner, erection etc.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            }
+        ]
+    }
+}

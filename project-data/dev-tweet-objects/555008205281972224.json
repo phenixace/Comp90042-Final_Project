@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T14:27:22.000Z",
+    "id": "555008205281972224",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "text": "@FoxNews I predict a bill will be introduced by a Dem to classify the building of a snowman as both a hate-crime and gender discrimination"
+}

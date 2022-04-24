@@ -1,0 +1,43 @@
+{
+    "text": "Wow, this is pretty incredible: “@politico: White House lit with rainbow pride http://t.co/6RxMRhT8hP | AP Photo http://t.co/gwGUAHEiqI”",
+    "created_at": "2015-06-27T01:53:41.000Z",
+    "id": "614612531093450752",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 54,
+                "probability": 0.5775,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 33,
+                "end": 42,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ],
+        "urls": [
+            {
+                "start": 79,
+                "end": 101,
+                "url": "http://t.co/6RxMRhT8hP",
+                "expanded_url": "http://politi.co/1e97vzC",
+                "display_url": "politi.co/1e97vzC",
+                "status": 200,
+                "unwound_url": "https://www.politico.com/story/2015/06/white-house-set-aglow-with-rainbow-pride-119490"
+            },
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/gwGUAHEiqI",
+                "expanded_url": "https://twitter.com/politico/status/614610364702044164/photo/1",
+                "display_url": "pic.twitter.com/gwGUAHEiqI"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

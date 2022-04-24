@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 96,
+                "end": 111,
+                "tag": "COVID2019india"
+            },
+            {
+                "start": 112,
+                "end": 126,
+                "tag": "WHOMythBuster"
+            },
+            {
+                "start": 127,
+                "end": 146,
+                "tag": "KHKTCoronaCampaign"
+            }
+        ]
+    },
+    "text": "There is no reason to believe that cold weather can kill the new coronavirus or other diseases. #COVID2019india #WHOMythBuster #KHKTCoronaCampaign",
+    "created_at": "2020-03-18T13:59:40.000Z",
+    "id": "1240276687163514880"
+}

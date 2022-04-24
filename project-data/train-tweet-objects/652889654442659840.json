@@ -1,0 +1,22 @@
+{
+    "id": "652889654442659840",
+    "created_at": "2015-10-10T16:53:18.000Z",
+    "source": "Twitter for Android",
+    "text": "@CNN @realDonaldTrump naked and aggressive megalomania.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

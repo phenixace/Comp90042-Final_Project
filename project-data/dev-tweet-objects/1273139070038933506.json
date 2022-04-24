@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "muazxt",
+                "id": "894155443580182529"
+            },
+            {
+                "start": 52,
+                "end": 63,
+                "username": "ziqjunaidy",
+                "id": "267492886"
+            }
+        ]
+    },
+    "created_at": "2020-06-17T06:23:02.000Z",
+    "id": "1273139070038933506",
+    "text": "@muazxt Jgn risau, ada solusinya. Next MSN session, @ziqjunaidy ikat Muaz kat belakang!"
+}

@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 57,
+                "end": 62,
+                "probability": 0.9976,
+                "type": "Place",
+                "normalized_text": "London"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "text": "@lauderdaleagent I wonder how many \"refugees\" arrived in London so far...",
+    "id": "665585137489485826",
+    "created_at": "2015-11-14T17:40:37.000Z"
+}

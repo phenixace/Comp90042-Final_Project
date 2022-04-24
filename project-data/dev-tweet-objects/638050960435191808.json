@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-08-30T18:09:38.000Z",
+    "text": "@Ashleyx1111 @TheWorldStories Disgustingly embarrassing! Pathetic on so many levels.",
+    "id": "638050960435191808",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 29,
+                "username": "TheWorldStories",
+                "id": "284441324"
+            }
+        ]
+    }
+}

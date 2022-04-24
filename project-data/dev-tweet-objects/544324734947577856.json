@@ -1,0 +1,16 @@
+{
+    "text": "@mashable They charged me $215 for a $20 fare. Neveer use them again after they've exploited situations.",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "id": "544324734947577856",
+    "created_at": "2014-12-15T02:55:04.000Z"
+}

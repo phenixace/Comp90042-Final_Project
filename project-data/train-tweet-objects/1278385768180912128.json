@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-07-01T17:51:33.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 34,
+                "end": 35,
+                "probability": 0.991,
+                "type": "Place",
+                "normalized_text": "NC"
+            }
+        ]
+    },
+    "id": "1278385768180912128",
+    "text": "@AlexBerenson What’s happening in NC? What did I miss?"
+}

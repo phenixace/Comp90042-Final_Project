@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "drskyskull",
+                "id": "110772878"
+            }
+        ]
+    },
+    "id": "567000568116166656",
+    "text": "@assholeofday @drskyskull Said by someone who is certainly a larger cut of FAT...HEAD.",
+    "source": "Twitter Web Client",
+    "created_at": "2015-02-15T16:40:44.000Z"
+}

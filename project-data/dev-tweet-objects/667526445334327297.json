@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "jeff_mowatt",
+                "id": "416789331"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "username": "snopes",
+                "id": "14294848"
+            }
+        ]
+    },
+    "created_at": "2015-11-20T02:14:41.000Z",
+    "id": "667526445334327297",
+    "text": "@jeff_mowatt @snopes So sad.",
+    "source": "Twitter for iPhone"
+}

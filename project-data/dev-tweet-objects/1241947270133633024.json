@@ -1,0 +1,29 @@
+{
+    "id": "1241947270133633024",
+    "created_at": "2020-03-23T04:37:58.000Z",
+    "source": "Twitter Web App",
+    "text": "2⃣ Only dry cough is the symptom of #COVIDー19. If I have a runny nose or sputum, I do not have COVID-19. Is this correct?\n\nA: No, this is not correct. Some patients with COVID-19 do show a runny nose🤧or a sputum as symptoms.\n\n#coronavirus https://t.co/2YKmEsatkq",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 36,
+                "end": 45,
+                "tag": "COVIDー19"
+            },
+            {
+                "start": 226,
+                "end": 238,
+                "tag": "coronavirus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 239,
+                "end": 262,
+                "url": "https://t.co/2YKmEsatkq",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1241947270133633024/photo/1",
+                "display_url": "pic.twitter.com/2YKmEsatkq"
+            }
+        ]
+    }
+}

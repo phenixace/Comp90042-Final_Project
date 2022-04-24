@@ -1,0 +1,16 @@
+{
+    "source": "Fenix for Android",
+    "text": "@WHO But is still advised to avoid for a large group of people including asthmatics who may have worse symptoms",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "created_at": "2020-03-19T08:31:19.000Z",
+    "id": "1240556444950421504"
+}

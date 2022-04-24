@@ -1,0 +1,42 @@
+{
+    "created_at": "2014-12-15T15:40:39.000Z",
+    "id": "544517398410166272",
+    "entities": {
+        "annotations": [
+            {
+                "start": 90,
+                "end": 92,
+                "probability": 0.9858,
+                "type": "Other",
+                "normalized_text": "God"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 12,
+                "end": 21,
+                "tag": "BREAKING"
+            },
+            {
+                "start": 54,
+                "end": 66,
+                "tag": "SydneySiege"
+            },
+            {
+                "start": 76,
+                "end": 82,
+                "tag": "9News"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "9NewsSyd",
+                "id": "171802941"
+            }
+        ]
+    },
+    "text": "“@9NewsSyd: #BREAKING: Police have confirmed that the #SydneySiege is over. #9News” thank God 🙌🙏😭",
+    "source": "Twitter for iPhone"
+}

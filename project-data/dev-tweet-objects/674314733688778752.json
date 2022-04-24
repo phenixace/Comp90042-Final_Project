@@ -1,0 +1,50 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 84,
+                "end": 85,
+                "probability": 0.4185,
+                "type": "Person",
+                "normalized_text": "DT"
+            },
+            {
+                "start": 135,
+                "end": 137,
+                "probability": 0.859,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "CNNPolitics",
+                "id": "13850422"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "PressSec",
+                "id": "1349170292564905988"
+            },
+            {
+                "start": 23,
+                "end": 39,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "username": "TalKopan",
+                "id": "159655293"
+            }
+        ]
+    },
+    "created_at": "2015-12-08T19:48:55.000Z",
+    "text": "@CNNPolitics @PressSec @realDonaldTrump @TalKopan we the people are not offended by DT he's right. We close all borders for the safety USA",
+    "id": "674314733688778752"
+}

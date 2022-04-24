@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TimOBrien",
+                "id": "20742461"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-17T03:42:59.000Z",
+    "text": "@TimOBrien That’s what I’ve been wondering. What are the long-term effects?",
+    "id": "1250993129659854849"
+}

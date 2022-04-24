@@ -1,0 +1,29 @@
+{
+    "created_at": "2015-11-17T19:17:11.000Z",
+    "text": "@BBCWorld @BBCtrending #muslim",
+    "id": "666696603982540800",
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BBCWorld",
+                "id": "742143"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "BBCtrending",
+                "id": "1562935142"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 23,
+                "end": 30,
+                "tag": "muslim"
+            }
+        ]
+    }
+}

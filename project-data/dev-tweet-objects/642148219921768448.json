@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 118,
+                "end": 130,
+                "tag": "FeelTheBern"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "KevinIrishndhas",
+                "id": "2859676331"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 44,
+                "end": 58,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "text": "@KevinIrishndhas @CNN  There's a 99% chance @BernieSanders will fight his ass off for you and your family if elected. #FeelTheBern",
+    "created_at": "2015-09-11T01:30:40.000Z",
+    "id": "642148219921768448",
+    "source": "Twitter for Android"
+}

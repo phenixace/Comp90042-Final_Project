@@ -1,0 +1,22 @@
+{
+    "id": "525137703848148992",
+    "created_at": "2014-10-23T04:12:39.000Z",
+    "source": "Twitter for Android Tablets",
+    "text": "@ABC @jk_rowling ARAGOG LIVES!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "jk_rowling",
+                "id": "62513246"
+            }
+        ]
+    }
+}

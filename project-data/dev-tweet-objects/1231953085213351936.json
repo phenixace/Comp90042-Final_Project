@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-02-24T14:44:38.000Z",
+    "text": "@WHO Its a pandemic. Announce it as such for the sake of god!",
+    "id": "1231953085213351936",
+    "entities": {
+        "annotations": [
+            {
+                "start": 57,
+                "end": 59,
+                "probability": 0.6093,
+                "type": "Other",
+                "normalized_text": "god"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "source": "Twitter Web App"
+}

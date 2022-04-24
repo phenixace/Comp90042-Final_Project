@@ -1,0 +1,37 @@
+{
+    "text": "@CNN @BernieSanders @HillaryClinton Sanders talks a good game about things he can't possibly deliver.  He's near comical.",
+    "created_at": "2015-09-11T01:49:26.000Z",
+    "id": "642152943261773824",
+    "entities": {
+        "annotations": [
+            {
+                "start": 36,
+                "end": 42,
+                "probability": 0.9893,
+                "type": "Person",
+                "normalized_text": "Sanders"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-13T14:14:04.000Z",
+    "id": "555004860287188992",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "text": "@FoxNews what about snow-women?"
+}

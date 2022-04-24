@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 113,
+                "end": 135,
+                "url": "http://t.co/05YJmIKhnZ",
+                "expanded_url": "https://twitter.com/hunterschwarz/status/614595181845839873/photo/1",
+                "display_url": "pic.twitter.com/05YJmIKhnZ"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 10,
+                "end": 14,
+                "probability": 0.9987,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 82,
+                "end": 92,
+                "probability": 0.6839,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 62,
+                "end": 76,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2015-06-27T00:53:01.000Z",
+    "text": "Just like Trump would do for his new Rainbow-themed hotel. RT @hunterschwarz: The White House is lit up rainbow. http://t.co/05YJmIKhnZ",
+    "id": "614597265303470080"
+}

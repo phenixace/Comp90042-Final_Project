@@ -1,0 +1,22 @@
+{
+    "id": "652883790776373248",
+    "created_at": "2015-10-10T16:30:00.000Z",
+    "source": "Twitter Web Client",
+    "text": "@CNN @realDonaldTrump Some one has gotta convince The Dump to get back on his lithium. He is becoming a danger to himself and others.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

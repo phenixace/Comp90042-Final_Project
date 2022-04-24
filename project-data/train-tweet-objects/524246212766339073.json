@@ -1,0 +1,38 @@
+{
+    "id": "524246212766339073",
+    "created_at": "2014-10-20T17:10:11.000Z",
+    "source": "Twitter for iPhone",
+    "text": "“@fxnscitech: Puppy-sized spider surprises scientist in rainforest http://t.co/xZgB2NtiCJ http://t.co/8Z6yZQDMZs”@abbybrown614 ahhahahah 😈😈",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 89,
+                "url": "http://t.co/xZgB2NtiCJ",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "display_url": "fxn.ws/1t2ePlj"
+            },
+            {
+                "start": 90,
+                "end": 112,
+                "url": "http://t.co/8Z6yZQDMZs",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "display_url": "pic.twitter.com/8Z6yZQDMZs"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 12,
+                "username": "fxnscitech",
+                "id": "840878926700400640"
+            },
+            {
+                "start": 113,
+                "end": 126,
+                "username": "abbybrown614",
+                "id": "2427900788"
+            }
+        ]
+    }
+}

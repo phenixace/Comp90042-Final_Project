@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-02T23:36:23.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "551160104850948097",
+    "text": "@FoxNews simply amazing"
+}

@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 66,
+                "end": 69,
+                "probability": 0.6855,
+                "type": "Person",
+                "normalized_text": "eric"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T21:57:52.000Z",
+    "id": "532291143439241217",
+    "text": "@nypost dog , this ain't \"teen\" talk, it's how we all talk duuuh..eric you gotta chill, like for real"
+}

@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 94,
+                "end": 102,
+                "probability": 0.3648,
+                "type": "Other",
+                "normalized_text": "Stone Age"
+            }
+        ]
+    },
+    "id": "567014457852067843",
+    "text": "@assholeofday @theONLYShellyJ SERIOUSLY???????? Did he just arrive into this century from the Stone Age????",
+    "source": "Twitter for Android",
+    "created_at": "2015-02-15T17:35:56.000Z"
+}

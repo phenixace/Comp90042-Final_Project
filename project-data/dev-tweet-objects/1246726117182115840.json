@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 59,
+                "end": 65,
+                "tag": "COVID"
+            },
+            {
+                "start": 214,
+                "end": 228,
+                "tag": "KomeshaCorona"
+            }
+        ],
+        "urls": [
+            {
+                "start": 190,
+                "end": 213,
+                "url": "https://t.co/cqzvgP33Qh",
+                "expanded_url": "http://www.health.go.ke",
+                "display_url": "health.go.ke",
+                "status": 200,
+                "title": "MINISTRY OF HEALTH – REPUBLIC OF KENYA",
+                "unwound_url": "https://www.health.go.ke/"
+            },
+            {
+                "start": 229,
+                "end": 252,
+                "url": "https://t.co/n6dmEuAM1H",
+                "expanded_url": "https://twitter.com/MOH_Kenya/status/1246726117182115840/photo/1",
+                "display_url": "pic.twitter.com/n6dmEuAM1H"
+            }
+        ]
+    },
+    "text": "📢ALERT📢\n\nDrinking alcohol 🥃🍾🍻🍷does not protect you against #COVID-19🦠 and can be dangerous\n\nFrequent or excessive alcohol consumption can increase your risk of health problems.\n\nRead more ➡️https://t.co/cqzvgP33Qh\n#KomeshaCorona https://t.co/n6dmEuAM1H",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-05T09:07:24.000Z",
+    "id": "1246726117182115840"
+}

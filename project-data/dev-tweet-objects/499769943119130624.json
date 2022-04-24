@@ -1,0 +1,16 @@
+{
+    "text": "@ksdknews real question is what is the shoters record is like!!",
+    "source": "Twitter for Android",
+    "created_at": "2014-08-14T04:10:14.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "id": "499769943119130624"
+}

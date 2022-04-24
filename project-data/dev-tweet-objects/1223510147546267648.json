@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 38,
+                "end": 43,
+                "probability": 0.7474,
+                "type": "Place",
+                "normalized_text": "Kerala"
+            },
+            {
+                "start": 78,
+                "end": 82,
+                "probability": 0.6631,
+                "type": "Place",
+                "normalized_text": "china"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 12,
+                "end": 24,
+                "tag": "Coronavirus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    },
+    "id": "1223510147546267648",
+    "created_at": "2020-02-01T07:35:25.000Z",
+    "source": "Twitter Web App",
+    "text": "@WHO Latest #Coronavirus numbers from Kerala \n\nCum. number of passengers from china under observation- 1471\nCum. number of asymptomatic passengers under home isolation- 1421\nCum. no of symptomatic passengers hospitalised- 50\n\nNo of *symptomatic passengers hospitalised* on 31st Jan- 36"
+}

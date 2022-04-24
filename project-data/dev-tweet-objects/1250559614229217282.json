@@ -1,0 +1,43 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RobinSingh014",
+                "id": "1336174614"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 156,
+                "end": 165,
+                "tag": "stayhome"
+            }
+        ],
+        "urls": [
+            {
+                "start": 187,
+                "end": 210,
+                "url": "https://t.co/SVSfNKNx5C",
+                "expanded_url": "http://bit.ly/corona-on-wa",
+                "display_url": "bit.ly/corona-on-wa",
+                "status": 500,
+                "unwound_url": "https://wa.me/919039356788?text=Hi"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.9965,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ]
+    },
+    "source": "erased17385931",
+    "text": "@RobinSingh014 Corona Update in India!\n\nTotal Confirmed: 12370\nActive Cases: 10440\nTotal Recovered: 1508\nTotal Deaths: 422\nUpdated at: 15/04/2020 23:15:36\n\n#stayhome\n\nGet it on WhatsApp: https://t.co/SVSfNKNx5C",
+    "id": "1250559614229217282",
+    "created_at": "2020-04-15T23:00:20.000Z"
+}

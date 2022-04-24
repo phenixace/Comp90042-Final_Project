@@ -1,0 +1,29 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 55,
+                "end": 74,
+                "tag": "WorstPresidentEVER"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "NatShupe",
+                "id": "158060289"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ]
+    },
+    "created_at": "2015-12-05T02:25:42.000Z",
+    "id": "672965037581950976",
+    "text": "@NatShupe @BarackObama I Wish he could take the hints, #WorstPresidentEVER!!!"
+}

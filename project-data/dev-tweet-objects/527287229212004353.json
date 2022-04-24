@@ -1,0 +1,25 @@
+{
+    "text": "Happens to the best of us MT @cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say.",
+    "id": "527287229212004353",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 29,
+                "end": 36,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 62,
+                "end": 73,
+                "probability": 0.9917,
+                "type": "Person",
+                "normalized_text": "Jose Canseco"
+            }
+        ]
+    },
+    "created_at": "2014-10-29T02:34:06.000Z"
+}

@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for BlackBerry®",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "enews",
+                "id": "2883841"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 35,
+                "end": 45,
+                "tag": "jstsaying"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T21:13:48.000Z",
+    "id": "407256240549801985",
+    "text": "@ENews ...bt its stil gona b good!?#jstsaying"
+}

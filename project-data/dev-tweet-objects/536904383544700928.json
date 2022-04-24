@@ -1,0 +1,22 @@
+{
+    "id": "536904383544700928",
+    "created_at": "2014-11-24T15:29:14.000Z",
+    "source": "Twitter for iPhone",
+    "text": "@ABC @dperrindavis",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "username": "dperrindavis",
+                "id": "14252403"
+            }
+        ]
+    }
+}

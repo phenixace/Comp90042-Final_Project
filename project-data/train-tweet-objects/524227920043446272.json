@@ -1,0 +1,28 @@
+{
+    "id": "524227920043446272",
+    "created_at": "2014-10-20T15:57:30.000Z",
+    "source": "Twitter for Android",
+    "text": "@fxnscitech @FoxNews @LiveScience Oh hell no!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "fxnscitech",
+                "id": "840878926700400640"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "username": "LiveScience",
+                "id": "15428397"
+            }
+        ]
+    }
+}

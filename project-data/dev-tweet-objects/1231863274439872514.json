@@ -1,0 +1,22 @@
+{
+    "created_at": "2020-02-24T08:47:46.000Z",
+    "text": "@ikedawilliams @WHO Without stopping travelling it’s useless",
+    "id": "1231863274439872514",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "ikedawilliams",
+                "id": "1603628994"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ]
+    }
+}

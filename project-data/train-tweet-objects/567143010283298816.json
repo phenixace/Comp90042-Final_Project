@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "firebomb173",
+                "id": "746936155208298497"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 64,
+                "end": 73,
+                "probability": 0.9602,
+                "type": "Person",
+                "normalized_text": "Mr. Corbin"
+            }
+        ]
+    },
+    "id": "567143010283298816",
+    "text": "@assholeofday @Firebomb173 Well you're no filet mignon yourself Mr. Corbin.",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-02-16T02:06:45.000Z"
+}

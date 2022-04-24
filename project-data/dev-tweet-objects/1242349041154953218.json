@@ -1,0 +1,54 @@
+{
+    "id": "1242349041154953218",
+    "source": "Twitter Web App",
+    "text": "During this #WorldTBDay, we stand in solidarity in the fight against two airborne diseases: #COVID19 &amp; #TB.\n\nThe theme of #WorldTBDay2020 - ‘It’s time’- puts the accent on the urgency to act on the commitments made by global leaders to #EndTB.\n\n#TwendeKaziNaSDGs #LNOB https://t.co/3Rgwt8DDHY",
+    "created_at": "2020-03-24T07:14:27.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 12,
+                "end": 23,
+                "tag": "WorldTBDay"
+            },
+            {
+                "start": 92,
+                "end": 100,
+                "tag": "COVID19"
+            },
+            {
+                "start": 107,
+                "end": 110,
+                "tag": "TB"
+            },
+            {
+                "start": 126,
+                "end": 141,
+                "tag": "WorldTBDay2020"
+            },
+            {
+                "start": 240,
+                "end": 246,
+                "tag": "EndTB"
+            },
+            {
+                "start": 249,
+                "end": 266,
+                "tag": "TwendeKaziNaSDGs"
+            },
+            {
+                "start": 267,
+                "end": 272,
+                "tag": "LNOB"
+            }
+        ],
+        "urls": [
+            {
+                "start": 273,
+                "end": 296,
+                "url": "https://t.co/3Rgwt8DDHY",
+                "expanded_url": "https://twitter.com/SDGsKenyaForum/status/1242349041154953218/photo/1",
+                "display_url": "pic.twitter.com/3Rgwt8DDHY"
+            }
+        ]
+    }
+}

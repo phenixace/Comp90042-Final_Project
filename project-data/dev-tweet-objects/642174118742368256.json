@@ -1,0 +1,16 @@
+{
+    "text": "@suzsu What was your first clue?",
+    "created_at": "2015-09-11T03:13:35.000Z",
+    "id": "642174118742368256",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "suzsu",
+                "id": "24828703"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "672236310510223360",
+    "text": "@ABC and we have had gun free zones since George Bush signed it into law.  Laws don't stop evil actors bent on killing people.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 52,
+                "probability": 0.997,
+                "type": "Person",
+                "normalized_text": "George Bush"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2015-12-03T02:10:00.000Z"
+}

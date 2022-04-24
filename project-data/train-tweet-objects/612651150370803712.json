@@ -1,0 +1,22 @@
+{
+    "created_at": "2015-06-21T15:59:51.000Z",
+    "id": "612651150370803712",
+    "text": "@ajplus @lightskinzayn 😂 why is this a story wow what were they supposed to get him, dog food?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "ajplus",
+                "id": "110396781"
+            },
+            {
+                "start": 8,
+                "end": 22,
+                "username": "lightskinzayn",
+                "id": "797674317261709312"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

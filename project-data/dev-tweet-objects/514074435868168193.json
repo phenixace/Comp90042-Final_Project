@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-22T15:31:11.000Z",
+    "id": "514074435868168193",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYDailyNews",
+                "id": "9763482"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "Blazingcatfur",
+                "id": "19355955"
+            }
+        ]
+    },
+    "text": "@NYDailyNews @Blazingcatfur Too late."
+}

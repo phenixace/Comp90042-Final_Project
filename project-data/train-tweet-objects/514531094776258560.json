@@ -1,0 +1,16 @@
+{
+    "id": "514531094776258560",
+    "text": "@SuperSaf curved displays! 😂",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "SuperSaf",
+                "id": "28090436"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-23T21:45:47.000Z"
+}

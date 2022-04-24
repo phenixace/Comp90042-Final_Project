@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-08-18T22:34:56.000Z",
+    "id": "501497503829602304",
+    "entities": {
+        "urls": [
+            {
+                "start": 17,
+                "end": 39,
+                "url": "http://t.co/nKDawjishr",
+                "expanded_url": "http://www.gofundme.com/bgtkbs",
+                "display_url": "gofundme.com/bgtkbs"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump http://t.co/nKDawjishr",
+    "source": "Twitter for iPhone"
+}

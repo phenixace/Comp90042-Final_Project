@@ -1,0 +1,16 @@
+{
+    "created_at": "2014-08-18T21:10:08.000Z",
+    "id": "501476161088532480",
+    "text": "@realDonaldTrump Hey Don, I'll give you a chico stick and tub of I can't believe it's not butter for your toupee. Hit me up dog!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "source": "Twitter for Websites"
+}

@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 99,
+                "end": 121,
+                "url": "http://t.co/HQiom0kZaI",
+                "expanded_url": "http://ow.ly/AMsIg",
+                "display_url": "ow.ly/AMsIg"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 4,
+                "end": 19,
+                "username": "alsassociation",
+                "id": "21416670"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 21,
+                "end": 40,
+                "tag": "IceBucketChallenge"
+            }
+        ]
+    },
+    "created_at": "2014-08-27T21:52:39.000Z",
+    "id": "504748350806061056",
+    "source": "Twitter for iPhone",
+    "text": "RT “@alsassociation: #IceBucketChallenge donations exceed $94 million. Thank you for your support! http://t.co/HQiom0kZaI”"
+}

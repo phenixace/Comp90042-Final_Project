@@ -1,0 +1,16 @@
+{
+    "created_at": "2015-06-27T01:24:08.000Z",
+    "text": "@thehill beautiful!",
+    "id": "614605095561494530",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "thehill",
+                "id": "1917731"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

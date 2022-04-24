@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-02T22:19:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "551140832091193344",
+    "text": "@FoxNews Talk about being nervous. well, how was it going?"
+}

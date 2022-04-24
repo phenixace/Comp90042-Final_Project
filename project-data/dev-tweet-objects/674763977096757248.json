@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 31,
+                "username": "TheLastRefuge2",
+                "id": "594886554"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 135,
+                "end": 137,
+                "probability": 0.9318,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ]
+    },
+    "created_at": "2015-12-10T01:34:03.000Z",
+    "id": "674763977096757248",
+    "text": "@biltmoreinvest @TheLastRefuge2 Where are the women?  The bastards left them behind or these men are military. Take your pick: bad for USA"
+}

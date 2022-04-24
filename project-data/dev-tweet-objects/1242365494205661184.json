@@ -1,0 +1,34 @@
+{
+    "id": "1242365494205661184",
+    "created_at": "2020-03-24T08:19:50.000Z",
+    "source": "Twitter Web App",
+    "text": "7⃣ Eating chicken causes the spread of the new #coronavirus?\n\nA: Eating hygienically prepared and well-cooked chicken🍗is safe and does not cause the spread of the new coronavirus.\n\n#COVID19 \n#COVIDー19 https://t.co/WEbatq9OVC",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 47,
+                "end": 59,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 181,
+                "end": 189,
+                "tag": "COVID19"
+            },
+            {
+                "start": 191,
+                "end": 200,
+                "tag": "COVIDー19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 201,
+                "end": 224,
+                "url": "https://t.co/WEbatq9OVC",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1242365494205661184/photo/1",
+                "display_url": "pic.twitter.com/WEbatq9OVC"
+            }
+        ]
+    }
+}

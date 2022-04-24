@@ -1,0 +1,25 @@
+{
+    "id": "672222544393428993",
+    "text": ".@ABC We do have a pattern of mass murders perpetrated by illegals since Obasturd took office. The blood of 10,000+ citizens is on his hands",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 73,
+                "end": 80,
+                "probability": 0.6847,
+                "type": "Person",
+                "normalized_text": "Obasturd"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-03T01:15:18.000Z"
+}

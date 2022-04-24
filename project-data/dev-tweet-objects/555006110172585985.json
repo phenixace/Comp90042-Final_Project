@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T14:19:02.000Z",
+    "id": "555006110172585985",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "urls": [
+            {
+                "start": 9,
+                "end": 31,
+                "url": "http://t.co/AyQqTLd7Rd",
+                "expanded_url": "http://mosqueesfrance.free.fr/ahmeddeedat/Mohammed%20le%20plus%20grand.pdf?id=11",
+                "display_url": "mosqueesfrance.free.fr/ahmeddeedat/Mo…"
+            }
+        ]
+    },
+    "text": "@FoxNews http://t.co/AyQqTLd7Rd"
+}

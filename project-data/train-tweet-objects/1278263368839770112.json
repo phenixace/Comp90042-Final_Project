@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 77,
+                "end": 100,
+                "url": "https://t.co/RmoaDSdzi3",
+                "expanded_url": "https://twitter.com/murraygilman/status/1278263368839770112/photo/1",
+                "display_url": "pic.twitter.com/RmoaDSdzi3"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T09:45:10.000Z",
+    "id": "1278263368839770112",
+    "text": "@AlexBerenson This graph represents HERD IMMUNITY.  Isn’t this what we want? https://t.co/RmoaDSdzi3"
+}

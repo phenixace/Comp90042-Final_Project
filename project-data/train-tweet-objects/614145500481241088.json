@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 23,
+                "username": "lustminho",
+                "id": "906259854330822656"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 @lustminho",
+    "id": "614145500481241088",
+    "created_at": "2015-06-25T18:57:52.000Z"
+}

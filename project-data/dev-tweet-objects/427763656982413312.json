@@ -1,0 +1,25 @@
+{
+    "id": "427763656982413312",
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/TMeNPCSZYy",
+                "expanded_url": "http://nbcnews.to/M3IDLR",
+                "display_url": "nbcnews.to/M3IDLR"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 3,
+                "end": 11,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-01-27T11:22:57.000Z",
+    "text": "RT @NBCNews: Actor who played Marlboro Man in ads dies from smoking-related disease http://t.co/TMeNPCSZYy",
+    "source": "Twitter for Mac"
+}

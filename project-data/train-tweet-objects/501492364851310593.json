@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-08-18T22:14:31.000Z",
+    "id": "501492364851310593",
+    "entities": {
+        "annotations": [
+            {
+                "start": 22,
+                "end": 26,
+                "probability": 0.9976,
+                "type": "Person",
+                "normalized_text": "Obama"
+            },
+            {
+                "start": 103,
+                "end": 110,
+                "probability": 0.4964,
+                "type": "Person",
+                "normalized_text": "Mexicans"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump Fuck Obama! Every man has his faults. He was smart In The sense of getting votes from Mexicans by opening the border.",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "probability": 0.4424,
+                "type": "Product",
+                "normalized_text": "Instagram"
+            },
+            {
+                "start": 102,
+                "end": 114,
+                "probability": 0.9692,
+                "type": "Person",
+                "normalized_text": "Lucille Clerc"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 43,
+                "tag": "CharlieHebdo"
+            }
+        ],
+        "urls": [
+            {
+                "start": 73,
+                "end": 95,
+                "url": "http://t.co/EKlScFGWVu",
+                "expanded_url": "http://www.telegraph.co.uk/news/worldnews/europe/france/11332310/Banksy-Instagram-tribute-to-Charlie-Hebdo-victims-not-posted-by-artist.html",
+                "display_url": "telegraph.co.uk/news/worldnews…"
+            },
+            {
+                "start": 117,
+                "end": 139,
+                "url": "http://t.co/ZYEBaU8YUQ",
+                "expanded_url": "https://twitter.com/Telegraph/status/553136604882014208/photo/1",
+                "display_url": "pic.twitter.com/ZYEBaU8YUQ"
+            }
+        ]
+    },
+    "text": "‘Banksy’ Instagram tribute to #CharlieHebdo victims not posted by artist http://t.co/EKlScFGWVu (Pic: Lucille Clerc) http://t.co/ZYEBaU8YUQ",
+    "source": "TweetDeck",
+    "created_at": "2015-01-08T10:30:18.000Z",
+    "id": "553136604882014208"
+}

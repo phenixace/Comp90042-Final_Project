@@ -1,0 +1,16 @@
+{
+    "source": "twittbot.net",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gotham3",
+                "id": "986745014326788096"
+            }
+        ]
+    },
+    "id": "678243460990656512",
+    "created_at": "2015-12-19T16:00:16.000Z",
+    "text": "@Gotham3 How many days is this love good for?"
+}

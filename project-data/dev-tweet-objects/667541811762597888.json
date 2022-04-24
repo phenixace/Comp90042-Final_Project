@@ -1,0 +1,34 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 81,
+                "end": 104,
+                "url": "https://t.co/vKTHjlKtNK",
+                "expanded_url": "http://www.snopes.com/syria-refugee-child-surrender/",
+                "display_url": "snopes.com/syria-refugee-…",
+                "status": 200,
+                "unwound_url": "https://www.snopes.com/fact-check/syria-refugee-child-surrender/"
+            },
+            {
+                "start": 105,
+                "end": 128,
+                "url": "https://t.co/Dw9tIowKpn",
+                "expanded_url": "https://twitter.com/snopes/status/667487418388488192/photo/1",
+                "display_url": "pic.twitter.com/Dw9tIowKpn"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "snopes",
+                "id": "14294848"
+            }
+        ]
+    },
+    "created_at": "2015-11-20T03:15:44.000Z",
+    "id": "667541811762597888",
+    "text": "“@snopes: The picture of a Syrian child \"surrendering\" to a camera is real. 💔💔💔\n\nhttps://t.co/vKTHjlKtNK https://t.co/Dw9tIowKpn”",
+    "source": "Twitter for iPhone"
+}

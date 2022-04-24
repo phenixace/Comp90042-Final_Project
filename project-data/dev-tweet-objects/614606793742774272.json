@@ -1,0 +1,31 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 32,
+                "end": 36,
+                "probability": 0.843,
+                "type": "Person",
+                "normalized_text": "Barry"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            },
+            {
+                "start": 15,
+                "end": 25,
+                "username": "SCOOPNJ78",
+                "id": "52399952"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T01:30:53.000Z",
+    "text": "@hunterschwarz @SCOOPNJ78 who's Barry sleeping with tonight?",
+    "id": "614606793742774272"
+}

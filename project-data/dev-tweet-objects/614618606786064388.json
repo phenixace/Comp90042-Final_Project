@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T02:17:49.000Z",
+    "text": "@hunterschwarz @Ash_Bell__ This from the same scum who won't wear American flag lapel pin because it \"might offend\" someone!",
+    "id": "614618606786064388"
+}

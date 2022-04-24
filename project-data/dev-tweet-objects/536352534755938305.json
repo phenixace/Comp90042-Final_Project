@@ -1,0 +1,16 @@
+{
+    "source": "Tweetbot for Mac",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "OhMDee",
+                "id": "18714664"
+            }
+        ]
+    },
+    "id": "536352534755938305",
+    "text": "@OhMDee at least one company understood there is no specific boy/girls toys, just toys.",
+    "created_at": "2014-11-23T02:56:23.000Z"
+}

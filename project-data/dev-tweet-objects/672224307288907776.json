@@ -1,0 +1,48 @@
+{
+    "id": "672224307288907776",
+    "text": "@ABC Obama No evidence of attacks during holiday\nhttps://t.co/kbF4mnP6mq     \nhttps://t.co/tEgRKwwBHk https://t.co/BFHhw53hGU",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ],
+        "urls": [
+            {
+                "start": 49,
+                "end": 72,
+                "url": "https://t.co/kbF4mnP6mq",
+                "expanded_url": "http://usat.ly/1jjE00m",
+                "display_url": "usat.ly/1jjE00m"
+            },
+            {
+                "start": 78,
+                "end": 101,
+                "url": "https://t.co/tEgRKwwBHk",
+                "expanded_url": "http://tripeilat.com/the-emperors-new-clothes-obama/",
+                "display_url": "tripeilat.com/the-emperors-n…"
+            },
+            {
+                "start": 102,
+                "end": 125,
+                "url": "https://t.co/BFHhw53hGU",
+                "expanded_url": "https://twitter.com/Imeninme/status/672224307288907776/photo/1",
+                "display_url": "pic.twitter.com/BFHhw53hGU"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.9903,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "created_at": "2015-12-03T01:22:18.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2015-10-25T15:44:07.000Z",
+    "source": "Twitter for iPhone",
+    "id": "658308062227238912",
+    "text": "@EconBizFin SJ's biological father is student from Syria, not a refugee.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 55,
+                "probability": 0.9213,
+                "type": "Place",
+                "normalized_text": "Syria"
+            }
+        ]
+    }
+}

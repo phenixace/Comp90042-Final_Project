@@ -1,0 +1,39 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 3,
+                "end": 13,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 29,
+                "probability": 0.4184,
+                "type": "Place",
+                "normalized_text": "Parliament Hill"
+            },
+            {
+                "start": 75,
+                "end": 86,
+                "probability": 0.7196,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 65,
+                "end": 72,
+                "tag": "Ottawa"
+            }
+        ]
+    },
+    "created_at": "2014-10-22T14:10:07.000Z",
+    "id": "524925671244853248",
+    "text": "RT @CBCAlerts: Parliament Hill in lockdown after soldier shot at #Ottawa's War Memorial, just south of East Block.”"
+}

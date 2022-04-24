@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 41,
+                "end": 64,
+                "url": "https://t.co/8fyXxPJ48i",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "display_url": "who.int/emergencies/di…"
+            }
+        ]
+    },
+    "id": "1241325805570949120",
+    "text": "Thanks for your nice attention.\nSource : https://t.co/8fyXxPJ48i",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-21T11:28:29.000Z"
+}

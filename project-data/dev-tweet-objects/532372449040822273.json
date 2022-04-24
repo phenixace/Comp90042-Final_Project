@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "created_at": "2014-11-12T03:20:57.000Z",
+    "id": "532372449040822273",
+    "text": "@nypost lololol I'm posting this for my employees tomorrow just because..."
+}

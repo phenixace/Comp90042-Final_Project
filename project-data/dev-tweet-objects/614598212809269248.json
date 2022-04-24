@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 15,
+                "end": 21,
+                "tag": "stahp"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:56:47.000Z",
+    "text": "@hunterschwarz #stahp",
+    "id": "614598212809269248"
+}

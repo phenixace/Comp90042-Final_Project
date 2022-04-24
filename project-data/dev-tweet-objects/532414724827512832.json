@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 51,
+                "end": 58,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ],
+        "urls": [
+            {
+                "start": 24,
+                "end": 46,
+                "url": "http://t.co/9r5ZwqsjEb",
+                "expanded_url": "https://twitter.com/nypost/status/532284831783460864/photo/1",
+                "display_url": "pic.twitter.com/9r5ZwqsjEb"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 22,
+                "tag": "bae"
+            }
+        ]
+    },
+    "created_at": "2014-11-12T06:08:56.000Z",
+    "id": "532414724827512832",
+    "text": "Thou shan't utter #bae\n\nhttp://t.co/9r5ZwqsjEb via @nypost"
+}

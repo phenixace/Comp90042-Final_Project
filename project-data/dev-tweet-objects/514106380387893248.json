@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-22T17:38:07.000Z",
+    "id": "514106380387893248",
+    "text": "@NBCNews at least we have one secure border",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    }
+}

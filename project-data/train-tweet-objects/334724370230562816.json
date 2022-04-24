@@ -1,0 +1,22 @@
+{
+    "created_at": "2013-05-15T17:38:03.000Z",
+    "source": "Twitter for Android",
+    "id": "334724370230562816",
+    "text": "@stephenfry @elvis717 Sorry to disappoint you, this is clearly fake. However funny.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "stephenfry",
+                "id": "15439395"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "elvis717",
+                "id": "17986456"
+            }
+        ]
+    }
+}

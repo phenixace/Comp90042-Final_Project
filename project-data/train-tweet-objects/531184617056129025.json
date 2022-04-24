@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-08T20:40:56.000Z",
+    "text": "@JuddLegum @DreKnott  Will it try to capture the chips' ability to leave the roof of your mouth ragged and raw?",
+    "id": "531184617056129025",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "JuddLegum",
+                "id": "15464697"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "username": "DreKnott",
+                "id": "87256018"
+            }
+        ]
+    }
+}

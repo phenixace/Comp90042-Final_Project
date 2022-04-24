@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "iCant_Reed",
+                "id": "37476069"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 41,
+                "end": 53,
+                "probability": 0.3153,
+                "type": "Person",
+                "normalized_text": "White America"
+            }
+        ]
+    },
+    "text": "@iCant_Reed @NewsWatch33 I am so sick of White America making this alright. I guess he did wat they all were scared to do, so its all praise",
+    "id": "614090701043802113",
+    "created_at": "2015-06-25T15:20:07.000Z"
+}

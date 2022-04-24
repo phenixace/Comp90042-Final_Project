@@ -1,0 +1,47 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 38,
+                "end": 47,
+                "tag": "Bendgate"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 24,
+                "probability": 0.8969,
+                "type": "Organization",
+                "normalized_text": "Apple"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Mooch1978",
+                "id": "1489685983377375235"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "username": "Gizmodo",
+                "id": "2890961"
+            }
+        ],
+        "urls": [
+            {
+                "start": 48,
+                "end": 70,
+                "url": "http://t.co/yOFfeSeRCB",
+                "expanded_url": "http://bit.ly/Y6vaJa",
+                "display_url": "bit.ly/Y6vaJa"
+            }
+        ]
+    },
+    "text": "@Mooch1978 @Gizmodo Apple responds to #Bendgate http://t.co/yOFfeSeRCB",
+    "created_at": "2014-09-24T15:33:59.000Z",
+    "id": "514799917446205440",
+    "source": "Twitter Web Client"
+}

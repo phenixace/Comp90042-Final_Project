@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 7,
+                "username": "enews",
+                "id": "2883841"
+            },
+            {
+                "start": 124,
+                "end": 138,
+                "username": "KevinJsAngels",
+                "id": "246039771"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/vkoWgDZl5r",
+                "expanded_url": "http://eonli.ne/IxWRTn",
+                "display_url": "eonli.ne/IxWRTn"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 72,
+                "end": 82,
+                "probability": 0.9786,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "created_at": "2013-12-02T00:12:33.000Z",
+    "id": "407301223985856513",
+    "text": "“@ENews: Fast and Furious 7 \"Delayed\" But \"Won't Be Scrapped\" Following Paul Walker's Death: Report http://t.co/vkoWgDZl5r” @KevinJsAngels"
+}

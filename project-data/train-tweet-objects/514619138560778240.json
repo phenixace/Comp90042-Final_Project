@@ -1,0 +1,16 @@
+{
+    "text": "@katrinalome what happened?",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "katrinalome",
+                "id": "575853327"
+            }
+        ]
+    },
+    "id": "514619138560778240",
+    "created_at": "2014-09-24T03:35:38.000Z"
+}

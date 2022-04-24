@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 24,
+                "end": 47,
+                "url": "https://t.co/6VDLEBjzPg",
+                "expanded_url": "https://twitter.com/william20673995/status/1278316990436950017?s=19",
+                "display_url": "twitter.com/william2067399…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "Ma1973sk",
+                "id": "3723723982"
+            }
+        ]
+    },
+    "created_at": "2020-07-01T14:03:18.000Z",
+    "id": "1278328328701820929",
+    "text": "@AlexBerenson @Ma1973sk https://t.co/6VDLEBjzPg"
+}

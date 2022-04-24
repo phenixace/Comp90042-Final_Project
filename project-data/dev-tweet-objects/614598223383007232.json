@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "richeisen",
+                "id": "34701524"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T00:56:49.000Z",
+    "text": "@richeisen @hunterschwarz Our founders are spinning in their graves.",
+    "id": "614598223383007232"
+}

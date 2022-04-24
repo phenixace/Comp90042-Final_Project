@@ -1,0 +1,58 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag": "BendGate"
+            },
+            {
+                "start": 85,
+                "end": 97,
+                "tag": "AntennaGate"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gizmodo",
+                "id": "2890961"
+            },
+            {
+                "start": 19,
+                "end": 34,
+                "username": "milanmilanovic",
+                "id": "32821666"
+            },
+            {
+                "start": 35,
+                "end": 50,
+                "username": "Det_Conan_Kudo",
+                "id": "21936691"
+            },
+            {
+                "start": 51,
+                "end": 59,
+                "username": "fraydog",
+                "id": "15889456"
+            },
+            {
+                "start": 60,
+                "end": 72,
+                "username": "Paynefanbro",
+                "id": "147090340"
+            },
+            {
+                "start": 98,
+                "end": 107,
+                "username": "tim_cook",
+                "id": "1636590253"
+            }
+        ]
+    },
+    "text": "@Gizmodo #BendGate @milanmilanovic @Det_Conan_Kudo @fraydog @Paynefanbro bigger than #AntennaGate @tim_cook",
+    "created_at": "2014-09-24T02:22:40.000Z",
+    "id": "514600774295625728",
+    "source": "Twitter for iPhone"
+}

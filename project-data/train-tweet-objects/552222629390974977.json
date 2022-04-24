@@ -1,0 +1,22 @@
+{
+    "text": "@XXL @EinsteinAdonis Word to mum",
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-05T21:58:29.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "XXL",
+                "id": "14629315"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "EinsteinAdonis",
+                "id": "200039921"
+            }
+        ]
+    },
+    "id": "552222629390974977"
+}

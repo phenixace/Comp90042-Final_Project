@@ -1,0 +1,28 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Boogieknight",
+                "id": "14485322"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "username": "GrouchoGlasses",
+                "id": "2363574036"
+            },
+            {
+                "start": 43,
+                "end": 52,
+                "username": "MJanovic",
+                "id": "361885723"
+            }
+        ]
+    },
+    "text": "@Boogieknight @GrouchoGlasses @NewsWatch33 @MJanovic what does 'truthful with a shock factor' mean? They're either truthful or not.",
+    "id": "614189759402012672",
+    "created_at": "2015-06-25T21:53:44.000Z"
+}

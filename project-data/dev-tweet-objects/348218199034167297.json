@@ -1,0 +1,15 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 58,
+                "end": 66,
+                "tag": "FAIRTAX"
+            }
+        ]
+    },
+    "text": "@cgs_atl and we just got  a bill that is probably BOGUS!!!#FAIRTAX!!!!",
+    "id": "348218199034167297",
+    "created_at": "2013-06-21T23:17:42.000Z"
+}

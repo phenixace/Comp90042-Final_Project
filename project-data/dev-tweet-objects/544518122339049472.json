@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-12-15T15:43:31.000Z",
+    "id": "544518122339049472",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 19,
+                "probability": 0.7391,
+                "type": "Other",
+                "normalized_text": "GOD"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "9NewsSyd",
+                "id": "171802941"
+            }
+        ]
+    },
+    "text": "@9NewsSyd THANKS GOD",
+    "source": "Twitter for iPhone"
+}

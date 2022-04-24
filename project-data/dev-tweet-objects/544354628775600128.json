@@ -1,0 +1,22 @@
+{
+    "text": "@leeanneart @mashable \"Grease my palm with silver lovie.\" The disgraceful pricks. Run 'em outta town folks.",
+    "source": "Twitter for iPad",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "leeanneart",
+                "id": "423693045"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "id": "544354628775600128",
+    "created_at": "2014-12-15T04:53:51.000Z"
+}

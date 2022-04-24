@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-05-13T22:27:27.000Z",
+    "text": "@MrCippy The Drive-thru testing site at the Fairgrounds we are seeing a 24 hour-7 day turnaround",
+    "id": "1260698195476258816",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 54,
+                "probability": 0.3679,
+                "type": "Place",
+                "normalized_text": "Fairgrounds"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "MrCippy",
+                "id": "15048808"
+            }
+        ]
+    },
+    "source": "TweetDeck"
+}

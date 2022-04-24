@@ -1,0 +1,25 @@
+{
+    "text": "@chrismaheia @XXL Eye see you lil Obama.",
+    "source": "Twitter for Android",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 38,
+                "probability": 0.9521,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 17,
+                "username": "XXL",
+                "id": "14629315"
+            }
+        ]
+    },
+    "created_at": "2015-01-06T02:33:28.000Z",
+    "id": "552291831749570560"
+}

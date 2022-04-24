@@ -1,0 +1,41 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 264,
+                "end": 277,
+                "username": "KoinangeJeff",
+                "id": "237189703"
+            }
+        ],
+        "urls": [
+            {
+                "start": 278,
+                "end": 301,
+                "url": "https://t.co/dDZd2OnAYH",
+                "expanded_url": "https://twitter.com/Hot_96Kenya/status/1240497782097620992/photo/1",
+                "display_url": "pic.twitter.com/dDZd2OnAYH"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 204,
+                "end": 236,
+                "probability": 0.505,
+                "type": "Other",
+                "normalized_text": "Severe Acute Respiratory Syndrome"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 246,
+                "end": 263,
+                "tag": "JeffAndHamoOnHot"
+            }
+        ]
+    },
+    "created_at": "2020-03-19T04:38:13.000Z",
+    "id": "1240497782097620992",
+    "text": "What is a coronavirus?\nCoronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). #JeffAndHamoOnHot @KoinangeJeff https://t.co/dDZd2OnAYH"
+}

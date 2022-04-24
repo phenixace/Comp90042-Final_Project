@@ -1,0 +1,43 @@
+{
+    "id": "524246989462986752",
+    "created_at": "2014-10-20T17:13:16.000Z",
+    "source": "Twitter for Android",
+    "text": "@JennYach @tmrosestl @Prof_SueF @fxnscitech @LiveScience at the ready! http://t.co/GXf74mUdYf",
+    "entities": {
+        "urls": [
+            {
+                "start": 71,
+                "end": 93,
+                "url": "http://t.co/GXf74mUdYf",
+                "expanded_url": "https://twitter.com/kiddle/status/524246989462986752/photo/1",
+                "display_url": "pic.twitter.com/GXf74mUdYf"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "JennYach",
+                "id": "132688318"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "username": "tmrosestl",
+                "id": "2604335342"
+            },
+            {
+                "start": 32,
+                "end": 43,
+                "username": "fxnscitech",
+                "id": "840878926700400640"
+            },
+            {
+                "start": 44,
+                "end": 56,
+                "username": "LiveScience",
+                "id": "15428397"
+            }
+        ]
+    }
+}

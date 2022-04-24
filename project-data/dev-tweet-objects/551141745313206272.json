@@ -1,0 +1,38 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/u3mzATmi9G",
+                "expanded_url": "http://fxn.ws/1BrAUe8",
+                "display_url": "fxn.ws/1BrAUe8"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 13,
+                "username": "RingerKathy",
+                "id": "833534432"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 130,
+                "end": 137,
+                "tag": "Casual"
+            }
+        ]
+    },
+    "created_at": "2015-01-02T22:23:26.000Z",
+    "id": "551141745313206272",
+    "text": "“@RingerKathy: “@FoxNews: 19-year-old girl wakes up during brain surgery to ask doctors: ‘How’s it going?’ http://t.co/u3mzATmi9G”#Casual"
+}

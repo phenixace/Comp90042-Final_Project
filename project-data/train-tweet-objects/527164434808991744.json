@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 14,
+                "end": 24,
+                "username": "UberFacts",
+                "id": "95023423"
+            }
+        ]
+    },
+    "text": "@RR_PraiseGuy @UberFacts where's that asshole that did the dog spider prank?!",
+    "id": "527164434808991744",
+    "created_at": "2014-10-28T18:26:10.000Z"
+}

@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 40,
+                "end": 44,
+                "probability": 0.5347,
+                "type": "Person",
+                "normalized_text": "Huber"
+            },
+            {
+                "start": 78,
+                "end": 81,
+                "probability": 0.9144,
+                "type": "Organization",
+                "normalized_text": "Uber"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "mashable",
+                "id": "972651"
+            }
+        ]
+    },
+    "text": "@mashable what's not well-timed is what Huber is doing in a crisis situation. Uber has absolutely no integrity. Disgusting.",
+    "source": "Twitter for iPhone",
+    "id": "544325421022457856",
+    "created_at": "2014-12-15T02:57:48.000Z"
+}

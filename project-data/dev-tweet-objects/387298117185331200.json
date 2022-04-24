@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2013-10-07T19:27:21.000Z",
+    "text": "@pambesteder What's more important, pushing Michelle Obama's agenda or saving a child's life? Oh, #HarryReidsShutdown already answered that?",
+    "id": "387298117185331200",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 98,
+                "end": 117,
+                "tag": "HarryReidsShutdown"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "pambesteder",
+                "id": "58510019"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 44,
+                "end": 57,
+                "probability": 0.9981,
+                "type": "Person",
+                "normalized_text": "Michelle Obama"
+            }
+        ]
+    }
+}

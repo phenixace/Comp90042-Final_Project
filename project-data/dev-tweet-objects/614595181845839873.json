@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 35,
+                "end": 57,
+                "url": "http://t.co/idCtt0vjRZ",
+                "expanded_url": "https://twitter.com/hunterschwarz/status/614595181845839873/photo/1",
+                "display_url": "pic.twitter.com/idCtt0vjRZ"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 4,
+                "end": 14,
+                "probability": 0.6733,
+                "type": "Place",
+                "normalized_text": "White House"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2015-06-27T00:44:44.000Z",
+    "text": "The White House is lit up rainbow. http://t.co/idCtt0vjRZ",
+    "id": "614595181845839873"
+}

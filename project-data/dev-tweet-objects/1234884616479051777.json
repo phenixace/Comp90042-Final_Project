@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "id": "1234884616479051777",
+    "entities": {
+        "urls": [
+            {
+                "start": 67,
+                "end": 90,
+                "url": "https://t.co/y77ohQAMMh",
+                "expanded_url": "https://twitter.com/teawithdev/status/1234884616479051777/photo/1",
+                "display_url": "pic.twitter.com/y77ohQAMMh"
+            }
+        ]
+    },
+    "created_at": "2020-03-03T16:53:30.000Z",
+    "text": "Can the virus that causes COVID-19 be transmitted through the air? https://t.co/y77ohQAMMh"
+}

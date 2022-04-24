@@ -1,0 +1,34 @@
+{
+    "id": "1242725021958557697",
+    "created_at": "2020-03-25T08:08:28.000Z",
+    "source": "Twitter Web App",
+    "text": "2⃣ Elbow\n\nCover your nose &amp; mouth with a bent elbow or tissue when you sneeze or cough🤧. Dispose of tissue immediately and wash your hands🙌\n\nBe READY to fight #COVID19 \n#coronavirus \n#CombatCovid19 https://t.co/3bRIPrxZZT",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 163,
+                "end": 171,
+                "tag": "COVID19"
+            },
+            {
+                "start": 173,
+                "end": 185,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 187,
+                "end": 201,
+                "tag": "CombatCovid19"
+            }
+        ],
+        "urls": [
+            {
+                "start": 202,
+                "end": 225,
+                "url": "https://t.co/3bRIPrxZZT",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1242725021958557697/photo/1",
+                "display_url": "pic.twitter.com/3bRIPrxZZT"
+            }
+        ]
+    }
+}

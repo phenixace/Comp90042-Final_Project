@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 25,
+                "end": 47,
+                "url": "http://t.co/tfK6zw31ET",
+                "expanded_url": "http://www.businessinsider.com.au/fake-banksy-charlie-hebdo-illustration-2015-1",
+                "display_url": "businessinsider.com.au/fake-banksy-ch…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "HuffPostArts",
+                "id": "129051309"
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "username": "PaulLewis",
+                "id": "27676108"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T04:01:30.000Z",
+    "id": "553038761538232320",
+    "source": "Twitter Web Client",
+    "text": "@HuffPostArts @PaulLewis http://t.co/tfK6zw31ET"
+}

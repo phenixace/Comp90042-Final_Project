@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/7LOSzQ3Oi0",
+                "expanded_url": "http://nyp.st/1synaZ7",
+                "display_url": "nyp.st/1synaZ7"
+            },
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/yqqp1AvXlN",
+                "expanded_url": "https://twitter.com/nypost/status/532284831783460864/photo/1",
+                "display_url": "pic.twitter.com/yqqp1AvXlN"
+            }
+        ]
+    },
+    "created_at": "2014-11-11T21:35:19.000Z",
+    "id": "532285467245674496",
+    "text": "“@nypost: Irritated manager makes list of teen slang employees are forbidden to use http://t.co/7LOSzQ3Oi0 http://t.co/yqqp1AvXlN”sobbingb"
+}

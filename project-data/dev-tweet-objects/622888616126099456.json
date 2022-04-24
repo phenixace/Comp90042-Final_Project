@@ -1,0 +1,25 @@
+{
+    "text": "@sammyrhodes Heaven is catered by Chick-fil-a",
+    "created_at": "2015-07-19T21:59:53.000Z",
+    "id": "622888616126099456",
+    "entities": {
+        "annotations": [
+            {
+                "start": 34,
+                "end": 42,
+                "probability": 0.3966,
+                "type": "Organization",
+                "normalized_text": "Chick-fil"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "sammyrhodes",
+                "id": "1354818992930611200"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

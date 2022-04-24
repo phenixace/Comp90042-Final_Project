@@ -1,0 +1,46 @@
+{
+    "text": "@CNN @BernieSanders @HillaryClinton could those Bernie Ts come in a hoodie please? http://t.co/mps4eoHpLC",
+    "created_at": "2015-09-11T20:30:31.000Z",
+    "id": "642435072998510592",
+    "entities": {
+        "annotations": [
+            {
+                "start": 48,
+                "end": 53,
+                "probability": 0.704,
+                "type": "Person",
+                "normalized_text": "Bernie"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "username": "BernieSanders",
+                "id": "216776631"
+            },
+            {
+                "start": 20,
+                "end": 35,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            }
+        ],
+        "urls": [
+            {
+                "start": 83,
+                "end": 105,
+                "url": "http://t.co/mps4eoHpLC",
+                "expanded_url": "https://twitter.com/JanisWohl/status/642435072998510592/photo/1",
+                "display_url": "pic.twitter.com/mps4eoHpLC"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

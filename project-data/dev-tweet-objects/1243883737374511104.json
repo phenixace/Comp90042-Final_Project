@@ -1,0 +1,17 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2020-03-28T12:52:47.000Z",
+    "id": "1243883737374511104",
+    "entities": {
+        "urls": [
+            {
+                "start": 122,
+                "end": 145,
+                "url": "https://t.co/EJqHFystKE",
+                "expanded_url": "https://twitter.com/AJEnglish/status/1243883737374511104/photo/1",
+                "display_url": "pic.twitter.com/EJqHFystKE"
+            }
+        ]
+    },
+    "text": "Does the new coronavirus only affect older people?\n\nYounger people also susceptible - people of all ages can be infected. https://t.co/EJqHFystKE"
+}

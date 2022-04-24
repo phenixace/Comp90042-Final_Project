@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "J0ann3",
+                "id": "16668042"
+            },
+            {
+                "start": 8,
+                "end": 15,
+                "username": "snopes",
+                "id": "14294848"
+            }
+        ]
+    },
+    "created_at": "2015-11-20T17:02:32.000Z",
+    "id": "667749879721164804",
+    "text": "@J0ann3 @snopes If child w hands up to camera is staged: SHAME ON THE HUMAN DIRECTOR!  If not staged SHAME ON HUMANS!",
+    "source": "Commun.it"
+}

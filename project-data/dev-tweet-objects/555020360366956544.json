@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T15:15:40.000Z",
+    "id": "555020360366956544",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 59,
+                "end": 66,
+                "probability": 0.6781,
+                "type": "Person",
+                "normalized_text": "Muhammad"
+            }
+        ]
+    },
+    "text": "@FoxNews LOL! I think I'll go out and build one....name it Muhammad. Just to piss him off!"
+}

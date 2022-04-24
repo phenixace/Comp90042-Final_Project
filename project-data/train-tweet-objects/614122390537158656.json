@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 25,
+                "username": "the_author_",
+                "id": "18886228"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 @the_author_ This is a \"satirical\" website",
+    "id": "614122390537158656",
+    "created_at": "2015-06-25T17:26:02.000Z"
+}

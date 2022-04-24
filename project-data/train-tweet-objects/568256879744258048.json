@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "id": "568256879744258048",
+    "text": "@assholeofday wonder if he considered how he'd be here without one?!",
+    "source": "Echofon",
+    "created_at": "2015-02-19T03:52:52.000Z"
+}

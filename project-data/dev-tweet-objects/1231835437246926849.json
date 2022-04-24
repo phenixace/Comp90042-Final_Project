@@ -1,0 +1,45 @@
+{
+    "created_at": "2020-02-24T06:57:09.000Z",
+    "text": "Q: What can I do to protect myself from #coronavirus?\n\nA: https://t.co/PKzKaO2yfK \n\n#COVID19",
+    "id": "1231835437246926849",
+    "source": "Twitter for Advertisers.",
+    "entities": {
+        "urls": [
+            {
+                "start": 58,
+                "end": 81,
+                "url": "https://t.co/PKzKaO2yfK",
+                "expanded_url": "http://bit.ly/2tMEBmu",
+                "display_url": "bit.ly/2tMEBmu",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 796
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1509683460473982996/tgQ5BGXh?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "Coronavirus disease (COVID-19)",
+                "description": "Latest update 13 May 2021 - WHO is continuously monitoring and responding to this pandemic. This Q&A will be updated as more is known about COVID-19, how it spreads and how it is affecting people worldwide. For more information, regularly check the WHO coronavirus pages. https://www.who.int/covid-19",
+                "unwound_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 40,
+                "end": 52,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 84,
+                "end": 92,
+                "tag": "COVID19"
+            }
+        ]
+    }
+}

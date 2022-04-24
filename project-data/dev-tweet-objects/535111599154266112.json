@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "nypost",
+                "id": "17469289"
+            }
+        ]
+    },
+    "created_at": "2014-11-19T16:45:21.000Z",
+    "id": "535111599154266112",
+    "text": "@nypost \"about a week ago\" is how ADULTS here talk sometimes, and not all teens talk like that."
+}

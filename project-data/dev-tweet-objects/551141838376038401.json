@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-02T22:23:48.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            },
+            {
+                "start": 33,
+                "end": 44,
+                "username": "AlanColmes",
+                "id": "1369316356563341322"
+            }
+        ]
+    },
+    "id": "551141838376038401",
+    "text": "@FoxNews This looks like a story @AlanColmes would post."
+}

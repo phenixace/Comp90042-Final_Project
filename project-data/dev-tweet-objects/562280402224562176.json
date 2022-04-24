@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 5,
+                "end": 12,
+                "username": "Forbes",
+                "id": "91478624"
+            }
+        ],
+        "urls": [
+            {
+                "start": 114,
+                "end": 136,
+                "url": "http://t.co/YwaaTlnuvb",
+                "expanded_url": "http://onforb.es/1BU8P0v",
+                "display_url": "onforb.es/1BU8P0v"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 27,
+                "probability": 0.1943,
+                "type": "Other",
+                "normalized_text": "Madden NFL 15"
+            },
+            {
+                "start": 51,
+                "end": 58,
+                "probability": 0.9856,
+                "type": "Organization",
+                "normalized_text": "Patriots"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "RT: “@Forbes: \"Madden NFL 15\" not only predicted a Patriots victory, but also predicted the final score of 28-24: http://t.co/YwaaTlnuvb”",
+    "id": "562280402224562176",
+    "created_at": "2015-02-02T16:04:29.000Z"
+}

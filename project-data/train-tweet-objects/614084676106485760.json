@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 22,
+                "username": "Tinarsjn",
+                "id": "73985632"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 @Tinarsjn we called it 👆🏻👆🏻",
+    "id": "614084676106485760",
+    "created_at": "2015-06-25T14:56:10.000Z"
+}

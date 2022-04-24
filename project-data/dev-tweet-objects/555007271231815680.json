@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2015-01-13T14:23:39.000Z",
+    "id": "555007271231815680",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "text": "@FoxNews we better stop making snowmen we wouldn't want to offend anyone⛄️⛄️⛄️⛄️"
+}

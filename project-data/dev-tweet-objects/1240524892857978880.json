@@ -1,0 +1,29 @@
+{
+    "id": "1240524892857978880",
+    "created_at": "2020-03-19T06:25:56.000Z",
+    "source": "Twitter Web App",
+    "text": "Here are some simple measures that you can adopt to prevent the spread of #coronavirus:\n\n1⃣ follow the Golden Rule. Wash your hands frequently with soap and water 🧼💦🤲 or use alcohol-based hand rub 🧴\n\nStay tuned for more....\n\n#COVID-19 https://t.co/a3KSnutcnd",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 86,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 225,
+                "end": 231,
+                "tag": "COVID"
+            }
+        ],
+        "urls": [
+            {
+                "start": 235,
+                "end": 258,
+                "url": "https://t.co/a3KSnutcnd",
+                "expanded_url": "https://twitter.com/WHOSEARO/status/1240524892857978880/photo/1",
+                "display_url": "pic.twitter.com/a3KSnutcnd"
+            }
+        ]
+    }
+}

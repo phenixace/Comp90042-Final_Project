@@ -1,0 +1,34 @@
+{
+    "text": "@CNN @CNNSitRoom @HillaryClinton @BernieSanders BERRRRRNNNN",
+    "created_at": "2015-09-11T02:35:36.000Z",
+    "id": "642164560783261696",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "username": "CNNSitRoom",
+                "id": "34310801"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 33,
+                "end": 47,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

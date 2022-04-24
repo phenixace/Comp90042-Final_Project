@@ -1,0 +1,35 @@
+{
+    "source": "Twitter for Android Tablets",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "YorkCocoaHouse",
+                "id": "411012969"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "username": "Sammychelle27",
+                "id": "379704442"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 74,
+                "end": 91,
+                "tag": "mylifewillbeover"
+            }
+        ]
+    },
+    "created_at": "2014-11-17T18:50:00.000Z",
+    "text": "@YorkCocoaHouse @Sammychelle27 @Independent OMG I best start stocking up. #mylifewillbeover",
+    "id": "534418191548940289"
+}

@@ -1,0 +1,58 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "Redeyebronson",
+                "id": "813911665427156993"
+            },
+            {
+                "start": 15,
+                "end": 24,
+                "username": "SebGorka",
+                "id": "2417586104"
+            },
+            {
+                "start": 25,
+                "end": 41,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 87,
+                "end": 91,
+                "probability": 0.9951,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 253,
+                "end": 258,
+                "probability": 0.9974,
+                "type": "Place",
+                "normalized_text": "France"
+            },
+            {
+                "start": 271,
+                "end": 273,
+                "probability": 0.75,
+                "type": "Organization",
+                "normalized_text": "FDA"
+            },
+            {
+                "start": 285,
+                "end": 293,
+                "probability": 0.8127,
+                "type": "Organization",
+                "normalized_text": "Democrats"
+            }
+        ]
+    },
+    "created_at": "2020-03-30T22:47:10.000Z",
+    "id": "1244758091096158208",
+    "text": "@Redeyebronson @SebGorka @realDonaldTrump He made the correct call banning travel from China at the end of January. Whereupon you people attacked him because \"COVID-19 is just like the flu\".\nHe called it right on chloroquine, which has been approved in France and by the FDA.\nEven the Democrats agree his North American"
+}

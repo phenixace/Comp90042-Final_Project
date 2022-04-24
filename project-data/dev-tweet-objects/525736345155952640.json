@@ -1,0 +1,16 @@
+{
+    "id": "525736345155952640",
+    "created_at": "2014-10-24T19:51:27.000Z",
+    "source": "Twitter Web Client",
+    "text": "@DoutorCaligari @ABC Que fofa! Me fez até ler outra coisa no lugar de puppy...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 16,
+                "end": 20,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    }
+}

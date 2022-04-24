@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "mr_joshhern",
+                "id": "21395919"
+            },
+            {
+                "start": 13,
+                "end": 26,
+                "username": "assholeofday",
+                "id": "1377719425"
+            }
+        ]
+    },
+    "id": "567912347324407808",
+    "text": "@mr_joshhern @assholeofday Yep. But, what do I know, I'm a lesser cut of meat.",
+    "source": "Twitter for iPhone",
+    "created_at": "2015-02-18T05:03:49.000Z"
+}

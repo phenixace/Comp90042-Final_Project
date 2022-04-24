@@ -1,0 +1,43 @@
+{
+    "text": "@Telegraph  [ SUPPORT ] #CharlieHebdo and #FreedomOfSpeech ! http://t.co/cuSCCzdwdg via @ChangeFrance",
+    "source": "Twitter Web Client",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 24,
+                "end": 37,
+                "tag": "CharlieHebdo"
+            },
+            {
+                "start": 42,
+                "end": 58,
+                "tag": "FreedomOfSpeech"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            },
+            {
+                "start": 88,
+                "end": 101,
+                "username": "ChangeFrance",
+                "id": "603139314"
+            }
+        ],
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/cuSCCzdwdg",
+                "expanded_url": "http://chn.ge/1xRjBmE",
+                "display_url": "chn.ge/1xRjBmE"
+            }
+        ]
+    },
+    "created_at": "2015-01-08T10:31:04.000Z",
+    "id": "553136800370540544"
+}

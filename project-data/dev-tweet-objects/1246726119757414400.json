@@ -1,0 +1,44 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 56,
+                "end": 68,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 104,
+                "end": 110,
+                "tag": "COVID"
+            },
+            {
+                "start": 234,
+                "end": 248,
+                "tag": "KomeshaCorona"
+            }
+        ],
+        "urls": [
+            {
+                "start": 210,
+                "end": 233,
+                "url": "https://t.co/cqzvgP33Qh",
+                "expanded_url": "http://www.health.go.ke",
+                "display_url": "health.go.ke",
+                "status": 200,
+                "title": "MINISTRY OF HEALTH – REPUBLIC OF KENYA",
+                "unwound_url": "https://www.health.go.ke/"
+            },
+            {
+                "start": 249,
+                "end": 272,
+                "url": "https://t.co/aD3ZrtWvhJ",
+                "expanded_url": "https://twitter.com/MOH_Kenya/status/1246726119757414400/photo/1",
+                "display_url": "pic.twitter.com/aD3ZrtWvhJ"
+            }
+        ]
+    },
+    "text": "📢ALERT📢\n\nTaking a hot ♨️🛀🚿bath does not prevent the new #coronavirus disease.\n\nProtect yourself against #COVID-19 is by \n✅Frequently cleaning your hands\n✅Avoid touching your eyes, mouth, and nose.\n\nRead more ➡️https://t.co/cqzvgP33Qh\n#KomeshaCorona https://t.co/aD3ZrtWvhJ",
+    "source": "Twitter Web App",
+    "created_at": "2020-04-05T09:07:24.000Z",
+    "id": "1246726119757414400"
+}

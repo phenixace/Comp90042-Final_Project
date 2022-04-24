@@ -1,0 +1,58 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-02-03T20:22:11.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "RGlobalism",
+                "id": "817499242327638020"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 26,
+                "end": 35,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 57,
+                "end": 65,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "id": "1224427885705998355",
+    "text": "@RGlobalism @WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Well.... there are people out there believing also that drinking bleach can cure them, so.. I would actually say nothing and let the natural selection do its course if it wasn't that also kids have access to internet and have no fault for their useless parents."
+}

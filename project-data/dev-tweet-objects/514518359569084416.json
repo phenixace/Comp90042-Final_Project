@@ -1,0 +1,16 @@
+{
+    "text": "@Gizmodo Weren't bendable devices touted as a technological success just a mere few years ago via bendable OLED?",
+    "created_at": "2014-09-23T20:55:10.000Z",
+    "id": "514518359569084416",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gizmodo",
+                "id": "2890961"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

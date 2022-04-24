@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-10-17T15:55:48.000Z",
+    "text": "@BBCBreaking @BBCWorld congrats on that - those poor girls, wonder what kind of hell they have endured, glad for them to get back home",
+    "id": "523140328518606848",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BBCBreaking",
+                "id": "5402612"
+            },
+            {
+                "start": 13,
+                "end": 22,
+                "username": "BBCWorld",
+                "id": "742143"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

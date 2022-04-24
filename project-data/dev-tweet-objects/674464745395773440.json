@@ -1,0 +1,32 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "annotations": [
+            {
+                "start": 45,
+                "end": 50,
+                "probability": 0.7265,
+                "type": "Person",
+                "normalized_text": "cheney"
+            },
+            {
+                "start": 78,
+                "end": 84,
+                "probability": 0.9984,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "AmericaSpirit16",
+                "id": "3402272045"
+            }
+        ]
+    },
+    "created_at": "2015-12-09T05:45:00.000Z",
+    "text": "@AmericaSpirit16 Anyone too extreme for dick cheney cannot win an election in America period end of discussion",
+    "id": "674464745395773440"
+}

@@ -1,0 +1,25 @@
+{
+    "text": "@WHO For more information:\n\nhttps://t.co/lfkhFEN4ag",
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "urls": [
+            {
+                "start": 28,
+                "end": 51,
+                "url": "https://t.co/lfkhFEN4ag",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+                "display_url": "who.int/news-room/q-a-…"
+            }
+        ]
+    },
+    "created_at": "2020-03-02T04:35:58.000Z",
+    "id": "1234336621190729732"
+}

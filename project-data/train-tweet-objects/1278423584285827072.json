@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-07-01T20:21:49.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 21,
+                "end": 37,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "id": "1278423584285827072",
+    "text": "@AlexBerenson Why is @realDonaldTrump not demanding this?"
+}

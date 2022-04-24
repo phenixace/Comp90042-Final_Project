@@ -1,0 +1,37 @@
+{
+    "text": "@CNN @HillaryClinton @BernieSanders why isnt' bill helping hillary. might give her more support. or ppl take notice",
+    "created_at": "2015-09-11T01:39:58.000Z",
+    "id": "642150560011980800",
+    "entities": {
+        "annotations": [
+            {
+                "start": 59,
+                "end": 65,
+                "probability": 0.9925,
+                "type": "Person",
+                "normalized_text": "hillary"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 20,
+                "username": "HillaryClinton",
+                "id": "1339835893"
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "username": "BernieSanders",
+                "id": "216776631"
+            }
+        ]
+    },
+    "source": "Twitter for Windows"
+}

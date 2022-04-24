@@ -1,0 +1,16 @@
+{
+    "text": "@politico Looks like the circus is in town.",
+    "created_at": "2015-06-27T02:05:49.000Z",
+    "id": "614615587571007488",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "politico",
+                "id": "9300262"
+            }
+        ]
+    },
+    "source": "Twitter for iPad"
+}

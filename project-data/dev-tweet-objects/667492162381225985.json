@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "snopes",
+                "id": "14294848"
+            },
+            {
+                "start": 46,
+                "end": 54,
+                "username": "Glinner",
+                "id": "7076492"
+            }
+        ]
+    },
+    "created_at": "2015-11-19T23:58:27.000Z",
+    "id": "667492162381225985",
+    "text": "@snopes The camera is just stealing her soul. @Glinner",
+    "source": "Twitter for Android"
+}

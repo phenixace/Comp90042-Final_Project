@@ -1,0 +1,22 @@
+{
+    "text": "@businessinsider @cooper_m Otterbox it Doh!",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "BusinessInsider",
+                "id": "20562637"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "username": "cooper_m",
+                "id": "36909693"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T22:49:46.000Z",
+    "id": "514547196226961408"
+}

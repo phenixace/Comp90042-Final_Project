@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "barrycunningham",
+                "id": "14336645"
+            },
+            {
+                "start": 17,
+                "end": 33,
+                "username": "lauderdaleagent",
+                "id": "14894013"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "@barrycunningham @lauderdaleagent  military-aged men just left the women and children in the warzone.",
+    "id": "665574090648850432",
+    "created_at": "2015-11-14T16:56:43.000Z"
+}

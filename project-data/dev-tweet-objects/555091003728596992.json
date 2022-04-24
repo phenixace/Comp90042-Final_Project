@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-13T19:56:23.000Z",
+    "id": "555091003728596992",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "QuiquitoMelende",
+                "id": "468909841"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "text": "@QuiquitoMelende @FoxNews whattttttttttttt....OMG"
+}

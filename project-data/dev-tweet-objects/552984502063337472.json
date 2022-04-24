@@ -1,0 +1,43 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 87,
+                "end": 109,
+                "url": "http://t.co/5NoNuqJSu1",
+                "expanded_url": "http://u.afp.com/Rhs",
+                "display_url": "u.afp.com/Rhs"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 55,
+                "end": 60,
+                "probability": 0.9955,
+                "type": "Place",
+                "normalized_text": "France"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 7,
+                "tag": "UPDATE"
+            },
+            {
+                "start": 110,
+                "end": 124,
+                "tag": "JeSuisCharlie"
+            },
+            {
+                "start": 125,
+                "end": 138,
+                "tag": "CharlieHebdo"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "#UPDATE Three men including two brothers identified in France newspaper attack: source http://t.co/5NoNuqJSu1 #JeSuisCharlie #CharlieHebdo",
+    "created_at": "2015-01-08T00:25:53.000Z",
+    "id": "552984502063337472"
+}

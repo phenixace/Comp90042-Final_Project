@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IndiaNeighbors",
+                "id": "1186951271049129985"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "@IndiaNeighbors Be carefull",
+    "id": "1245038183810621441",
+    "created_at": "2020-03-31T17:20:09.000Z"
+}

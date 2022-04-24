@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/4tJwi28uGg",
+                "expanded_url": "http://www.macworld.co.uk/feature/apple/who-is-steve-jobs-syrian-immigrant-father-abdul-fattah-jandali-3624958/",
+                "display_url": "macworld.co.uk/feature/apple/…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "BrinleyEvans",
+                "id": "1397302117438791681"
+            }
+        ]
+    },
+    "created_at": "2015-10-25T00:14:39.000Z",
+    "source": "Twitter for Android",
+    "id": "658074154604752896",
+    "text": "@BrinleyEvans @EconBizFin no, both of them put him up for adoption. https://t.co/4tJwi28uGg"
+}

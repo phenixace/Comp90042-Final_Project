@@ -1,0 +1,45 @@
+{
+    "id": "1247210459058647040",
+    "created_at": "2020-04-06T17:12:00.000Z",
+    "source": "Twitter Web App",
+    "text": "CONT'\nso that the virus is ineffective....\n\n#40\nhttps://t.co/GK24RrKtyd\n#Covid19 #Rwot https://t.co/f9Sv9bVzLC",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 72,
+                "end": 80,
+                "tag": "Covid19"
+            },
+            {
+                "start": 81,
+                "end": 86,
+                "tag": "Rwot"
+            }
+        ],
+        "urls": [
+            {
+                "start": 48,
+                "end": 71,
+                "url": "https://t.co/GK24RrKtyd",
+                "expanded_url": "http://thenyacyesajurujesse.wordpress.com/2020/03/28/notice-on-pandemic-covid-19/",
+                "display_url": "thenyacyesajurujesse.wordpress.com/2020/03/28/not…",
+                "status": 200,
+                "unwound_url": "https://thenyacyesajurujesse.wordpress.com/2020/03/28/notice-on-pandemic-covid-19/"
+            },
+            {
+                "start": 87,
+                "end": 110,
+                "url": "https://t.co/f9Sv9bVzLC",
+                "expanded_url": "https://twitter.com/Nyac_juru_jesse/status/1247210459058647040/photo/1",
+                "display_url": "pic.twitter.com/f9Sv9bVzLC"
+            },
+            {
+                "start": 87,
+                "end": 110,
+                "url": "https://t.co/f9Sv9bVzLC",
+                "expanded_url": "https://twitter.com/Nyac_juru_jesse/status/1247210459058647040/photo/1",
+                "display_url": "pic.twitter.com/f9Sv9bVzLC"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 11,
+                "end": 16,
+                "probability": 0.9803,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            }
+        ]
+    },
+    "created_at": "2020-06-10T14:01:10.000Z",
+    "source": "Twitter Web App",
+    "text": "So what is Sweden pursuing, exactly? The strategy rests on a few pillars. \n1) lockdowns are wrong \n2) you are delaying deaths into the future \n3) we are building herd immunity \n4) we can spread the virus safely \n\nDebunked, one by one",
+    "id": "1270717649077415941"
+}

@@ -1,0 +1,36 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-11T06:10:46.000Z",
+    "id": "1248855995331366914",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "AJEnglish",
+                "id": "4970411"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 111,
+                "end": 121,
+                "probability": 0.9211,
+                "type": "Place",
+                "normalized_text": "South Korea"
+            }
+        ],
+        "urls": [
+            {
+                "start": 252,
+                "end": 275,
+                "url": "https://t.co/vONO6LnrCr",
+                "expanded_url": "https://youtu.be/Mp13IF7DTBs",
+                "display_url": "youtu.be/Mp13IF7DTBs",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=Mp13IF7DTBs&feature=youtu.be"
+            }
+        ]
+    },
+    "text": "@AJEnglish @Coronadays2020 Antibiotics work on bacterial pneumonia you fools. That’s what kills not the virus.\nSouth Korea have the antiviral for viral pneumonia too so nobody should die if pneumonia is treated early.\nAlso the stats are all bullshit!\n https://t.co/vONO6LnrCr"
+}

@@ -1,0 +1,37 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "DrHob0",
+                "id": "117347753"
+            },
+            {
+                "start": 8,
+                "end": 19,
+                "username": "goregirlfx",
+                "id": "27167293"
+            },
+            {
+                "start": 20,
+                "end": 36,
+                "username": "yagiirlalyssaaa",
+                "id": "794793350"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 223,
+                "end": 229,
+                "probability": 0.6642,
+                "type": "Product",
+                "normalized_text": "Twitter"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "id": "1245280776754614272",
+    "created_at": "2020-04-01T09:24:08.000Z",
+    "text": "@DrHob0 @goregirlfx @yagiirlalyssaaa Fyi these are just links to CDC and WHO info pages. I see your point so I'm not going to push for neither camp pro-home remedies or anti-home remedies. So I'm just going to go and enjoy Twitter."
+}

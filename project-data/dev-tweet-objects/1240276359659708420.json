@@ -1,0 +1,34 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 51,
+                "end": 74,
+                "url": "https://t.co/2Nvk1TDORq",
+                "expanded_url": "https://twitter.com/sidhika_trisha/status/1240276359659708420/photo/1",
+                "display_url": "pic.twitter.com/2Nvk1TDORq"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 15,
+                "tag": "COVID2019india"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "tag": "WHOMythBuster"
+            },
+            {
+                "start": 31,
+                "end": 50,
+                "tag": "KHKTCoronaCampaign"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "text": "#COVID2019india #WHOMythBuster #KHKTCoronaCampaign https://t.co/2Nvk1TDORq",
+    "created_at": "2020-03-18T13:58:22.000Z",
+    "id": "1240276359659708420"
+}

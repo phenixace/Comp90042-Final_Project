@@ -1,0 +1,25 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2015-01-02T22:14:56.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "probability": 0.9823,
+                "type": "Person",
+                "normalized_text": "Carson"
+            }
+        ]
+    },
+    "id": "551139604720386049",
+    "text": "@FoxNews Carson says brain can not feel pain and they should be awake"
+}

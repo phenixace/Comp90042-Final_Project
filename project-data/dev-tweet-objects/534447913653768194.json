@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/375uNA4qPe",
+                "expanded_url": "http://ind.pn/1qbHXaJ",
+                "display_url": "ind.pn/1qbHXaJ"
+            },
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/lSKMz296vj",
+                "expanded_url": "https://twitter.com/Independent/status/534364937939062784/photo/1",
+                "display_url": "pic.twitter.com/lSKMz296vj"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 25,
+                "username": "Independent",
+                "id": "16973333"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-11-17T20:48:06.000Z",
+    "text": "WHAT?! &gt; “@Independent: We are running out of chocolate, warns world's largest manufacturer\nhttp://t.co/375uNA4qPe http://t.co/lSKMz296vj”",
+    "id": "534447913653768194"
+}

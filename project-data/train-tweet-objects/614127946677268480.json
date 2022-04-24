@@ -1,0 +1,31 @@
+{
+    "source": "Fenix for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 13,
+                "end": 29,
+                "username": "craigcalcaterra",
+                "id": "94839848"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "username": "BillOReilly",
+                "id": "23970102"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 82,
+                "end": 88,
+                "probability": 0.9967,
+                "type": "Place",
+                "normalized_text": "America"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 @craigcalcaterra. @BillOreilly there's no racism or racial divide in America?",
+    "id": "614127946677268480",
+    "created_at": "2015-06-25T17:48:07.000Z"
+}

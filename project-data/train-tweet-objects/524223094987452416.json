@@ -1,0 +1,28 @@
+{
+    "id": "524223094987452416",
+    "created_at": "2014-10-20T15:38:20.000Z",
+    "source": "Twitter Web Client",
+    "text": "@fxnscitech @JennYach @LiveScience SCARIEST THING EVER!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "fxnscitech",
+                "id": "840878926700400640"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "JennYach",
+                "id": "132688318"
+            },
+            {
+                "start": 22,
+                "end": 34,
+                "username": "LiveScience",
+                "id": "15428397"
+            }
+        ]
+    }
+}

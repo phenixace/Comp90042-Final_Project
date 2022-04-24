@@ -1,0 +1,31 @@
+{
+    "id": "653001728355274752",
+    "created_at": "2015-10-11T00:18:38.000Z",
+    "source": "Twitter Web Client",
+    "text": "@CNN @realDonaldTrump Sure dude.  It's all about the alarming amount of psychopaths there are in the country. http://t.co/ZBOH06NOpu",
+    "entities": {
+        "urls": [
+            {
+                "start": 110,
+                "end": 132,
+                "url": "http://t.co/ZBOH06NOpu",
+                "expanded_url": "https://twitter.com/Pennie_Bennie/status/653001728355274752/photo/1",
+                "display_url": "pic.twitter.com/ZBOH06NOpu"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

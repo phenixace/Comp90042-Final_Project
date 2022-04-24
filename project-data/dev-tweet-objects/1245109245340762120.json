@@ -1,0 +1,28 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "BrobanGrian",
+                "id": "1227677444670468096"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "username": "M8mouse",
+                "id": "21953360"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "id": "1245109245340762120",
+    "text": "@BrobanGrian @M8mouse @nytimes No, because it doesn't tell you anything about what it does to the body. There's a reason why the WHO put out guidelines for naming new viruses, although unfortunately the system is still not 100% on track.",
+    "created_at": "2020-03-31T22:02:31.000Z"
+}

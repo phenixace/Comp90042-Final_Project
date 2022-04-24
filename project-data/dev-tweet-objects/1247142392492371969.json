@@ -1,0 +1,31 @@
+{
+    "id": "1247142392492371969",
+    "created_at": "2020-04-06T12:41:31.000Z",
+    "source": "Twitter Web App",
+    "text": "- Listen and practice your Government instructions.\n\nINCUBATION PERIOD FOR COVID-19\nIt means the period between catching the virus and the beginning to show symptoms of the disease. \n\n#22\nhttps://t.co/GK24RrKtyd\n#Covid19 #Rwot",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 212,
+                "end": 220,
+                "tag": "Covid19"
+            },
+            {
+                "start": 221,
+                "end": 226,
+                "tag": "Rwot"
+            }
+        ],
+        "urls": [
+            {
+                "start": 188,
+                "end": 211,
+                "url": "https://t.co/GK24RrKtyd",
+                "expanded_url": "http://thenyacyesajurujesse.wordpress.com/2020/03/28/notice-on-pandemic-covid-19/",
+                "display_url": "thenyacyesajurujesse.wordpress.com/2020/03/28/not…",
+                "status": 200,
+                "unwound_url": "https://thenyacyesajurujesse.wordpress.com/2020/03/28/notice-on-pandemic-covid-19/"
+            }
+        ]
+    }
+}

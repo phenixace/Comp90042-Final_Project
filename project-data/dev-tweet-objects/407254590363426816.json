@@ -1,0 +1,26 @@
+{
+    "source": "dlvr.it",
+    "entities": {
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/pzJABdo4P8",
+                "expanded_url": "http://eonli.ne/IxWRTn",
+                "display_url": "eonli.ne/IxWRTn"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 73,
+                "probability": 0.9792,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ]
+    },
+    "created_at": "2013-12-01T21:07:15.000Z",
+    "id": "407254590363426816",
+    "text": "Fast and Furious 7 \"Delayed\" But \"Won't Be Scrapped\" Following Paul Walker's Death: Report http://t.co/pzJABdo4P8"
+}

@@ -1,0 +1,31 @@
+{
+    "created_at": "2014-08-18T21:22:29.000Z",
+    "id": "501479269210787840",
+    "entities": {
+        "annotations": [
+            {
+                "start": 121,
+                "end": 125,
+                "probability": 0.6821,
+                "type": "Person",
+                "normalized_text": "POTUS"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            },
+            {
+                "start": 127,
+                "end": 139,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump  oh grow up you don't lead by good example ... there is nothing honorable in constantly finding fault w POTUS @BarackObama",
+    "source": "Twitter Web Client"
+}

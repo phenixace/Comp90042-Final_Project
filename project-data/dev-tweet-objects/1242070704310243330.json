@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 74,
+                "end": 97,
+                "url": "https://t.co/2bTOAnhzZW",
+                "expanded_url": "https://twitter.com/erfinamei/status/1242070704310243330/photo/1",
+                "display_url": "pic.twitter.com/2bTOAnhzZW"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "text": "9. Do vaccines against pneumonia protect you against the new coronavirus? https://t.co/2bTOAnhzZW",
+    "created_at": "2020-03-23T12:48:27.000Z",
+    "id": "1242070704310243330"
+}

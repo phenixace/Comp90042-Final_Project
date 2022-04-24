@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "hunterschwarz",
+                "id": "18939358"
+            }
+        ]
+    },
+    "created_at": "2015-06-27T04:10:38.000Z",
+    "text": "@hunterschwarz A sad day for our country indeed .. What have we lowered ourselves to?",
+    "id": "614646997379862529"
+}

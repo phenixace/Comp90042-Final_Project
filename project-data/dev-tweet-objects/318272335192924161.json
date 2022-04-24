@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 75,
+                "end": 81,
+                "probability": 0.6051,
+                "type": "Product",
+                "normalized_text": "twitter"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "PicturesEarth",
+                "id": "1260504658600222726"
+            }
+        ]
+    },
+    "created_at": "2013-03-31T08:03:32.000Z",
+    "text": "@PicturesEarth people could learn a lot from one picture. You have a great twitter !",
+    "id": "318272335192924161"
+}

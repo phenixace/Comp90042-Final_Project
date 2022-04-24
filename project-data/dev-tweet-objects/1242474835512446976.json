@@ -1,0 +1,15 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-03-24T15:34:19.000Z",
+    "text": "#Coronavirus Myths You Mustn't believe\nRT to save someone \n\n1. Hand dryers kill coronavirus\n\nHand dryers do not kill coronavirus. The best way to protect yourself and others from the virus is to wash your hands with soap and water or an alcohol-based hand rub.",
+    "id": "1242474835512446976",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 12,
+                "tag": "Coronavirus"
+            }
+        ]
+    }
+}

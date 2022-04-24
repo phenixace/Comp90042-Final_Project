@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for Windows Phone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 120,
+                "end": 125,
+                "probability": 0.818,
+                "type": "Person",
+                "normalized_text": "Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "eonline",
+                "id": "725665248280236032"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 114,
+                "end": 119,
+                "tag": "Paul"
+            }
+        ]
+    },
+    "created_at": "2013-12-02T08:39:59.000Z",
+    "text": "@eonline This is very sad news, what started out as a hoax turned to be a reality..1 of my fav action heroes..RIP #Paul Walker..",
+    "id": "407428921508917248"
+}

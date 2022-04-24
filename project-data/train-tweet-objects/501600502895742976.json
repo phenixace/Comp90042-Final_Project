@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-08-19T05:24:13.000Z",
+    "id": "501600502895742976",
+    "entities": {
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "probability": 0.9059,
+                "type": "Person",
+                "normalized_text": "Nelson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    },
+    "text": "@realDonaldTrump- Nelson, it's a travesty people are out to find fault. Irrelevant to the post. Don's a genius. He overcomes &amp; triumphs! ;-)",
+    "source": "Twitter Web App"
+}

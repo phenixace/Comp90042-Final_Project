@@ -1,0 +1,40 @@
+{
+    "id": "525000637491462145",
+    "text": "@KatyKatopodis @AP maybe this story also deserves some focus heres the video you decide https://t.co/2Fe5wssR6P terror attack in Israel 2day",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "KatyKatopodis",
+                "id": "80817644"
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ],
+        "urls": [
+            {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/2Fe5wssR6P",
+                "expanded_url": "https://m.facebook.com/story.php?story_fbid=10152449462533225&id=690623224",
+                "display_url": "m.facebook.com/story.php?stor…"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 129,
+                "end": 134,
+                "probability": 0.98,
+                "type": "Place",
+                "normalized_text": "Israel"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "created_at": "2014-10-22T19:08:00.000Z"
+}

@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 43,
+                "probability": 0.7022,
+                "type": "Person",
+                "normalized_text": "Americans"
+            }
+        ]
+    },
+    "text": "@NewsWatch33 Beyond sick. A lot of Americans condone executing people due to their race. Sad world. 😔",
+    "id": "614089258148737024",
+    "created_at": "2015-06-25T15:14:23.000Z"
+}

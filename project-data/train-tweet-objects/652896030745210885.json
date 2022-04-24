@@ -1,0 +1,22 @@
+{
+    "id": "652896030745210885",
+    "created_at": "2015-10-10T17:18:38.000Z",
+    "source": "Twitter for Android",
+    "text": "@CNN @realDonaldTrump he is just amazing..",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "CNN",
+                "id": "759251"
+            },
+            {
+                "start": 5,
+                "end": 21,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+            }
+        ]
+    }
+}

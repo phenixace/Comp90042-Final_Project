@@ -1,0 +1,40 @@
+{
+    "source": "Twitter for iPad",
+    "created_at": "2020-07-01T05:35:17.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "AlexBerenson",
+                "id": "87679233"
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "username": "VP",
+                "id": "803694179079458816"
+            },
+            {
+                "start": 18,
+                "end": 28,
+                "username": "GovAbbott",
+                "id": "19291441"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 182,
+                "end": 190,
+                "tag": "COVID19"
+            },
+            {
+                "start": 191,
+                "end": 201,
+                "tag": "COVID19TX"
+            }
+        ]
+    },
+    "id": "1278200482520072192",
+    "text": "@AlexBerenson @VP @GovAbbott \nAntibody tests that are positive for ANTIBODIES is like having your own vaccine on board.\nDo more testing for antibodies, viral tests when symptomatic.\n#COVID19 #COVID19TX"
+}
