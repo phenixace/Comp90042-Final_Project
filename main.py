@@ -11,18 +11,16 @@ parser = argparse.ArgumentParser(description='Model parameters')
 
 parser.add_argument('--random_seed', type=int, default=1022, help='Choose random_seed')
 parser.add_argument('--model', default='bart',help='Sevral models are available: Bart | Bert | T5')
-parser.add_argument('--model_path', default='./models/bart-base/checkpoint/bart-step-1600', help="use local model weights if specified")
-parser.add_argument('--save_path', default='./models/bart-base', help="where to save the model")
-parser.add_argument('--model_size', type=str, default='small', help='PLM model size: small | base | large')
-parser.add_argument('--total_steps', type=int, default=2000, help='Set training steps')
-parser.add_argument('--eval_steps', type=int, default=400, help='Set evaluation steps')
-parser.add_argument('--batch_size', type=int, default=4, help='Set batch size')
-parser.add_argument('--dropout', type=float, default=0.4,help='Set dropout rate')
+parser.add_argument('--model_path', default='none', help="use local model weights if specified")
+parser.add_argument('--save_path', default='./models/bart-large', help="where to save the model")
+parser.add_argument('--total_steps', type=int, default=4000, help='Set training steps')
+parser.add_argument('--eval_steps', type=int, default=500, help='Set evaluation steps')
+parser.add_argument('--batch_size', type=int, default=2, help='Set batch size')
 parser.add_argument('--lr', type=float, default=5e-3, help='Set learning rate')
 parser.add_argument('--optim', default='Adam', help='Choose optimizer')
 parser.add_argument('--warmup_steps', type=int, default=1000, help='WarmUp Steps')
 parser.add_argument('--lrscheduler', action='store_true', help='Apply LRScheduler')
-parser.add_argument('--mode', default='test',help='train, test, or inference')
+parser.add_argument('--mode', default='train',help='train, test, or inference')
 parser.add_argument('--device', default='cuda:0',help='Device')
 
 if __name__ == '__main__':
@@ -33,8 +31,8 @@ if __name__ == '__main__':
     # load models
     if args.model == 'bart':
         if args.model_path == "none":
-            model = transformers.BartForSequenceClassification.from_pretrained('facebook/bart-base', num_labels = 2)
-            tokenizer = transformers.BartTokenizer.from_pretrained('facebook/bart-base')
+            model = transformers.BartForSequenceClassification.from_pretrained('facebook/bart-large', num_labels = 2)
+            tokenizer = transformers.BartTokenizer.from_pretrained('facebook/bart-large')
         else:
             model = transformers.BartForSequenceClassification.from_pretrained(args.model_path, num_labels = 2)
             tokenizer = transformers.BartTokenizer.from_pretrained(args.model_path)
@@ -136,7 +134,7 @@ if __name__ == '__main__':
     # testing
     elif args.mode == 'test':
         model.eval()
-        test_sampler = RandomSampler(test_set)
+        test_sampler = SequentialSampler(test_set)
         test_loader = DataLoader(test_set, batch_size=args.batch_size, sampler=test_sampler, num_workers=0, collate_fn=collator)
 
         labels = []
