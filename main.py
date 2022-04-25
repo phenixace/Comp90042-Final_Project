@@ -148,12 +148,10 @@ if __name__ == '__main__':
 
                 labels += [item.argmax().item() for item in output]
         
-        with open('./project-data/test_pred.label.txt', 'w+') as f:
-            for item in labels:
-                if item == 0:
-                    f.write('nonrumour\n')
-                else:
-                    f.write('rumour\n')
+        with open('./project-data/test_pred.label.csv', 'w+') as f:
+            f.write('Id,Predicted')
+            for i in range(len(labels)):
+                f.write(str(i) + ',' + str(labels[i]))
 
 
     # inference
