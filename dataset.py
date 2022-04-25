@@ -7,31 +7,57 @@ class MyDataset(Dataset):
     def __init__(self, mode):
         super().__init__()
         self.mode = mode
-        self.sep = ' </s> '
-        instance_file = './project-data/' + mode + '.data.txt'      
+        self.sep = ' '
+        instance_file = './project-data/' + mode + '.data.txt'   
+        rm_file = './project-data/logs.txt' 
 
-        f = open(instance_file)
-        self.instance_lines = f.readlines()
-        f.close()
+        with open(rm_file, 'r') as f:
+            temp = f.readlines()
+        
+        with open(instance_file, 'r') as f:
+            instance_lines = f.readlines()
 
+        rm_instances = []
+        for item in temp:
+            rm_instances += item.strip('\n').split(',')
+
+        self.instances = []
+        not_found = []
+        for i in range(0, len(instance_lines)):
+            temp = instance_lines[i].strip('\n').split(',')
+            cur = []
+            for id in temp:
+                if id not in rm_instances:
+                    cur.append(id)
+            if len(cur) != 0:
+                self.instances.append(cur)
+            else:
+                not_found.append(i)
+
+        
         if self.mode != 'test':
             label_file = './project-data/' + mode + '.label.txt'
-            f = open(label_file)
-            self.label_lines = f.readlines()
-            f.close()
+            self.labels = []
+            with open(label_file) as f:
+                label_lines = f.readlines()
 
-            assert len(self.instance_lines) == len(self.label_lines), "Inconsistant number between instances and labels"
+            for i in range(0, len(label_lines)):
+                if i not in not_found:
+                    self.labels.append(label_lines[i])
+
+            assert len(self.instances) == len(self.labels), "Inconsistant number between instances and labels"
 
     def __getitem__(self, index):
-        temp = self.instance_lines[index].strip('\n').split(',')
+        temp = self.instances[index]
         text = ""
         for item in temp:
-            f = open('./project-data/tweet-objects/' + item + '.json')
+            f = open('./project-data/' +self.mode+ '-tweet-objects/' + item + '.json', 'r', encoding='utf-8')
             content = json.load(f)
             text += clean_text(content['text']).strip() + self.sep
+            f.close()
         text = text.strip()
         if self.mode != 'test':       
-            if self.label_lines[index].strip('\n') == "rumour": 
+            if self.labels[index].strip('\n') == "rumour": 
                 label = 1
             else:
                 label = 0
@@ -45,7 +71,7 @@ class MyDataset(Dataset):
             }
 
     def __len__(self):
-        return len(self.instance_lines)
+        return len(self.instances)
 
 
 class Collator(object):
@@ -58,28 +84,33 @@ class Collator(object):
         text = self.tokenizer.batch_encode_plus(
             text,
             max_length=self.max_length if self.max_length > 0 else None,
-            pad_to_max_length=True,
+            padding = 'max_length',
             return_tensors='pt',
             truncation=True if self.max_length > 0 else False,
         )
 
         if 'label' in batch[0]:
             label = torch.tensor([item['label'] for item in batch])
-            return (text, label)
+            return (text, label)   
         else:
             return text
 
 
 if __name__ == '__main__':
-
-    instance_file = './project-data/' + 'train' + '.data.txt'      
-
-    f = open(instance_file)
-    instance_lines = f.readlines()
-    f.close()
-
-    num = 0
-    for line in instance_lines:
-        num += len(line.split(','))
-
-    print(num)
+    import re
+    flag = True
+    while flag:
+        num = 0
+        train_set = MyDataset(mode = 'dev')
+        for i in range(0, len(train_set)):
+            try:
+                train_set[i]
+            except Exception as e:
+                print(e)
+                with open('./project-data/logs.txt', 'a+') as f:
+                    f.write(re.findall(r'[0-9]+', str(e))[1] + '\n')
+                    num += 1
+                    f.close()
+            
+        if num == 0:
+            flag = False

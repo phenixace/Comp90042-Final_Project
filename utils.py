@@ -1,4 +1,5 @@
 import re
+import os
 import torch
 
 def clean_text(text):
@@ -7,6 +8,7 @@ def clean_text(text):
     # clean URLs
     text = re.sub('((www\.[^\s]+)|(https?://[^\s]+))', '', text)
     # clean numbers
+    text = re.sub('[0-9]+\. ', '', text)
     text = re.sub('[0-9]+', '', text)
     # lower if neccessary
     # remove non-english words if neccessary
@@ -14,8 +16,12 @@ def clean_text(text):
     text = re.sub('  ', ' ', text)
     return text.lower()
 
-def save(model):
-    pass
+def save(model, tokenizer, dir_path, name):
+    path = os.path.join(dir_path, "checkpoint")
+    epoch_path = os.path.join(path, name)
+    os.makedirs(epoch_path, exist_ok=True)
+    model.save_pretrained(epoch_path)
+    tokenizer.save_pretrained(epoch_path)
 
 class FixedScheduler(torch.optim.lr_scheduler.LambdaLR):
     def __init__(self, optimizer, last_epoch=-1):
