@@ -149,9 +149,9 @@ if __name__ == '__main__':
                 labels += [item.argmax().item() for item in output]
         
         with open('./project-data/test_pred.label.csv', 'w+') as f:
-            f.write('Id,Predicted')
+            f.write('Id,Predicted\n')
             for i in range(len(labels)):
-                f.write(str(i) + ',' + str(labels[i]))
+                f.write(str(i) + ',' + str(labels[i]) + '\n')
 
 
     # inference
