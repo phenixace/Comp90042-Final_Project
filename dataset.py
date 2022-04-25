@@ -167,6 +167,7 @@ class Dataset4SKEP(Dataset):
             else:
                 self.data.append({
                     'text': text,
+                    'label': 0,
                     'qid':i
                 })
 

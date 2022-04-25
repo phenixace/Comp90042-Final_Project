@@ -1,5 +1,6 @@
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 import paddle
+import numpy as np
 
 def calc_accuracy_score(true_labels, pred_labels):
     return accuracy_score(true_labels, pred_labels, normalize=False) / len(true_labels)
