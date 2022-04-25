@@ -11,16 +11,16 @@ parser = argparse.ArgumentParser(description='Model parameters')
 
 parser.add_argument('--random_seed', type=int, default=1022, help='Choose random_seed')
 parser.add_argument('--model', default='bart',help='Sevral models are available: Bart | Bert | T5')
-parser.add_argument('--model_path', default='none', help="use local model weights if specified")
-parser.add_argument('--save_path', default='./models/bart-large', help="where to save the model")
-parser.add_argument('--total_steps', type=int, default=4000, help='Set training steps')
+parser.add_argument('--model_path', default='./models/bart-base/checkpoint/bart-step-4000', help="use local model weights if specified")
+parser.add_argument('--save_path', default='./models/bart-base', help="where to save the model")
+parser.add_argument('--total_steps', type=int, default=5000, help='Set training steps')
 parser.add_argument('--eval_steps', type=int, default=500, help='Set evaluation steps')
-parser.add_argument('--batch_size', type=int, default=2, help='Set batch size')
+parser.add_argument('--batch_size', type=int, default=4, help='Set batch size')
 parser.add_argument('--lr', type=float, default=5e-3, help='Set learning rate')
 parser.add_argument('--optim', default='Adam', help='Choose optimizer')
 parser.add_argument('--warmup_steps', type=int, default=1000, help='WarmUp Steps')
 parser.add_argument('--lrscheduler', action='store_true', help='Apply LRScheduler')
-parser.add_argument('--mode', default='train',help='train, test, or inference')
+parser.add_argument('--mode', default='test',help='train, test, or inference')
 parser.add_argument('--device', default='cuda:0',help='Device')
 
 if __name__ == '__main__':
@@ -31,8 +31,8 @@ if __name__ == '__main__':
     # load models
     if args.model == 'bart':
         if args.model_path == "none":
-            model = transformers.BartForSequenceClassification.from_pretrained('facebook/bart-large', num_labels = 2)
-            tokenizer = transformers.BartTokenizer.from_pretrained('facebook/bart-large')
+            model = transformers.BartForSequenceClassification.from_pretrained('facebook/bart-base', num_labels = 2)
+            tokenizer = transformers.BartTokenizer.from_pretrained('facebook/bart-base')
         else:
             model = transformers.BartForSequenceClassification.from_pretrained(args.model_path, num_labels = 2)
             tokenizer = transformers.BartTokenizer.from_pretrained(args.model_path)
@@ -97,7 +97,7 @@ if __name__ == '__main__':
                     (texts, labels) = batch
                     # print(texts, labels)
                     train_loss = model(**texts.to(args.device), labels=labels.to(args.device)).loss
-
+                    t.set_postfix(loss=train_loss.item())
                     train_loss.backward()
 
                     optimizer.step()
@@ -126,7 +126,7 @@ if __name__ == '__main__':
                         f1, precision, recall = calc_f1_score(all_pred_labels, all_ture_labels)
                         print("Step {}: Acc = {:2f}; F1 = {:2f}, P = {:2f}; R = {:2f}\n".format(step, acc, f1, precision, recall))
                         # save best
-                        if f1 > best_f1:
+                        if f1 >= best_f1:
                             save(model, tokenizer, args.save_path, args.model+'-step-'+str(step))
                             best_f1 = f1
                         model.train()
