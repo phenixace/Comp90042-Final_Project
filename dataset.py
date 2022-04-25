@@ -27,7 +27,10 @@ class MyDataset(Dataset):
             temp = instance_lines[i].strip('\n').split(',')
             cur = []
             for id in temp:
-                if id not in rm_instances:
+                if self.mode != 'test':
+                    if id not in rm_instances:
+                        cur.append(id)
+                else:
                     cur.append(id)
             if len(cur) != 0:
                 self.instances.append(cur)
@@ -97,20 +100,5 @@ class Collator(object):
 
 
 if __name__ == '__main__':
-    import re
-    flag = True
-    while flag:
-        num = 0
-        train_set = MyDataset(mode = 'dev')
-        for i in range(0, len(train_set)):
-            try:
-                train_set[i]
-            except Exception as e:
-                print(e)
-                with open('./project-data/logs.txt', 'a+') as f:
-                    f.write(re.findall(r'[0-9]+', str(e))[1] + '\n')
-                    num += 1
-                    f.close()
-            
-        if num == 0:
-            flag = False
+    test_set = MyDataset(mode='test')
+    print(len(test_set))
