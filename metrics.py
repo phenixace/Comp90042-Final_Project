@@ -3,7 +3,12 @@ import paddle
 import numpy as np
 
 def calc_accuracy_score(true_labels, pred_labels):
-    return accuracy_score(true_labels, pred_labels, normalize=False) / len(true_labels)
+    assert len(true_labels) == len(pred_labels)
+    num = 0
+    for i in range(0, len(true_labels)):
+        if int(true_labels[i]) == int(pred_labels[i]):
+            num += 1
+    return float(num / len(true_labels))
 
 def calc_f1_score(true_labels, pred_labels):
     return f1_score(true_labels, pred_labels), precision_score(true_labels, pred_labels), recall_score(true_labels, pred_labels)

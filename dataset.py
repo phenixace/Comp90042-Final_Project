@@ -2,6 +2,7 @@ from torch.utils.data import Dataset
 import json
 import torch
 from utils import clean_text
+import os
 
 class MyDataset(Dataset):
     def __init__(self, mode):
@@ -17,10 +18,6 @@ class MyDataset(Dataset):
         with open(instance_file, 'r') as f:
             instance_lines = f.readlines()
 
-        rm_instances = []
-        for item in temp:
-            rm_instances += item.strip('\n').split(',')
-
         self.instances = []
         not_found = []
         for i in range(0, len(instance_lines)):
@@ -28,7 +25,7 @@ class MyDataset(Dataset):
             cur = []
             for id in temp:
                 if self.mode != 'test':
-                    if id not in rm_instances:
+                    if os.path.exists('./project-data/tweet-objects/' + str(id)+'.json'):
                         cur.append(id)
                 else:
                     cur.append(id)
@@ -54,7 +51,7 @@ class MyDataset(Dataset):
         temp = self.instances[index]
         text = ""
         for item in temp:
-            f = open('./project-data/' +self.mode+ '-tweet-objects/' + item + '.json', 'r', encoding='utf-8')
+            f = open('./project-data/tweet-objects/' + item + '.json', 'r', encoding='utf-8')
             content = json.load(f)
             text += clean_text(content['text']).strip() + self.sep
             f.close()
@@ -111,10 +108,6 @@ class Dataset4SKEP(Dataset):
         with open(instance_file, 'r') as f:
             instance_lines = f.readlines()
 
-        rm_instances = []
-        for item in temp:
-            rm_instances += item.strip('\n').split(',')
-
         instances = []
         not_found = []
         for i in range(0, len(instance_lines)):
@@ -122,7 +115,7 @@ class Dataset4SKEP(Dataset):
             cur = []
             for id in temp:
                 if self.mode != 'test':
-                    if id not in rm_instances:
+                    if os.path.exists('./project-data/tweet-objects/' + str(id)+'.json'):
                         cur.append(id)
                 else:
                     cur.append(id)
@@ -149,7 +142,7 @@ class Dataset4SKEP(Dataset):
             temp = instances[i]
             text = ""
             for item in temp:
-                f = open('./project-data/' +self.mode+ '-tweet-objects/' + item + '.json', 'r', encoding='utf-8')
+                f = open('./project-data/tweet-objects/' + item + '.json', 'r', encoding='utf-8')
                 content = json.load(f)
                 text += clean_text(content['text']).strip() + self.sep
                 f.close()
@@ -178,5 +171,19 @@ class Dataset4SKEP(Dataset):
 
 
 if __name__ == '__main__':
-    test_set = MyDataset(mode='test')
-    print(len(test_set))
+    myset = MyDataset(mode='train')
+    tl = 0
+    ml = 0
+    num = 0
+    for i in range(0, len(myset)):
+        cur = len(myset[i]['text'].split(' '))
+        if cur > ml:
+            ml = cur
+        if cur > 512:
+            num += 1
+        tl += cur
+    print(myset.mode)
+    print('average length', tl / len(myset))
+    print('max length', ml)
+    print('Total instances', len(myset))
+    print('Greater than 512', num)

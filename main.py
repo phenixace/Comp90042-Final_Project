@@ -20,7 +20,7 @@ parser.add_argument('--lr', type=float, default=5e-3, help='Set learning rate')
 parser.add_argument('--optim', default='Adam', help='Choose optimizer')
 parser.add_argument('--warmup_steps', type=int, default=1000, help='WarmUp Steps')
 parser.add_argument('--lrscheduler', action='store_true', help='Apply LRScheduler')
-parser.add_argument('--mode', default='test',help='train, test, or inference')
+parser.add_argument('--mode', default='inference',help='train, test, or inference')
 parser.add_argument('--device', default='cuda:0',help='Device')
 
 if __name__ == '__main__':
@@ -155,9 +155,24 @@ if __name__ == '__main__':
     # inference
     elif args.mode == 'inference':
         model.eval()
-        text = input("Please input the text:")
-        text = tokenizer(text, return_tensors='pt')
-        output = model(**text.to(args.device))
+        dev_sampler = SequentialSampler(dev_set)
+        dev_loader = DataLoader(dev_set, batch_size=args.batch_size, sampler=dev_sampler, num_workers=0, collate_fn=collator)
+        index = 0
+        with tqdm(dev_loader) as t:
+            t.set_description("Dev")
+            for i, batch in enumerate(t):
+                (texts, labels) = batch
+                output = model(**texts.to(args.device), labels=labels.to(args.device)).logits
+                
+                pred_labels = [item.argmax().item() for item in output]
+
+                with open('results/inference.log.txt', 'a+') as f:
+                    for i in range(0, len(pred_labels)):
+                        if pred_labels[i] != labels[i]:
+                            f.write('Text:' + dev_set[index + i]['text'] + '\n')
+                            f.write('True:'+str(labels[i].data)+'\tPred:'+str(pred_labels[i])+'\n')
+
+                index += len(pred_labels)
 
     else:
         raise RuntimeError("[Error] Mode not in the scope!")
