@@ -4,6 +4,11 @@ import torch
 import numpy as np
 import paddle
 
+from nltk.corpus import stopwords
+stopwords = set(stopwords.words('english'))
+def clean_stopwords(text):
+    return ' '.join([word for word in text.split() if word not in stopwords])
+
 def clean_text(text):
     # clean @at, namely clean username
     text = re.sub('@[^\s]+', '', text)
@@ -12,10 +17,13 @@ def clean_text(text):
     # clean numbers
     text = re.sub('[0-9]+\. ', '', text)
     text = re.sub('[0-9]+', '', text)
-    # lower if neccessary
     # remove non-english words if neccessary
     text = re.sub('[^a-z^A-Z^ ^,^.^!^?^’]', '', text)
     text = re.sub('  ', ' ', text)
+
+    text = re.sub('covid', 'virus', text)
+    text = re.sub('coronavirus', 'virus', text)
+    # lower if neccessary
     return text.lower()
 
 def save(model, tokenizer, dir_path, name):

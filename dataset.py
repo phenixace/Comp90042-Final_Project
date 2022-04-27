@@ -50,10 +50,12 @@ class MyDataset(Dataset):
     def __getitem__(self, index):
         temp = self.instances[index]
         text = ""
+        raw_text = ""
         for item in temp:
             f = open('./project-data/tweet-objects/' + item + '.json', 'r', encoding='utf-8')
             content = json.load(f)
             text += clean_text(content['text']).strip() + self.sep
+            raw_text += content['text'] + self.sep
             f.close()
         text = text.strip()
         if self.mode != 'test':       
@@ -62,11 +64,13 @@ class MyDataset(Dataset):
             else:
                 label = 0
             return {
+                'raw_text':raw_text,
                 'text': text, 
                 'label': label
             }
         else:
             return {
+                'raw_text':raw_text,
                 'text': text
             }
 

@@ -166,10 +166,11 @@ if __name__ == '__main__':
                 
                 pred_labels = [item.argmax().item() for item in output]
 
-                with open('results/inference.log.txt', 'a+') as f:
+                with open('results/inference.log.txt', 'a+', encoding='utf-8') as f:
                     for i in range(0, len(pred_labels)):
                         if pred_labels[i] != labels[i]:
                             f.write('Text:' + dev_set[index + i]['text'] + '\n')
+                            f.write('Raw Text:' + dev_set[index + i]['raw_text'] + '\n')
                             f.write('True:'+str(labels[i].data)+'\tPred:'+str(pred_labels[i])+'\n')
 
                 index += len(pred_labels)
