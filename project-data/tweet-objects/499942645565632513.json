@@ -1,0 +1,45 @@
+{
+    "id": "499942645565632513",
+    "entities": {
+        "urls": [
+            {
+                "start": 58,
+                "end": 80,
+                "url": "http://t.co/L8qlzjmKfW",
+                "expanded_url": "http://on.ksdk.com/1ovtJPT",
+                "display_url": "on.ksdk.com/1ovtJPT"
+            },
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/DxZJXQe1dT",
+                "expanded_url": "https://twitter.com/ksdknews/status/499679379820412928/photo/1",
+                "display_url": "pic.twitter.com/DxZJXQe1dT"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 23,
+                "end": 33,
+                "tag": "MikeBrown"
+            },
+            {
+                "start": 81,
+                "end": 90,
+                "tag": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "created_at": "2014-08-14T15:36:29.000Z",
+    "text": "“@ksdknews: Confirmed: #MikeBrown had no criminal record. http://t.co/L8qlzjmKfW #Ferguson http://t.co/DxZJXQe1dT”",
+    "in_reply_to_user_id": "42921216",
+    "source": "Twitter for iPhone"
+}

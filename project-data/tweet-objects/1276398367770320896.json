@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-26 06:14:19+00:00",
+    "id": 1276398367770320896,
+    "text": "@dhivehiAnhenaa Dear Candidate, in the following days, there will be another informations for the candidates who are accepted for the interview in details about the interview. Please keep going to check your mailbox. Kind Regards,",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "dhivehiAnhenaa",
+                "id": "821450015935709184"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 821450015935709184
+}

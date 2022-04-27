@@ -1,0 +1,16 @@
+{
+    "text": "@cnnbrk That is a change.  He usually shoots off his mouth, or shoots himself in the foot.",
+    "id": "527288070337744897",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "created_at": "2014-10-29T02:37:27.000Z"
+}

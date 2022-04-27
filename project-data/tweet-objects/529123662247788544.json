@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 04:11:26+00:00",
+    "id": 529123662247788544,
+    "text": "@fluffyguy 15/15/29 is the date!! Lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

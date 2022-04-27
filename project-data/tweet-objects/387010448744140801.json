@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-10-07 00:24:15+00:00",
+    "id": 387010448744140801,
+    "text": "@michellemalkin Just disgusting.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "TweetCaster for Android",
+    "in_reply_to_user_id": 15976697
+}

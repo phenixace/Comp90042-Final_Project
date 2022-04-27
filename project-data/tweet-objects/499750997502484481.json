@@ -1,0 +1,31 @@
+{
+    "text": "@red_mercer @ksdknews it matters, sadly, to have Brown as innocent as can be to our public. It heightens the obvious police criminality.",
+    "source": "Twitter for iPad",
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.6115,
+                "type": "Person",
+                "normalized_text": "Brown"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "red_mercer",
+                "id": "294848568"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "created_at": "2014-08-14T02:54:57.000Z",
+    "id": "499750997502484481"
+}

@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "samesquad49",
+                "id": "621188410"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "KyleAMadson",
+                "id": "43921895"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 35,
+                "end": 39,
+                "probability": 0.3836,
+                "type": "Person",
+                "normalized_text": "Covid"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "621188410",
+    "created_at": "2020-03-13T05:25:00.000Z",
+    "id": "1238335230932480000",
+    "text": "@samesquad49 @KyleAMadson WHO said Covid 19 definitely won’t go away in the summertime?"
+}

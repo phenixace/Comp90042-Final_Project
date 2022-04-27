@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-07-01T16:43:32.000Z",
+    "text": "@hector_drummond It's neither. What it is, is what it always is, preservation of political party, and that is central to the 'strategy'. \n\n...It doesn't have to be consistent, it doesn't have to be anything at all. But it does have to keep them popular with the voters.",
+    "id": "1278368653084418054",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "hector_drummond",
+                "id": "931651609456717827"
+            }
+        ]
+    }
+}

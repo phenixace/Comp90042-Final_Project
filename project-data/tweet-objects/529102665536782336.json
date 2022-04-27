@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 02:48:00+00:00",
+    "id": 529102665536782336,
+    "text": "@fluffyguy so that means that you don't have to pay any bill from now on??",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28245852
+}

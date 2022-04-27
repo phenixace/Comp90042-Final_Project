@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-07-17 15:43:14+00:00",
+    "id": 489797483808452608,
+    "text": "@huffpostuk @trevjsmith do you have confirmation?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "HuffPostUK",
+                "id": "271413771"
+            }
+        ]
+    },
+    "source": "Twitter for Mac",
+    "in_reply_to_user_id": 271413771
+}

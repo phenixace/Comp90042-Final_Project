@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "Know",
+                "id": "221452291"
+            },
+            {
+                "start": 85,
+                "end": 95,
+                "username": "dj_Blonde",
+                "id": "385836523"
+            }
+        ],
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/Ue8zlSirKU",
+                "expanded_url": "https://twitter.com/Know/status/521727831307722753/photo/1",
+                "display_url": "pic.twitter.com/Ue8zlSirKU"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.5092,
+                "type": "Product",
+                "normalized_text": "Bugatti"
+            }
+        ]
+    },
+    "created_at": "2014-10-13T18:24:00.000Z",
+    "text": "“@Know: Someone spray painted a penis on a $2.4 mill Bugatti http://t.co/Ue8zlSirKU” @dj_Blonde",
+    "id": "521728075068112896",
+    "in_reply_to_user_id": "221452291",
+    "source": "Twitter for iPhone"
+}

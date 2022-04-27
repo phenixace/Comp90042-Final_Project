@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-18 14:30:31+00:00",
+    "id": 1240284451692851203,
+    "text": "@UKZN Thank you for keeping the world updated",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "UKZN",
+                "id": "113290361"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 113290361
+}

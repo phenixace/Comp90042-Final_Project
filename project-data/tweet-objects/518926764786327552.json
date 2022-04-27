@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2014-10-06T00:52:36.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            }
+        ]
+    },
+    "id": "518926764786327552",
+    "text": "@megynkelly \nDeath is to quick. Put him in a supermax and let his brain melt."
+}

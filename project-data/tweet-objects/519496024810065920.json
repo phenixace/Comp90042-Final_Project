@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-10-07 14:34:38+00:00",
+    "id": 519496024810065920,
+    "text": "\u201c@nytimes: 43 Missing Students, a Mass Grave and a Suspect: Mexico\u2019s Police http://t.co/dfKjNUQP60\u201d/  Que mas sigue ?",
+    "entities": {
+        "urls": [
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/dfKjNUQP60",
+                "expanded_url": "http://nyti.ms/10J0r6B",
+                "display_url": "nyti.ms/10J0r6B"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 65,
+                "probability": 0.7877,
+                "type": "Place",
+                "normalized_text": "Mexico"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "nytimes",
+                "id": "807095"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 807095
+}

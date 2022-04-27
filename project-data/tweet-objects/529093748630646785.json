@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 02:12:34+00:00",
+    "id": 529093748630646785,
+    "text": "@fluffyguy   Do they know something you don't?  #HeyItsFluffy",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 48,
+                "end": 61,
+                "tag": "HeyItsFluffy"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

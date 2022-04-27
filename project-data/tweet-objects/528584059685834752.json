@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-01T16:27:15.000Z",
+    "text": "@washingtonpost @GreatDismal You see, imposing \"freedom\" on people also resurrects extinct animals!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "GreatDismal",
+                "id": "28049003"
+            }
+        ]
+    },
+    "id": "528584059685834752",
+    "source": "Twitter Web Client"
+}

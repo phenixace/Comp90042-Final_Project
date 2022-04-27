@@ -1,0 +1,28 @@
+{
+    "source": "TweetDeck",
+    "created_at": "2014-10-02T01:35:21.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 89,
+                "tag": "AltonNolen"
+            },
+            {
+                "start": 90,
+                "end": 100,
+                "tag": "KellyFile"
+            }
+        ]
+    },
+    "id": "517487972946808834",
+    "text": "@megynkelly preferably in the same manner which he killed that innocent lady. #AltonNolen #KellyFile"
+}

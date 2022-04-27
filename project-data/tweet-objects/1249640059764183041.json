@@ -1,0 +1,15 @@
+{
+    "id": "1249640059764183041",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 71,
+                "end": 82,
+                "tag": "WaveChange"
+            }
+        ]
+    },
+    "created_at": "2020-04-13T10:06:22.000Z",
+    "source": "Twitter Web App",
+    "text": "Good afternoon, what games keep you busy at home during the lockdown?\n\n#WaveChange"
+}

@@ -1,0 +1,40 @@
+{
+    "created_at": "2014-09-23T15:03:12.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 28,
+                "end": 40,
+                "probability": 0.7402,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ],
+        "urls": [
+            {
+                "start": 95,
+                "end": 117,
+                "url": "http://t.co/BR3xPT8WcQ",
+                "expanded_url": "http://www.macrumors.com/2014/09/23/iphone-6-plus-bending-pockets/",
+                "display_url": "macrumors.com/2014/09/23/iph…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 21,
+                "username": "MacRumors",
+                "id": "14861285"
+            },
+            {
+                "start": 121,
+                "end": 135,
+                "username": "kellyhodgkins",
+                "id": "94316318"
+            }
+        ]
+    },
+    "text": "Lol what !“@MacRumors: Some iPhone 6 Plus Owners Accidentally Bending Their iPhones in Pockets http://t.co/BR3xPT8WcQ by @kellyhodgkins”",
+    "id": "514429783128936448",
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,33 @@
+{
+    "created_at": "2013-06-22 00:43:45+00:00",
+    "id": 348239854301233152,
+    "text": "@TeaPartyCat First episode for Paula Deen Fox cooking show: The Meals of Marge Schott",
+    "entities": {
+        "annotations": [
+            {
+                "start": 31,
+                "end": 44,
+                "probability": 0.4886,
+                "type": "Person",
+                "normalized_text": "Paula Deen Fox"
+            },
+            {
+                "start": 60,
+                "end": 84,
+                "probability": 0.5276,
+                "type": "Product",
+                "normalized_text": "The Meals of Marge Schott"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "TeaPartyCat",
+                "id": "27754737"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 27754737
+}

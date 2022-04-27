@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-03-13 19:15:53+00:00",
+    "id": 1238544325996314625,
+    "text": "What are the symptoms of Covid-19? How long does it stay on surfaces? How can I *not* get infected? How will the pandemic end?\n\nTo help you navigate through this, we gathered the most helpful resources for our tomorrow's newsletter.\n\n\ud83d\udd2e Subscribe now: https://t.co/WtcW1zT3uz https://t.co/kNizK612Jd",
+    "entities": {
+        "urls": [
+            {
+                "start": 251,
+                "end": 274,
+                "url": "https://t.co/WtcW1zT3uz",
+                "expanded_url": "https://naturehub.com",
+                "display_url": "naturehub.com",
+                "images": [
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1507583655874809863/tQKR5vsq?format=jpg&name=orig",
+                        "width": 1200,
+                        "height": 627
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/news_img/1507583655874809863/tQKR5vsq?format=jpg&name=150x150",
+                        "width": 150,
+                        "height": 150
+                    }
+                ],
+                "status": 200,
+                "title": "NatureHub - Find Healthy, Sustainable, Products & Businesses Near You.",
+                "description": "NatureHub is a conscious consumer marketplace and directory that helps you find healthy, sustainable, local products and businesses in the USA & Canada.",
+                "unwound_url": "https://naturehub.com"
+            },
+            {
+                "start": 275,
+                "end": 298,
+                "url": "https://t.co/kNizK612Jd",
+                "expanded_url": "https://twitter.com/nature_hub/status/1238544325996314625/photo/1",
+                "display_url": "pic.twitter.com/kNizK612Jd"
+            }
+        ]
+    },
+    "source": "LaterMedia",
+    "in_reply_to_user_id": null
+}

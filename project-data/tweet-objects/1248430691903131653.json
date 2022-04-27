@@ -1,0 +1,41 @@
+{
+    "created_at": "2020-04-10 02:00:46+00:00",
+    "id": 1248430691903131653,
+    "text": "@RamMoha82601373 @Shantanu_katre @raghuynt @SaketGokhale @MamataOfficial Then come clean on questions about pmcares fund?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "RamMoha82601373",
+                "id": "946396795290116098"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "username": "Shantanu_katre",
+                "id": "99157172"
+            },
+            {
+                "start": 33,
+                "end": 42,
+                "username": "raghuynt",
+                "id": "220437944"
+            },
+            {
+                "start": 43,
+                "end": 56,
+                "username": "SaketGokhale",
+                "id": "24857905"
+            },
+            {
+                "start": 57,
+                "end": 72,
+                "username": "MamataOfficial",
+                "id": "2526794479"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 946396795290116098
+}

@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web App",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "M95elmahdy",
+                "id": "783157305210703872"
+            }
+        ]
+    },
+    "id": "1238292544305483776",
+    "created_at": "2020-03-13T02:35:23.000Z",
+    "text": "@M95elmahdy Person-to-person spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is thought to occur mainly via respiratory droplets, resembling the spread of influenza\n\nهم مش مختلفين مع بعض و لكن المعلومات المتوفرة لسة مش كاملة"
+}

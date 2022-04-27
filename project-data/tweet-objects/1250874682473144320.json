@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TimOBrien",
+                "id": "20742461"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "username": "__Chimaera",
+                "id": "18511698"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 45,
+                "end": 47,
+                "probability": 0.8535,
+                "type": "Person",
+                "normalized_text": "Tim"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2020-04-16T19:52:19.000Z",
+    "text": "@TimOBrien @__Chimaera It’s the common cold, Tim! It’s the common cold!",
+    "id": "1250874682473144320"
+}

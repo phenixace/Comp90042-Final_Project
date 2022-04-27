@@ -1,0 +1,31 @@
+{
+    "created_at": "2014-09-23T16:03:09.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 43,
+                "end": 50,
+                "probability": 0.8953,
+                "type": "Product",
+                "normalized_text": "iPhone 5"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "MacRumors",
+                "id": "14861285"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "kellyhodgkins",
+                "id": "94316318"
+            }
+        ]
+    },
+    "text": "@MacRumors @kellyhodgkins I did this to my iPhone 5 when I sat on a hard plastic chair with it in my back pocket.",
+    "id": "514444871202254848",
+    "source": "Twitter for iPhone"
+}

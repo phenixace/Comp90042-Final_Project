@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-22T15:25:29.000Z",
+    "id": "514073002208935936",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYDailyNews",
+                "id": "9763482"
+            }
+        ]
+    },
+    "text": "@NYDailyNews yes like all men are turned off by another breast"
+}

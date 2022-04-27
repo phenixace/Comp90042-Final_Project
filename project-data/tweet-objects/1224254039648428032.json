@@ -1,0 +1,61 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 218,
+                "end": 241,
+                "url": "https://t.co/3BheKH2CBe",
+                "expanded_url": "https://www.mysazzzystore.myshopify.com/",
+                "display_url": "mysazzzystore.myshopify.com"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "created_at": "2020-02-03T08:51:23.000Z",
+    "id": "1224254039648428032",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Let us strengthen our IMMUNE system, BOOST metabolism, and BUILD our Resistance to these viruses and let’s fight diseases! \nDrink INTRA Everyday!!! \nClick https://t.co/3BheKH2CBe"
+}

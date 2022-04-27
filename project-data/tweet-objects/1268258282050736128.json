@@ -1,0 +1,22 @@
+{
+    "created_at": "2020-06-03T19:08:32.000Z",
+    "text": "@HarshitKusum @AnkitBiharii And can you tell a little about when do we expect the results???",
+    "id": "1268258282050736128",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "HarshitKusum",
+                "id": "1235777757709123584"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "AnkitBiharii",
+                "id": "4798938673"
+            }
+        ]
+    },
+    "source": "Twitter Web App"
+}

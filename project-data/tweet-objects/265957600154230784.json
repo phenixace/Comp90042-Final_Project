@@ -1,0 +1,17 @@
+{
+    "id": "265957600154230784",
+    "created_at": "2012-11-06T23:23:27.000Z",
+    "text": "@chrissyteigen I totally want to come to this party.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chrissyteigen",
+                "id": "39364684"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39364684",
+    "source": "Hootsuite"
+}

@@ -1,0 +1,41 @@
+{
+    "text": "Clickwhores “@Gizmodo: And here's a guy bending an iPhone 6 Plus with his bare hands http://t.co/FqGY5FvWut http://t.co/y931qwdh9Y”",
+    "created_at": "2014-09-23T22:55:38.000Z",
+    "id": "514548673162670080",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 63,
+                "probability": 0.6384,
+                "type": "Product",
+                "normalized_text": "iPhone 6 Plus"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 13,
+                "end": 21,
+                "username": "Gizmodo",
+                "id": "2890961"
+            }
+        ],
+        "urls": [
+            {
+                "start": 85,
+                "end": 107,
+                "url": "http://t.co/FqGY5FvWut",
+                "expanded_url": "http://gizmo.do/74dBvKC",
+                "display_url": "gizmo.do/74dBvKC"
+            },
+            {
+                "start": 108,
+                "end": 130,
+                "url": "http://t.co/y931qwdh9Y",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "display_url": "pic.twitter.com/y931qwdh9Y"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-08-26 13:33:59+00:00",
+    "id": 504260468748591104,
+    "text": ". @WesleyLowery First 6 shots fired in stupid fear of \"black guy.\" Then the last 4 fired with pleasure at \"n-----.\" #mikebrown",
+    "entities": {
+        "mentions": [
+            {
+                "start": 2,
+                "end": 15,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 116,
+                "end": 126,
+                "tag": "mikebrown"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14849562
+}

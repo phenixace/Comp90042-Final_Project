@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-01 22:00:56+00:00",
+    "id": 407268100250140674,
+    "text": "@teenagernotes Maybe its because the driver is the one who killed them both in the first place",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "teenagernotes",
+                "id": "148779151"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 148779151
+}

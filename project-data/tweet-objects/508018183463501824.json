@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-09-05 22:25:48+00:00",
+    "id": 508018183463501824,
+    "text": "@Reuters Gotta try this trick with Kremlin and Putler. Make the world a better place.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 35,
+                "end": 41,
+                "probability": 0.8849,
+                "type": "Person",
+                "normalized_text": "Kremlin"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "probability": 0.6121,
+                "type": "Person",
+                "normalized_text": "Putler"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Reuters",
+                "id": "1652541"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1652541
+}

@@ -1,0 +1,33 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 138,
+                "end": 142,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 99,
+                "end": 107,
+                "tag": "COVID19"
+            },
+            {
+                "start": 108,
+                "end": 125,
+                "tag": "SocialDistancing"
+            },
+            {
+                "start": 126,
+                "end": 137,
+                "tag": "Quarantine"
+            }
+        ]
+    },
+    "text": "COVID-19 virus can be transmitted in areas with hot and humid climates.\n\nWorld Health Organization\n#COVID19 #SocialDistancing #Quarantine @WHO",
+    "id": "1240727985491193862",
+    "created_at": "2020-03-19T19:52:58.000Z"
+}

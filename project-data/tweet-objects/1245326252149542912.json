@@ -1,0 +1,65 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 49,
+                "end": 53,
+                "probability": 0.9629,
+                "type": "Place",
+                "normalized_text": "China"
+            },
+            {
+                "start": 105,
+                "end": 109,
+                "probability": 0.9844,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ],
+        "urls": [
+            {
+                "start": 239,
+                "end": 262,
+                "url": "https://t.co/IGnqGDkQHF",
+                "expanded_url": "https://twitter.com/borderObserver/status/1245326252149542912/photo/1",
+                "display_url": "pic.twitter.com/IGnqGDkQHF"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 150,
+                "end": 162,
+                "tag": "coronavirus"
+            },
+            {
+                "start": 165,
+                "end": 173,
+                "tag": "Disease"
+            },
+            {
+                "start": 174,
+                "end": 185,
+                "tag": "WuhanVirus"
+            },
+            {
+                "start": 186,
+                "end": 194,
+                "tag": "COVID19"
+            },
+            {
+                "start": 195,
+                "end": 204,
+                "tag": "QuikTake"
+            },
+            {
+                "start": 223,
+                "end": 238,
+                "tag": "BorderObserver"
+            }
+        ]
+    },
+    "created_at": "2020-04-01T12:24:50.000Z",
+    "text": "Is it safe to receive a letter or a package from China?\n\nYes, it is safe. People receiving packages from China are not at risk of contracting the new #coronavirus.\n\n#Disease #WuhanVirus #COVID19\n#QuikTake qt-covid19-021 by #BorderObserver https://t.co/IGnqGDkQHF",
+    "id": "1245326252149542912",
+    "source": "BorderScanner"
+}

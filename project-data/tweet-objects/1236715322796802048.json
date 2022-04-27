@@ -1,0 +1,17 @@
+{
+    "id": "1236715322796802048",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 59,
+                "probability": 0.6913,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            }
+        ]
+    },
+    "created_at": "2020-03-08T18:08:04.000Z",
+    "text": "Why is COVID-19 is spreading?\n1st case in 12/3/2019 in Wuhan (MAJOR transport hub✈🚌) city did not shut down until 1/23/20 (🙎🏻‍♂️exposed still🚗💨)\n\nPts w/COVID 19 present DIFFERENTLY then previous CoV▶️viral shedding🧬occurs BEFORE symptoms occur▶️ delayed isolation",
+    "source": "Twitter for Mac"
+}

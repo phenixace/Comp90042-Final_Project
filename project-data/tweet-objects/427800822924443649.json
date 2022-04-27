@@ -1,0 +1,16 @@
+{
+    "id": "427800822924443649",
+    "created_at": "2014-01-27T13:50:39.000Z",
+    "text": "@NBCNews But he looked SO COOL on his deathbed",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-03 02:42:12+00:00",
+    "id": 529101205998284801,
+    "text": "@fluffyguy oh thank god!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 20,
+                "end": 22,
+                "probability": 0.5891,
+                "type": "Other",
+                "normalized_text": "god"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28245852
+}

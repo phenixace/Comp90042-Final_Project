@@ -1,0 +1,48 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 5,
+                "end": 9,
+                "probability": 0.9414,
+                "type": "Person",
+                "normalized_text": "Biden"
+            },
+            {
+                "start": 12,
+                "end": 28,
+                "probability": 0.4548,
+                "type": "Place",
+                "normalized_text": "Malaysia Airlines"
+            }
+        ],
+        "urls": [
+            {
+                "start": 91,
+                "end": 113,
+                "url": "http://t.co/OSHZZrWvpi",
+                "expanded_url": "https://twitter.com/NBCNightlyNews/status/489874311143260160/photo/1",
+                "display_url": "pic.twitter.com/OSHZZrWvpi"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 30,
+                "end": 35,
+                "tag": "MH17"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 4,
+                "username": "VP",
+                "id": "803694179079458816"
+            }
+        ]
+    },
+    "id": "489874311143260160",
+    "created_at": "2014-07-17T20:48:31.000Z",
+    "source": "TweetDeck",
+    "text": ".@VP Biden: Malaysia Airlines #MH17 was 'shot down not an accident. Blown out of the sky.' http://t.co/OSHZZrWvpi"
+}

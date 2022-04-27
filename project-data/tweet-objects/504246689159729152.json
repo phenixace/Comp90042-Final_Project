@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-26 12:39:13+00:00",
+    "id": 504246689159729152,
+    "text": "@WesleyLowery @keithboykin 11!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 26,
+                "username": "keithboykin",
+                "id": "21728303"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 14849562
+}

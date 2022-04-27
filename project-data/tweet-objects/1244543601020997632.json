@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-30 08:34:51+00:00",
+    "id": 1244543601020997632,
+    "text": "@Daniel22223333 @hshaban @loisbeckett Yeah, 2.5 hours in a room of 60 people doing the musical equivalent of coughing, getting Purell after opening the door, 2.5 hours of potty breaks (more door handles), and--with no one coughing--I doubt they were very scrupulous about distancing.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Daniel22223333",
+                "id": "161387747"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "hshaban",
+                "id": "391560579"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "loisbeckett",
+                "id": "21134925"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 161387747
+}

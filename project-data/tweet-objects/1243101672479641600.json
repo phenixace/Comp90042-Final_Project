@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-26 09:05:09+00:00",
+    "id": 1243101672479641600,
+    "text": "#COVID19 virus can be transmitted in areas with hot and humid climates From the evidence so far, the virus can be transmitted in ALL AREAS, including areas with hot and humid weather. Regardless of climate, adopt protective measures if you live in, or travel to an area reporting",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 8,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 4156551377
+}

@@ -1,0 +1,25 @@
+{
+    "text": "@HuffingtonPost make any sense http://t.co/Oj4DaXFqaA",
+    "id": "427691368358494209",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "HuffingtonPost",
+                "id": "854402779879804928"
+            }
+        ],
+        "urls": [
+            {
+                "start": 31,
+                "end": 53,
+                "url": "http://t.co/Oj4DaXFqaA",
+                "expanded_url": "http://life4on.blogspot.com",
+                "display_url": "life4on.blogspot.com"
+            }
+        ]
+    },
+    "created_at": "2014-01-27T06:35:42.000Z"
+}

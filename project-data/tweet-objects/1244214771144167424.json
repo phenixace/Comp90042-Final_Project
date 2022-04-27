@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-29 10:48:12+00:00",
+    "id": 1244214771144167424,
+    "text": "We love you and want you to come out on the other side of this thing healthy and happy. Wash your hands, keep in touch with loved ones and please please, stay home. https://t.co/9S0GCUdgGo",
+    "entities": {
+        "urls": [
+            {
+                "start": 165,
+                "end": 188,
+                "url": "https://t.co/9S0GCUdgGo",
+                "expanded_url": "https://twitter.com/HOLAAfrica/status/1244214771144167424/photo/1",
+                "display_url": "pic.twitter.com/9S0GCUdgGo"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 523291103
+}

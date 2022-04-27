@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-01T15:03:53.000Z",
+    "text": "@washingtonpost @aStonedDeer A vampire deer relative of yours?!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "username": "aStonedDeer",
+                "id": "1042575452"
+            }
+        ]
+    },
+    "id": "528563079479840768",
+    "source": "Twitter for iPhone"
+}

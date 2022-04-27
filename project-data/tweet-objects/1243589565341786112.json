@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-27 17:23:51+00:00",
+    "id": 1243589565341786112,
+    "text": "@IndiaNeighbors Safety is more important",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "IndiaNeighbors",
+                "id": "1186951271049129985"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1186951271049129985
+}

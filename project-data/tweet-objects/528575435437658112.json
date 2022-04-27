@@ -1,0 +1,34 @@
+{
+    "created_at": "2014-11-01T15:52:58.000Z",
+    "text": "..the hell is this? RT @washingtonpost: Fanged deer pops up in Afghanistan, 60 years after its last appearance http://t.co/vBztHTmWND",
+    "entities": {
+        "mentions": [
+            {
+                "start": 23,
+                "end": 38,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ],
+        "urls": [
+            {
+                "start": 111,
+                "end": 133,
+                "url": "http://t.co/vBztHTmWND",
+                "expanded_url": "https://twitter.com/washingtonpost/status/528562608463704064/photo/1",
+                "display_url": "pic.twitter.com/vBztHTmWND"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 73,
+                "probability": 0.9613,
+                "type": "Place",
+                "normalized_text": "Afghanistan"
+            }
+        ]
+    },
+    "id": "528575435437658112",
+    "source": "Twitter for iPhone"
+}

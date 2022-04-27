@@ -1,0 +1,43 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 133,
+                "end": 156,
+                "url": "https://t.co/v4EBUkqknZ",
+                "expanded_url": "https://twitter.com/MaxCRoser/status/1247884285333266434?s=19",
+                "display_url": "twitter.com/MaxCRoser/stat…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "JohnFiliss",
+                "id": "314739157"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "OffGuardian0",
+                "id": "3171668783"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "username": "Sideshow_JaneV3",
+                "id": "1003719005167931392"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "username": "MoonofA",
+                "id": "23047519"
+            }
+        ]
+    },
+    "id": "1248548862022819842",
+    "created_at": "2020-04-10T09:50:20.000Z",
+    "source": "Twitter for Android",
+    "text": "@JohnFiliss @OffGuardian0 @Sideshow_JaneV3 @MoonofA Still claiming Covid-19 is just like the flu? Facts are such a pain aren't they.\nhttps://t.co/v4EBUkqknZ"
+}

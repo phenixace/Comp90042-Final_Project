@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-03 20:22:24+00:00",
+    "id": 529368014593208320,
+    "text": "@Rae_whitnie286 @fluffyguy who ever keeps saying this should not get any choco. cake",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Rae_whitnie286",
+                "id": "235677803"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 235677803
+}

@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-09-23T23:16:18.000Z",
+    "source": "Twitter for Android",
+    "text": "@AskJoshy @3AlexAvalos",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "AskJoshy",
+                "id": "106514999"
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "username": "3AlexAvalos",
+                "id": "484320861"
+            }
+        ]
+    },
+    "id": "514553874653650945"
+}

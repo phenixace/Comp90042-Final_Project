@@ -1,0 +1,25 @@
+{
+    "created_at": "2020-03-08 10:44:18+00:00",
+    "id": 1236603646583934976,
+    "text": "Is the new coronavirus deadly? https://t.co/HMI9c50JSP",
+    "entities": {
+        "urls": [
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/HMI9c50JSP",
+                "expanded_url": "https://twitter.com/SpsaUk/status/1236603646583934976/photo/1",
+                "display_url": "pic.twitter.com/HMI9c50JSP"
+            },
+            {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/HMI9c50JSP",
+                "expanded_url": "https://twitter.com/SpsaUk/status/1236603646583934976/photo/1",
+                "display_url": "pic.twitter.com/HMI9c50JSP"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1236602088156692481
+}

@@ -1,0 +1,40 @@
+{
+    "created_at": "2020-03-31 19:36:20+00:00",
+    "id": 1245072455242330112,
+    "text": "@maryjanecrisp @DrDenaGrayson @fmbutt '...the World Health Organization insists \u201cthe new coronavirus CANNOT be transmitted through mosquito bites.\u201d\n\n\u201cTo date there has been no information nor evidence to suggest that the new coronavirus could be transmitted by mosquitoes,\u201d the WHO reports.'\nhttps://t.co/d7qpuQCzcC",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "maryjanecrisp",
+                "id": "2851873295"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "username": "DrDenaGrayson",
+                "id": "1651522832"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "username": "fmbutt",
+                "id": "15080332"
+            }
+        ],
+        "urls": [
+            {
+                "start": 292,
+                "end": 315,
+                "url": "https://t.co/d7qpuQCzcC",
+                "expanded_url": "https://www.miamiherald.com/news/coronavirus/article241520071.html",
+                "display_url": "miamiherald.com/news/coronavir\u2026",
+                "status": 200,
+                "unwound_url": "https://www.miamiherald.com/news/coronavirus/article241520071.html"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 2851873295
+}

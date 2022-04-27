@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-06 01:58:49+00:00",
+    "id": 1246980649380196352,
+    "text": "@Meeshe3 @natashaldaly @NatGeo If you read the articule it says dry cough leaded them to test it for it",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Meeshe3",
+                "id": "37640440"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "username": "natashaldaly",
+                "id": "511013447"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "username": "NatGeo",
+                "id": "17471979"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 37640440
+}

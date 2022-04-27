@@ -1,0 +1,31 @@
+{
+    "id": "525260415010615296",
+    "created_at": "2014-10-23T12:20:16.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 16,
+                "end": 37,
+                "probability": 0.3109,
+                "type": "Other",
+                "normalized_text": "South American Goliath"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 5,
+                "username": "ABC",
+                "id": "28785486"
+            },
+            {
+                "start": 82,
+                "end": 98,
+                "username": "CourtneyLayne33",
+                "id": "379935296"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "“@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: @CourtneyLayne33"
+}

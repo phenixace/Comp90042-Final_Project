@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-10-13 14:06:33+00:00",
+    "id": 521663285129924609,
+    "text": "\u201c@lilduval: So Ebola was found in hair extensions? All my bitches wear weave \ud83d\ude33\u201d \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 10,
+                "username": "lilduval",
+                "id": "16638685"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 15,
+                "end": 19,
+                "probability": 0.383,
+                "type": "Person",
+                "normalized_text": "Ebola"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16638685
+}

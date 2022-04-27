@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-04 11:13:34+00:00",
+    "id": 1246395482118803458,
+    "text": "@GP_CommSafety Hold on a bit and tell us why this virus after there was a movie of it? If you knew it was coming true then why didn't you find it's cure before now, you think lockdown will help? And how????? https://t.co/6ysbe4qFE6",
+    "entities": {
+        "urls": [
+            {
+                "start": 208,
+                "end": 231,
+                "url": "https://t.co/6ysbe4qFE6",
+                "expanded_url": "https://twitter.com/NeoNA68127260/status/1246395482118803458/photo/1",
+                "display_url": "pic.twitter.com/6ysbe4qFE6"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "GP_CommSafety",
+                "id": "368225673"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 368225673
+}

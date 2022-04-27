@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-06-09 21:52:38+00:00",
+    "id": 1270473907838095360,
+    "text": "The costs of economic shut down are not outweighed by a mortality rate, \"Denunciations of that sort cast the lockdown debate as a straightforward battle between a pro-human &amp; a pro-economy camp. But the actual trade-offs are not at all straightforward,\"https://t.co/Qv6wfov2Vt 7/x",
+    "entities": {
+        "urls": [
+            {
+                "start": 257,
+                "end": 280,
+                "url": "https://t.co/Qv6wfov2Vt",
+                "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/05/take-shutdown-skeptics-seriously/611419/?utm_source=twitter&utm_medium=social&utm_campaign=share",
+                "display_url": "theatlantic.com/ideas/archive/\u2026"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 353023761
+}

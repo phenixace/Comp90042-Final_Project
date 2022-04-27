@@ -1,0 +1,32 @@
+{
+    "created_at": "2020-04-13 01:16:47+00:00",
+    "id": 1249506788849774592,
+    "text": "A1.) The SARS-CoV-2 virus is a beta corona virus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. Early on , many of the patients at the epicenter of the outbreak in Wuhan, Hubei Province, China had some link to a large seafood and live animal",
+    "entities": {
+        "annotations": [
+            {
+                "start": 201,
+                "end": 205,
+                "probability": 0.9306,
+                "type": "Place",
+                "normalized_text": "Wuhan"
+            },
+            {
+                "start": 208,
+                "end": 221,
+                "probability": 0.3813,
+                "type": "Place",
+                "normalized_text": "Hubei Province"
+            },
+            {
+                "start": 224,
+                "end": 228,
+                "probability": 0.8035,
+                "type": "Place",
+                "normalized_text": "China"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1249114316357263361
+}

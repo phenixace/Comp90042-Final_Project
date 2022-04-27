@@ -1,0 +1,54 @@
+{
+    "created_at": "2014-10-12 01:57:59+00:00",
+    "id": 521117546448420864,
+    "text": "@BBCWorld #Mexico is going back to a #corrupted gov't.\n\n#PenaNieto #fuera de #Mexico #presidente #cobarde",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "BBCWorld",
+                "id": "742143"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 17,
+                "tag": "Mexico"
+            },
+            {
+                "start": 37,
+                "end": 47,
+                "tag": "corrupted"
+            },
+            {
+                "start": 56,
+                "end": 66,
+                "tag": "PenaNieto"
+            },
+            {
+                "start": 67,
+                "end": 73,
+                "tag": "fuera"
+            },
+            {
+                "start": 77,
+                "end": 84,
+                "tag": "Mexico"
+            },
+            {
+                "start": 85,
+                "end": 96,
+                "tag": "presidente"
+            },
+            {
+                "start": 97,
+                "end": 105,
+                "tag": "cobarde"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 742143
+}

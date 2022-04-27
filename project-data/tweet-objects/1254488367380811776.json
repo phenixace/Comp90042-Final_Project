@@ -1,0 +1,52 @@
+{
+    "created_at": "2020-04-26 19:11:48+00:00",
+    "id": 1254488367380811776,
+    "text": "@TeachOnTheRight @JPL_Reader @tedcruz Firstly, this Dr. is only talking about mainly California, secondly they are blaming Molestation and Domestic Abuse on Dr. Fauci and Dr. Birx? It's a scapegoat. People that molest and initiate Domestic Abuse are pre-disposed to so and it will not disappear when the lockdown ends",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TeachOnTheRight",
+                "id": "1488504740"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "JPL_Reader",
+                "id": "818155216214355968"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "tedcruz",
+                "id": "23022687"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 85,
+                "end": 94,
+                "probability": 0.9919,
+                "type": "Place",
+                "normalized_text": "California"
+            },
+            {
+                "start": 157,
+                "end": 165,
+                "probability": 0.9307,
+                "type": "Person",
+                "normalized_text": "Dr. Fauci"
+            },
+            {
+                "start": 171,
+                "end": 178,
+                "probability": 0.9801,
+                "type": "Person",
+                "normalized_text": "Dr. Birx"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1488504740
+}

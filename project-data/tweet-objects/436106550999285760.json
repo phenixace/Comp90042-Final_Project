@@ -1,0 +1,25 @@
+{
+    "created_at": "2014-02-19T11:54:38.000Z",
+    "text": "@OurKidrauhlSide https://t.co/xMJy8kBdLo",
+    "entities": {
+        "urls": [
+            {
+                "start": 17,
+                "end": 40,
+                "url": "https://t.co/xMJy8kBdLo",
+                "expanded_url": "https://twitter.com/jdbiebswift/status/436104692167610369",
+                "display_url": "twitter.com/jdbiebswift/st…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "ourkidrauhlside",
+                "id": "872169050771787776"
+            }
+        ]
+    },
+    "id": "436106550999285760",
+    "source": "Twitter for Android"
+}

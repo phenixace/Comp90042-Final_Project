@@ -1,0 +1,26 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 42,
+                "probability": 0.9735,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            }
+        ],
+        "urls": [
+            {
+                "start": 255,
+                "end": 278,
+                "url": "https://t.co/KZH2Vcun3e",
+                "expanded_url": "https://twitter.com/eccemarco/status/1270768540761677824/photo/1",
+                "display_url": "pic.twitter.com/KZH2Vcun3e"
+            }
+        ]
+    },
+    "created_at": "2020-06-10T17:23:24.000Z",
+    "source": "Twitter Web App",
+    "text": "However, direction is important too. Sweden is nowhere near limiting the spread (because, surprise, it has no intention to). *Partly* because we finally started testing more, but largely because we have a lot of infections, numbers are going up, not down https://t.co/KZH2Vcun3e",
+    "id": "1270768540761677824"
+}

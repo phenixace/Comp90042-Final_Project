@@ -1,0 +1,28 @@
+{
+    "id": "1250073479703076870",
+    "created_at": "2020-04-14T14:48:37.000Z",
+    "source": "Twitter for Android",
+    "text": "@thokozani_1529 @mdu_sello @Sbu45Masa @AdvoBarryRoux @SANDFCorpEvents 🤣😂🤣Nawu umuhlolo, I can't believe there is people who think like this.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "thokozani_1529",
+                "id": "4879115698"
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "username": "mdu_sello",
+                "id": "785932865674575872"
+            },
+            {
+                "start": 38,
+                "end": 52,
+                "username": "AdvoBarryRoux",
+                "id": "2449502355"
+            }
+        ]
+    }
+}

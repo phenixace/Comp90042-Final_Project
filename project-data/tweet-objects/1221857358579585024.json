@@ -1,0 +1,62 @@
+{
+    "created_at": "2020-01-27 18:07:49+00:00",
+    "id": 1221857358579585024,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO It's time to act, declare an emergency!\n\nhttps://t.co/pf5PkyiO3A",
+    "entities": {
+        "urls": [
+            {
+                "start": 104,
+                "end": 127,
+                "url": "https://t.co/pf5PkyiO3A",
+                "expanded_url": "https://twitter.com/DrEricDing/status/1221855728262139904?s=20",
+                "display_url": "twitter.com/DrEricDing/sta\u2026"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

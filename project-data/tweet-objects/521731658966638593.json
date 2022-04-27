@@ -1,0 +1,35 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "Know",
+                "id": "221452291"
+            }
+        ],
+        "urls": [
+            {
+                "start": 61,
+                "end": 83,
+                "url": "http://t.co/EF91U4XyAm",
+                "expanded_url": "https://twitter.com/Know/status/521727831307722753/photo/1",
+                "display_url": "pic.twitter.com/EF91U4XyAm"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "probability": 0.4492,
+                "type": "Product",
+                "normalized_text": "Bugatti"
+            }
+        ]
+    },
+    "created_at": "2014-10-13T18:38:15.000Z",
+    "text": "“@Know: Someone spray painted a penis on a $2.4 mill Bugatti http://t.co/EF91U4XyAm” @JacobIannuzzell I would do that to you",
+    "id": "521731658966638593",
+    "in_reply_to_user_id": "221452291",
+    "source": "Twitter for iPhone"
+}

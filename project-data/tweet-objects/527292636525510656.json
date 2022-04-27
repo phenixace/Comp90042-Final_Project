@@ -1,0 +1,32 @@
+{
+    "text": "@cnnbrk paraphrasing Dean Wormer, drunk, stoned and stupid is no way to go through life, son!\n#AnimalHouse",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 94,
+                "end": 106,
+                "tag": "AnimalHouse"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 21,
+                "end": 31,
+                "probability": 0.979,
+                "type": "Person",
+                "normalized_text": "Dean Wormer"
+            }
+        ]
+    },
+    "id": "527292636525510656",
+    "source": "Twitter for BlackBerry",
+    "created_at": "2014-10-29T02:55:35.000Z"
+}

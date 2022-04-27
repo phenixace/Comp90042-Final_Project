@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-08-26 20:39:01+00:00",
+    "id": 504367432518344704,
+    "text": "@WesleyLowery @Bamajosh28 sounds like a good group to me...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 14,
+                "end": 25,
+                "username": "Bamajosh28",
+                "id": "140229345"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14849562
+}

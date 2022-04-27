@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TimOBrien",
+                "id": "20742461"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-16T22:08:04.000Z",
+    "text": "@TimOBrien Frankenstein’s flu.",
+    "id": "1250908845217583108"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "1235209884435697665",
+    "created_at": "2020-03-04T14:26:00.000Z",
+    "source": "TweetDeck",
+    "text": "@danielradosh What if I googled it yesterday?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "danielradosh",
+                "id": "92112822"
+            }
+        ]
+    }
+}

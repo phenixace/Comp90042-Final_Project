@@ -1,0 +1,39 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 112,
+                "end": 114,
+                "probability": 0.9499,
+                "type": "Place",
+                "normalized_text": "USA"
+            },
+            {
+                "start": 127,
+                "end": 132,
+                "probability": 0.9736,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 16,
+                "username": "alsassociation",
+                "id": "21416670"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag": "IceBucketChallenge"
+            }
+        ]
+    },
+    "created_at": "2014-08-27T21:36:39.000Z",
+    "id": "504744324639514624",
+    "source": "Twitter for iPhone",
+    "text": "“@alsassociation: #IceBucketChallenge donations exceed $94 million. Thank you for your support! congrats to the USA!  Let's go Canada!"
+}

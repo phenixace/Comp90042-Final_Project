@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-18 22:42:32+00:00",
+    "id": 1273747956471140353,
+    "text": "@judypapineau @GovernorTomWolf What is the point???  Do you not understand basic science?  Hospitals are not overwhelmed and the infection SHOULD be passed around to achieve herd immunity, where 70% of people have antibodies. We were flattening the curve, not eliminating it.  Educate yourself!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "judypapineau",
+                "id": "308208246"
+            },
+            {
+                "start": 14,
+                "end": 30,
+                "username": "GovernorTomWolf",
+                "id": "2978837542"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 308208246
+}

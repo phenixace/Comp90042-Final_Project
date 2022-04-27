@@ -1,0 +1,30 @@
+{
+    "created_at": "2020-03-16 09:57:45+00:00",
+    "id": 1239491032653410304,
+    "text": "People with fever, cough and difficulty breathing should seek medical attention.\n#LetsFightCorona @MenPk1\n@TeamForPakistan",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 97,
+                "tag": "LetsFightCorona"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 98,
+                "end": 105,
+                "username": "MenPk1",
+                "id": "1199282153852407810"
+            },
+            {
+                "start": 106,
+                "end": 122,
+                "username": "TeamForPakistan",
+                "id": "1216367880209666048"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1199282153852407810
+}

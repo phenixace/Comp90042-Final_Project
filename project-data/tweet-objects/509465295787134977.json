@@ -1,0 +1,55 @@
+{
+    "created_at": "2014-09-09 22:16:06+00:00",
+    "id": 509465295787134977,
+    "text": ".@Halo vs #Minecraft hybrid game to follow RT @WSJ: Breaking: Microsoft is near a deal to buy Minecraft maker Mojang  http://t.co/76bjPTacLS",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag": "Minecraft"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/76bjPTacLS",
+                "expanded_url": "http://on.wsj.com/1lUbvY7",
+                "display_url": "on.wsj.com/1lUbvY7"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 62,
+                "end": 70,
+                "probability": 0.8766,
+                "type": "Organization",
+                "normalized_text": "Microsoft"
+            },
+            {
+                "start": 94,
+                "end": 115,
+                "probability": 0.3791,
+                "type": "Product",
+                "normalized_text": "Minecraft maker Mojang"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 6,
+                "username": "Halo",
+                "id": "59414975"
+            },
+            {
+                "start": 46,
+                "end": 50,
+                "username": "WSJ",
+                "id": "3108351"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 3108351
+}

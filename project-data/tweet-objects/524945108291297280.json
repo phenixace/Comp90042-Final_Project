@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 15:27:21+00:00",
+    "id": 524945108291297280,
+    "text": "@CBCAlerts Honte a nous, les americains doivent rire de nous, notre parlement est facile dacces en plus des armes",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 19038934
+}

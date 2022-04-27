@@ -1,0 +1,28 @@
+{
+    "source": "SocialFlow",
+    "id": "1248717007102640138",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 45,
+                "probability": 0.5615,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "urls": [
+            {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/0nTtoKY1Ha",
+                "expanded_url": "https://trib.al/gsjf6rG",
+                "display_url": "trib.al/gsjf6rG",
+                "status": 200,
+                "unwound_url": "https://www.sacbee.com/news/coronavirus/article241925176.html"
+            }
+        ]
+    },
+    "created_at": "2020-04-10T20:58:29.000Z",
+    "text": "What is a coronavirus immunity certificate? US may start issuing them https://t.co/0nTtoKY1Ha"
+}

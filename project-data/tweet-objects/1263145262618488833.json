@@ -1,0 +1,52 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 24,
+                "end": 28,
+                "probability": 0.9846,
+                "type": "Place",
+                "normalized_text": "India"
+            },
+            {
+                "start": 63,
+                "end": 67,
+                "probability": 0.8082,
+                "type": "Place",
+                "normalized_text": "nepal"
+            },
+            {
+                "start": 95,
+                "end": 99,
+                "probability": 0.9864,
+                "type": "Place",
+                "normalized_text": "India"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 77,
+                "end": 83,
+                "tag": "nepal"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "rai_arpanBB",
+                "id": "1178608201605865477"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "nomi19871",
+                "id": "1189605806347640837"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "created_at": "2020-05-20T16:31:13.000Z",
+    "id": "1263145262618488833",
+    "text": "@rai_arpanBB @nomi19871 India has always been a true friend of nepal, during #nepal earthquake India helped them before anyone else. We treated their devastation as our own natural calamity.What they did under china pressure will cost them in a long run. सांप को दूध कभी न पिलाएं। वह तुम्हें यकीनन काटेगा"
+}

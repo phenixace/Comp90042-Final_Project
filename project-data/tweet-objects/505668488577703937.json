@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "wickedshrapnel",
+                "id": "200291506"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 116,
+                "end": 128,
+                "probability": 0.3977,
+                "type": "Person",
+                "normalized_text": "Whiteboy7thst"
+            }
+        ]
+    },
+    "text": "@wickedshrapnel Wait. Are you telling me they actually arrested the little dick nozzle who played the SWAT prank on Whiteboy7thst???",
+    "id": "505668488577703937",
+    "created_at": "2014-08-30T10:48:57.000Z"
+}

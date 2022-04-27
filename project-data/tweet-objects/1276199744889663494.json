@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 59,
+                "end": 84,
+                "probability": 0.7612,
+                "type": "Organization",
+                "normalized_text": "Insight Development Grants"
+            }
+        ]
+    },
+    "text": "We've been getting a lot of ❓❓from our community about the Insight Development Grants results &amp; wanted to clarify some info. Results will be available in the applicant portal in July. The public announcement of the results will be made in August.",
+    "source": "Hootsuite Inc.",
+    "created_at": "2020-06-25T17:05:04.000Z",
+    "id": "1276199744889663494"
+}

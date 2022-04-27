@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "Shawhelp",
+                "id": "216808077"
+            },
+            {
+                "start": 64,
+                "end": 68,
+                "username": "NHL",
+                "id": "50004938"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 107,
+                "end": 110,
+                "probability": 0.9521,
+                "type": "Person",
+                "normalized_text": "Shaw"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "id": "1269342395214131201",
+    "created_at": "2020-06-06T18:56:24.000Z",
+    "text": "@Shawhelp Rep on Chat was zero help. Directed me to contact the @NHL for a refund for a service that I pay Shaw for? Makes no sense. Webpage the rep told me to visit isn’t even an active webpage, returns a 404 error. Also told me season isn’t over even though it is. Not impressed"
+}

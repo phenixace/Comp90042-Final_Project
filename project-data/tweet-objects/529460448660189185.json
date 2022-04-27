@@ -1,0 +1,33 @@
+{
+    "created_at": "2014-11-04 02:29:42+00:00",
+    "id": 529460448660189185,
+    "text": "El ChupaCabra! MT \u201c@NBCNews: Vampire Bambi? fanged deer confirmed in Afghanistan  http://t.co/UiZH60ydTB http://t.co/qBqrk0Y5R3\u201d",
+    "entities": {
+        "urls": [
+            {
+                "start": 82,
+                "end": 104,
+                "url": "http://t.co/UiZH60ydTB",
+                "expanded_url": "http://nbcnews.to/1ocPfcL",
+                "display_url": "nbcnews.to/1ocPfcL"
+            },
+            {
+                "start": 105,
+                "end": 127,
+                "url": "http://t.co/qBqrk0Y5R3",
+                "expanded_url": "https://twitter.com/NBCNews/status/529434230938284032/photo/1",
+                "display_url": "pic.twitter.com/qBqrk0Y5R3"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 19,
+                "end": 27,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 14173315
+}

@@ -1,0 +1,23 @@
+{
+    "in_reply_to_user_id": "948776947202523136",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Jim96901501",
+                "id": "948776947202523136"
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "username": "BuckSexton",
+                "id": "334715818"
+            }
+        ]
+    },
+    "created_at": "2020-06-29T20:19:19.000Z",
+    "text": "@Jim96901501 @BuckSexton Numbers are not in line with increased testing though. So just to say “numbers are up because of increased testing” is incorrect. If cases are up 80% but testing is up 10% then testing doesn’t account for it.",
+    "id": "1277698182827343873"
+}

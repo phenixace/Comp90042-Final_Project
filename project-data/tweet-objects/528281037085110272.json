@@ -1,0 +1,32 @@
+{
+    "created_at": "2014-10-31 20:23:08+00:00",
+    "id": 528281037085110272,
+    "text": "@conncarroll @stephenfhayes But I thought that was why O'care was so special!  People don't \"have\" to work.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 60,
+                "probability": 0.4257,
+                "type": "Person",
+                "normalized_text": "O'care"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "conncarroll",
+                "id": "15739391"
+            },
+            {
+                "start": 13,
+                "end": 27,
+                "username": "stephenfhayes",
+                "id": "69773058"
+            }
+        ]
+    },
+    "source": "Twitter for Android Tablets",
+    "in_reply_to_user_id": 15739391
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-04-12 06:48:30+00:00",
+    "id": 1249227878191038464,
+    "text": "@lildipshit3 @anarchomastia FYI. I work for FedEx. The cheapest way to send a Birthday Card to a rural residence is $15.50:\n\n$7.85 base charge for a Ground 1lb. pkg going &lt; 150 miles\n$4.00 residence charge \n$3.65 rural charge\n\nCharge for same service by USPS? \n\n$0.50 or 31 times cheaper \n\nSave the USPS",
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 48,
+                "probability": 0.7793,
+                "type": "Organization",
+                "normalized_text": "FedEx"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "lildipshit3",
+                "id": "1260276558830473216"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 821564321926815746
+}

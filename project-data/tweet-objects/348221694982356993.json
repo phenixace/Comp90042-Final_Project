@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 21,
+                "username": "deblessings",
+                "id": "563955584"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "text": "@cgs_atl @deblessings BS!! Find out who's address it is... Bet it isnt an alien at all",
+    "id": "348221694982356993",
+    "created_at": "2013-06-21T23:31:36.000Z"
+}

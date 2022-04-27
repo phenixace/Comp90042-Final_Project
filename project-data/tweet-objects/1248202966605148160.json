@@ -1,0 +1,16 @@
+{
+    "id": "1248202966605148160",
+    "created_at": "2020-04-09T10:55:52.000Z",
+    "source": "TweetDeck",
+    "text": "@OffGuardian0 To separate infected from non-infected people is the ONLY way to stop such an epidemic.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "OffGuardian0",
+                "id": "3171668783"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-09-22T16:57:57.000Z",
+    "id": "514096273646186496",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYDailyNews",
+                "id": "9763482"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "NewsroomJim",
+                "id": "618258504"
+            }
+        ]
+    },
+    "text": "@NYDailyNews @NewsroomJim She's the girl from Total Recall!"
+}

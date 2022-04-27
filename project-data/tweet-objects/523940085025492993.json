@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "margarita",
+                "id": "58524428"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "PoliticaILine",
+                "id": "3210853588"
+            },
+            {
+                "start": 26,
+                "end": 34,
+                "username": "CBSNews",
+                "id": "15012486"
+            }
+        ]
+    },
+    "id": "523940085025492993",
+    "text": "@margarita @PoliticaILine @CBSNews That'll make your spidey senses tingle.",
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-19T20:53:45.000Z"
+}

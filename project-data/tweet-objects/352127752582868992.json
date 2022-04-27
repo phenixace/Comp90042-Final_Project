@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-07-02 18:12:53+00:00",
+    "id": 352127752582868992,
+    "text": "@RealAlexJones @ColdRealityNews Does Obama think our forces are too inept, our do they refuse to do what he wants done? Unbelievable!",
+    "entities": {
+        "annotations": [
+            {
+                "start": 37,
+                "end": 41,
+                "probability": 0.9989,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "RealAlexJones",
+                "id": "109065990"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 109065990
+}

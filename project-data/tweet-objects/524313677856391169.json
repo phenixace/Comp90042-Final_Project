@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 21:38:16+00:00",
+    "id": 524313677856391169,
+    "text": "@snooki hence why I'm arachnophobic!!!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "snooki",
+                "id": "28638191"
+            }
+        ]
+    },
+    "source": "Tweetbot for i\u039fS",
+    "in_reply_to_user_id": 28638191
+}

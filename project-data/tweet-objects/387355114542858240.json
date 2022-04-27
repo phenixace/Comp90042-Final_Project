@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PolitiFact",
+                "id": "8953122"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "ron_fournier",
+                "id": "14268812"
+            }
+        ]
+    },
+    "created_at": "2013-10-07T23:13:50.000Z",
+    "id": "387355114542858240",
+    "text": "@PolitiFact @ron_fournier Perhaps, but a smart administration wouldn't have put that notice on the site. I have no sympathy."
+}

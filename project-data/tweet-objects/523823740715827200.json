@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-10-19 13:11:26+00:00",
+    "id": 523823740715827200,
+    "text": "\u201c@Harvard: Researcher @naskrecki on his encounter with a Goliath bird eating Spider http://t.co/7pcsF5uPM5 http://t.co/0ybUNX6Rd8\u201d\ud83d\udc9a arachnid",
+    "entities": {
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/7pcsF5uPM5",
+                "expanded_url": "http://hvrd.me/CZfJA",
+                "display_url": "hvrd.me/CZfJA"
+            },
+            {
+                "start": 107,
+                "end": 129,
+                "url": "http://t.co/0ybUNX6Rd8",
+                "expanded_url": "https://twitter.com/Harvard/status/523820806917603328/photo/1",
+                "display_url": "pic.twitter.com/0ybUNX6Rd8"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "Harvard",
+                "id": "39585367"
+            },
+            {
+                "start": 22,
+                "end": 32,
+                "username": "naskrecki",
+                "id": "1049644164"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 39585367
+}

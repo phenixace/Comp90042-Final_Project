@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-01 01:21:12+00:00",
+    "id": 528356045677416448,
+    "text": "@conncarroll He really wants government daycare indoctrination centers.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "conncarroll",
+                "id": "15739391"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15739391
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-16T10:13:01.000Z",
+    "text": "@CarolineMack18 @Navigatorsofth1 I think the problem is @Navigatorsofth1 wants COVID-19 to unhappen, but that can't be done.",
+    "id": "1250728900654772230",
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "CarolineMack18",
+                "id": "295618916"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "20246748"
+}

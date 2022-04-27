@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2020-04-06T09:52:39.000Z",
+    "id": "1247099894520623104",
+    "text": "@adamseconomics Food or water contaminated. Or airborne aerosols.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "adamseconomics",
+                "id": "1041491786844135424"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1041491786844135424"
+}

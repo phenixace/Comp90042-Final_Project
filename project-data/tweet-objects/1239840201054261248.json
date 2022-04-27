@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-17T09:05:13.000Z",
+    "text": "@AdaNihan Brilliant, thanks! Which actual question is it? I can’t find it ...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "AdaNihan",
+                "id": "3044819939"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "3044819939",
+    "id": "1239840201054261248",
+    "source": "Twitter for iPhone"
+}

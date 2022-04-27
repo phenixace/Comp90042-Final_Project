@@ -1,0 +1,22 @@
+{
+    "source": "Twitter for BlackBerry",
+    "created_at": "2014-10-02T04:43:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "517535414995787776",
+    "text": "@megynkelly @FoxNews anything less will be an act of terror!"
+}

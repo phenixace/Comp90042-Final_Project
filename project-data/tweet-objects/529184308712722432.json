@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 08:12:25+00:00",
+    "id": 529184308712722432,
+    "text": "@fluffyguy too funny.  RIP fluffy ;-) ;-) , u are awesome. \nU know it Must be true since it was on the news. :-P :-P Lmao\nHugs prayers, vamp",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

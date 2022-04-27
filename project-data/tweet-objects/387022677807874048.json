@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-10-07 01:12:51+00:00",
+    "id": 387022677807874048,
+    "text": "@michellemalkin  Obama specifically picks the most crucial that will impact people purposely to get political points for reaction",
+    "entities": {
+        "annotations": [
+            {
+                "start": 17,
+                "end": 21,
+                "probability": 0.9951,
+                "type": "Person",
+                "normalized_text": "Obama"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15976697
+}

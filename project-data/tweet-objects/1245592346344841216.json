@@ -1,0 +1,36 @@
+{
+    "created_at": "2020-04-02 06:02:12+00:00",
+    "id": 1245592346344841216,
+    "text": "What are the symptoms of Covid-19?\u200b Let's watch a new episode of \"Q&amp;A about Covid-19\" to know what are the symptoms of Covid-19. #Covid19kh https://t.co/BGvRmXew4i",
+    "entities": {
+        "urls": [
+            {
+                "start": 144,
+                "end": 167,
+                "url": "https://t.co/BGvRmXew4i",
+                "expanded_url": "https://youtu.be/abbGiNb6DP8",
+                "display_url": "youtu.be/abbGiNb6DP8",
+                "status": 200,
+                "unwound_url": "https://www.youtube.com/watch?v=abbGiNb6DP8&feature=youtu.be"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 25,
+                "end": 29,
+                "probability": 0.1966,
+                "type": "Person",
+                "normalized_text": "Covid"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 133,
+                "end": 143,
+                "tag": "Covid19kh"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 103938458
+}

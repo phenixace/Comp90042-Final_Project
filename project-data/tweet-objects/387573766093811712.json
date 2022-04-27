@@ -1,0 +1,49 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PolitiFact",
+                "id": "8953122"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "username": "amk4obama",
+                "id": "3290879530"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 90,
+                "end": 92,
+                "probability": 0.5231,
+                "type": "Organization",
+                "normalized_text": "RNC"
+            }
+        ],
+        "urls": [
+            {
+                "start": 118,
+                "end": 140,
+                "url": "http://t.co/3Jp9soaOoL",
+                "expanded_url": "http://trueblueliberal.blogspot.com/2013/10/the-strategy-of-distraction.html",
+                "display_url": "trueblueliberal.blogspot.com/2013/10/the-st…",
+                "status": 200,
+                "unwound_url": "http://trueblueliberal.blogspot.com/2013/10/the-strategy-of-distraction.html"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 44,
+                "end": 56,
+                "tag": "GOPShutdown"
+            }
+        ]
+    },
+    "created_at": "2013-10-08T13:42:41.000Z",
+    "id": "387573766093811712",
+    "text": "@PolitiFact @amk4obama These lies about the #GOPShutdown are not isolated.They're part of RNC strategy of distraction http://t.co/3Jp9soaOoL"
+}

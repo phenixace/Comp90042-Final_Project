@@ -1,0 +1,28 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2014-09-22T17:57:44.000Z",
+    "id": "514111318442266624",
+    "text": "@LeeDugas2001 @JayRooTheDee @NBCNews I live on the border, if you think it's secure your definitely mistaken. Take a trip!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "LeeDugas2001",
+                "id": "65846554"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "username": "JayRooTheDee",
+                "id": "2413247540"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    }
+}

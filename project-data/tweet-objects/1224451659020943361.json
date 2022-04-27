@@ -1,0 +1,74 @@
+{
+    "created_at": "2020-02-03T21:56:39.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 88,
+                "end": 93,
+                "probability": 0.5173,
+                "type": "Product",
+                "normalized_text": "Google"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 63,
+                "end": 67,
+                "username": "WHO",
+                "id": "14499829"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 322,
+                "end": 337,
+                "tag": "honestquestion"
+            }
+        ]
+    },
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO @WHO If your gunna force Google to make you the number 1 search result, I really hope you are not making money off Ads on your website.... I mean if you only in it to support the world then the capitialist side of things should be turned off don't you think? #honestquestion",
+    "id": "1224451659020943361",
+    "source": "Twitter Web App"
+}

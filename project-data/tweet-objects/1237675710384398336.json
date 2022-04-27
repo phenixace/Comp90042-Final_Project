@@ -1,0 +1,71 @@
+{
+    "created_at": "2020-03-11 09:44:18+00:00",
+    "id": 1237675710384398336,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHOAFRO @WHO_Europe @WHOEMRO @pahowho Here is an information pack that you are welcome to send out, share and print for your workplace to ensure that the correct information is being shared and that everyone has a better grip on how to handle the #COVID19 infection.\nClick the link - https://t.co/SPOizErmRj",
+    "entities": {
+        "urls": [
+            {
+                "start": 309,
+                "end": 332,
+                "url": "https://t.co/SPOizErmRj",
+                "expanded_url": "http://bit.ly/2ICSHLA",
+                "display_url": "bit.ly/2ICSHLA",
+                "status": 200,
+                "unwound_url": "https://mailchi.mp/myhealthtv.com/coronavirus-covid-19-information-pack-from-myhealthtvcom-3854565"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 272,
+                "end": 280,
+                "tag": "COVID19"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 33,
+                "end": 44,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "pahowho",
+                "id": "20629893"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 14499829
+}

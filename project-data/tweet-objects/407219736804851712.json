@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-12-01 18:48:45+00:00",
+    "id": 407219736804851712,
+    "text": "@teenagernotes m telln u.. Lol",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "teenagernotes",
+                "id": "148779151"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry\u00ae",
+    "in_reply_to_user_id": 148779151
+}

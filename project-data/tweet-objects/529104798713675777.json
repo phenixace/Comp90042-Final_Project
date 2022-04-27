@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 02:56:28+00:00",
+    "id": 529104798713675777,
+    "text": "@fluffyguy atleast your breaking news xD",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 28245852
+}

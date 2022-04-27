@@ -1,0 +1,31 @@
+{
+    "source": "Twitter for Android",
+    "id": "1273886451613065216",
+    "entities": {
+        "annotations": [
+            {
+                "start": 51,
+                "end": 56,
+                "probability": 0.9503,
+                "type": "Place",
+                "normalized_text": "Sweden"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "FatEmperor",
+                "id": "2383882980"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "username": "RuminatorDan",
+                "id": "1253076808150462466"
+            }
+        ]
+    },
+    "created_at": "2020-06-19T07:52:52.000Z",
+    "text": "@FatEmperor @RuminatorDan I don't quite understand Sweden's objective. They have said their goal is not herd immunity, so what is it?"
+}

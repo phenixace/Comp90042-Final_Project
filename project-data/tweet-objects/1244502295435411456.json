@@ -1,0 +1,16 @@
+{
+    "created_at": "2020-03-30 05:50:43+00:00",
+    "id": 1244502295435411456,
+    "text": "In the fourth episode of \"Q&amp;A about Covid-19\", you learn what should you do if you feel unwell?  #Covid19kh",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 101,
+                "end": 111,
+                "tag": "Covid19kh"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 103938458
+}

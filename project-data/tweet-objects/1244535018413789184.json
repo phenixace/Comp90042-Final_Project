@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-03-30 08:00:45+00:00",
+    "id": 1244535018413789184,
+    "text": "@Daniel22223333 @hshaban @loisbeckett I swear some people think \"no touching\" means the virus can only be spread by coughing in your hand and then rubbing it in your face.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "Daniel22223333",
+                "id": "161387747"
+            },
+            {
+                "start": 16,
+                "end": 24,
+                "username": "hshaban",
+                "id": "391560579"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "username": "loisbeckett",
+                "id": "21134925"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2749291534
+}

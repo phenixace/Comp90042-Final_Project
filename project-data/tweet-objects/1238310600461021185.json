@@ -1,0 +1,32 @@
+{
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "samesquad49",
+                "id": "621188410"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "username": "KyleAMadson",
+                "id": "43921895"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 88,
+                "end": 91,
+                "probability": 0.5796,
+                "type": "Organization",
+                "normalized_text": "SARS"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "621188410",
+    "created_at": "2020-03-13T03:47:08.000Z",
+    "id": "1238310600461021185",
+    "text": "@samesquad49 @KyleAMadson This isnt the flu. Heat has killed other corona viruses, like SARS, but that’s not a sure thing with Covid 19"
+}

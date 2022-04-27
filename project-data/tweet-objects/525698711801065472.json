@@ -1,0 +1,22 @@
+{
+    "text": "@MailOnline @poppypride1 Our hearts go out to his family and friends, his pets to may he r.i.p",
+    "created_at": "2014-10-24T17:21:54.000Z",
+    "id": "525698711801065472",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "MailOnline",
+                "id": "15438913"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "poppypride1",
+                "id": "614494411"
+            }
+        ]
+    },
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2020-04-26 04:54:32+00:00",
+    "id": 1254272627109232640,
+    "text": "@TeachOnTheRight @JPL_Reader @tedcruz If you really are a teacher I urge you to resign. You don't need to be around kids.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TeachOnTheRight",
+                "id": "1488504740"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "username": "JPL_Reader",
+                "id": "818155216214355968"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "username": "tedcruz",
+                "id": "23022687"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1488504740
+}

@@ -1,0 +1,29 @@
+{
+    "created_at": "2014-10-22 17:21:48+00:00",
+    "id": 524973909930569728,
+    "text": "@JakeWideman @CBCAlerts @ArponBasu apparently he has been shot dead :-(",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "JakeWideman",
+                "id": "1336924130"
+            },
+            {
+                "start": 13,
+                "end": 23,
+                "username": "CBCAlerts",
+                "id": "19038934"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "username": "ArponBasu",
+                "id": "14207711"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1336924130
+}

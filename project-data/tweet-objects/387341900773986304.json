@@ -1,0 +1,35 @@
+{
+    "created_at": "2013-10-07 22:21:20+00:00",
+    "id": 387341900773986304,
+    "text": "&amp; FLOTUS site: http://t.co/PAUWfqrXBu didn't miss a beat. RT @michellemalkin Really? Amber Alert website goes dark under government shutdown",
+    "entities": {
+        "urls": [
+            {
+                "start": 19,
+                "end": 41,
+                "url": "http://t.co/PAUWfqrXBu",
+                "expanded_url": "http://LETSMOVE.GOV",
+                "display_url": "LETSMOVE.GOV"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 65,
+                "end": 80,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 2,
+                "end": 7,
+                "probability": 0.5621,
+                "type": "Person",
+                "normalized_text": "FLOTUS"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15976697
+}

@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-12-02 01:32:27+00:00",
+    "id": 407321329181143041,
+    "text": "\u201c@teenagernotes: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.\u201d",
+    "entities": {
+        "annotations": [
+            {
+                "start": 52,
+                "end": 62,
+                "probability": 0.9973,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 15,
+                "username": "teenagernotes",
+                "id": "148779151"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 148779151
+}

@@ -1,0 +1,35 @@
+{
+    "text": "“@cnnbrk: Attorney: New audio reveals pause in gunfire when Michael Brown was shot. http://t.co/PGowoHTIPi” people believe this?",
+    "id": "504143419464482816",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 8,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 60,
+                "end": 72,
+                "probability": 0.9959,
+                "type": "Person",
+                "normalized_text": "Michael Brown"
+            }
+        ],
+        "urls": [
+            {
+                "start": 84,
+                "end": 106,
+                "url": "http://t.co/PGowoHTIPi",
+                "expanded_url": "http://cnn.it/1wuOTC0",
+                "display_url": "cnn.it/1wuOTC0"
+            }
+        ]
+    },
+    "created_at": "2014-08-26T05:48:52.000Z",
+    "in_reply_to_user_id": "428333"
+}

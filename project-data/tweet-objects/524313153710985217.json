@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-20 21:36:11+00:00",
+    "id": 524313153710985217,
+    "text": "@Telegraph \"Girl With The ADT Earring\" - doesn't roll off the tongue as easy but a stunning piece of artwork!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "Telegraph",
+                "id": "16343974"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16343974
+}

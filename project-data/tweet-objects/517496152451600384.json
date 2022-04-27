@@ -1,0 +1,22 @@
+{
+    "source": "Twitter Web Client",
+    "created_at": "2014-10-02T02:07:52.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "username": "FoxNews",
+                "id": "1367531"
+            }
+        ]
+    },
+    "id": "517496152451600384",
+    "text": "@megynkelly @FoxNews he deserves the death penalty for what he did"
+}

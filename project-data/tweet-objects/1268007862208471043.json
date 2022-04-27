@@ -1,0 +1,31 @@
+{
+    "id": "1268007862208471043",
+    "entities": {
+        "urls": [
+            {
+                "start": 107,
+                "end": 130,
+                "url": "https://t.co/SLjaPeqZdt",
+                "expanded_url": "https://www.nytimes.com/interactive/2020/06/02/us/elections/results-iowa-house-district-4-primary-election.html",
+                "display_url": "nytimes.com/interactive/20…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "gershon_JP",
+                "id": "3383880269"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "username": "EsotericCD",
+                "id": "161163311"
+            }
+        ]
+    },
+    "created_at": "2020-06-03T02:33:27.000Z",
+    "text": "@gershon_JP @EsotericCD Don't know when it'll be called, but you can obsessively hit F5 on this page here:\nhttps://t.co/SLjaPeqZdt",
+    "source": "Twitter Web App"
+}

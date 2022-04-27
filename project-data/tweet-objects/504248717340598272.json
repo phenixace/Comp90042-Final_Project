@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-26 12:47:17+00:00",
+    "id": 504248717340598272,
+    "text": "@MarkSiettmann oh, shut up, Racist!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "MarkSiettmann",
+                "id": "1380147686255558660"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "in_reply_to_user_id": 21702995
+}

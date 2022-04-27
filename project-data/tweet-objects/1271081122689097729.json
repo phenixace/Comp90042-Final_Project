@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-11 14:05:29+00:00",
+    "id": 1271081122689097729,
+    "text": "@BobKurbel @ScottGottliebMD @steveusdin1 @Novavax great, what is the timeframe for widely available vaccines so we can reach herd immunity before 1M people die? or 2M?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "BobKurbel",
+                "id": "751196586"
+            },
+            {
+                "start": 11,
+                "end": 27,
+                "username": "ScottGottliebMD",
+                "id": "40156330"
+            },
+            {
+                "start": 28,
+                "end": 40,
+                "username": "steveusdin1",
+                "id": "371790609"
+            },
+            {
+                "start": 41,
+                "end": 49,
+                "username": "Novavax",
+                "id": "2913798339"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 751196586
+}

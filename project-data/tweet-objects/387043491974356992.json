@@ -1,0 +1,40 @@
+{
+    "created_at": "2013-10-07 02:35:34+00:00",
+    "id": 387043491974356992,
+    "text": "@michellemalkin GOVT SWEAT SHOPS PROBABLY WILL BECOME OBAMA'S END GAME TO KEEP OBAMACARE ACTIVE DURING BANKRUPTCY OF USA, HUMAN RIGHTS EVILS",
+    "entities": {
+        "annotations": [
+            {
+                "start": 54,
+                "end": 58,
+                "probability": 0.9863,
+                "type": "Person",
+                "normalized_text": "OBAMA"
+            },
+            {
+                "start": 79,
+                "end": 87,
+                "probability": 0.4662,
+                "type": "Organization",
+                "normalized_text": "OBAMACARE"
+            },
+            {
+                "start": 117,
+                "end": 119,
+                "probability": 0.9816,
+                "type": "Place",
+                "normalized_text": "USA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 15976697
+}

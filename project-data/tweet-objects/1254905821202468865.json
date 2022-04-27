@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-27 22:50:37+00:00",
+    "id": 1254905821202468865,
+    "text": "@genvc Lives are a secondary consideration",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 6,
+                "username": "genvc",
+                "id": "1771381"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1771381
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-03 03:13:30+00:00",
+    "id": 529109082192363520,
+    "text": "@fluffyguy I got scared! Glad your alive idol!!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

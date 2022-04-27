@@ -1,0 +1,16 @@
+{
+    "id": "427764578743644160",
+    "created_at": "2014-01-27T11:26:37.000Z",
+    "text": "Wanna see my shock face? RT @NBCNews: Actor who played Marlboro Man in ads dies from smoking-related disease",
+    "entities": {
+        "mentions": [
+            {
+                "start": 28,
+                "end": 36,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone"
+}

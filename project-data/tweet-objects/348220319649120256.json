@@ -1,0 +1,22 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 9,
+                "end": 20,
+                "username": "Talkmaster",
+                "id": "16725276"
+            },
+            {
+                "start": 27,
+                "end": 39,
+                "username": "BarackObama",
+                "id": "813286"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "text": "@cgs_atl @Talkmaster / Did @BarackObama receive one as well?",
+    "id": "348220319649120256",
+    "created_at": "2013-06-21T23:26:08.000Z"
+}

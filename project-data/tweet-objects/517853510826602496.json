@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "megynkelly",
+                "id": "110445334"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "110445334",
+    "created_at": "2014-10-03T01:47:52.000Z",
+    "text": "@megynkelly Don't see any problem with that. Still guillotine out there?",
+    "id": "517853510826602496",
+    "source": "Twitter for Websites"
+}

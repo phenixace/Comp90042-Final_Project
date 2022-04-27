@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 134,
+                "end": 142,
+                "probability": 0.9826,
+                "type": "Place",
+                "normalized_text": "Stockholm"
+            }
+        ]
+    },
+    "created_at": "2020-06-10T17:31:30.000Z",
+    "source": "Twitter Web App",
+    "text": "And our policy as it stands is *designed* to produce new infections in the range of 500-600 per day (even if you dismissed the lab in Stockholm as a statistical fluke). How come Swedes are accepting a magnitude of 20x the deaths of their nordic neighbors? Be still, my heart",
+    "id": "1270770580174909442"
+}

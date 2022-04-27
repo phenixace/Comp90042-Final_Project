@@ -1,0 +1,24 @@
+{
+    "id": "1242421853764943873",
+    "source": "Twitter Web App",
+    "entities": {
+        "annotations": [
+            {
+                "start": 244,
+                "end": 266,
+                "probability": 0.4024,
+                "type": "Person",
+                "normalized_text": "Abba Kyari Buhari Abuja"
+            },
+            {
+                "start": 272,
+                "end": 276,
+                "probability": 0.918,
+                "type": "Place",
+                "normalized_text": "Lagos"
+            }
+        ]
+    },
+    "text": "because of infection with the new coronavirus.\n\nHowever, they cannot detect people who are infected but are not yet sick with fever. This is because it takes between 2 and 10 days before people who are infected become sick and develop a fever.\nAbba Kyari Buhari Abuja and Lagos",
+    "created_at": "2020-03-24T12:03:47.000Z"
+}

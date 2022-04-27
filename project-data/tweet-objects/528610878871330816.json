@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-01T18:13:49.000Z",
+    "text": "@washingtonpost @BobCaton Those fangs scare the crap out of me.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "washingtonpost",
+                "id": "2467791"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "username": "BobCaton",
+                "id": "36735770"
+            }
+        ]
+    },
+    "id": "528610878871330816",
+    "source": "Echofon"
+}

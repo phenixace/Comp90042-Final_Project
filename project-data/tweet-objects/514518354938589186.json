@@ -1,0 +1,16 @@
+{
+    "text": "@Gizmodo WOW something else I don't care about.",
+    "created_at": "2014-09-23T20:55:09.000Z",
+    "id": "514518354938589186",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "Gizmodo",
+                "id": "2890961"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

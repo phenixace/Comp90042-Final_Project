@@ -1,0 +1,41 @@
+{
+    "created_at": "2014-08-26 18:29:28+00:00",
+    "id": 504334829102850048,
+    "text": "\u201c@WesleyLowery: CNN: New audio reveals 10 shots fired at Brown. Cluster of 6...pause... then 4 more http://t.co/rI1F59P1IU\u201d @rolandsmartin",
+    "entities": {
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/rI1F59P1IU",
+                "expanded_url": "http://www.cnn.com/2014/08/26/us/michael-brown-ferguson-shooting/?c=&page=1",
+                "display_url": "cnn.com/2014/08/26/us/\u2026"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 18,
+                "probability": 0.9873,
+                "type": "Organization",
+                "normalized_text": "CNN"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 14,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            },
+            {
+                "start": 124,
+                "end": 138,
+                "username": "rolandsmartin",
+                "id": "16116288"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14849562
+}

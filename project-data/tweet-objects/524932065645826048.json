@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 14:35:31+00:00",
+    "id": 524932065645826048,
+    "text": "@cnnbrk it was the sentry standing guard at the tomb of the unknown soldier...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for BlackBerry",
+    "in_reply_to_user_id": 428333
+}

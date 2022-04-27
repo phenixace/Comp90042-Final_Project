@@ -1,0 +1,16 @@
+{
+    "source": "Twitter Web Client",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Notexplained",
+                "id": "19851491"
+            }
+        ]
+    },
+    "created_at": "2014-11-03T19:23:30.000Z",
+    "text": "@NotExplained @FreakyAbandoned seems like it's pretty known now…",
+    "id": "529353190966575104"
+}

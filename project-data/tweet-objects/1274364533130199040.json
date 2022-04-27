@@ -1,0 +1,35 @@
+{
+    "created_at": "2020-06-20 15:32:35+00:00",
+    "id": 1274364533130199040,
+    "text": "@shoesnark @felicianista @Carolkry @Cynthia0259 @catturd2 @Acosta Oh now you guys like the WHO?  Make up your mind.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 24,
+                "username": "felicianista",
+                "id": "226325216"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "username": "Carolkry",
+                "id": "2531462340"
+            },
+            {
+                "start": 48,
+                "end": 57,
+                "username": "catturd2",
+                "id": "1043185714437992449"
+            },
+            {
+                "start": 58,
+                "end": 65,
+                "username": "Acosta",
+                "id": "22771961"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 1236127652936810498
+}

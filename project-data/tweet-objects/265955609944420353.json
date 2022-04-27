@@ -1,0 +1,17 @@
+{
+    "id": "265955609944420353",
+    "created_at": "2012-11-06T23:15:33.000Z",
+    "text": "@chrissyteigen be there in 10!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "chrissyteigen",
+                "id": "39364684"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "39364684",
+    "source": "Twitter for iPhone"
+}

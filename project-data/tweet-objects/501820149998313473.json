@@ -1,0 +1,35 @@
+{
+    "created_at": "2014-08-19 19:57:01+00:00",
+    "id": 501820149998313473,
+    "text": "@itldoranch @BrightHeathen @sunsetrider47 @_esaliba but I recall your ancestors looting and stealing. Is that in the constitution as well?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "itldoranch",
+                "id": "394840322"
+            },
+            {
+                "start": 12,
+                "end": 26,
+                "username": "BrightHeathen",
+                "id": "2329584823"
+            },
+            {
+                "start": 27,
+                "end": 41,
+                "username": "sunsetrider47",
+                "id": "2451213882"
+            },
+            {
+                "start": 42,
+                "end": 51,
+                "username": "_esaliba",
+                "id": "156743986"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 394840322
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-06-11 22:17:20+00:00",
+    "id": 1271204900794503168,
+    "text": "@aidengregg @daniellevitt22 Herd immunity threshold is a function of R0, (R0-1)/R0. If pre-existing immunity brings R0 down to 1.25 then HI is 20%",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "aidengregg",
+                "id": "27411551"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 27411551
+}

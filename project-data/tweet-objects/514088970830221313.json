@@ -1,0 +1,16 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2014-09-22T16:28:56.000Z",
+    "id": "514088970830221313",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "NYDailyNews",
+                "id": "9763482"
+            }
+        ]
+    },
+    "text": "@NYDailyNews One's not enough and three's too many. Kind of like martini's."
+}

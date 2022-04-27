@@ -1,0 +1,40 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "IndependentSage",
+                "id": "1256925276530974721"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "username": "robertjwest",
+                "id": "260345372"
+            }
+        ],
+        "urls": [
+            {
+                "start": 262,
+                "end": 285,
+                "url": "https://t.co/rUi6QDnx8y",
+                "expanded_url": "https://twitter.com/fascinatorfun/status/1269713838217334784/photo/1",
+                "display_url": "pic.twitter.com/rUi6QDnx8y"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 227,
+                "end": 240,
+                "probability": 0.4986,
+                "type": "Person",
+                "normalized_text": "Roche v Abbott"
+            }
+        ]
+    },
+    "created_at": "2020-06-07T19:32:23.000Z",
+    "text": "@IndependentSage @robertjwest 5/. I have noticed that serology surveillance suggests the Midlands and SW are actually getting lower.  (Graph PHE)\n\nWhat is going on?  What is being measured?  Is it a difference in testing kits (Roche v Abbott).  Do we even know? https://t.co/rUi6QDnx8y",
+    "id": "1269713838217334784",
+    "source": "Twitter for iPad"
+}

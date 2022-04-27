@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-01T21:07:37.000Z",
+    "text": "@Excitab1e @311Chicago @washingtonpost I'd do her.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 11,
+                "end": 22,
+                "username": "311Chicago",
+                "id": "243268045"
+            },
+            {
+                "start": 23,
+                "end": 38,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "id": "528654619950714880",
+    "source": "Twitter Web Client"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-04-12 02:34:58+00:00",
+    "id": 1249164075168337925,
+    "text": "@Insalubrity I've wanted to see that one but I hear it has ghosts.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "Insalubrity",
+                "id": "16106125"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 16106125
+}

@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 02:32:28+00:00",
+    "id": 529098757250363392,
+    "text": "@fluffyguy What...how dare they.viva #fluffy",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 37,
+                "end": 44,
+                "tag": "fluffy"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

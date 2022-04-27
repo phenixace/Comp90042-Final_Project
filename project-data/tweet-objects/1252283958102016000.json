@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 12,
+                "end": 35,
+                "url": "https://t.co/fpgXFqhcSF",
+                "expanded_url": "https://twitter.com/PierSystemTech/status/942994040114606081?s=19",
+                "display_url": "twitter.com/PierSystemTech…"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "PhilipObin",
+                "id": "454047437"
+            }
+        ]
+    },
+    "created_at": "2020-04-20T17:12:16.000Z",
+    "source": "Twitter for Android",
+    "text": "@PhilipObin https://t.co/fpgXFqhcSF",
+    "id": "1252283958102016000"
+}

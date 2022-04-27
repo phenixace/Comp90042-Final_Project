@@ -1,0 +1,54 @@
+{
+    "created_at": "2014-10-09T08:49:14.000Z",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "urls": [
+            {
+                "start": 59,
+                "end": 81,
+                "url": "http://t.co/CU92I73Spi",
+                "expanded_url": "http://www.thepoke.co.uk/2014/10/08/penis-graffiti-drawn-on-1-5million-bugatti-veyron/",
+                "display_url": "thepoke.co.uk/2014/10/08/pen…"
+            },
+            {
+                "start": 82,
+                "end": 104,
+                "url": "http://t.co/nwW7BsdlcB",
+                "expanded_url": "https://twitter.com/ThePoke/status/520132836594970625/photo/1",
+                "display_url": "pic.twitter.com/nwW7BsdlcB"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 106,
+                "end": 114,
+                "tag": "awkward"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 42,
+                "end": 55,
+                "probability": 0.4404,
+                "type": "Product",
+                "normalized_text": "Bugatti Veyron"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "ThePoke",
+                "id": "143145579"
+            },
+            {
+                "start": 115,
+                "end": 125,
+                "username": "CountKyle",
+                "id": "240051247"
+            }
+        ]
+    },
+    "id": "520133875176329216",
+    "text": "“@ThePoke: Penis graffiti  drawn on £1.5m Bugatti Veyron.\n\nhttp://t.co/CU92I73Spi http://t.co/nwW7BsdlcB” #awkward @CountKyle"
+}

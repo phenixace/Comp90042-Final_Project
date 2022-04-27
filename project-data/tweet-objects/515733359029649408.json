@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "PortlandPolice",
+                "id": "14604442"
+            }
+        ]
+    },
+    "created_at": "2014-09-27T05:23:09.000Z",
+    "text": "@NBCNews @PortlandPolice 2014 Ultimate Consideration Award recipients.",
+    "id": "515733359029649408",
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter Web Client"
+}

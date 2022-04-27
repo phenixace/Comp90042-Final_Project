@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 44,
+                "end": 52,
+                "probability": 0.8549,
+                "type": "Place",
+                "normalized_text": "Fukushima"
+            },
+            {
+                "start": 79,
+                "end": 91,
+                "probability": 0.5042,
+                "type": "Place",
+                "normalized_text": "Pacific Ocean"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 20,
+                "end": 27,
+                "username": "RT_com",
+                "id": "64643056"
+            }
+        ],
+        "urls": [
+            {
+                "start": 93,
+                "end": 115,
+                "url": "http://t.co/IbPo83QJoW",
+                "expanded_url": "http://on.rt.com/50ro3u",
+                "display_url": "on.rt.com/50ro3u"
+            }
+        ]
+    },
+    "text": "Terrifying story RT @RT_com: Water leaks at Fukushima could contaminate entire Pacific Ocean http://t.co/IbPo83QJoW",
+    "source": "Twitter for iPhone",
+    "id": "365542998496391169",
+    "created_at": "2013-08-08T18:40:16.000Z"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "499938442277842944",
+    "created_at": "2014-08-14T15:19:47.000Z",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 78,
+                "end": 88,
+                "tag": "MikeBrown"
+            },
+            {
+                "start": 89,
+                "end": 98,
+                "tag": "Murdered"
+            },
+            {
+                "start": 127,
+                "end": 136,
+                "tag": "Ferguson"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "ksdknews",
+                "id": "42921216"
+            }
+        ]
+    },
+    "text": "@ksdknews Whew! Now that we got that out of the way. Come on people! Really?! #MikeBrown #Murdered Hands up sign of surrender! #Ferguson",
+    "in_reply_to_user_id": "42921216",
+    "source": "Twitter for Android"
+}

@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-22 14:29:58+00:00",
+    "id": 524930667134869504,
+    "text": "@cnnbrk it was more than 30 shots",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 7,
+                "username": "cnnbrk",
+                "id": "428333"
+            }
+        ]
+    },
+    "source": "Twitter for Windows Phone",
+    "in_reply_to_user_id": 428333
+}

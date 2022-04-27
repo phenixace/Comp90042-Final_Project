@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 5,
+                "end": 17,
+                "tag": "covid2019NL"
+            }
+        ],
+        "urls": [
+            {
+                "start": 18,
+                "end": 41,
+                "url": "https://t.co/K88PI2J9v5",
+                "expanded_url": "https://twitter.com/Stevenvan_Dijk/status/1237838647354933248",
+                "display_url": "twitter.com/Stevenvan_Dijk…"
+            }
+        ]
+    },
+    "text": "This #covid2019NL https://t.co/K88PI2J9v5",
+    "source": "Twitter for Android",
+    "created_at": "2020-03-11T21:37:43.000Z",
+    "id": "1237855244412846080"
+}

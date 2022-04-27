@@ -1,0 +1,18 @@
+{
+    "created_at": "2014-10-22 15:24:32+00:00",
+    "id": 524944399890124801,
+    "text": "Recap: Gunman shot dead inside Parliament buildings; police believe there may be others on loose. Cdn soldier shot earlier at War Memorial.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 126,
+                "end": 137,
+                "probability": 0.8759,
+                "type": "Place",
+                "normalized_text": "War Memorial"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": null
+}

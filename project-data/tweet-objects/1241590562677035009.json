@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-22 05:00:32+00:00",
+    "id": 1241590562677035009,
+    "text": "@nature_hub 2 sincere important things please: 1 since your newsletter already went out and isn't posted on your website, please post a link to those important answers 2 followed the link to your website, there is no subscribe there",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "nature_hub",
+                "id": "1001387181410144257"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1001387181410144257
+}

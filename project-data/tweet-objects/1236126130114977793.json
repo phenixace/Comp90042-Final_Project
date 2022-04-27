@@ -1,0 +1,18 @@
+{
+    "created_at": "2020-03-07 03:06:50+00:00",
+    "id": 1236126130114977793,
+    "text": "I\u2019m an older (57yr) RN. I lived through H1N1 &amp; Avian flu. In hospital, clinic &amp; public health units we were over prepared. Speaking out National Nurses United has stated alarm for our nurses. I am stunned by disregard &amp; unpreparedness of this administration  for coronavirus.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 136,
+                "end": 157,
+                "probability": 0.9664,
+                "type": "Organization",
+                "normalized_text": "National Nurses United"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": null
+}

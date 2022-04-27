@@ -1,0 +1,26 @@
+{
+    "created_at": "2013-12-01 16:30:42+00:00",
+    "id": 407184995401224193,
+    "text": "@ThatKevinSmith kevin your a good dude too.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "ThatKevinSmith",
+                "id": "14681605"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 16,
+                "end": 20,
+                "probability": 0.8212,
+                "type": "Person",
+                "normalized_text": "kevin"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14681605
+}

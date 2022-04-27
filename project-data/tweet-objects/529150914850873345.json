@@ -1,0 +1,38 @@
+{
+    "created_at": "2014-11-03 05:59:43+00:00",
+    "id": 529150914850873345,
+    "text": "@fluffyguy JESUS biggest scare of my life!! Pls, news stations, do ur research!! #FluffyDied #NoHeDidnt",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 81,
+                "end": 92,
+                "tag": "FluffyDied"
+            },
+            {
+                "start": 93,
+                "end": 103,
+                "tag": "NoHeDidnt"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 11,
+                "end": 15,
+                "probability": 0.5161,
+                "type": "Person",
+                "normalized_text": "JESUS"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28245852
+}

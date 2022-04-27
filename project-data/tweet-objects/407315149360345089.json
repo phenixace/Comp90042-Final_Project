@@ -1,0 +1,43 @@
+{
+    "source": "Twitter for iPhone",
+    "created_at": "2013-12-02T01:07:53.000Z",
+    "id": "407315149360345089",
+    "entities": {
+        "mentions": [
+            {
+                "start": 1,
+                "end": 9,
+                "username": "MTVNEWS",
+                "id": "40076725"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 125,
+                "end": 136,
+                "tag": "OpenEyeF13"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 26,
+                "end": 36,
+                "probability": 0.9502,
+                "type": "Person",
+                "normalized_text": "Paul Walker"
+            }
+        ],
+        "urls": [
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/1UtLC3kqbg",
+                "expanded_url": "http://on.mtv.com/IzsonJ",
+                "display_url": "on.mtv.com/IzsonJ",
+                "status": 200,
+                "unwound_url": "http://www.mtv.com/news/1718275/paul-walker-death-fast-furious-7/"
+            }
+        ]
+    },
+    "text": "“@MTVNews: In the wake of Paul Walker's tragic death, what's the future of the @FastFurious movies? http://t.co/1UtLC3kqbg \" #OpenEyeF13"
+}

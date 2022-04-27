@@ -1,0 +1,85 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "urls": [
+            {
+                "start": 177,
+                "end": 200,
+                "url": "https://t.co/1VGuCTFwsF",
+                "expanded_url": "http://chng.it/gSFM99Lf",
+                "display_url": "chng.it/gSFM99Lf",
+                "status": 200,
+                "unwound_url": "https://www.change.org/p/united-nations-call-for-the-resignation-of-tedros-adhanom-ghebreyesus-who-director-general?recruiter=428734578&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_message&recruited_by_id=bdbfe5bb-adc5-4eb8-987d-7144d946242f&share_bandit_exp=message-20174937-en-CA&share_bandit_var=v3"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            },
+            {
+                "start": 205,
+                "end": 215,
+                "username": "ChangeAus",
+                "id": "397109184"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 63,
+                "end": 76,
+                "probability": 0.3665,
+                "type": "Organization",
+                "normalized_text": "United Nations"
+            },
+            {
+                "start": 107,
+                "end": 132,
+                "probability": 0.8372,
+                "type": "Person",
+                "normalized_text": "Tedros Adhanom Ghebreyesus"
+            }
+        ]
+    },
+    "created_at": "2020-02-02T10:58:39.000Z",
+    "id": "1223923681706950656",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO United Nations: Call for the resignation of Tedros Adhanom Ghebreyesus, WHO Director General - Sign the Petition! https://t.co/1VGuCTFwsF via @ChangeAUS"
+}

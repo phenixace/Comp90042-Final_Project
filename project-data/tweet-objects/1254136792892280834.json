@@ -1,0 +1,35 @@
+{
+    "id": "1254136792892280834",
+    "created_at": "2020-04-25T19:54:46.000Z",
+    "text": "@LuvsClay @ColtonClayLuvs @CorneliusLuvsU @clay_luvs @CalliopeClay Okay, It sure made me feel funky.. but I guess it was just me... I will want that recipes when I’m older though, just to relax",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "LuvsClay",
+                "id": "1252635371411824642"
+            },
+            {
+                "start": 10,
+                "end": 25,
+                "username": "ColtonClayLuvs",
+                "id": "1252755238194470914"
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "username": "clay_luvs",
+                "id": "1253103053907079171"
+            },
+            {
+                "start": 53,
+                "end": 66,
+                "username": "CalliopeClay",
+                "id": "1251733140000759808"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "1252635371411824642",
+    "source": "Twitter for iPhone"
+}

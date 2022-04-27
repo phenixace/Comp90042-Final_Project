@@ -1,0 +1,62 @@
+{
+    "created_at": "2020-01-28 01:48:37+00:00",
+    "id": 1221973319815061504,
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO In Thailand news saying that 4 of the 8 were cured and sent home.....if it's true, there might be hope....",
+    "entities": {
+        "annotations": [
+            {
+                "start": 66,
+                "end": 73,
+                "probability": 0.97,
+                "type": "Place",
+                "normalized_text": "Thailand"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14499829
+}

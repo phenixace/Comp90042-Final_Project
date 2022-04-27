@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-02-10 12:38:38+00:00",
+    "id": 1226847944999129088,
+    "text": "@ChinaDaily Unless you get an oportunistic  bacterial infection secondary to the coronavirus, due to the virus weakening your inmune system.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "ChinaDaily",
+                "id": "87775422"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 87775422
+}

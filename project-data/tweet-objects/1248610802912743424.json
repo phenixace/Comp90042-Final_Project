@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-10 13:56:28+00:00",
+    "id": 1248610802912743424,
+    "text": "@TrueNorthRising @MayorBeer Bell, we know you're the top health expert on the planet. You are right and all other health experts are wrong, good day!",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "TrueNorthRising",
+                "id": "872910541077045248"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "username": "MayorBeer",
+                "id": "1247332883062292480"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 872910541077045248
+}

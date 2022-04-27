@@ -1,0 +1,22 @@
+{
+    "created_at": "2014-11-01T16:26:13.000Z",
+    "text": "@Skankatron @washingtonpost OMG that is terrifying.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "Skankatron",
+                "id": "73400415"
+            },
+            {
+                "start": 12,
+                "end": 27,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "id": "528583802701221888",
+    "source": "Twitter for iPhone"
+}

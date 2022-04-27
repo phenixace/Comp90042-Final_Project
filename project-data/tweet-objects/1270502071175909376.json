@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-06-09 23:44:33+00:00",
+    "id": 1270502071175909376,
+    "text": "@OT_Child @atruchecks Eventually..asked for a refund.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "OT_Child",
+                "id": "1019317333964345344"
+            },
+            {
+                "start": 10,
+                "end": 21,
+                "username": "atruchecks",
+                "id": "1088444935177592833"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 1019317333964345344
+}

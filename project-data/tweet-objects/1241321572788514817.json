@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "hashtags": [
+            {
+                "start": 264,
+                "end": 276,
+                "tag": "ukzncovid19"
+            }
+        ]
+    },
+    "id": "1241321572788514817",
+    "text": "People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick. (3/3)\n\ne: covid19@ukzn.ac.za\nt: 0800 029 999\n\n#ukzncovid19",
+    "source": "Twitter for iPhone",
+    "created_at": "2020-03-21T11:11:40.000Z",
+    "in_reply_to_user_id": "113290361"
+}

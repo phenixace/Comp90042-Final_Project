@@ -1,0 +1,32 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "TimOBrien",
+                "id": "20742461"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 74,
+                "end": 85,
+                "probability": 0.6633,
+                "type": "Organization",
+                "normalized_text": "Chick-fil-A."
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 14,
+                "end": 22,
+                "tag": "COVID19"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-17T14:19:52.000Z",
+    "text": "@TimOBrien So #COVID19  is actually as bad for you as eating regularly at Chick-fil-A.",
+    "id": "1251153408431546370"
+}

@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-10 02:59:11+00:00",
+    "id": 531642196316155904,
+    "text": "@KlausvonRichter @IGN NO.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 16,
+                "username": "KlausvonRichter",
+                "id": "1164213025"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 1164213025
+}

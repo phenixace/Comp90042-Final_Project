@@ -1,0 +1,16 @@
+{
+    "created_at": "2014-10-18T10:33:52.000Z",
+    "source": "Twitter for Android",
+    "text": "@Channel4News great news",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Channel4News",
+                "id": "14569869"
+            }
+        ]
+    },
+    "id": "523421700764205056"
+}

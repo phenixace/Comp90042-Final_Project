@@ -1,0 +1,17 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 10,
+                "end": 12,
+                "probability": 0.7872,
+                "type": "Organization",
+                "normalized_text": "BBC"
+            }
+        ]
+    },
+    "created_at": "2020-06-10T14:02:29.000Z",
+    "source": "Twitter Web App",
+    "text": "1) As the BBC article demonstrates, lockdowns greatly reduced the number of new cases in many countries. They saved lives, they bought us time, they contained potential superspreader events, and more",
+    "id": "1270717977856360454"
+}

@@ -1,0 +1,26 @@
+{
+    "text": "Attorney: New audio reveals pause in gunfire when Michael Brown was shot. http://t.co/R0rYMIutl2",
+    "id": "504131654810877952",
+    "source": "Twitter Web Client",
+    "created_at": "2014-08-26T05:02:07.000Z",
+    "entities": {
+        "annotations": [
+            {
+                "start": 50,
+                "end": 62,
+                "probability": 0.9961,
+                "type": "Person",
+                "normalized_text": "Michael Brown"
+            }
+        ],
+        "urls": [
+            {
+                "start": 74,
+                "end": 96,
+                "url": "http://t.co/R0rYMIutl2",
+                "expanded_url": "http://cnn.it/1wuOTC0",
+                "display_url": "cnn.it/1wuOTC0"
+            }
+        ]
+    }
+}

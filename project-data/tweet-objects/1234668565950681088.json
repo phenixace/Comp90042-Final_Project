@@ -1,0 +1,69 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 215,
+                "end": 218,
+                "probability": 0.4693,
+                "type": "Organization",
+                "normalized_text": "SARS"
+            },
+            {
+                "start": 305,
+                "end": 309,
+                "probability": 0.8207,
+                "type": "Place",
+                "normalized_text": "china"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 4,
+                "username": "WHO",
+                "id": "14499829"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "username": "WHOWPRO",
+                "id": "3794682452"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "username": "WHOSEARO",
+                "id": "1545915336"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "username": "WHO_Europe",
+                "id": "125403342"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "username": "pahowho",
+                "id": "20629893"
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "username": "WHOEMRO",
+                "id": "259372802"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "username": "WHOAFRO",
+                "id": "544389588"
+            }
+        ]
+    },
+    "in_reply_to_user_id": "14499829",
+    "created_at": "2020-03-03T02:34:59.000Z",
+    "id": "1234668565950681088",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO About 2019nCOV:\n1.For now everything under control.\n2.We believe our country government.\n3.We believe we can win this virus war.\n4.17 years ago we beat SARS, we trust this time we also:can win.Thanks for your support , thanks for praying for china.Thanks for whising us good luck.",
+    "source": "Twitter Web App"
+}

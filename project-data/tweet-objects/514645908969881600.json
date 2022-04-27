@@ -1,0 +1,32 @@
+{
+    "text": "Melentur buluh biarlah dari rebung, iPhone 6 Plus mudah lentur. RT @Gizmodo http://t.co/b7o1tOlKAQ  http://t.co/VOYHvnLOJ9",
+    "created_at": "2014-09-24T05:22:01.000Z",
+    "id": "514645908969881600",
+    "entities": {
+        "mentions": [
+            {
+                "start": 67,
+                "end": 75,
+                "username": "Gizmodo",
+                "id": "2890961"
+            }
+        ],
+        "urls": [
+            {
+                "start": 76,
+                "end": 98,
+                "url": "http://t.co/b7o1tOlKAQ",
+                "expanded_url": "http://gizmo.do/74dBvKC",
+                "display_url": "gizmo.do/74dBvKC"
+            },
+            {
+                "start": 100,
+                "end": 122,
+                "url": "http://t.co/VOYHvnLOJ9",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "display_url": "pic.twitter.com/VOYHvnLOJ9"
+            }
+        ]
+    },
+    "source": "Twitter Web Client"
+}

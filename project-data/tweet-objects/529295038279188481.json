@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 15:32:25+00:00",
+    "id": 529295038279188481,
+    "text": "@fluffyguy I woke up to that fake report on my feed....glad to hear it's fake bro....people are stupid for creating it #livebythecake",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 119,
+                "end": 133,
+                "tag": "livebythecake"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 28245852
+}

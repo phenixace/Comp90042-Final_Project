@@ -1,0 +1,23 @@
+{
+    "text": "@_Flor1daWoman @modernboob ME",
+    "source": "Twitter for iPhone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "_Flor1daWoman",
+                "id": "1269837428"
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "username": "modernboob",
+                "id": "2506443669"
+            }
+        ]
+    },
+    "created_at": "2014-09-23T15:05:09.000Z",
+    "in_reply_to_user_id": "1269837428",
+    "id": "514430271803117568"
+}

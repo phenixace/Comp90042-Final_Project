@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-28 18:40:35+00:00",
+    "id": 1243971260733730819,
+    "text": "@ForSnehadeep Yes right.... Be safe everyone",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "ForSnehadeep",
+                "id": "1229350895881605121"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1229350895881605121
+}

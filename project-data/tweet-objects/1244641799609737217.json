@@ -1,0 +1,15 @@
+{
+    "created_at": "2020-03-30T15:05:04.000Z",
+    "id": "1244641799609737217",
+    "source": "Twitter Web App",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 0,
+                "end": 9,
+                "tag": "Covid_19"
+            }
+        ]
+    },
+    "text": "#Covid_19 Can women with COVID-19 breastfeed?\nYes. Women with COVID-19 can breastfeed if they wish to do so. They should: Practice respiratory hygiene during feeding, wearing a mask where available; Wash hands before and after touching the baby . . ."
+}

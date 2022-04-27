@@ -1,0 +1,25 @@
+{
+    "source": "Twitter for Android",
+    "created_at": "2020-03-31T08:57:25.000Z",
+    "text": "@ChalkyBrush @imperator_v2 What country is that you are talking about? Surely not the US.",
+    "id": "1244911667877724160",
+    "entities": {
+        "annotations": [
+            {
+                "start": 86,
+                "end": 87,
+                "probability": 0.8264,
+                "type": "Place",
+                "normalized_text": "US"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "ChalkyBrush",
+                "id": "926370146"
+            }
+        ]
+    }
+}

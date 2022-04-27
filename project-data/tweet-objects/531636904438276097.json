@@ -1,0 +1,39 @@
+{
+    "created_at": "2014-11-10 02:38:10+00:00",
+    "id": 531636904438276097,
+    "text": "@_DanBoise_ @IGN And Americans think Canadians eat strange things. #sigh",
+    "entities": {
+        "annotations": [
+            {
+                "start": 21,
+                "end": 29,
+                "probability": 0.7237,
+                "type": "Person",
+                "normalized_text": "Americans"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 67,
+                "end": 72,
+                "tag": "sigh"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "_DanBoise_",
+                "id": "197799557"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "username": "IGN",
+                "id": "18927441"
+            }
+        ]
+    },
+    "source": "Tweetbot for i\u039fS",
+    "in_reply_to_user_id": 197799557
+}

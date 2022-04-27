@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-09-08 21:55:00+00:00",
+    "id": 509097597622304768,
+    "text": "@jensan1332 Ought to just shoot the bastard.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "jensan1332",
+                "id": "342737639"
+            }
+        ]
+    },
+    "source": "Twitter Web Client",
+    "in_reply_to_user_id": 342737639
+}

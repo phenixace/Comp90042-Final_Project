@@ -1,0 +1,19 @@
+{
+    "in_reply_to_user_id": "1161205049239859201",
+    "entities": {
+        "urls": [
+            {
+                "start": 226,
+                "end": 249,
+                "url": "https://t.co/2zTqaHmwPH",
+                "expanded_url": "http://indiafactquiz.com",
+                "display_url": "indiafactquiz.com",
+                "unwound_url": "http://indiafactquiz.com"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "created_at": "2020-04-21T11:36:42.000Z",
+    "text": "There is currently no evidence to confirm or disprove that COVID-19 virus can be transmitted through coins or banknotes. However, respiratory droplets expelled from an infected person can contaminate and persist on surfaces.\n\nhttps://t.co/2zTqaHmwPH",
+    "id": "1252561898110808065"
+}

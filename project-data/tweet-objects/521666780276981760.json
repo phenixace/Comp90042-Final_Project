@@ -1,0 +1,28 @@
+{
+    "created_at": "2014-10-13 14:20:27+00:00",
+    "id": 521666780276981760,
+    "text": "@lilduval https://t.co/BYUBQc7mQ7",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "lilduval",
+                "id": "16638685"
+            }
+        ],
+        "urls": [
+            {
+                "start": 10,
+                "end": 33,
+                "url": "https://t.co/BYUBQc7mQ7",
+                "expanded_url": "https://soundcloud.com/dexter-captainweirdo-williams/up-prod-by-pac",
+                "display_url": "soundcloud.com/dexter-captain\u2026",
+                "status": 200,
+                "unwound_url": "https://soundcloud.com/dexter-captainweirdo-williams/up-prod-by-pac"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 16638685
+}

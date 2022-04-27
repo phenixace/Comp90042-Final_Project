@@ -1,0 +1,24 @@
+{
+    "created_at": "2014-11-03 02:03:17+00:00",
+    "id": 529091414681202688,
+    "text": "@fluffyguy they should at least have a mugshot of the #chocolatecake",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 54,
+                "end": 68,
+                "tag": "chocolatecake"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 28245852
+}

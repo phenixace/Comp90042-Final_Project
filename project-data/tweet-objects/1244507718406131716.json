@@ -1,0 +1,53 @@
+{
+    "source": "Twitter for Android",
+    "entities": {
+        "mentions": [
+            {
+                "start": 2,
+                "end": 18,
+                "username": "TeamPakGuardian",
+                "id": "1223702247844040704"
+            }
+        ],
+        "urls": [
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/GjLBYLWvXz",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507718406131716/photo/1",
+                "display_url": "pic.twitter.com/GjLBYLWvXz"
+            },
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/GjLBYLWvXz",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507718406131716/photo/1",
+                "display_url": "pic.twitter.com/GjLBYLWvXz"
+            },
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/GjLBYLWvXz",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507718406131716/photo/1",
+                "display_url": "pic.twitter.com/GjLBYLWvXz"
+            },
+            {
+                "start": 158,
+                "end": 181,
+                "url": "https://t.co/GjLBYLWvXz",
+                "expanded_url": "https://twitter.com/JabeenJuned/status/1244507718406131716/photo/1",
+                "display_url": "pic.twitter.com/GjLBYLWvXz"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 33,
+                "end": 50,
+                "tag": "جومحدود_وہ_محفوظ"
+            }
+        ]
+    },
+    "text": "2\n@TeamPakGuardian \n@JabeenJuned\n#جومحدود_وہ_محفوظ \n a fever (i.e. have a higher than normal body temperature) because of infection with the new coronavirus. https://t.co/GjLBYLWvXz",
+    "id": "1244507718406131716",
+    "created_at": "2020-03-30T06:12:16.000Z"
+}

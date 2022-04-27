@@ -1,0 +1,17 @@
+{
+    "created_at": "2013-10-07 00:39:53+00:00",
+    "id": 387014382053359616,
+    "text": "@michellemalkin it makes sense if you consider the manpower required to barricade AS MUCH OPEN SPACE AS BUREAUCRATIC MANDATES DEEM POSSIBLE",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "michellemalkin",
+                "id": "15976697"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15976697
+}

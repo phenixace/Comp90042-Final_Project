@@ -1,0 +1,26 @@
+{
+    "created_at": "2020-03-31 17:57:33+00:00",
+    "id": 1245047594566508545,
+    "text": "@DrDenaGrayson It would also make the use of masks mandatory for everyone, BTW which is something the CDC has been very reluctant to propose. \n\nThe question I have is why COVID-19 is less transmissible than Measles if it is actually an airborne transmitted disease?",
+    "entities": {
+        "annotations": [
+            {
+                "start": 102,
+                "end": 104,
+                "probability": 0.3877,
+                "type": "Organization",
+                "normalized_text": "CDC"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "DrDenaGrayson",
+                "id": "1651522832"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 15080332
+}

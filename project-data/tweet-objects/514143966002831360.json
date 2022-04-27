@@ -1,0 +1,23 @@
+{
+    "source": "Twitter for Websites",
+    "entities": {
+        "hashtags": [
+            {
+                "start": 46,
+                "end": 59,
+                "tag": "porousborder"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "created_at": "2014-09-22T20:07:28.000Z",
+    "id": "514143966002831360",
+    "text": "@NBCNews Guess they should have headed south. #porousborder"
+}

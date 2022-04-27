@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-07-17 16:49:53+00:00",
+    "id": 489814257312481280,
+    "text": "@HuffPostUK @mehdirhasan inshallah",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 11,
+                "username": "HuffPostUK",
+                "id": "271413771"
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "username": "mehdirhasan",
+                "id": "130557513"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 271413771
+}

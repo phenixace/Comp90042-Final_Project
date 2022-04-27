@@ -1,0 +1,17 @@
+{
+    "source": "Twitter Web App",
+    "created_at": "2020-04-16T18:09:36.000Z",
+    "text": "Yeah, Covid-19 is just like the flu. https://t.co/SfqjwPUfI0",
+    "entities": {
+        "urls": [
+            {
+                "start": 37,
+                "end": 60,
+                "url": "https://t.co/SfqjwPUfI0",
+                "expanded_url": "https://twitter.com/DrEricDing/status/1250438307047038979",
+                "display_url": "twitter.com/DrEricDing/sta…"
+            }
+        ]
+    },
+    "id": "1250848833069875209"
+}

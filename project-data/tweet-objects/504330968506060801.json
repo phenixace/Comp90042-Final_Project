@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-08-26 18:14:07+00:00",
+    "id": 504330968506060801,
+    "text": "@WesleyLowery why would he continue with his convo? I would be headed to my window to find out what was going on.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "WesleyLowery",
+                "id": "14849562"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 14849562
+}

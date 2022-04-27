@@ -1,0 +1,16 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 5,
+                "username": "TIME",
+                "id": "14293310"
+            }
+        ]
+    },
+    "id": "1254781832190496769",
+    "text": "@TIME I just want it to go away ....",
+    "source": "Twitter for iPad",
+    "created_at": "2020-04-27T14:37:56.000Z"
+}

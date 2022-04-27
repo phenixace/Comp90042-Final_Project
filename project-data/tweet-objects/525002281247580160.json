@@ -1,0 +1,28 @@
+{
+    "id": "525002281247580160",
+    "text": "@nachos710 @KatyKatopodis @AP oh please. Settlers have been tormenting Palestinian residents for weeks. Killing 3 kids in the last 2 weeks",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "nachos710",
+                "id": "555977337"
+            },
+            {
+                "start": 11,
+                "end": 25,
+                "username": "KatyKatopodis",
+                "id": "80817644"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "username": "AP",
+                "id": "51241574"
+            }
+        ]
+    },
+    "source": "Twitter for iPad",
+    "created_at": "2014-10-22T19:14:32.000Z"
+}

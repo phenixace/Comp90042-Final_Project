@@ -1,0 +1,23 @@
+{
+    "created_at": "2020-04-21 03:40:53+00:00",
+    "id": 1252442156083511302,
+    "text": "@ritz078 @TatianaTMac Tbh I have too much dependence on create-react-app and other boilerplate.\n\nSo much so I don't care about babel and webpack most of the times.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "ritz078",
+                "id": "2437023211"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "username": "TatianaTMac",
+                "id": "1529722572"
+            }
+        ]
+    },
+    "source": "Twitter for Android",
+    "in_reply_to_user_id": 2437023211
+}

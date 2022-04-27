@@ -1,0 +1,17 @@
+{
+    "created_at": "2020-03-08 15:33:00+00:00",
+    "id": 1236676296995995649,
+    "text": "@syb971021 I take it that it could mean different things to people in different countries and cultures.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "syb971021",
+                "id": "4708484599"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 4708484599
+}

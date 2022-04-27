@@ -1,0 +1,16 @@
+{
+    "id": "1249658249055473664",
+    "created_at": "2020-04-13T11:18:38.000Z",
+    "source": "Twitter Web App",
+    "text": "@Iam_STBiyela Interesting how can one join or be a part of?",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "Iam_STBiyela",
+                "id": "3524188397"
+            }
+        ]
+    }
+}

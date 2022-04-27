@@ -1,0 +1,23 @@
+{
+    "created_at": "2014-11-04 00:46:34+00:00",
+    "id": 529434494730633216,
+    "text": "@fred_diblasio @NBCNews \ud83c\udf1d",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 14,
+                "username": "fred_diblasio",
+                "id": "803449104"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 803449104
+}

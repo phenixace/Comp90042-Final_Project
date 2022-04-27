@@ -1,0 +1,46 @@
+{
+    "created_at": "2020-04-23 19:51:30+00:00",
+    "id": 1253411194200715264,
+    "text": "@PhysicsBoyt @washingtonpost So I take it you are glad Trump took measures even before this article came out? Or are you one of the people who thinks Trump acted too late? If so, then WaPo should have known at the time this article came out.",
+    "entities": {
+        "annotations": [
+            {
+                "start": 55,
+                "end": 59,
+                "probability": 0.9995,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 150,
+                "end": 154,
+                "probability": 0.9996,
+                "type": "Person",
+                "normalized_text": "Trump"
+            },
+            {
+                "start": 184,
+                "end": 187,
+                "probability": 0.3752,
+                "type": "Person",
+                "normalized_text": "WaPo"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "PhysicsBoyt",
+                "id": "1026463049354555395"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "username": "washingtonpost",
+                "id": "2467791"
+            }
+        ]
+    },
+    "source": "Twitter Web App",
+    "in_reply_to_user_id": 1026463049354555395
+}

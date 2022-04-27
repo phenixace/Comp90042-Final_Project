@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-11-04 02:01:06+00:00",
+    "id": 529453250781511680,
+    "text": "@NBCNews creepy...",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 14173315
+}

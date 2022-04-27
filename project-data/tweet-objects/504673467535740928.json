@@ -1,0 +1,25 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 34,
+                "end": 56,
+                "url": "http://t.co/akEk7xTzno",
+                "expanded_url": "http://youtu.be/whgYcb5deIA",
+                "display_url": "youtu.be/whgYcb5deIA"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 15,
+                "username": "alsassociation",
+                "id": "21416670"
+            }
+        ]
+    },
+    "created_at": "2014-08-27T16:55:05.000Z",
+    "id": "504673467535740928",
+    "source": "Twitter for Mac",
+    "text": "@alsassociation Douse and Donate! http://t.co/akEk7xTzno"
+}

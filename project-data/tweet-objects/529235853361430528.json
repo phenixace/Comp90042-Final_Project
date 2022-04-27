@@ -1,0 +1,26 @@
+{
+    "created_at": "2014-11-03 11:37:14+00:00",
+    "id": 529235853361430528,
+    "text": "@fluffyguy -well now I can type this without getting trouble but the CBS people are dum ass.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 10,
+                "username": "fluffyguy",
+                "id": "28245852"
+            }
+        ],
+        "annotations": [
+            {
+                "start": 69,
+                "end": 71,
+                "probability": 0.9084,
+                "type": "Organization",
+                "normalized_text": "CBS"
+            }
+        ]
+    },
+    "source": "Mobile Web (M2)",
+    "in_reply_to_user_id": 28245852
+}

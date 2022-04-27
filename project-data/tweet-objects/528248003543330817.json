@@ -1,0 +1,17 @@
+{
+    "created_at": "2014-10-31 18:11:53+00:00",
+    "id": 528248003543330817,
+    "text": "@conncarroll bunch o crap right there. We sacrifice extra income and live within our means to not put our kid in daycare.",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 12,
+                "username": "conncarroll",
+                "id": "15739391"
+            }
+        ]
+    },
+    "source": "Twitter for iPhone",
+    "in_reply_to_user_id": 15739391
+}

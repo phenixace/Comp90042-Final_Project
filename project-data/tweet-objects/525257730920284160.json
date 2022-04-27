@@ -1,0 +1,32 @@
+{
+    "id": "525257730920284160",
+    "created_at": "2014-10-23T12:09:36.000Z",
+    "source": "Twitter for iPhone",
+    "text": "Nah fam RT“@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: http://t.co/4cVeZ8j6K8 http://t.co/R3bL1ugbKQ”",
+    "entities": {
+        "urls": [
+            {
+                "start": 92,
+                "end": 114,
+                "url": "http://t.co/4cVeZ8j6K8",
+                "expanded_url": "http://abcn.ws/1wsBVlR",
+                "display_url": "abcn.ws/1wsBVlR"
+            },
+            {
+                "start": 115,
+                "end": 137,
+                "url": "http://t.co/R3bL1ugbKQ",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "display_url": "pic.twitter.com/R3bL1ugbKQ"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 11,
+                "end": 15,
+                "username": "ABC",
+                "id": "28785486"
+            }
+        ]
+    }
+}

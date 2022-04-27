@@ -1,0 +1,23 @@
+{
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 8,
+                "username": "NBCNews",
+                "id": "14173315"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "username": "PortlandPolice",
+                "id": "14604442"
+            }
+        ]
+    },
+    "created_at": "2014-09-25T09:35:51.000Z",
+    "text": "@NBCNews @PortlandPolice  This is the way to bring bad news. Better news about cops you couldn't inmagine.",
+    "id": "515072178182959105",
+    "in_reply_to_user_id": "14173315",
+    "source": "Twitter Web Client"
+}

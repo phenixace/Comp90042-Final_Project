@@ -1,0 +1,17 @@
+{
+    "source": "Twitter for iPad",
+    "entities": {
+        "urls": [
+            {
+                "start": 76,
+                "end": 99,
+                "url": "https://t.co/kYAlcC2hgJ",
+                "expanded_url": "https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how",
+                "display_url": "vox.com/2020/2/20/2114…"
+            }
+        ]
+    },
+    "created_at": "2020-02-22T05:24:47.000Z",
+    "id": "1231087418121449472",
+    "text": "Coronavirus: How does Covid-19 spread? These new studies offer clues. - Vox https://t.co/kYAlcC2hgJ"
+}

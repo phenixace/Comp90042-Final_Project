@@ -1,0 +1,24 @@
+{
+    "entities": {
+        "urls": [
+            {
+                "start": 182,
+                "end": 205,
+                "url": "https://t.co/7RUUWdpKDW",
+                "expanded_url": "https://twitter.com/AIRTEL_KE/status/1249657564221956099/photo/1",
+                "display_url": "pic.twitter.com/7RUUWdpKDW"
+            }
+        ],
+        "hashtags": [
+            {
+                "start": 167,
+                "end": 181,
+                "tag": "BeSmartBeSafe"
+            }
+        ]
+    },
+    "created_at": "2020-04-13T11:15:55.000Z",
+    "id": "1249657564221956099",
+    "source": "Emplifi",
+    "text": "Practice caution and safety to protect yourself as well as others from the spread of COVID-19. Dial *719# or call 719 Toll free on your Airtel line and stay informed! #BeSmartBeSafe https://t.co/7RUUWdpKDW"
+}

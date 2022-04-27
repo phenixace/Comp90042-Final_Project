@@ -1,0 +1,31 @@
+{
+    "entities": {
+        "annotations": [
+            {
+                "start": 42,
+                "end": 47,
+                "probability": 0.9334,
+                "type": "Place",
+                "normalized_text": "Canada"
+            }
+        ],
+        "mentions": [
+            {
+                "start": 0,
+                "end": 13,
+                "username": "JayRooTheDee",
+                "id": "2413247540"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "username": "NBCNews",
+                "id": "14173315"
+            }
+        ]
+    },
+    "source": "Twitter for Websites",
+    "created_at": "2014-09-22T20:09:04.000Z",
+    "id": "514144367473217536",
+    "text": "@JayRooTheDee @NBCNews I would think it's Canada that has the secure border, not us.  Would be nice, though."
+}

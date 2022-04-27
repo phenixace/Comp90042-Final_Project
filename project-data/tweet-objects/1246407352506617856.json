@@ -1,0 +1,24 @@
+{
+    "source": "True Anthem",
+    "text": "How Does COVID-19 Spread? https://t.co/RNI8o1v7xK https://t.co/qLuIbZxfu3",
+    "entities": {
+        "urls": [
+            {
+                "start": 26,
+                "end": 49,
+                "url": "https://t.co/RNI8o1v7xK",
+                "expanded_url": "https://minnesota.cbslocal.com/2020/04/03/how-does-covid-19-spread/?taid=5e8876eb9a7fcd0001c4b119&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+                "display_url": "minnesota.cbslocal.com/2020/04/03/how…"
+            },
+            {
+                "start": 50,
+                "end": 73,
+                "url": "https://t.co/qLuIbZxfu3",
+                "expanded_url": "https://twitter.com/WCCO/status/1246407352506617856/photo/1",
+                "display_url": "pic.twitter.com/qLuIbZxfu3"
+            }
+        ]
+    },
+    "id": "1246407352506617856",
+    "created_at": "2020-04-04T12:00:44.000Z"
+}

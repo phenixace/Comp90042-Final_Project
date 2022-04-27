@@ -1,0 +1,17 @@
+{
+    "id": "273224999287025664",
+    "in_reply_to_user_id": "14075928",
+    "source": "TweetDeck",
+    "text": "@TheOnion \nIs this story true or FAKING NEWS??",
+    "created_at": "2012-11-27T00:41:30.000Z",
+    "entities": {
+        "mentions": [
+            {
+                "start": 0,
+                "end": 9,
+                "username": "TheOnion",
+                "id": "14075928"
+            }
+        ]
+    }
+}
