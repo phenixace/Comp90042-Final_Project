@@ -4,27 +4,36 @@ import torch
 import numpy as np
 import paddle
 
-from nltk.corpus import stopwords
-stopwords = set(stopwords.words('english'))
-def clean_stopwords(text):
-    return ' '.join([word for word in text.split() if word not in stopwords])
+def remove_stop_words(text):
+    f = open('./project-data/stop_words.txt')
+    lines = f.readlines()
+    f.close()
+
+    for line in lines:
+        stop_word = line.strip('\n')
+        text = re.sub(stop_word,"",text)
+    return text
+
+def filter(text):
+    pattern = re.compile("[^ ^'^,^.^!^?^a-z^A-Z^0-9]")
+    text = pattern.sub('', text)
+
+    text = re.sub(" +"," ",text)
+    return text
 
 def clean_text(text):
-    # clean @at, namely clean username
-    text = re.sub('@[^\s]+', '', text)
-    # clean URLs
-    text = re.sub('((www\.[^\s]+)|(https?://[^\s]+))', '', text)
-    # clean numbers
-    text = re.sub('[0-9]+\. ', '', text)
-    text = re.sub('[0-9]+', '', text)
-    # remove non-english words if neccessary
-    text = re.sub('[^a-z^A-Z^ ^,^.^!^?^’]', '', text)
-    text = re.sub('  ', ' ', text)
+    # remove urls
+    text = re.sub('((www\.[^\s]+)|(https?://[^\s]+))',' ',text)
+    # remove @somebody
+    text = re.sub(r"@\S+","",text)
 
-    text = re.sub('covid', 'virus', text)
-    text = re.sub('coronavirus', 'virus', text)
-    # lower if neccessary
-    return text.lower()
+    # remove #topic
+    text = re.sub(r"#\S+","",text)
+
+    # clean unrecognizable characters
+    text = filter(text)
+
+    return text.strip()
 
 def save(model, tokenizer, dir_path, name):
     path = os.path.join(dir_path, "checkpoint")

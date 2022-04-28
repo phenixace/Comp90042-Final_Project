@@ -10,17 +10,17 @@ from dataset import MyDataset, Collator
 parser = argparse.ArgumentParser(description='Model parameters')
 
 parser.add_argument('--random_seed', type=int, default=1022, help='Choose random_seed')
-parser.add_argument('--model', default='bart',help='Sevral models are available: Bart | Bert | T5')
-parser.add_argument('--model_path', default='./models/bart-base/checkpoint/bart-step-4000', help="use local model weights if specified")
-parser.add_argument('--save_path', default='./models/bart-base', help="where to save the model")
+parser.add_argument('--model', default='bert',help='Sevral models are available: Bart | Bert | T5')
+parser.add_argument('--model_path', default='none', help="use local model weights if specified")
+parser.add_argument('--save_path', default='./models/bert-base', help="where to save the model")
 parser.add_argument('--total_steps', type=int, default=5000, help='Set training steps')
 parser.add_argument('--eval_steps', type=int, default=500, help='Set evaluation steps')
 parser.add_argument('--batch_size', type=int, default=4, help='Set batch size')
-parser.add_argument('--lr', type=float, default=5e-3, help='Set learning rate')
+parser.add_argument('--lr', type=float, default=5e-4, help='Set learning rate')
 parser.add_argument('--optim', default='Adam', help='Choose optimizer')
 parser.add_argument('--warmup_steps', type=int, default=1000, help='WarmUp Steps')
 parser.add_argument('--lrscheduler', action='store_true', help='Apply LRScheduler')
-parser.add_argument('--mode', default='inference',help='train, test, or inference')
+parser.add_argument('--mode', default='train',help='train, test, or inference')
 parser.add_argument('--device', default='cuda:0',help='Device')
 
 if __name__ == '__main__':
@@ -40,8 +40,8 @@ if __name__ == '__main__':
 
     elif args.model == 'roberta':
         if args.model_path == "none":
-            model = transformers.RobertaForSequenceClassification.from_pretrained(num_labels = 2)
-            tokenizer = transformers.RobertaTokenizer.from_pretrained(num_labels = 2)
+            model = transformers.RobertaForSequenceClassification.from_pretrained('roberta-base',num_labels = 2)
+            tokenizer = transformers.RobertaTokenizer.from_pretrained('roberta-base', num_labels = 2)
         else:
             model = transformers.RobertaForSequenceClassification.from_pretrained(args.model_path, num_labels = 2)
             tokenizer = transformers.RobertaTokenizer.from_pretrained(args.model_path, num_labels = 2)
@@ -49,8 +49,8 @@ if __name__ == '__main__':
 
     elif args.model == 'bert':
         if args.model_path == "none":
-            model = transformers.BertForSequenceClassification.from_pretrained(num_labels = 2)
-            tokenizer = transformers.BertTokenizer.from_pretrained(num_labels = 2)
+            model = transformers.BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels = 2)
+            tokenizer = transformers.BertTokenizer.from_pretrained('bert-base-uncased', num_labels = 2)
         else:
             model = transformers.BertForSequenceClassification.from_pretrained(args.model_path, num_labels = 2)
             tokenizer = transformers.BertTokenizer.from_pretrained(args.model_path, num_labels = 2)
@@ -174,6 +174,23 @@ if __name__ == '__main__':
                             f.write('True:'+str(labels[i].data)+'\tPred:'+str(pred_labels[i])+'\n')
 
                 index += len(pred_labels)
+    elif args.mode == 'process':
+        model.eval()
+        index = 0
+
+        import pandas as pd
+        covid_data = pd.read_csv('./project-data/covid19_tweets.csv')
+
+        with open('./results/covid19_tweets_processed.csv', 'w+', encoding='utf-8') as f:
+            f.write('label\n')
+
+            for i in range(len(covid_data)):
+                text = covid_data['text'][i]
+                text = tokenizer(text, return_tensors='pt', padding='max_length', max_length=512, truncation=True)
+                output = model(**text.to(args.device)).logits
+                        
+                pred_labels = [item.argmax().item() for item in output]
+                f.write(str(pred_labels[0]) + '\n')
 
     else:
         raise RuntimeError("[Error] Mode not in the scope!")
