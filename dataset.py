@@ -175,19 +175,12 @@ class Dataset4SKEP(Dataset):
 
 
 if __name__ == '__main__':
-    myset = MyDataset(mode='train')
-    tl = 0
-    ml = 0
-    num = 0
+    myset = MyDataset(mode='test')
+    labels = []
     for i in range(0, len(myset)):
-        cur = len(myset[i]['text'].split(' '))
-        if cur > ml:
-            ml = cur
-        if cur > 512:
-            num += 1
-        tl += cur
-    print(myset.mode)
-    print('average length', tl / len(myset))
-    print('max length', ml)
-    print('Total instances', len(myset))
-    print('Greater than 512', num)
+        labels = input(myset[i])
+    
+    with open('text.label.txt', 'w+') as f:
+        for label in labels:
+            f.write(label+'\n')
+        
