@@ -2,7 +2,7 @@
 
 ## Contributor
 1. Jiatong Li - 1291929
-2. Sherry Wang - 
+2. Yanyi Wang - 1267380
 3. Moxuan Zhang - 
 
 ## Dependecies
