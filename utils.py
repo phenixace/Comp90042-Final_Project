@@ -9,9 +9,15 @@ def remove_stop_words(text):
     lines = f.readlines()
     f.close()
 
+    text = text.lower()
+
     for line in lines:
         stop_word = line.strip('\n')
         text = re.sub(stop_word,"",text)
+
+    text = re.sub("covid19", "virus", text)
+    text = re.sub("covid-19", "virus", text)
+    text = re.sub("covid 19", "virus", text)
     return text
 
 def filter(text):

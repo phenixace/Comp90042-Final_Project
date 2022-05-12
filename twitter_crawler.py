@@ -11,8 +11,8 @@ tokens = ['AAAAAAAAAAAAAAAAAAAAAOc2bwEAAAAApzOw5HyCVzlOoyIC9HvHQ6NG0YE%3D4E5Wvrf
 index = 0
 header = {'Authorization': 'Bearer '+tokens[index]}
 
-file = './project-data/dev.data.txt'
-folder = './project-data/dev-tweet-objects/'
+file = './project-data/covid.data.txt'
+folder = './project-data/task2-tweet-objects/'
 f = open(file, 'r')
 lines = f.readlines()
 f.close()
