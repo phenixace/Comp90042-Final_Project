@@ -1,9 +1,9 @@
 # Group Project - Comp90042: Natural Language Processing 
 
 ## Contributor
-1. Jiatong Li - 1291929
-2. Sherry Wang - 1267380
-3. Moxuan Zhang - 1221707
+1. Jiatong Li 
+2. Sherry Wang 
+3. Moxuan Zhang 
 
 ## Dependecies
 * pytorch 1.9.0 + cuda 11.1
